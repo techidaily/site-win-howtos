@@ -1,7 +1,7 @@
 ---
 title: How to Resolve a Malfunctioning Corsair Keyboard Quickly and Effectively
-date: 2024-11-16T22:28:41.339Z
-updated: 2024-11-19T00:39:46.451Z
+date: 2024-11-26T04:02:16.866Z
+updated: 2024-11-27T22:45:25.481Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 4. **[Use a different user profile](#f4)**
 5. **[Check hardware issues](#f5)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Turn off Mouse Keys
 
 #### On Windows 10
@@ -43,34 +47,17 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ed1505fee.png)
 3. Click**Ease of Access** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2edebb4167.jpg)
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee1e422d4.jpg)
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### On Windows 11
 
@@ -81,34 +68,28 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-mouse-keys.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Open Word or Notepad to test if the number keys on your keyboard can work now.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Enable the NumLock key
 
  Look on your keyboard for a key that says **NumLock** and make sure to enable the key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2eecb19e08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the**NumLock** key is disabled, the number keys on the right side of your keyboard will not work.
 
  If the NumLock key is enabled and the number keys still don’t work, you can try pressing the NumLock key for about**5 seconds** , which did the trick for some users.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -126,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ebe32f70f.jpg)
 3. Click the**Update** button next to your keyboard to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ec4831bd8.jpg)  
@@ -168,16 +153,22 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-artistarc-complete-assessment-and-tutorial-series-24-for-2024/"><u>[Updated] ArtistArc Complete Assessment & Tutorial Series '24 for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-elevate-your-farming-adventures-with-stardews-top-7-mods-for-2024/"><u>[Updated] Elevate Your Farming Adventures with Stardew's Top 7 Mods for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hdmi-detection-error-in-windows-10-tips-and-solutions-for-connecting-your-television/"><u>HDMI Detection Error in Windows 10: Tips and Solutions for Connecting Your Television</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a05s-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Itel A05s Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-and-performance-testing-for-the-zmi-20kw-energy-storage-unit/"><u>In-Depth Analysis and Performance Testing for the ZMI 20kW Energy Storage Unit</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/social-screen-grabber-kit/"><u>Social Screen Grabber Kit</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-connecting-airpods-efficiently-with-microsofts-latest-operating-systems-insider-advice-from-2024/"><u>Step-by-Step Fix: Connecting AirPods Efficiently with Microsoft's Latest Operating Systems - Insider Advice From 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-memory-dump-files-on-windows-10/"><u>Step-by-Step Guide: Removing Memory Dump Files on Windows 10</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-speedy-photographers-guide-to-google-collage-crafting/"><u>The Speedy Photographer's Guide to Google Collage Crafting</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205362915-troubleshooting-tips-for-overcoming-steam-bootstrapper-errors-now-resolved/"><u>Troubleshooting Tips for Overcoming Steam Bootstrapper Errors – Now Resolved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-wow-correcting-unmatched-device-drivers/"><u>Troubleshooting WoW: Correcting Unmatched Device Drivers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-acoustic-additions-for-your-chat-status/"><u>[New] Acoustic Additions for Your Chat Status</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-virtual-realms-with-top-gadgets-and-peripherals/"><u>[Updated] Explore Virtual Realms with Top Gadgets and Peripherals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-resolving-the-frustrating-quirks-of-apples-latest-iphone-a-must-read-guide-tech-insider/"><u>1. Resolving the Frustrating Quirks of Apple's Latest iPhone: A Must-Read Guide | Tech Insider</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-excellence-in-depth-review-of-the-tp-link-archer-a6-ac1200-value-for-money-in-networking/"><u>Affordable Excellence: In-Depth Review of the TP-Link Archer A6 AC1200 - Value for Money in Networking</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/collaborative-venture-openai-joins-forces-with-innovators-to-forge-next-gen-intelligent-systems-for-bipedal-machines-covered-by-zdnet/"><u>Collaborative Venture: OpenAI Joins Forces With Innovators To Forge Next-Gen Intelligent Systems for Bipedal Machines, Covered by ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-the-bad-image-problem-in-microsofts-latest-operating-systems/"><u>Diagnosing and Repairing the 'Bad Image' Problem in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-non-charging-problems-in-windows-7-and-windows-10/"><u>Effective Fixes for Non-Charging Problems in Windows 7 and Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-fixing-windows-11-update-error-code-0xc1900208/"><u>Effective Solutions: Fixing Windows 11 Update Error Code 0xC1900208</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-the-bug-in-call-of-duty-wwii-game-error-code-erupted-4220/"><u>Fix the Bug in Call of Duty WWII Game (Error Code Erupted: 4220)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-the-dilemma-of-non-detected-headphones-in-your-device/"><u>How to Solve the Dilemma of Non-Detected Headphones in Your Device</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-revive-the-past-best-ps1-emulation-software-for-modern-systems/"><u>In 2024, Revive the Past Best PS1 Emulation Software for Modern Systems</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/navigating-the-path-to-popularity-secrets-of-successful-tiktok-unboxers/"><u>Navigating the Path to Popularity Secrets of Successful TikTok Unboxers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/precision-in-sound-cutting-out-unwanted-volume-for-2024/"><u>Precision in Sound Cutting Out Unwanted Volume for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-incompatible-device-drivers-on-your-system-detected-solutions/"><u>Resolved: Incompatible Device Drivers on Your System Detected - Solutions!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solutions-for-total-war-rome-remastered-bug-fixes/"><u>Troubleshooting and Solutions for Total War: Rome Remastered Bug Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-correcting-the-entry-point-not-detected-on-windows/"><u>Troubleshooting: Correcting the 'Entry Point Not Detected' On Windows</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-reverse-tiktok-videos-like-a-pro-a-step-by-step-tutorial-for-2024/"><u>Updated Reverse TikTok Videos Like a Pro A Step-by-Step Tutorial for 2024</u></a></li>
 </ul></div>
 

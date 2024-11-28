@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Peak Performance for Gamers: Essential Tweaks for Windows 11 Systems"
-date: 2024-11-16T19:07:57.671Z
-updated: 2024-11-18T19:10:16.057Z
+date: 2024-11-27T05:26:38.342Z
+updated: 2024-11-28T05:09:48.432Z
 tags:
   - win11
   - win10
@@ -37,6 +37,11 @@ Then type **msconfig** in the box and hit **Enter**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-2.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 b)  
 On the pop-up window, view on **Boot** pane.  
 Then tick on **Safe boot**and click **OK**.  
@@ -44,6 +49,11 @@ Click **Restart**, if prompted by system configuration
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then your Windows 10 would get into safe mode.  
   
 2)  
@@ -70,16 +80,18 @@ This time uncheck **Safe boot** to reboot your Windows 10.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/5-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5)  
 
 When it finish rebooting, run System Restore again.  
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Fix Two. Rename the WindowsApps folder in WinRE**
@@ -95,26 +107,12 @@ Then click **Update & security**.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 b)  
 Click **Recovery**.  
 Then scroll down on the right side and click **Restart now** under **Advanced startup** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-2.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 c)  
 Click**Troubleshoot** \> **Advanced** \>**Command Prompt**.
@@ -123,16 +121,7 @@ Click**Troubleshoot** \> **Advanced** \>**Command Prompt**.
   
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2)  
@@ -165,24 +154,22 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-maximize-video-discoverability-key-youtube-seo-techniques/"><u>[New] 2024 Approved Maximize Video Discoverability Key YouTube SEO Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-visuals-iphone-magnification-hacks/"><u>Enhancing Visuals IPhone Magnification Hacks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/geforce-7025-no-more-win11-issues/"><u>GeForce 7025, No More Win11 Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/google-play-passs-brilliance-overshadowed-by-a-small-problem/"><u>Google Play Pass's Brilliance Overshadowed by a Small Problem</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-apple-iphone-14-location-on-viber-drfone-by-drfone-virtual-ios/"><u>How to Change/Fake Your Apple iPhone 14 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-connectivity-problems-dealing-with-a-non-reactive-dhcp-server/"><u>How to Resolve Connectivity Problems: Dealing with a Non-Reactive DHCP Server</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-lava-storm-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Lava Storm 5G</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/league-of-legends-download-speed-optimization-no-more-slowdowns/"><u>League of Legends Download Speed Optimization - No More Slowdowns</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-game-interruptions-mastering-stability-in-total-war-rome-remastered/"><u>No More Game Interruptions: Mastering Stability in Total War: Rome Remastered</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-windows-update-hurdle-tackling-the-0x80e0f0922-code-with-eight-proven-fixes/"><u>Overcome Windows Update Hurdle: Tackling the 0X80e0f0922 Code with Eight Proven Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-your-windows-10-stuck-update-dilemma-today/"><u>Overcome Your Windows 10 Stuck Update Dilemma Today!</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/realms-reborn-state-of-the-art-virtual-experience-for-2024/"><u>Realms Reborn State-of-the-Art Virtual Experience for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revived-windows-audio-win-1011-troubleshooting-guide/"><u>Revived Windows Audio: Win 10/11 Troubleshooting Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-to-common-media-device-not-recognized-issues-correcting-missing-drivers/"><u>Solution to Common 'Media Device Not Recognized' Issues: Correcting Missing Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212111404-solve-overwatch-voice-chat-not-working-issues-easily/"><u>Solve Overwatch Voice Chat Not Working Issues. Easily!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-cast-to-device-not-working-dilemma-on-your-windows-11-pc/"><u>Solving the 'Cast to Device Not Working' Dilemma on Your Windows 11 PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-xiaomi-redmi-13c-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-countdown-magic-discover-10-must-have-androidios-clocks/"><u>[New] Countdown Magic Discover 10 Must-Have Android/iOS Clocks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-master-the-art-of-superior-image-quality-enable-youtubes-av1/"><u>[Updated] Master the Art of Superior Image Quality Enable YouTube's AV1</u></a></li>
+<li><a href="https://driver-install.techidaily.com/a-beginners-guide-to-fixing-print-issues-on-old-systems/"><u>A Beginner’s Guide to Fixing Print Issues on Old Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/defeating-windows-update-hurdles-expert-strategies-to-address-error-0x8024a105/"><u>Defeating Windows Update Hurdles: Expert Strategies to Address Error 0X8024a105</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-dealing-with-the-invalid-directory-problem/"><u>Expert Tips for Dealing with the 'Invalid Directory' Problem</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-your-hands-on-the-macbook-air-m1-for-only-649-exclusive-lowest-prices-today/"><u>Get Your Hands-On the MacBook Air M1 for Only $649 – Exclusive Lowest Prices Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/issue-resolved-keyboard-now-responding-say-goodbye-to-typos/"><u>Issue Resolved: Keyboard Now Responding - Say Goodbye to Typos!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/lenovo-simple-recording-techniques-for-2024/"><u>Lenovo Simple Recording Techniques for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722959421274-recapitulation-of-hahron-spices-strengths-and-unique-selling-propositions-in-the-chemical-industry/"><u>Recapitulation of HAHRON SPICE's Strengths and Unique Selling Propositions in the Chemical Industry</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-fixing-windows-boot-up-missing-executable-file-issue/"><u>Step-by-Step Solutions for Fixing Windows Boot Up: Missing Executable File Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211374264-stop-worrying-about-your-huion-device-discover-these-5-quick-pen-repair-tips/"><u>Stop Worrying About Your Huion Device; Discover These 5 Quick Pen Repair Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tame-cpu-surge-from-wmis/"><u>Tame CPU Surge From WMIs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-cable-modemrouter-combos-of-2024/"><u>The Best Cable Modem/Router Combos of 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/670809-9781846947377-the-reiki-man/"><u>The Reiki Man | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-ps4-network-issues-a-detailed-walkthrough/"><u>Troubleshooting and Fixing PS4 Network Issues: A Detailed Walkthrough</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-resolve-the-dx11-feature-level-100-issue-in-wwe-2k-battlegrounds/"><u>Troubleshooting Steps to Resolve the DX11 Feature Level 10.0 Issue in WWE 2K Battlegrounds</u></a></li>
 </ul></div>
 

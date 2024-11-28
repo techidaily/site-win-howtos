@@ -1,7 +1,7 @@
 ---
 title: "Master the Fix for Windows 11 Update Error: Understanding and Solving 0X80240034"
-date: 2024-11-15T02:06:08.245Z
-updated: 2024-11-19T00:51:26.558Z
+date: 2024-11-22T20:11:27.186Z
+updated: 2024-11-28T07:40:55.706Z
 tags:
   - win11
   - win10
@@ -49,19 +49,24 @@ To restore it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af9f67c0fe4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Yes**  when prompted by User Account Control.
 
  5) Name the new folder: **AUInstallAgent** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afa05bc9916.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Reboot your Windows 8\. Then go to the Windows App Store to install the app again to see if it’s successful.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## For Windows 10/8.1 users: Restore AppReadiness directory in the Windows Folder
@@ -72,46 +77,27 @@ To restore it:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **E** at the same time to invoke the File Explorer window.
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Go to **This PC**  \> **Local Disk (C:)**  \> **Windows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af9ed488157.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **3) Right-click on the blank area to click New, then Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af9f67c0fe4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click**Yes**  when prompted by User Account Control.
 
  5) Name the new folder:   **AppReadiness** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afa57cdd600.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Reboot your Windows 10/8.1\. Then go to the Windows App Store to install the app again to see if it’s successful.
 
@@ -132,18 +118,14 @@ To restore it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-enhance-listening-pleasure-constructing-a-youtube-playlist-for-2024/"><u>[New] Enhance Listening Pleasure Constructing a YouTube Playlist for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723203090666-solved-windows-10-taskbar-frozen-top-effective-ways/"><u>[Solved] Windows 10 Taskbar Frozen - Top Effective Ways</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-adding-videos-to-written-work-a-budget-friendly-way/"><u>[Updated] In 2024, Adding Videos to Written Work A Budget-Friendly Way</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-your-influence-amidst-changing-social-media-ecosystem/"><u>[Updated] Mastering Your Influence Amidst Changing Social Media Ecosystem</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-your-browsers-sudden-shift-to-a-black-screen/"><u>Easy Fixes for Your Browser's Sudden Shift to a Black Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-overcoming-errors-in-windows-system-file-checker-tool/"><u>Effective Solutions for Overcoming Errors in Windows System File Checker Tool</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-iphone-6-plus-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210501674-9798985634815-my-little-town/"><u>My Little Town | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-how-to-fix-microsoft-store-not-responding-problem/"><u>Solution: How to Fix Microsoft Store Not Responding Problem</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcoming-minecrafts-error-code-5-challenge/"><u>Troubleshooting Guide: Overcoming Minecraft's Error Code 5 Challenge</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-access-is-forbidden-problem-on-your-site-403-error/"><u>Troubleshooting the 'Access Is Forbidden' Problem on Your Site (403 Error)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-using-the-final-cut-pro-compressor-best-practices-common-hitches-and-effective-remedies/"><u>Ultimate Guide to Using the Final Cut Pro Compressor - Best Practices, Common Hitches & Effective Remedies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-top-tips-navigating-the-latest-facebook-features/"><u>2024 Approved Top Tips Navigating the Latest Facebook Features</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/asus-bw-16d1x-u-blu-ray-writer-a-detailed-review-of-its-charming-aesthetics-and-minor-flaws/"><u>Asus BW-16D1X-U Blu-Ray Writer: A Detailed Review of Its Charming Aesthetics and Minor Flaws</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/crackle-free-audio-effective-solutions-for-clearing-up-sound-on-windows-11-and-7-computers/"><u>Crackle-Free Audio: Effective Solutions for Clearing Up Sound on Windows 11 and 7 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-hp-laptop-usb-port-troubleshooting-step-by-step-repair-tips/"><u>DIY HP Laptop USB Port Troubleshooting: Step-by-Step Repair Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-activating-touchscreen-capabilities-on-computers-with-disabled-stylus-access/"><u>Guide to Activating Touchscreen Capabilities on Computers with Disabled Stylus Access</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-poco-x6-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Poco X6 Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-navigating-the-world-of-gopro-streaming-and-social-media-networks/"><u>In 2024, Navigating the World of Gopro Streaming and Social Media Networks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-the-remarkable-effects-of-asmr-on-you/"><u>In 2024, The Remarkable Effects of ASMR on You</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-is-google-chrome-freezing-expert-tips-for-resolving-non-responsive-issues/"><u>Why Is Google Chrome Freezing? Expert Tips for Resolving Non-Responsive Issues</u></a></li>
 </ul></div>
 

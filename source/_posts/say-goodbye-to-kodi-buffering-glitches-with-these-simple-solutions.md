@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Kodi Buffering Glitches with These Simple Solutions
-date: 2024-09-11T15:25:08.321Z
-updated: 2024-09-12T15:25:08.321Z
+date: 2024-11-26T23:46:50.240Z
+updated: 2024-11-28T13:25:08.938Z
 tags:
   - win11
   - win10
@@ -45,13 +45,15 @@ Quick Fix:**Install & update drivers automatically**
 
 1. Select Add-ons in the Kodi home screen and click**One Nation Portal** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/527.jpg)
 2. Click**Internet Tools** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5271.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click**Speed Tester** and wait for the testing result.![](https://images.drivereasy.com/wp-content/uploads/2019/05/5272.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Usually, a large, HD content will require a high speed. If the problem is due to low internet speed, you can try[Fix 1](https://tools.techidaily.com/drivereasy/download/) .
@@ -63,13 +65,6 @@ Quick Fix:**Install & update drivers automatically**
 1. [Stop Kodi buffering issue with a VPN](https://tools.techidaily.com/drivereasy/download/)
 2. [Adjust video cache size with One nation](https://tools.techidaily.com/drivereasy/download/)
 3. [Clear Kodi cache with One nation](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Stop Kodi buffering issue with a VPN
 
@@ -87,14 +82,11 @@ Quick Fix:**Install & update drivers automatically**
 2. Run NordVPN and open it.
 3. Connect to a server in a chosen location.![](https://images.drivereasy.com/wp-content/uploads/2019/05/nord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Coupon tip** : Get a **[NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/)**  before you buy it!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust video cache size with One nation
 
@@ -103,51 +95,19 @@ Quick Fix:**Install & update drivers automatically**
 1. Select Add-ons in the Kodi home screen and click**One Nation Porta** l.![](https://images.drivereasy.com/wp-content/uploads/2019/05/527-1.jpg)
 2. Click**Maintenance** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click System Tweaks/Fixes.![](https://images.drivereasy.com/wp-content/uploads/2019/05/5273.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click**Quick Configure AdvancedSettings.xml** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5274.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Adjust the video cache size and then click**Write file** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5275.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Restart Kodi and check the buffering problem is still there or not.
 
@@ -159,20 +119,10 @@ Quick Fix:**Install & update drivers automatically**
 2. Click**Maintenance** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-2.jpg)
 3. Click**Cleaning Tools** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/3-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Choose**Clear Cache** . Or choose**Total Clean Up** , which also helps to play videos smoothly in Kodi.![](https://images.drivereasy.com/wp-content/uploads/2019/05/4-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Follow the on-screen instructions to finish the process.
@@ -195,5 +145,21 @@ Quick Fix:**Install & update drivers automatically**
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ynamic-descriptor-constructor/"><u>[New] Dynamic Descriptor Constructor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-shell-infrastructure-host-high-cpu-on-windows-1111/"><u>[SOLVED] Shell Infrastructure Host High CPU on Windows 11/11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-report-on-djis-inspire-1/"><u>[Updated] Comprehensive Report on DJI's Inspire 1</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-first-film-experience-selecting-best-gopro-gear/"><u>2024 Approved First Film Experience Selecting Best GoPro Gear</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ai-powered-smooth-motion-editing-with-winxvideo/"><u>AI-Powered Smooth Motion Editing with WinxVideo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-d3derr-not-available-error-on-your-pc-or-laptop/"><u>Comprehensive Fixes for 'D3DERR NOT AVAILABLE' Error on Your PC or Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-resolution-for-0xc0000098-in-windows-effective-troubleshooting-tactics/"><u>Error Resolution for 0xC0000098 in Windows: Effective Troubleshooting Tactics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-nonfunctional-camera-on-your-hp-laptop-running-windows-aturate-with-an-active-and-dynamic-atmosphere/"><u>Fixing a Nonfunctional Camera on Your HP Laptop Running Windows Aturate with an Active and Dynamic Atmosphere</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-unresponsive-usb-connections-in-windows-11-for-seamless-device-integration/"><u>How to Repair Unresponsive USB Connections in Windows 11 for Seamless Device Integration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-of-a-non-working-dell-camera-in-windows-os/"><u>How to Restore Functionality of a Non-Working Dell Camera in Windows OS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-drivers-for-logitech-g920-to-enhance-your-pc-on-windows-11-1087-download-instantly/"><u>Latest Drivers for Logitech G920 to Enhance Your PC on Windows 11, 10/8/7 - Download Instantly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/melhores-ferramentas-de-conversao-de-dvd-para-mp4-no-cenario-atual-do-windows-1011-and-mac-top-10-listados-para-2amo23/"><u>Melhores Ferramentas De Conversão De DVD Para MP4 No Cenário Atual Do Windows 10/11 & Mac - Top 10 Listados Para 2Amo23!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unsticking-the-home-button-on-your-iphone-try-these-5-fast-fixes-first/"><u>Unsticking the Home Button on Your iPhone? Try These 5 Fast Fixes First</u></a></li>
+</ul></div>
 

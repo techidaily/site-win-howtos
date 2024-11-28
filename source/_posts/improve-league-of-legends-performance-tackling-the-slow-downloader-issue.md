@@ -1,7 +1,7 @@
 ---
 title: "Improve League of Legends Performance: Tackling the Slow Downloader Issue"
-date: 2024-11-17T23:24:46.916Z
-updated: 2024-11-18T18:32:12.790Z
+date: 2024-11-25T02:09:56.445Z
+updated: 2024-11-27T18:33:22.017Z
 tags:
   - win11
   - win10
@@ -66,17 +66,18 @@ Downloading again to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Re-download to check.
 
@@ -86,10 +87,7 @@ Re-download to check.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Manually install .NET framework 3.5
@@ -99,13 +97,6 @@ Re-download to check.
  So you can[download](https://www.microsoft.com/en-sg/download/details.aspx?id=21) and install the framework to solve the issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus: Update your drivers
 
@@ -137,14 +128,15 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -172,20 +164,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-eliminate-your-streaming-darkness-on-youtube/"><u>[New] In 2024, Eliminate Your Streaming Darkness on YouTube</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-mac-os-unveiled-comprehensive-review-of-screenflow-v4-for-2024/"><u>[New] Mac OS Unveiled Comprehensive Review of ScreenFlow V4 for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-ps5-expansion-leading-external-drives-unveiled/"><u>[Updated] 2024 Approved Ps5 Expansion Leading External Drives Unveiled</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-step-by-step-methodology-for-erasing-canvas-backdrops/"><u>[Updated] In 2024, Step-by-Step Methodology for Erasing Canvas Backdrops</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-overcome-logitech-g930-audio-interruption-issues/"><u>Effective Solutions to Overcome Logitech G930 Audio Interruption Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-annoying-screen-flash-problems-in-windows-11-solutions-unveiled/"><u>Fixing the Annoying Screen Flash Problems in Windows 11 - Solutions Unveiled</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-cinematographic-savoir-faire-food-videographers-essentials/"><u>In 2024, Cinematographic Savoir-Faire Food Videographer's Essentials</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-google-pixel-8-pro-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Google Pixel 8 Pro</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-beyond-quik-exploring-the-best-pc-video-editing-software-for-gopro-users/"><u>New In 2024, Beyond Quik Exploring the Best PC Video Editing Software for GoPro Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimize-msmpengexe-performance-and-reduce-cpu-usage-in-windows-10-fix-guide/"><u>Optimize MsMpEng.exe Performance & Reduce CPU Usage in Windows 10 - Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-windows-device-drivers-power-state-malfunctions-expert-advice/"><u>Overcoming Windows Device Drivers' Power State Malfunctions: Expert Advice</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premium-selection-top-5-budget-friendly-vecto-portals-for-2024/"><u>Premium Selection – Top 5 Budget-Friendly Vecto Portals for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-eliminating-the-error-code-31-on-windows/"><u>Step-by-Step Solution: Eliminating the Error Code 31 on Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-impact-of-vector-databases-on-advancing-ai-technology/"><u>The Impact of Vector Databases on Advancing AI Technology</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-library-classes-on-windows-11-systems-top-strategies/"><u>Troubleshooting Missing Library Classes on Windows 11 Systems - Top Strategies</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-seamless-transition-of-youtube-videos-into-instagram-stories/"><u>[New] 2024 Approved Seamless Transition of YouTube Videos Into Instagram Stories</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-video-segmentation-adding-chapters-for-clarity-for-2024/"><u>[Updated] Vimeo Video Segmentation Adding Chapters for Clarity for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-precision-rhythm-tracking-made-simple-try-these-free-ones/"><u>2024 Approved Precision Rhythm Tracking Made Simple - Try These Free Ones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-restoring-classic-photo-viewing-on-the-modern-windows-11/"><u>2024 Approved Restoring Classic Photo Viewing on the Modern Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-step-by-step-tutorial-for-fixing-the-red-screen-anomaly-on-windows-10-computers/"><u>A Step-by-Step Tutorial for Fixing the Red Screen Anomaly on Windows 10 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-port-reset-failed-warnings-with-easy-fixes-for-your-windows-11-computer/"><u>Bypassing 'Port Reset Failed' Warnings with Easy Fixes for Your Windows 11 Computer</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-honor-70-lite-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Honor 70 Lite 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-thumbnail-heights-in-windows-11-ui/"><u>Customize Thumbnail Heights in Windows 11 UI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-troubleshooting-guide-resolving-minecraft-performance-problems/"><u>Easy Troubleshooting Guide: Resolving Minecraft Performance Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-resolving-usb-mouse-connectivity-issues-on-your-personal-computer/"><u>Expert Tips for Resolving USB Mouse Connectivity Issues on Your Personal Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-your-connection-a-step-by-step-guide-to-when-steam-is-offline/"><u>Fixing Your Connection: A Step-by-Step Guide to When Steam Is Offline</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-updated-hp-officejet-5255-driver-step-by-step-guide/"><u>How to Install Updated HP OfficeJet 5255 Driver – Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-visibility-of-your-touchpad-cursor-on-windows-11-systems/"><u>How to Restore Visibility of Your Touchpad Cursor on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/microsoft-wireless-screen-projector-connectivity-woes-on-windows-10-heres-the-solution/"><u>Microsoft Wireless Screen Projector Connectivity Woes on Windows 10? Here's the Solution!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-premier-a-tunes-for-mobile-musicians-worldwide/"><u>New 2024 Approved The Premier A-Tunes for Mobile Musicians Worldwide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-system-resources-managing-msmpengineexe-high-cpu-drain-on-windows-11-machines/"><u>Optimizing System Resources: Managing MsMpEngine.exe High CPU Drain on Windows 11 Machines</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-for-microsoft-store-failure-to-open-issue/"><u>Solution Guide for Microsoft Store Failure to Open Issue</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-authoritative-handbook-on-selecting-impactful-podcast-monikers-plus-examples-for-2024/"><u>The Authoritative Handbook on Selecting Impactful Podcast Monikers, Plus Examples for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transform-your-avi-videos-into-compact-mpegs-securely-and-at-no-cost-via-movavis-web-service/"><u>Transform Your AVI Videos Into Compact MPEGs Securely and at No Cost via Movavi's Web Service</u></a></li>
 </ul></div>
 

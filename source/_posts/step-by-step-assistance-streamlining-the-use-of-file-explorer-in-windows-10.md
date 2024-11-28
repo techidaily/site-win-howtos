@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Assistance: Streamlining the Use of File Explorer in Windows 10"
-date: 2024-11-14T00:21:35.718Z
-updated: 2024-11-19T01:01:50.180Z
+date: 2024-11-25T08:35:40.733Z
+updated: 2024-11-28T12:37:18.581Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1) Access violation error
 
  One of the situations where you will see error code 0xc0000005 is when you get an**Access violation error** .
@@ -48,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507a17971f4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iii.** Click the **Advanced** tab. Click the**Settings** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507b4b00aa2.png)
@@ -60,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507e3c65465.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **c)**  Sometimes the error appears due to**corrupted Registry** . You can **[restore your Registry](https://tools.techidaily.com/drivereasy/download/)**  or check all your Registry entries and remove any redundant one.
 
 **However** , you should note that modifying registry is an**advanced and complicated job** . Any improper manipulation can bring unexpected consequences to your Registry and therefore to your computer. If you are a computer novice, you can find a computer expert to help you solve the problem. If you insist on doing it yourself. It is strongly recommended that you**back up** your Registry before you proceed.
@@ -68,18 +80,15 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad370059cc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad3756980a.jpg)
 
  In this case, you should**completely cut off the power** of your computer, and then**remove** the RAM(s) from your computer or**replace** them with other RAMs.
 
  (RAM is a hardware component inserted**inside** your computer. You need to**disassemble** your computer to remove or replace it. You can ask a specialist to do it for you, or consult your product manufacturer for assistance.)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2) The application unable to start
 
@@ -105,6 +114,10 @@ To resolve this error, you can try the methods below.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/01/Driver-Easy-Update-mouse-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In fact, Driver Easy Pro has also other advanced features like**driver removal or restore** . Plus upgrading to Pro version can get you its**experienced technical support** and**30-day money back guarantee** .
 
 **c)** The 0xc0000005 error can also come from**improper registry modification** . You can[**restore your registry to a backup**](#d) . Or you can find the defective entry and repair it on your own if you are a professional. (Please remember you need to**back up your Registry** before doing any modification to prevent any unexpected damages.)
@@ -123,27 +136,17 @@ To resolve this error, you can try the methods below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a33e24868.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On Windows 10/11, click**Create a restore** **point** ,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And then in the dialog popping up, click the**System Restore** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **iii.**  In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
@@ -181,24 +184,15 @@ bootrec /rebuildbcd
 
 **iv.** Close the Command Prompt window and restart your computer. Then check to see if you get rid of the error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3) Windows installation error
 
  The third type of 0xc0000005 error is an error you can get when you are installing your Windows. The error message tells you that**Windows installation encountered an unexpected error** . At this point you cannot continue your installation.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5950b581b5f1e.png)
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The reason of this error can be that the operating system you are installing is not compatible with the partition. You need to**delete all partitions** and**create new ones** (this will**remove** **all** your files and data on your hard drive).
 
@@ -221,22 +215,18 @@ bootrec /rebuildbcd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-master-the-basics-of-windows-10-effortlessly-for-2024/"><u>[New] Master the Basics of Windows 10 Effortlessly for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-mastering-screen-sharing-on-windows-11-via-zoom/"><u>[New] Mastering Screen Sharing on Windows 11 via Zoom</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-top-online-platforms-for-youtube-media-growth/"><u>[New] Top Online Platforms for YouTube Media Growth</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-boosting-instagram-videos-online-strategies-for-faster-views/"><u>2024 Approved Boosting Instagram Videos Online Strategies for Faster Views</u></a></li>
-<li><a href="https://driver-download.techidaily.com/asus-pce-ac68-wifi-adapter-drivers-download-and-installation-guide/"><u>ASUS PCE-AC68 WiFi Adapter Drivers: Download and Installation Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-overcome-windows-11-freeze-on-launch/"><u>Effective Solutions to Overcome Windows 11 Freeze on Launch</u></a></li>
-<li><a href="https://win-blog.techidaily.com/end-the-wait-solutions-for-continuous-loading-glitches-in-call-of-duty-cold-war-across-platforms/"><u>End the Wait: Solutions for Continuous Loading Glitches in Call of Duty: Cold War Across Platforms</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correct-the-phenomenon-of-invisible-touchpad-cursors-in-windows-11-systems/"><u>How to Correct the Phenomenon of Invisible Touchpad Cursors in Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-print-a-pdf-expert-advice-and-tricks/"><u>How to Successfully Print a PDF: Expert Advice and Tricks</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-tecno-spark-20-proplus-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Tecno Spark 20 Pro+ FRP?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/installing-windows-10-like-a-pro-fast-simple-and-flawless-guide/"><u>Installing Windows 10 Like A Pro: Fast, Simple, and Flawless Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-end-the-never-ending-restarts-in-windows-11/"><u>Quick Solutions: End the Never-Ending Restarts in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/repair-tips-fixing-hp-laptop-webcam-failures-on-the-latest-microsoft-operating-system/"><u>Repair Tips: Fixing HP Laptop Webcam Failures on the Latest Microsoft Operating System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-for-darkened-screens-during-obs-video-recording-of-games/"><u>Solution for Darkened Screens During OBS Video Recording of Games</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-6-simple-ways-to-connect-your-ipad-to-computermactv/"><u>Top 6 Simple Ways to Connect Your iPad to Computer/Mac/TV</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-endless-restarts-after-upgrading-your-pc-windows-11-and-10-solutions/"><u>Troubleshooting Endless Restarts After Upgrading Your PC: Windows 11 and 10 Solutions</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/be-to-igtv-migration-step-by-step-guide/"><u>YouTube-to-IGTV Migration Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-how-to-transcribe-live-broadcasts-into-digital-format/"><u>[New] 2024 Approved How to Transcribe Live Broadcasts Into Digital Format</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-how-to-choose-the-background-music-for-the-trailer/"><u>[New] In 2024, How to Choose the Background Music for the Trailer</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leading-edge-vr-game-development-technology-2023-edition/"><u>[Updated] Leading Edge VR Game Development Technology, 2023 Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-top-15-gratis-artificial-intelligence-lessons-with-lifewires-comprehensive-course-collection/"><u>Discover Top 15 Gratis Artificial Intelligence Lessons with Lifewire’s Comprehensive Course Collection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-troubleshooting-tips-repairing-common-issues-with-your-electronic-gadgets/"><u>DIY Troubleshooting Tips: Repairing Common Issues with Your Electronic Gadgets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-free-windows-11-setup-avoid-the-installation-couldnt-be-completed-mishap-code-80240020/"><u>Error-Free Windows 11 Setup: Avoid the 'Installation Couldn’t Be Completed' Mishap (Code 80240020)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a14-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A14 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/overcoming-common-challenges-in-amd-radeon-graphics-drivers-installation/"><u>Overcoming Common Challenges in AMD Radeon Graphics Drivers Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-resolving-common-fall-guys-connectivity-issues-windows/"><u>Quick Guide to Resolving Common Fall Guys Connectivity Issues (Windows)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-for-lost-sounds-in-netflix-videos/"><u>Step-by-Step Troubleshooting for Lost Sounds in Netflix Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-your-non-responsive-bluetooth-mouse-on-a-pc/"><u>Troubleshooting Guide: Fixing Your Non-Responsive Bluetooth Mouse on a PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-repair-a-non-functional-windows-11-start-menu/"><u>Troubleshooting Guide: How to Repair a Non-Functional Windows 11 Start Menu</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-nvidias-customizable-generative-technology/"><u>Unveiling NVIDIA's Customizable Generative Technology</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving Stalled Windows 11 Installation and Update Problems
-date: 2024-11-11T18:37:23.579Z
-updated: 2024-11-18T21:40:00.478Z
+date: 2024-11-21T08:03:33.326Z
+updated: 2024-11-28T06:10:06.988Z
 tags:
   - win11
   - win10
@@ -32,9 +32,17 @@ Microsoft has released an update installation tool named**Windows 10 Update Assi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a002c98764a3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Open the program you’ve just downloaded. Then click**Update Now**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a002e5ecc61b.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Follow the instructions to download and install the latest update.**5)** When the process finishes, your operating system will be updated to the latest version, and the update failed issue will be fixed.
 
@@ -45,10 +53,7 @@ You may fail to install the 1607 update because the**Windows Update components**
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** In Command Prompt, type the following lines of command and press**Enter**on your keyboard after typing each:
@@ -68,33 +73,20 @@ You may fail to install the 1607 update because the**Windows Update components**
 **5)**Run Windows Update and check to see if your computer can install the 1607 update.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Run the DISM utility
 
 Your system may fail to install the 1607 update because something corrupts your Windows image, which is necessary for the important system features like Windows Update. You can try running the**DISM**(Deployment Image Servicing and Management) utility to repair your Windows image. To run DISM:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right click**Command Prompt**and select**Run as administrator**.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png) **2)** In Command Prompt, type “_**DISM.exe /Online /Cleanup-image /Restorehealth**_” and press**Enter**on your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0150723fc23.png)
 
-**3)** Wait for the utility to complete repairing your Windows image. Then restart your computer and check to see if this fixes your update problem.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**3)** Wait for the utility to complete repairing your Windows image. Then restart your computer and check to see if this fixes your update problem.
 
 ## Method 4: Temporarily disable your antivirus software
 
@@ -118,24 +110,22 @@ Sometimes your system can’t install new updates due to the interference from y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-want-to-send-snaps-from-camera-roll-see-how-it-is-done/"><u>[New] In 2024, Want to Send Snaps From Camera Roll? See How It Is Done</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-discovering-the-basics-of-streaming-via-discord-for-2024/"><u>[Updated] Discovering the Basics of Streaming via Discord for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/complete-tutorial-on-initializing-and-powering-on-your-brand-new-iphone-device/"><u>Complete Tutorial on Initializing & Powering On Your Brand New iPhone Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-circumventing-the-persistent-windows-10-0x800f0922-update-hurdle/"><u>Guide To Circumventing The Persistent Windows 10 0X800f0922 Update Hurdle</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-itel-p55t-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Itel P55T FRP In 3 Different Ways</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-bluetooth-disabled-issue/"><u>How To Fix Bluetooth Disabled Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-d3dx942dll-missing-or-not-found-errors/"><u>How to Fix d3dx9_42.dll Missing or Not Found Errors</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-get-warzone-textures-loading-properly-again/"><u>How to Get Warzone Textures Loading Properly Again</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-vivo-y100i-power-5g-easily-by-drfone-android/"><u>How To Unlock a Vivo Y100i Power 5G Easily?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-complete-analysis-gopro-silver-edition-hero4-assessment/"><u>In 2024, Complete Analysis GoPro Silver Edition HERO4 Assessment</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-oculus-repair-strategies-to-tackle-errors-and-enhance-your-vr-experience/"><u>Mastering Oculus Repair Strategies to Tackle Errors and Enhance Your VR Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-technique-repair-methods-for-windows-startup-issues/"><u>Mastering the Technique: Repair Methods for Windows Startup Issues</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/moveavis-mov-to-mjpeg-free-conversion-tool-available-online/"><u>Moveavi's MOV to MJPEG Free Conversion Tool Available Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimize-and-accelerate-your-windows-7-systems-boot-speed/"><u>Optimize and Accelerate Your Windows 7 System's Boot Speed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-insufficient-system-resources-errors-in-your-application/"><u>Resolved: Fixing 'Insufficient System Resources' Errors in Your Application</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-shift-key-failure-expert-troubleshooting-tips/"><u>Solving 'Shift Key Failure': Expert Troubleshooting Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-art-of-time-lapse-using-gopro-hero-10-for-extended-shots/"><u>The Art of Time-Lapse Using GoPro Hero 10 for Extended Shots</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-update-service-failures-quick-and-effective-fixes/"><u>Troubleshooting Windows Update Service Failures - Quick and Effective Fixes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-boost-visual-impact-selecting-excellent-edges-for-instagram-shots/"><u>[New] In 2024, Boost Visual Impact Selecting Excellent Edges for Instagram Shots</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-turning-off-instagrams-igtv-in-a-nutshell/"><u>[New] In 2024, Turning Off Instagram's IGTV in a Nutshell</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-youtube-monetization-a-cpm-perspective/"><u>[New] Mastering YouTube Monetization A CPM Perspective</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-disabling-youtube-ads-across-chrome-firefox-android-and-ios-browsers-for-2024/"><u>[Updated] Disabling YouTube Ads Across Chrome, Firefox, Android & iOS Browsers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ceasing-the-unplanned-boot-troubleshooting-autostart-in-windows-10-systems/"><u>Ceasing the Unplanned Boot: Troubleshooting Autostart in Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-message-deciphered-fixing-the-camera-not-available-code-0xa0aturatecdouble-d-in-windows/"><u>Error Message Deciphered: Fixing the 'Camera Not Available, Code 0xA0aturate(c_double D);' In Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/essential-driver-packs-for-asrock-motherboards-free-firmware-installs-available/"><u>Essential Driver Packs for ASRock Motherboards - Free Firmware Installs Available</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-significant-bugs-in-call-of-duty-black-ops-4/"><u>Expert Tips for Fixing Significant Bugs in Call of Duty: Black Ops 4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-geforce-experience-launch-problem-a-comprehensive-solution/"><u>Fixing the GeForce Experience Launch Problem: A Comprehensive Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-igfxem-driver-errors-and-restore-graphics-functionality/"><u>How to Fix igfxEM Driver Errors and Restore Graphics Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-volume-is-dirty-mistake-error-0x80071ac3-on-your-pc/"><u>How to Resolve 'Volume Is Dirty' Mistake (Error 0X80071AC3) on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-write-data-into-a-0x-memory-space-that-has-been-referenced-by-an-instruction/"><u>How to Successfully Write Data Into a 0X Memory Space That Has Been Referenced by an Instruction</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-analyzing-instagram-de-followings/"><u>In 2024, Analyzing Instagram De-Followings</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-logitech-sound-drivers-on-your-pc-running-windows-versions-11-7-or-8/"><u>Installing Logitech Sound Drivers on Your PC Running Windows Versions 11, 7, or 8</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/silent-streams-no-more-fixing-netflixs-sound-problem-with-simple-tips/"><u>Silent Streams No More - Fixing Netflix's Sound Problem with Simple Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tips-for-retrieving-personal-email-ids-a-step-by-step-approach/"><u>Tips for Retrieving Personal Email IDs: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/transforming-success-effortless-tactics-to-change-vlc-format-into-mp4/"><u>Transforming Success: Effortless Tactics to Change VLC Format Into MP4</u></a></li>
 </ul></div>
 

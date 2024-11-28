@@ -1,7 +1,7 @@
 ---
 title: USB Mouse Connection Issues with Your Laptop? Here's What You Can Do
-date: 2024-11-13T19:32:25.768Z
-updated: 2024-11-19T00:15:49.853Z
+date: 2024-11-25T06:46:08.076Z
+updated: 2024-11-27T22:40:50.101Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Make sure your power icon is turned on
 
 1) Right-click on the blank area of taskbar and choose **Settings**.  
@@ -40,6 +44,11 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/5.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Go back on the window of step 2). Click **Select which icons appear on the taskbar**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6-4.png)
@@ -59,17 +68,14 @@ Follow these:
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
   
@@ -77,10 +83,7 @@ Follow these:
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
@@ -89,16 +92,7 @@ Follow these:
   
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
@@ -110,13 +104,6 @@ Follow these:
  You can update your drivers automatically with either the **[Free](https://tools.techidaily.com/drivereasy/download/)**  or the[**Pro**](https://tools.techidaily.com/drivereasy/download/) version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
@@ -135,22 +122,22 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/iscover-the-secrets-to-youtubes-rankings-with-keywords/"><u>[New] Discover the Secrets to YouTube's Rankings with Keywords</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-quick-content-crusade-youtubes-shortform-versus-tiktoks-trendsetting-for-2024/"><u>[New] The Quick Content Crusade YouTube's Shortform Versus TikTok’s Trendsetting for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/key-not-responding-here-are-proven-ways-to-restore-its-functionality/"><u>@ Key Not Responding? Here Are Proven Ways to Restore Its Functionality!</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-top-6-mac-screen-capture-tools-expert-picks/"><u>2024 Approved Top 6 Mac Screen Capture Tools - Expert Picks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-unwanted-automatic-restart-cycles-when-powering-off-windows-11-devices/"><u>Dealing With Unwanted Automatic Restart Cycles When Powering Off Windows 11 Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/errtoomanyredirects-clear-it-up-in-minutes-with-these-tips/"><u>ERR_TOO_MANY_REDIRECTS? Clear It Up in Minutes with These Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-your-webcam-back-on-track-a-guide-for-hp-laptops-on-windows-10/"><u>Getting Your Webcam Back on Track: A Guide for HP Laptops on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-lenovo-mouse-pad-problems-in-various-windows-systems/"><u>How to Resolve Lenovo Mouse Pad Problems in Various Windows Systems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mobile-studio-kits-convenient-for-filmmakers/"><u>Mobile Studio Kits Convenient for Filmmakers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/premier-webinar-creation-kit-for-2024/"><u>Premier Webinar Creation Kit for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-sound-setbacks-astro-a40-microphone-not-working-guide/"><u>Resolving Sound Setbacks: Astro A40 Microphone Not Working Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-twitch-issue-a-step-by-step-guide-on-how-to-correctly-address-error-code-4000/"><u>Resolving the Twitch Issue: A Step-by-Step Guide on How to Correctly Address Error Code 4000</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-the-troublesome-red-screen-in-windows-10/"><u>Step-by-Step Guide: Repairing the Troublesome Red Screen in Windows 10</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-power-of-5g-in-your-pocket-motorola-one-5g-aces-swift-connectivity-and-stellar-battery-life-reviewed/"><u>The Power of 5G in Your Pocket: Motorola One 5G ACE's Swift Connectivity & Stellar Battery Life Reviewed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205491215-troubleshooting-nonfunctional-usb-ports-on-windows-1011-fixed/"><u>Troubleshooting Nonfunctional USB Ports on Windows 10/11 - Fixed</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unveiling-the-top-15-no-cost-audio-archives-for-content-makers-for-2024/"><u>Unveiling the Top 15 No-Cost Audio Archives for Content Makers for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/use-their-automatic-detection-tool-to-find-the-correct-drivers-for-your-geforce-rtx-1080-graphics-card-and-windows-11-operating-system-or-search-directly-us108/"><u>Use Their Automatic Detection Tool to Find the Correct Drivers for Your GeForce RTX 1080 Graphics Card and Windows 11 Operating System or Search Directly Using Those Criteria</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-handbook-on-recording-notes-by-sound/"><u>[New] Comprehensive Handbook on Recording Notes by Sound</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-panopticam-review-breakdown/"><u>[Updated] PanoptiCam Review Breakdown</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-simple-storytelling-fundamentals-for-2024/"><u>[Updated] Simple Storytelling Fundamentals for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/activating-your-systems-lsa-defenses-essential-guide/"><u>Activating Your System's LSA Defenses - Essential Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/crafting-a-trailers-soundtrack-a-guide/"><u>Crafting a Trailer's Soundtrack A Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-take-on-iphone-15-top-features-that-impress-both-casual-and-professional-users-tech-insights-from-zdnet/"><u>Expert Take on iPhone 15: Top Features That Impress Both Casual and Professional Users - Tech Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-d3dcompiler47dll-file-not-found-error-step-by-step-guide/"><u>Fix D3DCOMPILER_47.dll File Not Found Error: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-high-system-resource-use-by-windows-audio-services/"><u>How to Solve High System Resource Use by Windows Audio Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-turn-off-the-touchscreen-controls-in-windows-10-when-using-a-mouse/"><u>How to Turn Off the Touchscreen Controls in Windows 10 when Using a Mouse</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/i-migliori-lettori-dvd-gratis-compatibili-con-windows-11-riproduci-tutti-i-tuoi-film-preferiti/"><u>I Migliori Lettori DVD Gratis Compatibili Con Windows 11: Riproduci Tutti I Tuoi Film Preferiti</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-google-meet-username-transformation-guide/"><u>In 2024, Google Meet Username Transformation Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-apple-iphone-13-mini-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your Apple iPhone 13 mini Apple ID and Apple Pay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-the-approval-process-with-guardianlayer-for-file-changes/"><u>Navigating the Approval Process with GuardianLayer for File Changes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-remnant-from-the-ashes-stability-issues-fixed/"><u>Resolved: 'Remnant: From the Ashes' Stability Issues Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tech-tip-diagnosing-and-resolving-sudden-pc-shutdown-issues-successfully/"><u>Tech Tip: Diagnosing And Resolving Sudden PC Shutdown Issues Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-solution-guide-for-dealing-with-livekernelevent-issue-code-117/"><u>The Ultimate Solution Guide for Dealing with LiveKernelEvent Issue Code 117</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-solutions-to-resolve-audio-services-not-responding-on-windows-11/"><u>Ultimate Solutions to Resolve 'Audio Services Not Responding' On Windows 11</u></a></li>
 </ul></div>
 

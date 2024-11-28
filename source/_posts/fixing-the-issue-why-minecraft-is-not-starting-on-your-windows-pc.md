@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Why Minecraft Is Not Starting on Your Windows PC"
-date: 2024-11-13T01:11:51.116Z
-updated: 2024-11-18T20:06:51.486Z
+date: 2024-11-24T08:41:20.652Z
+updated: 2024-11-27T23:16:32.699Z
 tags:
   - win11
   - win10
@@ -37,10 +37,7 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
  To check if the USB device is faulty, simply unplug it (‘Eject’ it if it’s a USB storage device) and plug it into another computer. If it works, the device is fine. If it doesn’t, then you’ve isolated the problem! You just need to buy a replacement.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 2: Check your power supply (laptop only)**
@@ -55,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 4) Plug the power supply back in
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 3: Check your power management settings**
 
  In order to save power, by default, Windows switches your USB controllers off when they’re not in use, and switches them back on again when they’re needed. Unfortunately, sometimes this approach doesn’t work as intended, and Windows fails to switch your USB controllers on again.
@@ -72,13 +62,25 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Expand the**Universal Serial Bus controllers** branch
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double-click the first **USB Root Hub** device in the list (if you see only one USB Root Hub device, that’s fine)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click the **Power Management**  tab  
 
@@ -88,23 +90,9 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342dd22bb58.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Repeat steps 3-5 for each  USB Root Hub device in your list of Universal Serial Bus controllers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 4: Check your USB device drivers**
 
@@ -129,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 5: Check your USB ports**
 
  If none of the above methods resolve your problem, your USB ports might be damaged. To find out, you can take your PC to a repair store and ask them to check. If your USB ports are damaged, the repairer should be able to replace them fairly inexpensively.
@@ -150,21 +142,24 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-easy-screencasting-techniques-systematic-guidebook/"><u>[New] Easy Screencasting Techniques Systematic Guidebook</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ltimate-tutorial-posting-youtube-videos-on-fb-for-2024/"><u>[New] Ultimate Tutorial Posting YouTube Videos on FB for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-fast-fixes-streamlining-your-gotomeeting-record-keeping/"><u>[Updated] 2024 Approved Fast Fixes Streamlining Your GoToMeeting Record Keeping</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-team-harmony-and-efficiency-8-recommended-facebook-timers/"><u>[Updated] 2024 Approved Team Harmony and Efficiency 8 Recommended Facebook Timers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-ultimate-picks-the-best-online-tools-for-downloading-vimeo-videos/"><u>[Updated] Ultimate Picks The Best Online Tools for Downloading Vimeo Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-troubleshooting-guide-reviving-your-malfunctioning-usb-connectors/"><u>Effortless Troubleshooting Guide: Reviving Your Malfunctioning USB Connectors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/experience-ultimate-ai-assistance-unlocking-gpt-ns-potential-with-copilot-now-gratis/"><u>Experience Ultimate AI Assistance - Unlocking GPT-N's Potential with Copilot, Now Gratis!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correctly-troubleshoot-and-solve-error-0x80n4005-a-step-by-step-guide/"><u>How to Correctly Troubleshoot and Solve Error 0X80n4005 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-infinix-smart-8-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Infinix Smart 8</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-task-automation-leveraging-chatgpt-for-enhanced-productivity-at-work/"><u>Mastering Task Automation: Leveraging ChatGPT for Enhanced Productivity at Work</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidia-driver-crash-now-functioning-properly/"><u>Nvidia Driver Crash: Now Functioning Properly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/perfecting-your-streamgame-recording-in-obs-fixes-for-blackout-troubles/"><u>Perfecting Your Stream/Game Recording in OBS – Fixes for Blackout Troubles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-deactivated-led-lights-on-mac-and-pc-keyboards/"><u>Quick Solutions for Deactivated LED Lights on Mac and PC Keyboards</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-eliminating-lag-time-on-windows-11-keyboards/"><u>Troubleshooting and Eliminating Lag Time on Windows 11 Keyboards</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-fixing-a-broken-lenovo-print-recognition-feature/"><u>Troubleshooting Tips for Fixing a Broken Lenovo Print Recognition Feature</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unity-graphics-error-solved-overcome-the-failed-to-initialize-hurdle-easily/"><u>Unity Graphics Error Solved: Overcome the 'Failed to Initialize' Hurdle Easily</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-aesthetic-adjustments-iphones-pro-image-cropping-apps/"><u>[New] 2024 Approved Aesthetic Adjustments IPhone's Pro Image Cropping Apps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/xpertly-edited-content-choosing-the-best-editor/"><u>[New] Expertly Edited Content Choosing The Best Editor</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-critical-take-on-sharex-expert-evaluations-and-alternates/"><u>[New] The Critical Take on ShareX Expert Evaluations & Alternates</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-remove-default-podcast-listings-from-spotify-playlists/"><u>2024 Approved Remove Default Podcast Listings From Spotify Playlists</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beyond-apple-and-tile-discovering-superior-wallet-airtag-options-for-tech-enthusiasts/"><u>Beyond Apple and Tile: Discovering Superior Wallet AirTag Options for Tech Enthusiasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-overcoming-the-0x80072efd-error-in-windows-10-environments/"><u>Comprehensive Fixes for Overcoming the 0X80072EFD Error in Windows 10 Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-to-combat-and-correct-valorants-persistent-screen-distortion-problem/"><u>Easy Steps to Combat and Correct Valorant's Persistent Screen Distortion Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211881676-end-the-frustration-of-spontaneous-hibernation-on-your-computer-smart-fixes-inside/"><u>End the Frustration of Spontaneous Hibernation on Your Computer - Smart Fixes Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reactivate-windows-smartscreen-when-it-fails-to-load/"><u>How to Reactivate Windows SmartScreen When It Fails to Load</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-rapidly-assembling-a-facebook-image-puzzle/"><u>In 2024, Rapidly Assembling a Facebook Image Puzzle</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-stability-how-to-fix-continuous-crashes-of-nier-automata-on-your-computer-system/"><u>Mastering Stability: How to Fix Continuous Crashes of Nier Automata on Your Computer System</u></a></li>
+<li><a href="https://driver-download.techidaily.com/optimize-performance-with-newest-amd-radeon-rx-amd-rx-580-driver-update-quick-and-easy-steps/"><u>Optimize Performance with Newest AMD Radeon RX amD RX 580 Driver Update – Quick and Easy Steps!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/photo-to-video-magic-add-music-and-tell-a-story/"><u>Photo to Video Magic Add Music and Tell a Story</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-a-broken-screen-boosting-touch-responsiveness-on-windows-10-systems/"><u>Quick Fixes for a Broken Screen: Boosting Touch Responsiveness on Windows 10 Systems</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/schnell-zur-losung-probleme-mit-der-dell-migration-losen-einfachste-methoden/"><u>Schnell Zur Lösung: Probleme Mit Der Dell-Migration Lösen - Einfachste Methoden</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-adding-subtitles-to-movies-and-tv-episodes/"><u>Step-by-Step Guide: Adding Subtitles to Movies & TV Episodes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-solve-file-explorer-not-working-errors-for-windows-11-users/"><u>Troubleshoot and Solve File Explorer Not Working Errors for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-why-does-my-mouse-keep-losing-signal/"><u>Troubleshooting Steps: Why Does My Mouse Keep Losing Signal?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unsticking-the-spacebar-in-windows-11-effective-solutions-for-a-smooth-typing-experience/"><u>Unsticking the Spacebar in Windows 11: Effective Solutions for a Smooth Typing Experience</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fix the 'Overwatch Error' - Recover Your Lost Rendering Device
-date: 2024-11-17T21:53:51.170Z
-updated: 2024-11-18T23:20:38.852Z
+date: 2024-11-21T09:09:10.865Z
+updated: 2024-11-27T16:24:05.585Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 * [Fix 4 – Reset TCP/IP Configuration](#h-fix-4-reset-tcp-ip-configuration)
 * [Fix 5 – Disable IPv6 on your active connection](#h-fix-5-disable-ipv6-on-your-active-connection)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1 – Is it a driver issue?
 
  The network adapter driver, which works as an interpreter between your network adapter and your PC, is essential to the proper functioning of the network adapter. Depending on different situations, you may encounter the **Unable to Contact DHCP Server** error when your network driver is outdated or new and problematic (hence requiring a rollback). There are ways you can do it manually, but if you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -60,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 ![update network driver with driver easy](https://images.drivereasy.com/wp-content/uploads/2021/03/de-update-network-driver.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Run the**ipconfig /renew** in CMD again to see if the error message is resolved.
 
@@ -76,19 +73,20 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/tools.png)
 3. Click**Driver Backup** , then tick the box for**Network Adapter** , then click**Start Backup** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Wait around until the backup is complete. Then click**OK** to close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/backup.png)
 5. In the Tools pane, click**Driver** **Restore** \>**Browse…** , then choose the backup file you’re going to restore from, then click **Open** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/12.png)
 6. Select the driver you’re going to restore, then click **Continue** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Wait until the restore is successful, and click**OK** .
 8. Run the**ipconfig /renew** in CMD again to see if the error message is resolved. If yes, then congrats – you’ve fixed the error. If the issue persists, please move on to**Fix 2** , below.
@@ -105,10 +103,7 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 3. If **Service status:** is set to **Running** , click the **Stop** button. If it shows **Stopped** , leave it as it is.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Set the **Startup type** menu to **Automatic** .
@@ -125,29 +120,19 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd-1.png)
 2. Type **ipconfig /registerdns** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click Close to exit the window.
 4. Restart your PC.
 5. Check to see if the**Unable to Contact DHCP Server** error is solved. If yes, then great. If it still happens, please continue with**Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4 – Reset TCP/IP Configuration
 
 1. On your keyboard, press the**Windows logo** key and type**cmd** . Right-click on**Command Prompt** as it pops up as a result, and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd-1.png)
 2. In the command promopt window, type the following commands and press**Enter** after each:  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    * Type **netsh winsock reset** and press**Enter** .  
    * Type **netsh int ip reset** and press**Enter** .  
@@ -166,14 +151,15 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/2.png)
 3. Under the **Networking** tab, uncheck the box next to **Internet Protocol version 6 (IPv6)** , then click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/sharing12.jpg)
 4. Restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Check to see if the error message still occurs when you perform rge ipconfig command.
@@ -197,24 +183,24 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-filters-through-windows-10-photos-extracting-picture-moments/"><u>[New] Filters Through Windows 10 Photos Extracting Picture Moments</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-vita-experience-exhaustive-review-of-its-video-editor-2024/"><u>[New] The Ultimate Vita Experience Exhaustive Review of Its Video Editor, 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-teamwork-made-simple-the-ultimate-guide-to-8-schedulers/"><u>[Updated] Teamwork Made Simple The Ultimate Guide to 8 Schedulers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-top-20-zero-cost-pubg-visual-anthologies-for-2024/"><u>[Updated] Top 20 Zero-Cost PUBG Visual Anthologies for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-mac-videography-tools-unleashed-in-sierra-os/"><u>2024 Approved Top 5 Mac Videography Tools Unleashed in Sierra OS</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/audience-allure-identifying-the-top-6-video-types-for-2024/"><u>Audience Allure Identifying the Top 6 Video Types for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/demystifying-social-engagement-instagram-stories-surveys-for-2024/"><u>Demystifying Social Engagement Instagram Stories Surveys for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-the-unretrievable-preferences-issue-on-geforce-experience/"><u>Diagnosing and Solving the 'Unretrievable Preferences' Issue on GeForce Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211038452-explorer-down-restore-it-now/"><u>Explorer Down? Restore It Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723203802097-how-to-fix-battleye-installation-errors-and-get-back-in-action/"><u>How to Fix BattlEye Installation Errors and Get Back in Action</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/hubs-of-immersive-visual-storytelling-for-2024/"><u>Hubs of Immersive Visual Storytelling for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Huawei P60? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-darkness-how-to-correctly-fix-a-black-screen-in-google-chrome/"><u>Overcoming the Darkness: How to Correctly Fix a Black Screen in Google Chrome</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-windows-11-hurdles-for-a-successful-launch-of-a-virtual-wi-fi-hotspot-insider-tips-and-tricks/"><u>Overcoming Windows 11 Hurdles for a Successful Launch of a Virtual Wi-Fi Hotspot: Insider Tips and Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-how-to-resolve-safari-cant-load-webpage-issues/"><u>Quick Solutions: How to Resolve 'Safari Can't Load Webpage' Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-keyboard-malfunctions-during-system-boot-up/"><u>Resolved: Keyboard Malfunctions During System Boot-Up</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-found-for-inaccessible-write-operation-in-specific-memory-space-hex-reference/"><u>Solution Found for Inaccessible Write Operation in Specific Memory Space (Hex Reference)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/what-to-do-when-accessing-windows-security-features-like-smartscreen-is-temporarily-hindered/"><u>What to Do When Accessing Windows Security Features, Like SmartScreen, Is Temporarily Hindered</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-quickly-setup-snapchat-app-on-your-mac-os-x-for-2024/"><u>[New] Quickly Setup Snapchat App on Your Mac OS X for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-luxury-sedan-sj4000s-best-kept-secrets-gear-up/"><u>[Updated] Luxury Sedan SJ4000's Best-Kept Secrets Gear Up</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-realme-c55-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Realme C55 Activity | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-examining-the-impact-of-stabilized-photos-in-adobe/"><u>2024 Approved Examining the Impact of Stabilized Photos in Adobe</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/computer-randomly-turns-off-solved/"><u>Computer Randomly Turns Off [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-to-restore-audio-on-an-unresponsive-acer-laptop/"><u>Expert Solutions to Restore Audio on an Unresponsive Acer Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-black-screen-error-on-your-google-chrome-proven-methods/"><u>Fixing the 'Black Screen' Error on Your Google Chrome: Proven Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-5s-transformation-4-future-features-we-anticipate/"><u>GPT-5's Transformation: 4 Future Features We Anticipate</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/guide-complet-comment-configurer-une-copie-de-securite-reflechissante-sur-les-systemes-dexploitation-windows/"><u>Guide Complet : Comment Configurer Une Copie De Sécurité Réfléchissante Sur Les Systèmes D'Exploitation Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-damaged-registry-settings-for-optimal-dvdcd-rom-functionality-in-windows-11-error-code-19/"><u>How to Repair Damaged Registry Settings for Optimal DVD/CD-ROM Functionality in Windows 11 [Error Code 19]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/interleaving/"><u>Interleaving:</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pioneering-simple-sound-shifts-in-pubg-for-2024/"><u>Pioneering Simple Sound Shifts in PUBG for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-remedies-for-windows-11-unending-startup-cycles-a-comprehensive-tutorial/"><u>Quick Remedies for Windows 11 Unending Startup Cycles: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212436288-revive-your-trackpad-ultimate-guide-for-fixing-inoperative-touchpad-scrolling-today/"><u>Revive Your Trackpad: Ultimate Guide for Fixing Inoperative Touchpad Scrolling Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-reviving-an-unresponsive-xbox-controller-xp-edition/"><u>Step-by-Step Solution: Reviving an Unresponsive Xbox Controller (XP Edition)</u></a></li>
+<li><a href="https://win-online.techidaily.com/unexpected-disappearance-of-win10-drawer-urgent-rescue-guide-revealed/"><u>Unexpected Disappearance of Win10 Drawer - Urgent Rescue Guide Revealed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210450714-unlock-the-potential-of-system-file-checker-sfc-and-deployment-image-servicing-dism-for-seamless-windows-10-recovery/"><u>Unlock the Potential of System File Checker (SFC) and Deployment Image Servicing (DISM) for Seamless Windows 10 Recovery.</u></a></li>
+<li><a href="https://article-files.techidaily.com/unlocking-10plus-top-free-subtitle-converter-websites-for-2024/"><u>Unlocking 10+ Top Free Subtitle Converter Websites for 2024</u></a></li>
 </ul></div>
 

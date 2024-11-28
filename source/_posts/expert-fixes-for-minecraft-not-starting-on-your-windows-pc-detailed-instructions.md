@@ -1,7 +1,7 @@
 ---
 title: Expert Fixes for Minecraft Not Starting on Your Windows PC – Detailed Instructions
-date: 2024-11-13T19:12:35.258Z
-updated: 2024-11-18T19:14:01.721Z
+date: 2024-11-23T20:40:07.618Z
+updated: 2024-11-28T07:08:48.142Z
 tags:
   - win11
   - win10
@@ -49,7 +49,16 @@ If you haven’t tried this method before, give it a go.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog. Then type**ncpa.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-ncpa.cpl_.jpg)
 2. Check if your Wi-Fi adapter is disabled or greyed out. If it is, right-click on it and select**Enable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-enable-wifi.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once done, restart your computer and check if your Wi-Fi network shows up again.
 
@@ -71,6 +80,10 @@ If you haven’t tried this method before, give it a go.
  Or click the**Update** button to download the latest wireless adapter driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/de-wireless-adapter-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  Once you’ve updated your Wi-Fi adapter driver, restart your computer.
@@ -85,27 +98,21 @@ If you haven’t tried this method before, give it a go.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-start-settings.jpg)
 2. Under System, select**Troubleshoot** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-other-troubleshooter.jpg)
 4. Scroll down the page, locate**Network Adapter** and click**Run** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-network-adapter-run.jpg)
 5. Follow the steps in the troubleshooter and see if that fixes the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If your issue persists, check out the next fix.
@@ -121,14 +128,11 @@ If your issue persists, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/wlan-autoconfig-properties.jpg)
 3. Make sure**Startup type** is set to**Automatic** and**Service status** is**Running** . Then click**OK** to save changes.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/07/wlan-autoconfig-startup-type.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/07/wlan-autoconfig-startup-type.jpg)
 
 Restart your PC and see if your Wi-Fi shows up.
 
@@ -142,18 +146,19 @@ If you still face the same issue, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-cmd.jpg)
 2. If you are prompted for permission by User Account Control, click**Yes** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/cmd-uac-yes.jpg)
 3. At the command prompt, type**netsh winsock reset** and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/winsock-reset.jpg)
 4. Type**netsh int ip reset** and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/ip-reset.jpg)
 5. Type**ipconfig /release** and press**Enter** .  
@@ -162,30 +167,13 @@ If you still face the same issue, try the next fix.
 6. Then type**ipconfig /renew** and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/ip-renew.jpg)
 7. Type**ipconfig /flushdns** and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/ip-flushdns.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you’ve run all those commands, restart your computer and try to connect to the Wi-Fi network.
 
@@ -199,6 +187,10 @@ If this method doesn’t help, try the last fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-start-settings.jpg)
 2. Select**Network & internet** , then click**Advanced network settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-advanced-network-settings.jpg)
 3. Under More settings, click**Network reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-network-reset.jpg)
@@ -206,13 +198,6 @@ If this method doesn’t help, try the last fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-reset-now.jpg)
 5. Click**Yes** to confirm again.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/network-reset-yes.jpg)
 
@@ -240,22 +225,24 @@ Wait for your computer to restart, and see if that fixes the problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-navigating-the-nuances-of-using-switch-pro-controller-on-steam/"><u>[New] 2024 Approved Navigating the Nuances of Using Switch Pro Controller on Steam</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-free-range-riffs-and-rhythms-in-free-fire/"><u>[Updated] 2024 Approved Free Range Riffs and Rhythms in Free Fire</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-social-syncing-strategy-post-videos-between-platforms/"><u>[Updated] 2024 Approved Social Syncing Strategy Post Videos Between Platforms</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-capture-the-best-moments-select-6-top-ranked-short-video-download-tools/"><u>[Updated] Capture the Best Moments Select 6 Top-Ranked Short Video Download Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-ways-to-fix-the-secure-boot-state-unsupported-error-in-windows/"><u>5 Ways to Fix the Secure Boot State Unsupported Error in Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722994502147-assassins-creed-valhalla-pc-stability-issues-heres-what-you-need-to-know/"><u>Assassin's Creed Valhalla PC Stability Issues? Here’s What You Need to Know</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209036577-clear-up-fuzzy-display-on-your-windows-11-screen-quick-fixes-inside/"><u>Clear Up Fuzzy Display on Your Windows 11 Screen - Quick Fixes Inside!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/crc-data-error-resolution-ensuring-accurate-information-exchange/"><u>CRC Data Error Resolution - Ensuring Accurate Information Exchange</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/elevate-your-esports-skills-with-these-windows-11-tweaks-for-peak-performance/"><u>Elevate Your Esports Skills with These Windows 11 Tweaks for Peak Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-fix-halo-4s-ue4-fatal-glitch-causing-collapses-gaming-experience/"><u>Guide to Fix Halo 4'S UE4 Fatal Glitch Causing Collapses Gaming Experience</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-a78-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo A78 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-apple-iphone-13-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your Apple iPhone 13 Pro Max and iPad?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/invisible-sd-be-seen-fixes-abound/"><u>Invisible SD, Be Seen! Fixes Abound</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/securing-a-smooth-win11-performance/"><u>Securing a Smooth Win11 Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-the-hamachi-service-stopped-hiccup/"><u>Troubleshooting Guide: Fixing the 'Hamachi Service Stopped' Hiccup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-isnt-my-touchpad-scrolling-in-windows-11-solutions-for-common-issues/"><u>Why Isn't My Touchpad Scrolling in Windows 11? Solutions for Common Issues</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-precision-problem-solving-for-youtube-short-success/"><u>[New] 2024 Approved Precision Problem-Solving for YouTube Short Success</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-eight-outstanding-choices-for-private-video-communication/"><u>[New] In 2024, Eight Outstanding Choices for Private Video Communication</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-becoming-a-green-mastermind-with-kinemasters-gs-knowledge/"><u>2024 Approved Becoming a Green Mastermind with KineMaster's GS Knowledge</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/breeze-through-fixing-windows-update-problems-solution-for-error-code-0x80073cfb/"><u>Breeze Through Fixing Windows Update Problems - Solution for Error Code 0X80073CFB</u></a></li>
+<li><a href="https://windows11.techidaily.com/change-to-dark-theme-in-the-windows-calculator/"><u>Change to Dark Theme in the Windows Calculator</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-the-unresponsive-spacekey-problem-on-windows-11/"><u>Diagnosing and Fixing the Unresponsive Spacekey Problem on Windows 11</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/efficient-schooltube-video-converter-transform-your-educational-clips-into-mp4avi-files-with-ease/"><u>Efficient SchoolTube Video Converter: Transform Your Educational Clips Into MP4/AVI Files with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enabling-local-security-reactivate-lsa-protection-now/"><u>Enabling Local Security: Reactivate LSA Protection Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-common-issues-wacom-pen-malfunction-on-windows-11-and-10/"><u>Fixing Common Issues: Wacom Pen Malfunction on Windows 11 & 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-repair-a-troublesome-device-manager-code-28-glitch-in-windows-systems/"><u>How to Correctly Repair a Troublesome 'Device Manager Code #28' Glitch in Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-max-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro Max without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-unresponsive-buttons-in-windows-11-laptop-and-desktop-keyboards/"><u>How to Repair Unresponsive Buttons in Windows 11 Laptop and Desktop Keyboards</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-safely-increase-your-youtube-fanbase-to-one-million-for-2024/"><u>How to Safely Increase Your YouTube Fanbase To One Million for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-harnessing-royalty-free-graphics-a-compreeved-guide/"><u>In 2024, Harnessing Royalty-Free Graphics A Compreeved Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-learn-how-to-blur-a-part-of-a-picture-on-pcmobile/"><u>In 2024, Learn How to Blur a Part of a Picture on PC/Mobile</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-autofocus-on-iphone-a-step-by-step-approach/"><u>Mastering Autofocus on iPhone A Step-by-Step Approach</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-widevine-cdm-is-absent-from-your-windows-system/"><u>Troubleshooting Steps When Widevine CDM Is Absent From Your Windows System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-overcoming-the-0xc0000005-kernel-termination-blue-screen-of-death-on-windows-computers/"><u>Troubleshooting Tips: Overcoming the '0xC0000005' Kernel Termination Blue Screen of Death on Windows Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-the-win32-app-crash-error-code-0xc0000005-on-your-pc/"><u>Ultimate Guide: Resolving the Win32 App Crash (Error Code 0xC0000005) on Your PC</u></a></li>
 </ul></div>
 

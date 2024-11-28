@@ -1,7 +1,7 @@
 ---
 title: Securing Permission From TrustedInstaller to Alter Windows System Files
-date: 2024-11-18T00:53:07.634Z
-updated: 2024-11-18T20:06:05.983Z
+date: 2024-11-27T09:34:52.555Z
+updated: 2024-11-28T10:56:47.696Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ The good news is, you can fix it easily!
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -58,13 +62,6 @@ The good news is, you can fix it easily!
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
 
  Another reason for this volume control not responding problem is the glitches with the Windows Audio and Windows Audio Endpoint Builder services. If that’s the case, we can re-enable them to see if it works.
@@ -75,29 +72,31 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Locate and double-click on**Windows Audio** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Run SFC
 
@@ -108,13 +107,6 @@ To run SFC:
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click **Yes**   when prompted to confirm.
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
@@ -123,13 +115,6 @@ To run SFC:
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run the Playing Audio troubleshooter
 
@@ -146,10 +131,7 @@ Here’s how:
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
@@ -176,24 +158,20 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-thorough-review-gopro-hero4-slr4-sliver-features/"><u>[Updated] 2024 Approved Thorough Review GoPro Hero4 SLR4 Sliver Features</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-simple-solutions-to-capture-gotomeetings-effectively/"><u>[Updated] In 2024, Simple Solutions to Capture GoToMeetings Effectively</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-beyond-the-basics-advanced-video-splitting/"><u>2024 Approved Beyond the Basics Advanced Video Splitting</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-insights-into-instagram-video-constraint/"><u>2024 Approved Insights Into Instagram Video Constraint</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-simple-methods-swap-sea-creature-sounds-in-windows-os/"><u>2024 Approved Simple Methods Swap Sea Creature Sounds in Windows OS</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-turn-your-youtube-tracks-into-mp3-with-macos/"><u>2024 Approved Turn Your YouTube Tracks Into MP3 with MacOS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-sporadic-wi-fi-mouse-failures-in-modern-operating-systems-windows-1110/"><u>Diagnosing and Repairing Sporadic Wi-Fi Mouse Failures in Modern Operating Systems (Windows 11/10)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-the-not-detected-error-for-mfplatdll-file-on-windows-systems/"><u>Fixing the 'Not Detected' Error for MFPLAT.DLL File on Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hearthstone-performance-boost-effortless-lag-fixes/"><u>Hearthstone Performance Boost: Effortless Lag Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-total-war-rome-remastered-game-crashing-issues-easily/"><u>How to Fix Total War: Rome Remastered Game Crashing Issues Easily</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-poco-x6-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Poco X6 Phone When You Forget the Password</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-media-streaming-overcoming-windows-10-cast-failures-detailed-steps/"><u>Mastering Media Streaming: Overcoming Windows 10 Cast Failures [Detailed Steps]</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/pinnacle-gold-text-rendering-in-top-8-3d-web-spaces/"><u>Pinnacle Gold Text Rendering in Top 8 3D Web Spaces</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-your-computers-stuck-at-windows-setup-a-step-by-step-guide/"><u>Resolve Your Computer's 'Stuck at Windows Setup': A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-issues-how-to-enable-your-devices-wireless-functionality/"><u>Resolving Issues: How to Enable Your Device's Wireless Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-minecraft-performance-issues-ultimate-guide/"><u>Resolving Minecraft Performance Issues: Ultimate Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-plugged-in-but-not-charging-problems-on-your-microsoft-surface/"><u>Solving Plugged In But Not Charging Problems on Your Microsoft Surface</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/stop-csgo-crashes-in-their-tracks-simple-tips-for-stability/"><u>Stop CSGO Crashes in Their Tracks - Simple Tips for Stability</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-tablet-reviews-and-comparisons-in-depth-analysis-by-tech-experts-zdnet/"><u>Top-Rated Tablet Reviews & Comparisons - In Depth Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-a-step-by-step-guide-to-snapchats-boomerang-magic/"><u>[New] In 2024, A Step-by-Step Guide to Snapchat's Boomerang Magic</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-beat-cutting-editing-music-videos-on-ios/"><u>[Updated] 2024 Approved Beat Cutting Editing Music Videos on iOS</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-share-the-laughter-mastering-kinemaster/"><u>[Updated] In 2024, Share the Laughter Mastering KineMaster</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cracking-the-0x80070422-update-error-on-windows-10-step-by-step-tutorial/"><u>Cracking the 0X80070422 Update Error on Windows 10 - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-a-disappearing-touchpad-cursor-on-windows-11/"><u>Effective Solutions for a Disappearing Touchpad Cursor on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-errors-encountered-during-steam-games-installupdate/"><u>Effective Solutions for Errors Encountered During Steam Games Install/Update</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essentials-in-filming-journeys/"><u>Essentials in Filming Journeys</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-0x80073712-problem-on-your-windows-10-pc-a-step-by-step-guide/"><u>Fixing the '0X80073712' Problem on Your Windows 10 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/huion-pen-not-working-5-ways-to-fix-it-fast/"><u>Huion Pen Not Working? 5 Ways to Fix It Fast</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-free-meme-makers-dream-toolkit/"><u>In 2024, FREE Meme Makers' Dream Toolkit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-fast-shutdowns-in-windows-11-top-strategies-to-try-now/"><u>Mastering the Art of Fast Shutdowns in Windows 11: Top Strategies to Try Now!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolved-realtek-wi-fi-drivers-compatibility-troubleshooting-on-windows-11-10-and-7/"><u>Resolved: Realtek Wi-Fi Drivers Compatibility Troubleshooting on Windows 11, 10 & 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-buffering-easy-fix-for-your-kodi-playback-issues/"><u>Say Goodbye to Buffering: Easy Fix for Your Kodi Playback Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-gain-trustee-access-from-trustedinstaller-file-modification-guidance/"><u>Steps to Gain Trustee Access From TrustedInstaller: File Modification Guidance</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy A15 4G | Dr.fone</u></a></li>
 </ul></div>
 

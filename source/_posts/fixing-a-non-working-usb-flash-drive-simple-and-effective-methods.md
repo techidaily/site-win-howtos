@@ -1,7 +1,7 @@
 ---
 title: "Fixing a Non-Working USB Flash Drive: Simple and Effective Methods"
-date: 2024-11-14T19:38:30.802Z
-updated: 2024-11-18T16:52:14.430Z
+date: 2024-11-24T06:29:01.999Z
+updated: 2024-11-27T19:08:27.360Z
 tags:
   - win11
   - win10
@@ -49,18 +49,15 @@ the picture was taken by: Article\_86
 4. [**Clear Google Chrome cache**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Get an ad-block extension
 
  Because this scam is a fraud page, technically it won’t do severe harm to your computer. The working mechanism of this scam is like an ad. Screening fraudulent users to defraud money. So an ad-block extension can help.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run a virus scan
 
@@ -81,10 +78,7 @@ the picture was taken by: Article\_86
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Relaunch Chrome to take effect.
@@ -100,6 +94,10 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
 
@@ -107,13 +105,6 @@ the picture was taken by: Article\_86
 5. Relaunch Chrome to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Reset Google Chrome to default settings
 
@@ -125,10 +116,7 @@ the picture was taken by: Article\_86
 3. Scroll down to the bottom and click **Advanced** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
@@ -136,16 +124,17 @@ the picture was taken by: Article\_86
 5. Click **Reset settings** to reset Google Chrome.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TIPS: Avoid Google Chrome Critical Error
 
@@ -182,22 +171,22 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-premium-settings-for-virtual-broadcasts/"><u>[New] Premium Settings for Virtual Broadcasts</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-top-android-3d-viewer-experience-for-2024/"><u>[New] Top Android 3D Viewer Experience for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-xiaohongshu-elites-in-snapchat-playground/"><u>2024 Approved Xiaohongshu Elites in Snapchat Playground</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-vivo-y56-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Vivo Y56 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/ecovideomender-quick-fix-for-video-troubles/"><u>EcoVideoMender: Quick Fix for Video Troubles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-minecrafts-windows-stability-issues-with-your-video-card-driver-update/"><u>Fixing Minecraft's Windows Stability Issues with Your Video Card Driver Update</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/guida-completa-al-ripristino-del-sistema-con-protezione-dellavvio-su-dispositivi-di-varia-batteria/"><u>Guida Completa Al Ripristino Del Sistema Con Protezione Dell'Avvio Su Dispositivi Di Varia Batteria</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-realme-narzo-60x-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Realme Narzo 60x 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-responsiveness-improved-overcoming-latency-problems-on-windows-tenth-version/"><u>Keyboard Responsiveness Improved - Overcoming Latency Problems on Windows Tenth Version</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-all-about-kapwing-video-translation/"><u>New 2024 Approved All About Kapwing Video Translation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-lag-and-hang-ups-in-your-new-windows-11-setup/"><u>Overcoming Lag and Hang-Ups in Your New Windows 11 Setup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-your-netflix-issue-overcoming-proxy-and-vpn-detected-warnings/"><u>Resolve Your Netflix Issue: Overcoming Proxy and VPN Detected Warnings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revamped-device-for-hit-compliance-and-better-feedback/"><u>Revamped Device for HIT Compliance and Better Feedback</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-8-solutions-to-overcome-windows-10-error-code-0x800f0922-during-updates/"><u>Top 8 Solutions to Overcome Windows 10 Error Code 0X800F0922 During Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-8-solutions-to-resolve-microsoft-windows-11-update-error-0x800f0922/"><u>Top 8 Solutions to Resolve Microsoft Windows 11 Update Error 0X800F0922</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-fixing-crashes-in-ni-no-musume-2-full-version/"><u>Troubleshooting Steps for Fixing Crashes in Ni No Musume 2 Full Version</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-restoring-touch-functionality-in-windows-10-devices-5-strategies/"><u>Troubleshooting Tips: Restoring Touch Functionality in Windows 10 Devices (5 Strategies)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-silent-recorders-revealed-6-undiscovered-android-and-ios-apps/"><u>[New] 2024 Approved Silent Recorders Revealed 6 Undiscovered Android & iOS Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-visibility-with-youtube-branding-techniques/"><u>[Updated] 2024 Approved Elevate Your Visibility with YouTube Branding Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-mastering-tv-broadcasts-repeating-youtube-videos-effortlessly/"><u>[Updated] In 2024, Mastering TV Broadcasts Repeating YouTube Videos Effortlessly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-streamlined-screens-on-chrome-os/"><u>2024 Approved Streamlined Screens on Chrome OS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/descargar-y-convertir-archivos-avi-a-mjpeg-sin-coste-guia-completa-con-movavi/"><u>Descargar Y Convertir Archivos AVI a MJPEG Sin Coste: Guía Completa Con Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-fix-overcoming-the-challenge-of-stuck-keys-in-your-window-based-keyboard/"><u>DIY Fix: Overcoming the Challenge of Stuck Keys in Your Window-Based Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-efficient-resource-usage-control-your-desktop-window-managers-gpu-demands-on-windows-1011/"><u>Mastering Efficient Resource Usage: Control Your Desktop Window Manager's GPU Demands on Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-lenovos-stuck-or-broken-fn-key-issue-quickly-and-efficiently/"><u>Solve Your Lenovo's Stuck or Broken Fn Key Issue Quickly & Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-unintended-letter-presses-during-typing/"><u>Solving the Problem of Unintended Letter Presses During Typing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-silent-issue-effective-solutions-to-make-corsair-hs50-speaker-mic-work-again/"><u>Solving the Silent Issue: Effective Solutions to Make Corsair HS50 Speaker Mic Work Again</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/spotting-the-fabrication-techniques-for-discerning-ai-created-false-news-content/"><u>Spotting the Fabrication: Techniques for Discerning AI-Created False News Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fixing-missing-audiovideo-drivers/"><u>Step-by-Step Guide to Fixing Missing Audio/Video Drivers!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-repairing-windows-11-pc-reset-errors-a-complete-guide/"><u>Successfully Repairing Windows 11 PC Reset Errors - A Complete Guide</u></a></li>
+<li><a href="https://win-web3.techidaily.com/toutv-video-downloads-made-easy-step-by-step-guide/"><u>Tou.TV Video Downloads Made Easy - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-top.techidaily.com/ultimate-guide-capturing-screenshots-like-a-pro-on-your-asus-notebook-discover-the-top-14-methods-with-movavi/"><u>Ultimate Guide: Capturing Screenshots Like a Pro on Your ASUS Notebook - Discover the Top 14 Methods with Movavi</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-honor-play-40c-by-fonelab-android-recover-data/"><u>Undelete lost data from Honor Play 40C</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-over-chrome-plugin-loading-problems-on-windows-10-a-comprehensive-guide/"><u>Winning Over Chrome Plugin Loading Problems on Windows 10 - A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fast and Simple Solutions to the 'Battery Not Found' Error
-date: 2024-09-11T15:27:42.644Z
-updated: 2024-09-12T15:27:42.644Z
+date: 2024-11-22T19:54:36.320Z
+updated: 2024-11-28T01:35:42.773Z
 tags:
   - win11
   - win10
@@ -27,10 +27,7 @@ thumbnail: https://thmb.techidaily.com/8eeffb0e6f2c9998156198f379aca60dcf8cc0a81
 >
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Make sure your power icon is turned on
@@ -43,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/8eeffb0e6f2c9998156198f379aca60dcf8cc0a81
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-6.png)
   
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Make sure **Power** is on.  
   
@@ -65,10 +55,7 @@ thumbnail: https://thmb.techidaily.com/8eeffb0e6f2c9998156198f379aca60dcf8cc0a81
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
@@ -81,13 +68,6 @@ Follow these:
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
@@ -98,10 +78,7 @@ Follow these:
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
@@ -110,10 +87,7 @@ Follow these:
   
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
@@ -125,6 +99,10 @@ Follow these:
  You can update your drivers automatically with either the **[Free](https://tools.techidaily.com/drivereasy/download/)**  or the[**Pro**](https://tools.techidaily.com/drivereasy/download/) version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
@@ -141,5 +119,24 @@ Follow these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-essentials-of-creating-a-personalized-twitter-account/"><u>[New] 2024 Approved The Essentials of Creating a Personalized Twitter Account</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-screen-solidarities-picking-the-right-media-company/"><u>[Updated] 2024 Approved Screen Solidarities Picking the Right Media Company</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-quicksnap-hd-pro-logging-kit-for-2024/"><u>[Updated] QuickSnap HD Pro Logging Kit for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveil-world-written-large-innovative-zooming-tips/"><u>2024 Approved Unveil World' Written Large Innovative Zooming Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-moisture-resistant-wearables-of-the-year-in-depth-analysis-and-ratings/"><u>Best Moisture-Resistant Wearables of the Year: In-Depth Analysis & Ratings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cant-print-your-pdf-these-simple-tips-will-help-you-succeed/"><u>Can't Print Your PDF? These Simple Tips Will Help You Succeed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-getting-copy-and-paste-back-to-work-on-windows-11/"><u>Easy Fixes: Getting Copy & Paste Back to Work on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-techniques-to-address-and-rectify-steams-inability-to-download-updates/"><u>Effective Techniques to Address and Rectify Steam's Inability to Download Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-224003-solved-successful-strategies-for-fixing-unplayable-video-files/"><u>Error Code 224003 Solved: Successful Strategies for Fixing Unplayable Video Files</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-motorola-edge-40-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Motorola Edge 40 Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-investigating-why-specific-youtube-remarks-get-prominence/"><u>In 2024, Investigating Why Specific YouTube Remarks Get Prominence</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-iphone-7-plus-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and iPhone 7 Plus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-hang-ups-on-windows-10-with-these-simple-steps/"><u>Resolve Hang-Ups on Windows 10 With These Simple Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/system-update-resolves-local-privilege-issues/"><u>System Update Resolves Local Privilege Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-solutions-for-dealing-with-a-frozen-windows-10-system/"><u>Top Solutions for Dealing with a Frozen Windows 10 System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/update-how-to-repair-a-non-functional-keyboard-at-system-boot/"><u>Update: How to Repair a Non-Functional Keyboard at System Boot</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-trim-videos-online-for-free-10-best-websites-and-tools/"><u>Updated 2024 Approved Trim Videos Online for Free 10 Best Websites and Tools</u></a></li>
+</ul></div>
 

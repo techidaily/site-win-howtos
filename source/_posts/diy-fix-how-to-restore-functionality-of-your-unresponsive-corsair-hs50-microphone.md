@@ -1,7 +1,7 @@
 ---
 title: "DIY Fix: How to Restore Functionality of Your Unresponsive Corsair HS50 Microphone"
-date: 2024-11-13T20:22:29.743Z
-updated: 2024-11-18T21:50:53.133Z
+date: 2024-11-27T01:32:29.375Z
+updated: 2024-11-28T06:03:34.631Z
 tags:
   - win11
   - win10
@@ -35,10 +35,7 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 5. [Try using a different controller or headset](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1\. Make sure the headset is not muted
@@ -70,10 +67,7 @@ Follow the steps here to update your Xbox One controller software.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915be191b71.png)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)  
@@ -81,13 +75,6 @@ Follow the steps here to update your Xbox One controller software.
  Click**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915bfa7e24c.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now Windows will detect the update for your controller automatically.
 
@@ -103,20 +90,25 @@ With Pro version: Click **Update All**  to automatically download and install th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915e0fb9762.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3\. Check your device’s connection
 
  If the connection between your devices, it will also cause the issue. Please check the connection between your headset adapter and the controller, and also the connection between your headset adapter and headset cable. Make sure the connections are firm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 4\. Make sure your controller has fresh batteries
 
  When the batteries of your controller become weak, your headset could not work properly, either. In such case, you can try replace with new batters for you controller to see if the headset works.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 5\. Try using a different controller
 
@@ -139,22 +131,20 @@ With Pro version: Click **Update All**  to automatically download and install th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/solved-how-to-fix-red-screen-of-death/"><u>[SOLVED] How To Fix Red Screen of Death</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-zoom-potential-a-comprehensive-configurations-guide/"><u>[Updated] Unlocking Zoom Potential A Comprehensive Configurations Guide</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/expert-opinion-the-pros-and-cons-of-using-google-maps-for-iphone-users/"><u>Expert Opinion: The Pros and Cons of Using Google Maps for iPhone Users</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/free-online-conversion-change-webm-files-into-wma-format-with-easywebmover/"><u>Free Online Conversion: Change WebM Files Into WMA Format with EasyWebMover</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-address-the-ineteresourcenotfound-error-in-your-projects/"><u>How to Address the INET_E_RESOURCE_NOT_FOUND Error in Your Projects</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-to-overcome-boot-problems-for-asus-computers-showing-logo-screens-under-windows-11/"><u>How to Overcome Boot Problems for ASUS Computers Showing Logo Screens Under Windows 11</u></a></li>
-<li><a href="https://ai-video.techidaily.com/how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-performance-premier-all-in-one-cooler-reviews-and-comparisons/"><u>Leading Performance: Premier All-In-One Cooler Reviews & Comparisons</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-start-instructions-to-get-your-intel-dual-band-driver-up-and-running/"><u>Quick-Start Instructions to Get Your Intel Dual Band Driver Up and Running</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-device-detection-errors-a-guide-for-bluetooth-in-windows-10/"><u>Solving Device Detection Errors: A Guide for Bluetooth in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-windows-11-usb-connectivity-issues-quick-fixes-and-tips/"><u>Solving Windows 11 USB Connectivity Issues: Quick Fixes and Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-correct-chromes-errnetworkchanged-or-similar-issues/"><u>Step-by-Step Guide to Correct Chrome's ERR_NETWORK_CHANGED or Similar Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-comprehensive-guide-to-free-pdf-editors-ranked-1-13-july-2024-edition/"><u>The Comprehensive Guide to Free PDF Editors - Ranked #1-13, July 2024 Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-get-your-non-responsive-chrome-back-on-track/"><u>Troubleshooting: Get Your Non-Responsive Chrome Back on Track</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-microsoft-telemetry-overwhelms-storage-on-your-windows-10-machine/"><u>Troubleshooting: Microsoft Telemetry Overwhelms Storage on Your Windows 10 Machine</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-against-unresponsive-file-explorer-on-your-windows-11-system-solution/"><u>Winning Against Unresponsive File Explorer on Your Windows 11 System [Solution]</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-12-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi 12 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-ultimate-compilation-ringtone-renaissance-sites/"><u>[New] Ultimate Compilation Ringtone Renaissance Sites</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-superior-suggestions-top-websites-for-acquiring-snapalert-melodies/"><u>2024 Approved Superior Suggestions Top Websites for Acquiring SnapAlert Melodies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/brainless-battles-top-8-zombie-shooter-contenders/"><u>Brainless Battles Top 8 Zombie Shooter Contenders</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/connect-your-microsoft-wireless-display-to-windows-11-step-by-step-troubleshooting-guide/"><u>Connect Your Microsoft Wireless Display to Windows 11: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-virtual-worlds-worth-playing-for-2024/"><u>Essential Virtual Worlds Worth Playing for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-non-existent-opencl-dynamic-libraries/"><u>Fixing Non-Existent OpenCL Dynamic Libraries</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-sluggish-closure-problem-windows-10-troubleshooting/"><u>Fixing the Sluggish Closure Problem: Windows 10 Troubleshooting</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/macs-screenflow-insights-complete-coverage-for-2024/"><u>Mac's ScreenFlow Insights - Complete Coverage for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/minecraft-opengl-problems-demystified-how-to-restore-smooth-gameplay/"><u>Minecraft OpenGL Problems Demystified: How to Restore Smooth Gameplay</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/navigating-the-world-of-gopro-and-time-lapse-shooting/"><u>Navigating the World of GoPro and Time-Lapse Shooting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-internet-explorer-is-no-longer-supported-error-a-comprehensive-guide/"><u>Resolving the 'Internet Explorer Is No Longer Supported' Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-definitive-guide-to-repairing-red-screen-malfunctions-solutions-that-work/"><u>The Definitive Guide to Repairing Red Screen Malfunctions: Solutions That Work</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-10-best-drones-for-kids-and-beginners/"><u>Top 10 Best Drones for Kids and Beginners</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-common-easy-hacks-blocker-faults-in-apex-legends/"><u>Troubleshooting Common Easy Hacks Blocker Faults in Apex Legends</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-chatgpts-feature-for-tailored-guidance-a-comprehensive-guide/"><u>Unveiling ChatGPT's Feature for Tailored Guidance - A Comprehensive Guide</u></a></li>
 </ul></div>
 

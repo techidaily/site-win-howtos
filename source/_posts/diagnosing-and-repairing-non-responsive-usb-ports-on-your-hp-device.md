@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Non-Responsive USB Ports on Your HP Device
-date: 2024-11-15T20:56:09.643Z
-updated: 2024-11-18T23:38:17.536Z
+date: 2024-11-25T20:26:56.410Z
+updated: 2024-11-28T07:10:50.198Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -43,22 +47,23 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -77,13 +82,6 @@ Here’s how to reinstall the keyboard driver:
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -109,13 +107,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -131,16 +122,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -150,16 +138,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -199,19 +184,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-exploring-originality-how-to-uncover-roots-of-instagram-visuals/"><u>[New] In 2024, Exploring Originality How to Uncover Roots of Instagram Visuals</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-swiftly-secure-your-favorite-podcast-episodes-on-iphone/"><u>[New] In 2024, Swiftly Secure Your Favorite Podcast Episodes on iPhone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-6-youtuber-quizzes-to-know-what-type-of-youtuber-you-are/"><u>[Updated] In 2024, 6 YouTuber Quizzes to Know What Type of YouTuber You Are</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-converting-moments-into-art-gopro-studios-time-lapse-blueprint/"><u>[Updated] In 2024, Converting Moments Into Art GoPro Studio's Time Lapse Blueprint</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-revolutionize-your-content-with-these-top-10-editing-strategies/"><u>[Updated] Revolutionize Your Content with These Top 10 Editing Strategies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-a-non-functioning-huion-pen-in-just-5-steps/"><u>Fix a Non-Functioning Huion Pen in Just 5 Steps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-reliable-is-using-chatgpt-for-crafting-effective-individual-focused-workout-schemes-that-prioritize-safety/"><u>How Reliable Is Using ChatGPT for Crafting Effective, Individual-Focused Workout Schemes That Prioritize Safety?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-elevate-your-game-saves-with-advanced-overwatch-recording/"><u>In 2024, Elevate Your Game Saves with Advanced Overwatch Recording</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-issue-missing-touchscreen-controls-and-virtual-keyboard-accessibility/"><u>Resolved Issue: Missing Touchscreen Controls and Virtual Keyboard Accessibility</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-wired-connection-problems-in-windows-11-and-7-a-comprehensive-guide/"><u>Solving Wired Connection Problems in Windows 11 and 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/success-story-overcoming-microsoft-store-openness-hurdles/"><u>Success Story: Overcoming Microsoft Store Openness Hurdles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-faux-fabric-of-fiction-spotting-ai-spun-stories/"><u>The Faux Fabric of Fiction: Spotting AI-Spun Stories</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-zn-gadget-failures-usb-mouse-and-keyboard-solutions/"><u>Windows ˈzɜːn Gadget Failures: USB Mouse and Keyboard Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-failed-to-enumerate-objects-in-the-container-access-is-denied-solved/"><u>Windows 11 Failed to Enumerate Objects in the Container. Access Is Denied [Solved]</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-boosting-online-presence-top-30-freefire-hashtags-and-tag-strategies/"><u>[New] Boosting Online Presence Top 30 FreeFire Hashtags and Tag Strategies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-maximizing-hd-playback-on-social-media-fb-for-2024/"><u>[New] Maximizing HD Playback on Social Media (FB) for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-launching-virtual-meetups-in-whatsapp-web-directly-from-your-notebook/"><u>2024 Approved Launching Virtual Meetups in WhatsApp Web, Directly From Your Notebook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-process-of-enlisting-videos-on-youtube-shelves/"><u>2024 Approved Navigating the Process of Enlisting Videos on YouTube Shelves</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/discover-the-joy-of-customized-messaging-downloading-and-tailoring-whatsapp-ringtones-on-mobile-for-2024/"><u>Discover the Joy of Customized Messaging Downloading & Tailoring WhatsApp Ringtones on Mobile for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-windows-11-screen-saver-issues-troubleshooting-steps/"><u>Fix Windows 11 Screen Saver Issues - Troubleshooting Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-your-wacom-tablet-when-it-stops-responding/"><u>How To Repair Your Wacom Tablet When It Stops Responding</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-asus-rog-phone-7-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Asus ROG Phone 7 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/inconsistent-input-mechanism/"><u>Inconsistent Input Mechanism</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-keeping-your-machine-awake-all-night-hassle-free/"><u>Master the Art of Keeping Your Machine Awake All Night, Hassle-Free</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/neo-theater-narratives-virtual-realms/"><u>Neo-Theater Narratives Virtual Realms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-compatibility-hurdles-in-your-recent-windows-10-build-1903-feature-update/"><u>Overcoming Compatibility Hurdles in Your Recent Windows 10 Build 1903 Feature Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-11s-corrupted-file-issues-step-by-step-guide/"><u>Resolving Windows 11'S Corrupted File Issues: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-resolution-of-the-critical-error-0x800f020b-during-xerox-printer-updates-in-windows/"><u>Step-by-Step Resolution of the Critical Error 0X800F020b During Xerox Printer Updates in Windows</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/top-5-kostenloses-clonen-software-fur-ssds-schnelles-kopieren-von-hdd-auf-ssd/"><u>Top 5 Kostenloses Clonen-Software Für SSDs: Schnelles Kopieren Von HDD Auf SSD</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-stabilizing-manor-lords-gameplay-on-windows-and-mac/"><u>Troubleshooting Tips for Stabilizing 'Manor Lords' Gameplay on Windows and Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-is-my-netflix-streaming-service-currently-unavailable/"><u>Troubleshooting: Is My Netflix Streaming Service Currently Unavailable?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211963517-uncover-the-answers-total-war-rome-remastered-gameplay-interruptions-solved/"><u>Uncover the Answers: Total War: Rome Remastered Gameplay Interruptions Solved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-solving-common-update-errors-in-warframe-a-step-by-step-approach/"><u>Understanding and Solving Common Update Errors in Warframe – A Step-by-Step Approach</u></a></li>
 </ul></div>
 

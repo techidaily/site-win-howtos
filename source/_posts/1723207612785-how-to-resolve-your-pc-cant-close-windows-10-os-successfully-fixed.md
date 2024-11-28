@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Your PC Can't Close Windows 10 OS Successfully – FIXED!
-date: 2024-11-14T22:39:59.948Z
-updated: 2024-11-19T01:18:58.918Z
+date: 2024-11-25T19:18:22.389Z
+updated: 2024-11-27T19:29:29.857Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 fixes for C**omputer Won’t Shut Down**
 
@@ -51,16 +55,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -69,13 +70,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
@@ -86,14 +80,11 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 3: Change boot order in BIOS
 
@@ -103,14 +94,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
@@ -133,10 +125,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
@@ -165,20 +154,17 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-prolific-profits-from-youtube-universal-strategies-unveiled/"><u>[New] Prolific Profits From YouTube Universal Strategies Unveiled</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-visual-narratives-that-speak-volumes-with-instagramcaptions-for-2024/"><u>[New] Visual Narratives That Speak Volumes with #InstagramCaptions for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-transform-your-broadcasts-5-advanced-recording-methods-web/"><u>[Updated] 2024 Approved Transform Your Broadcasts 5 Advanced Recording Methods Web</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-stand-out-with-these-20-must-try-tiktok-caption-ideas/"><u>[Updated] In 2024, Stand Out with These 20 Must-Try TikTok Caption Ideas</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/curing-csgos-crash-problems-with-these-swift-and-straightforward-fixes/"><u>Curing CSGO's Crash Problems with These Swift and Straightforward Fixes</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/elevate-farming-fun-with-these-top-7-stardew-valley-enhancements-for-2024/"><u>Elevate Farming Fun with These Top 7 Stardew Valley Enhancements for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-guide-how-to-resolve-a-stuck-white-or-black-screen-on-your-laptop/"><u>Expert Guide: How to Resolve a Stuck White or Black Screen on Your Laptop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-11-update-issue-guide-through-the-0x800705b4-error/"><u>Fixing the Windows 11 Update Issue: Guide Through the 0X800705B4 Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-get-your-nintendo-switchs-microphone-working-again-professional-repair-techniques/"><u>How To Get Your Nintendo Switch's Microphone Working Again: Professional Repair Techniques</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-v29-pro-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo V29 Pro Phone Hassle-Free</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211775888-pubg-2024-master-the-art-of-fixing-game-launch-issues-and-start-enjoying-now/"><u>PUBG 2024: Master the Art of Fixing Game Launch Issues and Start Enjoying Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/realtek-driver-trouble-discover-how-to-restore-missing-controller-detection/"><u>Realtek Driver Trouble? Discover How to Restore Missing Controller Detection</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-oppo-a1x-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Oppo A1x 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-dealing-with-hanging-windows-10-interfaces/"><u>Troubleshooting Tips for Dealing with Hanging Windows 10 Interfaces</u></a></li>
-<li><a href="https://win-forum.techidaily.com/windows-11-quick-launch-techniques-a-step-by-step-booting-speed-guide/"><u>Windows 11 Quick Launch Techniques: A Step-by-Step Booting Speed Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/iscover-the-epic-android-video-editor-apps-for-2024/"><u>[New] Discover the Epic Android Video Editor Apps for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-dissecting-the-metaverse-vs-multi-meva-landscape-expert-guide/"><u>[Updated] Dissecting the Metaverse Vs. Multi-Meva Landscape (Expert Guide)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-efficient-screen-recording-on-xbox-explained-for-2024/"><u>[Updated] Efficient Screen Recording on Xbox Explained for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/craft-your-virtual-persona-with-our-metaverse-guide/"><u>Craft Your Virtual Persona with Our Metaverse Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/detailed-tutorial-fixing-driverpowerstatefailure-complications-on-your-pc/"><u>Detailed Tutorial: Fixing DRIVER_POWER_STATE_FAILURE Complications on Your PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-your-unknown-wishlist-item-the-enchanting-smart-light-projector-reviewed-on-zdnet/"><u>Discover Your Unknown Wishlist Item - The Enchanting Smart Light Projector Reviewed on ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-resolution-correcting-the-no-entry-point-found-warning-in-windows/"><u>Error Resolution: Correcting the 'No Entry Point Found' Warning in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-printer-back-online-after-driver-has-stopped-working-in-a-32-bit-system/"><u>How to Get Your Printer Back Online After 'Driver Has Stopped Working' In a 32-Bit System</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-software-control-crashes-quickly-and-efficiently-expert-tips/"><u>Resolve Your Software Control Crashes Quickly and Efficiently: Expert Tips</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/steady-snapstreaks-tips-to-never-miss-a-snap-for-2024/"><u>Steady Snapstreaks Tips to Never Miss a Snap for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-non-responsive-brightness-settings-on-windows-11/"><u>Troubleshooting: Fixing Non-Responsive Brightness Settings on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-fixing-window-10-touchpad-scrolling-problems/"><u>Ultimate Guide: Fixing Window 10 Touchpad Scrolling Problems</u></a></li>
 </ul></div>
 

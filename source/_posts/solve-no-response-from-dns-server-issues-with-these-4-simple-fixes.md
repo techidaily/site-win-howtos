@@ -1,7 +1,7 @@
 ---
 title: Solve 'No Response From DNS Server' Issues with These 4 Simple Fixes
-date: 2024-11-15T00:19:11.987Z
-updated: 2024-11-18T22:39:41.437Z
+date: 2024-11-27T09:45:55.393Z
+updated: 2024-11-28T01:58:45.581Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ If this problem occurs, don’t worry. Follow this guide to fix it.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 If you’d like to know why you can’t browse the Internet due to the **‘DNS server not responding**, you can go to read the [reason part](#reason). Otherwise, follow along with the solutions directly.
@@ -41,13 +45,6 @@ If you’d like to know why you can’t browse the Internet due to the **‘DNS 
 **Bonus Tip: Try using [VPN](https://tools.techidaily.com/drivereasy/download/)to fix the connection problem.**
 
 **Note:** The screens shown below are from Windows 10, but all the methods also apply to Windows 11/8/7.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 1: Correct your DNS server address
 
@@ -63,9 +60,17 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1287bc28f2e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Click **Change adapter settings**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1286df40874.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Right-click on **Local Area Connection**, **Ethernet** or **Wi-Fi** according to your Windows. Then click **Properties**.|  
 
@@ -75,42 +80,29 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a128fa0c7dc8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7) Tick on **Obtain an IP address automatically** and **Obtain DNS server address automatically**. Then click **OK**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12900623628.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8) Click **Internet Protocol Version 6(TCP/IPv6)**, then **Properties**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12903014de5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9) Tick on **Obtain an IP address automatically** and **Obtain DNS server address automatically**. Then click **OK**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12905d90a85.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Restart your computer and try to access the website you want to go to again and see if it succeeds.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Clear your DNS cache and reset your IP
 
@@ -135,22 +127,12 @@ There may be problems with your DNS server if its cache is getting full. To see 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a129aa3217b1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then restart your computer and try to access the website you want to visit again and see if it succeeds.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 3: Update your network adapter driver
 
@@ -185,6 +167,10 @@ If your modem or router doesn’t work properly, the DNS server could stop respo
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Why can’t I access websites when the DNS server not responding?
 
 First, let’s figure out what a DNS server is. **DNS (** **Domain Name System)** server helps to translate the website address into the IP address for your browser to connect to.
@@ -214,22 +200,20 @@ Hopefully, this article has helped you fixed the problem. Feel free to comment b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-optimizing-color-palette-with-luts-a-guide-to-premiere/"><u>[New] 2024 Approved Optimizing Color Palette with LUTs A Guide to Premiere</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-audience-connection-implementing-a-triplet-of-copywriting-tactics-in-fb-ads-for-2024/"><u>[New] Audience Connection Implementing a Triplet of Copywriting Tactics in FB Ads for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-2023s-premier-ios-emulators-excellent-psp-gaming-choices/"><u>[Updated] 2024 Approved 2023'S Premier iOS Emulators Excellent PSP Gaming Choices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-capturing-footage-from-above-drone-filming-tips/"><u>[Updated] Capturing Footage From Above Drone Filming Tips</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-how-to-convert-youtube-videos-to-gifs/"><u>2024 Approved How to Convert YouTube Videos to GIFs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-on-repairing-a-broken-signature-character-input/"><u>Expert Advice on Repairing a Broken '@' Signature Character Input</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208806869-fix-windows-update-error-8007000e-fast-a-step-by-step-guide/"><u>Fix Windows Update Error 8007000E Fast: A Step-by-Step Guide!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-the-most-out-of-your-laptop-fixing-issues-with-the-trackpad/"><u>Getting the Most Out of Your Laptop: Fixing Issues with the Trackpad</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correctly-resolve-win11win8win7-error-this-device-is-not-present-code-24/"><u>How to Correctly Resolve Win11/Win8/Win7 Error 'This Device Is Not Present (Code 24)'</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-remove-cluttered-backgrounds-using-picarts-features/"><u>In 2024, Remove Cluttered Backgrounds Using PicArt's Features</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-performers-the-best-of-8-mirrorless-cameras-for-video-creators-for-2024/"><u>Proven Performers The Best of 8 Mirrorless Cameras for Video Creators for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-restoring-turned-off-mobile-internet-access/"><u>Step-by-Step Fixes for Restoring Turned-Off Mobile Internet Access</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-get-your-windows-10-sound-back-on-track/"><u>Troubleshooting Steps to Get Your Windows 10 Sound Back on Track</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/tutoriel-complet-pour-le-sauvegarde-et-lutilisation-du-clonage-de-disque-c-sur-windows-server-2022/"><u>Tutoriel Complet Pour Le Sauvegarde Et L'Utilisation Du Clonage De Disque C Sur Windows Server 2022</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723203895192-unlocking-bluetooth-potential-in-windows-7-comprehensive-solutions-covered/"><u>Unlocking Bluetooth Potential in Windows 7: Comprehensive Solutions Covered</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-cant-i-get-to-the-windows-smartscreen-right-now-solutions-for-temporary-glitches/"><u>Why Can't I Get to the Windows SmartScreen Right Now? Solutions for Temporary Glitches</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-lava-blaze-2-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Lava Blaze 2? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-circulation-craft-expert-for-2024/"><u>[Updated] Circulation Craft Expert for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-creating-a-personal-brand-on-facebook-for-2024/"><u>[Updated] Creating a Personal Brand on Facebook for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/14-ways-to-make-irresistible-gourmet-vids-for-2024/"><u>14 Ways to Make Irresistible Gourmet Vids for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-scrutiny-of-xstream-video-hubs-features/"><u>2024 Approved Comprehensive Scrutiny of XStream Video Hub's Features</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-enhance-your-channels-voice-dive-into-the-world-of-banner-makers-apps/"><u>2024 Approved Enhance Your Channel's Voice Dive Into the World of Banner Makers (Apps)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-correcting-and-preventing-windows-error-0xc00000xe9-a-detailed-guide/"><u>Expert Tips for Correcting and Preventing Windows Error 0xC00000^XE9 – A Detailed Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oneplus-nord-n30-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from OnePlus Nord N30 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-list-websites-with-free-thrones-audio-downloads/"><u>In 2024, A-List Websites with Free Thrones Audio Downloads</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-expert-tips-elevating-your-projects-with-movie-maker-in-win11/"><u>In 2024, Expert Tips Elevating Your Projects with Movie Maker in Win11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-windows-getting-ready-hurdle-expert-fixes-and-tips/"><u>Overcoming the 'Windows Getting Ready' Hurdle: Expert Fixes and Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-lava-storm-5g-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Lava Storm 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-unavailability-problems-with-destiny-2-servers-a-step-by-step-guide/"><u>Solving Unavailability Problems with Destiny 2 Servers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-your-problems-the-ultimate-guide-to-resolve-steam-updates-failure/"><u>Solving Your Problems: The Ultimate Guide to Resolve Steam Updates Failure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-the-non-functional-night-light-feature-in-windows-10-and-11/"><u>Troubleshooting Guide: Fixing the Non-Functional Night Light Feature in Windows 10 & 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-astro-a40-microphone-fixes-and-solutions/"><u>Troubleshooting Your Astro A40 Microphone: Fixes & Solutions</u></a></li>
 </ul></div>
 

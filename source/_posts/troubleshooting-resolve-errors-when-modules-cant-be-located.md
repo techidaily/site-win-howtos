@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Resolve Errors When Modules Can't Be Located"
-date: 2024-09-11T15:25:33.543Z
-updated: 2024-09-12T15:25:33.543Z
+date: 2024-11-27T04:21:06.772Z
+updated: 2024-11-28T07:15:31.777Z
 tags:
   - win11
   - win10
@@ -27,16 +27,7 @@ thumbnail: https://thmb.techidaily.com/6ed52b8d826a5b6701c9229d81239cb21a1a6ea95
 >
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Can I Fix Code 31 in Device Manager?
@@ -49,10 +40,7 @@ thumbnail: https://thmb.techidaily.com/6ed52b8d826a5b6701c9229d81239cb21a1a6ea95
 **Note** : The screenshots below are shown on Windows 10, but the fixes apply to Windows 8, Windows 7, Windows Vista and Windows XP.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Solution 1: Restart your computer to fix Code 31**
@@ -62,10 +50,7 @@ thumbnail: https://thmb.techidaily.com/6ed52b8d826a5b6701c9229d81239cb21a1a6ea95
  If it’s the connected hardware that has the driver issue, you can also try to reconnect the hardware device to your computer, then restart the computer again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Solution 2: Update the driver to fix Code 31**
@@ -89,10 +74,7 @@ thumbnail: https://thmb.techidaily.com/6ed52b8d826a5b6701c9229d81239cb21a1a6ea95
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7ad4d9d7044.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**   button next to the flagged driver to automatically install the correct driver. (You can do this with the FREE version)
@@ -102,10 +84,7 @@ thumbnail: https://thmb.techidaily.com/6ed52b8d826a5b6701c9229d81239cb21a1a6ea95
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7ad50b355c3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) After updating drivers, restart your computer, and reconnect your device to see if the issue is resolved.
@@ -128,5 +107,19 @@ thumbnail: https://thmb.techidaily.com/6ed52b8d826a5b6701c9229d81239cb21a1a6ea95
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-from-airwaves-to-archives-expert-tips-on-recording-live-streams/"><u>[New] From Airwaves to Archives Expert Tips on Recording Live Streams</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-explore-iphones-best-value-top-10-budget-friendly-photo-collage-apps/"><u>[New] In 2024, Explore iPhone's Best Value Top 10 Budget-Friendly Photo Collage Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-infographic-lens-on-2017s-youtube-numerical-truths/"><u>[New] The Infographic Lens on 2017'S Youtube Numerical Truths</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nveiling-the-best-no-money-video-editor-picks/"><u>[New] Unveiling the Best No-Money Video Editor Picks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-goofy-adventure-a-critical-appraisal-videotape-edition/"><u>[Updated] 2024 Approved 'The Goofy Adventure' - A Critical Appraisal Videotape Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-correcting-microsoft-visual-cplusplus-2010-redistributable-error-vcruntime140dll-not-found-fixed/"><u>Guide to Correcting Microsoft Visual C++ 2010 Redistributable Error: VCRUNTIME140.dll Not Found [FIXED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-speed-up-your-pcs-shutdown-process-on-windows-11/"><u>How to Speed Up Your PC's Shutdown Process on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-speed-up-your-windows-7-startup-and-fix-boot-lag/"><u>How to Speed Up Your Windows 7 Startup and Fix Boot Lag</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-xs-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone XS without Apple ID?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-innovating-education-with-virtual-immersion/"><u>In 2024, Innovating Education with Virtual Immersion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-guide-for-windows-1011-update-issue-error-0x8024401c-explained/"><u>Step-by-Step Fix Guide for Windows 10/11 Update Issue: Error 0X8024401c Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-for-turning-on-bluetooth-in/"><u>Step-by-Step Instructions for Turning On Bluetooth In</u></a></li>
+</ul></div>
 

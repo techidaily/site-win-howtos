@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Correcting Nonfunctional Audio Levels in Windows 11
-date: 2024-11-15T19:22:23.474Z
-updated: 2024-11-18T23:59:22.894Z
+date: 2024-11-22T14:17:39.594Z
+updated: 2024-11-28T01:07:05.882Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Tweak your camera privacy settings
 
  Windows allows you to tweak the camera privacy settings to have a control over whether you allow access to camera on your HP laptop and which apps are allowed or denied. To make sure it’s enabled:
@@ -40,20 +44,25 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff3b628678.png)
 2. Make sure to toggle**On** **Allow apps to access your camera** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff5be2b4ad.jpg)
 3. Scroll down to**Choose which apps can access your camera** and toggle**On** ALL the apps you want access to camera.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff6254a550.jpg)
 4. Close the window, test the camera and see if it’s working properly. If it works, then congrats! But if it doesn’t, please move on to**Fix 2** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your camera driver
 
@@ -69,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdffcedce806.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be0033072f1b.jpg)
@@ -80,19 +93,6 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 5) Check your laptop camera to see if the problem is resolved. If yes, then great! If the issue still remains, please try**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your camera driver
 
@@ -109,34 +109,13 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be01186337dc.jpg)
 4. Click **Yes**   to confirm the uninstall.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. **Restart**   your computer.
 6. On your keyboard, press  **the Windows logo key**  and   **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be00c2cd78eb.png)
 7. Click**Action** \>**Scan for hardware changes** so that Windows can reinstall the driver for your PC (a generic one though).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be01480c86ca.jpg)
 8. Check your camera and see if it’s working properly.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -159,22 +138,21 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-discover-the-enhanced-features-of-2023s-samsung-bd-j5900-for-2024/"><u>[Updated] Discover the Enhanced Features of 2023'S Samsung BD-J5900 for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-top-tier-mp4-director-for-facebook-for-2024/"><u>[Updated] Top-Tier MP4 Director for Facebook for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-building-your-signature-solo-podcast-series/"><u>2024 Approved Building Your Signature Solo Podcast Series</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-synchronized-group-challenges-in-anime-inspired-tiktok-videos/"><u>2024 Approved Synchronized Group Challenges in Anime-Inspired TikTok Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/barriers-to-success-unveiling-the-reasons-behind-teredos-non-qualification/"><u>Barriers to Success: Unveiling the Reasons Behind Teredo's Non-Qualification</u></a></li>
-<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-rectified-device-not-found-code-eb-for-users-of-windows-11-8-and-7/"><u>Error Rectified: 'Device Not Found' (Code Eb) for Users of Windows 11, 8 & 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-resolving-computer-hangs-during-startup/"><u>Fixing the Issue: Resolving Computer Hangs During Startup</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-samsung-phones-adb-software-on-the-go/"><u>Get Your Samsung Phone's ADB Software on the Go!</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-segment-screen-showdown-recorders-leader-status/"><u>In 2024, Segment Screen Showdown Recorder's Leader Status</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-honor-100-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Honor 100 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-adobe-premiere-pro-power-ups-top-15-free-plugins-to-boost-your-workflow/"><u>New 2024 Approved Adobe Premiere Pro Power-Ups Top 15 Free Plugins to Boost Your Workflow</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reboot-call-when-playing-games/"><u>Reboot Call When Playing Games</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-solutions-to-reset-and-optimize-your-keyboard-performance/"><u>Simple Solutions to Reset and Optimize Your Keyboard Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restoring-mouse-right-click-functionality-in-windows-10/"><u>Troubleshooting Guide: Restoring Mouse Right-Click Functionality in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-rpc-server-unreachable-errors-on-pc/"><u>Troubleshooting Steps for 'RPC Server Unreachable' Errors on PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-correcting-the-0x802n40034-error-on-windows-10-os/"><u>Understanding and Correcting the 0X802n40034 Error on Windows 10 OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/camera-troubles-behind-you-expert-tips-to-rectify-windows-error-0xa00f4292-and-resume-photography/"><u>[Camera Troubles Behind You]: Expert Tips to Rectify Windows Error 0xA00F4292 and Resume Photography!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-configuring-who-can-see-your-youtube-clips/"><u>[New] Configuring Who Can See Your YouTube Clips</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-crafting-and-gauging-the-success-of-fb-instream-ads-for-2024/"><u>[New] Crafting and Gauging the Success of FB Instream Ads for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-strategies-for-full-screen-edits-in-premiere/"><u>[New] Expert Strategies for Full Screen Edits in Premiere</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-crystal-crisp-playback-ps5s-favorite-hdmi-21-displays-for-2024/"><u>[Updated] Crystal Crisp Playback PS5's Favorite HDMI 2.1 Displays for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bringing-harmony-to-your-screen-fixing-microsofts-display-connections-in-windows-10/"><u>Bringing Harmony to Your Screen: Fixing Microsoft's Display Connections in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-a-non-responsive-steam-store-page-error/"><u>Easy Fixes for a Non-Responsive Steam Store Page Error</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elevate-your-mobile-game-with-samsung-galaxy-note-9-the-ultimate-big-screen-handset-review/"><u>Elevate Your Mobile Game with Samsung Galaxy Note 9 – The Ultimate Big Screen Handset Review</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-easily-install-and-upgrade-to-the-newest-nvidia-rtx-3070-driver-for-windows-users/"><u>How to Easily Install & Upgrade to the Newest NVIDIA RTX 3070 Driver for Windows Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-dark-display-challenges-expert-strategies-for-your-dell-computer/"><u>Overcoming Dark Display Challenges: Expert Strategies for Your Dell Computer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-simple-guide-updating-your-msi-graphics-drivers-in-windows-11-and-7/"><u>Quick and Simple Guide: Updating Your MSI Graphics Drivers in Windows 11 & 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-youtube-sound-issues-a-guide-to-fixing-audio-renderer-errors-in-windows-11/"><u>Resolving YouTube Sound Issues: A Guide to Fixing Audio Renderer Errors in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-repairing-failed-logins-to-user-profile-service-an-in-depth-tutorial/"><u>Successfully Repairing Failed Logins to User Profile Service: An In-Depth Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/technical-collapse-terminal-hardware-problem/"><u>Technical Collapse: Terminal Hardware Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-noise-issues-in-acer-laptops-quick-guide/"><u>Troubleshooting Noise Issues in Acer Laptops - Quick Guide</u></a></li>
 </ul></div>
 

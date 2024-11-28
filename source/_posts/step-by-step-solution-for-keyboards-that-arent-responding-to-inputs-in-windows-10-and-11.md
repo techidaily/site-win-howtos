@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Keyboards That Aren't Responding to Inputs in Windows 10 and 11
-date: 2024-11-16T18:40:56.250Z
-updated: 2024-11-18T18:14:26.064Z
+date: 2024-11-25T12:10:30.207Z
+updated: 2024-11-28T10:35:41.010Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/6be5b234be2302864f9331a3a3d7aaacb0018bce1
 4. **[Repair system files](#repair-system-files)**
 
 * [**Tips: Keyboard maintenance**](#tips)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Hard reset your keyboard
 
@@ -81,6 +74,10 @@ If you’re a laptop user, you could follow these steps:
  If your keys work fine in the BIOS, it means it’s a software issue. You should move to[Fix 3](#f3) .  
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your keyboard driver
 
  Your letter keys may not be working properly because you’re using the wrong keyboard driver or it’s out of date. You should update your keyboard driver to see if this fixes your keyboard.
@@ -111,13 +108,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
@@ -137,26 +127,28 @@ OR
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tips: Keyboard maintenance
 
@@ -185,24 +177,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-simplified-hp-laptop-screen-recording-four-effective-ways/"><u>[New] 2024 Approved Simplified HP Laptop Screen Recording - Four Effective Ways</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-gospel-music-how-to-download-and-modify-your-ringtone/"><u>[New] Exploring Gospel Music How to Download & Modify Your Ringtone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-4-ways-how-to-download-videos-from-facebook-messenger/"><u>[Updated] In 2024, 4 Ways | How to Download Videos From Facebook Messenger?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-tecno-spark-go-2024-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Tecno Spark Go (2024) FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/effortless-dvd-conversion-for-imac-users-mastering-the-art-of-film-transfers/"><u>Effortless DVD Conversion for iMac Users: Mastering the Art of Film Transfers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/five-steps-to-resolve-chromecast-connectivity-problems-quickly/"><u>Five Steps to Resolve Chromecast Connectivity Problems Quickly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-cwindowssystem32configsystemprofiledesktop-not-found-issue/"><u>Fixing the C: Windows System32 Config SystemProfile Desktop Not Found Issue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-script-to-speech-forge-your-own-chatgpt-journey/"><u>From Script to Speech: Forge Your Own ChatGPT Journey</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-shockwave-flash-issues-on-google-chrome/"><u>How to Repair Shockwave Flash Issues on Google Chrome</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-samsung-galaxy-z-flip-5-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Samsung Galaxy Z Flip 5 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quickfix-guide-to-eliminate-lag-in-your-minecraft-adventures/"><u>QuickFix Guide to Eliminate Lag in Your Minecraft Adventures</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/soundtrack-your-life-a-complete-guide-to-adding-personalized-ringtones-and-sounds/"><u>Soundtrack Your Life A Complete Guide to Adding Personalized Ringtones & Sounds</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/transfer-data-from-your-previous-iphone-model-to-the-latest-iphone-12/"><u>Transfer Data From Your Previous iPhone Model to the Latest iPhone 12</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-printer-activation-problems-with-error-code-30/"><u>Troubleshooting and Fixing Printer Activation Problems with Error Code -30</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-ensuring-compatibility-of-your-hardware-with-windows/"><u>Troubleshooting Guide: Ensuring Compatibility of Your Hardware with Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-persistent-problems-with-missing-cursors-on-windows-11/"><u>Troubleshooting: Persistent Problems with Missing Cursors on Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-alert-top-ranked-gaming-audio-systems-now-30-cheaper-on-amazon-insider-review/"><u>Unbeatable Deal Alert: Top-Ranked Gaming Audio Systems Now 30% Cheaper on Amazon - Insider Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-the-invalid-directory-name-mistake-effectively/"><u>Understanding and Resolving the 'Invalid Directory Name' Mistake Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/units-sold-u-150000/"><u>Units Sold (U) = 150,000</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-staying-within-aspect-ratio-guidelines-for-youtube-style-tweeted-content/"><u>[Updated] 2024 Approved Staying Within Aspect Ratio Guidelines for YouTube-Style Tweeted Content</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/androidiphones-finest-top-10-cost-effective-image-enhancers-ranked-for-2024/"><u>Android/iPhone's Finest – Top 10 Cost-Effective Image Enhancers Ranked for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209293464-fix-unresponsive-keyboard-navigation-buttons-top-strategies-inside/"><u>Fix Unresponsive Keyboard Navigation Buttons - Top Strategies Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-identified-potential-flaw-in-windows-11s-update-mechanism-a-comprehensive-guide/"><u>Fixing the Identified Potential Flaw in Windows 11'S Update Mechanism - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-troublesome-windows-update-issue-overcoming-error-0x8024402c/"><u>Fixing the Troublesome Windows Update Issue - Overcoming Error 0X8024402c</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-infinix-note-30i-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Infinix Note 30i to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-pc-video-dubbing-made-easy-top-6-software-solutions/"><u>New 2024 Approved PC Video Dubbing Made Easy Top 6 Software Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/pioneering-gadgets-and-components-at-toms-technology-oasis/"><u>Pioneering Gadgets and Components at Tom's Technology Oasis</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/professional-tools-to-elevate-your-video-openings-for-2024/"><u>Professional Tools to Elevate Your Video Openings for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/showcasing-self-with-instagram-a-collection-of-100-captions-for-2024/"><u>Showcasing Self with Instagram A Collection of 100 Captions for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-stop-windows-ts-constant-restarts-with-simple-solutions/"><u>Step-by-Step Guide: Stop Windows T's Constant Restarts with Simple Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-7-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 7 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-continuous-usb-disconnection-problems-effectively/"><u>Troubleshooting Continuous USB Disconnection Problems Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-steam-download-failures-during-updates/"><u>Troubleshooting Guide: Resolving Steam Download Failures During Updates</u></a></li>
 </ul></div>
 

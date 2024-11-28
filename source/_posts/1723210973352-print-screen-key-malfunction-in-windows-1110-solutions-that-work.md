@@ -1,7 +1,7 @@
 ---
 title: Print Screen Key Malfunction in Windows 11/10 – Solutions That Work
-date: 2024-09-11T15:28:16.794Z
-updated: 2024-09-12T15:28:16.794Z
+date: 2024-11-21T11:57:44.159Z
+updated: 2024-11-28T09:00:32.543Z
 tags:
   - win11
   - win10
@@ -25,10 +25,7 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 >
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -40,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 3. **[Stop all the running programs](#solution3)**
 4. **[Update your operating system](#solution4)**
 5. **[Bonus Tip](#additional)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your keyboard driver
 
@@ -55,57 +56,24 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 3. Click the Update button next to a flagged keyboard driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **Pro** version – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
 4. Restart your computer and try to press the print screen key to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ```` ```` ```` ``
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Check if the print screen key is enabled
 
 ```` ```` Try to press**F Mode** key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-3.png) or**F Lock** key![](https://images.drivereasy.com/wp-content/uploads/2017/04/1-2.png) (when there are such keys on your keyboard, if not, please skip this fix), then check if the Print Screen works. That’s because such keys may prevent you from using print screen key.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ```` ````
 
 ```` ```` ```` ``
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Stop all the running programs
@@ -123,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 1. Press the**Windows logo key** . Type**check for updates** , then click**Check for updates** from the list of results.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Now on Windows Update Windows, you can check if there are any available updates for your window. If yes, install the updates and try to print screen again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus Tip
 
@@ -147,5 +119,24 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-maximizing-tv-viewership-for-facebook-live-events/"><u>[Updated] In 2024, Maximizing TV Viewership for Facebook Live Events</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-sky-high-tech-talk-the-mavic-pro-showcase/"><u>2024 Approved Sky High Tech Talk The Mavic Pro Showcase</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-gaming-with-the-nintendo-switch-lite-compact-and-portable-alternative-to-full-console/"><u>Affordable Gaming with the Nintendo Switch Lite: Compact and Portable Alternative to Full Console</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210348631-bypass-the-missing-bluetooth-hurdle-on-windows-10-effective-tips-and-tricks-inside/"><u>Bypass the 'Missing Bluetooth' Hurdle on Windows 10: Effective Tips & Tricks Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decrease-system-load-in-windows-11-by-tackling-svchostexes-excessive-cpu-utilization-a-practical-guide/"><u>Decrease System Load in Windows 11 by Tackling svchost.exe's Excessive CPU Utilization - A Practical Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-directdraw-problems-on-windows-11-with-precision-tactics/"><u>Eliminating DirectDraw Problems on Windows 11 with Precision Tactics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-striking-the-balance-visual-strategies-for-podcast-identity/"><u>In 2024, Striking the Balance Visual Strategies for Podcast Identity</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-x-fold-2-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo X Fold 2? Fixed | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ng-youtube-influencers-the-elite-top-ten-list-for-2024/"><u>Leading YouTube Influencers The Elite Top Ten List for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-league-of-legends-lag-speedy-solutions-for-downloads-and-more/"><u>Overcome League of Legends Lag: Speedy Solutions for Downloads and More</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-startup-problems-solutions-for-your-computer-failed-to-boot/"><u>Overcoming Startup Problems: Solutions for 'Your Computer Failed to Boot'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubg-wont-start-expert-troubleshooting-steps-for-the-latest-update-2024/"><u>PUBG Won't Start? Expert Troubleshooting Steps for the Latest Update - 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-pairing-problems-with-windows-11-bluetooth-devices-tips-and-tricks/"><u>Troubleshoot Pairing Problems with Windows 11 Bluetooth Devices, Tips and Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-network-latency-in-counter-strike-global-offensive/"><u>Troubleshooting High Network Latency in Counter-Strike Global Offensive</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-video-privacy-made-easy-best-blur-apps-for-iphone-and-android/"><u>Updated In 2024, Video Privacy Made Easy Best Blur Apps for iPhone and Android</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-samsung-galaxy-f15-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Samsung Galaxy F15 5G Phones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wow-reimagined-thriving-with-advanced-3d-graphics/"><u>WoW Reimagined: Thriving with Advanced 3D Graphics</u></a></li>
+</ul></div>
 

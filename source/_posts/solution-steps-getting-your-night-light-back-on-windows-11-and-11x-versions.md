@@ -1,7 +1,7 @@
 ---
 title: "Solution Steps: Getting Your Night Light Back on Windows 11 and 11X Versions"
-date: 2024-11-02T23:25:25.095Z
-updated: 2024-11-08T02:38:33.314Z
+date: 2024-12-06T21:23:40.643Z
+updated: 2024-12-07T20:22:32.744Z
 tags:
   - win11
   - win10
@@ -45,10 +45,7 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Right-click on**speakers** and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
@@ -57,18 +54,19 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 2: Update your audio driver
 
@@ -83,19 +81,20 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
 
@@ -111,22 +110,8 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
@@ -152,21 +137,20 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-achieve-professionalism-in-sims-4-videography-for-2024/"><u>[New] Achieve Professionalism in Sims 4 Videography for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-constructing-home-made-vr-headgear-with-google-cards/"><u>[Updated] Constructing Home-Made VR Headgear with Google Cards</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-enhancing-video-appeal-20-premium-thumbnail-fonts-for-2024/"><u>[Updated] Enhancing Video Appeal 20 Premium Thumbnail Fonts for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unlocking-instagrams-secrets-detailed-guide-to-user-engagement-and-reach/"><u>[Updated] In 2024, Unlocking Instagram's Secrets Detailed Guide to User Engagement and Reach</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/approach-compare-symptoms-based-on-gestational-age-at-infection/"><u>Approach: Compare Symptoms Based on Gestational Age at Infection.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bring-back-the-cursor-fixing-touchpad-glitches-in-windows-11-easily/"><u>Bring Back the Cursor: Fixing Touchpad Glitches in Windows 11 Easily</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fast-and-easy-guide-how-to-get-your-keyboard-drivers-on-windows-7/"><u>Fast and Easy Guide: How to Get Your Keyboard Drivers on Windows #7</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/from-capture-to-edit-elevating-your-immersive-video-experience-using-premiere-pro-for-2024/"><u>From Capture to Edit Elevating Your Immersive Video Experience Using Premiere Pro for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-laptop-trackpad-thats-unresponsive-on-windows-11-8-and-7-expert-solutions/"><u>How to Fix a Laptop Trackpad That's Unresponsive on Windows 11, 8 & 7: Expert Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-fix-diy-steps-to-restore-broken-usb-port-functionality-swiftly/"><u>Master the Fix: DIY Steps to Restore Broken USB Port Functionality Swiftly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-hp-laptop-camera-problems-in-windows-10-with-easy-fixes/"><u>Solve HP Laptop Camera Problems in Windows 10 with Easy Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fixing-unidentified-usb-devices-on-your-pc-running-windows-11/"><u>Step-by-Step Guide to Fixing Unidentified USB Devices on Your PC Running Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-keyboards-not-responding-at-login-screen/"><u>Step-by-Step Solution for Keyboards Not Responding at Login Screen</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209868015-9789387550179-the-power-of-awareness/"><u>The Power of Awareness | Free Book</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-tecno-spark-go-2024-by-drfone-android/"><u>Universal Unlock Pattern for Tecno Spark Go (2024)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-refresh-and-reset-easily/"><u>Windows 11 Refresh & Reset Easily</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-saving-big-on-final-cut-pro-without-paying/"><u>[New] 2024 Approved Saving Big on Final Cut Pro without Paying</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-innovative-home-designs-for-modern-minecraft-world-for-2024/"><u>[New] Innovative Home Designs for Modern Minecraft World for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-essential-8-web-destinations-for-3d-text-psd-sharing/"><u>[Updated] 2024 Approved Essential 8 Web Destinations for 3D Text PSD Sharing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/asfavimovavi/"><u>移動ASF文件無限制地到AVI格式中，Movavi 上線解決方案</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-thrilling-space-adventure-the-outer-worlds-video-game-an-engaging-sci-fi-action-experience/"><u>A Thrilling Space Adventure: The 'Outer Worlds' Video Game - An Engaging Sci-Fi Action Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cambiar-archivos-de-video-avi-a-formato-flv-sin-coste-mediante-herramientas-online/"><u>Cambiar Archivos De Video AVI a Formato FLV Sin Coste Mediante Herramientas Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/create-gif-images-from-ts-videos-at-no-cost-discover-how-movavis-web-based-service-facilitates-quick-conversions/"><u>Create GIF Images From TS Videos at No Cost - Discover How Movavi's Web-Based Service Facilitates Quick Conversions!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuit-swf-videobestanden-in-wav-format-beheren-professioneel-konverteren-met-movavi/"><u>Gratuit SWF-Videobestanden in WAV Format Beheren: Professioneel Konverteren Met Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuito-online-converter-de-imagens-do-formato-cr2-para-png-com-o-movavi/"><u>Gratuito Online: Converter De Imagens Do Formato CR2 Para PNG Com O Movavi</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-a-comprehensive-look-at-benq-sw320s-4k-features/"><u>In 2024, A Comprehensive Look at BenQ SW320's 4K Features</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-freezing-tackling-diablo-2-resurrected-game-crashes-successfully/"><u>No More Freezing: Tackling Diablo 2 Resurrected Game Crashes Successfully</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/selecting-the-ideal-iphone-for-gaming-performance/"><u>Selecting the Ideal iPhone for Gaming Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transferer-un-fichier-ogg-en-format-avi-sur-internet-sans-cout-avec-convertisseur-movieedit/"><u>Transférer Un Fichier OGG en Format AVI Sur Internet Sans Coût Avec Convertisseur - MovieEdit</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-firewall-a-complete-reboot-guide/"><u>Windows Firewall: A Complete Reboot Guide</u></a></li>
 </ul></div>
 

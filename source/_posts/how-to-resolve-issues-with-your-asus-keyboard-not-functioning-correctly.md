@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Issues with Your ASUS Keyboard Not Functioning Correctly
-date: 2024-11-27T10:36:07.184Z
-updated: 2024-11-28T13:15:55.035Z
+date: 2024-12-01T18:04:11.749Z
+updated: 2024-12-07T21:41:17.977Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -50,17 +50,13 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2edebb4167.jpg)
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee1e422d4.jpg)
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### On Windows 11
@@ -71,13 +67,13 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 3. Check if the Mouse keys toggle is On. If it is, switch it to Off.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-mouse-keys.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Open Word or Notepad to test if the number keys on your keyboard can work now.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Enable the NumLock key
 
@@ -89,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
  If the NumLock key is enabled and the number keys still don’t work, you can try pressing the NumLock key for about**5 seconds** , which did the trick for some users.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -115,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ec4831bd8.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ### Fix 4: Use a different user profile
@@ -126,6 +122,10 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
  When you’ve logged in to Windows with the new account, open Word or Notepad to test your keyboard numbers.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Check hardware issues
 
@@ -152,14 +152,22 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-the-subtle-art-of-dimming-sounds-via-audacity/"><u>[Updated] 2024 Approved Mastering the Subtle Art of Dimming Sounds via Audacity</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726029206407-twitch/"><u>「最新５つの優れた Twitch キャプチャツール - スムーズなビデオ記録」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-microsoft-print-to-pdf-error-a-step-by-step-guide-for-windows-10-and-11-users/"><u>Fixing the Microsoft Print to PDF Error: A Step-by-Step Guide for Windows 10 and 11 Users</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-samsung-galaxy-a05s-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Samsung Galaxy A05s to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revived-stalled-audio-on-discord/"><u>Revived Stalled Audio on Discord</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-5-windows-folders-tricks-for-enhanced-efficiency/"><u>Top 5 Windows Folders Tricks for Enhanced Efficiency</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-speaker-issues-and-fixing-high-pitched-sounds-in-windows-os-tips-and-solutions/"><u>Troubleshooting Speaker Issues and Fixing High-Pitched Sounds in Windows OS: Tips & Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-correcting-entry-point-missing-mistakes-on-windows-devices/"><u>Understanding and Correcting ‘Entry Point Missing’ Mistakes on Windows Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-srt-audio-file-handling-for-oses/"><u>[New] SRT Audio File Handling for OSes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lone-earbud-problem-resolution-guide/"><u>[Updated] Lone Earbud Problem Resolution Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mobile-laughs-and-memes-for-2024/"><u>[Updated] Mobile Laughs & Memes for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2024asf/"><u>「2024年に開発された最新ASF形式ファイルのプレイバックガイド」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/3-top-rated-gif-to-jpgjpeg-converter-software-reviews/"><u>3 Top-Rated GIF to JPG/JPEG Converter Software Reviews</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/5pya5paw44gu44ot44oh44kq57eo6zug44k944ov44oi44km44kn44kiic0g6kal44gf55uu44go5yaf5a655lih5pa544gn5asj5pu05yplusv6io9/"><u>最新のビデオ編集ソフトウェア - 見た目と内容両方で変更可能</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-7-free-mkv-players-enjoy-watching-mkv-files-on-any-device/"><u>Best 7 Free MKV Players: Enjoy Watching MKV Files on Any Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-video-format-transcoder-convert-dvds-to-avi-on-windows-1011-as-of-2024/"><u>Best Video Format Transcoder: Convert DVDs to AVI on Windows 10/11 as of 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/choosing-the-best-media-converter-handbrake-vs-makemkv-for-optimal-blu-ray-and-dvd-backups/"><u>Choosing the Best Media Converter: Handbrake Vs. MakeMKV for Optimal Blu-Ray & DVD Backups</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comparing-mov-and-mp4-file-formats-understanding-key-distinctions/"><u>Comparing MOV and MP4 File Formats: Understanding Key Distinctions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-vlc-sound-wave-graphics-tutorial-activating-and-customizing-audio-visuals/"><u>Comprehensive VLC Sound Wave Graphics Tutorial: Activating & Customizing Audio Visuals</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-this-article-shows-top-ten-alternatives-to-adobe-premiere-elements-with-main-functions-for-2024/"><u>New This Article Shows Top Ten Alternatives to Adobe Premiere Elements with Main Functions for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/save-big-on-your-microsoft-surface-pro-by-boosting-storage-capacity-with-these-simple-tips-from-zdnet/"><u>Save Big on Your Microsoft Surface Pro by Boosting Storage Capacity with These Simple Tips From ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tap-into-the-rhythm-web-free-and-comprehensive-for-2024/"><u>Tap Into the Rhythm Web (FREE & Comprehensive) for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96421740-9780486111469-the-secret-commonwealth-of-elves-fauns-and-fairies/"><u>The Secret Commonwealth of Elves, Fauns and Fairies | Free Book</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-honor-magic-6-lite-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Honor Magic 6 Lite</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unsubscribe-from-emergency-broadcasts-on-your-android-device/"><u>Unsubscribe From Emergency Broadcasts on Your Android Device</u></a></li>
 </ul></div>
 

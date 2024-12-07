@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes to Speed Up Sluggish Keyboard Performance
-date: 2024-11-06T08:59:40.112Z
-updated: 2024-11-07T16:20:58.737Z
+date: 2024-11-30T21:27:31.362Z
+updated: 2024-12-07T17:16:51.697Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -42,6 +46,10 @@ Here’s how to reinstall the keyboard driver:
  1) Hover your mouse around**the Start button** (on the bottom left of your desktop screen), _right-click_  and then click on**Device Manager** to open Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
@@ -77,13 +85,6 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -102,13 +103,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -116,10 +110,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -131,22 +122,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -156,16 +138,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -205,24 +184,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-guiding-you-through-youtubes-view-limitations/"><u>[New] Guiding You Through YouTube's View Limitations</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-detailed-explanation-of-youtubes-operation-after-a-video-goes-live/"><u>[Updated] 2024 Approved Detailed Explanation of YouTube's Operation After a Video Goes Live</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-voice-customization-leaders-beyond-echo-magic/"><u>[Updated] 2024 Approved Voice Customization Leaders Beyond Echo Magic</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-bebop-2s-avian-spectacle-a-compreran-analysis/"><u>[Updated] Bebop 2'S Avian Spectacle – A Compreran Analysis</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-journey-through-gaming-landscapes-with-kinemaster-and-discover-its-best-competitors/"><u>[Updated] Journey Through Gaming Landscapes with KineMaster & Discover Its Best Competitors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205575779-a-step-by-step-solution-for-dealing-with-apex-legends-easy-anti-cheat-bugs-no-more-unfair-gameplay/"><u>A Step-by-Step Solution for Dealing with Apex Legends Easy Anti-Cheat Bugs – No More Unfair Gameplay!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-steps-updating-your-usb-to-serial-converter-ch340-drivers-on-win10/"><u>Easy Steps: Updating Your USB-to-Serial Converter (CH340) Drivers on Win10</u></a></li>
-<li><a href="https://games-able.techidaily.com/enjoy-your-fortnite-experience-on-mac-but-keep-an-eye-out/"><u>Enjoy Your Fortnite Experience on Mac – But Keep an Eye Out</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/freeze-fixation-finished-in-seconds-for-gamers/"><u>Freeze Fixation Finished in Seconds for Gamers</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-cannot-reach-dhcp-server-problem/"><u>How to Overcome 'Cannot Reach DHCP Server' Problem</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-street-fighter-6-from-freezing-or-crashing-on-your-computer/"><u>How to Prevent Street Fighter 6 From Freezing or Crashing on Your Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-recover-from-a-non-responsive-task-manager-problem-easily/"><u>How to Recover From a Non-Responsive Task Manager Problem Easily</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-the-art-of-profit-from-20-second-videography-a-guide-for-creators/"><u>In 2024, The Art of Profit From 20-Second Videography A Guide for Creators</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-remedies-for-when-your-dns-server-isnt-answering-back/"><u>Quick Remedies for When Your DNS Server Isn't Answering Back</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-unknown-usb-device-detected-on-windows-11-a-step-by-step-guide/"><u>Resolving 'Unknown USB Device Detected' On Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/semaphore-timeout-exceeded-correcting-the-problem-for-error-code-0x80070079/"><u>Semaphore Timeout Exceeded - Correcting the Problem for Error Code 0X80070079</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steps-to-obtain-trustworthiness-from-trustedinstaller-before-altering-files/"><u>Steps to Obtain Trustworthiness From TrustedInstaller Before Altering Files</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-it-manual-what-to-do-when-your-xbox-pen-stops-working/"><u>The Ultimate Fix It Manual: What to Do When Your Xbox Pen Stops Working</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-hands-off-strategies-for-snapshots-of-online-meetings-macpc-platforms/"><u>[New] 2024 Approved Hands-Off Strategies for Snapshots of Online Meetings (Mac/PC Platforms)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-supernatural-time-freeze-manual/"><u>[New] Supernatural Time-Freeze Manual</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-unleashing-potential-youtubes-techniques-for-stellar-videos/"><u>[Updated] In 2024, Unleashing Potential YouTube's Techniques for Stellar Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp3/"><u>【迅速＆用途広く】フリーウェアで動画をMP3に変換する -オンラインツール</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-videos-free-of-charge-from-flv-to-mp4-using-movavis-online-tool/"><u>Convert Videos Free of Charge From FLV to MP4 Using Movavi's Online Tool</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-the-inescapable-recommendations-on-fb/"><u>Decoding the Inescapable Recommendations on FB</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-intel-chipset-raid-driver-updates-compatible-with-windows-operating-systems-11-10-8-and-7/"><u>Latest Intel Chipset RAID Driver Updates Compatible with Windows Operating Systems: 11, 10, 8, and 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mpe-to-mp3-transformation-effortlessly-convert-and-download-using-movavis-free-service/"><u>MPE to MP3 Transformation: Effortlessly Convert and Download Using Movavi's Free Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-amv-converteren-naar-flv-gratis-movavi-servis/"><u>Online AMV-Converteren Naar FLV: Gratis - Movavi Servis</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/zero-budget-football-broadcasting-101/"><u>Zero Budget Football Broadcasting 101</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/aac-aiff-online/"><u>무료 동일성 및 AAC, AIFF 전환 - Online 가이드</u></a></li>
 </ul></div>
 

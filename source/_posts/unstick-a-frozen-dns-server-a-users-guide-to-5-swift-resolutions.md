@@ -1,7 +1,7 @@
 ---
 title: Unstick a Frozen DNS Server - A User's Guide to 5 Swift Resolutions
-date: 2024-11-05T19:44:01.490Z
-updated: 2024-11-07T23:37:21.788Z
+date: 2024-11-30T17:19:46.254Z
+updated: 2024-12-07T16:43:42.485Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I fix Shift key not working?
 
@@ -58,10 +62,7 @@ Follow these:
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Ease of Access** .
@@ -73,10 +74,7 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
@@ -93,13 +91,14 @@ Follow these:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
@@ -124,13 +123,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Restart your computer and try to press the Shift key to see if it works.
 
 * [keyboard](https://bellelily.pxf.io/m5azgm)
@@ -150,18 +142,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/net-framework-35-and-error-0x800f081f-how-to-successfully-overcome-this-hurdle/"><u>.NET Framework 3.5 and Error 0X800F081F: How to Successfully Overcome This Hurdle</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-interactive-link-integration-for-instagram-users-for-2024/"><u>[New] Interactive Link Integration for Instagram Users for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-cross-platform-comparison-iphone-vs-android-youtube-viewing-for-2024/"><u>[Updated] Cross-Platform Comparison IPhone vs Android YouTube Viewing for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-experts-picks-the-top-5-professional-drone-brands/"><u>[Updated] Expert's Picks The Top 5 Professional Drone Brands</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-windows-8-audio-shows/"><u>2024 Approved Premier Windows 8 Audio Shows</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204439897-fixing-the-cannot-reach-dhcp-server-error-now-solved/"><u>Fixing the 'Cannot Reach DHCP Server' Error - Now Solved!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977852768-get-the-newest-magicard-rio-pro-driver-game-for-your-window-10-8-cuisine-and-7-machine-download-here/"><u>Get the Newest Magicard Rio Pro Driver Game for Your Window 10, 8. Cuisine, and 7 Machine: Download Here</u></a></li>
-<li><a href="https://solve-help.techidaily.com/guia-paso-a-paso-para-sincronizar-carpetas-entre-computadores/"><u>Guía Paso a Paso Para Sincronizar Carpetas Entre Computadores</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-access-the-starting-point-mastering-the-windows-11-interface/"><u>How To Access the Starting Point: Mastering the Windows 11 Interface</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-guide-to-restoring-proper-functionality-of-lenovos-special-feature-keys/"><u>Quick Guide to Restoring Proper Functionality of Lenovo's Special Feature Keys</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-for-receiving-miracast-not-supported-by-your-device-a-step-by-step-tutorial/"><u>Solutions for Receiving Miracast Not Supported by Your Device - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-hurdles-of-qualification-understanding-teredos-shortcomings/"><u>The Hurdles of Qualification: Understanding Teredo's Shortcomings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubled-by-stuck-buttons-solve-your-windows-keyboard-issues-here/"><u>Troubled by Stuck Buttons? Solve Your Windows Keyboard Issues Here</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-role-of-creative-commons-in-youtube-content-sharing/"><u>[New] In 2024, The Role of Creative Commons in YouTube Content Sharing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-guide-to-editing-and-optimizing-instagram-footage-for-2024/"><u>[New] Step-by-Step Guide to Editing and Optimizing Instagram Footage for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-storytelling-in-cinema-from-idea-to-actuality/"><u>[Updated] 2024 Approved Storytelling in Cinema From Idea to Actuality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-best-free-platforms-discover-the-top-12-sites-streaming-korean-dramas-without-cost/"><u>1. Best Free Platforms: Discover the Top 12 Sites Streaming Korean Dramas Without Cost</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/aomei-data-recovery-guide-comprehensive-faq-answers/"><u>AOMEI Data Recovery Guide: Comprehensive FAQ Answers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/caf-wav-movavi/"><u>CAF WAV 무료 스트리밍: 이웃에서 원특유 방법은 Movavi!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decouvrez-les-plus-performants-outils-dedition-imagee-musicaux-en-2024-choix-expert/"><u>Découvrez Les Plus Performants Outils D'Edition Imagée Musicaux en 2024 - Choix Expert!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/divisez-vos-fichiers-videovisuels-facilement-les-6-solutions-logiciels-de-bureau-vs-en-ligne/"><u>Divisez Vos Fichiers Videovisuels Facilement: Les 6 Solutions Logiciels De Bureau vs en Ligne</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-starting-warframe-without-any-glitches/"><u>Effective Solutions for Starting Warframe Without Any Glitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortlessly-change-your-mov-videos-to-avi-no-cost-no-hassle-with-online-tools/"><u>Effortlessly Change Your MOV Videos to AVI - No Cost, No Hassle with Online Tools!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-and-speedy-convert-avis-to-gifs-quickly-with-our-online-tool/"><u>Free and Speedy: Convert AVIs to Gifs Quickly with Our Online Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-detaille-comment-utiliser-le-convertisseur-audio-wav-de-movavi-pour-la-conversion-des-fichiers/"><u>Guide Détaillé : Comment Utiliser Le Convertisseur Audio WAV De Movavi Pour La Conversion Des Fichiers</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-resolving-win-11-bluetooth-pairing-failures/"><u>Mastering the Art of Resolving Win 11 Bluetooth Pairing Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavis-learning-tools-and-tips-a-valuable-guide-for-effective-study-strategies/"><u>Movavi's Learning Tools & Tips: A Valuable Guide for Effective Study Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/professional-guide-12-essential-techniques-for-high-quality-self-filming-with-movavi/"><u>Professional Guide: 12 Essential Techniques for High-Quality Self-Filming with Movavi</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/successful-cloning-of-uefigpt-hard-drive-onto-an-ssd-with-secure-boot-activation/"><u>Successful Cloning of UEFI/GPT Hard Drive Onto an SSD with Secure Boot Activation</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-d3d11-gpu-error-on-windows-11-and-10/"><u>Troubleshooting D3D11 GPU Error on Windows 11 & 10</u></a></li>
 </ul></div>
 

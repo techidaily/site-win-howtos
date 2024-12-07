@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Troubleshooting Guide: Solving Your Computer's Constant Wi-Fi Drops"
-date: 2024-11-06T01:06:06.856Z
-updated: 2024-11-08T06:11:38.116Z
+date: 2024-12-06T21:04:53.907Z
+updated: 2024-12-07T19:41:08.843Z
 tags:
   - win11
   - win10
@@ -39,9 +39,17 @@ thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a
 
  1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)  and **R**  at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **C:\\Windows\\System32\\drivers\\etc**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3567542f7b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **hosts** . Then right-click on it to select **Delete** .
 
@@ -50,10 +58,7 @@ thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a
  4) Restart your Chrome and go to the website to see if successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Clear your SSL state
@@ -66,20 +71,21 @@ thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35a29d09e6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Network and Internet**  in the**Category**  section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35ad5a4675.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click **Network** **and Sharing Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35b2a96e3d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click**Internet** **Options** .
 
@@ -93,18 +99,19 @@ thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35de82e9dd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  8) Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35e0d12a4a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  9) Restart your Chrome and go to the website to see if successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Disable the QUIC protocol on your Chrome
 
@@ -130,13 +137,6 @@ Restart your Chrome and go to the website to see if successfully.
 
 Restart your Chrome and go to the website to see if successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 6: Make sure you’re going to the secure website
 
  To enable users to browse safely on Chrome, Chrome requires websites use trustworthy certificates. A secure website must have trustworthy SSL(Secure Sockets Layer) certificates; In other words, if the website doesn’t have a trustworthy SSL certification on Chrome, you may face this error.
@@ -148,10 +148,7 @@ To check if a website is secure:
  Over a secure connection, the address should begin with **https** (note the **s**  at the end).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 2: See the security status on the address bar of Chrome
@@ -160,23 +157,9 @@ To the left of the website address, check the security status:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3858db33d0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Besides **Secure** , the secure status can also be
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c386f232916.png) or ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3870b99499.png) , click the status for more detailed information.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * [Google Chrome](https://tools.techidaily.com/drivereasy/download/)
 
@@ -195,24 +178,24 @@ To the left of the website address, check the security status:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-downloading-from-vimeo-made-simple-software-free-or-not-for-2024/"><u>[New] Downloading From Vimeo Made Simple Software-Free or Not for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-unveiling-splitcams-camera-capabilities-for-2024/"><u>[New] Unveiling SplitCam's Camera Capabilities for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastering-image-retrieval-on-pexels-a-step-by-step-guide/"><u>[Updated] In 2024, Mastering Image Retrieval on Pexels A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-masterclass-in-ai-image-processing/"><u>2024 Approved Masterclass in AI Image Processing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-lenovo-screenshots-in-minutes/"><u>2024 Approved Mastering Lenovo Screenshots in Minutes</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-sculpt-personalized-digital-laughs-now/"><u>2024 Approved Sculpt Personalized Digital Laughs Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypass-temporary-directory-restrictions-resolving-file-execution-errors-and-setup-interruptions/"><u>Bypass Temporary Directory Restrictions - Resolving File Execution Errors and Setup Interruptions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207952817-easy-solutions-to-common-file-explorer-problems-in-windows-10/"><u>Easy Solutions to Common File Explorer Problems in Windows 10!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-unplayable-video-dilemma-a-step-by-step-solution-to-code-224003/"><u>Fixing the Unplayable Video Dilemma: A Step-by-Step Solution to Code 224003</u></a></li>
-<li><a href="https://fox-info.techidaily.com/fundamentals-for-newcomers-on-screen-quality-measures/"><u>Fundamentals for Newcomers on Screen Quality Measures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-windows-update-error-code-0x80070002-simple-solutions/"><u>How to Fix the Windows Update Error Code 0X80070002: Simple Solutions!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-y36i-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo Y36i</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-malfunctioning-laptop-keyboard-on-pc-tips-for-win7win8win10-users/"><u>How to Repair a Malfunctioning Laptop Keyboard on PC: Tips for Win7/Win8/Win10 Users</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-innovative-approaches-to-documenting-film-content-on-various-os/"><u>In 2024, Innovative Approaches to Documenting Film Content on Various OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-techniques-for-resolving-your-computers-persistent-usb-unplugging-problems/"><u>Master Techniques for Resolving Your Computer's Persistent USB Unplugging Problems</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-generate-random-faces-online-top-free-tools-and-websites/"><u>New 2024 Approved Generate Random Faces Online Top Free Tools and Websites</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/obsidian-capture-hurdles-cleared-ultimate-fix-to-screen-freeze-problems/"><u>Obsidian Capture Hurdles Cleared – Ultimate Fix to Screen Freeze Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-bluetooth-not-detected-on-windows-10-simple-fixes/"><u>Resolve 'Bluetooth Not Detected' On Windows 10 - Simple Fixes!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-understanding-and-fixing-cyclic-redundancy-check-errors-in-data-transmission/"><u>Resolved: Understanding and Fixing Cyclic Redundancy Check Errors in Data Transmission</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-creating-a-softer-focus-iphone-image-blurring-explained/"><u>[Updated] 2024 Approved Creating a Softer Focus IPhone Image Blurring Explained</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-explore-best-asmr-apps-both-sides-of-the-os/"><u>[Updated] 2024 Approved Explore Best ASMR Apps, Both Sides of the OS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-fun-on-faces-a-comprehensive-guide-to-cartoon-snaps/"><u>[Updated] In 2024, Fun on Faces A Comprehensive Guide to Cartoon Snaps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-workings-of-drones-an-introduction-for-beginners-for-2024/"><u>[Updated] The Workings of Drones An Introduction for Beginners for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/5ycl5lq65oof5acx5lplusd6k235qmf6io944ks5ykz44gi44gf5lplush6ac85ocn44gu44gc44kl44oe44or44ob44oh44oh44kj44ki44k944ov44oi44km44kn44kiic0g44og44o844o044kh44o04419/"><u>個人情報保護機能を備えた信頼性のあるマルチメディアソフトウェア - ムーヴァヴィ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/202310/"><u>音声編集入門者必見！無料ツールが選ばれる【2023年版】トップ10リスト</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/as-melhores-ferramentas-de-edicao-livre-de-video-top-10-em-2024-guia-completo/"><u>As Melhores Ferramentas De Edição Livre De Vídeo Top 10 Em 2024: Guia Completo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/come-rimuovere-i-graffiti-dalle-immagini-con-il-tuo-editor-di-fotografie/"><u>Come Rimuovere I Graffiti Dalle Immagini Con Il Tuo Editor Di Fotografie</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-your-mov-videos-into-3gpp-format-for-free-using-movavis-service/"><u>Convert Your MOV Videos Into 3GPP Format for Free Using Movavi's Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/demystifying-screencasts-an-in-depth-movavi-step-by-step-resource-guide/"><u>Demystifying Screencasts: An In-Depth Movavi Step-by-Step Resource Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-major-websites-for-engagement-facebook-twitter-instagram-and-youtube/"><u>Exploring Major Websites for Engagement: Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-amazing-world-of-wonder-workshops-dash-a-comprehensive-product-evaluation/"><u>Exploring the Amazing World of Wonder Workshop's Dash - A Comprehensive Product Evaluation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-conversion-of-f4v-to-wmv-format-using-movavi/"><u>Free Online Conversion of F4V to WMV Format - Using Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavis-kostenlose-wav-in-mp3-online-konvertierungstool-fur-schnelle-und-einfache-musiktransformationen/"><u>Movavi's Kostenlose WAV in MP3 Online Konvertierungstool Für Schnelle Und Einfache Musiktransformationen</u></a></li>
+<li><a href="https://media-tips.techidaily.com/no-hacks-required-a-comprehensive-tutorial-on-iphone-screen-recording/"><u>No Hacks Required: A Comprehensive Tutorial on iPhone Screen Recording</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ritocchi-online-gratuiti-da-gif-a-flv-usando-movavi-esegui-la-conversione-senza-costi-aggiuntivi/"><u>Ritocchi Online Gratuiti: Da GIF a FLV Usando Movavi - Esegui La Conversione Senza Costi Aggiuntivi</u></a></li>
+<li><a href="https://article-helps.techidaily.com/smilescreen-simple-steps-for-video-making-for-2024/"><u>SmileScreen Simple Steps for Video Making for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/upgrade-your-computer-memory-to-megabytes-per-gallon-free-moveit/"><u>Upgrade Your Computer Memory to Megabytes per Gallon Free - MoveIt</u></a></li>
 </ul></div>
 

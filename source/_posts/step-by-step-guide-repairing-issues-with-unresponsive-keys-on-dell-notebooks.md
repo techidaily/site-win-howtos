@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Repairing Issues with Unresponsive Keys on Dell Notebooks"
-date: 2024-11-23T22:26:07.809Z
-updated: 2024-11-28T12:36:18.248Z
+date: 2024-11-30T17:29:33.123Z
+updated: 2024-12-07T17:06:35.061Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/3f74865abe3cde83f5178213b8f2028e6688a23ca
  **Solution 2: [Re-enable your Bluetooth driver software in Device Manager](#solution2)**
  **Solution 3: [Reinstall your Bluetooth driver](#solution3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Check the status of the Bluetooth service
 
  1) **Right-click**   on the Start button to select **Device Manager** .
@@ -45,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/3f74865abe3cde83f5178213b8f2028e6688a23ca
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
@@ -60,21 +64,33 @@ thumbnail: https://thmb.techidaily.com/3f74865abe3cde83f5178213b8f2028e6688a23ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right-click on the service again, and this time click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
@@ -84,17 +100,9 @@ thumbnail: https://thmb.techidaily.com/3f74865abe3cde83f5178213b8f2028e6688a23ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
@@ -105,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/3f74865abe3cde83f5178213b8f2028e6688a23ca
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
@@ -117,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/3f74865abe3cde83f5178213b8f2028e6688a23ca
  2)Then click **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
@@ -137,10 +141,6 @@ thumbnail: https://thmb.techidaily.com/3f74865abe3cde83f5178213b8f2028e6688a23ca
  4-2) Click **Scan Now** . All driver problems of your computer would be detected in less than 1 minute. Your Bluetooth driver is no exception.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
 
@@ -175,24 +175,20 @@ thumbnail: https://thmb.techidaily.com/3f74865abe3cde83f5178213b8f2028e6688a23ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-aim-higher-than-xsplit-top-video-editors-reviewed/"><u>[New] Aim Higher than Xsplit Top Video Editors Reviewed</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-perfect-your-skills-in-designing-engaging-videotutorials/"><u>[Updated] Perfect Your Skills in Designing Engaging Videotutorials</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quick-tips-speeding-up-video-playback-on-snapchat-for-novices/"><u>[Updated] Quick Tips Speeding Up Video Playback on Snapchat for Novices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-instructions-turning-on-your-devices-bluetooth-feature-on-windows/"><u>Comprehensive Instructions: Turning on Your Device's Bluetooth Feature on Windows</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-steps-to-accessing-whatsapp-anonymously-no-phone-required/"><u>Comprehensive Steps to Accessing WhatsApp Anonymously: No Phone Required</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-unexpected-system-shutdowns-during-pc-gaming-on-windows-versions/"><u>Fixing Unexpected System Shutdowns During PC Gaming on Windows Versions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-quickly-overcome-the-persistent-livekernelevent-144-glitch/"><u>How to Quickly Overcome the Persistent 'LiveKernelEvent 144' Glitch</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-realme-11-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Realme 11 Pro Phones? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-flashlight-woes-try-these-12-quick-fixes/"><u>IPhone Flashlight Woes? Try These 12 Quick Fixes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-googles-password-management-risks/"><u>Navigating Google's Password Management Risks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723204890142-overcoming-laptop-compatibility-hurdles-get-your-usb-mouse-working-now/"><u>Overcoming Laptop Compatibility Hurdles – Get Your USB Mouse Working Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quench-windows-wmi-cpu-spikes/"><u>Quench Windows WMi CPU Spikes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-vivo-x-fold-2-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Vivo X Fold 2 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-repair-for-windows-10-mutevolume-issues-resolved/"><u>Step-by-Step Repair for Windows 10 Mute/Volume Issues - Resolved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-complete-repaired-keyboard-typing-errors/"><u>Troubleshooting Complete: Repaired Keyboard Typing Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-a-non-responsive-bluetooth-mouse-on-windows-pc/"><u>Troubleshooting Guide: Fixing a Non-Responsive Bluetooth Mouse on Windows PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-a-non-responsive-system-check-utility/"><u>Troubleshooting Steps for a Non-Responsive System Check Utility</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-steps-to-remove-your-tiktok-profile/"><u>Ultimate Guide: Steps to Remove Your TikTok Profile</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/vimeo-to-gif-how-to-make-a-gif-from-vimeo-video/"><u>Vimeo to GIF How to Make a GIF From Vimeo Video</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-enhancing-visual-storytelling-with-well-chosen-b-roll/"><u>[New] In 2024, Enhancing Visual Storytelling with Well-Chosen B-Roll</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-picture-holding-portals/"><u>[New] Leading Picture Holding Portals</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-how-to-effortlessly-eradicate-unwanted-youtube-post-comments/"><u>[Updated] In 2024, How to Effortlessly Eradicate Unwanted Youtube Post-Comments</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-quick-strategies-for-randomizing-youtube-tracks-across-media/"><u>[Updated] Quick Strategies for Randomizing YouTube Tracks Across Media</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/download-unlock-achieved-revised-security-configuration-allows-file-retrieval/"><u>Download Unlock Achieved: Revised Security Configuration Allows File Retrieval</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fresh-techniques-for-boosting-minecraft-gameplay-and-reducing-lag/"><u>Fresh Techniques for Boosting Minecraft Gameplay and Reducing Lag</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-create-a-digital-signature-and-certificate-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to create a digital signature and certificate</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-usb-slots-on-your-pc-running-windows-1011/"><u>How to Fix Unresponsive USB Slots on Your PC Running Windows 10/11</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-13-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 13 to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-hiccups-restoring-functionality-to-your-unresponsive-google-chrome-browser/"><u>No More Hiccups: Restoring Functionality to Your Unresponsive Google Chrome Browser</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-4-essential-steps-to-create-engaging-instagram-loops/"><u>The 4 Essential Steps to Create Engaging Instagram Loops</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-comprehensive-insights-into-computer-equipment/"><u>Tom's Tech Review: Comprehensive Insights Into Computer Equipment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-5-solutions-to-reduce-gpu-load-by-the-desktop-window-manager-on-windows-11/"><u>Top 5 Solutions to Reduce GPU Load by the Desktop Window Manager on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-cannot-read-file-paths-effective-solutions-and-tips/"><u>Troubleshooting Windows 'Cannot Read File Paths': Effective Solutions and Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlock-the-secrets-to-12-incredible-gamers-intro-videos-yt-no-cost-for-2024/"><u>Unlock the Secrets to 12 Incredible Gamers' Intro Videos (YT No Cost) for 2024</u></a></li>
 </ul></div>
 

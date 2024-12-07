@@ -1,7 +1,7 @@
 ---
 title: Fix Your Screen Mirroring Problems When Miracast Is Unavailable via Graphics Card
-date: 2024-11-04T04:17:06.034Z
-updated: 2024-11-07T20:17:36.299Z
+date: 2024-11-30T16:58:04.344Z
+updated: 2024-12-07T17:41:16.428Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 4. [**Reseat your laptop battery**](#F4)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
 
@@ -71,13 +79,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
@@ -102,18 +103,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -123,13 +121,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -143,26 +134,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
@@ -199,21 +184,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-elevate-your-talk-the-leading-web-based-speech-conversion-services/"><u>[New] In 2024, Elevate Your Talk The Leading Web-Based Speech Conversion Services</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-windows-sound-not-working/"><u>[SOLVED] Windows Sound Not Working</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-chuckle-factory-designing-7-video-ideas-for-humorists-for-2024/"><u>[Updated] Chuckle Factory Designing 7 Video Ideas for Humorists for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-customizing-youtube-viewing-policies-for-your-content-for-2024/"><u>[Updated] Customizing YouTube Viewing Policies for Your Content for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-quick-cut-technique-making-your-vlog-more-engaging/"><u>[Updated] Quick-Cut Technique Making Your Vlog More Engaging</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-syncing-visual-elements-across-platforms/"><u>[Updated] Syncing Visual Elements Across Platforms</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-use-periscope-the-complete-guide/"><u>2024 Approved How to Use Periscope The Complete Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-solutions-resolving-steams-disk-writing-issues-in-minutes/"><u>Effortless Solutions: Resolving Steam's Disk Writing Issues in Minutes</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/from-basics-to-best-achieving-superior-sound-via-zoom-for-podcasting-for-2024/"><u>From Basics to Best Achieving Superior Sound via Zoom for Podcasting for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/head-to-head-showdown-iphone-15-pro-against-pro-max-unveiled/"><u>Head-to-Head Showdown: IPhone 15 Pro Against Pro Max Unveiled</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/insider-insights-on-samsungs-upcoming-galaxy-s25-ultra-what-to-expect-in-price-and-features-at-release/"><u>Insider Insights on Samsung's Upcoming Galaxy S25 Ultra – What to Expect in Price and Features at Release</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-writing-errors-to-0x-referenced-memory-addresses/"><u>Resolved! Troubleshooting Writing Errors to 0X Referenced Memory Addresses</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-steam-e80-issue-step-by-step-guide/"><u>Resolving Steam E80 Issue: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-a-dysfunctional-razer-keyboard-lighting-system/"><u>Solving the Problem of a Dysfunctional Razer Keyboard Lighting System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tutorial-eliminating-windows-10s-red-screen-glitch-permanently/"><u>Tutorial: Eliminating Windows 10'S Red Screen Glitch Permanently</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-solutions-for-when-your-bluetooth-devices-go-undetected/"><u>Windows 11: Solutions for When Your Bluetooth Devices Go Undetected</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-navigating-the-network-of-youtube-multitasking-mastery/"><u>[Updated] 2024 Approved Navigating The Network Of YouTube Multitasking Mastery</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-guide-to-hash-tagging-for-brand-success-on-fb-for-2024/"><u>[Updated] The Ultimate Guide to Hash Tagging for Brand Success on FB for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-motorola-defy-2-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-compelling-justifications-for-snapchat-ais-significance/"><u>7 Compelling Justifications for Snapchat AI's Significance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-online-omwandelen-van-snd-naar-wav-professionele-dienst-voor-audioconversies/"><u>Gratis Online Omwandelen Van SND Naar WAV - Professionele Dienst Voor Audioconversies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guia-completo-como-transferir-filmes-de-dvd-para-seu-pc-com-o-programador-do-movavi/"><u>Guia Completo: Como Transferir Filmes De DVD Para Seu PC Com O Programador Do Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-motorola-moto-g-5g-2023-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-overcoming-common-gs-pitfalls-in-kinemaster/"><u>In 2024, Overcoming Common GS Pitfalls in KineMaster</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-video-converter-fast-hd-video-transcoding-software-free-download-and-installation/"><u>Movavi Video Converter: Fast HD Video Transcoding Software – Free Download & Installation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-guide-syncing-images-and-movies-between-iphones-for-2024/"><u>Quick Guide Syncing Images & Movies Between iPhones for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-check-of-dji-phantom-3-for-2024/"><u>The Ultimate Check of DJI Phantom 3 for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mxf/"><u>간단한 방식으로 인터넷을 통해 MXF 잘라내기: 가능성</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726221050563-wmvwav-movavi/"><u>무료 WMV/WAV 대화형 변환 서비스 - Movavi 솔루션임</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/aac-webm-movavi/"><u>오토바이오에서 AAC로 WEBM 파일 변환: 무료, 가용성 최대화 - Movavi</u></a></li>
 </ul></div>
 

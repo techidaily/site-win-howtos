@@ -1,7 +1,7 @@
 ---
 title: VCRuntime 140 DLL Not Detected - A Comprehensive Fix
-date: 2024-10-31T20:36:27.409Z
-updated: 2024-11-08T04:05:09.691Z
+date: 2024-12-02T18:03:25.779Z
+updated: 2024-12-07T16:20:35.139Z
 tags:
   - win11
   - win10
@@ -29,15 +29,16 @@ If your **Xbox One won’t connect to Xbox Live**, don’t worry. There’re**fo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Hard reset your Xbox One and modem
 
 Sometimes a hard-reset can help you fix some strange problems. A hard-reset of Xbox One controller and modem helps many users fix the Xbox One not connecting to Xbox Live error. So make sure to give it a shot.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to hard reset your Xbox One
@@ -47,17 +48,7 @@ Sometimes a hard-reset can help you fix some strange problems. A hard-reset of X
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fcebec23ca.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to hard reset your modem
@@ -67,13 +58,6 @@ Sometimes a hard-reset can help you fix some strange problems. A hard-reset of X
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd1c2b6433.jpg)
 
 2) Release your hands and wait till the power light is steady. Now try to see if your Xbox One could be connected to Xbox Live.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Change IP settings and DNS settings on Xbox Live
 
@@ -85,6 +69,10 @@ The IP settings and DNS settings could also have an effect on the connection bet
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd828a1cb4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Go on to click**Advanced settings**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd893e389f.png)
@@ -93,18 +81,15 @@ The IP settings and DNS settings could also have an effect on the connection bet
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd9129d434.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Now it’s back to Advanced settings. This time click**DNS settings**and set it to be**Automatic**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd976db238.png)
 
 Now try to connect your Xbox one to Xbox Live.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Check the services related to Xbox Live
 
@@ -112,16 +97,13 @@ Now try to connect your Xbox one to Xbox Live.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdf18958ed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) On Gerenal pane, set its Startup type to **Automatic** from the drop-down menu. Then click**Apply**\>**OK**to save your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdeb828a6c.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Now it’s back on Services window, right-click on**Xbox Live Networking Service**again. This time select**Start**.**Note:**If the Start option grayed out, select**Restart**instead.
 
@@ -132,10 +114,7 @@ Go on to do the same settings for**Xbox Live Auth Manager**and**Xbox Live Game S
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fe022a60ab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Update your network adapter driver and Xbox One controller driver
@@ -167,20 +146,22 @@ After updating the drivers, please restart your computer to make the new drivers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-free-lut-strategies-for-enhancing-ar-experiences/"><u>[New] Free LUT Strategies for Enhancing AR Experiences</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-microsoft-print-to-pdf-not-working-in-windows-1111/"><u>[Solved] Microsoft Print to PDF Not Working in Windows 11/11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-best-live-stream-tools-xsplit-or-obs/"><u>[Updated] Best Live Stream Tools XSplit or OBS?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/breaking-down-the-fundamentals-of-lut-design-for-2024/"><u>Breaking Down the Fundamentals of LUT Design for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/decoding-vivacut-video-editing-essentials/"><u>Decoding VivaCut Video Editing Essentials</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-repair-tips-for-malfunctioning-keyboards-on-dell-notebooks/"><u>DIY Repair Tips for Malfunctioning Keyboards on Dell Notebooks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expert-fixes-for-nvidia-gl-driver-issue-3-on-win11/"><u>Expert Fixes for NVIDIA GL Driver Issue #3 on Win11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-iphone-15-plus-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off iPhone 15 Plus without Password</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/is-my-netflix-service-disrupted-solutions-for-common-playback-problems/"><u>Is My Netflix Service Disrupted? Solutions for Common Playback Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-0x8024002e-error-in-windows-update-proven-fixes-that-work/"><u>Resolving the 0X8024002e Error in Windows Update – Proven Fixes That Work</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-vanishing-touchpad-pointers-in-windows-11/"><u>Resolving the Issue of Vanishing Touchpad Pointers in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-cursor-conundrum-in-windows-11-diagnosis-and-resolution-tips/"><u>The Cursor Conundrum in Windows 11: Diagnosis and Resolution Tips</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-new-peaks-in-depth-review-of-the-2020-apple-macbook-air-featuring-the-advanced-m1-chip/"><u>Unveiling New Peaks: In-Depth Review of the 2020 Apple MacBook Air Featuring the Advanced M1 Chip</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-does-xboxs-ban-on-third-party-devices-mean-for-gamers/"><u>What Does Xbox's Ban on Third-Party Devices Mean for Gamers?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/be-listening-made-easy-with-direct-recording/"><u>YouTube Listening Made Easy with Direct Recording</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-combating-content-id-blocks-on-youtube-with-knowledge-for-2024/"><u>[New] Combating Content ID Blocks on YouTube with Knowledge for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-visualizing-time-the-hyperlapse-filmmakers-guide-for-2024/"><u>[Updated] Visualizing Time The Hyperlapse Filmmaker's Guide for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-mpegwav/"><u>立即無限制下載Movavi MPEG到WAV格式的自由轉換工具 - 在線上</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavimpegwav/"><u>隨時隨地利用Movavi網路轉化器，讓MPEG音效迅速成功轉WAV形式免費下載</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminate-automatic-subscriptions-from-steam/"><u>Eliminate Automatic Subscriptions From Steam</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/exploring-ntsc-versus-pal-standards-identifying-advantages-and-variations/"><u>Exploring NTSC versus PAL Standards – Identifying Advantages and Variations</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-crash-bug-in-football-manager-2019-for-a-seamless-gaming-experience/"><u>Fixing the Crash Bug in Football Manager 2019 for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-swf-to-wav-format-by-movavi-start-immediately/"><u>Free Online Converter: SWF to WAV Format by Movavi - Start Immediately!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuito-converter-online-para-wmv-em-aac-com-o-movavi/"><u>Gratuito: Converter Online Para WMV Em AAC Com O Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-realme-12plus-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Realme 12+ 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://extra-information.techidaily.com/master-your-screen-essential-wins11-apps-and-games/"><u>Master Your Screen Essential Wins11 Apps & Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4-versus-mkv-detailed-insights-for-selecting-your-preferred-video-codec-and-container/"><u>MP4 versus MKV: Detailed Insights for Selecting Your Preferred Video Codec and Container</u></a></li>
+<li><a href="https://driver-download.techidaily.com/solve-your-connectivity-woes-with-newly-released-superior-wireless-drivers/"><u>Solve Your Connectivity Woes with Newly Released Superior Wireless Drivers</u></a></li>
+<li><a href="https://discover-data.techidaily.com/ssd-and-hdd/"><u>SSD & HDDのハイブリッド使用: 最良の組み合わせとセットアップガイダンス</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-12-ferramentas-de-animacao-livres-mais-inovadoras-em-2024-acelerando-o-design-de-animes/"><u>Top 12 Ferramentas De Animação Livres Mais Inovadoras Em 2024 - Acelerando O Design De Animês</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-8-calidad-gratis-streaming-sites-para-ver-television-movavi/"><u>Top 8 Calidad Gratis Streaming Sites Para Ver Televisión - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-game-crashes-in-gears-5/"><u>Troubleshooting Tips: Resolving Game Crashes in Gears 5</u></a></li>
 </ul></div>
 

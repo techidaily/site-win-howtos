@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing 'Windows Unable to Set Up Key System Components' Issue"
-date: 2024-11-24T03:28:01.337Z
-updated: 2024-11-28T05:13:47.400Z
+date: 2024-11-30T16:59:54.710Z
+updated: 2024-12-07T19:32:19.085Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
  **Solution 2: [Re-enable your Bluetooth driver software in Device Manager](#solution2)**
  **Solution 3: [Reinstall your Bluetooth driver](#solution3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Check the status of the Bluetooth service
 
  1) **Right-click**   on the Start button to select **Device Manager** .
@@ -44,6 +48,14 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 2: Check the status of the Bluetooth service
 
  1) On your keyboard, press the **Windows logo key**   + **R**   key together to invoke the Run box.
@@ -52,16 +64,12 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a686110efd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click **Bluetooth Support Service**   or any other service related, like **Bluetooth Driver Management System** . Then **Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Right-click on the service again, and this time click **Properties** .
@@ -71,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
@@ -97,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
@@ -105,11 +109,7 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
@@ -152,7 +152,7 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hopefully, you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
@@ -175,14 +175,22 @@ thumbnail: https://thmb.techidaily.com/c9f7f229be93bd16f345ab244a59038de305839bf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-evolving-photographic-moments-into-sequential-action-for-2024/"><u>[New] Evolving Photographic Moments Into Sequential Action for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-short-film-synopsis-must-know-points/"><u>[New] Short Film Synopsis Must-Know Points!</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-from-basic-snaps-to-spectacular-shots-snapchats-edits-for-everyone/"><u>[Updated] 2024 Approved From Basic Snaps to Spectacular Shots Snapchat's Edits for Everyone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/review-of-the-netgear-nighthawk-x10-ad7200-ultra-fast-wifi-performance-analysis/"><u>Review of the Netgear Nighthawk X10 (AD7200): Ultra-Fast WiFi Performance Analysis</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-computers-sound-fixes-for-common-windows-audio-problems/"><u>Revive Your Computer's Sound - Fixes for Common Windows Audio Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-performance-issues-stop-resident-evil-village-from-crashing-on-your-pc/"><u>Solving Performance Issues: Stop Resident Evil Village From Crashing on Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-getting-miracast-to-work-on-systems-with-incorrect-graphic-card-support/"><u>Troubleshoot and Fix: Getting Miracast to Work on Systems with Incorrect Graphic Card Support</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-audio-glitches-in-youtube-videos-on-windows-11/"><u>Troubleshooting and Fixing Audio Glitches in YouTube Videos on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-numeric-buttons-a-step-by-score-guide/"><u>Troubleshooting Non-Functional Numeric Buttons: A Step-by-Score Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-unsung-heroes-of-canvas-open-source-paintings/"><u>[New] 2024 Approved The Unsung Heroes of Canvas Open-Source Paintings</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-streamline-split-and-save-going-beyond-xsplit/"><u>[New] In 2024, Streamline, Split & Save Going Beyond XSplit</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-revolutionize-your-mobile-viewing-experience/"><u>[New] Revolutionize Your Mobile Viewing Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-fiscal-flyers-top-5-low-cost-aerial-vehicles/"><u>[Updated] In 2024, Fiscal Flyers Top 5 Low-Cost Aerial Vehicles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-spoken-word-unveiled-enhancing-expressiveness-on-slides-for-2024/"><u>[Updated] The Spoken Word Unveiled Enhancing Expressiveness on Slides for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-setup-automating-login-processes-in-windows-operating-systems/"><u>Easy Setup: Automating Login Processes in Windows Operating Systems</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-step-by-step-guide-to-creating-curved-graphics/"><u>In 2024, Step-by-Step Guide to Creating Curved Graphics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4-to-3gp-conversion-step-by-step-guide-for-both-online-and-offline-methods/"><u>MP4 to 3GP Conversion: Step-by-Step Guide for Both Online and Offline Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-easy-steps-converting-mp3-tracks-to-superior-sound-quality-with-flac-both-offline-and-web-based-solutions/"><u>Quick & Easy Steps: Converting MP3 Tracks to Superior Sound Quality with FLAC, Both Offline and Web-Based Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-on-downloading-personal-and-shared-twitch-videos-with-ease/"><u>Quick Guide on Downloading Personal & Shared Twitch Videos with Ease.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamlessly-watching-flv-files-a-step-by-step-tutorial-for-iphone-and-ipad-users/"><u>Seamlessly Watching FLV Files: A Step-by-Step Tutorial for iPhone and iPad Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-steps-for-converting-your-dvds-into-mkv-format-on-windows-11/"><u>Simple Steps for Converting Your DVDs Into MKV Format on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-adding-twisted-plugin-in-kodi-versions-18-and-19/"><u>Step-by-Step Guide to Adding Twisted Plugin in Kodi Versions 18 & 19</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-repair-missing-or-lost-gsdll32-dll-files/"><u>Step-by-Step Guide to Repair Missing or Lost Gsdll_32 DLL Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-process-transforming-multiple-wav-recordings-into-aac-on-your-pc/"><u>Step-by-Step Process: Transforming Multiple WAV Recordings Into AAC on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-upgrading-video-resolution-from-360p-to-720p/"><u>Step-by-Step Tutorial for Upgrading Video Resolution: From 360P to 720P</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unfolding-the-chronicles-of-farsi-for-modern-minds/"><u>Unfolding the Chronicles of Farsi for Modern Minds</u></a></li>
 </ul></div>
 

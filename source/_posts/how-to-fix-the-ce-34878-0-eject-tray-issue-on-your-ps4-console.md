@@ -1,7 +1,7 @@
 ---
 title: How to Fix the CE-34878-0 Eject Tray Issue on Your PS4 Console
-date: 2024-11-01T23:55:42.287Z
-updated: 2024-11-07T23:01:44.830Z
+date: 2024-12-03T19:42:41.520Z
+updated: 2024-12-07T18:32:17.540Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 
  There are common fixes and more complicated ones. You don’t need to try them all but it’s recommended to try the common fixes first. If these can’t help, try other fixes one by one to find the one that works for you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Common fixes
 
 * Use another USB port.
@@ -58,6 +51,10 @@ If none of these work, you can move to the next method.
 5. Download the firmware which has given by iCUE at launch.
 6. Install firmware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Disable other related devices
 
  There’s one thing you can try is to shut down other programs which are related to Corsair and its iCUE. This may be because other third-party programs may interfere with Corsair and cause the problem.
@@ -68,14 +65,15 @@ If none of these work, you can move to the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 4. Click**View** and choose**Show hidden devices** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/hidden.jpg)
 5. Expand**Keyboard** and then uninstall every hidden device below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Open Control Panel and click**Uninstall a program** .  
@@ -83,10 +81,7 @@ If none of these work, you can move to the next method.
 7. Uninstall Corsair Utility Engine.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Connect your keyboard back to PC.
@@ -121,14 +116,11 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -151,15 +143,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-full-scrutiny-the-dji-inspire-1-experience/"><u>[New] Full Scrutiny The DJI Inspire 1 Experience</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-unlocking-the-potential-of-time-extension-for-2024/"><u>[Updated] Unlocking the Potential of Time Extension for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/configurations-correct-however-device-is-disconnected/"><u>Configurations Correct; However, Device Is Disconnected</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/cutting-edge-techniques-mastering-youtube-subtitlecc-additions-for-2024/"><u>Cutting-Edge Techniques Mastering YouTube Subtitle/CC Additions for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-asus-rog-phone-8-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Asus ROG Phone 8 Pro in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-a-halted-steam-system-upgrade-glitch-easily/"><u>How to Overcome a Halted Steam System Upgrade Glitch Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/important-update-to-run-the-software-you-must-have-a-gpu-that-compatible-with-d3d11/"><u>Important Update: To Run the Software, You Must Have a GPU that Compatible with D3D11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/sculpting-soundscapes-the-fading-trick/"><u>Sculpting Soundscapes The Fading Trick</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-asus-rog-phone-7-ultimate-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Asus ROG Phone 7 Ultimate Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-why-is-my-mouse-pointer-constantly-flashing/"><u>Ultimate Guide - Why Is My Mouse Pointer Constantly Flashing?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagrams-slow-motion-secrets-reels-done-right/"><u>[New] 2024 Approved Instagram's Slow Motion Secrets Reels Done Right</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-from-frame-one-15-key-shot-types-for-film-beginners/"><u>[New] From Frame One 15 Key Shot Types for Film Beginners</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ore-than-just-likes-decoding-the-secrets-to-youtube-views-for-2024/"><u>[New] More than Just Likes Decoding the Secrets to YouTube Views for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-financially-flourishing-online-media-personality-for-2024/"><u>[Updated] Financially Flourishing Online Media Personality for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-motorola-moto-g23-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Motorola Moto G23 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4-asf/"><u>無料MP4形式への変換サービス: ASFファイルを簡単に再編集する方法</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/free-download-winx-mobile-dvd-ripper-compatible-with-ios-and-android/"><u>Free Download: WinX Mobile DVD Ripper - Compatible with iOS and Android</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/how-to-initiate-a-collaborative-skype-group-discussion/"><u>How to Initiate a Collaborative Skype Group Discussion</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-open-and-enjoy-ebooks-with-acsm-format-on-your-nook-reader/"><u>How to Open and Enjoy eBooks with ACSM Format on Your Nook Reader</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformacion-gratuita-de-archivos-mp4-al-linea-guia-definitiva-con-movavi/"><u>Transformación Gratuita De Archivos MP4 Al Línea: Guía Definitiva Con Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-pick-5-optimal-computer-systems-enhancing-your-video-editing-experience/"><u>Ultimate Pick: 5 Optimal Computer Systems Enhancing Your Video Editing Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/onestorage-tod-movavi/"><u>이웃의 ONESTORAGE에서 원할로잉으로 TOD 자동 변환 - MOVAVI</u></a></li>
 </ul></div>
 

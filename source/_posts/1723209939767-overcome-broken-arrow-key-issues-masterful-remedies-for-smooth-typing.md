@@ -1,7 +1,7 @@
 ---
 title: "Overcome Broken Arrow Key Issues: Masterful Remedies for Smooth Typing"
-date: 2024-11-04T05:29:24.615Z
-updated: 2024-11-07T22:00:23.412Z
+date: 2024-12-04T20:14:39.020Z
+updated: 2024-12-07T21:27:25.322Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check hardware issues
 
  If your keyboard isn’t connected properly, you may face the arrow keys not working issue. To fix it, try**unplugging the USB cable** **and wait for a little while, then** **plug your keyboard back in** .
@@ -58,11 +62,19 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
@@ -84,10 +96,7 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
@@ -95,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
  After updating your keyboard driver, restart your PC for the changes to take effect.
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable the Scroll Lock key
 
@@ -107,26 +120,10 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this method didn’t work for you, check out the last fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Run Keyboard Troubleshooter
 
@@ -138,30 +135,10 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### on Windows 11
 
@@ -170,15 +147,12 @@ If this method didn’t work for you, check out the last fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -201,18 +175,24 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-b-roll-builder-kit-for-2024/"><u>[Updated] B-Roll Builder Kit for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-highest-rated-10-non-game-screenshot-tools/"><u>[Updated] Highest Rated 10 Non-Game Screenshot Tools</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-quick-tips-for-quality-animation-in-movie-maker-for-2024/"><u>[Updated] Quick Tips for Quality Animation in Movie Maker for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-motivating-hr-chronicles-the-best-ten-vids/"><u>2024 Approved Motivating HR Chronicles - The Best Ten Vids</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/advanced-tips-for-crafting-vhs-images-on-computers/"><u>Advanced Tips for Crafting VHS Images on Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-guide-to-diagnosing-and-resolving-ethernet-malfunctions-on-microsoft-operating-systems-windows-710-edition/"><u>Expert Guide to Diagnosing and Resolving Ethernet Malfunctions on Microsoft Operating Systems: Windows 7/10 Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-quickly-solve-google-hangouts-microphone-malfunction-easy-steps-inside/"><u>How to Quickly Solve Google Hangouts Microphone Malfunction - Easy Steps Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-no-audio-device-detected-problem-in-windows-11/"><u>How to Resolve the No Audio Device Detected Problem in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-6s-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6s Plus without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-logitech-c920-webcam-malfunctions-a-step-by-step-guide/"><u>Overcoming Logitech C920 Webcam Malfunctions: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-function-keys-glitch-on-your-dell-pc-a-step-by-step-guide/"><u>Solving the Function Keys Glitch on Your Dell PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tips-to-revive-a-frozen-desktop-notebook-or-tablet/"><u>Step-by-Step Tips to Revive a Frozen Desktop, Notebook, or Tablet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-stuck-mouse-buttons-on-windows-and-mac/"><u>Troubleshooting Stuck Mouse Buttons on Windows and Mac</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-streamlining-twitters-video-transfer-to-fb-network/"><u>[New] 2024 Approved Streamlining Twitters Video Transfer to FB Network</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-standard-edition-review-of-djis-drone-model-3/"><u>[New] The Standard Edition Review of DJI's Drone Model 3</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-metaverse-top-picks-friends-first-games/"><u>[Updated] Metaverse Top Picks Friends-First Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-silencing-your-zoom-meeting-with-ease-a-step-by-step-guide/"><u>1. Silencing Your Zoom Meeting with Ease: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-elevate-your-presentations-10-best-places-to-download-slideshow-designs/"><u>2024 Approved Elevate Your Presentations 10 Best Places to Download Slideshow Designs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726219563826-movavi/"><u>高品質ビデオのスロー再生：Movaviソリューションのガイド</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apple-unveils-revolutionary-m4-silicon-enhanced-ai-capabilities-across-all-mac-models-release-dates-revealed/"><u>Apple Unveils Revolutionary M4 Silicon: Enhanced AI Capabilities Across All Mac Models - Release Dates Revealed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/code-28-on-windows-explained-diagnosis-and-repair-tactics-that-work/"><u>Code 28 on Windows Explained: Diagnosis & Repair Tactics That Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertissez-votre-fichier-3g2-en-audio-wma-sans-frais-conversion-rapide-et-facile-avec-movavi/"><u>Convertissez Votre Fichier .3G2 en Audio WMA Sans Frais - Conversion Rapide Et Facile Avec Movavi</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/effiziente-moglichkeiten-zum-datentransfer-von-oneplus-zu-iphone-drei-praktische-losungen-erklart/"><u>Effiziente Möglichkeiten Zum Datentransfer Von OnePlus Zu iPhone - Drei Praktische Lösungen Erklärt</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-conversion-transforming-nsv-files-to-avi-format-with-movavi/"><u>Free Online Conversion: Transforming NSV Files to Avi Format with Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuito-online-converter-de-wav-para-flv-pelo-movavi-faca-a-transformacao-agora/"><u>Gratuito Online Converter De WAV Para FLV Pelo Movavi - Faça a Transformação Agora!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guida-rapida-e-facile-per-la-conversione-on-line-di-file-audio-au-a-formato-mp4-senza-costi-aggiuntivi/"><u>Guida Rapida E Facile per La Conversione On-Line Di File Audio AU a Formato MP4 Senza Costi Aggiuntivi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/las-mejores-aplicaciones-de-streaming-de-cine-libres-optimizadas-para-windows-10-8-y-7/"><u>Las Mejores Aplicaciones De Streaming De Cine Libres: Optimizadas Para Windows 10, 8 Y 7</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-14-premier-video-editing-applications-for-creative-experts/"><u>The Ultimate Guide: 14 Premier Video Editing Applications for Creative Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformez-facilement-votre-fichier-video-m1v-en-mpeg-pour-free-via-le-convertisseur-videoconvert-en-ligne/"><u>Transformez Facilement Votre Fichier Vidéo M1V en MPEG Pour Free via Le Convertisseur VidéoConvert en Ligne</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/troubleshooting-messengers-failure-send-videos-without-issues-androidiphone/"><u>Troubleshooting Messenger's Failure Send Videos without Issues (Android/iPhone)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-guide-preventing-snowrunner-applications-from-pc-crashes/"><u>Ultimate Troubleshooting Guide - Preventing SnowRunner Applications From PC Crashes</u></a></li>
 </ul></div>
 

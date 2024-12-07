@@ -1,7 +1,7 @@
 ---
 title: "Conquering the Puzzle: Unraveling and Fixing LiveKernel Event Hurdle, Error No. 144"
-date: 2024-11-26T20:07:38.012Z
-updated: 2024-11-28T05:30:14.557Z
+date: 2024-12-03T20:04:52.304Z
+updated: 2024-12-07T20:35:13.248Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ When you pay the money and look forward to enjoying the game but find that the g
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these methods
 
 1. [Rename the Destiny 2 folder](https://tools.techidaily.com/drivereasy/download/)
@@ -44,11 +40,11 @@ When you pay the money and look forward to enjoying the game but find that the g
 1. Pause the initializing process and close**Battle.net** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d22.jpg)
 2. Navigate to your Destiny 2 folder location. Usually, it’s in C:\\Program Files (x86)\\. Then rename the Destiny 2 folder.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d23.jpg)
 
-3. Open**Battle.net** and click**Install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d20.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. Open**Battle.net** and click**Install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d20.jpg)
 
 4. Change the folder name back to Destiny 2.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d23.jpg)
 5. Click**Start install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d21.jpg)
@@ -69,10 +65,6 @@ Reinstall the Battle.net can may help you solve the issue.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3: Change Blizzard Settings
 
  Change the Blizzard’s download settings may help you increase the download speed.
@@ -81,14 +73,18 @@ Reinstall the Battle.net can may help you solve the issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/d1.jpg)
 2. Select the**Game Installs/Update** . Scroll down to find the Network Bandwidth.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Change the Max Download rate by setting the Latest Updates and Future Patch updates to 0 to get the max download rate. Then Press**Done** to apply the settings.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d12.jpg)
 4. Download Destiny 2 to see whether it can help.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Method 4: Run your Blizzard client as administrator
 
@@ -98,8 +94,16 @@ Reinstall the Battle.net can may help you solve the issue.
 2. Right-click on the Blizzard icon and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/b1.jpg)
 3. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/b2.jpg)
 4. Run Blizzard and check whether the problem is solved or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Check your antivirus software
 
@@ -112,7 +116,7 @@ Reinstall the Battle.net can may help you solve the issue.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 6: Set the Windows Secondary Logon is set to automatic
@@ -122,18 +126,15 @@ Reinstall the Battle.net can may help you solve the issue.
 1. Press the**Windows logo key** +**R** to open the Run box.
 2. Type “services.msc” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/services.jpg)
 3. Locate and right-click**Secondary Logon** in the right pane.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/servi.jpg)
 5. Find Startup type and select**Automatic** in the dropdown menu. Then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/ser.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Some security programs may turn the secondary logon service off. If the service is disabled again after you’ve switched it to automatic, you must configure your security program to stop disabling the service. Contact your security program’s manufacturer if you need assistance with configuring your security software.
 
@@ -168,7 +169,7 @@ OR
 3. Click the**Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/07/gpu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -192,14 +193,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-professional-perspective-a-complete-guide-on-sj-cam-s6/"><u>[New] Professional Perspective A Complete Guide on SJ-CAM S6</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-simplified-techniques-for-using-the-io-screener-for-2024/"><u>[Updated] Simplified Techniques for Using the IO Screener for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-top-10-ios-videos-premier-iphone-and-ipad-players/"><u>2024 Approved Top 10 iOS Videos Premier iPhone & iPad Players</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-x7b-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor X7b to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/quality-retention-techniques-for-efficient-mp4-file-compression/"><u>Quality Retention Techniques for Efficient MP4 File Compression</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-when-your-laptops-audio-input-isnt-working-correctly/"><u>Quick Fixes for When Your Laptop's Audio Input Isn't Working Correctly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-windows-11s-0x80072efd-error/"><u>Troubleshooting Steps: Resolving Windows 11'S 0X80072EFD Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unblock-your-gaming-experience-fix-ps4s-troublesome-nat-issues-with-this-step-by-step-method/"><u>Unblock Your Gaming Experience: Fix PS4's Troublesome NAT Issues With This Step-by-Step Method</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-woes-no-more-achieve-perfect-harmony-between-your-device-driver-and-os-for-a-smooth-gaming-experience/"><u>Windows Woes No More - Achieve Perfect Harmony Between Your Device Driver and OS for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-effortlessly-create-and-manage-cross-platform-communication-channels-with-skype-groups/"><u>[New] 2024 Approved Effortlessly Create and Manage Cross-Platform Communication Channels with Skype Groups</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-essential-tips-for-recording-movies-on-all-devices-for-2024/"><u>[New] Essential Tips for Recording Movies on All Devices for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-tackle-chromes-inability-to-load-fb-videos/"><u>[Updated] In 2024, Tackle Chrome's Inability to Load FB Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-error-8007000e-easy-solutions-for-windows-users-needing-updates-now/"><u>Bypassing Error 8007000E: Easy Solutions for Windows Users Needing Updates Now</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-8-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone 8 without the Previous Owner?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-no-more-a-comprehensive-fix-for-monitor-input-errors/"><u>Error No More: A Comprehensive Fix for Monitor Input Errors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-strategy-for-melding-gopro-vids-with-spherical-video-projects/"><u>Expert Strategy for Melding GoPro Vids with Spherical Video Projects</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-boot-issues-and-recognition-errors-for-ssds-safely-step-by-step-guide/"><u>Fixing Boot Issues and Recognition Errors for SSDs Safely, Step by Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-usb-mouse-working-again-on-your-laptop-expert-advice/"><u>How to Get Your USB Mouse Working Again on Your Laptop – Expert Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-problems-with-windows-resource-protection-not-performing-operations/"><u>How to Overcome Problems with Windows Resource Protection Not Performing Operations</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-in-windows-media-player-a-complete-solution/"><u>How to Restore Audio in Windows Media Player: A Complete Solution</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Oppo Find N3 Flip</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/pro-android-pixel-perfect-techniques/"><u>Pro Android Pixel Perfect Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-laptops-speaker-pop-and-crackle-problem-in-windows-107-effortlessly/"><u>Resolve Your Laptop's Speaker Pop & Crackle Problem in Windows 10/7 Effortlessly</u></a></li>
 </ul></div>
 

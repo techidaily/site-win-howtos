@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Peak Performance for Gamers: Essential Tweaks for Windows 11 Systems"
-date: 2024-11-27T05:26:38.342Z
-updated: 2024-11-28T05:09:48.432Z
+date: 2024-12-02T16:20:37.752Z
+updated: 2024-12-07T18:53:51.255Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ Then type **msconfig** in the box and hit **Enter**.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-2.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 b)  
 On the pop-up window, view on **Boot** pane.  
 Then tick on **Safe boot**and click **OK**.  
@@ -51,7 +47,7 @@ Click **Restart**, if prompted by system configuration
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then your Windows 10 would get into safe mode.  
@@ -64,6 +60,11 @@ When prompted by User Account Control, click   **Yes.**
   
 **![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-2.jpg)**
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3)  
 
 Type the following commands and hit **Enter** to run them one by one:  
@@ -81,17 +82,13 @@ This time uncheck **Safe boot** to reboot your Windows 10.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/5-1.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5)  
 
 When it finish rebooting, run System Restore again.  
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Fix Two. Rename the WindowsApps folder in WinRE**
@@ -107,6 +104,10 @@ Then click **Update & security**.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 b)  
 Click **Recovery**.  
 Then scroll down on the right side and click **Restart now** under **Advanced startup** .  
@@ -121,7 +122,7 @@ Click**Troubleshoot** \> **Advanced** \>**Command Prompt**.
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2)  
@@ -154,22 +155,24 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-countdown-magic-discover-10-must-have-androidios-clocks/"><u>[New] Countdown Magic Discover 10 Must-Have Android/iOS Clocks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-master-the-art-of-superior-image-quality-enable-youtubes-av1/"><u>[Updated] Master the Art of Superior Image Quality Enable YouTube's AV1</u></a></li>
-<li><a href="https://driver-install.techidaily.com/a-beginners-guide-to-fixing-print-issues-on-old-systems/"><u>A Beginner’s Guide to Fixing Print Issues on Old Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/defeating-windows-update-hurdles-expert-strategies-to-address-error-0x8024a105/"><u>Defeating Windows Update Hurdles: Expert Strategies to Address Error 0X8024a105</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-dealing-with-the-invalid-directory-problem/"><u>Expert Tips for Dealing with the 'Invalid Directory' Problem</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-your-hands-on-the-macbook-air-m1-for-only-649-exclusive-lowest-prices-today/"><u>Get Your Hands-On the MacBook Air M1 for Only $649 – Exclusive Lowest Prices Today</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/issue-resolved-keyboard-now-responding-say-goodbye-to-typos/"><u>Issue Resolved: Keyboard Now Responding - Say Goodbye to Typos!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/lenovo-simple-recording-techniques-for-2024/"><u>Lenovo Simple Recording Techniques for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722959421274-recapitulation-of-hahron-spices-strengths-and-unique-selling-propositions-in-the-chemical-industry/"><u>Recapitulation of HAHRON SPICE's Strengths and Unique Selling Propositions in the Chemical Industry</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-fixing-windows-boot-up-missing-executable-file-issue/"><u>Step-by-Step Solutions for Fixing Windows Boot Up: Missing Executable File Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211374264-stop-worrying-about-your-huion-device-discover-these-5-quick-pen-repair-tips/"><u>Stop Worrying About Your Huion Device; Discover These 5 Quick Pen Repair Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tame-cpu-surge-from-wmis/"><u>Tame CPU Surge From WMIs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-best-cable-modemrouter-combos-of-2024/"><u>The Best Cable Modem/Router Combos of 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/670809-9781846947377-the-reiki-man/"><u>The Reiki Man | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-ps4-network-issues-a-detailed-walkthrough/"><u>Troubleshooting and Fixing PS4 Network Issues: A Detailed Walkthrough</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-resolve-the-dx11-feature-level-100-issue-in-wwe-2k-battlegrounds/"><u>Troubleshooting Steps to Resolve the DX11 Feature Level 10.0 Issue in WWE 2K Battlegrounds</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-offline-watching-made-simple-youtube-videos-for-ios-users/"><u>[New] Offline Watching Made Simple YouTube Videos for iOS Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-3-part-blueprint-to-monitor-and-maximize-your-youtube-profits-for-2024/"><u>[Updated] 3-Part Blueprint to Monitor and Maximize Your YouTube Profits for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-what-is-a-drone-and-how-does-it-work/"><u>[Updated] In 2024, What Is a Drone and How Does It Work</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-elevate-your-videography-best-hd-android-video-apps-guide/"><u>2024 Approved Elevate Your Videography Best Hd Android Video Apps Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/apex-legends-errors-demystified-overcoming-anti-cheat-challenges-with-ease/"><u>Apex Legends Errors Demystified: Overcoming Anti-Cheat Challenges with Ease</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-guide-how-to-repair-your-applications-sudden-shutdown-problems/"><u>Comprehensive Guide: How to Repair Your Application's Sudden Shutdown Problems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1221621-9781780995397-drinking-the-four-winds/"><u>Drinking the Four Winds | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x800705b4-the-ultimate-solutions-for-windows-1n-update-issues/"><u>Error 0X800705B4: The Ultimate Solutions for Windows 1N Update Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-resolving-failed-updates-in-your-favorite-game-warframe/"><u>Expert Advice on Resolving Failed Updates in Your Favorite Game, Warframe</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210808722-fast-track-solutions-get-your-overwatch-voice-communication-back-on-track-today/"><u>Fast-Track Solutions: Get Your Overwatch Voice Communication Back on Track Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-failed-renderer-initialization-update-2021-a-step-by-step-solution/"><u>How to Fix 'Failed Renderer Initialization [Update 2021]' – A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-malfunctioning-spacebar-key-under-windows-11/"><u>How to Fix a Malfunctioning Spacebar Key Under Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-infinix-note-30i-by-drfone-android/"><u>In 2024, How to Bypass FRP from Infinix Note 30i?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sculpting-images-a-beginners-guide-to-pics-distortion/"><u>In 2024, Sculpting Images A Beginner's Guide to Pics Distortion</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-upload-and-share-like-a-pro-quick-and-easy-gif-tutorial-for-instagram-users/"><u>In 2024, Upload and Share Like a Pro Quick & Easy GIF Tutorial for Instagram Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-11-setup-issues-overcoming-initialization-errors-guide/"><u>Mastering Windows 11 Setup Issues: Overcoming Initialization Errors [Guide]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-cache-miss-error-errcachemiss-in-google-chrome-easily/"><u>Troubleshooting the Cache Miss Error (ERR_CACHE_MISS) in Google Chrome Easily</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-from-ingest-to-delivery-mastering-video-import-and-export-in-adobe-premiere-for-2024/"><u>Updated From Ingest to Delivery Mastering Video Import and Export in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-does-my-computer-freeze-with-windows-11-learn-the-fixes/"><u>Why Does My Computer Freeze with Windows 11? Learn the Fixes!</u></a></li>
 </ul></div>
 

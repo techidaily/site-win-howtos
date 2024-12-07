@@ -1,7 +1,7 @@
 ---
 title: Corsair Keyboard Malfunction? Here's How to Make It Glow Again!
-date: 2024-11-05T07:40:59.554Z
-updated: 2024-11-08T08:54:39.762Z
+date: 2024-11-30T20:39:33.095Z
+updated: 2024-12-07T17:34:21.732Z
 tags:
   - win11
   - win10
@@ -49,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/cbe88b794b4a33f4b9a69a7996ceb63e4276735d9
 
  After confirming that your hardware is not the problem, check out the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Reinstall your keyboard driver
 
  The arrow keys not working issue can be due to a faulty driver. To fix it, you can try uninstalling and reinstalling your keyboard driver. Here’s how:
@@ -58,28 +62,22 @@ thumbnail: https://thmb.techidaily.com/cbe88b794b4a33f4b9a69a7996ceb63e4276735d9
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
@@ -93,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/cbe88b794b4a33f4b9a69a7996ceb63e4276735d9
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
@@ -114,20 +116,10 @@ thumbnail: https://thmb.techidaily.com/cbe88b794b4a33f4b9a69a7996ceb63e4276735d9
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this method didn’t work for you, check out the last fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Run Keyboard Troubleshooter
 
@@ -140,23 +132,18 @@ If this method didn’t work for you, check out the last fix.
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
-4. Follow the on-screen instructions to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
+4. Follow the on-screen instructions to fix the problem.
 
 #### on Windows 11
 
@@ -189,18 +176,14 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-instant-hd-fb-content-downloader/"><u>[New] 2024 Approved Instant HD FB Content Downloader</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-streamlining-picture-shading-with-adobe-tools/"><u>[New] In 2024, Streamlining Picture Shading with Adobe Tools</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-strategic-playlist-formation-your-guide-to-youtube-mastery/"><u>[New] Strategic Playlist Formation Your Guide to YouTube Mastery</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-top-8-trending-facebook-video-hits-for-2024/"><u>[New] Top 8 Trending Facebook Video Hits for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-leveraging-patient-stories-a-guide-to-powerful-videography/"><u>[Updated] Leveraging Patient Stories A Guide to Powerful Videography</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-synchronized-screenshots-pc-or-cloud-perfection/"><u>[Updated] Synchronized Screenshots PC or Cloud Perfection</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-stop-your-pcs-display-from-randomly-twinkling-on-windows-10/"><u>How to Stop Your PC's Display From Randomly Twinkling on Windows 10</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-mkv-player-apps-windows-pc/"><u>In 2024, Ideal MKV Player Apps Windows PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205006815-resolve-the-windows-10-missing-bluetooth-problem-swiftly-and-with-simple-fixes/"><u>Resolve the 'Windows 10 Missing Bluetooth' Problem Swiftly and with Simple Fixes!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-your-missing-desktop-icons-problem-on-windows-11-expert-tips-included/"><u>Resolve Your Missing Desktop Icons Problem on Windows 11 – Expert Tips Included</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-5-solutions-for-resolving-zoom-cannot-start-video-issues/"><u>Top 5 Solutions for Resolving 'Zoom Cannot Start Video' Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-audio-problems-installing-missing-devices-on-windows-1011/"><u>Troubleshooting Audio Problems: Installing Missing Devices on Windows 10/11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functioning-keys-on-windows-11-keyboards/"><u>Troubleshooting Non-Functioning Keys on Windows 11 Keyboards</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2023diy2/"><u>2023年最新指紋識別裝置DIY尺寸大修改：從2英吋照片到最佳身分證攝影技巧</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-20-fonts-for-captivating-youtube-thumbnails/"><u>2024 Approved Top 20 Fonts for Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/archiviazione-digitale-gratuita-cambia-i-tuoi-dati-da-ram-a-mov-su-movavi-online/"><u>Archiviazione Digitale Gratuita: Cambia I Tuoi Dati Da RAM a MOV Su Movavi Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-your-audio-files-flac-to-webm-for-free-with-movavis-simple-tool/"><u>Convert Your Audio Files: FLAC to WebM for Free with Movavi's Simple Tool</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/crafting-content-cultivating-capital-your-videography-voyage-for-2024/"><u>Crafting Content, Cultivating Capital Your Videography Voyage for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-apple-watch-functionality-with-easy-steps-in-depth-tips/"><u>Enhancing Apple Watch Functionality with Easy Steps - In-Depth Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/forging-a-safe-ai-landscape-ceo-urges-stronger-governance/"><u>Forging a Safe AI Landscape: CEO Urges Stronger Governance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-17-pc-bildprogrammer-i-verden-movavi-screen-capture-tools/"><u>Top 17 PC Bildprogrammer I Verden - Movavi Screen Capture Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-replace-imovie-with-these-top-rated-windows-10-video-editors/"><u>Updated Replace iMovie with These Top-Rated Windows 10 Video Editors</u></a></li>
 </ul></div>
 

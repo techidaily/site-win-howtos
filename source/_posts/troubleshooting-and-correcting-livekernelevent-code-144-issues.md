@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Correcting LiveKernelEvent Code 144 Issues
-date: 2024-11-21T23:33:34.350Z
-updated: 2024-11-28T03:36:41.622Z
+date: 2024-12-04T19:42:12.061Z
+updated: 2024-12-07T17:36:01.682Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ To rule out this as a possibility:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your USB drivers
 
  This problem may occur if you are using the wrong or outdated USB drivers. So you should update your USB driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -66,10 +70,6 @@ To rule out this as a possibility:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Turn off USB selective suspend
 
  If your PC is configured to disable USB devices after a certain amount of time, you may have the USB keeps disconnecting problem.  
@@ -84,29 +84,21 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Change power management settings for USB Root Hubs
 
@@ -116,6 +108,10 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
@@ -124,12 +120,16 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
@@ -156,15 +156,22 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-screen-captures-in-firefox-land/"><u>[New] 2024 Approved Top Screen Captures in Firefox Land</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-securing-cash-through-youtube-content-sales/"><u>[Updated] 2024 Approved Securing Cash Through YouTube Content Sales</u></a></li>
-<li><a href="https://article-helps.techidaily.com/complete-tutorial-to-turn-gif-to-stickers-discordwhatsapptelegram/"><u>Complete Tutorial to Turn GIF to Stickers [Discord/WhatsApp/Telegram]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209123405-diagnosing-and-correcting-the-frequent-disconnection-problem-in-your-personal-computer-mouse/"><u>Diagnosing and Correcting the Frequent Disconnection Problem in Your Personal Computer Mouse.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-41-in-windows-kernel-resolution-found/"><u>Error 41 in Windows Kernel - Resolution Found</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-free-to-paid-transitioning-your-channel-via-partnership/"><u>In 2024, From Free to Paid Transitioning Your Channel via Partnership</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-lowering-dwms-impact-on-gpu-in-windows-11-through-five-key-tips/"><u>Mastering the Art of Lowering DWM's Impact on GPU in Windows 11 Through Five Key Tips</u></a></li>
-<li><a href="https://driver-install.techidaily.com/opengl-extensions-release-notes/"><u>OpenGL Extensions Release Notes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/reign-supreme-with-these-ultimate-10-innovative-ideas-for-igtv-video-content/"><u>Reign Supreme with These Ultimate 10 Innovative Ideas for IGTV Video Content</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-windows-host-rundll32-stopped-functioning-errors-in-windows-os/"><u>Understanding and Fixing 'Windows Host (Rundll32) Stopped Functioning' Errors in Windows OS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlining-screen-shots-efficiently-documenting-your-roblox-adventures-on-macos-for-2024/"><u>[New] Streamlining Screen Shots Efficiently Documenting Your Roblox Adventures on MacOS for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-multi-lens-modifiers-for-creative-video-effects/"><u>[Updated] Multi-Lens Modifiers for Creative Video Effects</u></a></li>
+<li><a href="https://solve-help.techidaily.com/best-free-malware-protection-software-for-kindle-fire-tablets-top-picks/"><u>Best FREE Malware Protection Software for Kindle Fire Tablets – Top Picks!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-joke-to-jest-constructing-impactful-social-media-memes-for-2024/"><u>From Joke to Jest Constructing Impactful Social Media Memes for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210761545-9781649630599-how-to-be-loving-the-journal/"><u>How to Be Loving: The Journal | Free Book</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-s23-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy S23 Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-motorola-moto-g23-easily-by-drfone-android/"><u>In 2024, How To Unlock a Motorola Moto G23 Easily?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-final-cut-pro-x-jump-cuts-take-your-editing-to-the-next-level-for-2024/"><u>New Final Cut Pro X Jump Cuts Take Your Editing to the Next Level for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-setup-guide-for-releasebb-addon-in-kodi-on-nexus-and-matrix-tv-platforms/"><u>Successful Setup Guide for ReleaseBB Addon in Kodi on Nexus and Matrix TV Platforms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-how-to-manual-for-overcoming-a-web-sites-access-is-denied-hurdles/"><u>The Definitive How-To Manual for Overcoming a Web Site’s ‘Access Is Denied’ Hurdles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-21-must-watch-chinese-animations-mastering-the-art-of-donghua/"><u>Top 21 Must-Watch Chinese Animations: Mastering the Art of Donghua</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-kindle-fire-video-transformer-apps-effortless-video-format-adaptation-for-your-device/"><u>Top Rated Kindle Fire Video Transformer Apps - Effortless Video Format Adaptation for Your Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-burning-a-dvd-as-wmv-file-with-excellent-quality-on-windows-pc/"><u>Ultimate Guide to Burning a DVD as WMV File with Excellent Quality on Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-quickly-merging-mp3s-on-windows-1011-with-proven-techniques/"><u>Ultimate Guide to Quickly Merging MP3s on Windows 10/11 with Proven Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-transferring-your-favorite-tunes-from-youtube-to-your-pc/"><u>Ultimate Guide to Transferring Your Favorite Tunes From YouTube to Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vobwmvwindows/"><u>VOBファイルをWMV形式に変換するためのWindows対応ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/watch-your-avi-videos-effortlessly-on-roku-the-ultimate-no-cost-tutorial/"><u>Watch Your AVI Videos Effortlessly on Roku: The Ultimate No-Cost Tutorial</u></a></li>
 </ul></div>
 

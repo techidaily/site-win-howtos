@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Optimizing Your Fallout 4 Gaming Experience & Fixing Lag"
-date: 2024-11-05T18:06:13.568Z
-updated: 2024-11-07T21:27:05.141Z
+date: 2024-12-06T20:17:49.082Z
+updated: 2024-12-07T19:06:39.948Z
 tags:
   - win11
   - win10
@@ -34,33 +34,20 @@ If you have previously installed the same program (or its earlier version), the 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9bf012d25.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Find and open**Programs and Features**;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9c81105c5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then you can check if the application is listed here. If it is, uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9d00544d7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3) Start and re-register Microsoft Installer service
@@ -73,6 +60,10 @@ There may be something going wrong with**Microsoft Installer service**and theref
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca70c399c1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)** Hit**Start**button under**Service status**and hit**OK**. (If its service status is**running**, you should click on**Stop**first and then hit**Start**.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca7cbbdf36.png)
@@ -81,23 +72,9 @@ To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**m
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9370d810.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **b)** Press**Win + R** again and enter “ _**msiexec /regserve** **r**_ “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9952ad21.png)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4) Acquire full permissions on the drive for installation
 
@@ -106,10 +83,7 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cac402cfce.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **b)** Go to**Security**tab and click on**Edit**.
@@ -124,13 +98,25 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb3cf25a0c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **e)** Click on**Change Permissions**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb5c235c54.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **f)** On**Permissions**tab, double click on**Administrators**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb67382950.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **g)** Select**This folder, subfolders and files**for**Applies to**field and**tick** **all the available basic permissions**. After that hit**OK**.
 
@@ -139,13 +125,6 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 **h)** Do the same operation above for**SYSTEM**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb8202ef5a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **i)** Click on**OK** all the way out. Now you have acquired full permissions on this drive. Try installing your application and see if the issue is fixed.
 
@@ -166,18 +145,18 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-operational-status-achieved-cameras-ready-for-2024/"><u>[Updated] Operational Status Achieved - Cameras Ready for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-repair-conquer-dll-failures/"><u>[Windows Repair] Conquer DLL Failures</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-laughter-labyrinas-ideas-that-resonate-with-crowds/"><u>2024 Approved Laughter Labyrinas Ideas That Resonate with Crowds</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-blues-effective-solutions-for-running-saints-row-successfully-on-a-pc/"><u>Beat the Blues: Effective Solutions for Running Saints Row Successfully on a PC</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/capture-the-action-in-depth-guide-to-game-recording-on-win10-for-2024/"><u>Capture the Action In-Depth Guide to Game Recording on Win10 for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-resolve-error-code-0x800f0831-with-simple-windows-updates/"><u>Quick Solutions: Resolve Error Code 0X800f0831 with Simple Windows Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-code-24-a-comprehensive-fix-for-the-device-not-detected-issue-in-windows-os/"><u>Resolving Code 24: A Comprehensive Fix for the 'Device Not Detected' Issue in Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-persistent-issue-of-windows-update-failed-with-error-0x8024002e/"><u>Resolving the Persistent Issue of 'Windows Update Failed with Error 0X8024002E'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/seamless-setup-expert-advice-on-connecting-your-airpods-to-windows-1011-systems-latest-fixes/"><u>Seamless Setup: Expert Advice on Connecting Your AirPods to Windows 10/11 Systems - Latest Fixes</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-90-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on 90 Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/turbocharge-windows-mouse-with-quick-double-click-tweaks/"><u>Turbocharge Windows Mouse with Quick Double-Click Tweaks</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-free-security-camera-solutions-top-picks-and-reviews-for-2024/"><u>Updated Free Security Camera Solutions Top Picks and Reviews for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/voice-able-the-new-era-of-ai-and-vehicle-commands/"><u>VOICE-ABLE: The New Era of AI and Vehicle Commands</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-art-of-visual-storytelling-for-online-platforms/"><u>[New] In 2024, The Art of Visual Storytelling for Online Platforms</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-recover-eyes-only-snaps-a-step-by-step-guide/"><u>[Updated] How to Recover Eyes-Only Snaps A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-mastering-vocal-alteration-in-free-fire-complimentary-tips-for-2024/"><u>[Updated] Mastering Vocal Alteration in Free Fire Complimentary Tips for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-obs-or-wirecast-your-ultimate-guide-to-broadcast-software-for-2024/"><u>[Updated] OBS or Wirecast? Your Ultimate Guide to Broadcast Software for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-m4vmp3-movavi/"><u>免費在線Movavi 影片編解碼器，改變M4V到MP3 - 學名: Movavi 動手嘗試</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-poco-x5-pro-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Poco X5 Pro</u></a></li>
+<li><a href="https://fox-info.techidaily.com/discovering-vr-a-concise-explanation-for-all/"><u>Discovering VR A Concise Explanation for All</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/entendiendo-los-terminos-y-condiciones-de-la-aplicacion-gratis-de-descuentos-moovvi/"><u>Entendiendo Los Términos Y Condiciones De La Aplicación Gratis De Descuentos Moovvi</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inside-look-how-the-amazon-fire-tv-cube-revolutionizes-streaming-speeds-for-viewers/"><u>Inside Look: How the Amazon Fire TV Cube Revolutionizes Streaming Speeds for Viewers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-video-editing-software-for-enterprises-professional-screen-recording-and-movie-editing-tool/"><u>Movavi Video Editing Software for Enterprises: Professional Screen Recording & Movie Editing Tool</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-barracuda-x-not-recognizing-microphone-on-windows-11-heres-how-to-solve-it/"><u>Razer Barracuda X Not Recognizing Microphone on Windows 11? Here's How to Solve It!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revolucao-em-edicao-de-video-mastering-loops-e-guias-no-movavi-video-editor/"><u>Revolução Em Edição De Vídeo: Mastering Loops E Guias No Movavi Video Editor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transform-your-m1v-videos-into-mpeg-format-instantly-complimentary-solutions-by-movavi/"><u>Transform Your M1V Videos Into MPEG Format Instantly - Complimentary Solutions by Movavi</u></a></li>
 </ul></div>
 

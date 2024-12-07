@@ -1,7 +1,7 @@
 ---
 title: "Razer Keyboard Not Glowing: Common Issues and Fixes Discovered"
-date: 2024-11-21T07:47:13.479Z
-updated: 2024-11-27T20:03:15.849Z
+date: 2024-11-30T20:50:51.208Z
+updated: 2024-12-07T20:07:55.414Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -33,13 +33,17 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 3. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Plug your keyboard in another USB port
 
  It’s probably caused by the poor connection. Plug your keyboard into another USB port and check if it does light up. If it does and everything works well, it’s your USB port that has the issue.  
  If it doesn’t light up, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Uninstall and reinstall Razer Synapse
 
@@ -53,10 +57,6 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/services.jpg)
 5. Go to C:\\Users\\Your user name\\AppData and delete any Razer folders.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Go to C:\\Program Files (x86)… or wherever you installed Synapse and delete the Razer folders.
 7. Reboot your computer.
 8. Go to the[Razer official website](https://www.razer.com/synapse-3) to download the latest version of Synapse.
@@ -65,7 +65,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 11. Plug your keyboard and check the lightening.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your driver
@@ -84,12 +84,12 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)  
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. After updating the drivers, check to see the issue is resolved or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That’s it! Hopefully, these methods can help you resolve the issue. If you have any questions or suggestions, please let us know by commenting below.
 
@@ -110,18 +110,22 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-full-guide-to-premiere-pro-full-screen-preview/"><u>[New] 2024 Approved Full Guide to Premiere Pro Full Screen Preview</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-use-screencastify-recorder/"><u>[Updated] How to Use Screencastify Recorder</u></a></li>
-<li><a href="https://discover-help.techidaily.com/effective-techniques-for-combining-multiple-tracks-with-audacity-into-one-extended-audio-piece/"><u>Effective Techniques for Combining Multiple Tracks with Audacity Into One Extended Audio Piece</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-0x8024002e-resolved-effective-steps-for-restoring-windows-update-functionality/"><u>Error 0X8024002e Resolved: Effective Steps for Restoring Windows Update Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-a-stuck-touchpad-scroll-feature-a-comprehensive-guide-for-seamless-browsing/"><u>Fixing a Stuck Touchpad Scroll Feature: A Comprehensive Guide for Seamless Browsing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-the-gif-to-sticker-methodology-how-to-express-yourself-better-on-discord/"><u>In 2024, The GIF-to-Sticker Methodology How to Express Yourself Better on Discord</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/master-the-art-of-fb-story-downloads-on-every-device/"><u>Master the Art of FB Story Downloads on Every Device</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-10-funniest-subreddits-to-find-hilarious-memes-picked/"><u>New 2024 Approved 10 Funniest Subreddits to Find Hilarious Memes (Picked)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-device-drivers-missing-challenges-in-windows-7-setup/"><u>Overcoming 'Device Drivers Missing' Challenges in Windows 7 Setup</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unlocking-the-secrets-of-computing-with-toms-hardware-expertise/"><u>Unlocking the Secrets of Computing with Tom's Hardware Expertise</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/win-10-slow-closure-fixed-effective-tips-for-a-swift-shutdown-experience/"><u>Win 10 Slow Closure Fixed? Effective Tips for a Swift Shutdown Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209086261-winning-the-battle-against-failing-windows-updates-now-fixed/"><u>Winning the Battle Against Failing Windows Updates - Now Fixed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-no-price-no-problem-turning-twitter-vids-into-gifs/"><u>[New] In 2024, No Price, No Problem Turning Twitter Vids Into GIFs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leading-edge-headsets-for-drone-vr-use/"><u>[New] Leading Edge Headsets for Drone VR Use</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-handheld-panorama-peacekeeper-360-stabilizer/"><u>[Updated] Handheld Panorama Peacekeeper 360° Stabilizer</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-navigating-slack-integration-with-filmora-for-seamless-video-conferences/"><u>[Updated] In 2024, Navigating Slack Integration with Filmora for Seamless Video Conferences</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-youtube-tagging-101-for-better-engagement/"><u>[Updated] In 2024, YouTube Tagging 101 for Better Engagement</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/3-leading-tools-for-swiftly-downloading-videos-from-facebook-with-ease/"><u>3 Leading Tools for Swiftly Downloading Videos From Facebook with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/5ris5a6a5zmo44ko44od44k444gn6zplusz5aow6lui5yaz6yyy6zplusz44gu44k544og44od44ox44oq44kk44k544og44od44ox44ks44kk44oj/"><u>測定器エッジで音声転写録音のステップバイステップガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/6ksh5pww44gu5a2x5bmv44oi44op44od44kv44gu5lplusd5a2y5oml6acg44ks5a2m44g2/"><u>複数の字幕トラックの保存手順を学ぶ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/6auy5zob5l2n6kej5p6q44ot44oh44kq5asj5oplusbic0g5bcc6zaa44oe44o844or44go54sh5paz44ox44ot44kw44op44og44gu5l244ge5pa5/"><u>高品位解析ビデオ変換 - 専門ツールと無料プログラムの使い方</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comparing-features-free-vs-premium-mpeg-video-converter-factory-against-factory-pro/"><u>Comparing Features: Free vs Premium - MPEG Video Converter Factory Against Factory Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-tutorial-on-retrieving-and-exporting-data-from-chatgpt/"><u>Comprehensive Tutorial on Retrieving and Exporting Data From ChatGPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/crafting-charming-and-humorous-emoji-clips-effortlessly-using-top-rated-emoji-editors/"><u>Crafting Charming & Humorous Emoji Clips Effortlessly Using Top-Rated Emoji Editors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-best-free-mkv-editing-tools-your-ultimate-guide/"><u>Discover the Best Free MKV Editing Tools - Your Ultimate Guide!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-for-seamless-dvd-ripping-and-conversion-to-divx-format/"><u>Easy Steps for Seamless DVD Ripping & Conversion to DivX Format</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/google-pixel-watch-and-apple-series-9-face-off-deciding-on-the-ultimate-smartwatch-for-you/"><u>Google Pixel Watch and Apple Series 9 Face-Off: Deciding on the Ultimate Smartwatch for You</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715860405019-in-2024-embedded-recorder-usage-in-huaweis-mate-series-and-the-p-lineup/"><u>In 2024, Embedded Recorder Usage in Huawei's Mate Series and the P Lineup.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sky-high-selfies-and-beyond-an-insightful-analysis-of-dji-spark/"><u>Sky High Selfies and Beyond An Insightful Analysis of DJI Spark</u></a></li>
 </ul></div>
 

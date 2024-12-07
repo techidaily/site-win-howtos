@@ -1,7 +1,7 @@
 ---
 title: Microsoft Surface Pro 4 Touchscreen Malfunction? Here's How to Get It Working Again
-date: 2024-11-21T22:42:15.596Z
-updated: 2024-11-28T09:16:45.532Z
+date: 2024-12-01T19:41:35.040Z
+updated: 2024-12-07T17:55:49.255Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Perform a two button shutdown
 
  Your touch screen may stop working properly if there are corruption issues on your Surface Pro 4\. You need to perform a **two button shutdown**  to shut it down completely to see if this can clear these issues and restore your touch screen.
@@ -62,15 +58,23 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Select **Check for updates** , and wait for the system updates to be installed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b63705ebce.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Restart your computer and check to see if this fixes your touch screen.  
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Update the driver of your touch screen
@@ -89,18 +93,10 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c49fc02c88.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the Update button next to a flagged touch screen driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click the Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)  – you’ll be prompted to upgrade when you click the Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afac9d2c5c8.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Reset your Surface Pro 4
 
@@ -115,7 +111,7 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Select**Recovery** and then select **Get started** button under Reset this PC.
@@ -125,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 **4)** Choose either to **keep your files** or to **remove everything** when resetting your device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c551f22061.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Wait for your device to be reset completely. Then try your screen and see if it gets back to normal.
 
@@ -145,20 +145,21 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unveiling-the-secrets-to-dynamic-video-cover-design-in-facebook-space/"><u>[New] In 2024, Unveiling the Secrets to Dynamic Video Cover Design in Facebook Space</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-voice-from-images-turning-instagram-into-mp3s-for-2024/"><u>[Updated] Voice From Images Turning Instagram Into MP3s for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-a-guide-to-navigating-instagrams-new-updates/"><u>2024 Approved A Guide to Navigating Instagram's New Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/addressing-keyboard-input-mistakes-solutions-for-unintended-letters/"><u>Addressing Keyboard Input Mistakes: Solutions for Unintended Letters</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/boosting-windows-7-launch-times-tips-and-solutions-to-combat-delayed-startups/"><u>Boosting Windows 7 Launch Times: Tips & Solutions to Combat Delayed Startups</u></a></li>
-<li><a href="https://solve-help.techidaily.com/convert-your-transferred-book-collection-into-digital-format-for-kindle-devices-and-app/"><u>Convert Your Transferred Book Collection Into Digital Format for Kindle Devices & App</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-fixes-to-get-your-logitech-mouse-scroll-wheel-back-on-track/"><u>DIY Fixes to Get Your Logitech Mouse Scroll Wheel Back on Track</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/illuminate-the-path-ahead-strategies-for-dealing-with-monster-hunter-worldcups-blackout-at-boot-and-ensuring-a-colorful-comeback/"><u>Illuminate the Path Ahead - Strategies for Dealing with Monster Hunter: World'cups Blackout at Boot and Ensuring a Colorful Comeback</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/image-innovation-unveiling-secrets-of-photo-enhancement/"><u>Image Innovation Unveiling Secrets of Photo Enhancement</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/maximizing-streaming-is-sub4sub-effective-in-2024/"><u>Maximizing Streaming Is Sub4Sub Effective, In 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-how-to-access-and-enjoy-3d-movie-night-with-fandango-from-the-comfort-of-home/"><u>Step by Step: How to Access and Enjoy 3D Movie Night with Fandango From the Comfort of Home</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-correcting-the-youtube-audio-renderer-malfunction-on-your-windows-10-computer/"><u>Step-by-Step Guide to Correcting the Youtube Audio Renderer Malfunction on Your Windows 10 Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-repairing-damaged-system-files-on-windows-11/"><u>Step-by-Step Solutions: Repairing Damaged System Files on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/swift-techniques-for-repairing-problematic-directx-launch-scenarios/"><u>Swift Techniques for Repairing Problematic DirectX Launch Scenarios</u></a></li>
-<li><a href="https://article-tips.techidaily.com/tips-for-staying-positive-in-the-face-of-critical-youtube-comments-for-2024/"><u>Tips for Staying Positive in the Face of Critical YouTube Comments for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-discover-the-secrets-to-customizing-game-sounds-with-our-step-by-step-process-no-charge/"><u>[Updated] 2024 Approved Discover the Secrets to Customizing Game Sounds with Our Step-by-Step Process (No Charge!)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-exploring-youtubes-latest-revenue-guidelines/"><u>[Updated] In 2024, Exploring YouTube's Latest Revenue Guidelines</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-are-critiques-on-items-compensated-monetarily/"><u>2024 Approved Are Critiques on Items Compensated Monetarily?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-step-by-step-guide-to-repair-hp-laptops-camera-in-windows-11/"><u>A Step-by-Step Guide to Repair HP Laptop's Camera in Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/advance-repair-for-bad-and-corrupt-video-files-of-x50-gt-by-stellar-video-repair-mobile-video-repair/"><u>Advance Repair for Bad and Corrupt Video Files of X50 GT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/destiny-2-wont-start-clear-your-cache-and-initialize-successfully/"><u>Destiny 2 Won't Start? Clear Your Cache and Initialize Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-5-in-minecraft-comprehensive-solutions-for-a-smooth-gaming-experience/"><u>Error Code 5 in Minecraft: Comprehensive Solutions for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209730276-no-charge-detected-heres-how-to-troubleshoot-and-restore-in-a-flash/"><u>No Charge Detected? Here’s How to Troubleshoot & Restore in a Flash!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-lava-storm-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Lava Storm 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolved-how-to-fix-the-amd-radeon-rx-560-driver-compatibility-problem-in-windows-11/"><u>Resolved: How to Fix the AMD Radeon RX 560 Driver Compatibility Problem in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-fixing-the-issue-when-your-app-wont-launch-due-to-error-code-0xc000007b/"><u>Solved: Fixing the Issue When Your App Won't Launch Due to Error Code 0xC000007B</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultra-compact-apple-vision-pro-carrier-half-the-bulk-full-of-style-zdnet-insights/"><u>The Ultra-Compact Apple Vision Pro Carrier: Half the Bulk, Full of Style (ZDNet Insights)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-undercover-guide-to-enhancing-your-window-11-experience-for-2024/"><u>The Undercover Guide to Enhancing Your WINDOW 11 Experience for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-and-solving-wired-network-connection-problems-in-windows-117/"><u>Troubleshooting and Solving Wired Network Connection Problems in Windows 11/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-code-28-a-step-by-step-guide-for-device-manager-in-windows/"><u>Troubleshooting Code 28 – A Step-by-Step Guide for Device Manager in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-opaque-initialization-screens-on-monster-hunter-world-starts/"><u>Troubleshooting Opaque Initialization Screens on Monster Hunter: World Starts</u></a></li>
 </ul></div>
 

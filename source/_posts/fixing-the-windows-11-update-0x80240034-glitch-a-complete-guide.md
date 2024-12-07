@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Windows 11 Update 0X80240034 Glitch: A Complete Guide"
-date: 2024-11-01T06:55:37.357Z
-updated: 2024-11-08T05:12:49.627Z
+date: 2024-12-03T19:58:03.651Z
+updated: 2024-12-07T22:03:07.046Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/14ac9c60c0a7c6de320a160e01c4efc88f6a5375e
 4. [**Modify Registry Editor**](#Method5)
 5. **[Bonus Tip](#b1)**
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Why does the error 0x80070002 occur?
 
  This error code may vary from different Windows versions. In Windows XP, you will see the error code **0x80070002** . While in Windows 10/8/7, you will see the error code **80070002** .
@@ -65,16 +58,13 @@ thumbnail: https://thmb.techidaily.com/14ac9c60c0a7c6de320a160e01c4efc88f6a5375e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a01819233c7d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Change date and time** to make sure that the date and time is correct on your Windows, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181cc9eb3f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Change time zone** to make sure that the time zone is correct, then click**OK** .
 
@@ -108,19 +98,6 @@ thumbnail: https://thmb.techidaily.com/14ac9c60c0a7c6de320a160e01c4efc88f6a5375e
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 2: Modify the Windows Update installation files**
 
  Sometimes the error 0x80070002 occurs because the system update process fails, and the Windows Update installation files are corrupted or missing. So you can try to delete the installation files or rename the installation folder to solve the problem.
@@ -135,9 +112,17 @@ thumbnail: https://thmb.techidaily.com/14ac9c60c0a7c6de320a160e01c4efc88f6a5375e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017383ddfcc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double click**Windows Update** (if you are using Windows XP, double click**Automatic Updates** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a780f0e4842e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Change the**Startup type** to**Automatic** . Then, make sure the Service status is set to**Stopped** . If it’s**Running** , click**Stop** then click**Apply** , and**OK** to save the changes.
 
@@ -150,6 +135,10 @@ thumbnail: https://thmb.techidaily.com/14ac9c60c0a7c6de320a160e01c4efc88f6a5375e
  2) Go to folders:**Windows > SoftwareDistribution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0174add00e1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Delete the folder named**SoftwareDistribution** .  (If you’re prompted for an administrator password or confirmation, type your password or provide confirmation.)
 
@@ -165,6 +154,10 @@ thumbnail: https://thmb.techidaily.com/14ac9c60c0a7c6de320a160e01c4efc88f6a5375e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017371df6a8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click Windows Update (if you are using Windows XP, right-click**Automatic Updates** ), and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Windows-update-Start-1200x690.jpg)
@@ -174,10 +167,7 @@ thumbnail: https://thmb.techidaily.com/14ac9c60c0a7c6de320a160e01c4efc88f6a5375e
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 3: Try Windows Update Troubleshooter**
@@ -188,25 +178,11 @@ thumbnail: https://thmb.techidaily.com/14ac9c60c0a7c6de320a160e01c4efc88f6a5375e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0177a875597.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Run the downloaded file.
 
  3) Click**Windows Update** , and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0175eea504b.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Then it will run and try to fix the problem. After completing, restart your computer and try Windows Update again to see if it works.
 
@@ -231,10 +207,7 @@ thumbnail: https://thmb.techidaily.com/14ac9c60c0a7c6de320a160e01c4efc88f6a5375e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7817546e624.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Right-click the newly created**NewValue#1** and select**Modify** .
@@ -246,10 +219,7 @@ thumbnail: https://thmb.techidaily.com/14ac9c60c0a7c6de320a160e01c4efc88f6a5375e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a781900ea1c1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7) Restart your computer and try again to see if it works.
@@ -273,6 +243,10 @@ thumbnail: https://thmb.techidaily.com/14ac9c60c0a7c6de320a160e01c4efc88f6a5375e
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged device to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
   
@@ -303,24 +277,18 @@ thumbnail: https://thmb.techidaily.com/14ac9c60c0a7c6de320a160e01c4efc88f6a5375e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-elevate-your-gameplay-records-with-advanced-methods-on-w11/"><u>[New] Elevate Your Gameplay Records with Advanced Methods on W11</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-streaming-setup-leading-livestream-hardware-and-software-guide/"><u>[New] In 2024, Best Streaming Setup Leading Livestream Hardware & Software Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-excellent-videocameras-of-the-year-2024/"><u>[Updated] The Excellent Videocameras of the Year 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-aspers-secrets-soundscapes-that-lull-you-to-sleep/"><u>2024 Approved Asper's Secrets Soundscapes That Lull You to Sleep</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-guide-to-securely-copying-youtube-music-tracks-safely/"><u>2024 Approved Guide to Securely Copying YouTube Music Tracks Safely</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/battlefield-2042-pc-version-common-crash-causes-and-fixes/"><u>Battlefield 2042 PC Version: Common Crash Causes and Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-to-critical-problems-encountered-in-call-of-dutys-new-release/"><u>Comprehensive Solutions to Critical Problems Encountered in Call of Duty's New Release</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dell-laptop-keyboard-malfunction-how-to-identify-and-resolve/"><u>Dell Laptop Keyboard Malfunction – How to Identify and Resolve</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722969424348-effortless-driver-installation-guide-for-hewlett-packard-computers/"><u>Effortless Driver Installation Guide for Hewlett-Packard Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-overcoming-common-challenges-with-chromecast-setup-and-connection/"><u>Expert Tips: Overcoming Common Challenges with Chromecast Setup and Connection</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-some-outdated-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Identify some outdated drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-finding-the-key-personalized-tag-for-your-tiktok-stream/"><u>In 2024, Finding the Key Personalized Tag for Your TikTok Stream</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/new-techniques-to-get-your-device-receiving-miracast-signals/"><u>New Techniques to Get Your Device Receiving Miracast Signals</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/silenced-mic-glitch-cleared-in-discord/"><u>Silenced Mic Glitch Cleared in Discord</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-the-semaphore-expiry-problem-understanding-error-0x8070079/"><u>Step-by-Step Fix for the Semaphore Expiry Problem (Understanding Error 0X80#70079)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-the-common-system-error-ve-on-windows-operating-systems/"><u>Step-by-Step Solutions for the Common 'System Error Ve' On Windows Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-usb-mouse-issues-how-to-fix-when-your-laptop-wont-recognize-it/"><u>Troubleshooting USB Mouse Issues: How to Fix When Your Laptop Won't Recognize It</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-choice-top-5-pro-fish-action-cameras-for-2024/"><u>Ultimate Choice Top 5 Pro-Fish Action Cameras for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-fix-for-dell-laptop-usb-issues-a-step-by-step-guide/"><u>Ultimate Fix for Dell Laptop USB Issues - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-easy-color-techniques-for-professional-outputs/"><u>[New] In 2024, Easy Color Techniques for Professional Outputs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unveiling-the-vanished-rediscovering-exclusive-chats/"><u>[New] In 2024, Unveiling the Vanished Rediscovering Exclusive Chats</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-cutting-edge-editing-solutions-just-for-vimeo/"><u>[Updated] Cutting-Edge Editing Solutions Just for Vimeo</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-easy-steps-to-deactivate-igtv-for-2024/"><u>[Updated] Easy Steps to Deactivate IGTV for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-blend-modes-for-perfect-clip-integration/"><u>[Updated] In 2024, Blend Modes for Perfect Clip Integration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/8-estrategias-simples-para-conferencia-em-video-criptografadas-no-zoom-tutoriais-completos-da-movavi/"><u>8 Estratégias Simples Para Conferência Em Vídeo Criptografadas No Zoom – Tutoriais Completos Da Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726225099692-rmvbflv-movavi/"><u>免費線上 RMVB/FLV 切換工具：用Movavi的方法學習</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-ryzen-7-and-ubuntu-synergy-why-the-framework-laptop-outshines-with-linux-over-windows-11/"><u>AMD Ryzen 7 and Ubuntu Synergy: Why the Framework Laptop Outshines with Linux over Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-play-and-convert-mov-videos-on-your-computer-or-device/"><u>How to Play and Convert MOV Videos on Your Computer or Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a14-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A14 5G Phone without PIN</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-gratuita-ottieni-la-tua-conversione-ape-ogg-perfezionata-tramite-movavi/"><u>Online Gratuità! Ottieni La Tua Conversione APE-OGG Perfezionata Tramite Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-insightful-breakdown-of-m4a-audio-files-mastery-in-opening-and-accessing-content/"><u>The Insightful Breakdown of M4A Audio Files: Mastery in Opening & Accessing Content</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-tecno-spark-10-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Tecno Spark 10 5G Phones</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Repair 'Internet Explorer Has Stopped Working'
-date: 2024-11-25T12:18:37.648Z
-updated: 2024-11-28T01:30:09.339Z
+date: 2024-12-04T20:34:37.066Z
+updated: 2024-12-07T18:49:45.361Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
@@ -46,10 +46,6 @@ Here’s how to reinstall the keyboard driver:
  1) Hover your mouse around**the Start button** (on the bottom left of your desktop screen), _right-click_  and then click on**Device Manager** to open Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
@@ -86,7 +82,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -107,15 +103,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -126,13 +122,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -141,6 +137,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -184,22 +184,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-vimeo-id-picture-guide-width-depth-moment/"><u>[New] 2024 Approved Vimeo ID Picture Guide Width, Depth, Moment</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-the-ultimate-guide-to-superior-free-lut-options/"><u>[New] The Ultimate Guide to Superior, Free LUT Options</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-catalysts-affiliates-aiding-budgeted-buzzers/"><u>[Updated] In 2024, Channel Catalysts Affiliates Aiding Budgeted Buzzers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/breathe-life-into-your-disappearing-touchpad/"><u>Breathe Life Into Your Disappearing Touchpad</u></a></li>
-<li><a href="https://win-docs.techidaily.com/depannage-complet-pour-lappareil-de-stockage-wd-my-book-non-affiche-dans-windows-10/"><u>Dépannage Complet Pour L'Appareil De Stockage WD My Book Non Affiché Dans Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-address-the-missing-device-error-code-dbel-junfrt-in-microsofts-latest-operating-systems/"><u>How To Address the Missing Device Error (Code ˈdʌbəl-Juːnˈfɔːrt) In Microsoft's Latest Operating Systems</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oneplus-12-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus 12 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-light-on-non-responsive-razer-keyboard-keys/"><u>How to Restore Light on Non-Responsive Razer Keyboard Keys</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-samsung-galaxy-z-fold-5mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Samsung Galaxy Z Fold 5Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-illuminating-insight-the-ultimate-guide-to-choosing-a-stunning-4k-screen/"><u>In 2024, Illuminating Insight The Ultimate Guide to Choosing a Stunning 4K Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-netflix-connectivity-issues-is-the-service-affected-or-just-your-connection/"><u>Resolving Netflix Connectivity Issues – Is the Service Affected or Just Your Connection?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-dilemma-non-responsive-right-click-in-windows-10/"><u>Solving the Dilemma: Non-Responsive Right Click in Windows 10</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721479432923-struggling-to-update-ios-on-your-device-try-these-9-troubleshooting-tips/"><u>Struggling to Update iOS on Your Device? Try These 9 Troubleshooting Tips!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-pc-shutdowns-during-gameplay-on-windows-versions-win11-win10-win7-win81-and-win8/"><u>Troubleshooting PC Shutdowns During Gameplay on Windows Versions: Win11, Win10, Win7, Win8.1 & Win8</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-battleye-installation-woes-now-fixed/"><u>Troubleshooting Your BattlEye Installation Woes - Now Fixed!</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/unleashing-creativity-a-gif-sharing-blueprint-on-snapchat-for-2024/"><u>Unleashing Creativity A Gif Sharing Blueprint on Snapchat for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-dvd-player-errors-solved-how-to-fix-non-functioning-media/"><u>Windows DVD Player Errors Solved – How to Fix Non-Functioning Media</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-eliminating-unsteadiness-from-high-altitude-cinematography/"><u>[New] Eliminating Unsteadiness From High-Altitude Cinematography</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-obs-issue-full-screen-bug-fixed/"><u>[New] Obs Issue Full-Screen Bug Fixed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/advanced-mac-hd-video-converter-software-effizientes-konvertieren-von-avchd-m2ts-mkv-und-flv-dateien-auf-dem-mac/"><u>Advanced Mac HD Video Converter Software - Effizientes Konvertieren Von AVCHD, M2TS, MKV Und FLV Dateien Auf Dem Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/execution-halt-no-coding-permitted/"><u>Execution Halt: No Coding Permitted</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-honor-x9a-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Honor X9a to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-quickly-stream-spotify-audio-with-integrity/"><u>In 2024, How to Quickly Stream Spotify Audio with Integrity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-tips-navigating-and-using-file-explorer-on-windows-11-seamlessly/"><u>Quick Tips: Navigating and Using File Explorer on Windows 11 Seamlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-logitech-g930-sound-cutting-problem-with-these-simple-tips/"><u>Solve Your Logitech G930 Sound Cutting Problem with These Simple Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-keyboard-issues-how-to-repair-unresponsive-left-right-and-updown-arrows/"><u>Solving Keyboard Issues: How to Repair Unresponsive Left, Right and Up/Down Arrows!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-performance-boost-tackling-high-cpu-drain-by-svchostexe-guide/"><u>Windows 10 Performance Boost: Tackling High CPU Drain by svchost.exe [Guide]</u></a></li>
 </ul></div>
 

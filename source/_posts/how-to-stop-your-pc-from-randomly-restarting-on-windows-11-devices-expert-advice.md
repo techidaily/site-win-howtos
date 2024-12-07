@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Your PC From Randomly Restarting on Windows 11 Devices: Expert Advice"
-date: 2024-11-21T13:46:23.617Z
-updated: 2024-11-28T01:13:30.363Z
+date: 2024-12-06T21:07:19.119Z
+updated: 2024-12-07T20:05:40.923Z
 tags:
   - win11
   - win10
@@ -40,12 +40,16 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f20f2242c5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Display** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f25c04e4c2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Check if you’re able to see the TV as a second monitor.
@@ -53,7 +57,7 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f296382361.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you can’t see your TV on the screen , follow steps below:
@@ -63,18 +67,18 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f2b20b8e25.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If Duplicate doesn’t work, try switching to**Extend** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bc8338cfae9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After that, check to see if Windows can detect your TV.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 2: Update the graphics driver**
@@ -99,10 +103,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e9e0ebcfe9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Restart your computer and check to see if Windows 10 can now detect your TV.
 
 **TIP:** After connecting your TV via HDMI successfully, if you can’t hear sound from the output, go to [Fix HDMI No Sound in Windows 10](https://tools.techidaily.com/drivereasy/download/) for the solutions.
@@ -126,22 +126,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-essential-guide-broadcast-360-videos-on-facebook/"><u>[New] 2024 Approved Essential Guide Broadcast 360 Videos on Facebook</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-100-safe-audio-download-techniques-from-youtube/"><u>[Updated] 100% Safe Audio Download Techniques From YouTube</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-channel-name-inspiration-strategies-for-success/"><u>[Updated] 2024 Approved Channel Name Inspiration Strategies for Success</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-broken-xbox-controler-xp-a-detailed-troubleshooting-manual/"><u>Fix Your Broken Xbox Controler XP - A Detailed Troubleshooting Manual</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/o-add-a-streamline-of-youtube-playlists-on-your-website/"><u>How to Add a Streamline of YouTube Playlists on Your Website</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Xiaomi Redmi Note 12T Pro</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/is-the-new-iphone-16-worth-it-expert-advice-on-why-to-embrace-or-avoid-the-upgrade-zdnet-analysis/"><u>Is the New iPhone 16 Worth It? Expert Advice on Why to Embrace or Avoid the Upgrade | ZDNET Analysis</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimal-hrt-for-sedimentation-tanks-ensures-effective-settling-of-particles/"><u>Optimal HRT for Sedimentation Tanks Ensures Effective Settling of Particles.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-hosted-network-not-started-challenges-on-your-windows-11-device/"><u>Overcoming 'Hosted Network Not Started' Challenges on Your Windows 11 Device</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/premium-ff-downloader-suite-for-efficient-fb-media-grabs-for-2024/"><u>Premium FF Downloader Suite for Efficient FB Media Grabs for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quickly-improve-windows-11s-performance-with-provider-host-tips/"><u>Quickly Improve Windows 11'S Performance with Provider Host Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-repairing-windows-11-with-system-file-checker-sfc-and-deployment-image-servicing-management-tool-dism/"><u>Step-by-Step: Repairing Windows 11 With System File Checker (SFC) & Deployment Image Servicing Management Tool (DISM)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-16-kostenlose-logo-design-programme-fur-windows-movavi/"><u>Top 16 Kostenlose Logo-Design-Programme Für Windows - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-sound-quality-resolving-crackle-noises-in-pc-speakers-windows-117/"><u>Troubleshooting Sound Quality: Resolving Crackle Noises in PC Speakers (Windows 11/7)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-trimming-images-efficiently-in-word-excel-and-powerpoint-2010/"><u>Ultimate Guide to Trimming Images Efficiently in Word, Excel & PowerPoint 2010</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-selection-of-usb-drive-options-for-swift-iphone-information-transfers/"><u>Ultimate Selection of USB Drive Options for Swift iPhone Information Transfers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-xlsx-files-and-steps-to-access-them/"><u>Understanding XLSX Files and Steps to Access Them</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-advanced-settings-for-uniform-stream-lighting-for-2024/"><u>[New] Advanced Settings for Uniform Stream Lighting for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-topview-assessment-report-for-2024/"><u>[New] TopView Assessment Report for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-boosting-your-brand-on-instagram-proven-5-techniques-and-success-stories/"><u>[Updated] In 2024, Boosting Your Brand on Instagram Proven 5 Techniques & Success Stories</u></a></li>
+<li><a href="https://discover-data.techidaily.com/2024lenovo-ideapad-l3nanossd/"><u>【2024年度】Lenovo Ideapad L3nanoのSSD改良手順：最先端速度と容量</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-display-youtube-video-upgrades/"><u>2024 Approved Maximizing Display YouTube Video Upgrades</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/5-key-methods-to-optimize-your-pc-tackling-desktop-window-manager-gpu-overuse-on-windows-systems/"><u>5 Key Methods to Optimize Your PC: Tackling Desktop Window Manager GPU Overuse on Windows Systems</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/m-soundtracks-simplified-converting-from-spotify-playlists-to-youtube-music-for-2024/"><u>Custom Soundtracks Simplified Converting From Spotify Playlists to YouTube Music for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-error-messages-on-windows-11-startup/"><u>Fixing Error Messages on Windows 11 Startup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-fn-key-failure-a-guide-for-asus-notebook-users/"><u>Overcoming Fn Key Failure: A Guide for ASUS Notebook Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205768526-resolved-miracast-issues-with-graphics-driver-now-compatible/"><u>Resolved Miracast Issues with Graphics Driver - Now Compatible!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-application-failed-to-load-properly-error-code-0xc000007b/"><u>Resolved: Fixing the 'Application Failed to Load Properly' Error Code 0xC000007B</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212267703-troubled-by-logitech-g930-mic-disconnections-heres-the-solution/"><u>Troubled by Logitech G930 Mic Disconnections? Here's the Solution!</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/windowsresilio-sync/"><u>Windows用に選ばれた、Resilio Syncの究極の代替アプリケーション！</u></a></li>
 </ul></div>
 

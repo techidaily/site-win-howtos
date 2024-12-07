@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 11: Correcting the File Explorer's Fast Track Scrolling Issue"
-date: 2024-11-15T23:19:45.435Z
-updated: 2024-11-19T01:10:36.627Z
+date: 2024-11-30T19:40:35.856Z
+updated: 2024-12-07T16:38:08.618Z
 tags:
   - win11
   - win10
@@ -81,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
@@ -88,10 +92,7 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -104,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -119,18 +113,15 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 
 ``
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
@@ -150,10 +141,7 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 ``
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
@@ -161,6 +149,10 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -171,10 +163,7 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -205,6 +194,10 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Open the app again to see if it goes fine.
 
 That’s it!
@@ -232,24 +225,17 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-webcam-buying-simplified-the-best-10-options-for-2024/"><u>[New] Webcam Buying Simplified The Best 10 Options for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-elevating-your-visual-storytelling-with-advanced-drone-edits/"><u>[Updated] 2024 Approved Elevating Your Visual Storytelling with Advanced Drone Edits</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-obs-and-wirecast-bout-which-broadcast-tool-is-king/"><u>2024 Approved OBS and Wirecast Bout Which Broadcast Tool Is King?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diuril/"><u>Diuril</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/enhanced-site-analytics-with-cookiebot-technology/"><u>Enhanced Site Analytics with Cookiebot Technology</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-31-in-windows-explained-fixes-to-get-you-back-on-track/"><u>Error Code 31 in Windows Explained: Fixes to Get You Back on Track</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-request-failed-by-windows-resource-protection-tips-and-solutions/"><u>Fixing 'Request Failed by Windows Resource Protection': Tips & Solutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/granulation-tissue-formation/"><u>Granulation Tissue Formation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-bring-back-your-gone-desktop-symbols-in-windows-10-step-by-step-solution/"><u>How to Bring Back Your Gone Desktop Symbols in Windows 10: Step-by-Step Solution</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/how-to-convert-wav-audio-tracks-into-ogg-files-methods-for-both-online-tools-and-desktop-applications/"><u>How to Convert WAV Audio Tracks Into OGG Files - Methods for Both Online Tools and Desktop Applications</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-iphone-x-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling iPhone X Parental Restrictions With/Without Password | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/intestines/"><u>Intestines</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/logilda-dll-resolved-and-restored/"><u>LogiLDA DLL Resolved & Restored</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-error-code-faks-a-step-by-step-guide-to-overcoming-challenges-in-minecraft/"><u>Mastering Error Code ˈfaɪks: A Step-by-Step Guide to Overcoming Challenges in Minecraft</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/movavi-3gp-m4a/"><u>Movavi의 가스공학적 3GP, M4A 비디오 대여: 원근육종성 속도로 즉시 구현하세요!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skyrocket-pc-gaming-with-yuzu-on-windows/"><u>Skyrocket PC Gaming with Yuzu on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-addressing-and-repairing-the-d3d-device-creation-failure/"><u>Solution Guide: Addressing and Repairing the D3D Device Creation Failure</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-restoring-your-windows-pcs-built-in-webcam-functionality/"><u>Step-by-Step Guide: Restoring Your Windows PC's Built-In Webcam Functionality</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-budget-gaming-setup-find-the-best-keyboards-for-less/"><u>[New] 2024 Approved Budget Gaming Setup Find the Best Keyboards for Less</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-decorate-your-snaps-iphoneandroids-best-10-sticker-enhancing-apps/"><u>[New] 2024 Approved Decorate Your Snaps IPhone/Android's Best 10 Sticker-Enhancing Apps</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-dive-into-digital-clarity-the-guide-for-full-hd-on-tweet/"><u>[New] 2024 Approved Dive Into Digital Clarity The Guide for Full HD on Tweet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-windows-11-with-top-tips/"><u>[New] Mastering Windows 11 with Top Tips</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-engaging-audiences-crafting-youtube-trailers-via-filmora/"><u>[Updated] Engaging Audiences Crafting YouTube Trailers via Filmora</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-en-ligne-convertissez-votre-video-mpeg-en-m4a-pour-rien-solutions-facile-dacces-de-movavi/"><u>Conversion en Ligne : Convertissez Votre Vidéo MPEG en M4A Pour Rien - Solutions Facile D'accès De Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-oppo-a59-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Oppo A59 5G PC | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/internet-vobmkv-movavi/"><u>Internet용 VOB/MKV 무료 바이트체인 전환 - Movavi: 단계별 가이드</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-trp-format-converter-at-no-cost-use-movavi/"><u>Online TRP Format Converter at No Cost - Use Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-tutorial-on-determining-moving-averages-with-microsoft-excel-tools/"><u>Step-by-Step Tutorial on Determining Moving Averages with Microsoft Excel Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-movavi-video-suite-get-your-free-version-today/"><u>Top-Rated Movavi Video Suite: Get Your FREE Version Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/w64-online/"><u>W64 파일을 쉽게 이동하는 방법 - Online 무료 변환 서비스</u></a></li>
 </ul></div>
 

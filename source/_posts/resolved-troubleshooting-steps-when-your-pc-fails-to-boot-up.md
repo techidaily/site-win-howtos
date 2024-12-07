@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Steps When Your PC Fails To Boot Up"
-date: 2024-11-17T18:59:37.452Z
-updated: 2024-11-19T02:00:30.129Z
+date: 2024-12-03T21:05:31.782Z
+updated: 2024-12-07T19:48:35.705Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 3. [**Update your keyboard driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Run DISM](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
  This keyboard lag problem may be caused by hardware issues. To check for potential hardware issues:
@@ -42,13 +46,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Hardware and Devices troubleshooter
 
 **Windows Hardware and Devices Troubleshooter**  is a useful tool that helps us solve problems with our hardware and devices (keyboard in this case). Here’s how to**run Troubleshooter** :
@@ -57,19 +54,20 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -85,16 +83,13 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -103,10 +98,7 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run DISM
@@ -148,22 +140,17 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-marvelous.techidaily.com/torment-tides-of-numenera-an-epic-adventure-in-science-fiction-role-playing-game-worldbuilding/"><u>'Torment: Tides of Numenera' - An Epic Adventure in Science Fiction Role-Playing Game Worldbuilding</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-make-money-with-facebook-a-practical-roadmap-for-2024/"><u>[Updated] Make Money with Facebook A Practical Roadmap for 2024</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-lava-blaze-2-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Lava Blaze 2 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-10-usb-connectivity-problems-a-guide-to-handling-unknown-devices-and-failed-port-resets/"><u>Fixing Windows 10 USB Connectivity Problems: A Guide to Handling Unknown Devices & Failed Port Resets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/halo-4-and-unreal-engine-4-overcoming-the-critical-2024-ue4-game-crash-issue/"><u>Halo 4 and Unreal Engine 4 - Overcoming the Critical 2024 UE4 Game Crash Issue</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Motorola Moto G34 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/navigating-the-market-of-dronescopic-stabilizers/"><u>Navigating the Market of Dronescopic Stabilizers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-obstacles-successfully-instaling-the-windows-10-july-2016-update-version-1607/"><u>Overcoming Obstacles: Successfully Instaling the Windows 10 July 2016 Update (Version 1607)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-note-50-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme Note 50 and Browser | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resident-evil-village-performance-issues-addressing-pc-frame-rate-dips/"><u>Resident Evil Village Performance Issues: Addressing PC Frame Rate Dips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/script-inactive-no-launch/"><u>Script Inactive: No Launch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steps-to-successfully-restore-downloaded-steam-patches-and-fixes/"><u>Steps to Successfully Restore Downloaded Steam Patches and Fixes</u></a></li>
-<li><a href="https://games-able.techidaily.com/titans-of-entertainment-or-monopoly-men-interactive-qanda-session/"><u>Titans of Entertainment or Monopoly Men? [Interactive Q&A Session]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-the-windows-unable-to-find-play-source-issue/"><u>Troubleshooting Steps for the 'Windows - Unable to Find Play Source' Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unexpected-silence-revive-your-touchpads-display/"><u>Unexpected Silence? Revive Your Touchpad's Display!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/usb-to-hdmi-bridge-malfunction-heres-how-to-solve-it/"><u>USB to HDMI Bridge Malfunction? Here's How to Solve It</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/win-and-mac-mp3-converter-unlock-your-music-from-youtube-for-2024/"><u>Win & Mac MP3 Converter Unlock Your Music From YouTube for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-browse-and-download-top-free-extractors-for-your-pinterest-content/"><u>[New] Browse & Download Top Free Extractors for Your Pinterest Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-snapshot-success-mastering-the-art-of-xbox-one-captures/"><u>[New] In 2024, Snapshot Success Mastering the Art of Xbox One Captures</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-diy-filming-hacks-to-learn-and-implement-at-home/"><u>2024 Approved DIY Filming Hacks to Learn and Implement at Home</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-harnessing-viral-power-your-pathway-to-youtube-fame/"><u>2024 Approved Harnessing Viral Power Your Pathway to YouTube Fame</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-vivo-s18e-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo S18e Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-10-endless-restart-loop/"><u>How to Fix Windows 10 Endless Restart Loop</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-instagram-djs-playlist-tailoring-sounds-for-stories/"><u>In 2024, The Instagram DJ's Playlist Tailoring Sounds for Stories</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reincarnationresurrection/"><u>Reincarnation/Resurrection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-fixes-for-unresponsive-touchpad-scrolling-issues/"><u>Solved: Fixes for Unresponsive Touchpad Scrolling Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-laptop-frustrations-charge-that-battery-in-no-time-with-these-fixes/"><u>Stop Laptop Frustrations: Charge That Battery in No Time with These Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/warframe-update-woes-heres-how-to-correctly-resolve-the-notorious-update-failure/"><u>Warframe Update Woes? Here's How to Correctly Resolve the Notorious Update Failure</u></a></li>
 </ul></div>
 

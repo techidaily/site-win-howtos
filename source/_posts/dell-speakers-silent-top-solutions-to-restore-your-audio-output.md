@@ -1,7 +1,7 @@
 ---
 title: Dell Speakers Silent? Top Solutions to Restore Your Audio Output
-date: 2024-11-26T06:17:32.698Z
-updated: 2024-11-28T03:46:46.842Z
+date: 2024-12-03T22:04:08.190Z
+updated: 2024-12-07T18:41:04.785Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/543a8e6d7f06f3d9129829edd8982dbf9c6a6048e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -48,7 +52,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -71,10 +75,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -84,10 +84,6 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -106,6 +102,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**accessibility** **keyboard** **settings** . Then click **Accessibility** **keyboard** **settings** when it pops up as the Best match.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
@@ -135,7 +135,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
@@ -143,7 +143,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
@@ -184,20 +184,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-discover-9-affordable-online-editors-for-youtube/"><u>[Updated] 2024 Approved Discover 9 Affordable Online Editors for YouTube</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-effortless-instagram-to-mp4-top-2-secrets-exposed/"><u>2024 Approved Effortless Instagram to MP4 Top 2 Secrets Exposed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/call-of-duty-world-war-ii-troubleshooting-guide-overcome-error-4220/"><u>Call of Duty World War II Troubleshooting Guide - Overcome Error 4220</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/charting-out-youtubes-financial-strategy-for-nurturing-short-videos-for-2024/"><u>Charting Out YouTube's Financial Strategy for Nurturing Short Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/decoding-the-usefulness-what-does-fbs-blue-icon-mean-in-2024/"><u>Decoding the Usefulness What Does FB’s Blue Icon Mean, In 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722993187803-enjoy-a-smooth-gameplay-in-remnant-from-the-ashes-no-more-crashes/"><u>Enjoy a Smooth Gameplay in 'Remnant: From the Ashes - No More Crashes!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-repairing-and-reviving-a-damaged-igfxem-unit/"><u>Expert Advice: Repairing and Reviving a Damaged IgfxEM Unit</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-s17-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo S17 Through Google Earth?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigate-past-windows-update-snags-with-proven-techniques-for-resolving-error-0x802n105/"><u>Navigate Past Windows Update Snags with Proven Techniques for Resolving Error 0X802n105</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/nier-automata-pc-game-keep-crashing-try-these-fixes-now/"><u>Nier: Automata PC Game Keep Crashing? Try These Fixes Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210919609-quick-guide-resolve-error-0x88a0006-in-minutes-with-simple-fixes/"><u>Quick Guide: Resolve Error 0X88^A0006 in Minutes with Simple Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-lack-of-touchpen-responsiveness-on-displays/"><u>Resolving Lack of Touch/Pen Responsiveness on Displays</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-your-touchscreen-on-windows-11-top-5-methods/"><u>Reviving Your Touchscreen on Windows 11: Top 5 Methods</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-tech-by-toms-hardware-experts/"><u>The Ultimate Guide to Tech by Tom's Hardware Experts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/your-ultimate-guide-to-top-9-platforms-for-2024/"><u>Your Ultimate Guide to Top 9 Platforms for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-nuclear-dawn-update-issue-xbox-launch-failure/"><u>[FIXED] Nuclear Dawn Update Issue - Xbox Launch Failure</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-role-of-creative-commons-in-youtube-content-sharing/"><u>[New] In 2024, The Role of Creative Commons in YouTube Content Sharing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-cutting-edge-techniques-for-professional-obs-edits/"><u>[Updated] Cutting-Edge Techniques for Professional OBS Edits</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-premier-seminar-title-inventor-suite/"><u>2024 Approved Premier Seminar Title Inventor Suite</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/apple-prores-mp4-avi-wmv/"><u>Apple ProRes 動画の MP4 / AVI / WMV への完全高品質変換方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/craft-personalized-phone-alerts-from-songs-the-ultimate-walkthrough-for-iphones-and-android-devices/"><u>Craft Personalized Phone Alerts From Songs: The Ultimate Walkthrough for iPhones and Android Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-ultimate-list-of-8-best-free-video-rotator-software-for-pc-users-both-offline-and-online/"><u>Discover the Ultimate List of 8 Best Free Video Rotator Software for PC Users, Both Offline & Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-guide-to-transforming-webm-videos-into-mpeg-4-format/"><u>Easy Guide to Transforming WebM Videos Into MPEG-4 Format</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-xiaomi-redmi-a2plus-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Xiaomi Redmi A2+ Data? | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728485841245-windows-117/"><u>Windows 11で素早くコマンドプロンプトを閉じるための7つの方法</u></a></li>
 </ul></div>
 

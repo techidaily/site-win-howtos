@@ -1,7 +1,7 @@
 ---
 title: "Improve League of Legends Performance: Tackling the Slow Downloader Issue"
-date: 2024-11-25T02:09:56.445Z
-updated: 2024-11-27T18:33:22.017Z
+date: 2024-12-02T17:00:48.665Z
+updated: 2024-12-07T17:02:43.897Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ League of Legends is a world popular game, but the slow download speed can easil
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -58,6 +62,10 @@ Downloading again to see if it works.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Turn off Windows Firewall
 
  Windows Firewall supposes to protect your computer from malware, but sometimes it may cause trouble. It may block some features of League of Legends which result in low speed downloading. So you can try to turn off Windows Firewall to solve the “League of Legends download slow” issue.
@@ -69,15 +77,7 @@ Downloading again to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Re-download to check.
 
@@ -87,7 +87,7 @@ Re-download to check.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Manually install .NET framework 3.5
@@ -128,14 +128,14 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -164,24 +164,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-seamless-transition-of-youtube-videos-into-instagram-stories/"><u>[New] 2024 Approved Seamless Transition of YouTube Videos Into Instagram Stories</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-video-segmentation-adding-chapters-for-clarity-for-2024/"><u>[Updated] Vimeo Video Segmentation Adding Chapters for Clarity for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-precision-rhythm-tracking-made-simple-try-these-free-ones/"><u>2024 Approved Precision Rhythm Tracking Made Simple - Try These Free Ones</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-restoring-classic-photo-viewing-on-the-modern-windows-11/"><u>2024 Approved Restoring Classic Photo Viewing on the Modern Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/a-step-by-step-tutorial-for-fixing-the-red-screen-anomaly-on-windows-10-computers/"><u>A Step-by-Step Tutorial for Fixing the Red Screen Anomaly on Windows 10 Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-port-reset-failed-warnings-with-easy-fixes-for-your-windows-11-computer/"><u>Bypassing 'Port Reset Failed' Warnings with Easy Fixes for Your Windows 11 Computer</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-honor-70-lite-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Honor 70 Lite 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/customize-thumbnail-heights-in-windows-11-ui/"><u>Customize Thumbnail Heights in Windows 11 UI</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-troubleshooting-guide-resolving-minecraft-performance-problems/"><u>Easy Troubleshooting Guide: Resolving Minecraft Performance Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-resolving-usb-mouse-connectivity-issues-on-your-personal-computer/"><u>Expert Tips for Resolving USB Mouse Connectivity Issues on Your Personal Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-your-connection-a-step-by-step-guide-to-when-steam-is-offline/"><u>Fixing Your Connection: A Step-by-Step Guide to When Steam Is Offline</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-updated-hp-officejet-5255-driver-step-by-step-guide/"><u>How to Install Updated HP OfficeJet 5255 Driver – Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-visibility-of-your-touchpad-cursor-on-windows-11-systems/"><u>How to Restore Visibility of Your Touchpad Cursor on Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/microsoft-wireless-screen-projector-connectivity-woes-on-windows-10-heres-the-solution/"><u>Microsoft Wireless Screen Projector Connectivity Woes on Windows 10? Here's the Solution!</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-premier-a-tunes-for-mobile-musicians-worldwide/"><u>New 2024 Approved The Premier A-Tunes for Mobile Musicians Worldwide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimizing-system-resources-managing-msmpengineexe-high-cpu-drain-on-windows-11-machines/"><u>Optimizing System Resources: Managing MsMpEngine.exe High CPU Drain on Windows 11 Machines</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-for-microsoft-store-failure-to-open-issue/"><u>Solution Guide for Microsoft Store Failure to Open Issue</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-authoritative-handbook-on-selecting-impactful-podcast-monikers-plus-examples-for-2024/"><u>The Authoritative Handbook on Selecting Impactful Podcast Monikers, Plus Examples for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/transform-your-avi-videos-into-compact-mpegs-securely-and-at-no-cost-via-movavis-web-service/"><u>Transform Your AVI Videos Into Compact MPEGs Securely and at No Cost via Movavi's Web Service</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-visual-hook-creating-captivating-youtube-thumbnails-to-drive-traffic-for-2024/"><u>[New] A Visual Hook Creating Captivating YouTube Thumbnails to Drive Traffic for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-effortless-fusion-of-youtube-audio-with-imovie-masterpieces/"><u>[Updated] In 2024, Effortless Fusion of YouTube Audio with iMovie Masterpieces</u></a></li>
+<li><a href="https://article-files.techidaily.com/a-smooth-narrative-flow-mastering-inshots-seamless-segments/"><u>A Smooth Narrative Flow Mastering Inshot's Seamless Segments</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-13-pro-max-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 13 Pro Max System Issues? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-7-plus-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 7 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-xiaomi-redmi-note-12-pro-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Xiaomi Redmi Note 12 Pro 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-realme-gt-neo-5-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Realme GT Neo 5 Device</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-ultimate-guide-to-vivacut-a-detailed-2024-review/"><u>The Ultimate Guide to VivaCut A Detailed 2024 Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029696839-wmawav/"><u>WMAファイルからWAV形式への正しい変換方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029825629-youtube2/"><u>YouTube動画組み合わせ手順：2つの効果的な方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030692203-telasa/"><u>テラサ(Telasa)動画キャプチャと保存:詳細ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029076059-pc/"><u>パラパラ映像制作入門 - PC上による写真コラージュ動画の手引き</u></a></li>
 </ul></div>
 

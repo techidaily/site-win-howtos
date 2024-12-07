@@ -1,7 +1,7 @@
 ---
 title: "Fixing 'Windows Failed To Complete Install': A Step-by-Step Guide"
-date: 2024-11-07T04:01:55.550Z
-updated: 2024-11-07T17:10:11.881Z
+date: 2024-12-02T17:20:17.039Z
+updated: 2024-12-07T16:01:37.106Z
 tags:
   - win11
   - win10
@@ -37,16 +37,7 @@ thumbnail: https://thmb.techidaily.com/ee23f258f8acc5ad2795e172a146cef682a3a259b
 5. **[Bonus Tip](#b1)**
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why does the error 0x80070002 occur?
@@ -56,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/ee23f258f8acc5ad2795e172a146cef682a3a259b
  This problem happens when some files in the Windows Update are missing or corrupted, even though the update is downloaded and extracted successfully, or the driver faulty issue. So you can work it through by these methods until it solves your problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 1: Check the Date and Time settings**
 
@@ -84,10 +79,7 @@ thumbnail: https://thmb.techidaily.com/ee23f258f8acc5ad2795e172a146cef682a3a259b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018705735c3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Make sure to check the box next to**Synchronize with an Internet time server** , and click**Update now** , then click**OK** .
@@ -108,18 +100,15 @@ thumbnail: https://thmb.techidaily.com/ee23f258f8acc5ad2795e172a146cef682a3a259b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0266f185a5c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) After the commands complete, restart your computer and try Windows Update again to see if it works.
 
 ---
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 2: Modify the Windows Update installation files**
 
@@ -144,10 +133,7 @@ thumbnail: https://thmb.techidaily.com/ee23f258f8acc5ad2795e172a146cef682a3a259b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-10_11-51-40-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 2: Delete the Software Distribution Folder
@@ -157,19 +143,6 @@ thumbnail: https://thmb.techidaily.com/ee23f258f8acc5ad2795e172a146cef682a3a259b
  2) Go to folders:**Windows > SoftwareDistribution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0174add00e1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Delete the folder named**SoftwareDistribution** .  (If you’re prompted for an administrator password or confirmation, type your password or provide confirmation.)
 
@@ -186,28 +159,12 @@ thumbnail: https://thmb.techidaily.com/ee23f258f8acc5ad2795e172a146cef682a3a259b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017371df6a8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click Windows Update (if you are using Windows XP, right-click**Automatic Updates** ), and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Windows-update-Start-1200x690.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Restart your Windows and try Windows Update again to see if it solves the problem.
 
@@ -220,6 +177,10 @@ thumbnail: https://thmb.techidaily.com/ee23f258f8acc5ad2795e172a146cef682a3a259b
  1) Download the troubleshooter from[**Microsoft**](https://support.microsoft.com/en-ph/help/4027322/windows-windows-update-troubleshooter) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0177a875597.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Run the downloaded file.
 
@@ -257,22 +218,13 @@ thumbnail: https://thmb.techidaily.com/ee23f258f8acc5ad2795e172a146cef682a3a259b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a781900ea1c1.png)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7) Restart your computer and try again to see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Bonus Tip: Update device drivers**
 
@@ -298,6 +250,10 @@ thumbnail: https://thmb.techidaily.com/ee23f258f8acc5ad2795e172a146cef682a3a259b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) After updating, restart your computer and try the Windows Update again.
 
 ---
@@ -321,19 +277,18 @@ thumbnail: https://thmb.techidaily.com/ee23f258f8acc5ad2795e172a146cef682a3a259b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/20-top-free-cloud-storage-options-maximize-your-upload-limit-1tbplus/"><u>20 Top Free Cloud Storage Options, Maximize Your Upload Limit (1TB+)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-optimal-strategies-for-downloading-audio-from-pinterest-videos/"><u>2024 Approved Optimal Strategies for Downloading Audio From Pinterest Videos</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/a-fun-journey-through-science-fiction-review-of-the-outer-worlds-story-and-gameplay/"><u>A Fun Journey Through Science Fiction: Review of The Outer Worlds' Story and Gameplay</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/errtoomanyredirects-get-instant-solutions-now/"><u>ERR_TOO_MANY_REDIRECTS? Get Instant Solutions Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-audiovideo-card-driver-repair-and-installation/"><u>Essential Audio/Video Card Driver Repair and Installation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hosted-network-activation-successfully-resolved-for-windows-11-users/"><u>Hosted Network Activation Successfully Resolved for Windows 11 Users</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-artificial-intelligence-moderates-conversations-through-chatbot-oversight-consequences-for-end-users/"><u>How Artificial Intelligence Moderates Conversations Through Chatbot Oversight: Consequences for End-Users</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy F04? | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-video-to-image-how-to-convert-videos-to-photos/"><u>New 2024 Approved Video to Image How to Convert Videos to Photos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-call-of-duty-wwii-issue-fix-error-code-4220/"><u>Resolving Call of Duty WWII Issue: Fix Error Code 4220</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/svchostexe-overuse-explained-identifying-issues-with-windows-services-netsvcs/"><u>Svchost.exe Overuse Explained – Identifying Issues with Windows Services (NETsvcs)</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-blueear-wireless-bluetooth-beanie-stylish-headwear-meets-great-sound-quality/"><u>The Ultimate Guide to the Blueear Wireless Bluetooth Beanie: Stylish Headwear Meets Great Sound Quality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-how-to-fix-directx-encountered-an-unrecoverable-error/"><u>Troubleshooting Tips: How to Fix 'DirectX Encountered an Unrecoverable Error'</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-how-to-solve-the-black-screen-problem-when-starting-helldivers-2-game/"><u>Troubleshooting Tips: How To Solve The Black Screen Problem When Starting Helldivers 2 Game</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-optimal-strategies-for-downloading-audio-from-pinterest-videos/"><u>[New] Optimal Strategies for Downloading Audio From Pinterest Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-crafting-immaculate-circular-and-spherical-shapes-in-minecraft/"><u>[Updated] 2024 Approved Crafting Immaculate Circular and Spherical Shapes in Minecraft</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-harnessing-luts-for-enhanced-visual-effects-in-ar-experiences/"><u>[Updated] 2024 Approved Harnessing LUTs for Enhanced Visual Effects in AR Experiences</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-capitalizing-on-hairstyle-demonstrations/"><u>[Updated] In 2024, Capitalizing on Hairstyle Demonstrations</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-earning-potential-in-gaming-videos/"><u>2024 Approved Earning Potential in Gaming Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/buy-movavi-video-suite-now-optimized-toolset-for-your-enterprise-needs/"><u>Buy Movavi Video Suite Now - Optimized Toolset for Your Enterprise Needs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-facile-daiff-a-mp3-grace-a-loutil-de-conversion-avance-de-movavi/"><u>Conversion Facile D'AIFF À MP3 Grâce À L'outil De Conversion Avancé De Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertir-snd-sin-costo-a-wav-mediante-la-herramienta-en-linea-de-movavi-una-guia-paso-a-paso/"><u>Convertir SND Sin Costo a WAV Mediante La Herramienta en Línea De Movavi: Una Guía Paso a Paso</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-ultimate-substitutes-to-windows-movie-maker-a-comprehensive-guide-of-20-applications/"><u>Discover the Ultimate Substitutes to Windows Movie Maker: A Comprehensive Guide of 20 Applications</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-transform-orf-images-into-jpeg-format-with-easy-to-use-tools/"><u>Free Online Converter: Transform ORF Images Into JPEG Format with Easy-to-Use Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-honor-play-8t-by-fonelab-android-recover-data/"><u>How to recover lost data from Honor Play 8T?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-discover-the-10-leading-no-cost-webcalls-for-businesses/"><u>In 2024, Discover the 10 Leading No-Cost Webcalls for Businesses</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977854520-step-by-step-guide-to-get-the-latest-amd-vega-graphics-card-drivers-for-seamless-gaming/"><u>Step-by-Step Guide to Get the Latest AMD Vega Graphics Card Drivers – For Seamless Gaming</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Non-Responsive Backlight Buttons on Laptop Keyboards"
-date: 2024-11-25T21:49:25.222Z
-updated: 2024-11-27T23:00:01.375Z
+date: 2024-12-03T17:22:41.112Z
+updated: 2024-12-07T16:52:35.981Z
 tags:
   - win11
   - win10
@@ -22,15 +22,15 @@ Some keys stop working on your Toshiba laptop’s keyboard? That could be super 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
 1. **[Re-power your laptop](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Update your keyboard driver and HID driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Clean your keyboard with a compressed air duster](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Re-power your laptop
 
@@ -43,7 +43,7 @@ If somehow your Toshiba laptop keyboard gets stuck, the keys could stop working.
 Try to type using your laptop’s keyboard and check to see if those keys stop working before could work well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update your keyboard driver and HID driver
@@ -55,17 +55,17 @@ An old, corrupted or missing**keyboard driver**or**HID (Human interface device) 
 3. Click **Update**  next to the flagged keyboard or HID driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE** version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baef3772a4b2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After updating the drivers, try to type using your laptop’s keyboard and check to see if those keys stop working before could work well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Clean your keyboard with a compressed air duster
@@ -94,21 +94,22 @@ Hopefully this article helps. Feel free to comment below with your own experienc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-beat-batch-downloads-and-review-rhythmical-sounds-for-2024/"><u>[Updated] Beat Batch Downloads & Review Rhythmical Sounds for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/echo-pop-versus-echo-dot-a-comparative-analysis-of-features-and-functions/"><u>Echo Pop Versus Echo Dot - A Comparative Analysis of Features and Functions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-common-problems-solutions-for-when-your-wacom-tablet-fails/"><u>Fixing Common Problems: Solutions for When Your Wacom Tablet Fails</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on HTC U23 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-computer-systems-expert-advice-for-a-smooth-run/"><u>How To Fix Unresponsive Computer Systems: Expert Advice for a Smooth Run</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-interpret-document-is-deleted-or-unavailable-warnings-on-the-web/"><u>How to Interpret Document Is Deleted or Unavailable Warnings on the Web.</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-honor-play-40c-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Honor Play 40C? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-the-latest-camera-drivers-on-your-pc-running-win-111087/"><u>Install the Latest Camera Drivers on Your PC Running Win 11/10/8/7</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigate-through-difficulties-handling-winscomrsvdll-problems/"><u>Navigate Through Difficulties: Handling WinscomrsvDll Problems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/realtek-usb-controllers-unresponsive-after-update/"><u>Realtek USB Controllers Unresponsive After Update</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-mouse-cursor-vanishing-issues-in-windows-11-a-complete-guide/"><u>Resolving Mouse Cursor Vanishing Issues in Windows 11 - A Complete Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-restore-functionality-to-your-non-responsive-ps4-dualshock/"><u>Step-by-Step Tutorial: Restore Functionality to Your Non-Responsive PS4 DualShock</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/transfert-hors-carte-migratez-de-votre-ssh-vers-un-disque-ssd-sous-windows-10-et-11-guide-complet/"><u>Transfert Hors-Carte : Migratez De Votre SSH Vers Un Disque SSD Sous Windows 10 Et 11 - Guide Complet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-repair-how-to-correctly-resolve-windows-10-soundrenderer-errors-for-youtube-videos/"><u>Troubleshoot & Repair: How To Correctly Resolve Windows 10 SoundRenderer Errors for YouTube Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-desktop-not-available-error-in-windows-system-profile/"><u>Troubleshooting 'Desktop Not Available' Error in Windows System Profile</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-skype-video-problems-in-windows-10/"><u>Troubleshooting Guide: How to Fix Skype Video Problems in Windows 10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-elevate-your-meetings-best-tools-to-record-zoom/"><u>[New] 2024 Approved Elevate Your Meetings Best Tools to Record Zoom</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-learn-how-to-mute-instagram-recommendations/"><u>[Updated] In 2024, Learn How to Mute Instagram Recommendations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ppt-gifpowerpoint/"><u>迅速なPPT GIF変換：PowerPoint使い方ビデオテックニック</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/distinguished-makers-elite-instagram-highlight-constructors/"><u>Distinguished Makers Elite Instagram Highlight Constructors</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/handbrakedvd/"><u>HandBrake使いこなし：DVDの高画質コンバートテクニックと、画質低下解決策</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-easy-guide-fast-dvd-ripping-with-windows/"><u>Quick & Easy Guide: Fast DVD Ripping with Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-speeding-through-your-dvd-duplication-process-on-windows-1011/"><u>Quick Guide: Speeding Through Your DVD Duplication Process on Windows 10/11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/resolving-compatibility-errors-in-windows-11-on-aging-cpu-architecture/"><u>Resolving Compatibility Errors in Windows 11 on Aging CPU Architecture</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/safe-and-smart-strategies-for-converting-dvd-content-into-digital-format-on-computers/"><u>Safe & Smart Strategies for Converting DVD Content Into Digital Format on Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simplified-guide-deciphering-dvd-css-secrets-using-a-high-quality-decoder/"><u>Simplified Guide: Deciphering DVD CSS Secrets Using a High-Quality Decoder</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-kodis-missing-stream-issue-identifying-root-causes-and-implementing-reliable-fixes/"><u>Solving Kodi's Missing Stream Issue - Identifying Root Causes & Implementing Reliable Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-transforming-your-caf-audio-into-high-quality-m4a-format/"><u>Step-by-Step Guide: Transforming Your CAF Audio Into High-Quality M4A Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-converting-xmv-video-to-various-popular-file-types-such-as-mp4-mkv-and-avi/"><u>Step-by-Step Tutorial on Converting XMV Video to Various Popular File Types Such as MP4, MKV & AVI</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/king-youtubes-encrypted-video-secrets/"><u>Unlocking YouTube's Encrypted Video Secrets</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/usbwindows-115/"><u>USBデバイスを使ったWindows 11インストールで遭遇した課題を解消する5手法</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/virtual-sphere-access-the-leading-10-pc-vr-playback-titles/"><u>Virtual Sphere Access The Leading 10 PC VR Playback Titles</u></a></li>
 </ul></div>
 

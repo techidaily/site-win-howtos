@@ -1,7 +1,7 @@
 ---
 title: Ultimate Solution for OBS Game Capture's Persistent Black Screen Problem
-date: 2024-11-05T22:14:01.714Z
-updated: 2024-11-08T05:47:08.423Z
+date: 2024-11-30T19:07:54.413Z
+updated: 2024-12-07T19:19:33.270Z
 tags:
   - win11
   - win10
@@ -34,15 +34,27 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Fix DCOM(**Distributed Component Object Model)** errors
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -53,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -72,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
 ``
@@ -94,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -103,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -126,10 +132,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
@@ -145,29 +148,19 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Open the app again to see if it goes fine.
 
 ``
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -232,18 +225,24 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-transforming-tweets-into-audio-based-archives/"><u>[Updated] 2024 Approved Transforming Tweets Into Audio-Based Archives</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-tickletech-design-easy-entertaining-visuals/"><u>2024 Approved TickleTech Design Easy, Entertaining Visuals</u></a></li>
-<li><a href="https://article-files.techidaily.com/9gag-the-ultimate-resource-for-memetic-innovation-for-2024/"><u>9GAG The Ultimate Resource for Memetic Innovation for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypass-compatibility-issues-to-enjoy-fortnite-even-with-unsupported-gpus-on-pc/"><u>Bypass Compatibility Issues to Enjoy Fortnite Even With Unsupported GPUs on PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ctrlplusaltplusdel-not-responding-heres-what-you-need-to-know-to-fix-it/"><u>Ctrl+Alt+Del Not Responding? Here's What You Need to Know to Fix It!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-persistent-windows-update-halted-at-0-easily-and-fast/"><u>Fixing the Persistent Windows Update Halted at 0% Easily and Fast</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-merge-multiple-gifs-into-one-seamless-image-at-no-cost/"><u>How to Merge Multiple GIFs Into One Seamless Image at No Cost</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-gamers-edge-5-secrets-for-exceptional-recording/"><u>In 2024, Gamers' Edge 5 Secrets for Exceptional Recording</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-game-cannot-load-restore-and-fix-the-absent-physxloaderdll-file/"><u>Overcoming 'Game Cannot Load': Restore and Fix the Absent physxloader.dll File</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-samsung-galaxy-a54-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Samsung Galaxy A54 5G on Mac</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-trouble-encountered-during-steam-game-update-process/"><u>Resolved: Trouble Encountered During Steam Game Update Process</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-persistent-problem-of-sticky-keys-in-windows-computers/"><u>Solving the Persistent Problem of Sticky Keys in Windows Computers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-itel-p55-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Itel P55 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-elite-filmmaking-tools-for-gopro/"><u>[Updated] 2024 Approved Elite Filmmaking Tools for GoPro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-choices-essential-support-gear-for-your-gopro-camera/"><u>[Updated] Best Choices Essential Support Gear for Your GoPro Camera</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/asfmp3movavi/"><u>免费在线将ASF文件转换为MP3:遵循Movavi指南</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-complete-analysis-of-the-new-picsart-guide-and-review-for-updated-app-for-2024/"><u>A Complete Analysis of the New PicsArt – Guide & Review for Updated App for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversione-gratuita-immagine-png-a-jpeg-online-utilizzo-di-movavi/"><u>Conversione Gratuita Immagine PNG a JPEG Online - Utilizzo Di Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-conversion-from-avi-to-gif-your-fast-free-online-solution/"><u>Effortless Conversion From AVI to Gif - Your Fast, Free Online Solution!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/en-ligne-convertissez-gratuitement-des-fichiers-3gp-en-fichiers-m4a-avec-ezyupload/"><u>En Ligne - Convertissez Gratuitement Des Fichiers 3GP en Fichiers M4A Avec ezyUpload</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726219869407-movavi-vob/"><u>Movavi 모비딩 투 VOB - 원탁 간단한 방법: 웹 안에서 무용화할 수 있습니다</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726221033902-mp4gif-movavi/"><u>MP4への変換：動画ファイル形式をGIFからスムーズに移行するための専門的なガイド - Movavi・モバビ</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-technology-how-apple-is-advancing-its-artificial-intelligence-capabilities-discover-the-power-of-their-latest-innovations-tech-news/"><u>Revolutionizing Technology: How Apple Is Advancing Its Artificial Intelligence Capabilities - Discover the Power of Their Latest Innovations | Tech News</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/segmented-screen-success-is-splitcam-superior/"><u>Segmented Screen Success Is SplitCam Superior?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-rise-and-fall-of-yahoo-messenger-why-did-it-cease-operations/"><u>The Rise and Fall of Yahoo! Messenger: Why Did It Cease Operations?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-oppo-a1x-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Oppo A1x 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformez-vos-fichiers-m4a-en-versions-gratuites-et-optimisees-avec-des-formats-ogg-tapezz/"><u>Transformez Vos Fichiers M4A en Versions Gratuites Et Optimisées Avec Des Formats Ogg - Tapezz</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformez-votre-fichier-mp4-en-m4p-facilement-et-sans-frais-avec-movavicom/"><u>Transformez Votre Fichier MP4 en M4P Facilement Et Sans Frais Avec Movavi.com</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uncovering-the-best-alternative-to-apple-and-tiles-wallet-airtags-a-comprehensive-test/"><u>Uncovering the Best Alternative to Apple and Tile's Wallet AirTags – A Comprehensive Test</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unity-in-diversity-mastering-cultural-exchange-techniques/"><u>Unity in Diversity: Mastering Cultural Exchange Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726223692838-mpeg-movavi/"><u>オンラインで無料MPEGフォーマットの変換: Movavi解決策</u></a></li>
 </ul></div>
 

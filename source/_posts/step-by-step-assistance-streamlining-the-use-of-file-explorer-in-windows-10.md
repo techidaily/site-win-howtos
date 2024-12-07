@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Assistance: Streamlining the Use of File Explorer in Windows 10"
-date: 2024-11-25T08:35:40.733Z
-updated: 2024-11-28T12:37:18.581Z
+date: 2024-12-02T19:42:49.031Z
+updated: 2024-12-07T17:08:22.831Z
 tags:
   - win11
   - win10
@@ -28,15 +28,15 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1) Access violation error
 
  One of the situations where you will see error code 0xc0000005 is when you get an**Access violation error** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59506a549650c.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Access violation error occurs when the program you try to run is attempting to reach a location that is not assigned for it. This can result from various reasons. You can try the methods below to troubleshoot this error.
 
@@ -52,25 +52,25 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507a17971f4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **iii.** Click the **Advanced** tab. Click the**Settings** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507b4b00aa2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **iv.** Click the **Data Execution Prevention** tab. Select **Turn on DEP for all programs and services except those I select** . Then click**Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507cc89e487.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **v.** Open the problematic**executable (.exe)** files. Then click**OK** all the way out.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507e3c65465.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **c)**  Sometimes the error appears due to**corrupted Registry** . You can **[restore your Registry](https://tools.techidaily.com/drivereasy/download/)**  or check all your Registry entries and remove any redundant one.
 
@@ -81,10 +81,14 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad370059cc.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad3756980a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In this case, you should**completely cut off the power** of your computer, and then**remove** the RAM(s) from your computer or**replace** them with other RAMs.
 
@@ -95,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
  This 0xc0000005 error usually appears when you are attempting to run an application and it nevertheless crashes. It comes with a message saying “**The application was unable to start correctly.** “
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59508823f05fa.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To resolve this error, you can try the methods below.
 
@@ -113,10 +121,6 @@ To resolve this error, you can try the methods below.
  Click on**Update** button next to any device to download its driver. Or you can hit**Update All** button at the bottom to download and install all the drivers (this requires upgrading to**Pro version** ).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/01/Driver-Easy-Update-mouse-driver.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In fact, Driver Easy Pro has also other advanced features like**driver removal or restore** . Plus upgrading to Pro version can get you its**experienced technical support** and**30-day money back guarantee** .
 
@@ -143,10 +147,6 @@ To resolve this error, you can try the methods below.
  And then in the dialog popping up, click the**System Restore** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **iii.**  In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
@@ -184,15 +184,15 @@ bootrec /rebuildbcd
 
 **iv.** Close the Command Prompt window and restart your computer. Then check to see if you get rid of the error.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3) Windows installation error
 
  The third type of 0xc0000005 error is an error you can get when you are installing your Windows. The error message tells you that**Windows installation encountered an unexpected error** . At this point you cannot continue your installation.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5950b581b5f1e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The reason of this error can be that the operating system you are installing is not compatible with the partition. You need to**delete all partitions** and**create new ones** (this will**remove** **all** your files and data on your hard drive).
 
@@ -215,18 +215,20 @@ bootrec /rebuildbcd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-how-to-transcribe-live-broadcasts-into-digital-format/"><u>[New] 2024 Approved How to Transcribe Live Broadcasts Into Digital Format</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-how-to-choose-the-background-music-for-the-trailer/"><u>[New] In 2024, How to Choose the Background Music for the Trailer</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leading-edge-vr-game-development-technology-2023-edition/"><u>[Updated] Leading Edge VR Game Development Technology, 2023 Edition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-top-15-gratis-artificial-intelligence-lessons-with-lifewires-comprehensive-course-collection/"><u>Discover Top 15 Gratis Artificial Intelligence Lessons with Lifewire’s Comprehensive Course Collection</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-troubleshooting-tips-repairing-common-issues-with-your-electronic-gadgets/"><u>DIY Troubleshooting Tips: Repairing Common Issues with Your Electronic Gadgets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-free-windows-11-setup-avoid-the-installation-couldnt-be-completed-mishap-code-80240020/"><u>Error-Free Windows 11 Setup: Avoid the 'Installation Couldn’t Be Completed' Mishap (Code 80240020)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a14-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A14 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/overcoming-common-challenges-in-amd-radeon-graphics-drivers-installation/"><u>Overcoming Common Challenges in AMD Radeon Graphics Drivers Installation</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-resolving-common-fall-guys-connectivity-issues-windows/"><u>Quick Guide to Resolving Common Fall Guys Connectivity Issues (Windows)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-for-lost-sounds-in-netflix-videos/"><u>Step-by-Step Troubleshooting for Lost Sounds in Netflix Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-your-non-responsive-bluetooth-mouse-on-a-pc/"><u>Troubleshooting Guide: Fixing Your Non-Responsive Bluetooth Mouse on a PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-repair-a-non-functional-windows-11-start-menu/"><u>Troubleshooting Guide: How to Repair a Non-Functional Windows 11 Start Menu</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-nvidias-customizable-generative-technology/"><u>Unveiling NVIDIA's Customizable Generative Technology</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-essential-online-repositories-12-sites-with-free-photography-samples/"><u>[Updated] 2024 Approved Essential Online Repositories - 12 Sites with Free Photography Samples</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-manual-to-assembling-a-top-tier-4k-editing-pc/"><u>[Updated] The Ultimate Manual to Assembling a Top-Tier 4K Editing PC</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-speaking-medias-language-mastering-srt-conversions/"><u>2024 Approved Speaking Media's Language Mastering SRT Conversions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-repairing-windows-update-failure-error-0x8024002e/"><u>Effective Solutions for Repairing Windows Update Failure (Error 0X8024002E)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-10-installation-hitch-resolve-error-code-80240020/"><u>Fixing the Windows 10 Installation Hitch: Resolve Error Code 80240020</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reactivate-and-repair-the-stalled-diagnostics-monitoring-service/"><u>How to Reactivate and Repair the Stalled Diagnostics Monitoring Service</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-honor-90-lite-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Honor 90 Lite to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/raphic-social-strategies-for-budget-brands/"><u>Infographic Social Strategies for Budget Brands</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-resolving-issues-with-your-lenovo-fingerprint-sensor/"><u>Quick Fixes: Resolving Issues with Your Lenovo Fingerprint Sensor</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-on-acquiring-and-setting-up-epson-xp-830-drivers/"><u>Step-by-Step Tutorial on Acquiring and Setting Up Epson XP-830 Drivers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/strategies-for-securely-amassing-one-million-video-watches-for-2024/"><u>Strategies for Securely Amassing One Million Video Watches for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/the-ultimate-resource-for-tech-analysis-by-toms-gear-specialists/"><u>The Ultimate Resource for Tech Analysis by Tom's Gear Specialists</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-hang-ups-in-windows-11-systems-a-comprehensive-guide/"><u>Troubleshooting and Solving Hang-Ups in Windows 11 Systems: A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-from-still-to-motion-how-to-achieve-the-ken-burns-effect/"><u>Updated From Still to Motion How to Achieve the Ken Burns Effect</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-strategies-against-window-woes-tackling-dead-screens-effectively/"><u>Winning Strategies Against Window Woes: Tackling Dead Screens Effectively</u></a></li>
 </ul></div>
 

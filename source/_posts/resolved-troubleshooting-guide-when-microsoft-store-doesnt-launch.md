@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Guide When Microsoft Store Doesn't Launch"
-date: 2024-11-26T01:19:57.695Z
-updated: 2024-11-27T22:51:37.657Z
+date: 2024-12-02T19:50:52.800Z
+updated: 2024-12-07T17:41:25.510Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 fixes for **Fortnite not launching** in Windows
 
@@ -47,18 +51,22 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
  2) Run**Driver Easy** and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a**7-day free trial** which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged until the trial ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/DE-update-all-AMD.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Restart your computer for the changes to take effect.
 
  5) Open Fortnite and see if it launches properly. If yes, then congrats! But if it still won’t launch, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Verify your Fortnite files
 
@@ -73,7 +81,7 @@ Here’s how to do it:
 3. As soon as the verification is ready, the**SETTINGS** option will switch to **LAUNCH** . Click**LAUNCH** to see if Fortnite opens smoothly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -89,10 +97,6 @@ Here’s how to do it:
 4. Select**Fortnite** from the drop-down menu and click**Repair Service** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1200695db42.jpg)
 5. Click**Finish** once the uninstall and the install processes finish.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Re-launch Fortnite and hopefully the Fortnite not launching problem has been solved.
 
@@ -125,6 +129,10 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact[](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -139,19 +147,11 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -185,21 +185,22 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-haul-videography-101-preparation-and-editing-for-maximum-impact/"><u>[New] Haul Videography 101 Preparation & Editing for Maximum Impact</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-deciphering-the-divergent-aspects-of-youtubes-and-dailymentions/"><u>[New] In 2024, Deciphering the Divergent Aspects of YouTubes & DailyMentions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-pixelhunter-advanced-screen-grabber/"><u>[New] PixelHunter Advanced Screen Grabber</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-tips-for-capturing-whatsapp-chat-calls-methods-and-techniques/"><u>[New] Tips for Capturing WhatsApp Chat Calls Methods & Techniques</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-overwatch-streamlining-the-recording-process-for-2024/"><u>[Updated] In Overwatch Streamlining the Recording Process for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-from-playtime-to-pixels-the-ultimate-list-of-6-ways-to-record-minecraft/"><u>2024 Approved From Playtime to Pixels The Ultimate List of 6 Ways to Record Minecraft</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/best-emoji-removers-to-remove-emojis-from-pictures-for-2024/"><u>Best Emoji Removers to Remove Emojis From Pictures for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bring-life-to-your-race-a-step-by-step-fix-for-silent-gameplay-in-forza-horizon-4/"><u>Bring Life to Your Race: A Step-by-Step Fix for Silent Gameplay in Forza Horizon 4</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-successfully-creating-a-d3d-device-after-previous-failures/"><u>Comprehensive Guide to Successfully Creating a D3D Device After Previous Failures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211398342-computer-keeps-powering-down-heres-how-to-stop-it-from-turning-on-and-off-again/"><u>Computer Keeps Powering Down? Here's How to Stop It From Turning On and Off Again</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/free-online-converter-transform-flv-files-into-mp4-format-effortlessly-with-movavi/"><u>Free Online Converter: Transform FLV Files Into MP4 Format Effortlessly with Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-broken-keyboard-letter-issue-on-pcs-with-windows-1011/"><u>How to Fix a Broken Keyboard Letter Issue on PCs with Windows 10/11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206319956-shift-key-issues-heres-the-step-by-step-fix-that-works/"><u>Shift Key Issues? Here's the Step-by-Step Fix That Works</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restoring-your-lost-desktop-icons-on-windows-10-fixed/"><u>Troubleshooting Guide: Restoring Your Lost Desktop Icons on Windows 10 [FIXED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlock-the-secret-to-fixing-error-code-0x80070002-in-windows-update-expert-advice/"><u>Unlock the Secret to Fixing Error Code 0X80070002 in Windows Update - Expert Advice</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-constructing-an-elegant-transition-for-decreasing-auditory-intensity/"><u>Updated 2024 Approved Constructing an Elegant Transition for Decreasing Auditory Intensity</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-unveiling-fake-followers-trap-on-youtube-landscapes/"><u>[New] 2024 Approved Unveiling Fake Followers' Trap on YouTube Landscapes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-harnessing-skypes-potential-on-pc-and-mac-with-ease/"><u>[Updated] 2024 Approved Harnessing Skype's Potential on PC & Mac with Ease</u></a></li>
+<li><a href="https://blog-min.techidaily.com/m2pmp3/"><u>網路無限制免費變更音頻格式：移動畫壺 M2P到MP3自行解決方案</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/erclockwise-content-youtube-replay-methods-for-2024/"><u>Counterclockwise Content YouTube Replay Methods for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficient-x3daudio17dll-recovery-techniques/"><u>Efficient X3DAudio1_7.dll Recovery Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-system-error-5-has-occurred-error-on-windows-11-7-and-8-solved/"><u>Fix System Error 5 Has Occurred Error on Windows 11, 7 & 8 [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-lenovo-mouse-pad-troubleshooting-tips-for-windows-users/"><u>Fix Your Lenovo Mouse Pad - Troubleshooting Tips for Windows Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/freshly-compiled-netgear-device-passwords-access-guide-july-2024/"><u>Freshly Compiled NETGEAR Device Passwords: Access Guide (July 2024)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-windows-11-cant-be-installed-error-code-80240020-with-ease/"><u>How to Overcome 'Windows 11 Can’t Be Installed Error Code 80240020' With Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/identifying-and-solving-errors-in-your-windows-software-installers/"><u>Identifying and Solving Errors in Your Windows Software Installers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-f5-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Poco F5 5G Phone Without Password?</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-vivo-y100-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo Y100 5G Black and White | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-kodi-buffering-glitches-with-these-simple-solutions/"><u>Say Goodbye to Kodi Buffering Glitches with These Simple Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-the-0x80072efd-error-on-your-pc-windows-10-guide/"><u>Troubleshooting and Repairing the 0X80072EFD Error on Your PC - Windows 10 Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-nonfunctional-microphone-problems-on-windows-11-computers/"><u>Troubleshooting Nonfunctional Microphone Problems on Windows 11 Computers</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/ultimate-guide-cracking-dvd-protection-discover-8-techniques-and-access-5-cost-free-alternatives/"><u>Ultimate Guide: Cracking DVD Protection - Discover 8 Techniques and Access 5 Cost-Free Alternatives</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Unresponsive Mic Connections on Windows 11
-date: 2024-11-24T03:26:16.403Z
-updated: 2024-11-28T02:06:17.995Z
+date: 2024-12-06T22:11:29.802Z
+updated: 2024-12-07T16:45:50.109Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/a6e5c2635593081e4b6078ab257c66dc8d161f27c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
@@ -48,22 +48,22 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -113,10 +113,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -131,7 +127,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -145,6 +141,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -184,21 +184,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-transforming-images-the-art-of-applying-luts-in-pro/"><u>[New] In 2024, Transforming Images The Art of Applying LUTs in Pro</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitgrabber-mobile-app-for-downloading-tweets-videos/"><u>[New] In 2024, TwitGrabber Mobile App for Downloading Tweets' Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-impact-crafting-free-ad-videos-for-youtube/"><u>[New] Maximizing Impact Crafting Free Ad Videos for YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-beauty-tutorials-unveiled-creating-a-youtube-channel-from-scratch/"><u>[Updated] Beauty Tutorials Unveiled Creating a YouTube Channel From Scratch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discovering-the-spreadsheet-span-mastering-excels-range-detection/"><u>Discovering the Spreadsheet Span: Mastering Excel's Range Detection</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dynamic-emoji-insertion-in-excel-a-step-by-step-guide-to-enhance-your-spreadsheets/"><u>Dynamic Emoji Insertion in Excel: A Step-by-Step Guide to Enhance Your Spreadsheets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/edit-and-share-office-files-with-facebook-contacts-via-docscom-seamless-collaboration-solutions/"><u>Edit and Share Office Files with Facebook Contacts via Docs.com - Seamless Collaboration Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-techniques-for-cell-counting-in-microsoft-excel/"><u>Effective Techniques for Cell Counting in Microsoft Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-techniques-for-identifying-linked-workbooks-in-excel-spreadsheets/"><u>Effective Techniques for Identifying Linked Workbooks in Excel Spreadsheets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eliminating-redundancy-a-step-by-step-guide-to-removing-duplicate-rows-in-microsoft-excel/"><u>Eliminating Redundancy: A Step-by-Step Guide to Removing DUPLICATE Rows in Microsoft Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enable-oscuro-modo-comprehensive-tutorial-for-dark-settings-on-windows/"><u>Enable Oscuro Modo: Comprehensive Tutorial for Dark Settings on Windows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-realme-gt-neo-5-se-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Realme GT Neo 5 SE?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/simple-steps-to-master-no-cost-time-tracking-for-2024/"><u>Simple Steps to Master No-Cost Time Tracking for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trouvez-le-meilleur-outil-de-conversion-video-sans-cout-convertissez-en-mp4-ou-mp3-facilement/"><u>Trouvez Le Meilleur Outil De Conversion Vidéo Sans Coût - Convertissez En MP4 Ou MP3 Facilement</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-wintoys-harnessing-windows-hidden-strengths/"><u>Unveiling 'WinToys': Harnessing Windows' Hidden Strengths</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/visual-content-management-for-ig-users-for-2024/"><u>Visual Content Management for IG Users for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-screenmasters-battleground/"><u>2024 Approved ScreenMasters Battleground</u></a></li>
+<li><a href="https://win-unique.techidaily.com/1728474242330-url/"><u>画面に表示されず: URLへのアクセス失敗理由と対処方法</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722956818644-ensure-smooth-printing-with-updated-epson-l3150-drivers-on-windows-11-8-and-7-secure-your-free-download-now/"><u>Ensure Smooth Printing with Updated Epson L3150 Drivers on Windows 11, 8 & 7 - Secure Your Free Download Now!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-sony-xperia-10-v-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Sony Xperia 10 V.</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-perfecting-video-focus-videoleap-guide/"><u>In 2024, Perfecting Video Focus Videoleap Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/proven-remedies-and-advice-for-resolving-ps4-headset-connection-failures/"><u>Proven Remedies and Advice for Resolving PS4 Headset Connection Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-when-your-dell-device-ignores-the-usb/"><u>Step-by-Step Solutions for When Your Dell Device Ignores the USB</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-pathway-to-academia-thriftiness-claiming-your-rightful-place-with-a-tidal-institutional-offset/"><u>The Pathway to Academia Thriftiness: Claiming Your Rightful Place with a Tidal Institutional Offset</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trouble-with-hitman-n-game-heres-how-to-resolve-the-notorious-pc-black-screen-problem/"><u>Trouble with Hitman N Game? Here's How to Resolve the Notorious PC Black Screen Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcoming-application-startup-failure-error-code-0xc000007b/"><u>Troubleshooting Guide: Overcoming Application Startup Failure (Error Code 0XC000007B)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-your-intermittent-mouse-connection-woes/"><u>Ultimate Guide: Solving Your Intermittent Mouse Connection Woes</u></a></li>
 </ul></div>
 

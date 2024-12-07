@@ -1,7 +1,7 @@
 ---
 title: Simple Fixes for the Persistent Problem of Windows 10 Restarts
-date: 2024-11-05T08:37:37.455Z
-updated: 2024-11-07T18:10:45.312Z
+date: 2024-12-06T21:51:31.734Z
+updated: 2024-12-07T16:06:13.276Z
 tags:
   - win11
   - win10
@@ -40,10 +40,7 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
  Unplugged the external devices you don’t need out of your PC, such as Logitech, Razer, PlayStation, Xbox etc. See if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ````   **2: Check screen saver settings**
@@ -53,30 +50,28 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0c511d9193.png) and click **Control Panel** .
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) View by**Category** , click **Appearance and Personalization** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58492ca22a4c0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Click **Change screen saver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58492d59e849d-600x332.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) In this window, you can choose which screen saver you’d like to use, and then customize it and set the time before it appears. Click **Apply** and **OK** to make it work.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584933b0e0509.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ````   **3: Update Windows and device drivers**
 
@@ -85,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 1) On your keyboard, press the  **Windows logo key**  and  **I**  at the same time. Click  **Update & security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0bf2b55265.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click **Check for updates** .
 
@@ -107,13 +106,6 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5979a40b981b3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ````   **Other options**
 
@@ -139,16 +131,19 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-tricks-to-document-league-of-legends-games-efficiently/"><u>[New] Top Tricks to Document League of Legends Games Efficiently</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-prevent-and-solve-oddworld-soulstorm-freezing-on-desktop-pc/"><u>Expert Tips to Prevent and Solve Oddworld: Soulstorm Freezing on Desktop PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-event-id-1000-issues-on-various-windows-versions-including-win7-and-win10/"><u>Fixing Event ID 1000 Issues on Various Windows Versions, Including Win7 & Win10</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/impeccable-photo-cleanup-with-top-6-iphone-tools-for-objection-exclusion-for-2024/"><u>Impeccable Photo Cleanup with Top 6 iPhone Tools for Objection Exclusion for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-to-restore-missing-bluetooth-in-windows-10-devices/"><u>Quick Solutions to Restore Missing Bluetooth in Windows 10 Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-audio-output-not-detected-problem-on-your-windows-pc/"><u>Solving the 'Audio Output Not Detected' Problem on Your Windows PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steelseries-arctis-5-mic-not-working-solved/"><u>SteelSeries Arctis 5 Mic Not Working [SOLVED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fix-inaccessible-photos-due-to-corrupted-registry-in-windows-11/"><u>Step-by-Step Guide to Fix Inaccessible Photos Due to Corrupted Registry in Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ng-hearts-an-approach-to-encourage-sign-ups/"><u>Winning Hearts An Approach to Encourage Sign-Ups</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/qsync-windows-1110/"><u>スムーズに動く Qsync 同期：Windows 11と10の操作ファイル指南</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-end-screen-creation-made-simple-free-templates-and-guides/"><u>[New] End Screen Creation Made Simple - Free Templates & Guides</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-powerful-tactics-leveraging-youtube-links-for-fb-exposure/"><u>[Updated] 2024 Approved Powerful Tactics Leveraging YouTube Links for FB Exposure</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-video-frame-rates-explained-why-choose-30-or-60/"><u>[Updated] In 2024, Video Frame Rates Explained Why Choose 30 or 60?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-obs-timer-mastery-building-a-custom-countdown-timer-for-2024/"><u>[Updated] OBS Timer Mastery Building a Custom Countdown Timer for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-which-m1-model-suits-you-best-air-vs-pro-analysis-for-2024/"><u>[Updated] Which M1 Model Suits You Best? Air Vs. Pro Analysis for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-unleashing-the-power-of-voice-ms-words-speech-recognition-features/"><u>2024 Approved Unleashing the Power of Voice MS Word's Speech Recognition Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp3-wma/"><u>使用電子化工具輕鬆簡易更換音頻文件 - MP3, WMA 等多種格式的快速切換方法</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/banishing-buzz-a-guide-to-silence-your-headphones-irritating-sound/"><u>Banishing Buzz: A Guide to Silence Your Headphones' Irritating Sound</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-tutorial-how-to-broadcast-your-screen-on-discord-for-windowsmac-and-iosandroid-devices/"><u>Easy Tutorial: How To Broadcast Your Screen on Discord for Windows/Mac and iOS/Android Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-change-ape-files-to-wma-format-using-movavi/"><u>Free Online Converter: Change APE Files to WMA Format Using Movavi</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-cumuluspro-ergonomic-mat-for-an-ideal-standing-experience/"><u>In-Depth Analysis of the CumulusPro Ergonomic Mat for an Ideal Standing Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/master-your-online-presence-with-manycams-advanced-live-video-solution-and-virtual-camera-features/"><u>Master Your Online Presence With ManyCam's Advanced Live Video Solution & Virtual Camera Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11da-cevrimse-ustune-sessizligi-yanitlanmasinin-4-tarzi/"><u>Windows 11'Da Çevrimse Üstüne Sessizliği Yanıtlanmasının 4 Tarzı</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/aac-wav/"><u>오피니 공간에서 제공되는 무가지 AAC 파일을 WAV로 변환: 모바이비</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing the Critical Red Screen Dilemma in Windows 11 Systems
-date: 2024-11-21T14:07:16.473Z
-updated: 2024-11-28T10:56:45.767Z
+date: 2024-12-06T18:02:02.822Z
+updated: 2024-12-07T19:49:19.128Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  The methods below have helped other users solve the problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -56,23 +52,27 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf596c06c.jpg)
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
 4. Right-click System Event Notification Service again, this time select**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Reset your Winsock Catalog
@@ -85,6 +85,10 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**cmd** , then press**Shift + Ctrl + Enter** keys together.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c0804d3b9.jpg)
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **netsh winsock reset**
 
@@ -107,15 +111,11 @@ Follow these steps to reset your Winsock Catalog:
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Restart your computer to see if the error has gone. If the error persists, don’t give up hope, see if the last method could help you…
 
@@ -131,7 +131,7 @@ Follow these steps to reset your Winsock Catalog:
 3. Select**Uninstall a program** under**Programs** when**View by Category** selected.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
@@ -182,14 +182,19 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fixing-the-single-channel-headset/"><u>[New] Fixing the Single-Channel Headset</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-pioneering-mobile-broadcasting-mastering-obs-studio-and-android-for-2024/"><u>[Updated] Pioneering Mobile Broadcasting Mastering OBS Studio and Android for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-capture-and-share-with-confidence-a-step-by-step-guide-to-desktop-video-uploads-on-instagram/"><u>2024 Approved Capture & Share with Confidence A Step-by-Step Guide to Desktop Video Uploads on Instagram</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/application-failure-due-to-missing-dll/"><u>Application Failure Due to Missing DLL</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/t-insights-on-maximizing-roi-through-effective-youtube-banner-campaigns/"><u>Expert Insights on Maximizing ROI Through Effective YouTube Banner Campaigns</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-ultimate-strategies-for-compelling-video-instruction-content/"><u>In 2024, Ultimate Strategies for Compelling Video Instruction Content</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-your-logitech-mouse-battery/"><u>Reviving Your Logitech Mouse Battery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-microsoft-update-failure-a-guide-to-overcoming-error-code-0x8024a105/"><u>Solving the Mystery of Microsoft Update Failure: A Guide to Overcoming Error Code 0X8024a105</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-malfunctioning-microphone-in-windows-11-systems/"><u>Step-by-Step Solution for Malfunctioning Microphone in Windows 11 Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-elevating-visuals-with-hdr-excellence-in-photoshop-for-2024/"><u>[New] Elevating Visuals with HDR Excellence in Photoshop for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-enhancing-fb-videos-with-background-tracks-a-guide/"><u>[Updated] In 2024, Enhancing FB Videos with Background Tracks A Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-presentation-mastery-8-top-screen-record-comparisons/"><u>[Updated] In 2024, Presentation Mastery 8 Top Screen Record Comparisons</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/upgraded-strategies-for-eliminating-minecraft-lag-and-enhancing-playtime/"><u>[UPGRADED] Strategies for Eliminating Minecraft Lag and Enhancing Playtime</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-successfully-installing-the-epson-xp-830-printer-driver/"><u>Complete Guide: Successfully Installing the Epson XP-830 Printer Driver</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-address-and-correct-delayed-keyboard-input-in-microsofts-windows-10-operating-system/"><u>Guide: Address and Correct Delayed Keyboard Input in Microsoft's Windows 10 Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-execute-a-memory-write-when-encountered-with-an-invalid-0xreferenced-location-error/"><u>How to Correctly Execute a Memory Write When Encountered with an Invalid 0Xreferenced Location Error</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-tecno-pop-7-pro-easily-by-drfone-android/"><u>How To Unlock a Tecno Pop 7 Pro Easily?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-inactive-usb-ports-on-your-windows-computer-windows-1011/"><u>Step-by-Step Guide: Repairing Inactive USB Ports on Your Windows Computer (Windows 10/11)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-the-elusive-d3dxwindowsdll-error-and-how-to-fix-it/"><u>Step-by-Step Solutions for the Elusive D3DXWINDOWS.dll Error and How to Fix It</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/thangz-3d-printer-add-ons-by-felicia-day-now-available-for-download/"><u>Thangz 3D Printer Add-Ons by Felicia Day Now Available for Download</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-4-ways-to-trace-apple-iphone-12-pro-max-location-drfone-by-drfone-virtual-ios/"><u>Top 4 Ways to Trace Apple iPhone 12 Pro Max Location | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fixes-to-enhance-stutter-free-play-and-raise-frame-rate-in-valorant/"><u>Ultimate Fixes to Enhance Stutter-Free Play and Raise Frame Rate in Valorant</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205936262-why-your-usb-connectors-arent-working-in-windows-11-heres-the-fix/"><u>Why Your USB Connectors Aren’t Working in Windows 11? Here's the Fix!</u></a></li>
 </ul></div>
 

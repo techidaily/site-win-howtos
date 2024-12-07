@@ -1,7 +1,7 @@
 ---
 title: Beat the Blues with These Simple Steps for Fixing Error 1068 in Windows
-date: 2024-11-03T00:23:21.512Z
-updated: 2024-11-07T18:54:03.286Z
+date: 2024-12-02T18:33:00.072Z
+updated: 2024-12-07T18:10:25.039Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/6e45c104b16be74e2d714cd2f33b3c56eb416bf62
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Unhide the taskbar on your desktop](https://tools.techidaily.com/drivereasy/download/)**
@@ -34,10 +38,7 @@ thumbnail: https://thmb.techidaily.com/6e45c104b16be74e2d714cd2f33b3c56eb416bf62
  Note: The screenshots below are from Windows 10, but the solutions are also available for other Windows versions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 1: Unhide the taskbar on your desktop
@@ -49,16 +50,17 @@ thumbnail: https://thmb.techidaily.com/6e45c104b16be74e2d714cd2f33b3c56eb416bf62
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba365dec828d.png)
 3. Click**Taskbar and Navigation** when**View by Large icons** selected. (If you’re using Windows 7, select T**askbar and Start Menu** .)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba3661b238a4.jpg)
 
-4. Toggle off**Automatically hide the taskbar in desktop mode** and**Automatically hide the taskbar in tablet mode** . (If you’re using Windows 7 or 8.1, toggle off**Auto-hide the taskbar** .)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba36668f33fb.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+4. Toggle off**Automatically hide the taskbar in desktop mode** and**Automatically hide the taskbar in tablet mode** . (If you’re using Windows 7 or 8.1, toggle off**Auto-hide the taskbar** .)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba36668f33fb.jpg)
+
  On your keyboard, press the Windows logo key and D together to display your desktop and check if you can see the taskbar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Repopulate the taskbar on your desktop
 
@@ -70,6 +72,10 @@ Here’s how you can do it:
 2. Type**cmd** , then right-click on**Command Prompt** from the pop-up result. Select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba3672990aa6.jpg)
 3. Type the following command and press**Enter** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 DISM /Online /Cleanup-Image /RestoreHealth
 
@@ -84,29 +90,9 @@ See how to do it:
 1. On your keyboard, hold down**Shift** and**Ctrl** keys together, then press**Esc** to bring up Task Manager.
 2. Under the**Processes** tab, right-click on**Windows Explorer** to select**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba3688cd8033.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** If you’re using Windows 7, right-click explorer.exe to select End process, then click File > New task(Run…). Type explorer.exe and press Enter.
 
  On your keyboard, press the Windows logo key and D together to display your desktop and check if you can see the taskbar.
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 4: Update your available drivers
 
@@ -137,22 +123,19 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-launching-a-youtube-series-focused-on-product-quality-insights/"><u>[New] In 2024, Launching a YouTube Series Focused on Product Quality Insights</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-masterful-asmr-methods-by-leading-talents/"><u>[Updated] 2024 Approved Masterful ASMR Methods by Leading Talents</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-ignite-your-creative-journey-blending-photography-and-videos-through-pixiz/"><u>[Updated] Ignite Your Creative Journey Blending Photography & Videos Through Pixiz</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-help-tackle-dll-fails/"><u>[Windows Help] Tackle DLL Fails</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-supreme-suggestions-elite-ios-tone-craftsmen/"><u>2024 Approved Supreme Suggestions Elite iOS Tone Craftsmen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-to-cure-unreliable-mouse-connectivity/"><u>Comprehensive Solutions to Cure Unreliable Mouse Connectivity</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discover-funimate-games-with-a-single-apk-install/"><u>Discover Funimate Games with a Single APK Install</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-ultimate-7-alternative-android-interfaces/"><u>Discover the Ultimate 7 Alternative Android Interfaces</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/expertise-in-easel-alterations-color-command/"><u>Expertise in Easel Alterations - Color Command</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-error-why-some-pages-remain-invisible-online/"><u>Fixing the Error: Why Some Pages Remain Invisible Online</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oppo-a79-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Oppo A79 5G Phone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-the-driver-load-error-by-adjusting-user-preferences-step-by-step-tips/"><u>Overcome the 'Driver Load Error' By Adjusting User Preferences – Step-by-Step Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-the-computer-restarted-unexpectedly-loop-windows-11/"><u>Solved: The Computer Restarted Unexpectedly Loop Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-address-the-persistent-update-error-0x800705b4-in-windows-11/"><u>Step-by-Step Guide to Address the Persistent Update Error (0X800705b4) in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-your-usb-device-wont-stay-connected/"><u>Troubleshooting Steps When Your USB Device Won't Stay Connected</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-what-to-do-if-your-torrent-wont-download/"><u>Troubleshooting Steps: What To Do If Your Torrent Won't Download</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/weaving-external-pages-into-your-insta-narrative-for-2024/"><u>Weaving External Pages Into Your Insta Narrative for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-essential-manual-to-earning-from-youtube-videos/"><u>[New] 2024 Approved The Essential Manual to Earning From YouTube Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cambia-wmv-in-file-webm-gratuitamente-online-con-movie-converter-movavi/"><u>Cambia WMV in File WebM Gratuitamente Online Con Movie Converter - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuit-verbetering-mod-naar-mp4-met-movavi-online-konvertor/"><u>Gratuit Verbetering MOD Naar MP4 Met Movavi - Online Konvertor</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-f23-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo F23 5G Devices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-realme-narzo-n53-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Realme Narzo N53? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/jpeg-vers-png-enligne-et-gratuit-changement-de-format-image-avec-movavi/"><u>JPEG Vers PNG: Enligne Et Gratuit Changement De Format Image Avec Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-chatgpt-discussions-seamlessly-through-the-use-of-organizational-folders/"><u>Navigating ChatGPT Discussions Seamlessly Through the Use of Organizational Folders</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-music-and-calls-solving-hp-laptops-no-sound-problem-in-windows-11-easily/"><u>Revive the Music & Calls: Solving HP Laptop's No-Sound Problem in Windows 11 Easily!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-apple-watch-ultra-2-my-ideal-smartwatch-companion-at-an-unbeatable-labor-day-discount-insights-from-zdnet/"><u>The Apple Watch Ultra 2: My Ideal Smartwatch Companion at an Unbeatable Labor Day Discount - Insights From ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-best-8-learning-applications-to-try/"><u>The Best 8 Learning Applications to Try</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tutoriel-complet-creation-de-videos-pour-mac-avec-movavi-guide-facile-a-suivre/"><u>Tutoriel Complet: Création De Vidéos Pour Mac Avec MOVAVI - Guide Facile À Suivre</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-the-potential-of-mixed-teaching-methods-with-our-definitive-guide-to-blended-learning-strategies/"><u>Unlock the Potential of Mixed Teaching Methods with Our Definitive Guide to Blended Learning Strategies</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unmatched-guide-the-ultimate-11-streaming-recorders/"><u>Unmatched Guide The Ultimate 11 Streaming Recorders</u></a></li>
 </ul></div>
 

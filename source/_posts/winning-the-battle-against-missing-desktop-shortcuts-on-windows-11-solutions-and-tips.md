@@ -1,7 +1,7 @@
 ---
 title: "Winning the Battle Against Missing Desktop Shortcuts on Windows 11: Solutions and Tips"
-date: 2024-11-02T21:25:27.170Z
-updated: 2024-11-07T16:59:27.285Z
+date: 2024-12-06T16:35:18.076Z
+updated: 2024-12-07T17:42:54.724Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
  If you see this error when you try to install a program, it is possible the installer or installation package is corrupted. In this case, you should download a correct installer to set up the program. You can download its latest version from the program’s official website. Then try installing it on your computer. If the error came from the original installer, you won’t see the error now.  
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Reinstall the problem program
 
  If the error occurs when you are launching a program, the program may be corrupted. Reinstalling the problem program is helpful for fixing your problem. To do so:
@@ -45,10 +49,7 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 **1)** On your keyboard, press the**Windows logo**   **key![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)**  and**R** at the same time to invoke the Run box.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Type “_**control**_ ” and press**Enter** to open Control Panel.
@@ -63,14 +64,26 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60b6ea986e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Right click the problem program and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b650d50f878.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)**  Download the latest version of your program from the its official website and install it on your computer.
 
 **7)** Launch your program and see if this fixes the error.  
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Reinstall the Microsoft Visual C++ Redistributable Packages
 
@@ -82,16 +95,13 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b609e2cee18.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select**Large icons** in the View by drop-down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a8beffe8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click **Programs and Features** .
 
@@ -100,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 **5)** Delete every Visual C++ Redistributable (right-click on each of the programs with the name of “**Microsoft Visual C++ XXXX Redistributable** ” and then select**Uninstall** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b6556f6ddfc.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)**  Go to the[**Microsoft Visual C++ downloads website**](https://support.microsoft.com/help/2977003/the-latest-supported-visual-c-downloads) to download the programs you have just uninstalled. Then install them on your computer.
 
@@ -125,23 +128,9 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b75954000f6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Type “_**sfc /scannow**_ ” and press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b74672c10aa.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Wait for the scan to complete. Then check to see if the error is gone.
 
@@ -149,15 +138,12 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b747c6a5bfe.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)**  Wait until the process completes. Then check to see if this fixes the error.  
   
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 5: Reset your system
 
@@ -172,10 +158,7 @@ To reset your Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b74c521d0cb.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Click **Update & Security** .
@@ -207,18 +190,16 @@ To reset your Windows 10:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-playcapture-pro-your-own-screen-recorder-free-in-2024/"><u>[New] PlayCapture Pro Your Own Screen Recorder, Free, In 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweak-quick-twitter-video-preview/"><u>[Updated] 2024 Approved Tweak Quick Twitter Video Preview</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-latest-drivers-for-your-eveo-bluetooth-receivertransmitter-today/"><u>Download the Latest Drivers for Your EVEO Bluetooth Receiver/Transmitter Today</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-process-of-brother-mfc-l2700dw-driver-on-windows-systems/"><u>Easy Installation Process of Brother MFC-L2700DW Driver on Windows Systems</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-meizu-21-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Meizu 21 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correctly-handle-loadlibrary-error-87-the-parameter-is-incorrect-scenarios/"><u>How to Correctly Handle LoadLibrary Error 87: The Parameter Is Incorrect Scenarios</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigating-new-features-in-monterey-release/"><u>Navigating New Features in Monterey Release</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-problem-with-a-non-responsive-igfxem-module/"><u>Resolving the Problem with a Non-Responsive iGFXem Module</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-task-manager-freeze-a-comprehensive-fix-guide/"><u>Solve Task Manager Freeze: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-resolution-for-errsslprotocolerror-when-browsing-on-chrome/"><u>Step-by-Step Resolution for ERR_SSL_PROTOCOL_ERROR When Browsing on Chrome</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209074457-troubleshooting-a-non-functional-lenovo-mouse-pad-on-widows-os-solutions-for-vistaxp-too/"><u>Troubleshooting a Non-Functional Lenovo Mouse Pad on Widows OS - Solutions for Vista/XP Too!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-repair-non-functioning-keys-on-windows-10-and-11/"><u>Troubleshooting Guide: How to Repair Non-Functioning Keys on Windows 10 & 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/unraveling-robloxs-error-code-262/"><u>Unraveling Roblox's Error Code 262</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-grab-your-guiltless-film-endings-with-our-template-service/"><u>[Updated] Grab Your Guiltless Film Endings with Our Template Service</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-reducing-camera-movement-in-post-processing-necessary/"><u>[Updated] Reducing Camera Movement in Post-Processing Necessary?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-what-makes-youtube-tv-different-from-others-for-2024/"><u>[Updated] Unveiling What Makes YouTube TV Different From Others for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comparing-editors-windows-movie-maker-vs-movavi-video-suite/"><u>Comparing Editors: Windows Movie Maker Vs. Movavi Video Suite</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertissez-facilement-un-audio-mp3-en-video-swf-gratuite-avec-movavi-en-ligne/"><u>Convertissez Facilement Un Audio MP3 en Vidéo SWF Gratuite Avec Movavi en Ligne</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-scannen-van-cr2-biljetten-in-digitale-beeldvorming-omzetten-en-opslaan-via-movavi/"><u>Gratis Scannen Van CR2-Biljetten in Digitale Beeldvorming - Omzetten en Opslaan via Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-xiaomi-redmi-13c-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Xiaomi Redmi 13C Phone? Unlock It Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-methods-for-implementing-filter-features-in-videos/"><u>Simple Methods for Implementing Filter Features in Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transform-aiff-audio-to-mp4-quickly-and-effortlessly-no-cost/"><u>Transform AIFF Audio to MP4 Quickly and Effortlessly - No Cost!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ultimate-online-seminar-title-crafter/"><u>Ultimate Online Seminar Title Crafter</u></a></li>
 </ul></div>
 

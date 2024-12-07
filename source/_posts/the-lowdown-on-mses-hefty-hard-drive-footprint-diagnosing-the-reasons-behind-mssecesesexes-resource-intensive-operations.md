@@ -1,7 +1,7 @@
 ---
 title: "The Lowdown on MSE's Hefty Hard Drive Footprint: Diagnosing the Reasons Behind msseceses.exe's Resource-Intensive Operations"
-date: 2024-11-02T16:57:02.463Z
-updated: 2024-11-08T05:21:08.495Z
+date: 2024-12-01T17:27:16.157Z
+updated: 2024-12-07T18:55:29.874Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes for LiveKernelEvent with Code 144 error
 
  You don’t have to try all the following methods: simply work your way down the list until you find the one that does the trick to fix the LiveKernelEvent 144 error for you.
@@ -47,10 +51,7 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Update graphics card driver
@@ -65,18 +66,16 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Repeat the same to remove the driver for your other display card if you have one.
 
 5. Then update your graphics card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -90,13 +89,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -109,13 +101,6 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -123,6 +108,10 @@ To do so, first visit the website of your GPU manufacturer:
  Then see if the LiveKernelEvent with code 144 error still remains. If the problem still persists, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check USB peripherals
 
@@ -133,24 +122,25 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 3. On the menu bar, select**View** , then **Show hidden devices.**  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-13.png)
 4. Double-click the expand the category**Universal Serial Bus controllers** . There should be some grey-out devices there.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-14.png)
 5. Right-click one of the grey-out devices you see here and select**Uninstall.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-15.png)
 6. Click**Uninstall** to confirm.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-16.png)
 7. Repeat the same to remove all the other grey-out devices you see here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Restart your computer afterward.
 9. Then plug the USB devices back into your computer one by one, preferably into the USB outputs on your computer rather than USB hubs or docks.
@@ -170,6 +160,10 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Update your computer BIOS and system firmware
 
  Please note that wrongly updating BIOS could cause server computer problems, even brick the computer in some extreme cases. So please do not attempt the BIOS update if you’re not confident in doing it.
@@ -180,13 +174,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Repair damaged system files
 
 **Corrupted or damaged system files** could also relate to problems like LiveKernelEvent with code 144 error. By repairing the core Windows system files, it may resolve conflicts, missing DLL issues, registry errors, and other problems that contribute to the instability of your computer performance. Tools like **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  can automate the repair process by scanning system files and replacing corrupted ones.
@@ -196,14 +183,11 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -252,24 +236,21 @@ Then see if the LiveKernelEvent 144 error is still seen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-maximize-your-iphone-x-10-proven-strategies/"><u>[New] In 2024, Maximize Your iPhone X 10 Proven Strategies</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-shooter-showdown-our-best-picks/"><u>[Updated] 2024 Approved Ultimate Shooter Showdown - Our Best Picks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/computers-quietly-shutdown-on-win11/"><u>Computers Quietly Shutdown on Win11</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-semaphore-timeout-period-error-resolution-causes-for-0x80070079/"><u>Expert Advice on 'Semaphore Timeout Period' Error Resolution, Causes for 0X80070079</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/game-setup-fixes-correcting-origins-software-hiccups-and-glitches/"><u>Game Setup Fixes: Correcting Origins Software Hiccups and Glitches</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-honor-magic-5-pro-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Honor Magic 5 Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-your-cordless-mouse-stopping-unpredictably-in-windows-1110-environments/"><u>How to Resolve Your Cordless Mouse Stopping Unpredictably in Windows 11/10 Environments</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-facebook-media-extractor-music-mode/"><u>In 2024, Facebook Media Extractor – Music Mode</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-12-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 12 Unavailable Issue With Ease</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-solution-overcoming-a-catastrophic-fatal-ark-error/"><u>Mastering the Solution: Overcoming a Catastrophic Fatal ARK Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-non-system-rom-bios-warning-a-comprehensive-fix-guide/"><u>Overcoming the 'Non-System ROM BIOS' Warning: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-crimson-display-glitch-in-windows-11/"><u>Resolving the Crimson Display Glitch in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-when-windows-cant-find-software-updates/"><u>Solution Guide: When Windows Can't Find Software Updates</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-meme-code-principles-of-viral-video-content-creation/"><u>The Meme Code Principles of Viral Video Content Creation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-d3drenderernotavailable-expert-fixes-and-tips/"><u>Troubleshooting D3DRendererNotAvailable: Expert Fixes and Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-mouse-right-click-issues-on-windows-11-a-comprehensive-guide/"><u>Troubleshooting Mouse Right-Click Issues on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723009698241-troubleshooting-oxygen-not-included-ending-those-frustrating-crashes/"><u>Troubleshooting Oxygen Not Included - Ending Those Frustrating Crashes!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-application-start-failure-problem-with-fix-code-0xc000007b/"><u>Troubleshooting the 'Application Start Failure' Problem with Fix Code 0xC000007B</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-fix-typing-incorrect-characters-on-your-keyboard/"><u>Troubleshooting: How to Fix Typing Incorrect Characters on Your Keyboard</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-full-reviewed-evaluation-hero4-black-capabilities/"><u>[New] Full Reviewed Evaluation Hero4 Black Capabilities</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-for-implementing-look-up-tables-in-creative-suite/"><u>[New] The Ultimate Guide for Implementing Look-Up Tables in Creative Suite</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-innovative-techniques-for-captivating-tiktok-videos-for-2024/"><u>[Updated] Innovative Techniques for Captivating TikTok Videos for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unveiling-the-secrets-of-obs-game-capture/"><u>[Updated] Unveiling the Secrets of OBS Game Capture</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/oggwma-movavi/"><u>無料で使いやすくて高速なOGGフォーマットとWMAファイルの変換ツール - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cambia-i-tuoi-file-mp4-in-formato-m4v-con-leditor-video-movavi-gratuitamente-e-on-line/"><u>Cambia I Tuoi File MP4 in Formato M4V Con L'editor Video Movavi Gratuitamente E On-Line!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/downloads-gratuites-transformez-facilement-un-fichier-mxf-en-mp4-avec-movavi/"><u>Downloads Gratuites : Transformez Facilement Un Fichier MXF en MP4 Avec Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-infinix-note-30-vip-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Infinix Note 30 VIP</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-the-secret-to-obtaining-fcp-for-free/"><u>In 2024, The Secret to Obtaining FCP for Free</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/minecraft-critique-the-definitive-age-appropriate-creators-platform/"><u>Minecraft Critique: The Definitive, Age-Appropriate Creator's Platform</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transform-your-arw-images-into-jpgs-swiftly-across-pcs-and-macs-simple-4-step-procedure-revealed/"><u>Transform Your ARW Images Into JPGs Swiftly Across PCs and Macs – Simple 4-Step Procedure Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformez-votre-fichier-snd-en-mp3-sans-frais-tapez-une-solution-avec-movavi/"><u>Transformez Votre Fichier SND en MP3 Sans Frais - Tapez Une Solution Avec Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trier-gratuitement-un-fichier-mov-a-laide-dune-conversion-mp4-en-ligne-video-converti/"><u>Trier Gratuitement Un Fichier MOV À L'aide D'une Conversion MP4 en Ligne - Vidéo Converti</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/king-the-potential-of-youtube-shorts-a-comprehensive-tutorial/"><u>Unlocking the Potential of YouTube Shorts A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vrijwillige-omzetting-van-ogm-bestandjes-professioneel-kwaliteitloos-and-vrij-movavi/"><u>Vrijwillige Omzetting Van OGM-Bestandjes: Professioneel, Kwaliteitloos & Vrij! - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wmvmp4/"><u>WMV到MP4轉檔過程：簡明且高效的教學指南</u></a></li>
 </ul></div>
 

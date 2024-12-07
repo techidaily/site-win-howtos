@@ -1,7 +1,7 @@
 ---
 title: Invalid Path? Here's Your Guide to Fixing the Wrong Directory Name Error
-date: 2024-11-27T02:13:41.725Z
-updated: 2024-11-28T14:20:11.743Z
+date: 2024-12-05T22:12:55.903Z
+updated: 2024-12-07T21:53:39.599Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Clean your keyboard
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
  After confirming that your hardware is not the problem, check out the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your keyboard driver
@@ -69,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 
@@ -80,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
@@ -100,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
@@ -108,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
  After updating your keyboard driver, restart your PC for the changes to take effect.
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable the Scroll Lock key
 
@@ -125,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
 If this method didn’t work for you, check out the last fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Run Keyboard Troubleshooter
 
  If your keyboard isn’t working properly, running a built-in troubleshooter might help find and fix the problem for you. To do so:
@@ -139,8 +127,16 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
@@ -151,6 +147,11 @@ If this method didn’t work for you, check out the last fix.
 2. Select**System** . Scroll down and click**Troubleshoot** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
 
@@ -175,24 +176,19 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-deciding-on-the-best-upgrade-for-your-4k-vision/"><u>[New] 2024 Approved Deciding on the Best Upgrade for Your 4K Vision</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-cinema-chronicles-the-quintessential-cinematographic-tips-for-24/"><u>[New] Cinema Chronicles The Quintessential Cinematographic Tips for '24</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-cinematic-brilliance-through-masterful-application-of-luts-from-cg-central-for-2024/"><u>[New] Cinematic Brilliance Through Masterful Application of Luts From CG Central for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-experience-cutting-edge-editing-with-windows-xp/"><u>[Updated] Experience Cutting-Edge Editing with Windows XP</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-finest-accessible-switch-replicas/"><u>[Updated] In 2024, Finest Accessible Switch Replicas</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-best-free-video-effects-sites/"><u>2024 Approved Best Free Video Effects Sites</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-every-angle-in-a-single-shot-versus-depth-driven-photography/"><u>2024 Approved Every Angle in a Single Shot versus Depth-Driven Photography</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-fixes-for-resolving-power-state-driver-failures-in-windows/"><u>DIY Fixes for Resolving Power State Driver Failures in Windows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/effective-guide-to-cast-apple-iphone-x-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>Effective Guide to Cast Apple iPhone X to MacBook without Hindrance | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-dell-webcam-issues-troubleshooting-steps-for-windows-users/"><u>Fixing Dell Webcam Issues: Troubleshooting Steps for Windows Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-self-powering-conundrum-of-a-windows-11-system-a-step-by-step-solution/"><u>Fixing the Self-Powering Conundrum of a Windows 11 System - A Step by Step Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210540412-gadget-glitch-gone/"><u>Gadget Glitch Gone!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/laptop-keyboard-failure-effective-ways-to-restore-functionality/"><u>Laptop Keyboard Failure: Effective Ways to Restore Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-art-of-enabling-bluetooth-on-windows-7-systems/"><u>Master the Art of Enabling Bluetooth on Windows 7 Systems</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-visuals-with-lgs-premium-65-inch-oled-c9-smart-tv-a-comprehensive-4k-experience/"><u>Mastering Visuals with LG's Premium 65-Inch OLED C9 Smart TV - A Comprehensive 4K Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimize-your-pcs-speed-reducing-svchostexe-cpu-overload-in-windows-10/"><u>Optimize Your PC's Speed: Reducing svchost.exe CPU Overload in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-for-binkw32dll-file-absent-issue-easy-fix-guide/"><u>Solutions for Binkw32.DLL File Absent Issue – Easy Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-audio-component-overuse-of-processor-resources-in-windows-os/"><u>Troubleshooting Audio Component Overuse of Processor Resources in Windows OS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-choosing-a-premium-vpn-on-mac-pros-cons-and-picks-pcmag/"><u>Ultimate Guide to Choosing a Premium VPN on Mac: Pros, Cons, and Picks - PCMag</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-tech-reviews-with-a-focus-on-alternatives-for-2024/"><u>[New] Top Tech Reviews with a Focus on Alternatives for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outube-earnings-guide-policy-updates-and-tips-for-2024/"><u>[New] YouTube Earnings Guide - Policy Updates & Tips for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-se-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone SE Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-playstation-5-variants-a-closer-look-at-ps5-slim-vs-full-size-console/"><u>Decoding PlayStation 5 Variants: A Closer Look at PS5 Slim Vs. Full-Size Console</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-overcome-google-chromes-errcachemiss-error/"><u>Effective Solutions to Overcome Google Chrome's ERR_CACHE_MISS Error</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-logitech-bluetooth-mouse-drivers-for-windows-computers/"><u>Get Your Logitech Bluetooth Mouse Drivers for Windows Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-mouse-icon-on-windows-11-quick-solutions/"><u>How to Restore Your Mouse Icon on Windows 11 – Quick Solutions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-8-plus-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211938862-keyboard-troubles-learn-how-to-perform-a-quick-reset/"><u>Keyboard Troubles? Learn How to Perform a Quick Reset</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/samsung-galaxy-s6-vs-apple-iphone-7-detaillierte-vergleichsanalyse-und-unterschiede/"><u>Samsung Galaxy S6 vs Apple iPhone 7: Detaillierte Vergleichsanalyse Und Unterschiede</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-start-your-play-of-days-gone-on-pc-a-step-by-step-solution/"><u>Troubleshoot and Start Your Play of 'Days Gone' On PC - A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-top-issues-for-a-smooth-black-ops-4-experience/"><u>Troubleshooting Top Issues for a Smooth Black Ops 4 Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-surface-device-if-it-remains-uncharged-despite-being-connected-to-power/"><u>Troubleshooting Your Surface Device If It Remains Uncharged Despite Being Connected to Power</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-overcoming-challenges-when-your-dhcp-server-is-offline/"><u>Understanding and Overcoming Challenges When Your DHCP Server Is Offline</u></a></li>
 </ul></div>
 

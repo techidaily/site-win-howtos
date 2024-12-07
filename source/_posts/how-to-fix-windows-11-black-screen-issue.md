@@ -1,7 +1,7 @@
 ---
 title: How to Fix Windows 11 Black Screen Issue
-date: 2024-11-03T03:05:24.457Z
-updated: 2024-11-08T06:07:44.242Z
+date: 2024-12-05T20:30:20.644Z
+updated: 2024-12-07T19:31:26.566Z
 tags:
   - win11
   - win10
@@ -32,10 +32,7 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 4. **[Run DISM](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware issues
@@ -58,25 +55,19 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -103,16 +94,7 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ---
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run DISM
@@ -122,6 +104,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
@@ -154,24 +140,21 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-evaluating-youtubes-monthly-creator-payments/"><u>[New] 2024 Approved Evaluating YouTube's Monthly Creator Payments</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-harness-the-power-of-mematic-for-notes/"><u>[New] 2024 Approved Harness the Power of Mematic for Notes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-channel-king-and-queen-academy-youtube-excellence/"><u>[Updated] 2024 Approved Channel King & Queen Academy YouTube Excellence</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-amazon-prime-and-tweet-fandom-most-appreciated-videos-2023-for-2024/"><u>[Updated] Amazon Prime and Tweet Fandom - Most Appreciated Videos, 2023 for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-cinematographer-secrets-for-exceptional-visuals/"><u>[Updated] Top Cinematographer Secrets for Exceptional Visuals</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-maximizing-impact-best-practices-for-corporate-screencast-training/"><u>2024 Approved Maximizing Impact Best Practices for Corporate Screencast Training</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/androids-pinnacle-podcast-platforms-your-essential-six-pack-for-2024/"><u>Android's Pinnacle Podcast Platforms Your Essential Six-Pack for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-activate-bluetooth-on-your-laptop-running-windows-1110/"><u>Comprehensive Guide to Activate Bluetooth on Your Laptop Running Windows 11/10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/darkened-monitor-unresolved-event/"><u>Darkened Monitor: Unresolved Event</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-startup-in-windows-11-retaining-original-file-locations-post-reboot/"><u>Effortless Startup in Windows 11: Retaining Original File Locations Post Reboot</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-overcoming-copy-and-paste-problems-in-windows-11-systems/"><u>Guide to Overcoming 'Copy and Paste' Problems in Windows 11 Systems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-lava-yuva-2-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Lava Yuva 2 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-htc-u23-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track HTC U23 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/kodi-troubleshooting-guide-fix-continuous-playback-interruptions/"><u>Kodi Troubleshooting Guide: Fix Continuous Playback Interruptions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-unreachable-rpc-server-hurdle-within-windows-operating-system/"><u>Overcoming the Unreachable RPC Server Hurdle Within Windows Operating System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pdf-print-problem-discover-fast-fixes-and-get-on-track/"><u>PDF Print Problem? Discover Fast Fixes and Get On Track!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-tips-overcoming-the-device-isnt-ready-issue-effortlessly/"><u>Quick Tips: Overcoming the 'Device Isn't Ready' Issue Effortlessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steam-update-trouble-heres-how-to-successfully-download-the-latest-patches/"><u>Steam Update Trouble? Here’s How to Successfully Download the Latest Patches</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-secrets-of-cutting-edge-technology-with-toms-guide/"><u>Unveiling the Secrets of Cutting-Edge Technology with Tom's Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-navigating-virtual-board-functions-across-zoom-devices/"><u>[New] 2024 Approved Navigating Virtual Board Functions Across Zoom Devices</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-delving-into-virtual-realms-a-basic-guide/"><u>[Updated] In 2024, Delving Into Virtual Realms A Basic Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-comprehensive-guide-accumulating-massive-amounts-of-tiktok-videos/"><u>2024 Approved A Comprehensive Guide Accumulating Massive Amounts of TikTok Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-facile-et-rapide-de-wma-vers-mp3-sans-depenser-une-centime-decouvrez-comment-utiliser-movavi-en-ligne/"><u>Conversion Facile Et Rapide De WMA Vers MP3 Sans Dépenser Une Centime - Découvrez Comment Utiliser Movavi en Ligne</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/curing-display-distortion-after-upgrading-to-win11/"><u>Curing Display Distortion After Upgrading to Win11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/descargar-sonidos-de-videos-sin-coste-una-guia-completa/"><u>Descargar Sonidos De Videos Sin Coste: Una Guía Completa</u></a></li>
+<li><a href="https://fox-access.techidaily.com/exquisite-photo-amplification-web-and-phone-edition-for-2024/"><u>Exquisite Photo Amplification Web & Phone Edition for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-konverteren-van-mp3-naar-webm-professioneel-video-tools-bei-movavi/"><u>Gratis Konverteren Van MP3 Naar Webm: Professioneel Vidéo-Tools Bei Movavi</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-breaking-down-augmented-realitys-mysteries/"><u>In 2024, Breaking Down Augmented Reality's Mysteries</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-simplify-a-surplus-of-saves-mastering-edits-for-less-clutter/"><u>In 2024, Simplify a Surplus of Saves Mastering Edits for Less Clutter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/m4r-naar-m4a-omzetten-online-gratis-movavi-audioro/"><u>M4R Naar M4A Omzetten Online Gratis - Movavi Audioro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tecnicas-de-optimizacion-seo-para-la-exportacion-y-comparticion-de-videos-desde-after-effects/"><u>Técnicas De Optimización SEO Para La Exportación Y Compartición De Videos Desde After Effects</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformacion-gratuita-de-ppm-a-bmp-online-con-herramientas-de-movavi/"><u>Transformación Gratuita De PPM a BMP Online Con Herramientas De Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasformare-video-gsm-in-formato-mp4-senza-costi-movavi/"><u>Trasformare Video GSM in Formato MP4 Senza Costi - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solution for Windows Update Issue 0X8024401C on Windows 11 Systems
-date: 2024-11-26T00:47:33.060Z
-updated: 2024-11-28T09:47:57.605Z
+date: 2024-12-04T16:01:42.770Z
+updated: 2024-12-07T17:59:44.528Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 
  Note: the screenshots below com from Windows 10, and fixes apply to Windows 11, 8 and 7.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Run Windows Update Troubleshooter
 
  Windows Update Troubleshooter is a helpful tool built in Windows system, and you can use it to scan and fix the Windows Update error 0x80240017.
@@ -50,7 +46,7 @@ Here’s what you can do:
 2. Click**Troubleshoot** on the left. Click**Windows Update** \>**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
@@ -60,13 +56,13 @@ Here’s what you can do:
 4. Restart your computer and try Windows Update again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the Windows Update error persists, move on to the second method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Reset Windows Update Components
@@ -90,6 +86,11 @@ If the Windows Update error persists, move on to the second method.
 **pause**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dd3338a3f.jpg)
 3. Wait for the commands to complete, and exit Command Prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Open Windows Update and see if it works properly.
 
  If your issue still persists, don’t worry, There is something else to try.
@@ -110,10 +111,6 @@ If the Windows Update error persists, move on to the second method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 #### Option 2 – Manually
@@ -127,6 +124,10 @@ If the Windows Update error persists, move on to the second method.
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ddb7ef0b3.jpg)
 3. Once the process is 100% complete, exit Command Prompt and restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Try to update Windows again and see if it fixes your error 0x80240017\. Still no luck? There’s one more thing to try.
 
@@ -147,13 +148,13 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/driver-easy-scan.jpg)
 3. Click the**Update** button next to the flagged device(s) to automatically download the driver (you can do that with the FREE version), then install it in your computer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install all the correct drivers for problem drivers (you can do this with the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you’ll be prompted to upgrade when your click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Open Windows Update to download and install updates and it should working now.
 
@@ -177,18 +178,21 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/2024-tips-how-to-fix-bluetooth-not-pairing-on-windows-11/"><u>[2024 Tips] How to Fix Bluetooth Not Pairing on Windows 11</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-visual-voyage-documenting-desktop-views-on-winos/"><u>[Updated] 2024 Approved Visual Voyage Documenting Desktop Views on WinOS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unlock-the-power-of-visual-storytelling-with-screen-capture-skills/"><u>2024 Approved Unlock the Power of Visual Storytelling with Screen Capture Skills</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-issues-how-to-restore-your-dell-camera-functionality-in-windows/"><u>Fixing Issues: How to Restore Your Dell Camera Functionality in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-addressing-windows-problem-inability-to-locate-a-suitable-printer-driver-fixed/"><u>Guide: Addressing Windows Problem - Inability to Locate a Suitable Printer Driver [FIXED]</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-add-music-to-instagram-reel-for-2024/"><u>How to Add Music to Instagram Reel for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-windows-11-kb5003607-0x8007cdfe-update-problem/"><u>How to Fix the Windows 11 KB5003607 (0X8007CDFE) Update Problem</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-navigating-instagrams-financial-opportunities-a-comprehensive-guide/"><u>In 2024, Navigating Instagram's Financial Opportunities A Comprehensive Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-samsung-galaxy-s24-ultra-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Samsung Galaxy S24 Ultra and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-steps-for-no-supported-device-found-on-apple-products/"><u>Solution Steps for 'No Supported Device Found' On Apple Products</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208665187-solving-the-sims-4-not-launching-problem-a-step-by-step-guide/"><u>Solving the 'Sims 4 Not Launching' Problem: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-landscape-of-augmented-reality-stickers-spotlight-on-google-for-2024/"><u>The Landscape of Augmented Reality Stickers Spotlight on Google for 2024</u></a></li>
-<li><a href="https://win-premium.techidaily.com/the-ultimate-tutorial-on-retrieving-lost-information-from-your-formatted-sd-card-simple-3-step-process/"><u>The Ultimate Tutorial on Retrieving Lost Information From Your Formatted SD Card (Simple 3-Step Process)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-dynamic-camera-setup-best-microphone-list/"><u>[New] Dynamic Camera Setup Best Microphone List</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-no-cost-copyright-free-pubg-image-bundles/"><u>[New] No-Cost, Copyright-Free PUBG Image Bundles</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-perfecting-the-instagram-story-format-with-youtube-integration-for-2024/"><u>[New] Perfecting the Instagram Story Format with YouTube Integration for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nlock-your-potential-with-these-influential-biz-video-hubs/"><u>[New] Unlock Your Potential with These Influential Biz Video Hubs</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-overcome-sound-absence-on-tweeted-film-rolls/"><u>[Updated] In 2024, Overcome Sound Absence on Tweeted Film Rolls</u></a></li>
+<li><a href="https://article-tips.techidaily.com/face-id-vs-snapchats-face-unlock-the-apple-vs-samsung-debate/"><u>Face ID Vs. Snapchat's Face Unlock The Apple Vs. Samsung Debate</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-missing-vcruntime140dll-file-comprehensive-guide/"><u>Fixing the Missing VCRUNTIME140.dll File – Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-runtime-broker-cpu-overload-issue-in-windows-11-complete-solutions/"><u>Fixing the Runtime Broker CPU Overload Issue in Windows 11 - Complete Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-unwanted-screen-flashes-on-your-windows-11-computer/"><u>Fixing Unwanted Screen Flashes on Your Windows 11 Computer</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-step-by-step-guide-to-full-periscope-capabilities/"><u>In 2024, Step-by-Step Guide to Full Periscope Capabilities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/nba-2k21-color-error-resolved-how-to-correct-the-iconic-green-glitch/"><u>NBA 2K21 Color Error Resolved - How to Correct the Iconic 'Green Glitch'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-cure-for-lidadll-absence/"><u>Quick Cure for Lida.dll Absence</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-x100-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo X100 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repair-solutions-for-lenovo-keyboards-that-wont-respond/"><u>Troubleshooting and Repair Solutions for Lenovo Keyboards That Won't Respond</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-responsive-audio-on-your-pc-solutions-for-windows-10-users/"><u>Troubleshooting Non-Responsive Audio on Your PC: Solutions for Windows 10 Users</u></a></li>
 </ul></div>
 

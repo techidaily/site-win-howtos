@@ -1,7 +1,7 @@
 ---
 title: "Remedies for a Broken '@' Key: A Comprehensive Fix Guide"
-date: 2024-11-25T10:03:25.313Z
-updated: 2024-11-27T16:33:30.218Z
+date: 2024-12-05T20:57:30.632Z
+updated: 2024-12-07T18:55:33.557Z
 tags:
   - win11
   - win10
@@ -41,10 +41,6 @@ To reset these components:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-884.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. If prompted, click**Yes** .
 4. In Command Prompt, type the following lines of command and press**Enter** on your keyboard after typing each:
 
@@ -69,6 +65,10 @@ net start cryptsvc
 
  If it is, then you’ve solved your problem. But if not, you may need to…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Modify your Windows setting in the registry
 
  This issue can also be fixes by adjusting a Windows Update setting in the registry. Here is how:
@@ -80,6 +80,10 @@ net start cryptsvc
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-905.png)
 3. If prompted, click**Yes** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. On the Registry Editor, click**File** , then select**Export** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-917.png)
 5. Select_a place to save your backup copy_ , then click**Save** to save the backup.  
@@ -89,19 +93,16 @@ net start cryptsvc
 7. Go to _HKEY\_LOCAL\_MACHINE\\Software\\Policies\\Microsoft\\Windows\\WindowsUpdate_ .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-919.png)
 8. Double click**DisableWindowsUpdateAccess** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-920.png)
 9. Change the**value data** to**0** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-923.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now try running Windows Update. If the steps above worked for you, you won’t see the “0x8024002e” error there.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Perform a clean boot
 
@@ -113,45 +114,45 @@ To do so:
 2. Type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 3. Click the**Services** tab. Then check**Hide all Microsoft services** (**FIRST** ) and click**Disable all** . After that, click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
 6. Click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 8. Run Windows Update and see if the “0x8024002e” error occurs. If not, proceed to the**next step** to find out the application or service that causes trouble.**Otherwise** skip all the steps below and try**other** **methods** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 10. Click the**Services** tab. Check**Hide all Microsoft services** . Then**enable** **any** disabled service (by**selecting its checkbox** ) and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3b3ebfca4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 11. Click**Restart** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 12. Check to see if the update error occurs. If it doesn’t, repeat step**9 to 11**  until you find out the service that causes the issue. If none of these services is the culprit, try the steps below.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If there’s any service that brings up the 0x8024002e error, you should do some research on the Internet to see what program is this service related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
 13. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 14. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
 16. Click**OK** and then click**Restart** .  
@@ -160,7 +161,7 @@ To do so:
 17. Check to see if the error occurs. If it doesn’t, repeat step**13 to 16**  until you find out the startup item that causes the issue.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If there’s any startup item that causes the 0x8024002e error, you should see what program is this item related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
@@ -186,22 +187,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-revolutionize-gaming-install-funimate-via-apk-method/"><u>[Updated] 2024 Approved Revolutionize Gaming - Install Funimate via APK Method</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-tiktok-profile-updates-with-linktree-integration/"><u>2024 Approved Navigating TikTok Profile Updates with Linktree Integration</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/avoiding-the-pitfalls-of-google-chromes-fatal-system-error-solutions-unveiled/"><u>Avoiding the Pitfalls of Google Chrome's Fatal System Error: Solutions Unveiled</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevated-elation-best-chairs-for-giant-gamers/"><u>Elevated Elation: Best Chairs For Giant Gamers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-free-updating-the-definitive-solution-for-windows-error-code-80244019/"><u>Error-Free Updating: The Definitive Solution for Windows Error Code 80244019</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-infinix-note-30-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Infinix Note 30 Pro to Protect Your Individual Information</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-resolve-the-0xc19e0208-update-issue-in-windows-11-fixed/"><u>How To Successfully Resolve The 0xC19e0208 Update Issue in Windows 11 [FIXED]</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-10-preferred-top-free-image-editing-and-overlay-apps-for-phones/"><u>In 2024, 10 Preferred Top-Free Image Editing & Overlay Apps for Phones</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Motorola G54 5G? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revive-your-windows-11-search-essential-tips-for-quick-recovery/"><u>Revive Your Windows 11 Search: Essential Tips for Quick Recovery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steps-to-take-if-your-windows-11-operating-system-keeps-crashing-or-freezing/"><u>Steps to Take if Your Windows 11 Operating System Keeps Crashing or Freezing</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-true-worth-of-a-premium-spotify-account/"><u>The True Worth of a Premium Spotify Account</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-common-issues-with-the-windows-1903-feature-update/"><u>Troubleshooting Common Issues with the Windows 1903 Feature Update</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcoming-restricted-input-issues-with-monitors/"><u>Troubleshooting Guide: Overcoming Restricted Input Issues with Monitors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-resource-consumption-by-msmpengine-in-windows-11/"><u>Troubleshooting High Resource Consumption by MsMpEngine in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-computer-unable-to-power-off-in-windows-10-solution/"><u>Troubleshooting: Fixing Computer Unable to Power Off in Windows 10 - SOLUTION</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-is-on-device-ai-and-how-does-it-work/"><u>What Is On-Device AI and How Does It Work?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ideal-indoor-delights-mastering-mobile-lassitude-for-2024/"><u>[Updated] Ideal Indoor Delights Mastering Mobile Lassitude for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-investment-insights-starting-a-profitable-podcast/"><u>[Updated] Investment Insights Starting a Profitable Podcast</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-insiders-guide-to-online-video-affiliates/"><u>2024 Approved The Insider’s Guide to Online Video Affiliates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-tutorial-on-adding-and-configuring-a-matrix-ready-daemon-plugin-for-your-kodi-device/"><u>Complete Tutorial on Adding and Configuring a Matrix-Ready Daemon Plugin for Your Kodi Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-handbrake-lessons-effortless-video-conversion-and-troubleshooting-tips/"><u>Comprehensive HandBrake Lessons: Effortless Video Conversion & Troubleshooting Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/download-and-convert-your-videos-faster-discover-how-free-apple-video-converter-now-works-with-ipod-nano/"><u>Download and Convert Your Videos Faster: Discover How Free Apple Video Converter Now Works with iPod Nano!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/download-youtube-playlists-swiftly-and-without-cost-top-tips/"><u>Download YouTube Playlists Swiftly & Without Cost: Top Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dvd-videovideots-2on/"><u>DVD-Video再生のために使えるVIDEO_TSディレクトリー: 利用可能な2つの解決策を学んでみましón！</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dvdpowerpoint-windowsmac/"><u>DVDに保存しておくべきPowerPointデッキを作成するステップバイステップガイド: クロスプラットフォーム・Windows/Mac用</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dvdwindows/"><u>DVDの再生に失敗するWindowsメディアプレーヤー:修正方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-tutorial-for-switching-from-aac-to-ac3-soundtracks-in-movies-and-series/"><u>Easy Tutorial for Switching From AAC to AC3 Soundtracks in Movies and Series</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficient-techniques-for-capturing-images-with-vlc-mastering-individual-and-multiple-frames/"><u>Efficient Techniques for Capturing Images with VLC: Mastering Individual & Multiple Frames</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gebruikleusend-mp4-naar-wmv-online-konvertor-vrije-movavi-toolen/"><u>Gebruikleusend MP4 Naar WMV Online Konvertor - Vrije Movavi Toolen</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-voice-chat-problems-in-players-unknown-battlegrounds-pubg-efficiently/"><u>How To Fix Voice Chat Problems in Players Unknown: Battlegrounds (PUBG) Efficiently</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-guffaw-generation-generating-7-hilarious-video-moments-online/"><u>In 2024, Guffaw Generation Generating 7 Hilarious Video Moments Online</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-xr-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone XR? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/peepcapture-snapshot-scrutiny-and-choices-for-2024/"><u>PeepCapture Snapshot Scrutiny & Choices for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-ultimate-guide-to-audio-acquisition-iphoneipad-edition/"><u>The Ultimate Guide to Audio Acquisition IPhone/iPad Edition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Nokia C22 | Dr.fone</u></a></li>
 </ul></div>
 

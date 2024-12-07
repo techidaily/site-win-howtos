@@ -1,7 +1,7 @@
 ---
 title: WinUpdate Trouble? Here's How to Fix Error 0X80240017 for Good
-date: 2024-11-23T07:43:29.296Z
-updated: 2024-11-28T11:57:07.517Z
+date: 2024-12-01T17:18:27.006Z
+updated: 2024-12-07T18:39:49.568Z
 tags:
   - win11
   - win10
@@ -45,17 +45,13 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04da616dafa.jpg)
 2. Click**Troubleshoot** on the left. Click**Windows Update** \>**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
 3. Windows will start detecting problems, which will take several minutes. Once done, follow the on-screen instructions to complete the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dae7e3360.png)
 4. Restart your computer and try Windows Update again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the Windows Update error persists, move on to the second method.
@@ -85,6 +81,10 @@ If the Windows Update error persists, move on to the second method.
 
  If your issue still persists, don’t worry, There is something else to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Repair corrupted system files
 
  Missing or corrupted system files can also trigger the Windows Update error 0x80240017\. To detect and fix them, you may need to perform an in-depth PC scan.
@@ -97,14 +97,23 @@ If the Windows Update error persists, move on to the second method.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -115,7 +124,7 @@ If the Windows Update error persists, move on to the second method.
 2. Type the following command and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 sfc /scannow  
@@ -141,17 +150,9 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/driver-easy-scan.jpg)
 3. Click the**Update** button next to the flagged device(s) to automatically download the driver (you can do that with the FREE version), then install it in your computer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install all the correct drivers for problem drivers (you can do this with the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you’ll be prompted to upgrade when your click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Open Windows Update to download and install updates and it should working now.
 
@@ -175,22 +176,18 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-culinary-champions-must-subscribe-food-bloggers-for-2024/"><u>[New] Culinary Champions Must-Subscribe Food Bloggers for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-supercharge-your-channel-optimal-release-dates/"><u>[Updated] 2024 Approved Supercharge Your Channel Optimal Release Dates</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-capture-and-share-your-win10-gaming-life/"><u>[Updated] In 2024, Capture and Share Your Win10 Gaming Life</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-palette-perfection-a-guide-to-grading-filmmaking/"><u>[Updated] In 2024, Palette Perfection A Guide to Grading Filmmaking</u></a></li>
-<li><a href="https://games-able.techidaily.com/boosting-your-gaming-budget-in-ps-store/"><u>Boosting Your Gaming Budget in PS Store</u></a></li>
-<li><a href="https://network-issues.techidaily.com/demystifying-the-undetermined-dx-fault-in-lol/"><u>Demystifying the Undetermined DX Fault in LoL</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-restoring-usb-port-functionality-on-your-windows-11-pc/"><u>Diagnosing and Restoring USB Port Functionality on Your Windows 11 PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/elevate-your-systems-efficiency-how-to-free-up-resources-by-fixing-high-cpu-usage-caused-by-shell-infrastructure-on-modern-oses/"><u>Elevate Your System's Efficiency - How to Free Up Resources by Fixing High CPU Usage Caused By Shell Infrastructure on Modern OSes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-guide-handling-persistent-errors-during-your-warframe-game-updates/"><u>Expert Guide: Handling Persistent Errors During Your Warframe Game Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fast-and-efficient-fixes-to-solve-the-windows-setup-problems/"><u>Fast & Efficient Fixes to Solve the Windows Setup Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-and-enable-the-webcam-on-your-lenovo-notebook-easily/"><u>How to Repair and Enable the Webcam on Your Lenovo Notebook Easily</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-12-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/les-meilleures-options-libres-pour-la-realisation-de-films-animes-en-2nano-decouvrez-les-logiciels-avant-gardistes-du-monde-3d/"><u>Les Meilleures Options Libres Pour La Réalisation De Films Animés en 2Nano, Découvrez Les Logiciels Avant-Gardistes Du Monde 3D</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-common-mousepad-connectivity-issues-in-windows-operating-systems-tips-and-tricks-for-win7-to-win10/"><u>Overcoming Common Mousepad Connectivity Issues in Windows Operating Systems: Tips & Tricks for Win7 to Win10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-entry-point-not-found-error-on-windows/"><u>Resolved: How to Fix 'Entry Point Not Found' Error on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-microsoft-store-access-problems-for-windows-users/"><u>Solving Microsoft Store Access Problems for Windows Users</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-microsoft-surface-laptop-go-assessment-slender-economical-ultrabook-perfect-for-on-the-go/"><u>The Microsoft Surface Laptop Go Assessment: Slender, Economical Ultrabook Perfect for On-the-Go</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-isolated-viewers-to-shared-experiences-online-for-2024/"><u>[New] From Isolated Viewers to Shared Experiences Online for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-choosing-between-gopro-hero-5-and-nikkor-km-170/"><u>[New] In 2024, Choosing Between GoPro HERO 5 and Nikkor KM-170</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-quick-guide-to-insta-influence-mastery/"><u>2024 Approved Quick Guide to Insta-Influence Mastery</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-xiaomi-redmi-a2-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Xiaomi Redmi A2? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fix-guide-for-users-encountering-the-non-existent-fm2n0dll-issue/"><u>Fix Guide for Users Encountering the Non-Existent fm2n0.dll Issue</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210103342-9781250769541-manifesting/"><u>Manifesting | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-list-of-top-rated-free-tools-for-dividing-your-videos-into-sections/"><u>The Ultimate List of Top-Rated Free Tools for Dividing Your Videos Into Sections</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-5-free-substitutes-to-camstudio-on-windows-platforms/"><u>Top 5 Free Substitutes to CamStudio on Windows Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-5-no-cost-video-merge-apps-with-zero-watermarks/"><u>Top 5 No-Cost Video Merge Apps with Zero Watermarks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-reducing-size-of-mp4-videos-across-all-devices-and-web-services/"><u>Ultimate Guide: Reducing Size of MP4 Videos Across All Devices & Web Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-tutorial-on-converting-blu-ray-discs-to-optimized-mkv-format-for-enhanced-streaming-experience/"><u>Ultimate Tutorial on Converting Blu-Ray Discs to Optimized MKV Format for Enhanced Streaming Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-4k-resolution-a-complete-guide-to-upgrading-your-videos-to-ultra-high-definition/"><u>Understanding 4K Resolution: A Complete Guide to Upgrading Your Videos to Ultra High Definition</u></a></li>
 </ul></div>
 

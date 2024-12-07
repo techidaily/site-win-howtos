@@ -1,7 +1,7 @@
 ---
 title: How to Enhance Typing Speed by Fixing a Lazy Keyboard Quickly
-date: 2024-11-21T18:07:57.470Z
-updated: 2024-11-28T15:22:53.723Z
+date: 2024-12-01T18:09:08.242Z
+updated: 2024-12-07T20:26:10.336Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -52,7 +48,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -75,13 +71,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -113,6 +109,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -122,13 +122,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -142,13 +142,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,18 +184,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unveiling-secrets-for-instagram-chat-success/"><u>[Updated] 2024 Approved Unveiling Secrets for Instagram Chat Success</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-get-your-hand-on-the-latest-50-youtube-promo-banners-in-2024/"><u>[Updated] Get Your Hand on the Latest 50 YouTube Promo Banners, In 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722971895143-easy-and-quick-download-your-asus-monitor-drivers-without-hassle/"><u>Easy and Quick: Download Your ASUS Monitor Drivers Without Hassle</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-resolving-error-code-0xc1900208-in-your-latest-windows-11-installation/"><u>Expert Advice: Resolving Error Code 0xC1900208 in Your Latest Windows 11 Installation</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-the-windows-update-error-0x80070652-easily-with-these-tips/"><u>Overcome the Windows Update Error 0X80070652 Easily with These Tips</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/repairing-playback-issues-in-digital-videos/"><u>Repairing Playback Issues in Digital Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721877861756-top-4-tools-for-sharing-and-exporting-your-conversations-with-chatgpt/"><u>Top 4 Tools for Sharing and Exporting Your Conversations with ChatGPT</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210725290-top-remedies-for-when-your-laptops-usb-mouse-wont-work-restore-functionality-today/"><u>Top Remedies for When Your Laptop's USB Mouse Won't Work – Restore Functionality Today!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-nonfunctional-usb-ports-on-windows-11/"><u>Troubleshooting and Fixing Nonfunctional USB Ports on Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-ai-chatbots-why-are-they-capturing-everyones-interest/"><u>Unveiling AI Chatbots: Why Are They Capturing Everyone's Interest?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/update-guide-enabling-unsupported-graphics-on-windows-for-fortnite-gaming/"><u>Update Guide: Enabling Unsupported Graphics on Windows for Fortnite Gaming</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/why-the-pricey-ps5-is-worth-every-penny-discover-4-reasons/"><u>Why The Pricey PS5 Is Worth Every Penny - Discover 4 Reasons</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-crafting-an-epic-unboxing-journey/"><u>[New] Crafting an Epic Unboxing Journey</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rom-snippets-to-stars-the-essence-of-video-musical-success/"><u>[New] From Snippets to Stars The Essence of Video Musical Success</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-leverage-youtube-on-instagram-stories-for-maximum-engagement/"><u>[Updated] In 2024, Leverage YouTube on Instagram Stories for Maximum Engagement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-funny-image-memes/"><u>[Updated] The Ultimate Guide to Funny Image Memes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beating-the-booting-blues-fixing-your-computers-red-screen-issue/"><u>Beating the Booting Blues: Fixing Your Computer's Red Screen Issue</u></a></li>
+<li><a href="https://extra-information.techidaily.com/express-creativity-infuse-laughter-kapwing-guide/"><u>Express Creativity, Infuse Laughter - Kapwing Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-sluggish-or-frozen-google-chrome-back-on-track/"><u>How to Get Your Sluggish or Frozen Google Chrome Back on Track</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-xiaomi-redmi-note-12-pro-4g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xiaomi Redmi Note 12 Pro 4G?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-tecno-phantom-v-flip-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Tecno Phantom V Flip to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-examination-how-the-amplifi-hd-eliminates-wi-fi-black-spots-in-your-home-network/"><u>In-Depth Examination: How the Amplifi HD Eliminates Wi-Fi Black Spots in Your Home Network</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-connectivity-issues-a-fix-for-hp-laptops-with-defective-usb-slots/"><u>Resolving Connectivity Issues: A Fix for HP Laptops with Defective USB Slots</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/top-underground-sources-for-smart-fb-memes/"><u>Top Underground Sources for Smart FB Memes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-error-0x8024401c-during-windows-updates-for-windows-11-users/"><u>Troubleshooting Guide: Fixing Error 0X8024401c During Windows Updates for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-resolving-windows-update-error-0x80n0490-code-successfully/"><u>Troubleshooting Tips for Resolving Windows Update Error 0X80n0490 Code Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-non-hdcp-compliant-monitor-displays/"><u>Troubleshooting: Fixing Non-HDCP Compliant Monitor Displays</u></a></li>
 </ul></div>
 

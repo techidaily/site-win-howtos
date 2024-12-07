@@ -1,7 +1,7 @@
 ---
 title: Easy Ways to Restore Proper Functionality of Special Keys on a Dell Notebook
-date: 2024-11-23T10:16:19.575Z
-updated: 2024-11-27T19:03:03.184Z
+date: 2024-12-02T21:04:54.968Z
+updated: 2024-12-07T20:04:48.993Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes For **SteelSeries Arctis 5 Mic Not Working**
 
  All the fixes below work in**Windows 10** . Just work your way down the list until the problem is resolved.
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 4. [**Install the latest SteelSeries Engine software**](#F4)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Allow access to microphone
@@ -49,28 +45,24 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
@@ -85,6 +77,10 @@ Here’s how to do it:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
@@ -102,6 +98,10 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
@@ -147,22 +147,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-top-mac-visual-seize-methods-reviewed-limit-156-chars/"><u>[Updated] 2024 Approved Top Mac Visual Seize Methods Reviewed (Limit 156 Chars)</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-ideas-for-creating-sequences-of-iphone-burst-images-for-2024/"><u>[Updated] Ideas for Creating Sequences of iPhone Burst Images for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-understanding-the-basics-of-ffxp-mode/"><u>[Updated] In 2024, Understanding the Basics of FFXP Mode</u></a></li>
-<li><a href="https://article-helps.techidaily.com/achieving-perfection-mastering-sound-with-audacity/"><u>Achieving Perfection Mastering Sound with Audacity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723203787743-dell-laptop-keyboard-malfunction-heres-what-you-can-do/"><u>Dell Laptop Keyboard Malfunction? Here's What You Can Do!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-resolution-tactics-restarting-your-computer-after-critical-failures/"><u>Error Resolution Tactics: Restarting Your Computer After Critical Failures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-of-unidentified-usb-gadget-with-descriptor-query-failure/"><u>Fixing the Issue of Unidentified USB Gadget with Descriptor Query Failure</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-overcome-windows-camera-error-0xa00f4292/"><u>Fixing the Issue: How to Overcome Windows Camera Error 0xA00F4292</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-bringing-an-hidden-or-missing-window-back-onto-the-screen/"><u>Guide: Bringing an Hidden or Missing Window Back Onto the Screen</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-activate-stellar-data-recovery-for-iphone-se-2022-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Activate Stellar Data Recovery for iPhone SE (2022) | Stellar</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-13-ultra-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi 13 Ultra Location by Number | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-pro-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-geforce-rtx-3070-ti-drivers-compatible-with-windows-11-8-and-7/"><u>Latest GeForce RTX 3070 Ti Drivers - Compatible with Windows 11, 8, and 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guidelines-resolving-unresponsive-computer-shutdown-in-windows-11-systems/"><u>Solution Guidelines: Resolving Unresponsive Computer Shutdown in Windows 11 Systems</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-key-to-cinematic-excellence-mastering-the-art-of-shooting-stunning-slow-motion-media-on-instagram/"><u>The Key to Cinematic Excellence Mastering the Art of Shooting Stunning Slow-Motion Media on Instagram</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-0x80070490-error-during-windows-update-process/"><u>Troubleshooting and Fixing 0X80070490 Error During Windows Update Process</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-how-to-repair-an-unresponsive-aoc-monitor-on-windows-11/"><u>Troubleshooting Steps: How to Repair an Unresponsive AOC Monitor on Windows 11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-ultimate-avc-player-on-devices/"><u>[New] In 2024, Ultimate AVC Player on Devices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-navigate-with-ease-best-7-android-browsers-without-pop-ups/"><u>2024 Approved Navigate With Ease Best 7 Android Browsers Without Pop-Ups</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/s-the-archived-unique-methods-for-viewing-old-youtube/"><u>Access the Archived Unique Methods for Viewing Old YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/beginners-path-to-w11-audio-recording/"><u>Beginner's Path to W11 Audio Recording</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-techniques-for-opening-and-accessing-iso-images-in-macos-a-top-5-guide/"><u>Best Techniques for Opening and Accessing ISO Images in macOS: A Top-5 Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/critique-on-splitcam-does-it-top-video-tech/"><u>Critique on SplitCam Does It Top Video Tech?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/diving-into-samsung-galaxy-s8-the-ultra-hd-milestone/"><u>Diving Into Samsung Galaxy S8 The Ultra HD Milestone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-overcoming-high-voltage-incidents-at-your-hub-port/"><u>Expert Guide: Overcoming High Voltage Incidents at Your Hub Port</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/video-embedding-for-dynamic-online-articles/"><u>Free Video Embedding for Dynamic Online Articles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-easily-enable-bluetooth-on-your-pc-with-windows-11-or-10/"><u>Guide: Easily Enable Bluetooth on Your PC with Windows 11 or 10</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-11-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 11 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-techniques-to-eliminate-ie-frame-dll-errors-on-windows-systems/"><u>Master the Techniques to Eliminate IE Frame DLL Errors on Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/missing-device-drivers-how-to-fix-when-your-pc-lacks-essential-media-software/"><u>Missing Device Drivers: How to Fix When Your PC Lacks Essential Media Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211537847-persistent-usb-problem-solved-stop-seeing-device-not-recognized-alerts-forever/"><u>Persistent USB Problem Solved: Stop Seeing 'Device Not Recognized' Alerts Forever</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-troublesome-0xc19amo-update-error-in-windows-10-a-step-by-step-solution/"><u>Resolving the Troublesome 0xC19amo Update Error in Windows 10: A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207184627-reviving-stuck-keys-on-your-windows-pc-comprehensive-fixes-inside/"><u>Reviving Stuck Keys on Your Windows PC - Comprehensive Fixes Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simplify-your-experience-advanced-support-for-file-explorer-on-windows-11/"><u>Simplify Your Experience: Advanced Support for File Explorer on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-high-cpu-drain-by-svchostexe-on-windows-11-solved/"><u>Tackling High CPU Drain by svchost.exe on Windows 11: Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-on-acquiring-authorization-from-trustedinstaller-to-modify-files/"><u>The Ultimate Guide on Acquiring Authorization From TrustedInstaller To Modify Files</u></a></li>
 </ul></div>
 

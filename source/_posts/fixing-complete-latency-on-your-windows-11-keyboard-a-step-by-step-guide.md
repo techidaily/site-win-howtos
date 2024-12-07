@@ -1,7 +1,7 @@
 ---
 title: "Fixing Complete Latency on Your Windows 11 Keyboard: A Step-by-Step Guide"
-date: 2024-11-20T21:38:29.188Z
-updated: 2024-11-28T00:22:10.987Z
+date: 2024-12-01T20:22:39.284Z
+updated: 2024-12-07T20:50:32.095Z
 tags:
   - win11
   - win10
@@ -57,17 +57,21 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
 
@@ -80,7 +84,7 @@ Follow these:
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
@@ -88,10 +92,14 @@ Follow these:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -109,19 +117,11 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer and try to press the Shift key to see if it works.
 
@@ -142,24 +142,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/solved-windows-update-error-8007000e-quickly-and-easily/"><u>[Solved] Windows Update Error 8007000E | Quickly & Easily</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-tune-into-the-beats-with-these-free-online-scanners/"><u>[Updated] Tune Into the Beats with These Free Online Scanners</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/dive-into-sonys-high-res-xperia-the-4k-phone-unveiled/"><u>Dive Into Sony's High-Res Xperia The 4K Phone Unveiled</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-to-reconnect-auxiliary-devices-with-windows-10-or-later/"><u>Easy Fixes to Reconnect Auxiliary Devices with Windows 10 or Later</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-solutions-resolving-opengl-error-code-1281/"><u>Easy Solutions: Resolving OpenGL Error Code 1281</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-fixing-the-errinternetdisconnected-error-on-any-browser/"><u>Effective Solutions for Fixing the ERR_INTERNET_DISCONNECTED Error on Any Browser</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-sounds-on-a-windows-11-computer-without-an-installed-audio-device/"><u>How To Restore Sounds On A Windows 11 Computer Without An Installed Audio Device</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-t2x-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo T2x 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-unlocking-tv-potential-with-social-medias-facebook-live-streams/"><u>In 2024, Unlocking TV Potential with Social Media's Facebook Live Streams</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/livekernel-event-error-144-strategies-to-solve-the-problem-quickly/"><u>LiveKernel Event Error 144: Strategies to Solve the Problem Quickly</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/masterful-methods-to-add-a-secure-link-to-your-tiktok-profile-for-2024/"><u>Masterful Methods to Add a Secure Link to Your TikTok Profile for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-players-rejoice-solving-crashes-in-the-latest-version-of-five-nights-at-freddys-6-update/"><u>PC Players Rejoice! Solving Crashes in the Latest Version of 'Five Nights at Freddy's 6 Update</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-and-effective-fixes-for-steam-game-installation-errors/"><u>Quick and Effective Fixes for Steam Game Installation Errors</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-oppo-find-x7-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Oppo Find X7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-enabling-supported-graphic-cards-for-fortnite-in-windows-os/"><u>Troubleshooting Guide: Enabling Supported Graphic Cards for Fortnite in Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-microsoft-wireless-display-adapter-issues-with-windows-10/"><u>Troubleshooting Guide: How to Fix Microsoft Wireless Display Adapter Issues with Windows 10</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-list-of-miniature-mobile-marvels-ranking-the-tiny-tech-giants/"><u>Ultimate List of Miniature Mobile Marvels - Ranking the Tiny Tech Giants</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-twitters-new-feature-the-power-of-x-checkmarks-insights-by-linus-sebastian/"><u>Unlocking Twitter's New Feature: The Power of X Checkmarks - Insights by Linus Sebastian</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhance-engagement-mastering-template-based-video-description-writing/"><u>[New] 2024 Approved Enhance Engagement Mastering Template-Based Video Description Writing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-your-entry-level-equipment-checklist-for-youtube-success/"><u>[New] Your Entry-Level Equipment Checklist for YouTube Success</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ules-magic-unfolds-access-nine-premium-whole-film-holiday-movies-for-free-for-2024/"><u>[New] Yule's Magic Unfolds Access Nine Premium, Whole-Film Holiday Movies for Free for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-digital-memory-keeping-for-your-ps3-experiences/"><u>[Updated] Digital Memory Keeping for Your PS3 Experiences</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-professional-insight-elevating-your-youtube-video-experience/"><u>[Updated] In 2024, Professional Insight Elevating Your YouTube Video Experience</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-resolving-issues-with-your-logitech-clips-digital-pen-on-xp/"><u>Comprehensive Guide To Resolving Issues With Your Logitech Clip's Digital Pen On XP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correct-the-bad-module-information-to-stop-game-malfunctions/"><u>How To Correct the 'Bad Module Information' To Stop Game Malfunctions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/how-to-use-screencastify-recorder-for-2024/"><u>How to Use Screencastify Recorder for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/put-and-play-mkv-movies-on-htc-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Put and play MKV movies on HTC </u></a></li>
+<li><a href="https://win-howtos.techidaily.com/repeat-errors-windows-11-copy-issue/"><u>Repeat Errors: Windows 11 Copy Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-resolve-launch-errors-of-new-world-issues-with-enabling-eas-easy-anti-cheat/"><u>Step-by-Step Guide to Resolve Launch Errors of New World - Issues with Enabling EA's Easy Anti-Cheat</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unexpected-computer-shuts-off-heres-how-to-diagnose-and-resolve-it/"><u>Unexpected Computer Shuts Off? Here's How to Diagnose and Resolve It.</u></a></li>
 </ul></div>
 

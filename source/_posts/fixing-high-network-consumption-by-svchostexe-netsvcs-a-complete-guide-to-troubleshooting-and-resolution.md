@@ -1,7 +1,7 @@
 ---
 title: "Fixing High Network Consumption by svchost.exe (Netsvcs): A Complete Guide to Troubleshooting and Resolution"
-date: 2024-11-21T00:14:13.962Z
-updated: 2024-11-27T19:53:40.635Z
+date: 2024-12-06T21:51:58.121Z
+updated: 2024-12-07T21:44:50.749Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Fixes for**Microphone Not Working On Laptop**
@@ -46,20 +46,20 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
@@ -86,7 +86,7 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
@@ -106,12 +106,12 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
@@ -150,17 +150,18 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-ultimate-mac-video-frames-catalog-max-156-chars/"><u>[New] In 2024, Ultimate Mac Video Frames Catalog (Max 156 Chars)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-rise-to-stardom-secrets-to-viral-video-success-for-2024/"><u>[Updated] Rise to Stardom Secrets to Viral Video Success for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-and-guide-resolving-non-responsive-issues-in-google-chrome/"><u>Fix & Guide: Resolving Non-Responsive Issues in Google Chrome</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-lost-bluetooth-support-in-windows-11-steps-for-rapid-resolution/"><u>Fix Lost Bluetooth Support in Windows 11: Steps for Rapid Resolution</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/grammar-gatekeeper-of-language-learning/"><u>Grammar: Gatekeeper of Language Learning?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-2023-best-8-private-video-downloaders/"><u>In 2024, 2023 | Best 8 Private Video Downloaders</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-simplified-streaming-solutions-for-the-solo-broadcayer/"><u>In 2024, Simplified Streaming Solutions for the Solo Broadcayer</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-realme-11-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Realme 11 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mestizo/"><u>Mestizo:</u></a></li>
-<li><a href="https://video-capture.techidaily.com/tinytake-screen-recorder-review/"><u>TinyTake Screen Recorder Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-10-audio-settings-solutions-for-non-functioning-volume-control/"><u>Troubleshooting Windows 10 Audio Settings: Solutions for Non-Functioning Volume Control</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-taking-your-photos-and-videos-to-new-heights/"><u>[New] Taking Your Photos and Videos to New Heights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expert-insights-on-forging-youtube-sponsorship-bonds-using-famebit/"><u>[Updated] 2024 Approved Expert Insights on Forging YouTube Sponsorship Bonds Using FameBit</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-removing-aerial-video-pulsation-effects-for-2024/"><u>[Updated] Removing Aerial Video Pulsation Effects for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-for-windows-10-cannot-read-container-contents-issue/"><u>Comprehensive Solution for 'Windows 10 Cannot Read Container Contents' Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-persistent-problem-of-windows-update-error-0x8024401c-in-recent-windows-versions/"><u>How to Overcome the Persistent Problem of Windows Update Error 0X8024401c in Recent Windows Versions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-12-pro-5g-by-fonelab-android-recover-messages/"><u>How to recover old messages from your 12 Pro 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-valorants-screen-tearing-issue-effectively/"><u>How To Resolve Valorant's Screen Tearing Issue Effectively</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-master-plan-top-6-modernist-minecraft-villas/"><u>In 2024, Master Plan Top 6 Modernist Minecraft Villas</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/investigating-the-silence-of-non-suggestive-video-content-on-fb/"><u>Investigating the Silence of Non-Suggestive Video Content on FB</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016126512-league-of-legends-voice-chat-problems-solutions-to-get-you-talking-again/"><u>League of Legends Voice Chat Problems? Solutions to Get You Talking Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-disk-usage-for-microsoft-telemetry-services-under-windows-11/"><u>Optimizing Disk Usage for Microsoft Telemetry Services Under Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-honor-magic-vs-2-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Honor Magic Vs 2 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unreal-engine-under-threat-the-d3d-device-crisis/"><u>Unreal Engine Under Threat: The D3D Device Crisis</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unstuck From Sticky Keys: Restoring Backspace Key Functionality"
-date: 2024-11-24T17:20:30.292Z
-updated: 2024-11-28T07:01:05.129Z
+date: 2024-12-03T18:32:52.040Z
+updated: 2024-12-07T18:37:21.199Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 6 fixes that have helped other users resolve their arrow keys not working issue. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -39,13 +35,13 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check hardware issues
 
@@ -56,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
  Besides, you can use the online **[Keyboard Tester](https://keyboardtester.co/keyboard-tester)**  to rule out the hardware issue. Simply press each of the keys on your keyboard and see if the key on the screen changes color. If it does, this means that your keyboard is not the problem. Otherwise, you may need to get your keyboard repaired or replaced.
 
  After confirming that your hardware is not the problem, check out the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your keyboard driver
 
@@ -75,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
 
@@ -96,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable the Scroll Lock key
 
  If the arrow keys are not working as intended in**Excel** , try**disabling the Scroll Lock key** to fix the problem. If the Scroll Lock key is enabled, the whole page will move when you press any of the arrow keys, but the selected cell won’t change. So if you just want to use the arrow keys to move between different cells, you should turn off the Scroll Lock key.
@@ -110,11 +110,11 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If this method didn’t work for you, check out the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Run Keyboard Troubleshooter
 
@@ -126,15 +126,15 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### on Windows 11
 
@@ -144,14 +144,14 @@ If this method didn’t work for you, check out the last fix.
 3. Click**Other troubleshooters** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -175,18 +175,15 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-leading-the-way-in-iphonecomputer-video-format-conversion/"><u>[New] Leading the Way in iPhone/Computer Video Format Conversion</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-loop-a-video-on-iphone/"><u>[Updated] In 2024, How to Loop A Video on iPhone?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/audio-clarity-commandments-choosing-from-the-best-6-livestreaming-mics/"><u>Audio Clarity Commandments Choosing From the Best 6 Livestreaming Mics</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-the-blues-overcoming-the-frustrating-windows-11-error-0x800f0922-with-these-8-fixes/"><u>Beat the Blues: Overcoming the Frustrating Windows 11 Error 0X800f0922 with These 8 Fixes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-elevate-your-works-discover-the-elite-6-in-nft-creativity/"><u>In 2024, Elevate Your Works Discover the Elite 6 in NFT Creativity</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-ultimate-free-guide-to-youtube-ad-videos/"><u>In 2024, The Ultimate Free Guide to YouTube Ad Videos</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/keeping-your-mouse-in-sync-with-windows-the-importance-of-hid-driver-updates/"><u>Keeping Your Mouse in Sync with Windows: The Importance of HID Driver Updates</u></a></li>
-<li><a href="https://program-issues.techidaily.com/left-4-dead-2-stability-fixed-understanding-the-game-update/"><u>Left 4 Dead 2 Stability Fixed: Understanding the Game Update</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/oneplus-8t-analysis-fast-performance-marred-by-inconsistent-camera-quality/"><u>OnePlus 8T Analysis: Fast Performance Marred by Inconsistent Camera Quality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/repair-guide-for-aoc-screen-malfunction-compatibility-with-windows-11-devices/"><u>Repair Guide for AOC Screen Malfunction Compatibility with Windows 11 Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-solving-the-issue-when-microsoft-store-doesnt-launch/"><u>Resolved: Solving the Issue When Microsoft Store Doesn't Launch</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionizing-essay-writing-with-ai-practical-uses-of-chatgpt-for-college-students/"><u>Revolutionizing Essay Writing with AI: Practical Uses of ChatGPT for College Students</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-challenge-of-elevated-gpu-use-by-dwm-essential-fixes-for-windows-1011/"><u>Solving the Challenge of Elevated GPU Use by DWM - Essential Fixes for Windows 10/11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-mastering-zoom-meetings-with-ease-integrating-skype-functions/"><u>[Updated] In 2024, Mastering Zoom Meetings with Ease Integrating Skype Functions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-enhancing-vimeo-playback-velocity-guide/"><u>2024 Approved Enhancing Vimeo Playback Velocity Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-fixes-to-eliminate-delayed-boot-times-in-windows-7/"><u>Essential Fixes to Eliminate Delayed Boot Times in Windows 7</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-precision-in-photos-iphone-apps-for-accurate-cropping/"><u>In 2024, Precision in Photos IPhone Apps for Accurate Cropping</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-the-common-dll-stop-error-in-windows-a-complete-solution-guide/"><u>Resolve the 'Common DLL Stop' Error in Windows: A Complete Solution Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-issues-with-the-witcher-3-computer-version-freezingcrashing/"><u>Resolving Issues with the Witcher 3 Computer Version Freezing/Crashing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/reviving-your-pc-with-chatgpt-wisdom-and-skill/"><u>Reviving Your PC with ChatGPT Wisdom and Skill</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-this-site-cant-be-reached-chrome-error/"><u>Solved: “This Site Can’t Be Reached” Chrome Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-the-d3d9-graphics-device-failure-problem/"><u>Step-by-Step Solution for the D3D9 Graphics Device Failure Problem</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unveiling-the-most-honest-youtube-growth-services/"><u>Unveiling the Most Honest Youtube Growth Services</u></a></li>
 </ul></div>
 

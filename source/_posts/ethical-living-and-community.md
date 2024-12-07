@@ -1,7 +1,7 @@
 ---
 title: Ethical Living and Community
-date: 2024-11-25T12:34:08.291Z
-updated: 2024-11-27T22:18:08.545Z
+date: 2024-12-05T17:19:39.397Z
+updated: 2024-12-07T20:27:04.492Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ the picture was taken by: Article\_86
 2. Choose**Google Chrome** and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/task-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
 ## Try these fixes
@@ -54,7 +50,7 @@ the picture was taken by: Article\_86
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Get an ad-block extension
@@ -63,16 +59,16 @@ the picture was taken by: Article\_86
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run a virus scan
 
  Do a clean virus scan is important after you met the scam. In case your computer gets infected by it, it’s no harm to do so. You can use the antivirus software on your computer or run Windows Defender. Just make sure the software has updated to the latest version.  
  If you would like to try another antivirus software, here we recommend[CCleaner](https://tools.techidaily.com/drivereasy/download/) . It’s a powerful but easy to use software that protects your computer from viruses and criminal ads. CCleaner can easily remove temporary files, program caches, cookies, logs, etc.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall suspicious add-ons
 
@@ -85,9 +81,17 @@ the picture was taken by: Article\_86
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Relaunch Chrome to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Clear Google Chrome cache
 
@@ -106,6 +110,10 @@ the picture was taken by: Article\_86
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Reset Google Chrome to default settings
 
  If you don’t remember which extension or change you’ve made before you met the scam, you can simply reset Google Chrome to default settings. This function won’t affect your saved bookmarks or passwords. It will make Chrome back to default configurations and remove all the settings that might cause this unresponsive error.
@@ -115,10 +123,6 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/5.10-2.jpg)
 3. Scroll down to the bottom and click **Advanced** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
@@ -126,14 +130,10 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## TIPS: Avoid Google Chrome Critical Error
@@ -171,19 +171,21 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-from-novice-to-pro-the-complete-guide-to-greenscreen-in-kinemaster/"><u>[Updated] In 2024, From Novice to Pro The Complete Guide to Greenscreen in KineMaster</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210184338-9781736047019-behind-those-heels/"><u>Behind those Heels | Free Book</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-motorola-moto-g24-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Motorola Moto G24?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/elevating-vlogging-to-new-heights-yi-hero-reviewed-for-2024/"><u>Elevating Vlogging to New Heights Yi Hero Reviewed for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-issues-why-isnt-the-multiplayer-function-active-in-elden-ring/"><u>Fixing Issues: Why Isn't the Multiplayer Function Active in Elden Ring?</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-toolwiz-photosapp-decoded-in-depth-analysis-of-2023-features/"><u>In 2024, Toolwiz PhotosApp Decoded - In-Depth Analysis of 2023 Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/setting-microsoft-excel-as-your-macs-primary-spreadsheet-software-a-step-by-step-guide/"><u>Setting Microsoft Excel as Your Mac's Primary Spreadsheet Software: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-techniques-for-transposing-rows-into-columns-in-microsoft-excel/"><u>Simple Techniques for Transposing Rows Into Columns in Microsoft Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-on-applying-universal-cell-formatting-in-multiple-excel-workbooks/"><u>Step-by-Step Guide on Applying Universal Cell Formatting in Multiple Excel Workbooks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-building-your-project-schedule-with-ms-excel/"><u>Step-by-Step Guide: Building Your Project Schedule with MS Excel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-transferring-pictured-data-into-excel-apps-on-smartphones/"><u>Step-by-Step Guide: Transferring Pictured Data Into Excel Apps on Smartphones</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-converting-excel-charts-to-picture-format-for-easy-sharing-and-editing/"><u>Step-by-Step Tutorial on Converting Excel Charts to Picture Format for Easy Sharing and Editing</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/troubleshooting-and-fixing-errgfxd3dinit-issue-for-an-optimal-gta-v-experience/"><u>Troubleshooting and Fixing ERR_GFX_D3D_INIT Issue for an Optimal GTA V Experience</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-executing-the-last-goodbye-to-your-instagram-account/"><u>[New] In 2024, Executing the Last Goodbye to Your Instagram Account</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-videotweeteraudio-quick-audio-extractor/"><u>[Updated] 2024 Approved VideoTweeterAudio Quick Audio Extractor</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-monitor-matters-how-to-opt-for-the-best-visual-experience-with-4k-displays/"><u>2024 Approved Monitor Matters How to Opt for the Best Visual Experience with 4K Displays</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/22-leading-free-video-optimizers-the-most-effective-picks-for-windows-and-macos-users/"><u>22 Leading Free Video Optimizers: The Most Effective Picks for Windows & macOS Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262403477-asus-makes-history-with-the-first-ever-rog-nuc-combines-cutting-edge-core-ultra-9-and-stunning-rtx-4070-graphics-at-an-unbeatable-starting-price-of-1629/"><u>Asus Makes History with the First-Ever ROG NUC - Combines Cutting-Edge Core Ultra 9 and Stunning RTX 4070 Graphics at an Unbeatable Starting Price of $1,629!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-the-unavailable-remote-procedure-call-error-in-windows-environments/"><u>Diagnosing and Repairing the Unavailable Remote Procedure Call Error in Windows Environments</u></a></li>
+<li><a href="https://solve-info.techidaily.com/enhanced-user-experience-with-automated-ad-targeting-the-power-of-cookiebot-technology/"><u>Enhanced User Experience with Automated Ad Targeting: The Power of Cookiebot Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-your-current-security-settings-do-not-allow-this-file-to-be-downloaded/"><u>Fixed: Your Current Security Settings Do Not Allow This File to Be Downloaded</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-bluetooth-adapter-missing-from-windows-device-manager/"><u>How To Fix Bluetooth Adapter Missing From Windows Device Manager</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-syncing-and-audio-dropouts-in-your-logitech-wireless-g930/"><u>How To Repair Syncing and Audio Dropouts in Your Logitech Wireless G930</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-using-luts-in-spark-ar-and-download-free-luts/"><u>In 2024, Using LUTs in Spark AR & Download Free LUTs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-visualize-and-create-with-top-7-innovative-animation-suites/"><u>In 2024, Visualize & Create with Top 7 Innovative Animation Suites</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-hosted-network-could-not-start-errors-on-windows-11-devices/"><u>Overcoming 'Hosted Network Could Not Start' Errors on Windows 11 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-update-troubles-heres-how-to-fix-installation-errors-effortlessly/"><u>Steam Update Troubles? Here's How to Fix Installation Errors Effortlessly!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unfixable-fault-devices-cease-functioning/"><u>Unfixable Fault: Devices Cease Functioning</u></a></li>
 </ul></div>
 

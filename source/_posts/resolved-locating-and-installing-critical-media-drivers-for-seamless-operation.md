@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Locating and Installing Critical Media Drivers for Seamless Operation"
-date: 2024-11-21T23:45:07.850Z
-updated: 2024-11-28T00:36:32.788Z
+date: 2024-12-01T17:56:33.247Z
+updated: 2024-12-07T17:34:26.899Z
 tags:
   - win11
   - win10
@@ -37,14 +37,10 @@ the picture was taken by: Article\_86
 2. Choose**Google Chrome** and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/task-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -57,15 +53,15 @@ the picture was taken by: Article\_86
 4. [**Clear Google Chrome cache**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Get an ad-block extension
 
  Because this scam is a fraud page, technically it won’t do severe harm to your computer. The working mechanism of this scam is like an ad. Screening fraudulent users to defraud money. So an ad-block extension can help.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run a virus scan
 
@@ -73,10 +69,6 @@ the picture was taken by: Article\_86
  If you would like to try another antivirus software, here we recommend[CCleaner](https://tools.techidaily.com/drivereasy/download/) . It’s a powerful but easy to use software that protects your computer from viruses and criminal ads. CCleaner can easily remove temporary files, program caches, cookies, logs, etc.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall suspicious add-ons
 
@@ -88,6 +80,10 @@ the picture was taken by: Article\_86
 1. Double click the Google Chrome shortcut.
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Relaunch Chrome to take effect.
 
@@ -108,10 +104,14 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Reset Google Chrome to default settings
@@ -127,12 +127,12 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -171,22 +171,17 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-quitvideo-on-the-go-quickaction-tips/"><u>[New] 2024 Approved QuitVideo On-the-Go QuickAction Tips</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-premier-monitors-top-5-for-ps5-and-xbox-players/"><u>2024 Approved The Premier Monitors Top 5 for PS5 & Xbox Players</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apple-watch-x-discover-expected-retail-price-release-moment-comprehensive-tech-details-and-buzzing-rumors/"><u>Apple Watch X - Discover Expected Retail Price, Release Moment, Comprehensive Tech Details & Buzzing Rumors!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apples-latest-accessory-for-vision-pro-at-just-199-a-surprisingly-snug-travel-case-exposed-by-zdnet/"><u>Apple's Latest Accessory for Vision Pro at Just $199 - A Surprisingly Snug Travel Case Exposed by ZDNet.</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-analysis-of-the-google-wireless-nest-doorbell-with-batteries/"><u>Comprehensive Analysis of the Google Wireless Nest Doorbell with Batteries</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conquer-constant-buffering-essential-fixes-for-stalled-valorant-launch/"><u>Conquer Constant Buffering: Essential Fixes for Stalled Valorant Launch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/defeating-the-device-doesnt-receive-miracast-advanced-techniques-and-updates/"><u>Defeating the 'Device Doesn't Receive Miracast': Advanced Techniques and Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-ways-to-switch-off-the-touchpad-in-windows-10-while-your-external-mouse-is-connected/"><u>Effective Ways to Switch Off the Touchpad in Windows 10 While Your External Mouse Is Connected</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-top-replacement-options-for-microsoft-office-2024-edition/"><u>Exploring Top Replacement Options for Microsoft Office: 2024 Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correctly-detect-dual-monitors/"><u>How to Correctly Detect Dual Monitors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-bluetooth-pairing-expert-advice-for-windows-7-users/"><u>Mastering Bluetooth Pairing: Expert Advice for Windows 7 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205783555-revive-your-touchpad-a-device-mastering-quest/"><u>Revive Your Touchpad: A Device Mastering Quest!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-unregistered-program-components-in-windows-11-a-step-by-step-tutorial/"><u>Solve Unregistered Program Components in Windows 11: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-common-issues-with-non-responsive-at-sign-functionality/"><u>Solving Common Issues with Non-Responsive 'At Sign' Functionality</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-enhance-your-broadcasts-with-manycams-unique-features/"><u>Step-by-Step Tutorial: Enhance Your Broadcasts with ManyCam's Unique Features</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/taking-solo-shots-from-videos-in-windows-10-photos-interface-for-2024/"><u>Taking Solo Shots From Videos in Windows 10 Photos Interface for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726225250654-wmv/"><u>오피엠 상호 운용성: 원폭스, WMV 등 모든 비동기 파일을 원격 공유 가능 - 무료</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-depths-top-10-unknown-features-in-vlc-player/"><u>[New] Exploring the Depths Top 10 Unknown Features in VLC Player</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-expert-tips-on-inserting-captions-into-youtube-videos/"><u>[New] In 2024, Expert Tips on Inserting Captions Into YouTube Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-leading-the-video-conversion-game-with-ipv-strategies/"><u>[New] In 2024, Leading the Video Conversion Game with IPV Strategies</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/implicity-in-downloading-youtube-graphics/"><u>[New] Simplicity in Downloading YouTube Graphics</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-how-to-create-animated-bouncing-text-2-ways/"><u>[Updated] How to Create Animated Bouncing Text [2 Ways]</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unfollow-patterns-on-instagram-explored/"><u>[Updated] In 2024, Unfollow Patterns on Instagram Explored</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-clean-uninterrupted-media-snapshots-for-2024/"><u>Capture Clean, Uninterrupted Media Snapshots for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209048194-no-sign-of-sd-cards-lets-mend-that/"><u>No Sign of SD Cards? Let’s Mend That!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfected-pics-made-easy-the-full-review-of-facetunes-updates/"><u>Perfected Pics Made Easy The Full Review of Facetune's Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-errcachemiss-error-on-your-chrome-browser/"><u>Step-by-Step Fix for ERR_CACHE_MISS Error on Your Chrome Browser</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-enable-and-start-hosted-wi-fi-functionality-in-windows-10/"><u>Step-by-Step Guide to Enable and Start Hosted Wi-Fi Functionality in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-strategies-for-overcoming-the-0xc0000098-code-on-pc/"><u>Ultimate Troubleshooting Strategies for Overcoming the 0xC0000098 Code on PC</u></a></li>
 </ul></div>
 

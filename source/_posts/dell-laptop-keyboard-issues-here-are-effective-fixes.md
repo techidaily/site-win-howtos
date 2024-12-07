@@ -1,7 +1,7 @@
 ---
 title: Dell Laptop Keyboard Issues? Here Are Effective Fixes!
-date: 2024-11-05T04:13:32.656Z
-updated: 2024-11-08T00:31:24.175Z
+date: 2024-11-30T19:02:07.447Z
+updated: 2024-12-07T21:57:52.155Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/72178c55a17f02b5af426d7fce9f5984667c0f559
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -53,6 +46,10 @@ Here’s how to reinstall the keyboard driver:
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -79,10 +76,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -109,24 +103,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -137,15 +122,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -163,13 +149,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -205,24 +184,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-infuse-humor-in-content-simple-text-meme-creation/"><u>[New] Infuse Humor in Content Simple Text Meme Creation</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-peak-of-digital-preservation-elite-storage-guide/"><u>[New] Peak of Digital Preservation Elite Storage Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-selecting-the-ideal-imagery-for-remote-meetings/"><u>[Updated] 2024 Approved Selecting the Ideal Imagery for Remote Meetings</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-channel-transformation-unleash-potential-with-tubebuddy-for-2024/"><u>[Updated] Channel Transformation Unleash Potential with TubeBuddy for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1-understanding-odbc-a-comprehensive-guide/"><u>1. Understanding ODBC: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-jumpstart-your-youtube-venture-top-equipment-choices/"><u>2024 Approved Jumpstart Your YouTube Venture Top Equipment Choices</u></a></li>
-<li><a href="https://discover-data.techidaily.com/ssdwindows-11108/"><u>无需升级：将SSD顺利集成到Windows 11/10/8系统中</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/are-you-looking-for-videoleap-for-macbook-but-cant-seem-to-find-any-solution-here-is-a-detailed-guide-on-how-to-download-and-install-videoleap-for-mac/"><u>Are You Looking for Videoleap for MacBook, but Cant Seem to Find Any Solution? Here Is a Detailed Guide on How to Download and Install Videoleap for Mac</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-connection-security-failures-a-guide-for-mozilla-firefox-users/"><u>Bypassing Connection Security Failures: A Guide for Mozilla Firefox Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effective-driver-updates-for-msi-bravo-laptops/"><u>Effective Driver Updates for MSI Bravo Laptops</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211400634-effective-fixes-for-persistent-boot-loops-in-windows-11-expert-solutions-provided/"><u>Effective Fixes for Persistent Boot Loops in Windows 11 - Expert Solutions Provided!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-minimizing-desktop-window-manager-resource-drain-on-recent-windows-os/"><u>Effective Strategies for Minimizing Desktop Window Manager Resource Drain on Recent Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-on-repairing-d3derr-unavailable-issues-in-your-system/"><u>Expert Tips on Repairing D3DERR Unavailable Issues in Your System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-resolving-malfunction-of-night-light-settings-on-windows-11-devices/"><u>Expert Tips: Resolving Malfunction of Night Light Settings on Windows 11 Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restart-the-stalled-audio-service-on-your-pcs-windows-7-system/"><u>How To Restart the Stalled Audio Service on Your PC's Windows #7 System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-resolve-windows-update-paused-at-zero-percent-troubles/"><u>Quick Solutions: Resolve Windows Update Paused at Zero Percent Troubles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reignite-the-speakers-essential-fixes-for-no-sound-problems-on-your-acer-device/"><u>Reignite the Speakers: Essential Fixes for No-Sound Problems on Your Acer Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-restoring-your-samsung-television-settings/"><u>Step-by-Step Guide: Restoring Your Samsung Television Settings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-0x800f081f-mistake-during-net-framework-35-setup-effective-fixes-and-tips/"><u>Troubleshooting the 0X800F081F Mistake During .NET Framework 3.5 Setup - Effective Fixes and Tips</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-direct-download-destiny-10-online-tool-reviewers-choice/"><u>[New] 2024 Approved Direct Download Destiny #10 Online Tool Reviewers' Choice</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-list-of-recent-unfollowers-in-instagram-for-2024/"><u>[New] List of Recent Unfollowers in Instagram for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-essential-guide-fast-tracking-subtitle-creation-for-your-fb-posts/"><u>[New] The Essential Guide Fast-Tracking Subtitle Creation for Your FB Posts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-brightening-up-your-youtube-pixels/"><u>[Updated] 2024 Approved Brightening Up Your YouTube Pixels</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726222108350-ttaflacmovavi/"><u>网上免费转换TTA到FLAC：使用Movavi音频转换工具</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/change-your-mkv-videos-to-mp4-for-free-with-movavis-online-conversion-tool/"><u>Change Your MKV Videos to MP4 for Free with Movavi's Online Conversion Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-gratuita-de-archivos-flv-a-formato-wma-con-movavi-online-guia-paso-a-paso/"><u>Conversión Gratuita De Archivos FLV a Formato WMA Con Movavi Online - Guía Paso a Paso</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-videos-without-hassle-moveavis-free-mpeg-wmv-and-avi-online-conversion-services/"><u>Convert Videos Without Hassle - Moveavi's Free MPEG, WMV and AVI Online Conversion Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decouvrez-le-secret-des-stories-instagram-le-manifeste-2024-du-triomphe-video-sociaux/"><u>Découvrez Le Secret Des Stories Instagram - Le Manifeste 2024 Du Triomphe Vidéo Sociaux</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/descubra-como-convertir-su-contenido-mxf-a-diferentes-tipos-de-archivo-sin-costes-usando-webs-de-conversion-gratis/"><u>Descubra Como Convertir Su Contenido MXF a Diferentes Tipos De Archivo Sin Costes Usando Webs De Conversión Gratis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/scaling-up-on-igtv-through-powerful-hash-tagging/"><u>Scaling Up on IGTV Through Powerful Hash Tagging</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/soothing-soundscapes-recommended-voice-experts/"><u>Soothing Soundscapes Recommended Voice Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-15-reproductores-de-audio-mas-eficaces-para-apple-movavi/"><u>Top 15 Reproductores De Audio Más Eficaces Para Apple - Movavi</u></a></li>
 </ul></div>
 

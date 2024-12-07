@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips to Unfreeze and Restart Your Laptop Efficiently
-date: 2024-11-25T13:14:23.795Z
-updated: 2024-11-28T09:19:16.616Z
+date: 2024-12-03T20:51:53.342Z
+updated: 2024-12-07T18:32:29.355Z
 tags:
   - win11
   - win10
@@ -43,10 +43,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
@@ -56,6 +52,10 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -72,7 +72,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
@@ -80,7 +80,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -90,7 +90,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -110,10 +110,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**accessibility** **keyboard** **settings** . Then click **Accessibility** **keyboard** **settings** when it pops up as the Best match.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
@@ -145,6 +141,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -184,17 +184,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-recordcast-review/"><u>[Updated] 2024 Approved RecordCast Review</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-next-gen-broadcast-tools-outperforming-streamlabs-obs-for-2024/"><u>[Updated] Next-Gen Broadcast Tools Outperforming StreamLabs OBS for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-best-youtube-live-streaming-software-and-hardware-you-should-know/"><u>2024 Approved Best YouTube Live Streaming Software and Hardware You Should Know</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-your-surface-pen-back-on-track-a-fix-it-guide/"><u>Getting Your Surface Pen Back on Track: A Fix-It Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/into-the-abyss-and-beyond-shadowbearer-vs-daybeam/"><u>Into the Abyss and Beyond Shadowbearer Vs Daybeam</u></a></li>
-<li><a href="https://games-able.techidaily.com/ios-18-unleashed-at-apples-wwdc-event-the-hidden-delight-that-outshines-ai/"><u>IOS 18 Unleashed at Apple's WWDC Event – The Hidden Delight That Outshines AI!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/printer-setup-solutions-deciphering-and-addressing-the-error-code-30-dilemma/"><u>Printer Setup Solutions: Deciphering and Addressing the 'Error Code -30' Dilemma</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/secure-your-childs-next-big-toy-grab-the-amazon-kids-fire-tablet-at-just-90-in-our-exclusive-offer/"><u>Secure Your Child's Next Big Toy: Grab the Amazon Kids Fire Tablet at Just $90 in Our Exclusive Offer!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-the-persistent-windows-10-update-failure-code-0x80070541/"><u>Troubleshooting and Fixing the Persistent 'Windows 10 Update Failure: Code 0X80070541'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-techniques-for-when-your-laptops-pointing-device-freezes-up/"><u>Troubleshooting Techniques for When Your Laptop's Pointing Device Freezes Up</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolve-windows-10s-0x80072efd-error-efficiently/"><u>Troubleshooting Tips: Resolve Windows 10'S 0X80072EFD Error Efficiently</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-high-def-capture-top-10-web-based-apps/"><u>[New] 2024 Approved High-Def Capture Top 10 Web-Based Apps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-vivacut-review-unpacking-the-latest-editing-advancements-for-2024/"><u>[New] VivaCut Review Unpacking the Latest Editing Advancements for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-easy-way-to-verify-and-edit-your-age-on-tiktok-for-2024/"><u>[Updated] The Easy Way to Verify and Edit Your Age on TikTok for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capturing-moments-essential-cameras-reviewed-for-2024/"><u>Capturing Moments Essential Cameras Reviewed for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solution-for-the-failed-to-create-d3d-device-error-on-pc-systems/"><u>Effective Solution for the 'Failed to Create D3D Device' Error on PC Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/from-zero-to-hero-launching-without-issues/"><u>From Zero to Hero: Launching without Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-network-error-code-0x800704cf-ultimate-solution/"><u>How to Fix Windows Network Error Code 0X800704CF – Ultimate Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-crashes-in-total-war-rome-remastered-for-smooth-gaming-experience/"><u>How to Resolve Crashes in Total War: Rome Remastered for Smooth Gaming Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-how-to-schedule-meetings-on-zoom/"><u>In 2024, How to Schedule Meetings on Zoom?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725284723981-pc/"><u>PCとスマートフォンで動画サイズ調整ガイド: 最適なソフトウェア、アプリ、そしてオンラインツール</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-smooth-migration-of-windows-server/"><u>Step-by-Step Guide: Smooth Migration of Windows Server</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-inconsistent-copy-and-paste-on-windows-10/"><u>Tackling Inconsistent Copy & Paste on Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722992341431-trouble-getting-frontiers-of-pandora-running-this-article-has-the-answers-you-need/"><u>Trouble Getting 'Frontiers of Pandora' Running? This Article Has the Answers You Need</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-undetected-wi-fi-on-your-windows-11-device/"><u>Troubleshooting Guide: Fixing Undetected Wi-Fi on Your Windows 11 Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/valorant-performance-fix-enforce-system-reset/"><u>Valorant Performance Fix: Enforce System Reset</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Fix Unresponsive Keys on a Keyboard"
-date: 2024-11-03T05:14:06.048Z
-updated: 2024-11-07T22:52:40.943Z
+date: 2024-11-30T17:54:50.876Z
+updated: 2024-12-07T20:07:13.113Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 **2)** Check the**battery status** of your controller: Make sure the **batteries are not running out of power** . If your controller is running low on power, charge or replace the batteries and see if this resolves the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Re-sync your controller
 
  If you are using a**wireless** controller, you can try re-syncing your Xbox One controller to the console to fix connection issues.
@@ -68,13 +61,6 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
  Check to see your controller can connect to the console or not. You can unplug the cable after the whole process.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 3: Power cycle your console
 
  Power cycling your console means fully rebooting the console. It can fix some corruption issues in your console as well as your controller connection. To power cycle the console:
@@ -84,15 +70,16 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f2bbba00f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Press the**Xbox button** to turn on your console.
 
 **3)** Check and see if your controller can connect to the console.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Update your controller software
 
@@ -106,16 +93,13 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420064c2629.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Select**Devices & accessories** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942011734551.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)**  Select the controller you are using.
 
@@ -125,9 +109,17 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594201a568b3e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)**  Select**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420222745a9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)**  Wait for the console to complete the updating process. After that, test your controller and see if the not syncing problem is fixed.
 
@@ -150,24 +142,14 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-the-art-of-loop-creating-impactful-content-for-instagram/"><u>[Updated] 2024 Approved Mastering the Art of Loop Creating Impactful Content for Instagram</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-narrative-enhancements-the-process-of-infusing-text-into-your-video-content/"><u>[Updated] Narrative Enhancements The Process of Infusing Text Into Your Video Content</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-social-simulacrum-sketches-designing-distorted-digital-selves/"><u>[Updated] Social Simulacrum Sketches Designing Distorted Digital Selves</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cortana-stuck-steps-to-restore-the-ai-personal-assistant-on-your-pcphone/"><u>Cortana Stuck? Steps to Restore the AI Personal Assistant on Your PC/Phone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dragon-ball-fighterz-connectivity-problem-a-step-by-step-network-initialization-solution/"><u>Dragon Ball FighterZ Connectivity Problem: A Step-by-Step Network Initialization Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-repairing-a-non-responsive-microphone-in-your-corsair-hs5-50-headset/"><u>Expert Tips for Repairing a Non-Responsive Microphone in Your Corsair HS5 50 Headset</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixes-for-non-responsive-custom-setting-options/"><u>Fixes for Non-Responsive Custom Setting Options</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206895787-how-to-fix-a-frozen-windows-10-screen-expert-advice-needed/"><u>How to Fix a Frozen Windows 10 Screen - Expert Advice Needed</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-honor-magic-5-lite-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Honor Magic 5 Lite Phone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/instagram-live-without-a-trace-the-unseen-spectators-playbook-for-2024/"><u>Instagram Live without a Trace The Unseen Spectator's Playbook for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-the-future-of-technology-with-toms-expertise-in-computer-hardware/"><u>Navigate the Future of Technology with Tom's Expertise in Computer Hardware</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/october-launch-setback-for-new-ai-capabilities-in-apple-devices-sources-confirm-delay/"><u>October Launch Setback for New AI Capabilities in Apple Devices - Sources Confirm Delay</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-file-not-found-problems-for-faster-pc-performance/"><u>Resolve 'File Not Found' Problems for Faster PC Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-your-huion-pen-5-rapid-fixes-for-immediate-usage/"><u>Reviving Your Huion Pen: 5 Rapid Fixes for Immediate Usage</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-restoring-integrity-of-windows-10-and-11-core-components/"><u>Step-by-Step Guide: Restoring Integrity of Windows 10 and 11 Core Components</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-activating-windows-hello-biometric-login-on-windows-11-machines/"><u>Step-by-Step Solution for Activating Windows Hello Biometric Login on Windows 11 Machines</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/white-screen-woes-a-comprehensive-guide-to-restoring-your-laptop-display/"><u>White Screen Woes? A Comprehensive Guide to Restoring Your Laptop Display</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-top-strategies-unleashed-dominating-the-tiktok-marketing-landscape/"><u>[New] Top Strategies Unleashed Dominating the TikTok Marketing Landscape</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cambia-tus-archivos-de-imagen-jpg-gratuitamente-a-formato-jpeg-en-linea-usando-movavi/"><u>Cambia Tus Archivos De Imagen JPG Gratuitamente a Formato JPEG en Línea Usando Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/descubre-el-proceso-simple-de-transformar-tu-video-en-disco-optico-duradero-con-la-herramienta-gratis-de-movavi/"><u>Descubre El Proceso Simple De Transformar Tu Vídeo en Disco Óptico Duradero Con La Herramienta Gratis De Movavi</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-honor-magic-v2-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Honor Magic V2 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/from-cr2-to-windows-jpeg-a-compreenased-conversion-guide/"><u>From CR2 to Windows JPEG: A Compreenased Conversion Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-converter-ogg-para-mov-online-com-o-software-de-traducao-da-movavi/"><u>Gratis Converter OGG Para MOV Online Com O Software De Tradução Da Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guida-rapido-e-facile-come-convertire-gratuitamente-i-filmati-mxf-in-formato-mp4-per-sistemi-macwindows/"><u>Guida Rapido E Facile: Come Convertire Gratuitamente I Filmati MXF in Formato MP4 per Sistemi Mac/Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-htc-u23-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-todays-drone-usage-tomorrows-revolutionary-pathways/"><u>In 2024, Today's Drone Usage, Tomorrow's Revolutionary Pathways</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Repair Your Laptop's Trackpad When It Fails to Work with Windows OS
-date: 2024-11-23T08:00:24.526Z
-updated: 2024-11-28T06:41:53.770Z
+date: 2024-12-06T21:02:53.385Z
+updated: 2024-12-07T22:04:23.373Z
 tags:
   - win11
   - win10
@@ -37,15 +37,15 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 1: Unplug the keyboard and the mouse then plug it back**
 
  To fix the issue, you can try to unplug and replug the keyboard and the mouse, then Windows will reinstall the driver automatically, and the keyboard and mouse will reconnect.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Solution 2: Disconnect the power cable for a while**
 
@@ -62,10 +62,6 @@ Follow the steps below:
  2) When the Advanced Boot Options screen displays, use the arrow key to select**Disable Driver Signature Enforcement** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8de9b459b5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Press the **Enter** key on your keyboard then Windows will restart.
 
@@ -86,7 +82,7 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e209798c0.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Expand the category “Universal Serial Bus controllers” and locate the device USB 3.0 eXtensible Host Controller (The name could be different in your case. Just locate a USB device). If you can’t find the USB device under this category, expand the category of Other devices. You may find the device with a yellow mark there.
@@ -94,7 +90,7 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e2b99785c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) On your keyboard, press the **Del** key (It could be**Delete** on some keyboards).
@@ -119,6 +115,10 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5c7ea0bb4aa.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -126,10 +126,6 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5c7eb6058aa.jpg)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Solution 5: Disable the Third Party services**
 
@@ -144,12 +140,16 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8db9a4f349.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Go to the **Services** tab. Check the box next to**Hide all Microsoft services** then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8dc3401983.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click the **OK** button.
 
@@ -161,6 +161,10 @@ Follow the steps below:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 6: Enable Legacy USB Support in BIOS**
 
  The issue would occur if Legacy USB Support is disabled in BIOS. So enter BIOS (basic input/output system ) and make sure the Legacy USB Support is enabled. The key command to enter BIOS and get to the Legacy USB port depends on the PC brand that you are using. Refer steps below to get to the Legacy USB port.
@@ -170,10 +174,6 @@ Follow the steps below:
  2) In BIOS, use the specific key to navigate to**Advanced** (You can see the meaning of the key command at the bottom of the screen.).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8d3383654c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Find Legacy USB Support or a similar USB option. If it is**Disabled** , enable it. Exit after saving the changes.
 
@@ -200,18 +200,17 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-creators-ultimate-playlist-the-best-free-sound-sources/"><u>[Updated] In 2024, YouTube Creators' Ultimate Playlist The Best Free Sound Sources</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leading-you-to-8-superior-zero-cost-3d-videos-solutions/"><u>[Updated] Leading You to 8 Superior, Zero-Cost 3D Videos Solutions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-speed-edit-photos-in-windows-11/"><u>[Updated] Unlocking Speed Edit Photos in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversione-free-online-dei-file-mod-a-wma-con-movavi-ottenere-la-qualita-senza-costo/"><u>Conversione Free Online Dei File MOD a WMA Con Movavi - Ottenere La Qualità Senza Costo</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/determined-no-driver-affirms-opengl-use/"><u>Determined: No Driver Affirms OpenGL Use</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-asus-rog-phone-8-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Asus ROG Phone 8 Pro Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-connection-unsecured-warning-in-firefox-easy-solutions/"><u>Fixing 'Connection Unsecured' Warning in Firefox: Easy Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-honor-magic-6-pro-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Honor Magic 6 Pro.</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-fix-of-error-0x8024401c-on-windows-update-for-users-of-windows-10-and-11-systems/"><u>Master the Fix of Error 0X8024401c on Windows Update for Users of Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-overcoming-issues-with-uninstalling-windows-10-updates/"><u>Solution Guide: Overcoming Issues with Uninstalling Windows 10 Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-your-laptops-endless-boot-loop-problem/"><u>Solving Your Laptop's Endless Boot Loop Problem</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/0-thumbnail-fonts-for-impressive-video-credits-for-2024/"><u>Top 20 Thumbnail Fonts for Impressive Video Credits for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-opt-out-of-autoplayed-podcast-selection-by-spotify-for-2024/"><u>[New] Opt-Out of Autoplayed Podcast Selection by Spotify for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-must-have-features-in-drone-gimbals/"><u>[New] Top 10 Must-Have Features in Drone Gimbals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-problems-heres-how-to-make-it-functional-once-more/"><u>Corsair Keyboard Problems? Here's How to Make It Functional Once More</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/demystifying-and-solving-the-persistent-black-monitor-issue-on-windows-11-computers/"><u>Demystifying and Solving the Persistent Black Monitor Issue on Windows 11 Computers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/effective-strategies-to-craft-influential-patient-stories-on-film-for-2024/"><u>Effective Strategies to Craft Influential Patient Stories on Film for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/effiziente-methoden-zum-wiederherstellen-von-windowsold-professionelle-datenwiedergewinnung/"><u>Effiziente Methoden Zum Wiederherstellen Von 'Windows.old' - Professionelle Datenwiedergewinnung</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-asus-rog-phone-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-innovative-approaches-to-capturing-moments-with-zooms-snaps/"><u>In 2024, Innovative Approaches to Capturing Moments with Zoom's Snaps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-overcoming-servers-not-available-in-destiny-2/"><u>Step-by-Step Solutions: Overcoming 'Servers Not Available' In Destiny 2</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-pairing-microsoft-wireless-dock-on-a-windows-10-system-solutions-and-tips/"><u>Successfully Pairing Microsoft Wireless Dock on a Windows 10 System: Solutions and Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-notetaking-the-obsidian-method/"><u>Transforming Notetaking - The Obsidian Method</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-techniques-to-eliminate-window-10s-flickering-display-dilemma/"><u>Troubleshooting Techniques to Eliminate Window 10'S Flickering Display Dilemma</u></a></li>
 </ul></div>
 

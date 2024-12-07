@@ -1,7 +1,7 @@
 ---
 title: "Resetting 101: Expert Tips for Restoring Functionality to Your Unresponsive Keyboard"
-date: 2024-11-01T01:01:07.658Z
-updated: 2024-11-08T06:38:29.419Z
+date: 2024-12-05T16:28:07.179Z
+updated: 2024-12-07T19:48:10.610Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/6e34d9fb9219c1b14b356c1db6a9498a7ed2cc88e
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -43,16 +47,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -61,16 +62,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -96,13 +88,6 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -141,13 +126,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -156,15 +134,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
@@ -205,20 +184,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-comprehensive-guide-to-editing-tiktok-account-numbers/"><u>[New] In 2024, The Comprehensive Guide to Editing TikTok Account Numbers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-how-to-vlog-confidently-like-popular-youtubers-in-2024/"><u>[Updated] How to Vlog Confidently Like Popular YouTubers, In 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-guide-top-screen-capture-apps-analysis/"><u>[Updated] Ultimate Guide Top Screen Capture Apps Analysis</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-best-online-destinations-for-sparkling-and-metallic-letters/"><u>2024 Approved Best Online Destinations for Sparkling and Metallic Letters</u></a></li>
-<li><a href="https://extra-information.techidaily.com/acoustic-ambiance-in-photo-videos-for-2024/"><u>Acoustic Ambiance in Photo Videos for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-silent-issue-restoring-audio-on-an-acer-notebook/"><u>Fixing the Silent Issue: Restoring Audio on an Acer Notebook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-spacebar-functionality-on-a-windows-tenth-system/"><u>How to Restore Spacebar Functionality on a Windows Tenth System</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-infinix-smart-8-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Infinix Smart 8 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro Max without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reveal-hidden-touchpad-with-simple-steps/"><u>Reveal Hidden Touchpad with Simple Steps!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-step-by-step-how-to-correct-call-of-duty-ww2-error-4220/"><u>Troubleshooting Step-by-Step: How to Correct Call of Duty WW2 Error 4220</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/uwb-uses-very-short-pulses-over-a-broad-frequency-range-for-precise-timing-and-localization-with-minimal-detectability/"><u>UWB Uses Very Short Pulses over a Broad Frequency Range for Precise Timing and Localization with Minimal Detectability.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-7-wont-respond-to-your-clicks-fix-your-broken-mouse-and-keyboard-connections-now/"><u>Windows 7 Won't Respond to Your Clicks? Fix Your Broken Mouse and Keyboard Connections Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/yac520-yamahaaturbosound-ii-sound-module-based-on-the-ymf758ymu756-dsp-plus-midi-synthesizer-plus-codec-and-128-mb-of-spiram-for-sample-storage-instead-of-r19/"><u>YAC520 - Yamaha'aturboSound II Sound Module Based on the YMF758/YMU756 (DSP + MIDI Synthesizer + Codec) and 128 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tep-into-fantasy-youtubes-top-10-vr-gems-for-2024/"><u>[New] Step Into Fantasy Youtube's Top 10 VR Gems for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726220362672-m1vmp4-movavi/"><u>網路直通無限: M1V到MP4自由转换 - 使用 Movavi 转换器</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversione-gratuita-wmv-a-wav-online-il-guida-completa-di-movie-converter/"><u>Conversione Gratuita WMV a WAV Online: Il Guida Completa Di Movie Converter</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/creative-camera-adventures-for-children-with-preloved-mobile-phones/"><u>Creative Camera Adventures for Children with Preloved Mobile Phones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-add-crop-and-edit-music-to-canva-video-for-2024/"><u>How To Add, Crop And Edit Music To Canva Video for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-2-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Lava Blaze 2 5G Bootloader Easily</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-introducing-efficient-speech-to-text-utilization-in-powerpoint/"><u>In 2024, Introducing Efficient Speech-to-Text Utilization in PowerPoint</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-detect-clapping-impact-soundscape-for-2024/"><u>New Detect Clapping Impact Soundscape for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/techniques-faciles-pour-convertir-du-contenu-audio-modmidi-en-format-wav-sans-frais-conseils-et-astuces-de-movavi/"><u>Techniques Faciles Pour Convertir Du Contenu Audio MOD/MIDI en Format WAV Sans Frais, Conseils Et Astuces De Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformar-archivos-mov-en-mkv-con-facilidad-y-sin-costes-mediante-conversor-gratuito-online-movavi/"><u>Transformar Archivos MOV en MKV Con Facilidad Y Sin Costes Mediante Conversor Gratuito Online - MOVavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/zoom-v-podstate-nacrtani-movavi-pohlceni-s-netecnou-hory-a-nekolika-sekund/"><u>Zoom v Podstatě: Načrtání Movavi Pohlcení S Netečnou Hory a Několika Sekund</u></a></li>
 </ul></div>
 

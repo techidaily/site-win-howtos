@@ -1,7 +1,7 @@
 ---
 title: Complete Guide to Solving PUBG Buildings Not Loading Problems
-date: 2024-11-03T08:50:33.029Z
-updated: 2024-11-07T17:52:45.783Z
+date: 2024-12-03T16:45:45.221Z
+updated: 2024-12-07T21:12:33.493Z
 tags:
   - win11
   - win10
@@ -33,19 +33,6 @@ Before start using the methods, you should check your connection first.
 5. [Use Microsoft Store troubleshoot](#m4)
 6. [Reset Microsoft Store from settings](#m5)
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1\. Run Fortect to repair error
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is a powerful tool to repair and rebuild Windows, this program specializes in Windows repair which makes it becomes the easiest way to fix Windows errors. It is tailored to your specific system and is working in a private and automatic way.
@@ -57,31 +44,10 @@ Before start using the methods, you should check your connection first.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Correct your time and location
 
@@ -92,14 +58,19 @@ Before start using the methods, you should check your connection first.
 2. Open the**Set time automatically** button.![](https://images.drivereasy.com/wp-content/uploads/2019/06/time.jpg)
 3. Check your time and date.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Region** and check your region is corrected.![](https://images.drivereasy.com/wp-content/uploads/2019/06/region-1.jpg)
 5. Open the Microsoft Store to check.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Use the WSReset tool
@@ -111,17 +82,7 @@ Before start using the methods, you should check your connection first.
 3. There will be a command window pop-up. Wait for it to close by itself, then the Microsoft Store will be launched automatically.![](https://images.drivereasy.com/wp-content/uploads/2019/06/wsreset.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Disable the Proxy connection
@@ -131,8 +92,16 @@ Before start using the methods, you should check your connection first.
 1. Type “internet options” in the search bar and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/ip0.jpg)
 2. In the Connections tab, click**LAN settings** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/ip.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. If you see the box under the**Proxy server** is ticked, uncheck**Use a proxy server for your LAN** then click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/ip1.jpg)
 4. Run the Microsoft Store and check the problem is solved or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Use Microsoft Store troubleshoot
 
@@ -147,25 +116,27 @@ Before start using the methods, you should check your connection first.
 
 5. Run the Microsoft Store to check the problem is solved or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 6: Reset Microsoft Store from settings
 
  If the above settings can’t fix the problem, you can reset the Microsoft Store to default to solve the problem.
 
 1. Press the**Windows key** +**I** together and click**Apps** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/app.jpg)
 2. Scroll down to find Microsoft Store.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click the**Microsoft Store** and then click**Advanced options** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/app1.jpg)
 4. Scroll down and click**Reset** . Click**Reset** again in the pop-up window.  
 
 **Note** : This step will permanently delete the app’s data including your sign-in details.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/app2.jpg)
 5. Run the Microsoft Store to check whether the problem is solved or not.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hope this article will meet your needs. If you have any questions, please leave comments below, we’ll try our best to help.
 
@@ -186,21 +157,17 @@ Before start using the methods, you should check your connection first.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-power-play-essential-10-motivational-films/"><u>[New] Power Play Essential 10 Motivational Films</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-beat-the-sickening-of-virtual-reality-for-2024/"><u>[Updated] Beat the Sickening of Virtual Reality for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-premier-ios-gaming-experience-leading-emulators-for-psp-enthusiasts/"><u>[Updated] In 2024, Premier iOS Gaming Experience Leading Emulators for PSP Enthusiasts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/archive-exploration-for-social-media-insight/"><u>Archive Exploration for Social Media Insight</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elite-face-alteration-apps-iphoneios-devices/"><u>Elite Face Alteration Apps, iPhone/iOS Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-free-windows-experience-eliminating-entry-point-not-found-issues/"><u>Error-Free Windows Experience: Eliminating Entry Point Not Found Issues</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-resolving-the-mystery-of-missing-shorts-thumbnails-on-youtube/"><u>In 2024, Resolving the Mystery of Missing Shorts Thumbnails on YouTube</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-windows-error-resolution-eliminating-the-0xc0000098-bug-effectively-and-efficiently/"><u>Mastering Windows Error Resolution: Eliminating the 0xC0000098 Bug Effectively and Efficiently</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-how-to-add-and-custom-slack-emoji-wondershare-filmora-for-2024/"><u>New How to Add and Custom Slack Emoji-Wondershare Filmora for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-shockwave-flash-crashes-in-google-chrome/"><u>Resolving Shockwave Flash Crashes in Google Chrome</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/share-tunes-mp3-from-fb/"><u>Share Tunes MP3 From FB</u></a></li>
-<li><a href="https://article-helps.techidaily.com/step-by-step-podcast-rss-feeds-a-practical-approach/"><u>Step-by-Step Podcast RSS Feeds A Practical Approach</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-the-notorious-windows-error-code-0x80n704cf/"><u>Troubleshooting and Fixing the Notorious Windows Error Code 0X80n704CF</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-dxgkrnl-critical-failures-for-smooth-video-playback-on-windows-systems/"><u>Troubleshooting Dxgkrnl Critical Failures for Smooth Video Playback on Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-the-sudden-halt-of-vpn-hamachi-services/"><u>Troubleshooting Guide: Resolving the Sudden Halt of VPN Hamachi Services</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209749523-why-isnt-my-usb-mouse-working-expert-tips-for-quick-laptop-fixes/"><u>Why Isn't My USB Mouse Working? Expert Tips for Quick Laptop Fixes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-securing-smooth-airdrop-transfers-across-various-apple-devices/"><u>[New] In 2024, Securing Smooth AirDrop Transfers Across Various Apple Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimizing-media-experience-best-windows-phone-videos/"><u>[New] Optimizing Media Experience Best Windows Phone Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-definitive-guide-to-iptv-stream-preservation/"><u>[New] The Definitive Guide to IPTV Stream Preservation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-ultimate-selection-top-hdr-camera-picks/"><u>[Updated] 2024 Approved Ultimate Selection Top HDR Camera Picks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-convert-flv-files-to-mp4-format-with-movavi/"><u>Free Online Converter: Convert FLV Files to MP4 Format with Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/get-your-favorite-easter-designs-freebie-wallpapers-with-adorable-bunnies-and-colorful-eggs-for-all-platforms/"><u>Get Your Favorite Easter Designs: Freebie Wallpapers with Adorable Bunnies & Colorful Eggs for All Platforms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leveraging-tools-to-extract-mp3s-from-popular-video-platforms-like-pinterest-for-2024/"><u>Leveraging Tools to Extract MP3s From Popular Video Platforms Like Pinterest for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-htc-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on HTC , is it possible?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/step-by-step-guide-to-infectious-internet-memes-gifs/"><u>Step-by-Step Guide to Infectious Internet Memes (GIFs)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trier-un-fichier-gif-au-format-png-gratuitement-conversion-en-ligne-rapide-avec-movavi/"><u>Trier Un Fichier GIF Au Format PNG Gratuitement - Conversion en Ligne Rapide Avec Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/verknopt-harmonieuze-liedjes-vergelst-met-de-movavi-mp3-linkmaker/"><u>Verknopt Harmonieuze Liedjes Vergelst Met De Movavi MP3-Linkmaker</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/3gpp-3gp-movavi/"><u>무료 원조 - 3GPP 3GP 되착포를 위한 Movavi의 가상 서비스</u></a></li>
 </ul></div>
 

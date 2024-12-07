@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Chrome Plugin Failures: A Guide for Windows 11 Operating System"
-date: 2024-11-24T04:00:59.631Z
-updated: 2024-11-28T02:05:24.550Z
+date: 2024-12-02T16:31:04.009Z
+updated: 2024-12-07T17:21:17.067Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 fixes for C**omputer Won’t Shut Down**
 
@@ -51,10 +55,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
@@ -68,27 +68,27 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -99,13 +99,17 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click**Update & Security** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -122,10 +126,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
@@ -153,19 +153,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-guide-hashtags-that-work-in-gaming-vlogs/"><u>[Updated] The Ultimate Guide Hashtags That Work in Gaming Vlogs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-guide-to-overcome-initializing-issues-in-destiny-2/"><u>Complete Guide to Overcome Initializing Issues in Destiny 2</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-troubleshooting-for-broken-laptop-keypads-and-reattaching-keys/"><u>DIY Troubleshooting for Broken Laptop Keypads & Reattaching Keys</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-honor-play-8t-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Honor Play 8T Quickly? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-werfaultexe-malfunction-a-step-by-step-guide/"><u>How to Fix Windows werFault.exe Malfunction: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-fix-the-computer-doesnt-compatible-with-windows-11-error/"><u>How to Fix: The Computer Doesn't Compatible with Windows 11 Error</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-htc-u23-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-the-skies-with-ease-an-insightful-review-of-the-dji-mavic-3-imaging-capabilities/"><u>Navigating the Skies with Ease: An Insightful Review of the DJI Mavic 3 Imaging Capabilities</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-cannot-start-hardware-device-error-due-to-damaged-registry-configuration-code-19/"><u>Resolving 'Windows 11 Cannot Start Hardware Device' Error Due to Damaged Registry Configuration - Code 19</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/safeguarding-your-digital-profile-in-custom-gpt-uses/"><u>Safeguarding Your Digital Profile in Custom GPT Uses</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-innovative-uses-of-chatgpt-as-a-coding-companion/"><u>Top 6 Innovative Uses of ChatGPT as a Coding Companion</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unstick-your-computer-during-windows-installation-professional-fixes-and-tips/"><u>Unstick Your Computer During Windows Installation: Professional Fixes and Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-svchostexes-heavy-load-on-windows-11-solution/"><u>Winning the Battle Against Svchost.exe's Heavy Load on Windows 11 [Solution]</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-slide-show-collections-10-places-to-download-high-quality-designs/"><u>[New] 2024 Approved Top Slide Show Collections 10 Places to Download High-Quality Designs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-lead-the-pack-identifying-the-best-facebook-timetabling-software/"><u>[New] In 2024, Lead the Pack Identifying the Best Facebook Timetabling Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-amplify-your-online-influence-with-these-best-5-youtube-marketing-techniques/"><u>[Updated] 2024 Approved Amplify Your Online Influence with These Best 5 YouTube Marketing Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028486231-youtube2/"><u>「YouTubeで聴いた曲をダウンロードするシンプル2コツ」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726027955099-fc2/"><u>無料で安全に保存! FC2動画のダウンロードテクニックを学ぶ</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/fitbit-versa-lite-assessed-premium-fitness-features-at-an-economical-price-point/"><u>Fitbit Versa Lite Assessed: Premium Fitness Features at an Economical Price Point</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-galaxy-a05s-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Galaxy A05s?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-12-pro-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from 12 Pro 5G?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-craft-your-own-story-the-top-5-instagram-tips-for-aspiring-social-stars/"><u>In 2024, Craft Your Own Story The Top 5 Instagram Tips for Aspiring Social Stars</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-maximizing-engagement-avoiding-common-youtube-thumbnail-errors/"><u>In 2024, Maximizing Engagement Avoiding Common YouTube Thumbnail Errors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-corporate-communication-with-gpt/"><u>Mastering Corporate Communication with GPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-eliminate-lag-in-vlc-subtitles-seamlessly/"><u>Troubleshooting Steps to Eliminate Lag in VLC Subtitles Seamlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-list-of-myspace-video-extractors-find-the-best-free-tools-for-mp4mp3-conversion/"><u>Ultimate List of MySpace Video Extractors: Find the Best FREE Tools for MP4/MP3 Conversion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-hd-video-conversion-with-factory-pros-exclusive-one-week-promo-now-closed/"><u>Unlock HD Video Conversion with Factory Pro's Exclusive One-Week Promo – Now Closed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11vob/"><u>Windows 11のVOBファイルプレーヤーとして機能する手順</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028621251-wmamp38/"><u>WMAからMP3への無料変換ツールトップ8推薦 - 優れた品質</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028256705-pc/"><u>ビデオ会議を撮影するための手っ取り早いPCとスマートフォン向けガイド</u></a></li>
 </ul></div>
 

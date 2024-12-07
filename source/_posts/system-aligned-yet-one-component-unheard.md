@@ -1,7 +1,7 @@
 ---
 title: System Aligned, Yet One Component Unheard
-date: 2024-11-27T14:38:25.659Z
-updated: 2024-11-27T21:55:37.476Z
+date: 2024-11-30T19:55:54.543Z
+updated: 2024-12-07T20:12:08.781Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are the solutions you can try. You shouldn’t have to do every single one. Just try each one in turn until everything’s working again.
@@ -59,6 +55,10 @@ You should first uninstall the printer from your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae155dae8d27.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)**Confirm** to delete the printer.
 
 4) Restart your computer.
@@ -71,12 +71,16 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae155061b9aa.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Add a printer** in the menu bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16c4e6d68c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Wait for your Windows to search your printer.
@@ -85,13 +89,13 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16cce058a8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Your computer will automatically connect to your printer and install it in your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16d03d720a.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Try to have a test print to see if your error disappears.
 
@@ -103,13 +107,13 @@ Now you should reinstall your printer to your computer.
 
  1) On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16dab47de2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Double click**Printers** to expand it, and right click on your printer (it may show as**Unknown device** ), and select**Uninstall device** .
 
@@ -122,10 +126,6 @@ Now you should reinstall your printer to your computer.
  5) After uninstalling, restart your computer and Windows will reinstall the printer driver for you.
 
  Try your printer again and the error should be removed now. If the error still persists, you can try[Method 3](https://tools.techidaily.com/drivereasy/download/) to update your printer driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3\. Update your printer driver
 
@@ -148,7 +148,7 @@ Now you should reinstall your printer to your computer.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd74d18191.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**   button next to the flagged printer device to automatically download the latest driver (you can do this with the **FREE**   version), then install it in your computer.
@@ -178,24 +178,15 @@ Now you should reinstall your printer to your computer.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-instagram-reel-formula-for-unrivaled-fame/"><u>[New] 2024 Approved The Instagram Reel Formula for Unrivaled Fame</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-high-speed-visual-snapshot-and-voice-commentary-feature/"><u>[Updated] High-Speed Visual Snapshot & Voice Commentary Feature</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtube-rights-vs-cc-licensing-for-2024/"><u>[Updated] YouTube Rights Vs. CC Licensing for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-alluring-phrase-formulation-device/"><u>2024 Approved Alluring Phrase Formulation Device</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-efficient-strategies-to-document-your-google-meeting-sessions/"><u>2024 Approved Efficient Strategies to Document Your Google Meeting Sessions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-s17t-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo S17t Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/classroom-tech-essentials-how-to-choose-a-school-appropriate-computer/"><u>Classroom Tech Essentials: How to Choose a School-Appropriate Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-guide-solve-windows-network-problem-0x80e704cf-fixed/"><u>Complete Guide: Solve Windows Network Problem - 0X80e704CF Fixed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/end-the-flicker-frustration-solutions-for-stabilizing-windows-11-screens/"><u>End the Flicker Frustration: Solutions for Stabilizing Windows 11 Screens</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-laptops-non-charging-issue-a-fast-simple-solution/"><u>Fix Your Laptop's Non-Charging Issue: A Fast, Simple Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-a-missing-or-invisible-cursor-problem-on-your-windows-10-pc/"><u>How to Resolve a Missing or Invisible Cursor Problem on Your Windows 10 PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205397157-how-to-resolve-common-issues-apex-legends-cheating-protection-bugs-fixed/"><u>How to Resolve Common Issues: Apex Legends Cheating Protection Bugs Fixed!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-persistent-windows-11-update-error-code-0x80c705b4/"><u>How to Resolve the Persistent Windows 11 Update Error (Code 0X80C705B4)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-ps4-ce-34878-0-error-code-successfully/"><u>How to Resolve the PS4 CE-34878-0 Error Code Successfully</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-infinix-hot-40i-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Infinix Hot 40i</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-vanguards-user-mode-service-issues-in-windows/"><u>Navigating Through Vanguard’s User-Mode Service Issues in Windows</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-cut-editing-time-in-half-with-these-adobe-premiere-shortcuts-for-2024/"><u>New Cut Editing Time in Half with These Adobe Premiere Shortcuts for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-issue-making-a-non-working-external-component-work-with-your-pc-again/"><u>Resolved Issue: Making A Non-Working External Component Work With Your PC Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-enabling-your-windows-10-hosted-network-when-initialization-fails/"><u>Troubleshooting Guide: Enabling Your Windows 10 Hosted Network When Initialization Fails</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-vlc-versus-mx-video-choice-showdown/"><u>[Updated] VLC Versus MX Video Choice Showdown</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44cm5pig5yop44o76zplusz5qw944gu5bcc6zaa55so6kqe6l6e5yw444cn/"><u>「映像・音楽の専門用語辞典」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030045799-isovob/"><u>高画質なままISOからVOB変換：最適な方法とコツ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028801534-usbdvd/"><u>記憶の永遠の保存 – USBメモリへのライブDVD複製方法</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-12-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 12 when Phone is Broken?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-saving-facebook-gifs-on-computer-phone-and-tablet/"><u>In 2024, Saving Facebook GIFs on Computer, Phone & Tablet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-non-responsive-auto-brightness-7-solutions-for-iphones/"><u>Troubleshoot Non-Responsive Auto-Brightness: 7 Solutions for iPhones</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-eliminating-lag-issues-in-resident-evil-village-on-your-gaming-pc/"><u>Ultimate Guide to Eliminating Lag Issues in Resident Evil Village on Your Gaming PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029612744-and/"><u>ビデオトリミング・カットエディティング - 冗長セクション排除&編集技術</u></a></li>
 </ul></div>
 

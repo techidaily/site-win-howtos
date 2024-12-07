@@ -1,7 +1,7 @@
 ---
 title: Overcoming Setbacks in Windows 10 Version 1607 Upgrade Process
-date: 2024-11-02T03:28:21.790Z
-updated: 2024-11-08T04:46:34.356Z
+date: 2024-12-06T17:40:48.130Z
+updated: 2024-12-07T19:47:48.353Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1\. Roll back your touchpad driver to an earlier version
 
  Many users fix their touchpad not scrolling issue by rolling back the driver. Follow the steps below.
@@ -37,12 +41,20 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)  
 
  Find and expand**Mice and other pointing devices** dialog.  
  Then right-click on you touchpad driver to choose**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)  
 
@@ -54,22 +66,12 @@ Then click **Device Manager**  to open it.
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
 
@@ -83,19 +85,6 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -105,10 +94,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
@@ -133,19 +119,22 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-elevate-your-teams-presence-blur-backdrops-with-expertise-for-2024/"><u>[New] Elevate Your Teams Presence Blur Backdrops with Expertise for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-fix-disrupted-video-streams-in-instagram-reels/"><u>[New] Fix Disrupted Video Streams in Instagram Reels</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-power-of-precision-in-slug-line-writing-techniques/"><u>[New] In 2024, The Power of Precision in Slug Line Writing Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-copy-paste-error-windows-11/"><u>[RESOLVED] Copy-Paste Error, Windows 11</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-navigating-through-the-top-10-making-magic-on-youtube/"><u>[Updated] 2024 Approved Navigating Through the Top 10 Making Magic on YouTube</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchats-money-making-opportunities-exposed/"><u>[Updated] 2024 Approved Snapchat's Money-Making Opportunities Exposed</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-find-your-perfect-vlog-title-best-free-name-generators/"><u>[Updated] Find Your Perfect Vlog Title - Best Free Name Generators</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/custom-configuration-options-now-fully-operational-past-glitches-resolved/"><u>Custom Configuration Options Now Fully Operational – Past Glitches Resolved!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-dot-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature block to .dot file</u></a></li>
-<li><a href="https://driver-install.techidaily.com/manual-driver-customization-for-optimal-xp-performance/"><u>Manual Driver Customization for Optimal XP Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-bluetooth-setup-on-windows-7-in-simple-steps/"><u>Mastering Bluetooth Setup on Windows 7 in Simple Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-error-0x00000005-in-windows-a-comprehensive-fix-guide/"><u>Mastering Error 0X00000005 in Windows - A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-asus-rog-phone-8-pro-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Asus ROG Phone 8 Pro has been deleted</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-valorant-games-tearing-problem-with-these-easy-fixes/"><u>Solve Your Valorant Game's Tearing Problem with These Easy Fixes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-comparing-video-storage-in-64128gb-drives-for-2024/"><u>[New] Comparing Video Storage in 64/128GB Drives for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-premier-5-goggles-securing-victory-in-air-races/"><u>[New] In 2024, Premier 5 Goggles Securing Victory in Air Races</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726224234804-jpeg-movavi/"><u>迅速なJPEG形式の無料オンラインファイル変更サービス - Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015024217-anthem-silent-gamers-nightmare-fix-sounds-not-working-on-windows-11-here/"><u>Anthem Silent Gamer's Nightmare? Fix Sounds Not Working on Windows 11 Here!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comparing-aiff-and-wav-audio-formats-determining-the-superior-choice-with-movavi-converter/"><u>Comparing AIFF and WAV Audio Formats - Determining the Superior Choice with Movavi Converter</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/decoding-earnings-for-content-producers-on-short-form-platform/"><u>Decoding Earnings for Content Producers on Short-Form Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-network-fluctuations-in-steam-streams/"><u>Fixing Network Fluctuations in Steam Streams</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-video-converter-convert-wmv-and-wtv-files/"><u>Free Online Video Converter - Convert WMV and WTV Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuito-conversor-de-imagens-para-videos-ao-vivo-formato-mp4-m2v-e-mpeg-movavi/"><u>Gratuito Conversor De Imagens Para Vídeos Ao Vivo: Formato MP4, M2V E MPEG - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-extensive-appraisal-a-look-into-bublcam-360/"><u>In 2024, Extensive Appraisal A Look Into Bublcam 360</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-14-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 14 Plus When You Forget the Passcode?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kostenloze-flv-in-mjpeg-online-converter-movavi/"><u>Kostenloze FLV-In MJPEG Online Converter - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavis-no-cost-tool-for-easy-transformation-of-ppm-images-into-png-on-the-web/"><u>Movavi's No-Cost Tool for Easy Transformation of PPM Images Into PNG on the Web</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/the-next-best-thing-youtube-studio-editing-mastery/"><u>Nail the Next Best Thing YouTube Studio Editing Mastery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/personalized-deep-link-services-from-movavi-optimize-your-affiliate-marketing-strategy/"><u>Personalized Deep Link Services From Movavi - Optimize Your Affiliate Marketing Strategy</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-division-2-game-crash-fix-fast-simple-steps-to-resolve/"><u>The Division 2 Game Crash Fix - Fast, Simple Steps to Resolve!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformez-votre-fichier-au-format-mp4-gratuitement-via-le-web-avec-movavi-asiste/"><u>Transformez Votre Fichier Au Format MP4 Gratuitement via Le Web Avec Movavi Asiste</u></a></li>
 </ul></div>
 

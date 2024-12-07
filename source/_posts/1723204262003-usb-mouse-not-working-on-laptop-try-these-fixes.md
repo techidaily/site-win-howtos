@@ -1,7 +1,7 @@
 ---
 title: USB Mouse Not Working on Laptop? Try These Fixes!
-date: 2024-11-23T03:21:42.772Z
-updated: 2024-11-28T07:45:07.856Z
+date: 2024-12-06T18:27:33.278Z
+updated: 2024-12-07T16:32:41.558Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 * **Outdated Mouse Driver**
 * **Inappropriate surface**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 4 solutions you can try. You may not have to try them all; just work your way until your mouse works again.
@@ -48,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
  If you’re sure it’s caused by hardware damage, it’s time for a total replacement, rather than having them repaired, given their relatively low prices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Replug your USB cable or USB reciever
 
  If you’re using a wired mouse or a wireless USB mouse, when it’s not working, the first thing you can do is to check if your mouse is connected correctly to your laptop. You can try to plug your USB cable or USB receiver into the same USB port or a different one to check if it works.
@@ -62,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4d8f0a4ba40.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Wait for 1-3 minutes.
 
 3) Plug your USB cable or USB receiver into the USB port correctly.
@@ -69,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 4) Try to use your mouse to see if works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Restart your laptop
@@ -77,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
  Sometimes a simple restart can help you fix a lot of computer woes, including your mouse not working issue. So if after you reconnect your mouse to the laptop, it still keeps not working, restart your laptop, please. After getting into Windows, try your mouse to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your mouse driver
@@ -105,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/Driver-Easy-Scan-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to your flagged mouse driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
@@ -113,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro Version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a**30-day money-back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/Update-all-drivers-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -143,24 +143,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-snapchat-marketing-playbook-boosting-sales/"><u>[New] In 2024, The SnapChat Marketing Playbook Boosting Sales</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-intrigue-and-ingenuity-in-leading-escapade-centres/"><u>[New] Intrigue and Ingenuity in Leading Escapade Centres</u></a></li>
-<li><a href="https://video-capture.techidaily.com/22-efficient-ways-to-livestream-classes-without-paying/"><u>22 Efficient Ways to Livestream Classes Without Paying</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixes-and-tips-resolving-mic-issues-in-windows-10/"><u>Fixes & Tips: Resolving Mic Issues in Windows 10</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/fresh-chromeos-upgrade-introduces-windows-11-features-to-your-chromebook-insights/"><u>Fresh ChromeOS Upgrade Introduces Windows 11 Features to Your Chromebook - Insights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-brightness-functionality-in-windows-10-pcs/"><u>How To Restore Brightness Functionality in Windows 10 PCs</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-stop-modern-warfare-2-from-crashing-on-your-computer-a-comprehensive-guide/"><u>How to Stop 'Modern Warfare 2' From Crashing on Your Computer: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-we-overcame-the-problem-of-contacting-a-non-responsive-dhcp-server/"><u>How We Overcame the Problem of Contacting a Non-Responsive DHCP Server</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-meme-makers-guide-for-iphones/"><u>In 2024, Meme Makers' Guide (For iPhones)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-taskbar-size-tweaks/"><u>Mastering Windows 11 Taskbar Size Tweaks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-bluetooth-glitches-how-to-get-your-airpods-working-again-on-windows-1n/"><u>Overcoming Bluetooth Glitches: How to Get Your AirPods Working Again on Windows 1N</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-key-stickiness-on-new-windows-operating-systems-a-comprehensive-fix-guide/"><u>Resolving Key Stickiness on New Windows Operating Systems: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-access-denied-by-microsoft-exchange-for-your-email-client/"><u>Resolving the Issue: Access Denied by Microsoft Exchange for Your Email Client</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-tips-for-non-working-dvds-in-windows-media-player/"><u>Solution Tips for Non-Working DVDs in Windows Media Player</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-vivo-v27-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Vivo V27</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-repair-tips-for-non-responsive-dell-wireless-keyboards/"><u>Step-by-Step Repair Tips for Non-Responsive Dell Wireless Keyboards</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-the-livekernelevent-117-mistake/"><u>Ultimate Guide: Resolving the LiveKernelEvent 117 Mistake</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-how-to-pair-a-wireless-mouse-with-windowsmac-os-devices/"><u>Ultimate Tutorial: How to Pair a Wireless Mouse with Windows/Mac OS Devices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-quick-glance-at-stars-contribution/"><u>[New] Quick Glance at Star's Contribution</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-nubia-red-magic-9-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Nubia Red Magic 9 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-g2-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo G2 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/converte-facilmente-le-fotografie-in-formato-jpgpng-in-pochi-secondi-con-il-convertitore-video-e-foto-di-movavi/"><u>Converte Facilmente Le Fotografie in Formato JPG/PNG in Pochi Secondi Con Il Convertitore Video E Foto Di Movavi</u></a></li>
+<li><a href="https://extra-information.techidaily.com/gas-station-tycoon-simulator-pc-issues-how-to-fix-continuous-crashes/"><u>Gas Station Tycoon Simulator - PC Issues: How to Fix Continuous Crashes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/how-to-prevent-and-fix-life-is-strange-true-colors-game-crashes-easily/"><u>How to Prevent and Fix Life Is Strange: True Colors Game Crashes Easily</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-spark-joy-with-these-14-playful-text-animations/"><u>In 2024, Spark Joy with These 14 Playful Text Animations</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ntly-professional-rapidly-crafting-valorant-game-imagery/"><u>Instantly Professional Rapidly Crafting Valorant Game Imagery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamlessly-change-your-pictures-to-sound-a-step-by-step-guide-for-mp3-creation-from-imgs/"><u>Seamlessly Change Your Pictures to Sound: A Step-by-Step Guide for MP3 Creation From IMGs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-voice-recording-on-windows-11-pcs/"><u>Step-by-Step Guide to Voice Recording on Windows 11 PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-acquiring-e-copies-for-movies-in-your-library/"><u>Step-by-Step Tutorial on Acquiring E-Copies for Movies in Your Library</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-capturing-and-saving-twitter-video-clips-everywhere/"><u>Step-by-Step Tutorial: Capturing and Saving Twitter Video Clips Everywhere</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-guide-enjoying-mkv-files-on-ps4-best-setup-tips/"><u>Successful Guide: Enjoying MKV Files on PS4 – Best Setup Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-dvd-to-avi-converter-software-for-windows-10-and-11/"><u>Top-Rated DVD to AVI Converter Software for Windows 10 & 11</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1728490468166-usb/"><u>USB メモリから失われたデータを取り戻せます！</u></a></li>
 </ul></div>
 

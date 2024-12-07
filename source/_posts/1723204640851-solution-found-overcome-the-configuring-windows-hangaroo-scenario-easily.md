@@ -1,7 +1,7 @@
 ---
 title: "Solution Found: Overcome the 'Configuring Windows' Hangaroo Scenario Easily!"
-date: 2024-11-17T21:50:04.046Z
-updated: 2024-11-18T17:51:26.883Z
+date: 2024-12-02T20:44:35.632Z
+updated: 2024-12-07T16:55:39.931Z
 tags:
   - win11
   - win10
@@ -34,19 +34,6 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 4. **[Change the power option](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check for hardware issues](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Enter Safe Mode with Networking
 
  1) Make sure your computer is **off** .
@@ -54,10 +41,7 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 ![](https://www.supereasy.com/wp-content/uploads/2018/12/img_5c14d3952414d-300x224.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Press **the power button** to turn on your PC. Then when Windows displays a login screen (i.e. Windows has fully booted), long press **the power button** to turn it off.  
@@ -66,24 +50,29 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a734614a9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Wait for Windows to finish diagnosing your PC, and click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click **Troubleshoot** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6989a2d24d0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Click **Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59a941838bb.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Click **Startup settings** .
 
@@ -94,26 +83,20 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ac0838107e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  9) On your keyboard, press **5**  to enable **Safe Mode with Networking** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59ade459478.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  10) Now you’ve successfully booted up in **Safe Mode with Networking** , continue with **Fix 2**   to troubleshoot the**Windows 10 stuck in endless restart loop** problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable auto-restart
 
@@ -124,13 +107,6 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
  2) Click**Settings…** under the **Startup and Recovery** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612b02ca5c0.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check**the box** before **Write an event to the system log** and uncheck**the box** before**Automatically restart** . Then click**OK** .
 
@@ -154,13 +130,6 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)
@@ -170,6 +139,10 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
  4) Restart your computer and hopefully the annoying auto-restart problem has gone by now. If the problem still persists, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Change the power option
 
@@ -185,16 +158,13 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Double-click on **Processor power management** \> **Minimum processor state** . Type**5** in**Setting (%)** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6130ff2aabf.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Depending on the build of your Windows 10, you might also see**On battery** and**Plugged in** in**Setting (%)** . Change both values to**5** and click**OK** .
 
@@ -235,18 +205,24 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2023-streamline-facebook-vids-to-smooth-mp3-for-2024/"><u>[New] 2023 Streamline Facebook Vids to Smooth MP3 for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-step-by-step-perfecting-the-art-of-mi-11-screen-recording-for-2024/"><u>[New] Step-by-Step Perfecting the Art of Mi 11 Screen Recording for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-navigate-to-noteworthy-youtube-commentaries-for-2024/"><u>[Updated] Navigate to Noteworthy YouTube Commentaries for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-resolving-non-functional-wacom-tablet-dilemmas/"><u>Diagnosing and Resolving Non-Functional Wacom Tablet Dilemmas</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-immediately-address-the-service-unavailable-error-http-503/"><u>How To Immediately Address The 'Service Unavailable' Error: HTTP 503</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-stop-nier-automata-from-crashing-on-windows-systems-solutions/"><u>How to Stop Nier: Automata From Crashing on Windows Systems: Solutions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-sony-xperia-5-v-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Sony Xperia 5 V Fingerprint Lock</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-ultimate-guide-to-free-avi-video-rotators-top-5/"><u>In 2024, The Ultimate Guide to Free AVI Video Rotators Top 5</u></a></li>
-<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-common-file-explorer-issues-in-windows-11-get-expert-advice/"><u>Quick Fixes for Common File Explorer Issues in Windows 11 - Get Expert Advice!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-secure-connection-couldnt-be-established-errors-in-mozilla-firefox/"><u>Resolving 'Secure Connection Couldn't Be Established' Errors in Mozilla Firefox</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/score-unbeatable-savings-top-notch-tech-specials-during-the-2024-amazon-prime-extravaganza/"><u>Score Unbeatable Savings: Top-Notch Tech Specials During the 2024 Amazon Prime Extravaganza!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-navigating-through-youtubes-top-favorite-shorters/"><u>[New] 2024 Approved Navigating Through YouTube’s Top Favorite Shorters</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-examining-the-best-technology-for-crystal-clear-4k-visuals/"><u>[New] In 2024, Examining the Best Technology for Crystal-Clear 4K Visuals</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-taking-flight-in-depth-review-of-the-x4-fpv-quadcopter-for-2024/"><u>[New] Taking Flight In-Depth Review of the X4 FPV Quadcopter for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-dji-aerial-palette-changes-get-20-free-with-pay-options-available/"><u>[Updated] In 2024, DJI Aerial Palette Changes - Get 20 FREE with Pay Options Available</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wtv-mkv-movavi/"><u>立即無限制地逆向解碼 WTV 成 MKV - 使用 Movavi 免費轉換工具</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-mp3-files-to-ogg-format-for-free-with-movavis-web-based-converter-quick-and-simple/"><u>Convert MP3 Files to Ogg Format for Free with Movavi's Web-Based Converter - Quick and Simple</u></a></li>
+<li><a href="https://win-answers.techidaily.com/destiny-2-update-2024-broccoli-crash-bug-corrected/"><u>Destiny 2 Update 2024: Broccoli Crash Bug Corrected</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-aspect-ratios-for-stunning-video-outputs/"><u>Explore Aspect Ratios for Stunning Video Outputs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-conversion-amv-to-mp3-with-movavi/"><u>Free Online Conversion: AMV to MP3 with Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-transform-mp3-files-into-3gp-format-with-movavi/"><u>Free Online Converter - Transform MP3 Files Into 3GP Format with Movavi</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-to-enjoy-the-full-range-of-sharing-on-messenger-for-2024/"><u>How to Enjoy the Full Range of Sharing on Messenger for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-innovative-8-android-video-chat-apps-beyond-duostrios/"><u>In 2024, Innovative 8 Android Video Chat Apps Beyond Duos/Trios</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/istruzioni-sui-modi-di-pagamento-con-movavi-scopri-le-opzioni/"><u>Istruzioni Sui Modi Di Pagamento Con Movavi – Scopri Le Opzioni</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mpeg-files-to-mov-format-conversion-quick-easy-and-free-online-tool/"><u>MPEG Files to MOV Format Conversion - Quick, Easy & FREE Online Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/software-editare-video-gratuita-cel-mai-performant-pentru-windows-vechi-7-la-gura-in-2024/"><u>Software Editare Video Gratuita Cel Mai Performant Pentru Windows Vechi (7) La Gura În 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-guide-on-setting-up-functional-sportsdevil-kodi-extension/"><u>Step-by-Step Guide on Setting Up Functional SportsDevil Kodi Extension</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transcodificador-online-libre-para-conversion-de-archivos-wmv-a-quicktime-mov-videowizard/"><u>Transcodificador Online Libre Para Conversion De Archivos WMV a QuickTime MOV - VideoWizard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transform-your-jp2-photos-to-jpeg-without-costs-using-our-simple-web-tool/"><u>Transform Your JP2 Photos to JPEG Without Costs Using Our Simple Web Tool</u></a></li>
 </ul></div>
 

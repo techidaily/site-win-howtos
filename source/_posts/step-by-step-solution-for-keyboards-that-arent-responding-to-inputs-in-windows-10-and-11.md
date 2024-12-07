@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Keyboards That Aren't Responding to Inputs in Windows 10 and 11
-date: 2024-11-25T12:10:30.207Z
-updated: 2024-11-28T10:35:41.010Z
+date: 2024-12-04T17:13:44.362Z
+updated: 2024-12-07T18:41:39.187Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/6be5b234be2302864f9331a3a3d7aaacb0018bce1
 4. **[Repair system files](#repair-system-files)**
 
 * [**Tips: Keyboard maintenance**](#tips)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Hard reset your keyboard
 
@@ -64,6 +68,10 @@ If you’re a laptop user, you could follow these steps:
  Now check to see if this works for you.  
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check for hardware issues
 
  If a hard reset is not working for you, you need to identify whether it’s a hardware issue or a software issue. Follow the steps below:
@@ -73,10 +81,6 @@ If you’re a laptop user, you could follow these steps:
  If cleaning the keyboard didn’t work for you, you need to[boot to BIOS](https://tools.techidaily.com/drivereasy/download/) .  
  If your keys work fine in the BIOS, it means it’s a software issue. You should move to[Fix 3](#f3) .  
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -108,6 +112,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
@@ -127,28 +135,20 @@ OR
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tips: Keyboard maintenance
 
@@ -177,19 +177,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-staying-within-aspect-ratio-guidelines-for-youtube-style-tweeted-content/"><u>[Updated] 2024 Approved Staying Within Aspect Ratio Guidelines for YouTube-Style Tweeted Content</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/androidiphones-finest-top-10-cost-effective-image-enhancers-ranked-for-2024/"><u>Android/iPhone's Finest – Top 10 Cost-Effective Image Enhancers Ranked for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209293464-fix-unresponsive-keyboard-navigation-buttons-top-strategies-inside/"><u>Fix Unresponsive Keyboard Navigation Buttons - Top Strategies Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-identified-potential-flaw-in-windows-11s-update-mechanism-a-comprehensive-guide/"><u>Fixing the Identified Potential Flaw in Windows 11'S Update Mechanism - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-troublesome-windows-update-issue-overcoming-error-0x8024402c/"><u>Fixing the Troublesome Windows Update Issue - Overcoming Error 0X8024402c</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-infinix-note-30i-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Infinix Note 30i to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-pc-video-dubbing-made-easy-top-6-software-solutions/"><u>New 2024 Approved PC Video Dubbing Made Easy Top 6 Software Solutions</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/pioneering-gadgets-and-components-at-toms-technology-oasis/"><u>Pioneering Gadgets and Components at Tom's Technology Oasis</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/professional-tools-to-elevate-your-video-openings-for-2024/"><u>Professional Tools to Elevate Your Video Openings for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/showcasing-self-with-instagram-a-collection-of-100-captions-for-2024/"><u>Showcasing Self with Instagram A Collection of 100 Captions for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-stop-windows-ts-constant-restarts-with-simple-solutions/"><u>Step-by-Step Guide: Stop Windows T's Constant Restarts with Simple Solutions</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-7-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 7 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-continuous-usb-disconnection-problems-effectively/"><u>Troubleshooting Continuous USB Disconnection Problems Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-steam-download-failures-during-updates/"><u>Troubleshooting Guide: Resolving Steam Download Failures During Updates</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-secrets-of-facebooks-2023-full-screen-video-settings/"><u>[New] Secrets of Facebook's 2023 Full Screen Video Settings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-solutions-for-an-unresponsive-obs-video-source/"><u>[Updated] 2024 Approved Solutions for an Unresponsive OBS Video Source</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-beginners-ultimate-list-of-must-have-video-tech/"><u>[Updated] In 2024, Beginner's Ultimate List of Must-Have Video Tech</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-essential-techniques-in-producing-persuasive-video-testimonials/"><u>[Updated] In 2024, Essential Techniques in Producing Persuasive Video Testimonials</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-step-by-step-guide-live-broadcast-of-recorded-videos-on-fb/"><u>2024 Approved Step-by-Step Guide Live Broadcast of Recorded Videos on FB</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-resolved-overcoming-invalid-directory-name-issues-efficiently/"><u>Error Resolved: Overcoming 'Invalid Directory Name' Issues Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209243917-how-to-overcome-unexpected-shutdown-error-1067-on-your-windows-pc-now-solved/"><u>How to Overcome Unexpected Shutdown (Error 1067) on Your Windows PC - Now Solved!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-htc-u23-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-skyrocket-sales-traffic-with-the-15-cutting-edge-facebook-gadgets/"><u>In 2024, Skyrocket Sales Traffic with the 15 Cutting-Edge Facebook Gadgets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/insufficient-disk-space-resolving-not-enough-storage-errors/"><u>Insufficient Disk Space: Resolving 'Not Enough Storage' Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-with-ease-in-win-89/"><u>Navigating with Ease in Win 8/9</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-vcruntimenont-found-error-on-your-computer-guide/"><u>The Ultimate Fix for 'VCRUNTIMENoNT Found' Error on Your Computer [GUIDE]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-error-code-39-in-optical-drives-easy-fixes-for-a-smooth-run/"><u>Troubleshooting and Resolving 'Error Code 39' In Optical Drives – Easy Fixes for a Smooth Run</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-failed-to-enumerate-objects-on-windows-11/"><u>Troubleshooting Guide: Resolving 'Failed to Enumerate Objects' On Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-handling-event-id-1000-across-various-windows-versions/"><u>Troubleshooting Steps for Handling Event ID #1000 Across Various Windows Versions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-tricks-for-locking-down-shaky-videos-across-all-devices/"><u>Ultimate Tricks for Locking Down Shaky Videos Across All Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unraveling-popularity-myths-the-real-truth-about-instagram-reels-for-2024/"><u>Unraveling Popularity Myths The Real Truth About Instagram Reels for 2024</u></a></li>
 </ul></div>
 

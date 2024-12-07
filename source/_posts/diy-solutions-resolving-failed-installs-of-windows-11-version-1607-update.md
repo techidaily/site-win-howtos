@@ -1,7 +1,7 @@
 ---
 title: "DIY Solutions: Resolving Failed Installs of Windows 11 Version 1607 Update"
-date: 2024-11-27T06:29:41.283Z
-updated: 2024-11-28T08:35:00.973Z
+date: 2024-11-30T19:02:41.845Z
+updated: 2024-12-07T21:22:54.440Z
 tags:
   - win11
   - win10
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -57,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -101,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -110,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ``
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Start the Internet Explorer ETW Collector Service
@@ -125,10 +137,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -139,10 +147,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 4) Open the app again to see if it goes fine.
 
 ``
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
@@ -157,10 +161,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -181,7 +181,7 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
@@ -195,7 +195,7 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
@@ -225,24 +225,21 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-optimizing-personal-video-experience-building-an-organized-watch-later-list/"><u>[New] 2024 Approved Optimizing Personal Video Experience Building an Organized 'Watch Later' List</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-quick-recap-of-chromakey-and-green-screen-processes/"><u>[New] Quick Recap of Chromakey and Green Screen Processes</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-fast-revenues-forecasting-toolkit-for-vids-for-2024/"><u>[Updated] Fast Revenues Forecasting Toolkit for Vids for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-create-compelling-images-on-iphone-with-these-10-principles/"><u>[Updated] In 2024, Create Compelling Images on iPhone with These 10 Principles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-the-port-reset-failed-error-on-windows-11s-usb-devices-tips-and-tricks/"><u>Dealing with the Port Reset Failed Error on Windows 11'S USB Devices – Tips & Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-recover-corrupt-system-components-on-your-windows-11-device/"><u>Effective Solutions to Recover Corrupt System Components on Your Windows 11 Device</u></a></li>
-<li><a href="https://blog-min.techidaily.com/enhancing-gameplay-with-ai-driven-frame-generation-improved-fps-and-seamless-scene-changes/"><u>Enhancing Gameplay with AI-Driven Frame Generation: Improved FPS and Seamless Scene Changes</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/exclusive-reviews-top-5-external-hdds-for-xbox-gamers-for-2024/"><u>Exclusive Reviews Top 5 External HDDs for Xbox Gamers for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/experience-premium-surround-sound-with-the-bose-smart-bar-simple-yet-advanced-features-reviewed/"><u>Experience Premium Surround Sound with the Bose Smart Bar - Simple Yet Advanced Features Reviewed</u></a></li>
-<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Tecno Spark 20? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/in-depth-fix-how-to-address-could-not-write-crash-dump-glitches-in-wolfenstein-ii/"><u>In-Depth Fix: How to Address 'Could Not Write Crash Dump' Glitches in Wolfenstein II</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-overwatch-voice-connection-fixes-without-the-hassle/"><u>Mastering Overwatch Voice Connection Fixes Without the Hassle</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209636718-9781547573882-meditacao-aprenda-meditacao-permaneca-positivo-e-cure-se-embasado-cientificamente/"><u>Meditação: Aprenda Meditação, Permaneça Positivo E Cure-se (Embasado Cientificamente) | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-ps4-sync-errors-effective-solutions-for-your-gaming-control-pad/"><u>Overcoming PS4 Sync Errors: Effective Solutions for Your Gaming Control Pad</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-boot-not-detected-issues-on-your-device-easy-troubleshooting-steps-inside/"><u>Resolve Boot Not Detected Issues on Your Device - Easy Troubleshooting Steps Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-when-microsoft-defender-smartscreen-is-unresponsive/"><u>Troubleshooting Guide: When Microsoft Defender SmartScreen Is Unresponsive</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-solutions-to-prevent-total-war-rome-remastered-from-crashing/"><u>Ultimate Solutions to Prevent Total War: Rome Remastered From Crashing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlocking-miracast-on-incompatible-devices-essential-tips-for-a-smooth-connection/"><u>Unlocking Miracast on Incompatible Devices: Essential Tips for a Smooth Connection</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-cinema-in-your-palm-three-cost-effective-techniques-to-blend-beats-and-videos-on-iphone/"><u>[New] 2024 Approved Cinema in Your Palm – Three Cost-Effective Techniques to Blend Beats and Videos on iPhone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-stars-quick-visibility-check-for-2024/"><u>[Updated] Star's Quick Visibility Check for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-navigating-skies-drone-shooting-basics/"><u>2024 Approved Navigating Skies Drone Shooting Basics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-non-operational-usb-ports-in-modern-windows-environments/"><u>Effective Solutions for Non-Operational USB Ports in Modern Windows Environments</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/experts-picks-for-the-top-5-iphone-backup-software-in-2018/"><u>Experts' Picks for the Top 5 iPhone Backup Software in 2018!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/face-off-evaluating-wireless-router-showdown-archer-ax6000-against-the-nighthawk-ax12/"><u>Face Off: Evaluating Wireless Router Showdown - Archer AX6000 Against the Nighthawk AX12</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-lava-blaze-curve-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Lava Blaze Curve 5G</u></a></li>
+<li><a href="https://article-posts.techidaily.com/leading-microphone-reviews-podcastings-best-for-2024/"><u>Leading Microphone Reviews Podcasting's Best for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issues-with-launching-the-microsoft-store-fix-guide/"><u>Resolved: Issues with Launching the Microsoft Store - Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-successfully-restoring-secured-connections-in-mozilla-firefox/"><u>Step-by-Step Solutions: Successfully Restoring Secured Connections in Mozilla Firefox</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-to-bypass-destiny-2-initialization-errors-successfully/"><u>Step-by-Step Tutorial to Bypass Destiny 2 Initialization Errors Successfully</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/the-pinnacle-of-live-tweeting-on-social-media-for-2024/"><u>The Pinnacle of Live Tweeting on Social Media for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-tecno-pova-6-pro-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Tecno Pova 6 Pro 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-successful-overcoming-initial-boot-failures-on-pcs/"><u>Troubleshooting Successful: Overcoming Initial Boot Failures on PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-0x80072efd-problem-on-your-pc-with-windows-10/"><u>Troubleshooting the 0X80072EFD Problem on Your PC with Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208952957-uninterrupted-workflow-on-windows-11-how-your-files-remain-unchanged-post-bootup/"><u>Uninterrupted Workflow on Windows 11: How Your Files Remain Unchanged Post Bootup</u></a></li>
 </ul></div>
 

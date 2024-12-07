@@ -1,7 +1,7 @@
 ---
 title: In-Depth Solution for the Persistent Update Error (0X80240034) on Windows 11 Systems
-date: 2024-11-22T00:42:55.055Z
-updated: 2024-11-28T02:04:23.857Z
+date: 2024-12-05T18:08:28.147Z
+updated: 2024-12-07T17:04:28.777Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/e310ec62b9e76066416bdd2ef743a630e77fd957f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Fix 1\. Enable Automatic Detect Settings**
 
  If your computer is not sure how it should connect to the Internet, it would cause Windows Update Error 0x8024402c. In this case, enable Automatic Detect Settings could fix it.
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/e310ec62b9e76066416bdd2ef743a630e77fd957f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **LAN settings**  under**Connection** pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-4.png)
@@ -47,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/e310ec62b9e76066416bdd2ef743a630e77fd957f
 4) Check on Automatically detect settings
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -61,7 +57,7 @@ Now try to install Windows Updates now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Clear Exceptions box if there were any content in it.
@@ -70,6 +66,10 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6) Exit Internet Explorer and run Command Prompt.
 
 Find and click to open Command Prompt from Start menu.
@@ -77,7 +77,7 @@ Find and click to open Command Prompt from Start menu.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7) Run the commands below one by one.
@@ -100,10 +100,6 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Now Internet Connection window is open.
 
 Double-click on your active Network Adapter.
@@ -124,6 +120,10 @@ Double-click on your active Network Adapter.
 
 Now try to install Windows Updates now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4\. Configure Updates Client
 
 If the fixes above didn’t serve you, try this one.
@@ -137,7 +137,7 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
@@ -171,7 +171,7 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
@@ -195,22 +195,21 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-pro-video-enhancement-ranking-the-superior-15-gopro-lut-tools/"><u>[New] Pro Video Enhancement Ranking the Superior 15 GoPro LUT Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-masterful-methods-for-keeping-track-of-messenger-communications/"><u>[Updated] In 2024, Masterful Methods for Keeping Track of Messenger Communications</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-fix-guide-overcoming-the-challenge-of-error-code-0x80072f8f-in-windows-operating-systems/"><u>Complete Fix Guide: Overcoming the Challenge of Error Code 0X80072F8F in Windows Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-asus-webcam-issues-with-no-display-on-windows-nix-11/"><u>Diagnosing and Fixing ASUS Webcam Issues with No Display on Windows Nix-11</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/easy-tutorial-on-integrating-gif-images-into-powerpoint-slides-for-engaging-presentations/"><u>Easy Tutorial on Integrating GIF Images Into PowerPoint Slides for Engaging Presentations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-overcoming-excessive-cpu-use-by-wudfhostexe-in-windows-10-systems/"><u>Effective Solutions for Overcoming Excessive CPU Use by wudfhost.exe in Windows 10 Systems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-hold-alert-while-charging-your-iphone-explore-8-proven-techniques/"><u>Fixing Hold Alert While Charging Your iPhone - Explore 8 Proven Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-windows-11-tips-mastering-memo-making/"><u>Free Windows 11 Tips: Mastering Memo-Making</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-repair-the-configuration-failure-on-windows-11/"><u>How to Troubleshoot and Repair the Configuration Failure on Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/overview-of-various-cameras-used-in-film-and-tv-for-2024/"><u>Overview of Various Cameras Used in Film & TV for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-windows-7s-slow-booting-dilemma/"><u>Quick Fixes for Windows 7'S Slow Booting Dilemma</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-unsupported-os-message-setup-closing-with-easy-fixes/"><u>Resolve 'Unsupported OS Message: Setup Closing' With Easy Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-how-to-get-back-windows-that-have-vanished-off-screen/"><u>Step by Step: How to Get Back Windows That Have Vanished Off-Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-to-get-your-left-click-mouse-working-again/"><u>Step-by-Step Instructions to Get Your Left-Click Mouse Working Again</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-wasteland-2-directors-cut-review/"><u>The Wasteland 2: Director’s Cut Review</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-itel-p55-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-fast-track-to-1000-fans-through-captivating-content-for-2024/"><u>[Updated] Fast-Track To 1,000 Fans Through Captivating Content for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-leading-workplace-cloud-reservoirs/"><u>[Updated] In 2024, Leading Workplace Cloud Reservoirs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/best-practices-for-engaging-with-facebook-live-content-for-2024/"><u>Best Practices for Engaging with Facebook Live Content for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-freezing-issues-on-your-desktop-machine/"><u>Bypass Freezing Issues on Your Desktop Machine</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/clear-your-twitter-timeline-fast-topunfollowtools-revealed-for-2024/"><u>Clear Your Twitter Timeline Fast #TopUnfollowTools Revealed for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-tutorial-on-linking-amazon-firestick-to-wifi-via-cellular-data/"><u>Easy Tutorial on Linking Amazon Firestick to WiFi via Cellular Data</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/expert-chromebook-zoom-techniques-unveiled/"><u>Expert Chromebook Zoom Techniques Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-disappearing-taskbar-in-windows-11-top-4-icon-troubleshooting-solutions/"><u>How to Fix a Disappearing Taskbar in Windows 11: Top 4 Icon Troubleshooting Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-video-input-failure-on-your-display-step-by-step-instructions/"><u>How to Repair Video Input Failure on Your Display - Step-by-Step Instructions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203932336-keyboard-numeric-key-malfunction-heres-how-you-fixed-it/"><u>Keyboard Numeric Key Malfunction? Here's How You Fixed It</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/realtime-av-enthusiasts-community-for-2024/"><u>RealTime AV Enthusiasts Community for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/reimagine-old-school-vhs-with-modern-computer-techniques-for-2024/"><u>Reimagine Old-School VHS with Modern Computer Techniques for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211564877-step-by-step-solution-for-windowss-persistent-network-error-0x800704cf-now-resolved/"><u>Step-by-Step Solution for Windows's Persistent Network Error: 0X800704cf - Now Resolved</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-x50i-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Honor X50i for Parents | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-tackle-non-responsive-file-explorer-problems-in-windows-10/"><u>Troubleshoot and Tackle Non-Responsive File Explorer Problems in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-correcting-invalid-directory-errors/"><u>Troubleshooting Tips for Correcting ‘Invalid Directory’ Errors</u></a></li>
 </ul></div>
 

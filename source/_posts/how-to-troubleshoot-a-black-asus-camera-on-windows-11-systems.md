@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot a Black ASUS Camera on Windows 11 Systems
-date: 2024-11-21T18:19:46.250Z
-updated: 2024-11-28T13:08:06.657Z
+date: 2024-12-02T18:36:58.809Z
+updated: 2024-12-07T18:44:01.691Z
 tags:
   - win11
   - win10
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
  Restart your computer and check if it can detect your battery now. If not, read on and try the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check your battery in Device Manager
 
  You might also have this problem because your battery is disabled in Device Manager. So you should run Device Manager to check your battery status. Here is how:
@@ -55,12 +59,16 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-41-54.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Double-click**Batteries,** and then check if your battery is disabled.
 
@@ -69,14 +77,10 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-18.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this didn’t help, don’t fret. There are still 3 more fixes to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Run the power troubleshooter
 
@@ -98,17 +102,9 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-37.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**Power** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-44.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click**Next** .
 
@@ -128,10 +124,6 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
  Wait for Windows to detect and fix your battery issue. If your problem persists, check the fix below.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Update your battery driver
 
  Your battery problem is probably being caused by driver issues. The steps above may resolve it, but if they don’t, or you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -146,9 +138,17 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_18-06-57-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Update button** next to the battery driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-35.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -162,10 +162,6 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-41-54-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Type **msinfo32** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-44-04.jpg)
@@ -173,6 +169,10 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 **3)** Check the **BIOS Version/Date**  to know your BIOS manufacturer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-44-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Go to your BIOS manufacturer’s support website and download the latest update.
 
@@ -204,22 +204,20 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-how-to-archive-your-favorite-movies-mac-screenshots-for-netflix/"><u>[New] In 2024, How to Archive Your Favorite Movies Mac Screenshots for Netflix</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/apid-fire-success-strategies-the-essential-list-of-20-video-tips/"><u>[New] Rapid-Fire Success Strategies The Essential List of 20 Video Tips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-optimize-video-publishing-timing-for-maximum-views/"><u>[Updated] In 2024, Optimize Video Publishing Timing for Maximum Views</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-tips-for-extending-instagram-videos-beyond-limits-for-2024/"><u>[Updated] Tips for Extending Instagram Videos Beyond Limits for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-ten-cyber-shops-where-every-gift-tells-a-story/"><u>2024 Approved Top Ten Cyber Shops Where Every Gift Tells a Story</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/battle-desktop-window-managers-excessive-gpu-load-five-key-fixes-for-windows-users/"><u>Battle Desktop Window Manager's Excessive GPU Load: Five Key Fixes for Windows Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-update-issue-how-to-resolve-the-0x80070490-error/"><u>Fixing the Windows Update Issue: How to Resolve the 0X80070490 Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/flawless-typing-ahead-diagnosing-and-fixing-bluetooth-keyboard-pairing-failures-with-laptops-or-desktops/"><u>Flawless Typing Ahead: Diagnosing and Fixing Bluetooth Keyboard Pairing Failures with Laptops or Desktops</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-printer-driver-not-found-on-your-windows-pc-fixed/"><u>How to Overcome 'Printer Driver Not Found' On Your Windows PC [FIXED]</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ipad-and-ipad-pro-owners-pick-the-7-best-taking-notes-apps-on-the-market/"><u>IPad & iPad Pro Owners' Pick: The 7 Best Taking Notes Apps on the Market</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/master-your-game-with-the-comfortable-design-of-the-mavix-m9-chair-reviewed/"><u>Master Your Game with the Comfortable Design of the Mavix M9 Chair - Reviewed</u></a></li>
-<li><a href="https://article-helps.techidaily.com/perfecting-your-youtube-experience-stop-previews/"><u>Perfecting Your YouTube Experience - Stop Previews</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/process-halted-no-execution/"><u>Process Halted: No Execution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-clipboard-problems-on-windows-11-computers/"><u>Resolved! Troubleshooting Clipboard Problems on Windows 11 Computers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/snap-your-world-how-to-watch-360-videos-on-android-for-2024/"><u>Snap Your World How to Watch 360 Videos on Android for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-resolving-twitch-error-4000/"><u>Troubleshooting Guide for Resolving Twitch Error 4000</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/win10-renders-computer-inactive-suddenly/"><u>Win10 Renders Computer Inactive Suddenly</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-maximizing-roi-adopting-the-power-of-triple-strategies-in-copywriting-for-facebook-advertising-for-2024/"><u>[Updated] Maximizing ROI Adopting the Power of Triple Strategies in Copywriting for Facebook Advertising for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-6-solutions-for-multilingual-videos/"><u>[Updated] Premium 6 Solutions for Multilingual Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-transfergenius-gurus-viewpoint-for-2024/"><u>[Updated] TransferGenius Gurus' Viewpoint for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-restore-usb-functionality-in-windows-10-and-11-systems/"><u>Effective Solutions to Restore USB Functionality in Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-htc-u23-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide HTC U23 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-6ipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 6/iPad Without Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-wholesome-meals-via-ai-suggestions/"><u>Integrating Wholesome Meals via AI Suggestions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-screen-mirroring-with-miracast-despite-device-limitations-effective-strategies-and-tips/"><u>Mastering Screen Mirroring with Miracast Despite Device Limitations: Effective Strategies and Tips</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-7-plus-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-windows-update-troubles-with-error-8007000e-a-swift-guide/"><u>Resolve Your Windows Update Troubles with Error 8007000E - A Swift Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-touchpad-and-pen-input-issues-for-better-display-interaction/"><u>Resolving Touchpad and Pen Input Issues for Better Display Interaction</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-to-launch-helldivers-2-on-your-steam-platform/"><u>Step-by-Step Fixes to Launch Helldivers 2 on Your Steam Platform</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-stop-missing-cursors-now/"><u>Troubleshooting Windows 11: Stop Missing Cursors Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstuck-your-function-buttons-a-step-by-step-repair-process/"><u>Unstuck Your Function Buttons! A Step-by-Step Repair Process</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-a-step-by-step-guide-to-crafting-professional-level-android-media-with-audio-integration/"><u>Updated In 2024, A Step-by-Step Guide to Crafting Professional-Level Android Media With Audio Integration</u></a></li>
 </ul></div>
 

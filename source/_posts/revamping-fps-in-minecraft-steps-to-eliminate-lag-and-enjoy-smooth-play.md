@@ -1,7 +1,7 @@
 ---
 title: "Revamping FPS in Minecraft: Steps to Eliminate Lag and Enjoy Smooth Play"
-date: 2024-11-07T08:25:31.470Z
-updated: 2024-11-07T23:09:38.964Z
+date: 2024-11-30T18:11:48.089Z
+updated: 2024-12-07T16:24:08.264Z
 tags:
   - win11
   - win10
@@ -44,13 +44,6 @@ If you’re getting so annoyed with**the** **PUBG lag** issue, you’re not alon
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Close unused apps and set high priority for PUBG
 
  Closing unused apps would probably be most people’s knee-jerk reaction to a laggy and unresponsive computer. To do so:
@@ -75,10 +68,7 @@ Running PUBG in a lower resolution can also help in fixing lag:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics drivers
@@ -95,6 +85,10 @@ Running PUBG in a lower resolution can also help in fixing lag:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)
@@ -108,10 +102,7 @@ Running PUBG in a lower resolution can also help in fixing lag:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Change the power option and adjust for best performance
@@ -125,18 +116,20 @@ So to tweak the settings:
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Choose the **High performance** option.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
 3. In the top-right corner of the window, type **advanced**  and click **View advanced system settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c503626f65.jpg)
 4. Click **Adjust for best performance** \> **Apply** \> **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c50b65a2ed.jpg)
 
@@ -162,21 +155,20 @@ So to tweak the settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-3dr-a-solo-traverse-into-future-tech-world/"><u>[New] '3DR' A Solo Traverse Into Future Tech World</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unlocking-facebook-blue-verification-a-step-by-step-guide/"><u>[New] Unlocking Facebook Blue Verification A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/outubes-edge-design-tips-for-compelling-video-thumbnails/"><u>[New] YouTube's Edge Design Tips for Compelling Video Thumbnails</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-fix-for-when-your-cursor-gets-lost-in-windows-10/"><u>Complete Fix for When Your Cursor Gets Lost in Windows 10</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/enhancing-accessibility-documenting-computer-audio-in-audacity-for-2024/"><u>Enhancing Accessibility Documenting Computer Audio in Audacity for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-methods-to-resolve-windows-file-system-errors-and-enhance-stability/"><u>Essential Methods to Resolve Windows File System Errors and Enhance Stability</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-and-fortify-explore-crashes-in-win/"><u>Fix and Fortify: Explore Crashes in Win</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-deal-with-a-non-starting-laptop-or-desktop/"><u>Fixing the Issue: How to Deal With a Non-Starting Laptop or Desktop</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/focus-on-one-room-at-a-time/"><u>Focus On One Room At A Time</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-oneplus-11-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From OnePlus 11 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-time-on-the-internet-tips-and-tricks-for-using-the-wayback-machine/"><u>Navigating Time on the Internet: Tips and Tricks for Using the Wayback Machine</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/pearsons-advance-in-education-the-gsl-mondly-combo/"><u>Pearson’s Advance in Education: The GSL-Mondly Combo</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-steam-store-not-loading-problem-tips-and-solutions-for-gamers/"><u>Solving 'Steam Store Not Loading' Problem: Tips & Solutions for Gamers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-overcome-the-xerox-update-failure-error-code-0x800f020b-in-windows/"><u>Step-by-Step Guide to Overcome the Xerox Update Failure (Error Code 0X800F020B) in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-a-nonresponsive-windows-key-on-windows-10-pcs/"><u>The Ultimate Fix for a Nonresponsive Windows Key on Windows 10 PCs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transformation-de-fichiers-audio-gratuit-guide-complet-pour-convertir-des-fichiers-wav-en-wma-a-laide-de-movavi/"><u>Transformation De Fichiers Audio Gratuit - Guide Complet Pour Convertir Des Fichiers WAV en WMA À L'aide De Movavi</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-pro-editors-pathway-perfecting-video-for-instagram-on-final-cut-x/"><u>[New] 2024 Approved Pro Editor's Pathway Perfecting Video for Instagram on Final Cut X</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-art-of-freezing-the-action-in-win-os/"><u>[Updated] In 2024, The Art of Freezing the Action in Win OS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-next-gen-gaming-escapades-top-5-psvr-titles-for-the-future/"><u>[Updated] Next-Gen Gaming Escapades Top 5 PSVR Titles for the Future</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-m54-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/complete-setup-blueprint-for-wm6/"><u>Complete Setup Blueprint for WM6</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertir-archivos-avi-a-gifs-online-sin-coste-guia-rapida-y-eficaz/"><u>Convertir Archivos Avi a Gifs Online Sin Coste - Guía Rápida Y Eficaz</u></a></li>
+<li><a href="https://common-error.techidaily.com/dell-laptop-keyboard-troubleshooting-why-its-not-responding-and-how-to-fix-it/"><u>Dell Laptop Keyboard Troubleshooting: Why It's Not Responding and How to Fix It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/formato-de-archivos-free-online-converted-from-asf-to-avi-by-movavi-guia-paso-a-paso-y-mejores-practicas/"><u>Formato De Archivos FREE Online Converted From ASF to AVI by [Movavi]: Guía Paso a Paso Y Mejores Prácticas</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-conversion-tool-transforming-mp2-files-into-mp4-format-effortlessly/"><u>Free Online Conversion Tool: Transforming MP2 Files Into MP4 Format Effortlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-conversion-transforming-mov-files-into-avi-format-with-ease/"><u>Free Online Conversion: Transforming MOV Files Into AVI Format with Ease</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-s-most-popular-mkv-clip-editors-for-mac/"><u>New In 2024, S Most Popular MKV Clip Editors for Mac</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/professionals-guide-selecting-premium-video-card-options/"><u>Professional's Guide Selecting Premium Video Card Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simplified-guide-reduce-file-size-of-your-quicktime-movies-with-four-straightforward-techniques/"><u>Simplified Guide: Reduce File Size of Your QuickTime Movies with Four Straightforward Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-15-free-mac-video-transcoding-tools-the-ultimate-guide/"><u>Top 15 Free Mac Video Transcoding Tools: The Ultimate Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wma-to-flac-web-audioshift/"><u>バーチャル・ディジタル・オーディオ移行:無料WMA to FLAC Web変換ツール – AudioShift</u></a></li>
 </ul></div>
 

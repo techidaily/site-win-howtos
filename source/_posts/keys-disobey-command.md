@@ -1,7 +1,7 @@
 ---
 title: Keys Disobey Command
-date: 2024-11-06T19:39:06.390Z
-updated: 2024-11-07T22:56:59.250Z
+date: 2024-12-03T18:04:21.096Z
+updated: 2024-12-07T19:05:14.724Z
 tags:
   - win11
   - win10
@@ -76,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 3: Adjust your virtual memory**
 
  Virtual memory is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive. If your computer runs out of RAM when performing an intensive task, Windows will dip into virtual memory for temporary file storage.
@@ -84,16 +88,13 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a3b88f3d2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Go to the**Advanced** tab, then click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376d4b15900.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the **Advanced** tab again, and choose**Change…**  in the Virtual memory section.
 
@@ -131,13 +132,6 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
  Fortect is a trusted repair tool and it will do no harm to your PC. The best part is that you won’t need to worry about losing any programs and your personal data.
@@ -158,6 +152,10 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/run-as-administrator.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If prompted to provide administrator permission, click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/user-account-control.jpg)
@@ -169,6 +167,10 @@ sfc /scannow
  Then press **Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940aa0c3690c.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows will scan your system for corrupted files, and attempt to fix any it finds. The results will display in this window, so please leave it open until the operation is complete.
 
@@ -185,25 +187,23 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58623a9965e70.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) If you want to check for problems immediately, click **Restart now and check for problems(recommended)** . If you want to check later, click **Check for problems the next time I start my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdb6930a9d3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Windows will then restart, and you’ll see this page showing the progress of the check and the number of passes it will run on memory.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdb698e7b6b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don’t see any errors here, your memory card probably isn’t the problem, and you should try the next fix.
@@ -211,10 +211,7 @@ sfc /scannow
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 6: Run Disk Check**
@@ -227,16 +224,13 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a917ba7f6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Locate the hard drive you’d like to check, right-click on it and choose**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a9834949e.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Go to the **Tools** tab and click**Check** .
 
@@ -252,13 +246,6 @@ sfc /scannow
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 7: Disable C-States in BIOS**
 
  “C-States” is short for “CPU States”. They’re basically power-saving options – they turn down your system’s voltage, multipliers, etc. so your computer uses as little power as possible when it’s idle. Disabling C-States (turning off the power saving options) can make your computer more stable, and reduce the chance of unexpected problems like random freezing or rebooting. To disable C-States:
@@ -273,16 +260,13 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58d3311bb92d6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Both **C1E Function** and**Intel(R) C-STATE tech** should be **Disabled** . If they’re not, use your keyboard up and down arrows to navigate the list of options, highlight the setting you want to change, press Enter on your keyboard, then press the up or down arrow on your keyboard to change the value to Disabled.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/intelr-c-state-tech.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After changing these settings, save and exit the BIOS settings as per the instructions on your screen, then restart your computer again.
 
@@ -333,19 +317,16 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-instructions-for-installing-windows-movie-maker-6/"><u>[New] 2024 Approved Instructions for Installing Windows Movie Maker 6</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-prime-interactive-camera-spotlights/"><u>[New] Prime Interactive Camera Spotlights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-laptops-non-charging-battery-in-no-time-simple-solutions/"><u>Fix Your Laptop's Non-Charging Battery in No Time: Simple Solutions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/masterful-podcast-descriptions-strategies-and-case-studies/"><u>Masterful Podcast Descriptions Strategies and Case Studies</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/optimize-and-improve-your-videos-achieve-unmatched-quality-using-winxvideo-ai/"><u>Optimize and Improve Your Videos: Achieve Unmatched Quality Using WinxVideo AI</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/pioneering-filmmakers-using-vimeo-for-live-captures/"><u>Pioneering Filmmakers Using Vimeo for Live Captures</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/social-media-wiz-how-to-create-captivating-slideshow-stories-for-facebook-for-2024/"><u>Social Media Wiz How to Create Captivating Slideshow Stories for Facebook for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-a-dead-razer-keyboard-that-wont-light-up/"><u>Solving the Mystery of a Dead Razer Keyboard That Won't Light Up</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-resolving-windows-righ-click-not-responding-on-your-mouse/"><u>Step-by-Step Guide: Resolving Windows ˈrigh Click Not Responding on Your Mouse</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-solution-to-the-persistent-fatal-error-and-game-crash-issues-in-halo-4-ue4/"><u>The Ultimate Solution to the Persistent Fatal Error and Game Crash Issues in Halo 4 UE4</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-8-4k-playback-powerhouses-unveiled/"><u>Top 8 4K Playback Powerhouses Unveiled</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-guide-for-windows-users-resolving-the-frustrating-error-code-0x80072f8f-on-your-windows-1110-machine/"><u>Ultimate Fixes Guide for Windows Users: Resolving the Frustrating 'Error Code 0X80072F8F' On Your Windows 11/10 Machine</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-apple-event-detailed-coverage-on-timings-latest-gossip-and-expectations/"><u>Upcoming Apple Event - Detailed Coverage on Timings, Latest Gossip & Expectations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/usb-woes-no-more-restore-compatibility-with-these-simple-fixes-for-your-hp-laptops-usb-problems/"><u>USB Woes No More: Restore Compatibility with These Simple Fixes for Your HP Laptop’s USB Problems</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-infinite-twitterscape-embracing-the-hd-experience/"><u>[New] 2024 Approved Infinite Twitterscape - Embracing the HD Experience</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-streamlining-screen-recording/"><u>[Updated] 2024 Approved Streamlining Screen Recording</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-instantaneously-obscured-identities-quick-tips-with-piscart/"><u>2024 Approved Instantaneously Obscured Identities Quick Tips with Piscart</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/banish-lag-and-crashes-tips-for-running-modern-warfare-seamlessly-on-windows-machines/"><u>Banish Lag & Crashes - Tips for Running 'Modern Warfare' Seamlessly on Windows Machines</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/como-convertir-archivos-wma-a-formato-mp3-facilmente-con-el-mejor-convertidor-de-movavi/"><u>Como Convertir Archivos WMA a Formato MP3 Fácilmente Con El Mejor Convertidor De Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/descargue-y-convierte-archivos-rmvb-a-formato-mp4-de-manera-gratuita-con-el-servicio-online-mas-eficiente/"><u>Descargue Y Convierte Archivos RMVB a Formato MP4 De Manera Gratuita Con El Servicio Online Más Eficiente</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-for-playing-your-favorite-steam-games-on-windows-11/"><u>Effective Solutions for Playing Your Favorite Steam Games on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/freelancer-dilemma-bing-chat-vs-chatgpt8-must-know-points/"><u>Freelancer Dilemma: Bing Chat Vs. ChatGPT—8 Must-Know Points</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavis-step-by-step-guide-how-to-upload-videos-on-youtube/"><u>Movavi's Step-by-Step Guide: How to Upload Videos on YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mpe-file-to-iphone-ringtone-m4r-transformation-no-cost-with-moveavi/"><u>MPE File to iPhone Ringtone (M4R) Transformation - No Cost with Moveavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-and-mac/"><u>プロフェッショナルなビデオコンバータを求める方へ：Windows & Mac両用の最もおすすめ無料ダウンロードソフトで、スピーディ映像変換が可能！</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide for Resolving Boot Issues on Laptops and Desktops
-date: 2024-11-20T19:44:37.173Z
-updated: 2024-11-28T07:43:13.216Z
+date: 2024-12-01T22:14:04.613Z
+updated: 2024-12-07T22:04:43.553Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
@@ -54,7 +58,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -71,19 +75,23 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -103,6 +111,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -117,10 +129,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -138,17 +146,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,17 +184,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-discovering-the-secrets-of-asmr-media-for-2024/"><u>[New] Discovering the Secrets of ASMR Media for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-evaluating-dailymotion-vs-youtube-profitability/"><u>[Updated] In 2024, Evaluating Dailymotion vs YouTube Profitability</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instatales-order-your-pictures-rightly/"><u>[Updated] In 2024, InstaTales Order Your Pictures Rightly</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-video-excellence-text-integration-basics/"><u>[Updated] Instagram Video Excellence Text Integration Basics</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-starks-serenade-where-to-find-your-game-of-thrones-ringtones/"><u>2024 Approved Stark's Serenade Where to Find Your Game of Thrones Ringtones</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/elevate-online-presence-using-cookiebot-solutions/"><u>Elevate Online Presence Using Cookiebot Solutions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-exploring-bandicam-ultimate-guide-to-screen-capture/"><u>In 2024, Exploring Bandicam Ultimate Guide to Screen Capture</u></a></li>
-<li><a href="https://ai-video.techidaily.com/new-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>New A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-common-airdrop-problems-now-resolved/"><u>Quick Fixes for Common AirDrop Problems – Now Resolved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-problem-of-windows-7-update-download-failures/"><u>Resolving the Problem of Windows 7 Update Download Failures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-no-sound-output-problems-in-windows-os/"><u>Step-by-Step Guide: Correcting 'No Sound Output' Problems in Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-strategies-for-successfully-pairing-devices-via-bluetooth-on-windows-n-11/"><u>Top Strategies for Successfully Pairing Devices via Bluetooth on Windows N 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-beginning-your-first-community-support-blitz-on-facebook/"><u>[New] Beginning Your First Community Support Blitz on Facebook</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-creating-a-captivating-experience-with-your-first-facebook-live/"><u>[New] Creating a Captivating Experience with Your First Facebook Live</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mobile-communication-redefined-best-10-secured-free-video-call-apps-to-keep-you-covered-on-devices-for-2024/"><u>[New] Mobile Communication Redefined Best 10 Secured, Free Video Call Apps to Keep You Covered on Devices for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-navigating-online-hostility-on-video-platforms/"><u>[New] Navigating Online Hostility on Video Platforms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-new-lens-on-sony-s3700-blu-ray-play-reviews/"><u>[New] New Lens on Sony S3700 Blu-Ray PLAY Reviews</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-youtubes-limits-tips-to-fix-stalled-video-encoding-at-critical-percentages/"><u>Bypass YouTube's Limits: Tips to Fix Stalled Video Encoding at Critical Percentages</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/m2-nvme-ssd-windows-pc/"><u>M.2 NVMe SSD クローニングガイド：Windows PC用高速冗長化ツール</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transcode-dvds-effortlessly-how-to-turn-them-into-mp4mkvmov-files/"><u>Transcode DVDs Effortlessly - How to Turn Them Into MP4/MKV/MOV Files!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-common-issues-resolving-youtube-not-responding-on-your-android-device/"><u>Troubleshooting Common Issues: Resolving 'YouTube Not Responding' On Your Android Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-successfully-viewing-your-downloaded-youtube-content/"><u>Troubleshooting Guide: Successfully Viewing Your Downloaded YouTube Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-silent-playback-resolving-the-no-audio-issue-on-media-player-windows-10/"><u>Troubleshooting Silent Playback: Resolving the No Audio Issue on Media Player Windows 10</u></a></li>
 </ul></div>
 

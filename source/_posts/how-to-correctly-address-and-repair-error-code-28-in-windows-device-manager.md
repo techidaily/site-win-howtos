@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Repair 'Error Code 28' In Windows Device Manager
-date: 2024-11-27T10:01:44.264Z
-updated: 2024-11-28T04:34:27.066Z
+date: 2024-12-02T20:09:39.159Z
+updated: 2024-12-07T18:42:50.912Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/368cd26d3749cfcc0c9a3f4f17a7f654d421407ed
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **LAN settings**  under**Connection** pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-4.png)
@@ -40,14 +44,10 @@ thumbnail: https://thmb.techidaily.com/368cd26d3749cfcc0c9a3f4f17a7f654d421407ed
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now try to install Windows Updates now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
@@ -61,7 +61,7 @@ Now try to install Windows Updates now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Clear Exceptions box if there were any content in it.
@@ -70,15 +70,15 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6) Exit Internet Explorer and run Command Prompt.
 
 Find and click to open Command Prompt from Start menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Run the commands below one by one.
 
@@ -100,10 +100,6 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Now Internet Connection window is open.
 
 Double-click on your active Network Adapter.
@@ -111,10 +107,6 @@ Double-click on your active Network Adapter.
  Then click **Properties**  and double-click on **Internet Protocol Version 4 (TCP/IPv4)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Locate Use the following DNS server addresses.
 
@@ -140,19 +132,23 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
 
  Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
 
@@ -167,6 +163,10 @@ If the fixes above didn’t serve you, try this one.
  And name the new key**A** **U** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
 
@@ -195,22 +195,18 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-breaking-down-the-free-fcp-puzzle/"><u>[New] Breaking Down The Free FCP Puzzle</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-capture-and-convert-your-instagram-feeds-top-15-free-exporters-for-windows-and-macos-users/"><u>[New] Capture and Convert Your Instagram Feeds Top 15 Free Exporters For Windows & macOS Users</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-frozen-frontier-showcasing-2022s-olympic-peaks-and-precision-riders/"><u>[New] Frozen Frontier Showcasing 2022'S Olympic Peaks and Precision Riders</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-art-of-visual-storytelling-with-iphone-xs-new-lens/"><u>[Updated] The Art of Visual Storytelling with iPhone X's New Lens</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essentials-of-time-stamped-photography/"><u>2024 Approved The Essentials of Time-Stamped Photography</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-youtubers-ultimate-guide-10-keys-to-unique-short-form-videos/"><u>2024 Approved Youtubers' Ultimate Guide 10 Keys to Unique Short-Form Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-to-tackle-microsoft-edge-malfunction-on-your-windows-tenth-gen-pc/"><u>Comprehensive Solutions to Tackle Microsoft Edge Malfunction on Your Windows Tenth-Gen PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehhemic-approach-to-repairing-and-preventing-cod-black-ops-4-malfunctions/"><u>Comprehhemic Approach to Repairing and Preventing COD Black Ops 4 Malfunctions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-restore-your-windows-11-computers-broken-usb-connections/"><u>Effective Solutions to Restore Your Windows 11 Computer's Broken USB Connections</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-ce-34878-0-issue-quickly-for-your-ps4-console/"><u>How to Fix the CE-34878-0 Issue Quickly for Your PS4 Console</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-fixing-steam-disk-error-write-failed-instantly/"><u>Mastering the Art of Fixing Steam 'Disk Error: Write Failed' Instantly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-frozen-chromium-experience-with-easy-relaunch-steps/"><u>Overcome Frozen Chromium Experience with Easy Relaunch Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-hurdle-correcting-error-0x800f081f-in-net-framework-35-implementation/"><u>Overcoming the Hurdle: Correcting Error 0X800F081F in .NET Framework 3.5 Implementation</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tech-tip-reducing-microsoft-telemetrys-impact-on-hard-drive-space-for-windows-10/"><u>Tech Tip: Reducing Microsoft Telemetry's Impact on Hard Drive Space for Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-usb-ports-on-windows-11-a-step-by-step-guide/"><u>Troubleshooting Non-Functional USB Ports on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/world-of-warcraft-stability-tweaks-fix-your-crashes-in-minutes/"><u>World of Warcraft Stability Tweaks: Fix Your Crashes in Minutes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-pro-level-clarity-top-8k-cameras-for-the-ultimate-picture-for-2024/"><u>[New] Pro-Level Clarity Top 8K Cameras for the Ultimate Picture for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-choosing-pro-stream-vmix-vs-wirecast-battle/"><u>[Updated] 2024 Approved Choosing Pro Stream VMix Vs. Wirecast Battle</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-mac-alternatives-for-expert-screen-recording-and-playback/"><u>2024 Approved Best Mac Alternatives for Expert Screen Recording & Playback</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026703106-720p1080p/"><u>高解像度への移行 - 720Pビデオを1080pにアップコンバートする手順</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026518358-wonderfox/"><u>現在ある限り、WonderFoxで受けられるオンライン上の専門知識と最新ニュース</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028255517-android/"><u>Androidでの音楽再生がうまくいかない時、その理由と解決策を詳しく見てみよう</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-lava-yuva-3-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Lava Yuva 3 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-apple-iphone-6-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your Apple iPhone 6 in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/skype-capture-manual-unveiling-the-best-free-and-paid-practices-windowsmac/"><u>Skype Capture Manual Unveiling the Best Free and Paid Practices (Windows/Mac)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-realities-of-the-genius-widecam-f100-struggles-with-visual-resolution-and-audio-echos/"><u>Unveiling the Realities of the Genius WideCam F100: Struggles with Visual Resolution & Audio Echos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/xbox-one-disc-error-troubleshooting-latest-solutions-for-reading-problems-as-of-april-2024/"><u>Xbox One Disc Error Troubleshooting - Latest Solutions for Reading Problems as of April 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028571800-5/"><u>ビデオ撮影者が選ぶ5つのおすすめ動画文字化シーンアプリ - 見やすく、使い勝手良し！</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026739742-dailymotion/"><u>ブラウザでDailymotion動画を安全に保存するためのテクニック</u></a></li>
 </ul></div>
 

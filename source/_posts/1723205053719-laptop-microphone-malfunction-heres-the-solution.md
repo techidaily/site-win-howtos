@@ -1,7 +1,7 @@
 ---
 title: Laptop Microphone Malfunction? Here's the Solution!
-date: 2024-11-21T17:17:59.714Z
-updated: 2024-11-27T22:36:46.484Z
+date: 2024-12-02T17:54:35.032Z
+updated: 2024-12-07T18:08:35.940Z
 tags:
   - win11
   - win10
@@ -30,12 +30,16 @@ Read on this small guide and follow to solve the problem on your Windows.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Diagnostics Policy Service?
 
  The Diagnostic Policy Service enables problem detection, troubleshooting and resolution for Windows components on your Windows operating system. If this service is not running, diagnostics will no longer function.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix the Diagnostics Policy Service is not running issue?
@@ -45,10 +49,6 @@ Read on this small guide and follow to solve the problem on your Windows.
 1. [Check the Diagnostics Policy Service in the Services window](#solution1)
 2. [Give the network service and local service administrator privilege on your Windows](#solution2)
 3. [Reinstall your all network adapters](#solution3)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 1: Check the Diagnostics Policy Service in the Services window
 
@@ -76,6 +76,10 @@ Follow these steps：
 
 6) Run the Network Diagnostics and see if it goes well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 2: Give the network service and local service administrator privilege on your Windows
 
  This problem could happen due to the service doesn’t have access to run properly. You can easily fix it by giving the services administrator privilege.
@@ -98,10 +102,6 @@ net localgroup Administrators /add localservice
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d606b83cd1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Close the Command Prompt window, and run the Network Diagnostics to see if it goes well.
 
 ### Solution 3: Reinstall your network adapters
@@ -119,16 +119,12 @@ net localgroup Administrators /add localservice
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d60d018c06.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4） Click**Action** \>**Scan for hardware changes** . Microsoft should then reload the network adapter driver automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d60ec552a4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Run the Network Diagnostics to see if it goes well. If it keeps giving you the error, install the latest driver for your network adapter then.
 
@@ -143,6 +139,10 @@ net localgroup Administrators /add localservice
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad30f1e3ff8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the **FREE** version).
 
@@ -169,18 +169,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-accelerate-vimeo-video-experience-for-2024/"><u>[New] Accelerate Vimeo Video Experience for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-content-distribution-showdown-vimeo-vs-youtubes-and-dailymotions/"><u>[New] In 2024, Content Distribution Showdown Vimeo vs YouTubes and DailyMotions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-streamline-screen-recording-processes-during-facetime/"><u>[Updated] Streamline Screen-Recording Processes During FaceTime</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-mending-broken-operating-system-files-in-windows-10-and-11/"><u>Diagnosing and Mending Broken Operating System Files in Windows 10 & 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/end-crackling-audio-from-computer-speakers-effective-techniques-for-windows-users/"><u>End Crackling Audio From Computer Speakers: Effective Techniques for Windows Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-auto-gpt-unveiling-its-distinct-features-compared-to-chatgpt/"><u>Exploring Auto-GPT: Unveiling Its Distinct Features Compared to ChatGPT</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/file-explorer-tricks-for-windows-11-users-quick-help-and-easy-fixes/"><u>File Explorer Tricks for Windows 11 Users - Quick Help & Easy Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-when-your-hp-laptops-mouse-pad-wont-work/"><u>How to Fix When Your HP Laptop's Mouse Pad Won't Work</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-peak-performance-pfv-settings-for-easy-movement/"><u>In 2024, Peak Performance PFV Settings for Easy Movement</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/291071-9781416560661-matrix-energetics/"><u>Matrix Energetics | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-microsoft-wireless-adapter-connectivity-error-in-windows-10-environments/"><u>Step-by-Step Solutions for Microsoft Wireless Adapter Connectivity Error in Windows 10 Environments</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-captivate-viewers-learn-to-perfectly-border-ig-videos/"><u>[Updated] Captivate Viewers Learn to Perfectly Border IG Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-step-by-step-guide-to-reclaiming-lost-facebook-moments/"><u>[Updated] Step-by-Step Guide to Reclaiming Lost Facebook Moments</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-and-convenient-video-edits-in-windows-11-photos/"><u>In 2024, Quick & Convenient Video Edits in Windows 11 Photos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nba-2k24-troubleshooting-guide-solving-error-code-727e66ac/"><u>NBA 2K24 Troubleshooting Guide: Solving Error Code 727E66AC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/resolving-problems-with-windows-movie-maker-in-windows-11-a-step-by-step-guide-for-silent-playback/"><u>Resolving Problems with Windows Movie Maker in Windows 11 - A Step-by-Step Guide for Silent Playback</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-integrating-new-fallout-features-into-your-kodi-matrix-setup/"><u>Step-by-Step Tutorial: Integrating New Fallout Features Into Your Kodi Matrix Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-mastering-the-art-of-screen-recording-on-msi-computers/"><u>Step-by-Step Tutorial: Mastering the Art of Screen Recording on MSI Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-transforming-your-mp4-files-into-high-quality-wav-format-using-the-latest-audacity-software/"><u>Step-by-Step Tutorial: Transforming Your MP4 Files Into High-Quality WAV Format Using the Latest Audacity Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-comprehensive-walkthrough-for-dvd-content-transfer-between-pcs-and-macs/"><u>The Comprehensive Walkthrough for DVD Content Transfer Between PCs and Macs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-price-point-in-online-advertising-for-2024/"><u>The Price Point in Online Advertising for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/top-priority-notes-techniques-for-enhanced-productivity-in-windows/"><u>Top Priority Notes Techniques for Enhanced Productivity in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-no-cost-xvid-to-mp4-converter-software-simple-steps-for-windows-users/"><u>Top Rated No-Cost Xvid to Mp4 Converter Software - Simple Steps for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-strategies-for-downloading-high-quality-flac-songs/"><u>Top Strategies for Downloading High-Quality FLAC Songs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-video-format-transformer-convert-dvds-to-avi-and-more-on-windows-1011/"><u>Top-Rated Video Format Transformer: Convert DVDs to Avi & More on Windows 10/11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-solving-elden-rings-multiplayer-connectivity-problems/"><u>Troubleshooting Guide: Solving Elden Ring's Multiplayer Connectivity Problems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Restoring Functionality to Malfunctioning Function Keys on ASUS Notebooks
-date: 2024-11-24T21:18:23.556Z
-updated: 2024-11-28T03:56:13.372Z
+date: 2024-11-30T19:00:43.295Z
+updated: 2024-12-07T18:48:50.075Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/4740430244a268b3ae9a4b1e15c683b234a7cf8bd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -37,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/4740430244a268b3ae9a4b1e15c683b234a7cf8bd
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -47,19 +47,23 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -80,7 +84,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -114,7 +118,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -125,10 +129,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -184,20 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/2024-approved-cinematic-brilliance-uncovered-top-filmmaking-secrets/"><u>2024 Approved Cinematic Brilliance Uncovered Top Filmmaking Secrets</u></a></li>
-<li><a href="https://win-docs.techidaily.com/best-seo-companies-in-jeddah-expert-agency-services-from-seo-powersuite/"><u>Best SEO Companies in Jeddah: Expert Agency Services From SEO PowerSuite</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/deciphering-http-403-errors-and-effective-solutions-for-unauthorized-access-issues/"><u>Deciphering HTTP 403 Errors & Effective Solutions for Unauthorized Access Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-31-solutions-for-smooth-windows-operation/"><u>Error Code 31 Solutions for Smooth Windows Operation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-night-light-feature-not-working-in-windows-1011-step-by-step-guide/"><u>How to Fix Night Light Feature Not Working in Windows 10/11 - Step by Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-leverage-twitter-with-these-easy-to-use-hashtag-monitoring-tools-successguide/"><u>How to Leverage Twitter with These Easy-to-Use Hashtag Monitoring Tools (#SuccessGuide)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-max-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS Max To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/resolve-compile-error-in-hidden-module-in-excel-2010-causes-and-solutions-stellar-by-stellar-guide/"><u>Resolve Compile Error in Hidden Module in Excel 2010 Causes & Solutions | Stellar</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/solving-hp-display-drivers-problems-in-windows-11-8-and-7/"><u>Solving HP Display Drivers Problems in Windows 11, 8 & 7</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/tecniche-di-ottimizzazione-per-la-riduzione-delle-dimensioni-dei-video-mov-strategie-top/"><u>Tecniche Di Ottimizzazione per La Riduzione Delle Dimensioni Dei Video MOV: Strategie Top</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-perfect-blemish-free-3d-printing-results/"><u>The Ultimate Guide to Perfect, Blemish-Free 3D Printing Results</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-overcoming-error-0x800f020b-during-a-xerox-printer-update-on-windows-machines/"><u>Troubleshooting Guide for Overcoming Error 0X800f020b During a Xerox Printer Update on Windows Machines</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-successfully-reinstalling-battleye-security-suite/"><u>Troubleshooting Guide: Successfully Reinstalling BattlEye Security Suite</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-persistent-bluetooth-pairing-problems-on-win10/"><u>Troubleshooting Steps for Persistent Bluetooth Pairing Problems on Win10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-for-yahoo-mail-failure-to-receive-emails/"><u>Troubleshooting Steps for Yahoo Mail Failure to Receive Emails</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-wolfenstein-2-could-not-write-crash-dump/"><u>[Fixed] Wolfenstein 2 Could Not Write Crash Dump</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-maximize-your-streams-impact-our-recommendations-for-best-9-filters/"><u>[New] In 2024, Maximize Your Stream's Impact Our Recommendations for Best 9 Filters</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-secure-and-share-your-live-sounds-5-proven-online-approaches/"><u>[Updated] 2024 Approved Secure & Share Your Live Sounds - 5 Proven Online Approaches</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-digital-dynamics-how-to-share-videos-effectively-on-facebooks-stage/"><u>2024 Approved Digital Dynamics How to Share Videos Effectively on Facebook's Stage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202768284-easy-fixes-for-windows-11-pc-reset-errors-learn-how-to-resolve-them-today/"><u>Easy Fixes for Windows 11 PC Reset Errors - Learn How to Resolve Them Today!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortlessly-blend-tracks-with-these-3-easy-techniques-a-visual-guide/"><u>Effortlessly Blend Tracks with These 3 Easy Techniques: A Visual Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-fix-cache-miss-error-errcachemiss-on-google-chrome/"><u>Expert Tips to Fix 'Cache Miss' Error (ERR_CACHE_MISS) on Google Chrome</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-boot-guide-overcoming-slow-startups-in-windows-7-systems/"><u>Fast Boot Guide: Overcoming Slow Startups in Windows 7 Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/first-choice-firefox-recording-packages/"><u>First Choice Firefox Recording Packages</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208017909-huion-pen-issues-heres-how-to-restore-functionality-quickly/"><u>Huion Pen Issues? Here's How to Restore Functionality Quickly!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-honor-x50-gt-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Honor X50 GT to New Phone | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-wipe-out-your-youtube-buffered-videos/"><u>In 2024, How-To Wipe Out Your YouTube Buffered Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimize-your-folder-management-a-users-guide-to-file-explorer-in-windows-11/"><u>Optimize Your Folder Management: A User's Guide to File Explorer in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-pcs-sudden-sleep-problems-with-simple-fixes/"><u>Resolve Your PC's Sudden Sleep Problems with Simple Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723201119149-troubleshooting-tips-for-an-unresponsive-xbox-one-contoller-quick-fixes/"><u>Troubleshooting Tips for an Unresponsive Xbox One Contoller - Quick Fixes</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-mocking-sponge-bob-meme-generator-for-2024/"><u>Updated Mocking Sponge Bob Meme Generator for 2024</u></a></li>
 </ul></div>
 

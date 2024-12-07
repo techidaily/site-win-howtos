@@ -1,7 +1,7 @@
 ---
 title: Easy Solutions to Fix Lenovo Functional Key Failures - Step-by-Step Tips
-date: 2024-11-22T18:43:09.002Z
-updated: 2024-11-28T11:47:34.652Z
+date: 2024-12-04T20:49:57.523Z
+updated: 2024-12-07T17:30:08.495Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/76e26b163e9495753f19f00ef08b09cc2666b4e5e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Fixes for Astro A40 Mic Not Working
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/76e26b163e9495753f19f00ef08b09cc2666b4e5e
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot hardware issues
 
  Before we make any changes, we might have to troubleshoot hardware issues. To do so:
@@ -53,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/76e26b163e9495753f19f00ef08b09cc2666b4e5e
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Make sure the volume is audible
@@ -64,6 +68,10 @@ To make sure the volume is audible:
 
 1. Click **the sound icon**  on the lower-right of your screen, then move **the volume slider**  all the way  to at least halfway up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
@@ -83,10 +91,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
@@ -94,13 +98,13 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -115,10 +119,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -156,16 +156,22 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-decoding-the-intricacies-of-tiktoks-pfp-language/"><u>[New] In 2024, Decoding the Intricacies of TikTok’s PFP Language</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-premier-promises-the-art-of-the-podcast-prelude/"><u>[New] In 2024, Premier Promises The Art of the Podcast Prelude</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mov-avi-movavi/"><u>「オンラインでのMov AVIファイル対応自由変換サービス - Movavi」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-chronic-computer-stalling-and-unresponsiveness-issues/"><u>Expert Tips for Fixing Chronic Computer Stalling and Unresponsiveness Issues</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/gamers-choice-award-best-console-picks-for-the-year/"><u>Gamers' Choice Award: Best Console Picks for the Year ^</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-broken-usb-input-devices-on-your-windows-7-pc/"><u>How to Fix Broken USB Input Devices on Your Windows 7 PC</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-web-of-fame-insights-into-facebook-twitter-instagram-and-youtube/"><u>Navigating the Web of Fame: Insights Into Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/review-ultra-hd-blade-cam-at-full-spectrum-for-2024/"><u>Review Ultra HD Blade Cam at Full Spectrum for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723009987243-swtor-launch-woes-heres-how-you-can-easily-solve-them/"><u>SWTOR Launch Woes? Here's How You Can Easily Solve Them</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-youtube-sound-issues-fixing-audio-renderer-errors-in-windows-11/"><u>Troubleshooting YouTube Sound Issues: Fixing Audio Renderer Errors in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-start-menu-issues-discover-quick-solutions/"><u>Windows 11 Start Menu Issues? Discover Quick Solutions!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-effortlessly-access-your-most-watched-fb-movies-post-2023/"><u>[Updated] 2024 Approved Effortlessly Access Your Most-Watched FB Movies Post-2023</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-major-listing-of-affordable-visual-content-sites/"><u>[Updated] 2024 Approved Major Listing of Affordable Visual Content Sites</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-shopping-smart-with-drones-what-you-need-to-think-about-first/"><u>[Updated] 2024 Approved Shopping Smart with Drones What You Need to Think About First</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-creating-captivating-youtube-openers-two-ways/"><u>2024 Approved Creating Captivating YouTube Openers - Two Ways</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-oppo-reno-11-pro-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Oppo Reno 11 Pro 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-the-reason-behind-automatic-song-selection-in-apple-music-on-ios-devices/"><u>Exploring the Reason Behind Automatic Song Selection in Apple Music on iOS Devices</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-razer-drivers-for-windows-users-supports-windows-11-8-7-xp-vista/"><u>Get the Latest Razer Drivers for Windows Users - Supports Windows 11, 8, 7, XP, Vista</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-y100a-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo Y100A</u></a></li>
+<li><a href="https://article-posts.techidaily.com/optimize-space-compelling-selection-of-20-top-free-cloud-storages-up-to-1tb/"><u>Optimize Space Compelling Selection of 20 Top FREE Cloud Storages (Up To 1TB)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rotating-mov-file-formats-for-windows-and-mac-users-top-5-techniques-explained/"><u>Rotating Mov File Formats for Windows & Mac Users: Top 5 Techniques Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-of-non-playable-tweets-a-comprehensive-guide/"><u>Solving the Issue of Non-Playable Tweets: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-adding-subtitles-on-mx-player/"><u>Step-by-Step Guide: Adding Subtitles on MX Player</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-transforming-wma-files-into-mp3-format-using-vlc-media-player/"><u>Step-by-Step Guide: Transforming WMA Files Into MP3 Format Using VLC Media Player</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-utilizing-the-advanced-features-of-swf-video-converter-factory-pro/"><u>Step-by-Step Tutorial on Utilizing the Advanced Features of SWF Video Converter Factory Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-transforming-lmms-projects-from-mmpz-to-popular-audio-formats-like-mp3-wav-and-ogg/"><u>Step-by-Step Tutorial: Transforming LMMS Projects From MMPZ to Popular Audio Formats Like MP3, WAV, and OGG</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-dvd-ripper-and-converter-software-for-windows-1011-optimal-choices-for-legal-backups-and-playback/"><u>Top DVD Ripper & Converter Software for Windows 10/11: Optimal Choices for Legal Backups and Playback</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-free-kodi-extensions-discover-the-best-options-for-watching-movies-and-tv-series-without-payment/"><u>Top Free Kodi Extensions: Discover the Best Options for Watching Movies & TV Series Without Payment</u></a></li>
 </ul></div>
 

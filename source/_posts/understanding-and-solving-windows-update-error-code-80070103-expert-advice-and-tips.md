@@ -1,7 +1,7 @@
 ---
 title: "Understanding and Solving Windows Update Error Code 80070103: Expert Advice & Tips"
-date: 2024-11-05T18:55:58.319Z
-updated: 2024-11-07T18:54:07.912Z
+date: 2024-12-06T17:30:48.894Z
+updated: 2024-12-07T22:14:32.339Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -51,42 +55,19 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 ![download the latest version of IE 11](https://images.drivereasy.com/wp-content/uploads/2018/09/download-the-latest-version-of-IE-11.jpg)
 3. Install the latest version of IE 11 on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then Type **control** and press **Enter** to open the Control Panel.  
 ![step 4](https://images.drivereasy.com/wp-content/uploads/2018/09/step-4.jpg)
 5. In the search box in the upper-right corner, type **installed update** . Click **View installed updates** under **Programs and Features**  to view installed updates on your PC.  
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![View installed updates](https://images.drivereasy.com/wp-content/uploads/2018/09/View-installed-updates.jpg)
 6. Delete **Hotfix for Microsoft Windows (KB2534111)** and **Hotfix for Microsoft Windows (KB2639308)** .   **If you don’t find these two hot fixes, please skip this step.**  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![step 6](https://images.drivereasy.com/wp-content/uploads/2018/09/step-6.jpg)
 7. Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Open IE and go through the welcome screen. Then close all the tabs to close IE.
 9. Restart your PC.
@@ -101,6 +82,11 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 2. **Double-click** the downloaded file (**WindowsUpdate.diagcab** ) to run the troubleshooter, and then click **Next** .  
 ![Windows Update](https://images.drivereasy.com/wp-content/uploads/2018/09/Windows-Update.jpg)  
 **Note:** If your current operating system is **Windows 7** , you just need to wait until the troubleshooter finishes the process and shows you the process result. If your current operating system is **Windows 8** or **Windows 10** , you may need to follow the steps below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. If there is a more recent version of Windows Update troubleshooter available, click to run it.  
 ![Updated Troubleshooter Available](https://images.drivereasy.com/wp-content/uploads/2018/09/Updated-Troubleshooter-Available.jpg)
 4. In the new version of Windows Update troubleshooter, click **Next** . The troubleshooter will check the available updates for your machine.  
@@ -111,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 
  The troubleshooter will try to fix the issue for you. You can restart your computer and try performing the Windows update again. If it still doesn’t work, please try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Restart the Windows Update service
 
  You may see this error code if there is something wrong with the Windows Update service. You can try restarting the Windows Update service to resolve this problem. Here’s how to do it:
@@ -127,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 2. Right-click **Windows Update**  and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.  
 ![Fix 3 step 2](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-3-step-2.jpg)
 3. On your keyboard, press **the Windows Logo Key** and **E** at the same time to open **File Explorer** . Copy the path below and paste it in the address bar, then press **Enter** on your keyboard to go to the **DataStore**  folder.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **C:\\Windows\\SoftwareDistribution\\DataStore**  
 
@@ -152,23 +135,32 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 ![Fix 4 step 1](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-4-step-1.jpg)
 2. On your keyboard, type the command lines below one by one and press **Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Dism /Online /Cleanup-Image /ScanHealth**  
 ![DISM ScanHealth](https://images.drivereasy.com/wp-content/uploads/2018/09/DISM-ScanHealth.jpg)  
 **Note:** When you run the command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Dism /Online /Cleanup-Image /CheckHealth**  
 ![DISM CheckHealth](https://images.drivereasy.com/wp-content/uploads/2018/09/DISM-CheckHealth.jpg)  
 **Note:** When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image exists corruptions or not. This command line also doesn’t repair the corrupted files.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Dism /Online /Cleanup-Image /RestoreHealth**  
 ![DISM RestoreHealth](https://images.drivereasy.com/wp-content/uploads/2018/09/DISM-RestoreHealth.jpg)  
  Note: The command line **Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official source online.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Close Command Prompt when the restore operation completed.  
@@ -177,10 +169,7 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Run System File Checker
@@ -190,13 +179,6 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 1. On your keyboard, press **the Windows Logo Key** and then type **cmd** in the search box. When you see **Command Prompt** in the list of results, right-click it and then select **Run as administrator** . You will be prompted for permission. Click **OK** to run **Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-5-step-1.jpg)
 2. On your keyboard, type the following command and press **Enter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **sfc /scannow**  
 ![sfc sacannow](https://images.drivereasy.com/wp-content/uploads/2018/09/sfc-sacannow.jpg)
@@ -230,14 +212,11 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-6-step-6.jpg)
 7. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
 
-## This issue persists?
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## This issue persists?
 
 ### Want us to fix the problem for you?
 
@@ -266,21 +245,22 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-capture-live-camera-feed-in-vlc-media-player/"><u>[New] Capture Live Camera Feed in VLC Media Player</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/aking-text-dance-2-creative-animation-strategies-for-2024/"><u>[New] Making Text Dance 2 Creative Animation Strategies for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-the-complete-guide-to-conquering-video-editing-with-vivocut/"><u>[New] The Complete Guide to Conquering Video Editing with VivoCut</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/outube-master-of-moneymaking-skills/"><u>[New] YouTube Master of Moneymaking Skills</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-in-depth-analysis-of-live-streaming-tech/"><u>[Updated] 2024 Approved In-Depth Analysis of Live Streaming Tech</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-tempo-treasure-trove-compiling-the-best-dj-visuals-download/"><u>2024 Approved Tempo Treasure Trove Compiling the Best DJ Visuals Download</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-windows-11-screensaver-functionality-after-updates/"><u>How to Restore Windows 11 Screensaver Functionality After Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-solve-the-svchostexe-network-overload-problem-on-your-pc-expert-tips/"><u>How to Solve the Svchost.exe Network Overload Problem on Your PC: Expert Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-stop-erratic-display-fluctuations-in-windows-10/"><u>How to Stop Erratic Display Fluctuations in Windows 10</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-clipmaster-software/"><u>In 2024, ClipMaster Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-paint-shop-pro-tricks/"><u>In 2024, Premier Paint Shop Pro Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-wow-speed-effective-fixes-for-in-game-lags/"><u>Mastering WoW Speed: Effective Fixes for In-Game Lags</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-awakenings-windows-11-sleeps-peacefully/"><u>No More Awakenings: Windows 11 Sleeps Peacefully</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-how-to-fix-a-non-functional-corsair-hs50-headset-microphone/"><u>Solved: How to Fix a Non-Functional Corsair HS50 Headset Microphone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/sony-s6500-blu-ray-reader-an-updated-analysis/"><u>Sony S6500 Blu-Ray Reader An Updated Analysis</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205561362-troubleshooting-a-non-functional-astro-a40-microphone-resolved/"><u>Troubleshooting a Non-Functional Astro A40 Microphone - Resolved!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-double-edged-sword-of-virtual-reality/"><u>[New] In 2024, The Double-Edged Sword of Virtual Reality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-integrating-luts-into-professional-movie-post-processing/"><u>[New] Integrating Luts Into Professional Movie Post-Processing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-30plus-metaverse-quotes-to-inspire-you-ar-and-vr-included/"><u>[Updated] In 2024, 30+ Metaverse Quotes to Inspire You [AR & VR Included]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/converti-file-mpe-a-formato-avi-online-gratuitamente-con-movavi/"><u>Converti File MPE a Formato AVI Online Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-configure-your-apple-watch-with-gmail-access/"><u>Easy Steps to Configure Your Apple Watch with Gmail Access</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guida-pratica-alla-creazione-di-presentazioni-convincenti-usando-liphone-e-movavi-istruzioni-semplificate/"><u>Guida Pratica Alla Creazione Di Presentazioni Convincenti Usando L'iPhone E Movavi: Istruzioni Semplificate</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-the-art-of-youtube-posts-via-instagram-stories/"><u>In 2024, Mastering the Art of YouTube Posts via Instagram Stories</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-narzo-60-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme Narzo 60 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-cinematic-techniques-with-youtube-veterans-and-novices/"><u>Learn Cinematic Techniques with YouTube Veterans and Novices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/moverse-sin-costo-entre-formatos-ogg-y-wav-online-usando-el-servicio-de-movavi/"><u>Moverse Sin Costo Entre Formatos OGG Y WAV Online Usando El Servicio De Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mpg-naar-flv-vervanging-kostenloos-en-direct-moviesaver/"><u>MPG Naar FLV Vervanging Kostenloos en Direct - MovieSaver</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-mp4-aiff-movavi/"><u>Online MP4과 AIFF 영상 무료 전환 - Movavi</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/cting-your-yt-earning-monetization-verification-steps-for-2024/"><u>Perfecting Your YT Earning Monetization Verification Steps for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/techniques-gratuites-pour-convertir-un-fichier-nsv-en-format-mpeg-avec-moveave/"><u>Techniques Gratuites Pour Convertir Un Fichier NSV en Format MPEG Avec Moveave</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-15-gratis-videovy-konverter-typu-mac/"><u>Top 15 Grátis Vídeový Konvertér Typu Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformez-facilement-votre-fichier-webm-en-wmv-gratuitement-avec-convertwbm2wmvcom/"><u>Transformez Facilement Votre Fichier Webm en WMV Gratuitement Avec ConvertWbm2WMV.com</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/videoya-music-library-integration-download-and-sync-across-android-ios-and-desktop/"><u>Videoya Music Library Integration - Download & Sync Across Android, iOS, and Desktop</u></a></li>
 </ul></div>
 

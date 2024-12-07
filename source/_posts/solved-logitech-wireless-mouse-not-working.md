@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Logitech Wireless Mouse Not Working"
-date: 2024-11-21T04:57:02.730Z
-updated: 2024-11-28T12:13:20.084Z
+date: 2024-12-05T22:08:16.426Z
+updated: 2024-12-07T20:36:43.730Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ The remaster of**Total War: Rome** has been out with quite a slew of evolved fea
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Total War: ROME REMASTERED Crashing on PC
 
  Here are eight fixes that have helped other players resolve the Total War: ROME REMASTERED crashing on PC problem. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -34,10 +38,6 @@ The remaster of**Total War: Rome** has been out with quite a slew of evolved fea
 6. **[Install the latest patch](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Total War: ROME REMASTERED and Steam](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: **Make sure your PC meets the minimum specifications for Total War: ROME REMASTERED**
 
@@ -58,20 +58,24 @@ To check Windows Build of your PC:
 1. On your keyboard, press the**Windows logo** key![](https://images.drivereasy.com/wp-content/uploads/2020/08/Windows-logo-key.png) and**R** at the same time, then type **winver** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. In the window that pops up, you can check the exact version of the copy of Windows on your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/22-1.png)
 3. Once finished, click**OK** to exit the window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To check the specs of your PC:
 
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-Run-box.jpg)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
@@ -82,10 +86,6 @@ To check the specs of your PC:
  You may need to upgrade the hardware of your computer if it fails to meet the specs.
 
  If your PC specs are up to the mark but Total War: ROME REMASTERED still crashes, please move on to **Fix 2** , below to begin troubleshooting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
 
@@ -102,16 +102,8 @@ To check the specs of your PC:
 ![Update drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/Update-drivers-with-Driver-Easy.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 5. Launch Total War: ROME REMASTERED and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Run Steam as administrator
 
@@ -122,10 +114,6 @@ Here’s how:
 1. On your keyboard, press the **Windows logo key** and type **epic** , then right-click on **Steam**  and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/123-1.png)
 2. Click **Yes**  when UAC promots for permissions to proceed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After that, launch Total War: ROME REMASTERED game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 4** , below.
 
@@ -152,6 +140,10 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-1-1.png)
 2. In the window that pops up, click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall-1.png)
 3. Browse through the list of Allowed apps and features to see if Steam is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
 
@@ -159,7 +151,7 @@ Here’s how:
 4. Once completed, click **OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Run the game in the client and see if it still crashes. If it’s still on-going, please move on to **Fix 6** .
@@ -167,7 +159,7 @@ Here’s how:
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. During this time, be extra careful about what sites you visit, what emails you open and what files you download.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Install the latest patch
@@ -186,8 +178,17 @@ Here are the steps to perform a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/msconfig-1.png)
 2. Click the **Services**  tab and tick the box for **Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/service-and-hide-all-microsoft-services-1.png)
 3. Browse through the full list of services, make sure to   **check the boxes for the items that belong to your hardware manufacturers**  (such as Intel, AMD, and Qualcomm) and **uncheck the boxes for the rest** . Once finished, click **OK** to apply the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/esential.png)
 4. Restart your computer, then test to see if the game still crashes.  
 
@@ -219,22 +220,22 @@ Here are the steps to perform a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-elite-photo-safe-houses-online-for-2024/"><u>[New] Elite Photo Safe Houses Online for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-omni-angle-equipment-for-immersive-shoots-for-2024/"><u>[New] Omni-Angle Equipment for Immersive Shoots for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/een-geheugenproblem-met-de-navigatiescherm-map-op-windows-11-oplossingen-en-advice/"><u>Een Geheugenproblem Met De Navigatiescherm-Map Op Windows 11 - Oplossingen en Advice</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-addressing-non-charging-issues-on-a-connected-surface-unit/"><u>Expert Tips for Addressing Non-Charging Issues on a Connected Surface Unit</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206533046-guide-to-overcoming-cast-failures-windows-10-users-rejoice/"><u>Guide to Overcoming Cast Failures: Windows 10 Users Rejoice</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/halt-genuine-errors-for-unlicensed-adobe/"><u>Halt Genuine Errors for Unlicensed Adobe</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-much-could-you-make-on-youtube-snippets-for-2024/"><u>How Much Could You Make on YouTube Snippets for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-smart-8-hd-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Infinix Smart 8 HD</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-film-guide-top-15-timeless-stop-motion-classics/"><u>In 2024, The Ultimate Film Guide - Top 15 Timeless Stop Motion Classics</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/optimal-media-player-pc-and-tablet-edition-for-2024/"><u>Optimal Media Player (PC & Tablet Edition) for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-failed-network-connection-startups-in-your-dragon-ball-fighterz-adventure/"><u>Overcoming Failed Network Connection Startups in Your Dragon Ball FighterZ Adventure</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-overcome-insufficient-system-resources-error-with-effective-solutions/"><u>Resolved: Overcome 'Insufficient System Resources' Error with Effective Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-program-error-applicationexe-no-longer-crashes/"><u>Resolved: Program Error - 'Application.exe' No Longer Crashes</u></a></li>
-<li><a href="https://win-trending.techidaily.com/struggling-with-missing-appdata-directories-solutions-unveiled-for-swift-retrieval/"><u>Struggling with Missing AppData Directories? Solutions Unveiled for Swift Retrieval!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-the-persistent-windows-update-error-0x80240017/"><u>Ultimate Guide: Resolving the Persistent Windows Update Error 0X80240017</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-total-war-rome-remastered-game-crashes/"><u>Ultimate Guide: Solving Total War: Rome Remastered Game Crashes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/untangling-the-mystery-guide-to-accessing-and-moving-hidden-window-panes/"><u>Untangling the Mystery: Guide to Accessing and Moving Hidden Window Panes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-ultimate-guide-to-effortless-vrecorder-setup/"><u>[New] 2024 Approved The Ultimate Guide to Effortless VRecorder Setup</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-key-techniques-for-smooth-inshot-pivots/"><u>[New] Key Techniques for Smooth Inshot Pivots</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317080-9781401931995-beyond-happiness/"><u>Beyond Happiness | Free Book</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-troubleshooting-tips-to-restore-your-plex-streaming-experience-on-different-screens/"><u>Easy Troubleshooting Tips to Restore Your Plex Streaming Experience on Different Screens</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-ways-to-stream-mkv-video-formats-on-ios-devices/"><u>Easy Ways to Stream MKV Video Formats on iOS Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-techniques-for-converting-big-files-into-mp4-format/"><u>Effective Techniques for Converting Big Files Into MP4 Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficiently-convert-your-dvds-to-high-quality-avi-files-using-the-leading-programs-for-pcs-windows-1011/"><u>Efficiently Convert Your DVDs to High-Quality AVI Files Using the Leading Programs for PCs (Windows 10/11)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-high-quality-dvd-extraction-no-transcoding-needed/"><u>Effortless High-Quality DVD Extraction: No Transcoding Needed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-capture-screen-movements-in-windows-1011-top-3-methods-explained/"><u>How to Capture Screen Movements in Windows 10/11 - Top 3 Methods Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/imgburn/"><u>ImgBurnを始める - セットアップから日本語化:初心者にぬくもりあふれるチュートリアル</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-14-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 14 Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-file-transfer-with-webex-a-step-by-step-tutorial-for-on-the-go-usage/"><u>Mastering File Transfer with WebEx - A Step-by-Step Tutorial for On-the-Go Usage</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-yuva-2-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Yuva 2 Pro</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/speaking-through-screens-effective-communication-on-youtube/"><u>Speaking Through Screens Effective Communication on YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-pathway-to-a-powerful-instagram-influence-for-2024/"><u>The Pathway to a Powerful Instagram Influence for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-from-video-to-live-photo-expert-recommended-apps-and-guides-for-2024/"><u>Updated From Video to Live Photo Expert-Recommended Apps and Guides for 2024</u></a></li>
 </ul></div>
 

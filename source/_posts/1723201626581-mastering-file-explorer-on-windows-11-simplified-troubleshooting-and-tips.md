@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Explorer on Windows 11: Simplified Troubleshooting & Tips"
-date: 2024-11-25T00:15:30.283Z
-updated: 2024-11-27T19:43:57.746Z
+date: 2024-12-02T21:01:23.719Z
+updated: 2024-12-07T19:05:07.087Z
 tags:
   - win11
   - win10
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/dce6bc9a112b3f049356452f785b8eb72027385ba
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/dce6bc9a112b3f049356452f785b8eb72027385ba
  2) Type **services.msc**   and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a686110efd.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click **Bluetooth Support Service**   or any other service related, like **Bluetooth Driver Management System** . Then **Start** .
 
@@ -68,13 +72,13 @@ thumbnail: https://thmb.techidaily.com/dce6bc9a112b3f049356452f785b8eb72027385ba
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
@@ -85,16 +89,12 @@ thumbnail: https://thmb.techidaily.com/dce6bc9a112b3f049356452f785b8eb72027385ba
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
@@ -105,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/dce6bc9a112b3f049356452f785b8eb72027385ba
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
@@ -118,13 +118,13 @@ thumbnail: https://thmb.techidaily.com/dce6bc9a112b3f049356452f785b8eb72027385ba
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
@@ -145,7 +145,7 @@ thumbnail: https://thmb.techidaily.com/dce6bc9a112b3f049356452f785b8eb72027385ba
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -175,22 +175,20 @@ thumbnail: https://thmb.techidaily.com/dce6bc9a112b3f049356452f785b8eb72027385ba
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cultivating-a-community-building-followers-on-youtube-without-spending/"><u>[Updated] 2024 Approved Cultivating a Community Building Followers on YouTube Without Spending</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-subtitled-uninterrupted-access-to-9-festive-holiday-movies-free/"><u>[Updated] Subtitled, Uninterrupted Access to 9 Festive Holiday Movies - Free</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782279-9781594776267-a-study-of-numbers/"><u>A Study of Numbers | Free Book</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/brightening-indoor-realms-naturally-and-smartly/"><u>Brightening Indoor Realms Naturally and Smartly</u></a></li>
-<li><a href="https://video-capture.techidaily.com/comprehensively-ranked-win-11-hd-cameras-and-recorders-for-2024/"><u>Comprehensively Ranked Win 11 HD Cameras & Recorders for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/deciphering-msdia80dll-why-its-essential-and-how-to-handle-it/"><u>Deciphering msdia80.dll: Why It's Essential and How to Handle It</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/directx-1112-setup-woes-fixing-the-infamous-failed-d3d-device-issue/"><u>DirectX 11/12 Setup Woes? Fixing the Infamous Failed D3D Device Issue</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-setup-of-asus-pad-and-stylus-on-windows-10-with-the-latest-drivers/"><u>Effortless Setup of ASUS Pad & Stylus on Windows 10 with the Latest Drivers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/enhancing-workflow-zipping-up-zoom-integrations-in-gmail-for-2024/"><u>Enhancing Workflow Zipping Up Zoom Integrations in Gmail for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-cwindowssystemprofiledesktop-not-available-error/"><u>How to Overcome the C: Windows SystemProfile Desktop Not Available Error</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-magic-vs-2-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Magic Vs 2</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Realme C51? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-fix-for-the-notorious-stop-error-0xc0000005-in-microsoft-windows-systems/"><u>Master the Fix for the Notorious 'STOP' Error 0xC0000005 in Microsoft Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-interruptions-ultimate-guide-to-stop-buffering-in-kodi/"><u>No More Interruptions: Ultimate Guide to Stop Buffering in Kodi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/smooth-sailing-post-nvidia-installer-troubles/"><u>Smooth Sailing Post-NVIDIA Installer Troubles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixes-to-stop-screen-tearing-while-playing-valorant/"><u>Troubleshooting and Fixes to Stop Screen Tearing While Playing VALORANT</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-is-my-ps4-so-loud-uncovering-reasons-and-implementing-solutions-for-quieter-gameplay/"><u>Why Is My PS4 So Loud? Uncovering Reasons and Implementing Solutions for Quieter Gameplay</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-superior-selection-winning-16-free-video-tools/"><u>[Updated] Superior Selection Winning 16 Free Video Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-overcoming-the-invisible-screen-hurdle-youtube-fixes/"><u>2024 Approved Overcoming the Invisible Screen Hurdle YouTube Fixes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-power-of-words-enhancing-viewer-count-with-impressive-description-templates/"><u>2024 Approved The Power of Words Enhancing Viewer Count with Impressive Description Templates</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-itel-a05s-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Itel A05s without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-of-the-1byone-digital-indoor-hdtv-antenna-top-rated-budget-option/"><u>Comprehensive Review of the 1Byone Digital Indoor HDTV Antenna – Top-Rated Budget Option</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-the-latest-update-new-features-in-wonderfoxs-dvd-to-video-converter-version-306/"><u>Get the Latest Update: New Features in WonderFox's DVD to Video Converter - Version 30.6!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-accessing-free-meal-prep-videos-on-youtube-and-similar-platforms/"><u>Guide to Accessing Free Meal Prep Videos on YouTube and Similar Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-adjusting-high-speed-footage-from-120-fps-down-to-standard-24-fps-without-introducing-slow-motion-distortions/"><u>Guide to Adjusting High-Speed Footage From 120 FPS Down to Standard 24 FPS Without Introducing Slow Motion Distortions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-separate-audio-from-video-streaming-top-5-techniques-explained/"><u>How To Separate Audio From Video Streaming: Top 5 Techniques Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-depth-analysis-of-ezzermacs-spell-program-suite-reviews-and-tutorial-steps-with-active-url-access/"><u>In-Depth Analysis of EzzerMacs Spell Program Suite: Reviews & Tutorial Steps with Active URL Access</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-dvd-to-wmv-upgrades-secrets-to-achieving-top-notch-resolution-on-a-windows-pc/"><u>Mastering DVD to WMV Upgrades: Secrets to Achieving Top-Notch Resolution on a Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp3-word/"><u>MP3への変換ガイド - Wordで読み上げ機能を利用する</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/sustaining-an-engaged-online-community-the-facebook-way-for-2024/"><u>Sustaining an Engaged Online Community The Facebook Way for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-fundamentals-of-compelling-documentary-screenplay-for-2024/"><u>The Fundamentals of Compelling Documentary Screenplay for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-msmpengexe-reducing-cpu-usage-in-windows-11-effective-strategies-inside/"><u>Winning the Battle Against MsMpEng.exe: Reducing CPU Usage in Windows 11 – Effective Strategies Inside!</u></a></li>
 </ul></div>
 

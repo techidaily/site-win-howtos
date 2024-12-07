@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the COD WW2 Bug - Fixing Error Code N4220 Efficiently
-date: 2024-11-24T22:36:27.972Z
-updated: 2024-11-28T11:56:10.260Z
+date: 2024-12-02T16:32:51.114Z
+updated: 2024-12-07T18:11:51.740Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 2. [Check your wireless network adapter](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your WiFi driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1\. Enable Microsoft Hosted Network Virtual Adapter
 
  1)Press**Windows** key +**X** key together to open quick-access menu.  
@@ -37,16 +41,12 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2)Click**View** icon and tick on**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595daff2127b9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)Find and expand**Network adapters** dialog.  
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 4)Now set your WiFi hotspot again to see if the error has been fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2\. Check your wireless network adapter
@@ -70,13 +70,17 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db5161c78b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)View on**Power Management** pane.  
  Make sure**Allow the comoputer to turn off this device to save power** is**unchecked** and click**OK** to save settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db64b2e5ab.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If unluckily, neither method 1 nor method 2 helps you fix the error, it’s advise that update your WiFi driver with Method 3.
 
@@ -116,10 +120,6 @@ Now Microsoft will detect the update for you automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-wireless-network-adapter-driver.jpg)
 
@@ -150,19 +150,18 @@ Now Microsoft will detect the update for you automatically.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-new-age-of-youtube-branding-ideal-channel-titles-for-video-blogging-limited-to-156-characters/"><u>[Updated] In 2024, The New Age of YouTube Branding Ideal Channel Titles for Video Blogging (Limited to 156 Characters)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-lenovos-4-top-recording-methods-made-simple/"><u>2024 Approved Lenovo's 4 Top Recording Methods Made Simple</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/a-comprehensive-guide-adding-modifying-and-deleting-page-breaks-in-excel/"><u>A Comprehensive Guide: Adding, Modifying, and Deleting Page Breaks in Excel</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209857634-9780692986271-be-a-badass/"><u>BE A BADASS | Free Book</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/blur-and-bury-backgrounds-with-ease-for-2024/"><u>Blur and Bury Backgrounds with Ease for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/boost-productivity-in-excel-with-its-revolutionary-time-saving-feature/"><u>Boost Productivity in Excel with Its Revolutionary Time-Saving Feature</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/calculating-cagr-with-ease-using-microsoft-excel-tips-and-tricks-for-accurate-results/"><u>Calculating CAGR with Ease Using Microsoft Excel: Tips and Tricks for Accurate Results</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-crafting-effective-headers-using-microsoft-excel-tools/"><u>Comprehensive Tutorial: Crafting Effective Headers Using Microsoft Excel Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/customizing-your-excel-changing-header-and-footer-in-first-sheet-layout/"><u>Customizing Your Excel: Changing Header & Footer in First Sheet Layout</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discovering-enhancements-and-improvements-in-microsofts-windows-11-creators-version-update/"><u>Discovering Enhancements and Improvements in Microsoft’s Windows 11 Creator’s Version Update</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-setup-for-latest-intel-iris-540-gpu-drivers-enhanced-performance-guaranteed/"><u>Effortless Setup for Latest Intel Iris 540 GPU Drivers - Enhanced Performance Guaranteed</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-c51-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Poco C51 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminating-the-fatal-error-bug-from-your-halo-4-ue4-experience/"><u>Eliminating the 'Fatal Error' Bug From Your Halo 4 UE4 Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208022699-how-i-fixed-my-non-booting-pc-after-a-windows-10-update-learn-the-easy-methods/"><u>How I Fixed My Non-Booting PC After a Windows 10 Update – Learn the Easy Methods</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-secure-passwords-the-best-software-for-free-and-subscription-based-management-systems/"><u>Mastering Secure Passwords: The Best Software for Free & Subscription-Based Management Systems</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-convert-waters-10-tips-for-youtube-to-mp4mpeg-for-2024/"><u>Navigating the Convert Waters 10 Tips for YouTube to MP4/MPEG for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fix-guide-for-windows-11-update-error-code-0x8024401c/"><u>Resolved: Fix Guide for Windows 11 Update Error Code 0X8024401C</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-icue-no-device-found-error-with-easy-troubleshooting-steps/"><u>Resolving the 'ICUE - No Device Found' Error with Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://win-web.techidaily.com/singapore-adopts-microsoft-copilot-next-gen-tech-in-legal-services-zdnet-insights/"><u>Singapore Adopts Microsoft Copilot: Next-Gen Tech in Legal Services | ZDNet Insights</u></a></li>
+<li><a href="https://facebook.techidaily.com/survey-shows-growing-doubt-towards-technology-leaders-facebook-noted/"><u>Survey Shows Growing Doubt Towards Technology Leaders, Facebook Noted</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fixes-for-monitor-errors-without-video-output/"><u>The Ultimate Fixes for Monitor Errors Without Video Output</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unleash-your-creativity-top-movie-trailer-editors-for-mac-and-windows-for-2024/"><u>Unleash Your Creativity Top Movie Trailer Editors for Mac and Windows for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208693075-unlocking-success-expert-advice-for-tackling-and-repairing-error-1603-on-your-device/"><u>Unlocking Success: Expert Advice for Tackling and Repairing Error 1603 on Your Device.</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/whatsapp-backup-retrieval-a-comprehensive-tutorial-for-windows-users/"><u>WhatsApp Backup Retrieval: A Comprehensive Tutorial for Windows Users</u></a></li>
 </ul></div>
 

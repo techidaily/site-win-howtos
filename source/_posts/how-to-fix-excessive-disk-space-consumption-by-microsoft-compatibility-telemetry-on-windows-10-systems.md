@@ -1,7 +1,7 @@
 ---
 title: How to Fix Excessive Disk Space Consumption by Microsoft Compatibility Telemetry on Windows 10 Systems
-date: 2024-11-05T18:41:56.097Z
-updated: 2024-11-07T19:03:59.359Z
+date: 2024-11-30T21:38:13.379Z
+updated: 2024-12-07T20:01:03.803Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1\. Turn off “Get tips, tricks, and suggestions as you use Windows” option
   
  Many Windows 10 users reported that disabling Windows tips immediately drops CPU Usage. So be sure to take it a try.  
@@ -46,28 +50,36 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 ``
 `` ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-1.png)
 ``
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `` 2)  
 `` Click **System** .  
 ``
 `` ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-9.png)
 ``
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `` 3)  
 `` Click **Notifications & actions**  on the left pane.  
 `` Then scroll down to uncheck **Get tips, tricks, and suggestions as you use Windows**  on the right pane.  
 ``
 `` ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-6.png)
 ``
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `` You will get rid of the error by this error. If the issue still occur, try next fix.  
 ``
 ``
 ``
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2\. Disable background apps
   
@@ -82,10 +94,7 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 ``
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `` 3)
@@ -94,19 +103,6 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 ``
 `` ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-2.png)
 ``
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 `` That’s all there is to it.  
@@ -134,18 +130,22 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-sharp-as-a-razor-toptools-to-unblur-and-enhance-images-online/"><u>2024 Approved Sharp as a Razor #TopTools to Unblur & Enhance Images Online</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-y100i-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo Y100i to Roku | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-bookbook-v2-case-by-twelve-south-securing-your-macbook-with-style/"><u>Comprehensive Review of the BookBook V2 Case by Twelve South: Securing Your MacBook with Style</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correctly-pair-and-detect-your-bluetooth-devices-with-windows-10-system/"><u>How to Correctly Pair and Detect Your Bluetooth Devices with Windows 10 System</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-apple-iphone-8-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The Apple iPhone 8 SIM Lock 4 Easy Methods</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leading-change-metaverse-advertising-masterclass-for-2024/"><u>Leading Change Metaverse Advertising Masterclass for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-audio-issues-essential-tips-for-restoring-volume-on-your-windows-10-machine/"><u>Overcoming Audio Issues: Essential Tips for Restoring Volume on Your Windows 10 Machine</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-a-non-functional-headphone-port-on-your-laptop/"><u>Troubleshooting & Fixing a Non-Functional Headphone Port on Your Laptop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-code-24-solutions-for-missing-devices-in-windows-operating-systems/"><u>Troubleshooting Code 24: Solutions for Missing Devices in Windows Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-determine-if-netflix-is-currently-offline-and-solutions/"><u>Troubleshooting: How to Determine if Netflix Is Currently Offline & Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-persistent-usb-connection-issues/"><u>Ultimate Guide: Solving Persistent USB Connection Issues</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/videorecording-mastery-with-screencapture-x/"><u>VideoRecording Mastery with ScreenCapture X</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-securing-your-periscope-footage-expert-techniques-revealed/"><u>[New] Securing Your Periscope Footage Expert Techniques Revealed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-stir-to-screen-masterful-cooking-videos-for-2024/"><u>[Updated] From Stir to Screen Masterful Cooking Videos for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-creating-a-streamlined-podcast-rss-feed-structure/"><u>2024 Approved Creating a Streamlined Podcast RSS Feed Structure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cambia-archivos-de-video-gratis-desde-3gp-a-avi-con-movavi-online/"><u>Cambia Archivos De Video Gratis Desde 3GP a AVI Con Movavi Online</u></a></li>
+<li><a href="https://win11.techidaily.com/complete-guide-to-navigate-widely-in-windows-11/"><u>Complete Guide to Navigate Widely in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-libre-de-fichier-aiff-vers-dautres-formats-utilisation-facile-avec-movavi/"><u>Conversion Libre De Fichier AIFF Vers D'autres Formats - Utilisation Facile Avec Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/converter-ram-da-wmv-para-dvd-on-line-de-graca-com-o-movavi-funcionalidade-eficiente-e-acessivel/"><u>Converter RAM Da WMV Para DVD On-Line De Graça Com O Movavi - Funcionalidade Eficiente E Acessível</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guida-rapida-al-registro-dello-schermo-in-windows-11-tecniche-e-suggerimenti-migliori/"><u>Guida Rapida Al Registro Dello Schermo in Windows 11: Tecniche E Suggerimenti Migliori</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quicken-your-visual-content-best-android-software/"><u>In 2024, Quicken Your Visual Content - Best Android Software</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-samsung-galaxy-s23-fe-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Samsung Galaxy S23 FE IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/intuitive-software-package-hp-officejet-pro-8600-for-pc-systems/"><u>Intuitive Software Package: HP OfficeJet Pro 8600 for PC Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavis-free-mp3mp4-converter-convert-your-videos-and-music-seamlessly-using-mpg-formats/"><u>Movavi's Free MP3/MP4 Converter - Convert Your Videos and Music Seamlessly Using MPG Formats</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/practical-steps-to-remove-the-cluttered-background-in-figma-for-2024/"><u>Practical Steps to Remove the Cluttered Background in Figma for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformer-un-fichier-swf-en-format-avi-gratuitement-sur-la-toile-guide-par-movavi/"><u>Transformer Un Fichier SWF en Format AVI Gratuitement Sur La Toile - Guide Par Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasforma-file-dpx-in-gif-gratuitamente-con-movavi-servizi-di-conversione-online/"><u>Trasforma File DPX in GIF Gratuitamente Con Movavi - Servizi Di Conversione Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasforma-i-tuoi-file-ogm-gratuitamente-in-formato-mov-con-converti-mov-di-movavi-versione-gratuita/"><u>Trasforma I Tuoi File OGM Gratuitamente in Formato MOV Con Converti-MOV Di Movavi - Versione Gratuita</u></a></li>
 </ul></div>
 

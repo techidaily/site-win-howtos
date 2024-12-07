@@ -1,7 +1,7 @@
 ---
 title: XMedia Recodeでビデオアスペクト比を変更するシンプル方法 - チュートリアル
-date: 2024-09-11T15:11:40.945Z
-updated: 2024-09-12T15:11:40.945Z
+date: 2024-12-02T19:13:34.651Z
+updated: 2024-12-07T21:36:34.911Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475313180be25192ee619462eb.jpg
@@ -10,16 +10,7 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
 ## Top 5 Premium, No-Cost Movie Editing Tools Compatible with Windows & macOS (Updated Guide)
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## \[Update 2024\] 5 Best Free MOV Editors for Windows and Mac
@@ -36,19 +27,6 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
 * [4\. Avidemux](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 * [5\. Fastreel](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5 Best and Free MOV Editors for Windows/Mac
 
 MOV is a video format developed by Apple, which was primarily used with Apple’s QuickTime program. MOV files can store high-quality audio, video and effects, so the file size tend to be large. MOV format is compatible with both Windows and Mac. But editing.mov files on PC could be a problem because not all editors support MOV format. In such cases, we have picked top 5 best yet free video editors for MOV files. Read on to choose one from the list below and edit your MOV files without any barrier. 
@@ -56,13 +34,6 @@ MOV is a video format developed by Apple, which was primarily used with Apple’
 ### 1\. WonderFox Free HD Video Converter Factory
 
 ![Free HD Video Converter Factory Edit MOV](https://www.videoconverterfactory.com/tips/imgs-self/free-mov-editor/free-mov-editor-01.webp) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Among the selected MOV video editors, I highly recommend [WonderFox Free HD Video Converter Factory](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/). It offers a set of handy tools to edit MOV videos by trimming, cropping, compressing, [attaching subtitles](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), [merging multiple MOV files](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) into one, [applying special effects](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), and so on. In addition, you can change the video and audio parameters such as resolution, bit rate, aspect ratio, sample rate, audio channels, etc. Free HD Video Converter Factory supports almost all types of video and audio files and provides over 500 output formats, which is much more than the other 4 MOV video editors. **Free download** this handy and free MOV editor here to start to edit MOV files now. 
 
@@ -82,16 +53,7 @@ Among the selected MOV video editors, I highly recommend [WonderFox Free HD Vide
 * No version for Mac
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best Free MOV File Editor for Novices
@@ -105,10 +67,7 @@ Free HD Video Converter Factory is a highly recommended MOV file editor. You can
 ![Quick Time Player](https://www.videoconverterfactory.com/tips/imgs-self/free-mov-editor/free-mov-editor-02.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 QuickTime Player is not merely a video player. It also offers several basic editing tools for trimming, splitting, cutting, and rotating your MOV videos. With its easy and clean interface, you can also easily transcode MOV video to another format. 
@@ -130,13 +89,6 @@ QuickTime Player is not merely a video player. It also offers several basic edit
 
 ![OpenShot for MOV Files](https://www.videoconverterfactory.com/tips/imgs-self/free-mov-editor/free-mov-editor-03.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 OpenShot is free, open-source and comes with a simple interface, making it one of the most popular free MOV file editors among beginners. And the users have an access to many features in this very basic software. It’s good enough for you to quickly trim, add layers or subtitles to your MOV videos. 
 
 **Download link:** <https://www.openshot.org/download/>
@@ -154,6 +106,10 @@ OpenShot is free, open-source and comes with a simple interface, making it one o
 * Outdated interface
 * Less powerful hardware acceleration
 * When handling large files, it would be extremely slow.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Avidemux
 
@@ -177,16 +133,13 @@ Avidemux is a free video editor designed for simple cutting, filtering and mergi
 * Batch process unavailable
 * Easily get crashes when switching between different filters
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Fastreel —Edit MOV Files Online
 
 ![Fastreel Free Edit MOV Online](https://www.videoconverterfactory.com/tips/imgs-self/free-mov-editor/free-mov-editor-05.webp) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The last one I want to recommend is an online MOV video editor—Fastreel. You can edit videos without having to download anything. It offers built-in templates, so you can edit videos with those templates or via online tools. But the free version only results in low quality video limited to 480p. If you want to remove the watermark and get high-quality video content, you can pay for the single-premium or unlimited premium.
 
@@ -220,16 +173,7 @@ Upgrade to HD Video Converter Factory Pro for More Features
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -245,5 +189,24 @@ Upgrade to HD Video Converter Factory Pro for More Features
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/uy-subscribers-wisely-watch-your-numbers-soar-for-2024/"><u>[New] Buy Subscribers Wisely, Watch Your Numbers Soar for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-essential-techniques-for-saving-mobile-gameplay/"><u>[New] In 2024, Essential Techniques for Saving Mobile Gameplay</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-make-reels-on-instagram/"><u>[Updated] How to Make Reels on Instagram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-online-services-for-youtube-images-extraction/"><u>[Updated] In 2024, FREE Online Services for YouTube Images Extraction</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-pro-tips-for-capturing-stunning-close-up-footage/"><u>[Updated] Pro Tips for Capturing Stunning Close-Up Footage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-to-eliminate-keyboard-response-delay-in-windows-11/"><u>Comprehensive Fixes to Eliminate Keyboard Response Delay in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-repair-your-dota-2-game-bug-change-rendering-api-error-solved-swiftly/"><u>Diagnose & Repair Your Dota 2 Game Bug: Change Rendering API Error Solved Swiftly!</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-tricks-to-show-all-concealed-rows-in-microsoft-excel/"><u>Easy Tricks to Show All Concealed Rows in Microsoft Excel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-diagnosing-and-fixing-the-windows-10-error-code-0x80solved-how-to-fix-the-0x80072efd-error-in-windows-10-into-a-smoothly-running-system/"><u>Expert Tips for Diagnosing and Fixing the Windows 10 Error Code 0X80([Solved] How to Fix the 0X80072EFD Error in Windows 10 Into a Smoothly Running System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-for-failed-attempts-at-updating-to-the-windows-version-1903/"><u>Fixes for Failed Attempts at Updating to the Windows Version 1903</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/google-chrome-stops-working-heres-the-solution/"><u>Google Chrome Stops Working? Here's the Solution</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-xlivedll-not-found-or-missing-mistake/"><u>How to Correctly Address Xlive.dll Not Found or Missing Mistake</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-tp-links-archer-ax60n-the-new-champion-how-it-stacks-up-against-the-reputed-nighthawk-ax12/"><u>Is TP-Link's Archer AX60n the New Champion? How It Stacks Up Against the Reputed Nighthawk AX12</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimize-windows-11-for-better-gaming-results/"><u>Optimize Windows 11 for Better Gaming Results</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/mline-and-simplify-a-user-friendly-approach-to-shorts-thumbnails-for-2024/"><u>Streamline & Simplify A User-Friendly Approach to Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-overcoming-casting-problems-on-windows-11-fixed/"><u>Ultimate Guide: Overcoming Casting Problems on Windows 11 [Fixed]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-stuck-file-explorer-on-your-windows-10-pc-a-fixers-companion/"><u>Winning the Battle Against Stuck File Explorer on Your Windows 10 PC - A Fixer’s Companion</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Successfully Overcome and Fix Windows Update Error Code 0X80070643
-date: 2024-11-01T20:47:26.399Z
-updated: 2024-11-08T07:10:24.047Z
+date: 2024-12-05T19:03:12.977Z
+updated: 2024-12-07T19:25:38.690Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/c5a40ce6dfe3d0e918e8dfb71426bd44117e8ee24
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Run Windows Update troubleshooter**
 
 This is the quickest and easiest fix to try when you’re seeing the error code **0xc1900208**. Windows Update troubleshooter is a built-in tool in Windows operating system that can automatically diagnose and resolve any issues regarding Windows Update. Follow the instructions below to run Windows Update troubleshooter:
@@ -49,21 +42,11 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 1. On your keyboard, press**the Windows logo key** and type**troubleshoot** . In the list of search results, select **Troubleshoot** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap392-1.png)
 2. In the pop-up window, select**Windows Update** and click**Run the troubleshooter** . You’ll be prompted for permission. Click**Yes** to run**Windows Update troubleshooter** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap393.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click**Apply this fix** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap395.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows Update troubleshooter will try to fix the issue for you. You can restart your PC and try to perform a Windows update again. If it still doesn’t work, try the next fix, below.
 
@@ -74,30 +57,28 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 1. On your keyboard, press **the Windows Logo key**   and **R**   at the same time to open the Run dialog, then type **services.msc** and press **Enter**   to open the Services window.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap396.png)
 2. Right-click **Windows Update** and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap397.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** .  Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.**`C:\Windows\SoftwareDistribution\DataStore`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap398.png)  
  Please paste it in the address bar.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Delete** all the files in the folder **DataStore** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap399.png)  
  When all the files are deleted, you shall see “This folder is empty”.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open   **File Explorer**  . Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to open the **Download**  folder.**`C:\Windows\SoftwareDistribution\Download`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap400.png)  
  Please paste it in the address bar.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. **Delete** all the files in the folder   **Download** .  
@@ -126,14 +107,15 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap405.png)  
     It may take several minutes for this command operation to be completed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Close Command Prompt when the restore operation completed.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap406.png)
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 4: Running System File Checker**
@@ -148,13 +130,14 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 3. When this command operation is completed, close **Command Prompt** .
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Run Windows Update  again to check whether this fix works or not. If you still fail to install updates for your Windows system, don’t worry. Try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 5: Downloading updates from Microsoft Update Catalog manually**
 
@@ -174,15 +157,12 @@ Run Windows Update  again to check whether this fix works or not. If you still f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap412.png)
 7. In the pop-up window, click the link to start downloading the updates.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap413.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
 See if the error code 0xc1900208 reappears. If this error persists, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Pro tip: Want us to fix the problem for you?**
 
@@ -210,24 +190,20 @@ See if the error code 0xc1900208 reappears. If this error persists, try the next
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-improve-your-channels-meta-description-powerfully/"><u>[New] Improve Your Channel's Meta Description Powerfully</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-global-gross-earnings-of-youtube-luminaries/"><u>[Updated] In 2024, Global Gross Earnings of YouTube Luminaries</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-stream-control-duo-deciding-between-xsplit-and-obs-tech/"><u>[Updated] Stream Control Duo Deciding Between XSplit and OBS Tech</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-new-era-of-mac-os-embracing-big-sur/"><u>[Updated] The New Era of Mac OS Embracing Big Sur</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypass-complication-mastering-the-fix-for-msxml3-protocol-error-0x887a0006/"><u>Bypass Complication: Mastering the Fix for Msxml3 Protocol Error (0X887A0006)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-se-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone SE</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212281469-cant-get-your-pdf-to-print-quick-tips-for-a-smooth-printout/"><u>Can't Get Your PDF to Print? Quick Tips for a Smooth Printout</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-lava-blaze-2-pro-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Lava Blaze 2 Pro using Video Repair Utility on Windows? </u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-realme-gt-3-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Realme GT 3?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-the-endless-startup-cycle-on-your-pc-with-windows-11-or-10-solutions/"><u>Overcome the Endless Startup Cycle on Your PC with Windows 11 or 10 Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-installation-challenges-of-hp-deskjet-d1360-printer-drivers-on-latest-windows-versions-a-user-guide/"><u>Overcoming Installation Challenges of HP Deskjet D1360 Printer Drivers on Latest Windows Versions: A User Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/remedies-for-no-display-of-startups-in-taskbar/"><u>Remedies for No Display of Startups in Taskbar</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-the-device-not-accessible-message-on-windows/"><u>Resolved: How to Fix the 'Device Not Accessible' Message on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-entrypointnotfoundexception-on-your-pc-a-step-by-step-guide/"><u>Resolving 'EntryPointNotFoundException' On Your PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-vcruntime140dll-absence-error-on-windows-pcs-effortlessly/"><u>Solve Your 'VCRUNTIME140.dll' Absence Error on Windows PCs Effortlessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-resolving-undetected-hard-drive-issues-now-fixed/"><u>Step-by-Step Solutions: Resolving Undetected Hard Drive Issues (Now Fixed)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-correct-sudden-stops-in-sound-from-logitech-g930/"><u>Troubleshooting Guide: How to Correct Sudden Stops in Sound From Logitech G930</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-asus-rog-gt-c5300-review-ultimate-wireless-perfection-for-hardcore-gamers-and-gadget-geeks/"><u>Unveiling The Asus ROG GT-C5300 Review: Ultimate Wireless Perfection for Hardcore Gamers & Gadget Geeks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/warzone-microphonevoice-communication-problems-solved-for-both-desktop-and-gaming-systems/"><u>Warzone Microphone/Voice Communication Problems Solved for Both Desktop and Gaming Systems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-vivid-chromatic-tweaker/"><u>[Updated] In 2024, Vivid Chromatic Tweaker</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-your-mac-interface-with-speech-recognition-software-review/"><u>[Updated] Transform Your Mac Interface with Speech Recognition Software Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2024s-leading-selection-of-best-free-subtitle-editors-discover-the-top-14-picks/"><u>2024'S Leading Selection of Best-Free Subtitle Editors - Discover the Top 14 Picks!</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehve-solutions-to-eliminate-stuttering-and-increase-frame-rates-in-pc-gaming-environments/"><u>Comprehve Solutions to Eliminate Stuttering and Increase Frame Rates in PC Gaming Environments.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertis-mp4-a-jpeg-sur-internet-gratuitement-avec-movavi-solution-de-conversion-visuelle-flexible/"><u>Convertis MP4 À JPEG Sur Internet Gratuitement Avec Movavi - Solution De Conversion Visuelle Flexible</u></a></li>
+<li><a href="https://fox-access.techidaily.com/htc-vive-review-the-most-immersive-vr-headset-for-2024/"><u>HTC Vive Review – The Most Immersive VR Headset for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-beginners-approach-to-audio-enhancement-in-audition/"><u>In 2024, A Beginner's Approach to Audio Enhancement in Audition</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/latest-updates-and-features-of-movavi-screen-recorder-on-mac-devices/"><u>Latest Updates and Features of Movavi Screen Recorder on Mac Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/m4b-vers-line-convertissez-vos-podcasts-facilement-et-gratuitement-a-laide-de-movavi/"><u>M4b Vers Line: Convertissez Vos Podcasts Facilement Et Gratuitement À L'aide De Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-choices-guided-tours-from-toms-domain/"><u>Mastering Hardware Choices: Guided Tours From Tom's Domain</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-mp3mkv-movavi/"><u>Online MP3/MKV 크레이트로 무료 변환 - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformer-rapidement-et-facilement-un-fichier-wmv-en-mp4-gratuitement-sur-linternet-avec-movavi/"><u>Transformer Rapidement Et Facilement Un Fichier WMV en MP4 Gratuitement Sur L'Internet Avec Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-itel-a60s-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Itel A60s Screen | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-nycs-elite-connections-a-guide-to-winning-every-day/"><u>Unlocking NYC's Elite Connections: A Guide to Winning Every Day</u></a></li>
 </ul></div>
 

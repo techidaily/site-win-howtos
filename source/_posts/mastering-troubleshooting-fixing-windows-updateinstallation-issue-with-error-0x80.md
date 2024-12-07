@@ -1,7 +1,7 @@
 ---
 title: "Mastering Troubleshooting: Fixing Windows Update/Installation Issue with Error 0X80"
-date: 2024-11-01T23:54:00.038Z
-updated: 2024-11-07T16:58:12.726Z
+date: 2024-11-30T16:16:18.161Z
+updated: 2024-12-07T18:30:58.579Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Enable Microsoft Hosted Network Virtual Adapter](https://tools.techidaily.com/drivereasy/download/)
@@ -37,21 +41,22 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)Click**View** icon and tick on**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595daff2127b9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3)Find and expand**Network adapters** dialog.  
  Then right-click on**Microsoft Hosted Network Virtual Adapter** to choose**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db07149d8a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4)Now set your WiFi hotspot again to see if the error has been fixed.
 
@@ -64,32 +69,16 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db5161c78b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)View on**Power Management** pane.  
  Make sure**Allow the comoputer to turn off this device to save power** is**unchecked** and click**OK** to save settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db64b2e5ab.png)
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If unluckily, neither method 1 nor method 2 helps you fix the error, it’s advise that update your WiFi driver with Method 3.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3\. Update your WiFi driver
 
@@ -128,10 +117,7 @@ Now Microsoft will detect the update for you automatically.
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -164,15 +150,19 @@ Now Microsoft will detect the update for you automatically.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-your-guide-to-android-2023s-best-vr-and-360-content-watching/"><u>[New] 2024 Approved Your Guide to Android 2023'S Best VR & 360 Content Watching</u></a></li>
-<li><a href="https://fox-http.techidaily.com/enriching-room-atmosphere-with-natures-radiant-energy-for-2024/"><u>Enriching Room Atmosphere with Nature's Radiant Energy for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-easily-overcome-the-windows-update-issue-x0x800704c7/"><u>How to Easily Overcome the Windows Update Issue: X0x800704C7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-get-your-hp-laptop-webcam-working-again-in-windows-10-a-comprehensive-guide/"><u>How to Get Your HP Laptop Webcam Working Again in Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-y78plus-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Y78+ Fingerprint Lock</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/no1-video-recorders-headset-display-enhanced/"><u>No.1 Video Recorders Headset Display Enhanced</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-the-endless-wait-successful-troubleshooting-for-windows-10s-99-update-issue/"><u>Overcome the Endless Wait: Successful Troubleshooting for Windows 10'S 99% Update Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209178918-overcome-window-11s-touchscreen-woes-here-are-5-tips-for-quick-repairs/"><u>Overcome Window 11'S Touchscreen Woes? Here Are 5 Tips for Quick Repairs</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/schnelle-und-sichere-wiederherstellung-raw-datentrager-ohne-vorherige-formatting/"><u>Schnelle Und Sichere Wiederherstellung RAW-Datenträger Ohne Vorherige Formatting</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-xbox-gameplay-perfect-screen-recording-guide/"><u>[New] 2024 Approved Xbox Gameplay Perfect Screen Recording Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-radiant-renderings-perfecting-video-light-quality/"><u>[New] In 2024, Radiant Renderings Perfecting Video Light Quality</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-ultimate-sfpr-levels-in-slow-motion-content-for-2024/"><u>[New] Ultimate SFPR Levels in Slow-Motion Content for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unlock-potential-in-social-media-storytelling-fb-slideshows/"><u>2024 Approved Unlock Potential in Social Media Storytelling FB Slideshows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/flac-m4a-movavi/"><u>在網路上無限制自由轉換 FLAC到 M4A - 使用 Movavi 編解碼器</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/farewell-to-frustration-cyberpunk-2077-glitch-fixed/"><u>Farewell to Frustration - Cyberpunk 2077 Glitch Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-jpgbmp-format-converter-online-professioneel-movivaaii/"><u>Gratis JPG/BMP Format Converter Online - Professioneel MoviVaaii</u></a></li>
+<li><a href="https://games-able.techidaily.com/handheld-enlightenment-with-rog-ally-fix-it-x/"><u>Handheld Enlightenment with ROG Ally Fix-It X</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mac-integration-leveraging-chatgpt-powerfully/"><u>Mac Integration: Leveraging ChatGPT Powerfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-gestalteerd-mp3-in-professioneel-vooral-m2ts-converter-zonder-kosten/"><u>Online Gestalteerd Mp3 in Professioneel Vooral M2ts Converter, Zonder Kosten!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/storyboard-pro-for-win8-for-2024/"><u>StoryBoard Pro for Win8 for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-pick-mirari-childrens-alarm-clock-ok-to-wake-in-depth-product-assessment/"><u>Top Pick: Mirari Children's Alarm Clock 'Ok to Wake!' In-Depth Product Assessment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformez-facilement-votre-audio-flac-au-format-mp3mp4-gratuitement-sur-la-plateforme-de-conversion-en-ligne-movavi/"><u>Transformez Facilement Votre Audio FLAC Au Format MP3/MP4 Gratuitement Sur La Plateforme De Conversion en Ligne Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasforma-immagini-bmp-in-gif-senza-costo-con-il-convertitore-online-di-movavi/"><u>Trasforma Immagini BMP in GIF Senza Costo Con Il Convertitore Online Di Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Admin-Level Operations: Avoid 'Elevation Needed' Alerts in Windows 11, 10 & 7"
-date: 2024-11-21T05:55:13.355Z
-updated: 2024-11-28T08:45:10.188Z
+date: 2024-11-30T16:22:41.258Z
+updated: 2024-12-07T18:07:18.587Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -72,11 +72,11 @@ If this fix didn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 ## Fix 3: Clear clipboard history
 
@@ -86,10 +86,14 @@ If this fix didn’t help, try the next fix.
 2. Click**Clear all** to delete the clipboard history.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-09-15.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this fix didn’t help, try the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Restart the Windows Explorer process
@@ -103,7 +107,7 @@ If this fix didn’t help, try the next one.
 If your problem persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Restart RDP Clipboard Monitor
@@ -115,7 +119,7 @@ If your problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-12-57.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tip: Update your device drivers
@@ -129,10 +133,6 @@ If your problem persists, try the next fix.
  1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) For example, I want to update my graphics and network adapter driver here. Click the **Update**  button next to the flagged drivers to automatically download the correct version. Then you can manually install them (you can do this with the FREE version).
 
@@ -161,20 +161,17 @@ If your problem persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/raft-standout-videos-with-professional-free-banner-samples-for-2024/"><u>[New] Craft Standout Videos with Professional, Free Banner Samples for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/uick-strategies-for-randomizing-youtube-tracks-across-media/"><u>[New] Quick Strategies for Randomizing YouTube Tracks Across Media</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleashing-the-power-of-cross-platform-video-playback-software/"><u>[New] Unleashing the Power of Cross-Platform Video Playback Software</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlock-creative-closure-ideas-with-our-template-service/"><u>[Updated] Unlock Creative Closure Ideas with Our Template Service</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-tailoring-your-playstation-experience-with-sounds/"><u>2024 Approved Tailoring Your PlayStation Experience with Sounds</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-missing-desktop-icons-on-windows-10-ultimate-solution/"><u>Fixing Missing Desktop Icons on Windows 10 - Ultimate Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-auto-boot-phenomenon-in-your-windows-1-pc-tips-and-tricks/"><u>Fixing the Auto-Boot Phenomenon in Your Windows 1# PC - Tips & Tricks</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-lava-yuva-3-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Lava Yuva 3 Pro to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-charging-functionality-in-ps4-gamepads-quickly-and-easily/"><u>How To Restore Charging Functionality in PS4 Gamepads Quickly and Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-hurdles-activating-windows-10-hosted-network-feature-successfully/"><u>Overcoming Hurdles: Activating Windows 10 Hosted Network Feature Successfully</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-honor-x50i-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Honor X50i.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/rectified-initialization-mishap-of-the-display-engine-with-latest-fixes-year-2pressure-on-rendering-engines-we-can-create-titles-that-communicate-a-successf111/"><u>Rectified Initialization Mishap of the Display Engine with Latest Fixes (Year 2Pressure on Rendering Engines, We Can Create Titles that Communicate a Successful Resolution to an Initial Problem While Still Hinting at Improvements or Fixes Made</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/rhythmic-learning-science-driven-methods-to-master-languages/"><u>Rhythmic Learning: Science-Driven Methods to Master Languages</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-resolving-new-worlds-easy-anti-cheat-startup-failure/"><u>Troubleshooting Steps for Resolving New World's Easy Anti-Cheat Startup Failure</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-resolved-incompatibility-issue-with-your-devices-drivers-on-world-of-warcraft/"><u>Troubleshooting: Resolved - Incompatibility Issue with Your Device's Drivers on World of Warcraft</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastering-desktopiosandroid-zoom-with-a-virtual-board/"><u>[New] In 2024, Mastering Desktop/iOS/Android Zoom with a Virtual Board</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-snappy-picture-assemblies-a-brisk-guide-to-google-collages/"><u>[New] Snappy Picture Assemblies A Brisk Guide to Google Collages</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-new-world-wont-launch-easy-anti-cheat-error/"><u>[SOLVED] New World Won't Launch Easy Anti-Cheat Error</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-every-moment-in-motion-with-polaroids-new-release/"><u>Capturing Every Moment in Motion with Polaroid's New Release</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-best-free-and-paid-subtitle-editors-for-mac-for-2024/"><u>Discover the Best Free and Paid Subtitle Editors for Mac for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-ways-to-fix-your-steam-disk-write-issues-instantly/"><u>Effortless Ways to Fix Your Steam Disk Write Issues Instantly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-resolve-your-microsoft-wireless-screen-mirroring-problems-on-windows-11/"><u>How to Troubleshoot and Resolve Your Microsoft Wireless Screen Mirroring Problems on Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-best-free-no-invasive-android-video-recorders/"><u>In 2024, Best Free, No-Invasive Android Video Recorders</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-lava-blaze-2-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Lava Blaze 2 Phone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/skyrocket-your-computer-efficiency-with-these-7-high-impact-techniques/"><u>Skyrocket Your Computer Efficiency with These 7 High-Impact Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-repairing-the-critical-application-startup-error-error-0xc000007b/"><u>Understanding and Repairing the Critical Application Startup Error (Error 0Xc000007B)</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600620588-universal-data-recuperation-program-brings-back-all-your-valuable-files/"><u>Universal Data Recuperation Program – Brings Back All Your Valuable Files!</u></a></li>
 </ul></div>
 

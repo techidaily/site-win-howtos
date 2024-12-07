@@ -1,7 +1,7 @@
 ---
 title: Resolving the Issue of Vanishing Cursor in Windows 11'S Touchpad
-date: 2024-11-15T23:31:18.592Z
-updated: 2024-11-18T21:44:54.954Z
+date: 2024-12-01T20:16:15.574Z
+updated: 2024-12-07T16:59:10.927Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1\. Roll back your touchpad driver to an earlier version
 
  Many users fix their touchpad not scrolling issue by rolling back the driver. Follow the steps below.
@@ -37,12 +41,20 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)  
 
  Find and expand**Mice and other pointing devices** dialog.  
  Then right-click on you touchpad driver to choose**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)  
 
@@ -53,22 +65,12 @@ Then click **Device Manager**  to open it.
 
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
@@ -83,19 +85,6 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -105,10 +94,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
@@ -133,22 +119,19 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-elite-fighters-unleashed-selecting-superior-street-fighter-clones/"><u>[New] 2024 Approved Elite Fighters Unleashed Selecting Superior Street Fighter Clones</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-unleash-potential-the-ultimate-guide-to-spectacous-tiktok-openers-mac/"><u>[New] Unleash Potential The Ultimate Guide to Spectacous TikTok Openers (Mac)</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210714961-9781739194710-a-journey-of-wilding-women/"><u>A Journey of Wilding Women | Free Book</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bridging-the-gap-unblocking-missing-bluetooth-links/"><u>Bridging the Gap: Unblocking Missing Bluetooth Links</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-the-hurdle-easy-ways-to-address-unavailable-dns-errors/"><u>Bypassing the Hurdle: Easy Ways to Address Unavailable DNS Errors</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/choosing-the-perfect-iphone-for-enhanced-mobile-gaming/"><u>Choosing the Perfect iPhone for Enhanced Mobile Gaming</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixes-and-solutions-how-to-resolve-plugged-in-but-not-charging-issue-on-pcs-running-windows-710/"><u>Fixes and Solutions: How to Resolve 'Plugged In but Not Charging' Issue on PCs Running Windows 7/10</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/from-sub-to-srt-with-ease-uncover-our-top-8-software-picks-for-desktop-systems/"><u>From SUB to SRT with Ease! Uncover Our Top 8 Software Picks for Desktop Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-source-not-found-problem-when-playing-content-on-windows-pcs/"><u>How to Fix the 'Source Not Found' Problem When Playing Content on Windows PCs</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-srt-to-sub-magic-three-effective-ways/"><u>In 2024, SRT to SUB Magic Three Effective Ways</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigate-through-connectivity-woes-how-to-ensure-a-constant-wi-fi-connection-for-your-mouse/"><u>Navigate Through Connectivity Woes: How To Ensure a Constant Wi-Fi Connection for Your Mouse</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-successfully-pairing-a-non-syncing-xbox-one-controller/"><u>Step-by-Step Guide: Successfully Pairing a Non-Syncing Xbox One Controller</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-pax8-pparg-translocation-is-frequently-associated-with-follicular-thyroid-carcinoma-providing-potential-targets-for-intervention/"><u>The PAX8-PPARγ Translocation Is Frequently Associated with Follicular Thyroid Carcinoma, Providing Potential Targets for Intervention.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-strategies-for-troubleshooting-non-pairing-bluetooth-devices-on-windows-11/"><u>Top Strategies for Troubleshooting Non-Pairing Bluetooth Devices on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-guide-fixing-your-non-syncing-xbox-one-controller/"><u>Ultimate Troubleshooting Guide: Fixing Your Non-Syncing Xbox One Controller</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-and-the-stuck-windows-key-a-step-by-step-solution/"><u>Windows 10 and the Stuck Windows Key - A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-could-not-complete-the-installation-quickly-and-easily/"><u>[Solved] | Windows Could Not Complete The Installation | Quickly & Easily</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-science-of-luts-elevating-photo-aesthetics/"><u>[Updated] The Science of LUTs Elevating Photo Aesthetics</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-smart-way-to-enhance-your-youtube-presence-legally-for-2024/"><u>[Updated] The Smart Way to Enhance Your YouTube Presence Legally for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decreasing-cpu-load-on-windows-systems/"><u>Decreasing CPU Load on Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-lower-wudfhostexes-impact-on-your-computers-processor-cpu-under-windows-10/"><u>Guide to Lower wudfhost.exe's Impact on Your Computer's Processor (CPU) Under Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/navigating-through-windows-10-elan-pad-errors/"><u>Navigating Through Windows 10, Elan Pad Errors</u></a></li>
+<li><a href="https://facebook.techidaily.com/prevent-unrequested-social-network-friend-alerts/"><u>Prevent Unrequested Social Network Friend Alerts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quelling-screen-disruptions-with-effective-fixes/"><u>Quelling Screen Disruptions with Effective Fixes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-guide-lenovo-t430-driver-downloads-compatible-with-windows-11-8-and-7/"><u>Quick & Easy Guide: Lenovo T430 Driver Downloads Compatible with Windows 11, 8, and 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixes-for-non-responsive-google-chrome-browser-issues/"><u>Resolved: Fixes for Non-Responsive Google Chrome Browser Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-error-1053-ensuring-your-services-start-and-run-on-time/"><u>Resolving Error 1053: Ensuring Your Services Start and Run on Time</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-overcoming-unregistered-class-errors-on-windows-11/"><u>Step-by-Step Tutorial: Overcoming Unregistered Class Errors on Windows 11</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/streamline-your-startup-discover-the-5-key-techniques-for-implementing-auto-login-feature-in-windows-11/"><u>Streamline Your Startup: Discover the 5 Key Techniques for Implementing Auto Login Feature in Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-tier-rankings-for-podcasts-a-seo-masterclass-for-2024/"><u>Top-Tier Rankings for Podcasts A Seo Masterclass for 2024</u></a></li>
 </ul></div>
 

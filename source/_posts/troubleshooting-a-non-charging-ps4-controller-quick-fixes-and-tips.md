@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting a Non-Charging PS4 Controller: Quick Fixes & Tips"
-date: 2024-11-03T06:31:36.515Z
-updated: 2024-11-08T02:59:15.445Z
+date: 2024-11-30T19:36:26.713Z
+updated: 2024-12-07T21:47:36.218Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Fixes to try:**
 
@@ -51,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
  4) If possible,**use your current AC adapter to charge a new battery** . If the battery is charging, it indicates your battery is bad. If the new battery is not charging, perhaps it is the AC adapter that triggers this issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Turn off the battery charge threshold
 
  Some laptops have**the battery charge threshold feature** . This feature allows laptop users to customize the battery charge threshold so that when the battery reaches that threshold, the battery won’t charge.
@@ -64,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
  1) Open the**Lenovo Vantage** app.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2)**Turn off** the toggle under **Battery Charge Threshold** if it is turned on.
 
@@ -82,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
  See if the battery is charging. If so, you’ve fixed this issue. If the issue reappears, don’t worry. Try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Reinstall Microsoft ACPI-Compliant Control Method Battery
 
  You can try reinstalling **Microsoft ACPI-Compliant Control Method Battery**  to see if this annoying issue persists. Here is how to do it:
@@ -98,10 +103,7 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Double-click**Batteries** . Right-click **Microsoft ACPI-Compliant Control Method Battery**  and select **Uninstall device** .
@@ -111,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
  3) Click**Uninstall** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Shut down your laptop and **disconnect the AC adapter** .
 
@@ -124,25 +130,11 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd073b6f72.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ii. Select**Batteries** . Click **Action** and select **Scan for hardware changes** . Wait several seconds and **Microsoft ACPI-Compliant Control Method Battery**  will be reinstalled on your laptop.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
 
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Update the driver for your battery management device
 
@@ -164,6 +156,10 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap437.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to your battery management device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-6.jpg)
@@ -177,13 +173,6 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 Your battery should then be charging.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully one of the fixes above resolved the laptop battery not charging issue for you. Please leave your comment below if you have any questions.
 
@@ -205,20 +194,21 @@ Your battery should then be charging.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-from-likes-to-leads-top-30-tactics-for-social-media-success/"><u>[New] In 2024, From Likes to Leads Top 30 Tactics for Social Media Success</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-maximize-video-visibility-on-facebook-via-youtube/"><u>[New] In 2024, Maximize Video Visibility on Facebook via YouTube</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-a-beginners-companion-best-software-for-gamers-recordings-and-editing/"><u>2024 Approved A Beginner's Companion Best Software for Gamers’ Recordings & Editing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-guide-to-lenovos-screen-recording-process/"><u>2024 Approved Guide to Lenovo's Screen Recording Process</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-livestream-champions-weighing-up-winners-between-obs-studio-and-bandicam/"><u>2024 Approved Livestream Champions Weighing Up Winners Between OBS Studio and Bandicam</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-right-to-appeal-steps-following-abrupt-video-content-suspension/"><u>2024 Approved The Right to Appeal Steps Following Abrupt Video Content Suspension</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diy-solutions-how-to-perform-a-cmos-or-bios-factory-reset-successfully/"><u>DIY Solutions: How To Perform a CMOS or BIOS Factory Reset Successfully</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-free-windows-updates-overcome-error-8007000e-effortlessly/"><u>Error-Free Windows Updates: Overcome Error 8007000E Effortlessly!</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/facebook-video-maker-how-to-make-facebook-video/"><u>Facebook Video Maker How to Make Facebook Video</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-connection-problems-with-microsoft-wireless-display-on-windows-11/"><u>How to Overcome Connection Problems with Microsoft Wireless Display on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-establish-a-connection-when-your-remote-server-is-unreachable/"><u>How to Successfully Establish a Connection When Your Remote Server Is Unreachable</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-top-10-curated-list-of-superior-vector-portals/"><u>In 2024, A Top 10 Curated List of Superior Vector Portals</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-art-of-correcting-disk-write-failures-on-steam-platform/"><u>Master the Art of Correcting Disk Write Failures on Steam Platform</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-restore-copypaste-functionality-on-windows-11/"><u>Step-by-Step Solutions to Restore Copy/Paste Functionality on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-the-unsuccessful-1607-feature-update-on-windows-amoled39b7f/"><u>Troubleshooting Steps for the Unsuccessful 1607 Feature Update on Windows Amoled_39b7f</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-comprehensive-guide-to-earnings-from-youtube-short-videos-for-2024/"><u>[New] A Comprehensive Guide to Earnings From YouTube Short Videos for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-benq-bl2711u-where-art-meets-science-in-professional-4k-monitoring/"><u>[New] BenQ BL2711U - Where Art Meets Science in Professional 4K Monitoring</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-optimal-tools-macs-best-video-grabber-software-guide/"><u>2024 Approved Optimal Tools Mac's Best Video Grabber Software Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cambiar-formato-de-video-de-mpeg-a-mp4-gratuito-mediante-el-sitio-web-de-movavi/"><u>Cambiar Formato De Vídeo De MPEG a MP4 Gratuito Mediante El Sitio Web De Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertir-archivo-3gp-gratuito-en-forma-digital-swf-usando-la-herramienta-online-de-movavi/"><u>Convertir Archivo 3GP Gratuito en Forma Digital SWF Usando La Herramienta Online De Movavi</u></a></li>
+<li><a href="https://driver-install.techidaily.com/cure-windows-10-sounds-try-audio-driver-reinstallation/"><u>Cure Windows 10 Sounds: Try Audio Driver Reinstallation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-mov-and-3gp-file-conversion-accessible-for-free/"><u>Effortless MOV and 3GP File Conversion - Accessible for FREE!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/forst-oversvangas-inspellningarna-i-snapchat-enkeltvis-du-far-skara-dig-eget/"><u>Först Översvängas Inspellningarna I Snapchat? Enkeltvis Du Får Skära Dig Eget!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-tool-transforming-wma-files-into-3gp-format-with-ease/"><u>Free Online Tool: Transforming WMA Files Into 3GP Format with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuit-online-konverteren-van-mpe-naar-gif-veilig-en-efficient-met-movavi/"><u>Gratuit Online Konverteren Van MPE Naar GIF - Veilig en Efficiënt Met Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-c33-2023-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme C33 2023 Device</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/mastering-the-art-of-multitasking-with-multiple-browsing-tabs/"><u>Mastering the Art of Multitasking with Multiple Browsing Tabs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/schritt-fur-schritt-tutorial-videoproc-professionelles-videoaudiodvd-konvertieren-und-herunterladen/"><u>Schritt-Für-Schritt-Tutorial: VideoProc - Professionelles Video/Audio/DVD Konvertieren Und Herunterladen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-realme-12-pro-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Realme 12 Pro 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-4-tools-for-capturing-pc-screenshots-with-sound-a-guide-by-movavi/"><u>Top 4 Tools for Capturing PC Screenshots with Sound: A Guide by Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-minecraft-tips-how-to-efficiently-navigate-with-teleportation-spells/"><u>Ultimate Minecraft Tips: How to Efficiently Navigate with Teleportation Spells</u></a></li>
 </ul></div>
 

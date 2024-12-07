@@ -1,7 +1,7 @@
 ---
 title: "Successfully Resolved: Diagnostic Services System Failure"
-date: 2024-11-04T16:10:48.690Z
-updated: 2024-11-08T05:26:41.862Z
+date: 2024-12-03T19:39:28.994Z
+updated: 2024-12-07T21:51:18.040Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ Read on this small guide and follow to solve the problem on your Windows.
 2. [Give the network service and local service administrator privilege on your Windows](#solution2)
 3. [Reinstall your all network adapters](#solution3)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 1: Check the Diagnostics Policy Service in the Services window
 
  Since the error message tells you that the service is not running, the first quick solution is to check the service status in the Services window.
@@ -65,20 +58,21 @@ Follow these steps：
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f6a9233d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right-click on**Diagnostics Policy Service** again and this time select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f83f0ff4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Set its Startup type to**Automatic** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5fb52fb20.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Run the Network Diagnostics and see if it goes well.
 
@@ -105,13 +99,14 @@ net localgroup Administrators /add localservice
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d606b83cd1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Close the Command Prompt window, and run the Network Diagnostics to see if it goes well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 3: Reinstall your network adapters
 
@@ -124,10 +119,7 @@ net localgroup Administrators /add localservice
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d609d065a4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Double-click**Network adapters** and right-click on your network adapters one by one(if there’re more than one) to select**Uninstall device** .
@@ -151,13 +143,6 @@ net localgroup Administrators /add localservice
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad30f1e3ff8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the **FREE** version).
 
@@ -184,19 +169,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-step-by-step-guide-for-font-integration-in-ae/"><u>[New] In 2024, Step-by-Step Guide for Font Integration in AE</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-ultimate-guide-to-saving-youtube-tracks-and-dialogues/"><u>[New] The Ultimate Guide to Saving YouTube Tracks & Dialogues</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-oneplus-nord-ce-3-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your OnePlus Nord CE 3 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-resolve-no-download-problems-with-torrents/"><u>Guide to Resolve No-Download Problems with Torrents</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-recover-vanished-desktop-symbols-in-windows-11-fixed/"><u>How to Recover Vanished Desktop Symbols in Windows 11 [FIXED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-of-the-quick-selection-tool-windows-plus-shift-plus-s-in-windows-11-and-earlier-versions/"><u>How to Restore Functionality of the Quick Selection Tool (Windows + Shift + S) in Windows 11 and Earlier Versions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-mp4-enhancement-the-ultimate-srt-integration/"><u>In 2024, Mastering MP4 Enhancement The Ultimate SRT Integration</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/iphone-versus-samsung-phone-debate-a-comparison-that-guides-your-purchase-decision-successfully/"><u>IPhone Versus Samsung Phone Debate: A Comparison That Guides Your Purchase Decision Successfully</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206521094-solved-why-wont-my-hp-laptop-recognize-usb-devices-a-step-by-step-guide-to-repairing-usb-connectivity-issues/"><u>Solved! Why Won’t My HP Laptop Recognize USB Devices? A Step-by-Step Guide to Repairing USB Connectivity Issues</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/step-by-step-guide-posting-shorts-on-youtube-from-pcmobile-devices/"><u>Step-by-Step Guide Posting Shorts on YouTube From PC/Mobile Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-honor-play-7t-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Honor Play 7T Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-mts-video-editors-top-picks/"><u>Updated Best MTS Video Editors Top Picks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723204999935-why-isnt-my-razer-keyboard-responding-solving-the-mystery/"><u>Why Isn't My Razer Keyboard Responding? Solving the Mystery!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-lacks-screen-contrast-slider/"><u>Windows Lacks Screen Contrast Slider</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-step-by-step-guide-to-making-spectacular-slow-motion-images-for-instagram/"><u>[Updated] 2024 Approved Step-by-Step Guide to Making Spectacular Slow Motion Images for Instagram</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-efficiently-downloading-youtube-sections-in-minutes/"><u>[Updated] Efficiently Downloading YouTube Sections in Minutes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-playback-anarchy-youtube-playlists-unordered-again-for-2024/"><u>[Updated] The Art of Playback Anarchy YouTube Playlists Unordered Again for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vob-asf-movavi/"><u>網路直接 VOB 到 ASF 無成本轉化 - 使用 Movavi 視頻工具</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/begin-your-journey-with-the-advanced-ai-powered-search-tool-bing-by-microsoft/"><u>Begin Your Journey with the Advanced AI-Powered Search Tool – Bing by Microsoft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comment-decouper-des-clips-dans-une-video-avec-le-logiciel-vlc/"><u>Comment Découper Des Clips Dans Une Vidéo Avec Le Logiciel VLC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-opus-files-to-mp3-for-free-with-movavis-web-based-converter-service/"><u>Convert OPUS Files to MP3 for Free with Movavi's Web-Based Converter Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decouvrez-les-12-meilleures-applications-denregistrement-voip-pour-skype-sous-mac-selectionne-par-movavi/"><u>Découvrez Les 12 Meilleures Applications D'enregistrement VoIP Pour Skype Sous Mac, Sélectionné Par Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-exceptional-gratuitous-and-premium-whatsapp-emoji-design-tools-top-selections/"><u>Discover Exceptional Gratuitous & Premium WhatsApp Emoji Design Tools - Top Selections</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortlessly-resolve-kb4056892-a-user-friendly-guide-to-installing-windows-10-updates/"><u>Effortlessly Resolve KB4056892: A User-Friendly Guide to Installing Windows 10 Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/google-hangouts-ingangstappen-6-kostenloze-methoden-via-movavi/"><u>Google Hangouts Ingangstappen: 6 Kostenloze Methoden via Movavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-oppo-find-x7-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Oppo Find X7 Through Google Earth?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-elevate-your-contents-visibility-with-these-gadgets/"><u>In 2024, Elevate Your Content's Visibility with These Gadgets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/maximize-savings-with-movavi-kortingscode-exclusive-deals-inside/"><u>Maximize Savings with Movavi-Kortingscode – Exclusive Deals Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tapez-vous-des-idees-transformez-votre-video-rapidement-avec-les-meilleurs-logiciels-de-montage/"><u>Tapez Vous Des Idées ? - Transformez Votre Vidéo Rapidement Avec Les Meilleurs Logiciels De Montage</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/top-solutions-fixing-the-persistent-black-screen-problem-in-zoom/"><u>Top Solutions: Fixing the Persistent Black Screen Problem in Zoom</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Fix 'Can't Cast to Device' Issue on Windows 10"
-date: 2024-11-11T22:39:19.671Z
-updated: 2024-11-19T00:24:38.246Z
+date: 2024-12-05T21:48:31.066Z
+updated: 2024-12-07T20:28:51.851Z
 tags:
   - win11
   - win10
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -54,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -63,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -105,38 +117,17 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -150,10 +141,7 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 ``
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
@@ -162,6 +150,10 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
  2) Click **System** .
@@ -169,13 +161,6 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -186,6 +171,10 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -204,6 +193,10 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -232,21 +225,15 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-adv-screen-recorder-full-review/"><u>[New] ADV Screen Recorder Full Review</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-for-every-level-of-filmmaker-our-top-10-camera-picks/"><u>[New] For Every Level of Filmmaker, Our Top 10 Camera Picks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-investing-successfully-with-a-makeup-channel/"><u>[Updated] Investing Successfully with a Makeup Channel</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-professional-video-setup-ideal-stabilizers-for-youtubers/"><u>[Updated] Professional Video Setup Ideal Stabilizers for YouTubers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-become-a-pro-in-calculating-youtube-ratio-measures/"><u>2024 Approved Become a Pro in Calculating YouTube Ratio Measures</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-securing-privacy-efficient-blur-techniques-in-images/"><u>2024 Approved Securing Privacy Efficient Blur Techniques in Images</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/4-effective-methods-fake-gps-location-on-apple-iphone-15-proipad-drfone-by-drfone-virtual-ios/"><u>4 Effective Methods Fake GPS Location on Apple iPhone 15 Pro/iPad | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/brightness-adjustment-trouble-solving-windows-11-display-problems/"><u>Brightness Adjustment Trouble: Solving Windows 11 Display Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortlessly-resolve-no-battery-found-issue-swift-solutions/"><u>Effortlessly Resolve 'No Battery Found' Issue – Swift Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210932111-forgotten-sd-cards-reclaim-and-repair-them/"><u>Forgotten SD Cards? Reclaim & Repair Them!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/interactive-techniques-for-periscope-hosts/"><u>Interactive Techniques for Periscope Hosts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-windows-update-issue-fixing-error-code-0x802e401c-on-windows-10-and-11/"><u>Resolving the Windows Update Issue: Fixing Error Code 0X802e401C on Windows 10 & 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-initialization-errors-of-the-graphics-engine-latest-patches-reviewed/"><u>Troubleshooting Initialization Errors of the Graphics Engine - Latest Patches Reviewed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-solving-class-not-registered-problems-easily/"><u>Troubleshooting Windows 11: Solving 'Class Not Registered' Problems Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-over-wi-fi-mice-issues-consistent-connectivity-for-windows-1011-systems/"><u>Winning Over Wi-Fi Mice Issues: Consistent Connectivity for Windows 10/11 Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/wi-fi-flv-wav/"><u>모볼밯 Wi-Fi에서 자원 없는 FLV 파일을 위한 무료 WAV 변환기</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-magixs-image-ordering-an-assessment/"><u>[New] MAGIX's Image Ordering An Assessment</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-top-artisans-in-sound-and-video-craftsminas-online-for-2024/"><u>[New] The Top Artisans in Sound and Video Craftsminas Online for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-xs-100-i-the-action-camera-that-transforms-moments-into-memories/"><u>[New] XS 100 I The Action Camera That Transforms Moments Into Memories</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-zoom-in-zoom-out-managing-close-up-footage-in-videoleap/"><u>[Updated] 2024 Approved Zoom In, Zoom Out Managing Close-Up Footage in Videoleap</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726223262950-vocwma-movavi/"><u>網上免費VOC音頻改造WMA格式 - Movavi解析器功能比較</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-avi-files-to-wmv-format-for-free-using-movavis-quick-online-tool/"><u>Convert AVI Files to WMV Format for Free Using Movavi's Quick Online Tool</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/duplicate-your-navisd-memory-top-2-free-software-options/"><u>Duplicate Your NaviSD Memory: Top 2 Free Software Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guia-facil-de-transformar-archivos-mov-en-mp4-usando-vlc-tutorial-para-windows-y-macos/"><u>Guía Fácil De Transformar Archivos MOV en MP4 Usando VLC: Tutorial Para Windows Y MacOS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/metaverse-characters-made-simple-easy-avatar-crafting-tips/"><u>Metaverse Characters Made Simple Easy Avatar Crafting Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-company-overview-essential-corporate-info-and-seo-optimized-content-for-google-searches/"><u>Movavi Company Overview: Essential Corporate Info & SEO Optimized Content for Google Searches</u></a></li>
 </ul></div>
 

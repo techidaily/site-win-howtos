@@ -1,7 +1,7 @@
 ---
 title: Successfully Reactivating Wireless Functionality on Electronics
-date: 2024-11-27T10:05:03.771Z
-updated: 2024-11-28T12:22:49.605Z
+date: 2024-11-30T18:57:30.853Z
+updated: 2024-12-07T19:17:15.701Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/5ee746dbc8ada474503544ca04e806e436db5d410
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these steps
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/5ee746dbc8ada474503544ca04e806e436db5d410
 
 If all your USB ports aren’t working, try Step 2, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 2: Disconnect and reconnect your power cord (for laptop)
 
  If your Dell laptop has any problem with the power supply, the USB ports on your laptop may stop working. To check for power supply issues, you can follow these steps:
@@ -55,9 +51,17 @@ If all your USB ports aren’t working, try Step 2, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15c81ad6b3.jpg)
 2. **Restart** your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. **Plug** your USB device into your laptop.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3: Check your power management settings
 
@@ -68,18 +72,10 @@ If all your USB ports aren’t working, try Step 2, below.
 **![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be166620610a.png)**
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
 5. Click the**Power Management** tab.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
@@ -88,10 +84,6 @@ If all your USB ports aren’t working, try Step 2, below.
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
 
 8. Check if your USB port works properly now. If not, try Step 4, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 4: Update your USB driver
 
@@ -111,8 +103,17 @@ or
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f93a4683.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f53e08f3.jpg)
 4. Restart your computer and check if your USB port now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -135,20 +136,20 @@ or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-a-compreayers-guide-to-capturing-console-games-on-a-computer/"><u>[New] A Compreayer's Guide to Capturing Console Games on a Computer</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-impeccablecapture-studio-suite-windows-10-edition/"><u>[New] ImpeccableCapture Studio Suite (Windows 10 Edition)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cut-down-windows-11-cpu-overuse-with-wmi-fixes/"><u>Cut Down Windows 11 CPU Overuse with WMI Fixes</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-broadcom-bluetooth-drivers-on-windows-10-8-and-7/"><u>Download and Install Broadcom Bluetooth Drivers on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dvd-pc/"><u>DVDデジタル化用フリーウェア８案 - PCへの移行方法がわかる</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723203738701-fix-system-error-5-has-occurred-error-on-windows-10-7-and-8-solved/"><u>Fix System Error 5 Has Occurred Error on Windows 10, 7 & 8 [Solved]</u></a></li>
-<li><a href="https://games-able.techidaily.com/get-a-discounted-rtx-3070-gpu-save-220-immediately-with-our-offer-power-your-gaming-today/"><u>Get a Discounted RTX 3070 GPU - Save $220 Immediately with Our Offer! Power Your Gaming Today!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-get-your-windows-abstraction-layer-7s-usb-input-devices-working-again/"><u>How to Get Your Windows Abstraction Layer 7'S USB Input Devices Working Again</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a1-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo A1 5G FRP</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-art-of-restoring-bluetooth-functionality-on-a-windows-10-computer/"><u>Master the Art of Restoring Bluetooth Functionality on a Windows 10 Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/methods-of-gaining-permission-from-trustedinstaller-for-file-edits/"><u>Methods of Gaining Permission From TrustedInstaller for File Edits</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-issues-with-device-non-migration-during-windows-11-transition/"><u>Overcoming Issues with Device Non-Migration During Windows 11 Transition</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-yourself-for-youtube-video-production-finalcut-pro-techniques/"><u>Ready Yourself for YouTube Video Production - FinalCut Pro Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-your-problem-how-to-repair-the-nonfunctional-start-menu-in-windows-11/"><u>Solving Your Problem: How to Repair the Nonfunctional Start Menu in Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transform-your-broadcasts-with-manycam-professional-live-video-tools-and-digital-camera-solutions/"><u>Transform Your Broadcasts with ManyCam: Professional Live Video Tools & Digital Camera Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-letter-not-working-on-keyboard-win-1111/"><u>[FIXED] Letter Not Working On Keyboard Win 11/11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-increasing-brilliance-on-your-android-videos/"><u>[New] Increasing Brilliance on Your Android Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-peering-through-hololens-a-peek-at-next-gen-interaction/"><u>[New] Peering Through HoloLens A Peek at Next-Gen Interaction</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-enhance-youtubes-conversations-with-emojis/"><u>[Updated] Enhance Youtubes' Conversations with Emojis</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-history-streams-that-will-transform-your-study-habits/"><u>[Updated] History Streams That Will Transform Your Study Habits</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-understanding-digital-color-with-rgb-and-srgb-analysis/"><u>2024 Approved Understanding Digital Color with Rgb & Srgb Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212036439-dell-usb-connection-issues-heres-how-to-get-it-working-again/"><u>Dell USB Connection Issues? Here's How to Get It Working Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-fix-for-windows-11-bluetooth-not-detected-problems-step-by-step-guide/"><u>Effortless Fix for Windows 11 Bluetooth Not Detected Problems - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gadget-glitch-gone/"><u>Gadget Glitch Gone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-infinix-gt-10-pro-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Infinix GT 10 Pro Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-8-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 8 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/optimizing-your-videos-before-transferring-them-onto-a-dvd-expert-tips-and-tricks/"><u>Optimizing Your Videos Before Transferring Them Onto a DVD - Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-easy-troubleshooting-guide-to-reviving-your-drained-laptop-battery/"><u>Quick & Easy Troubleshooting Guide to Reviving Your Drained Laptop Battery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamping-the-digital-world-insights-on-windows-11-changes/"><u>Revamping the Digital World: Insights on Windows 11 Changes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-troubleshooting-the-0xc000007b-application-startup-failure/"><u>Step-by-Step Solution for Troubleshooting the 0xC000007b Application Startup Failure</u></a></li>
 </ul></div>
 

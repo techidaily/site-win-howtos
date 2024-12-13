@@ -1,7 +1,7 @@
 ---
 title: How to Fix Error Code 0Xc0000098 on Windows
-date: 2024-12-06T20:00:38.259Z
-updated: 2024-12-07T19:05:27.577Z
+date: 2024-12-11T22:06:23.989Z
+updated: 2024-12-13T17:09:10.121Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
 4. **[Reset TCP/IP on your Windows](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable the auto tuning feature](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Why does the error 651 occur?**
 
 **Note** : If you have already known something about the error 651, you can skip to[**Method 1**](https://tools.techidaily.com/drivereasy/download/)
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
  Error 651 is a common error for Windows users. It occurs when we try to connect using**PPPoE connection** . PPPoE stands for**Point to Point Protocol over Ethernet** , and it remotely connects multiple PC users on an Ethernet local area network.
 
  Error 651 occurs because of various reasons, such as the incorrect **Internet and IP configuration or the network card driver issue** . Although you may not be able to locate the exact cause of this problem, you can try the following methods to troubleshoot the problem and solve it step by step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 1: Restart your computer and modem**
 
@@ -76,22 +84,22 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a00cda6fc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the network device to download the correct driver (you can do that with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the problem drivers (you can do that with[**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you will be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_58e615dea0c7e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at**<support@drivereasy.com>** for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
 
  4) After updating the driver, restart your computer, then try to connect again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 3: Troubleshoot settings in Network and Sharing Center**
@@ -107,24 +115,16 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3096248a096.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3094b17d852.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right click your network connection, then click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a31fa9aa7bb5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Uncheck the box next to**Internet Protocol Version 6 (TCP/IPv6)** . Then c  lick**OK** to save the settings.
 
@@ -148,13 +148,13 @@ If the problem still persists, you can try the next solution below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30962dc7683.png)
 
- 2) Click**Change adapter settings** .
-
-![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3094b17d852.png)
-
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 2) Click**Change adapter settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3094b17d852.png)
 
  3) Right click the dial up connection, and click select**Create Copy** .
 
@@ -163,6 +163,10 @@ If the problem still persists, you can try the next solution below:
  4) Right click the**original dial up connection** , and select**Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a31fb3ac0375.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Try connecting to the network again to see if it works.
 
@@ -180,17 +184,21 @@ If the problem still persists, you can try the next solution below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309ad06313d.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Select**Set up a new connection anyway** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309b7a09937.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Select**Broadband (PPPoE)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309bc071482.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Enter the**username** and**password** provided by your Internet Service Provider (ISP), and click**Connect** .
 
@@ -222,19 +230,11 @@ netsh int ip reset reset.log
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e42f5624fb.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Copy the command below and paste it in your Command Prompt, then press**Enter** on your keyboard:
 
 Netsh interface tcp set global autotuning=disabled
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309cf60ba01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) After the command completed, try your Internet connection again to see if it works.
 
@@ -257,24 +257,16 @@ Netsh interface tcp set global autotuning=disabled
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-maximum-mac-gif-recorder-for-2024/"><u>[Updated] Maximum Mac Gif Recorder for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-techniques-for-uploading-original-posts-again-for-2024/"><u>[Updated] Techniques for Uploading Original Posts Again for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726226686931-bmp/"><u>BMP 이미지를 자동으로 애니メ이터 파일로 바꾸기 - 비용 부여 모바일</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprime-tu-video-en-linea-gratuitamente-sin-perder-calidad/"><u>Comprime Tu Vídeo en Línea Gratuitamente Sin Perder Calidad</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/from-minutes-to-quality-the-stepwise-conversion-of-youtube-shorts/"><u>From Minutes to Quality The Stepwise Conversion of YouTube Shorts</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 to the Previous iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-professional-perception-pioneering-hdr-art-with-photoshop/"><u>In 2024, Professional Perception Pioneering HDR Art with PhotoShop</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-nokia-g22-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Nokia G22 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/lost-in-silence-a-step-by-step-strategy-for-reactivating-your-nvidia-hd-speakers/"><u>Lost in Silence: A Step-by-Step Strategy for Reactivating Your Nvidia HD Speakers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavis-no-cost-image-transformation-convert-tga-to-png-instantly/"><u>Movavi's No-Cost Image Transformation - Convert TGA to PNG Instantly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mp2-in-mpg-konvertieren-gunstig-und-simpel-im-internet/"><u>MP2 in MPG Konvertieren - Günstig Und Simpel Im Internet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-bezplatny-prekvapenicni-konverzer-mov-do-mp4-s-dustojnym-vykonem-movavi/"><u>Online Bezplatný Překvapeníční Konverzér MOV Do MP4 S Důstojným Výkonem - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/rendrez-vous-maitre-de-vos-fichiers-videos-convertir-des-fichiers-m4v-en-fichiers-mov-sans-depense-avec-notre-service-online-convaincant/"><u>Rendrez-Vous Maître De Vos Fichiers Vidéos : Convertir Des Fichiers M4V en Fichiers MOV Sans Dépense Avec Notre Service Online Convaincant!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/successfully-recover-your-money-the-ultimate-steam-game-refund-procedure-explained/"><u>Successfully Recover Your Money – The Ultimate Steam Game Refund Procedure Explained</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-art-of-playback-anarchy-youtube-playlists-unordered-again/"><u>The Art of Playback Anarchy YouTube Playlists Unordered Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-most-effective-video-collage-applications-a-comprehensive-guide-for-smartphone-devices/"><u>The Most Effective Video Collage Applications : A Comprehensive Guide for Smartphone Devices</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oneplus-12-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On OnePlus 12</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-free-sound-effects-download-websites-for-video-editing/"><u>Top Free Sound Effects Download Websites for Video Editing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726224737475-webm-gif-movavi/"><u>무용제약금 WEBM GIF를 전환하는 Movavi 도구 - 영화객</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-leveraging-the-strengths-of-ez-grabber-software/"><u>[New] Leveraging the Strengths of EZ Grabber Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-streamlining-movie-file-processing-in-windows-11/"><u>[Updated] Streamlining Movie File Processing in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-fix-non-working-windows-key-errors-on-windows-10-devices/"><u>Diagnose and Fix Non-Working Windows Key Errors on Windows 10 Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-7-apps-to-wake-up-to-our-expert-picks/"><u>Discover the Best 7 Apps to Wake Up To: Our Expert Picks!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/indispensable-sandbox-journeys-await-in-2024/"><u>Indispensable Sandbox Journeys Await, In 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premium-pctablet-mkv-reader/"><u>Premium PC/Tablet MKV Reader</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-10-update-issues-a-step-by-step-guide/"><u>Resolving Windows 10 Update Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210246674-squamous-cell-carcinoma-usually-appears-as-a-central-tumor-and-can-lead-to-local-obstruction-symptoms/"><u>Squamous Cell Carcinoma Usually Appears as a Central Tumor and Can Lead to Local Obstruction Symptoms.</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/top-ranked-photo-restoration-app/"><u>Top-Ranked Photo Restoration App</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-lost-vcruntime1n40dll-file-expert-tips-and-tricks/"><u>Troubleshooting the Lost VCRUNTIME1n40.dll File - Expert Tips & Tricks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-xr-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone XR Without iTunes in 5 Ways</u></a></li>
 </ul></div>
 

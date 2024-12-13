@@ -1,7 +1,7 @@
 ---
 title: "Fixing High Network Consumption by svchost.exe (Netsvcs): A Complete Guide to Troubleshooting and Resolution"
-date: 2024-12-06T21:51:58.121Z
-updated: 2024-12-07T21:44:50.749Z
+date: 2024-12-10T20:12:45.142Z
+updated: 2024-12-13T20:13:30.467Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Fixes for**Microphone Not Working On Laptop**
 
@@ -46,7 +42,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
@@ -57,13 +53,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -86,7 +82,7 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
@@ -99,6 +95,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
@@ -109,13 +109,13 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -150,18 +150,22 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-taking-your-photos-and-videos-to-new-heights/"><u>[New] Taking Your Photos and Videos to New Heights</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expert-insights-on-forging-youtube-sponsorship-bonds-using-famebit/"><u>[Updated] 2024 Approved Expert Insights on Forging YouTube Sponsorship Bonds Using FameBit</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-removing-aerial-video-pulsation-effects-for-2024/"><u>[Updated] Removing Aerial Video Pulsation Effects for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-for-windows-10-cannot-read-container-contents-issue/"><u>Comprehensive Solution for 'Windows 10 Cannot Read Container Contents' Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-persistent-problem-of-windows-update-error-0x8024401c-in-recent-windows-versions/"><u>How to Overcome the Persistent Problem of Windows Update Error 0X8024401c in Recent Windows Versions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-12-pro-5g-by-fonelab-android-recover-messages/"><u>How to recover old messages from your 12 Pro 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-valorants-screen-tearing-issue-effectively/"><u>How To Resolve Valorant's Screen Tearing Issue Effectively</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-master-plan-top-6-modernist-minecraft-villas/"><u>In 2024, Master Plan Top 6 Modernist Minecraft Villas</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/investigating-the-silence-of-non-suggestive-video-content-on-fb/"><u>Investigating the Silence of Non-Suggestive Video Content on FB</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016126512-league-of-legends-voice-chat-problems-solutions-to-get-you-talking-again/"><u>League of Legends Voice Chat Problems? Solutions to Get You Talking Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimizing-disk-usage-for-microsoft-telemetry-services-under-windows-11/"><u>Optimizing Disk Usage for Microsoft Telemetry Services Under Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-honor-magic-vs-2-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Honor Magic Vs 2 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unreal-engine-under-threat-the-d3d-device-crisis/"><u>Unreal Engine Under Threat: The D3D Device Crisis</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-creativity-on-a-tablet-leading-drawing-apps/"><u>[New] In 2024, Creativity on a Tablet Leading Drawing Apps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-effortless-youtube-video-to-text-conversion-at-no-cost/"><u>[New] In 2024, Effortless YouTube Video to Text Conversion at No Cost</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-adsense-earnings-insights-into-payments-from-youtube-viewers/"><u>2024 Approved Mastering AdSense Earnings Insights Into Payments From YouTube Viewers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/battle-royale-gaming-fixes-for-game-crashing/"><u>Battle Royale Gaming: Fixes for Game Crashing</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-instructions-to-get-arduino-nano-driver-up-and-running-on-your-windows-machine/"><u>Easy Instructions to Get Arduino Nano Driver Up and Running on Your Windows Machine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-iphone-upgrades-should-you-switch-from-iphone-14-pro-to-iphone-16-pro-tech-insights/"><u>Evaluating iPhone Upgrades: Should You Switch From iPhone 14 Pro to iPhone 16 Pro? | Tech Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-restore-your-wacom-pen-functionality-in-modern-windows-environments/"><u>Expert Tips to Restore Your Wacom Pen Functionality in Modern Windows Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-detected-network-modification-notification-issue-easily/"><u>Fixing the 'Detected Network Modification' Notification Issue Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-resolving-nonfunctional-brightness-adjustment-in-windows-11/"><u>Guide to Resolving Nonfunctional Brightness Adjustment in Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-bebop-unfurled-in-flight-form-the-secondary-parrot-review/"><u>In 2024, Bebop Unfurled in Flight Form – The Secondary Parrot Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-expertly-snip-tamil-ringtones-a-complete-walkthrough/"><u>In 2024, How to Expertly Snip Tamil Ringtones A Complete Walkthrough</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-windows-update-issue-error-code-0x802n4002e/"><u>Resolved: Fixing the Windows Update Issue - Error Code 0X802n4002E</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/select-and-download-exclusive-tailored-audio-templates-for-2024/"><u>Select & Download Exclusive Tailored Audio Templates for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/slash-high-cpu-usage-by-tackling-provider-host-issues/"><u>Slash High CPU Usage by Tackling Provider Host Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tech-hacks-to-stop-usb-devices-from-losing-connection/"><u>Tech Hacks to Stop USB Devices From Losing Connection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-resolving-unreachable-destiny-2-server-problems/"><u>Troubleshooting Steps for Resolving Unreachable Destiny 2 Server Problems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-apple-iphone-12-pro-max-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From Apple iPhone 12 Pro Max? 5 Tips You Must Know</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Master the Fix for Windows 11 Update Error: Understanding and Solving 0X80240034"
-date: 2024-12-02T20:11:57.932Z
-updated: 2024-12-07T17:22:47.955Z
+date: 2024-12-12T17:59:55.222Z
+updated: 2024-12-13T20:18:38.672Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ Please click the solution according to your Windows operating system.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## For Windows 8 users: Restore AUInstallAgent directory in the Windows Folder
@@ -46,19 +46,23 @@ To restore it:
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **E**  at the same time to invoke the File Explorer window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Go to **This PC**  \> **Local Disk (C:)**  \> **Windows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af9ed488157.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click on the blank area to click **New** , then **Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af9f67c0fe4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click**Yes**  when prompted by User Account Control.
@@ -66,6 +70,10 @@ To restore it:
  5) Name the new folder: **AUInstallAgent** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afa05bc9916.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Reboot your Windows 8\. Then go to the Windows App Store to install the app again to see if it’s successful.
 
@@ -85,19 +93,11 @@ To restore it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af9f67c0fe4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click**Yes**  when prompted by User Account Control.
 
  5) Name the new folder:   **AppReadiness** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afa57cdd600.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Reboot your Windows 10/8.1\. Then go to the Windows App Store to install the app again to see if it’s successful.
 
@@ -118,22 +118,24 @@ To restore it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-podcasters-guide-to-the-10-finest-mic-options/"><u>[New] In 2024, Podcaster's Guide to the 10 Finest Mic Options</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-strategies-for-effective-video-markup-on-youtube/"><u>[New] In 2024, Strategies for Effective Video Markup on YouTube</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-aces-top-10-list-choosing-superior-capture-cards/"><u>[Updated] 2024 Approved Ace's Top 10 List Choosing Superior Capture Cards</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-rhythm-wizards-choice-online-tempo-tester-apps/"><u>[Updated] Rhythm Wizards' Choice Online Tempo Tester Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029121683-youtube/"><u>「移動中にスマホでYouTubeミュージックを楽しむ方法」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726026414989-dvd/"><u>「ジャニーズDVDの動画が見られなくて、困ったことありますか?」 - トラブルシューティングガイド</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebooks-ultimate-guide-to-full-screen-video/"><u>2024 Approved Facebook's Ultimate Guide to Full Screen Video</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/4-effective-methods-for-capturing-screenshots-on-crunchyroll-updated-guide-2024/"><u>4 Effective Methods for Capturing Screenshots on Crunchyroll (Updated Guide - 2024)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726028573468-m4pwav/"><u>簡単にM4PをWAVに変更する方法｜オーディオファイル変換の究極ガイド</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/7mp4/"><u>最高の自由アプリ!7つのベストMP4編集ツールをご紹介</u></a></li>
-<li><a href="https://extra-information.techidaily.com/cross-platform-commerce-innovation/"><u>Cross-Platform Commerce Innovation</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-discords-indicator-for-inactivity-credible-or-misleading/"><u>Is Discord's Indicator for Inactivity Credible or Misleading?</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-best-solarmovie-alternatives-watch-movies-online/"><u>New Best SolarMovie Alternatives-Watch Movies Online</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/solving-display-corruption-issues/"><u>Solving Display Corruption Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726027655280-weverse/"><u>Weverseプラットフォームから動画を安全にダウンロード・保存する方法</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/44ob44on44o844og44ow44od44kv44gn6zplusz5qw944ks5yan55sf44gn44gn44gq44ge5ac05zci44gu44oi44op44ow44or44k344ol44o844og44kj44oz44kw5oml6acg/"><u>チョームブックで音楽を再生できない場合のトラブルシューティング手順</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726027506728-audacity/"><u>どうやったらAudacityでオーディオファイルに無音セクションを追加するか?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-ultimate-guide-sharing-your-private-youtube-snippets-via-email/"><u>[New] 2024 Approved The Ultimate Guide Sharing Your Private YouTube Snippets via Email</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-googles-technique-for-crystal-clear-speech-translation/"><u>[Updated] 2024 Approved Google's Technique for Crystal Clear Speech Translation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-rapid-rise-to-instagram-riches-15-innovative-techniques-for-quick-popularity-boost/"><u>[Updated] In 2024, Rapid Rise to Instagram Riches 15 Innovative Techniques for Quick Popularity Boost</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mac-screenshots-transforming-extensions/"><u>[Updated] Mac Screenshots Transforming Extensions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-inside-look-apples-m1-max-attachments/"><u>2024 Approved Inside Look Apple's M1 Max Attachments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-invalid-registry-error-on-windows-11-for-easy-image-file-access/"><u>Bypass 'Invalid Registry' Error on Windows 11 for Easy Image File Access</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-resolving-the-cannot-find-source-file-0x80070solved-windows-update-error/"><u>Comprehensive Guide: Resolving the 'Cannot Find Source File' - 0X80070^[SOLVED] Windows Update Error</u></a></li>
+<li><a href="https://win-help.techidaily.com/download-your-favorite-songs-from-youtube-as-mp3-or-flac-files-with-easy-steps/"><u>Download Your Favorite Songs From YouTube as MP3 or FLAC Files with Easy Steps!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ensure-crystal-clear-communication-on-ps4-solving-built-in-mic-malfunctions-effortlessly/"><u>Ensure Crystal Clear Communication on PS4: Solving Built-In Mic Malfunctions Effortlessly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-y55s-5g-2023-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo Y55s 5G (2023) Phone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-fix-for-persistent-oddworld-soulstorm-pc-malfunctions-now-playable/"><u>Master the Fix for Persistent Oddworld: Soulstorm PC Malfunctions – Now Playable!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/speedy-tips-for-overcoming-a-lagging-keyboard-issue/"><u>Speedy Tips for Overcoming a Lagging Keyboard Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-fixing-ps4-nat-issues-once-and-for-all/"><u>Step-by-Step Troubleshooting: Fixing PS4 NAT Issues Once and For All</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-awake-averse-pc-windows-1011-locked-in-slumber/"><u>The Awake-Averse PC: Windows 10/11 Locked in Slumber</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782597-9781594779046-the-power-of-shakti/"><u>The Power of Shakti | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-tips-for-resolving-a-stalled-torrent-download-problem/"><u>Top Tips for Resolving a Stalled Torrent Download Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-your-mouse-cursor-keeps-vanishing-in-windows-10-and-how-to-fix-it/"><u>Why Your Mouse Cursor Keeps Vanishing in Windows 10 & How to Fix It</u></a></li>
 </ul></div>
 

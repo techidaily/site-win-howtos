@@ -1,7 +1,7 @@
 ---
 title: Top 6 Solutions for Resolving werFault.exe Crashes in Windows
-date: 2024-12-04T17:28:10.358Z
-updated: 2024-12-07T21:50:59.267Z
+date: 2024-12-07T21:15:56.057Z
+updated: 2024-12-13T18:10:41.046Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Make sure your power icon is turned on
@@ -36,14 +36,15 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2）Click**Turn system icons on or off**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-6.png)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Make sure **Power** is on.  
   
@@ -59,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
@@ -72,18 +73,10 @@ Follow these:
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
   
@@ -95,6 +88,10 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/9.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
 
  If Windows fails to install the drivers for you, or your want to do it much faster, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to help you update drivers automatically.
@@ -104,6 +101,10 @@ Follow these:
  You can update your drivers automatically with either the **[Free](https://tools.techidaily.com/drivereasy/download/)**  or the[**Pro**](https://tools.techidaily.com/drivereasy/download/) version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
@@ -122,22 +123,20 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-laughing-through-the-metaverse-making-your-own-humor/"><u>[New] Laughing Through the Metaverse Making Your Own Humor</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/uick-turn-artistry-professionally-crafted-valorant-game-imagery/"><u>[New] Quick-Turn Artistry Professionally Crafted Valorant Game Imagery</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-discerning-t-series-profit-mechanisms-from-youtube-views-for-2024/"><u>[Updated] Discerning T-Series' Profit Mechanisms From Youtube Views for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-navigating-the-world-of-screen-capture-nvidia-edition/"><u>[Updated] In 2024, Navigating the World of Screen Capture NVIDIA Edition</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-a-step-by-step-guide-to-instagrams-premier-status-6-practical-steps-for-enthusiasts/"><u>2024 Approved A Step-by-Step Guide to Instagram's Premier Status 6 Practical Steps For Enthusiasts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/boosting-high-resolution-outputs-the-role-of-gpus-in-efficient-4k-and-hd-transcoding/"><u>Boosting High-Resolution Outputs: The Role of GPUs in Efficient 4K and HD Transcoding</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversion-sans-frais-mp3-de-video-f4v-via-movavi-online/"><u>Conversion Sans Frais : MP3 De Vidéo F4V via Movavi Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convertir-archivos-alaw-a-wave-sin-gastos-utilizando-el-servicio-de-movavi-online/"><u>Convertir Archivos Alaw a Wave Sin Gastos Utilizando El Servicio De Movavi Online</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-moto-g24-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G24 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mp4-file-transformation-from-3gpp-made-simple-and-free-discover-the-power-of-movavis-online-conversion-tool/"><u>MP4 File Transformation From 3GPP Made Simple and Free – Discover the Power of Movavi's Online Conversion Tool</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-konverteren-van-m4a-naar-wav-vrije-dienst-met-movavi-convertereer-nl/"><u>Online Konverteren Van M4A Naar WAV - Vrije Dienst Met Movavi Convertereer NL</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-10-reliable-vhs-to-dvd-conversion-tools-explore-movavis-leading-position/"><u>Top 10 Reliable VHS-to-DVD Conversion Tools: Explore Movavi's Leading Position</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformer-des-fichiers-mp4-en-videos-mpeg-sur-internet-de-gratuiciel-convertisseur-video-movavi/"><u>Transformer Des Fichiers MP4 en Vidéos MPEG Sur Internet De Gratuiciel - Convertisseur Vidéo Movavi</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-dragon-age-origins-stability-problems-on-windows-10-pcs/"><u>Troubleshooting Dragon Age: Origins Stability Problems on Windows 10 PCs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-potential-of-samsung-galaxy-note2eultra-a-5g-smartphone-assessment/"><u>Unveiling the Potential of Samsung Galaxy Note2eUltra – A 5G Smartphone Assessment</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/webp-to-tiff-image-converter-accessible-and-complimentary-services-on-the-web-by-movavi/"><u>WebP to TIFF Image Converter - Accessible and Complimentary Services on the Web by Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/vocavi/"><u>オンラインで自由にVOCからAVIへの高速変換 – 完全無料ソリューション</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-stealthy-video-streamer-reviews-1-8/"><u>[New] In 2024, Stealthy Video Streamer Reviews #1-8</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-immediate-halt-of-auto-recording-on-qt/"><u>[Updated] 2024 Approved Immediate Halt of Auto-Recording on QT</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-god-of-thunder-returns-epic-dawn/"><u>[Updated] In 2024, God of Thunder Returns Epic Dawn</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-video-landscape-vimeo-and-youtube-distinguished/"><u>[Updated] Navigating Video Landscape Vimeo and YouTube Distinguished</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/captureking-chronicles-the-best-recorders-unveiled/"><u>CaptureKing Chronicles The Best Recorders Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-troubleshooting-steelseries-x50x70-keyboard-solutions-when-the-pen-stops-responding/"><u>Complete Troubleshooting SteelSeries X50/X70 Keyboard: Solutions When The Pen Stops Responding</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-enable-night-light-when-it-wont-start-on-your-pc-windows-1011/"><u>How to Enable Night Light When It Won't Start on Your PC (Windows 10/11)</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-fix-a-faulty-network-adapter-a-step-by-step-guide-by-yl-computing/"><u>How to Fix a Faulty Network Adapter: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-balancing-acts-in-youtube-music-mixes/"><u>In 2024, Balancing Acts in YouTube Music Mixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-rdr2-out-of-memory-mistake-by-boosting-your-pagefile-a-swift-solution/"><u>Resolve 'RDR2 - Out Of Memory' Mistake by Boosting Your Pagefile: A Swift Solution</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-7-best-total-war-games/"><u>The 7 Best Total War Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206814151-total-war-rome-remastered-game-crash-troubles-discover-these-fixes/"><u>Total War: Rome Remastered Game Crash Troubles? Discover These Fixes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-out-of-memory-errors-for-a-smoother-gaming-experience-in-rdr2/"><u>Troubleshoot Out-Of-Memory Errors for a Smoother Gaming Experience in RDR2</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-get-your-dell-camera-back-to-work-on-a-windows-pc/"><u>Troubleshooting: How to Get Your Dell Camera Back to Work on a Windows PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/winx-dvd-ripper-ultimate-accelerado-de-hasta-32x-convertidor-optimo-para-copias-digitales-en-windows-11/"><u>WinX DVD Ripper Ultimate – Accelerado De Hasta 32X, Convertidor Óptimo Para Copias Digitales en Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Successfully Reactivating Wireless Functionality on Electronics
-date: 2024-11-30T18:57:30.853Z
-updated: 2024-12-07T19:17:15.701Z
+date: 2024-12-07T18:18:10.585Z
+updated: 2024-12-13T19:17:55.433Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/5ee746dbc8ada474503544ca04e806e436db5d410
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these steps
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/5ee746dbc8ada474503544ca04e806e436db5d410
 
 If all your USB ports aren’t working, try Step 2, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: Disconnect and reconnect your power cord (for laptop)
 
  If your Dell laptop has any problem with the power supply, the USB ports on your laptop may stop working. To check for power supply issues, you can follow these steps:
@@ -51,16 +55,12 @@ If all your USB ports aren’t working, try Step 2, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15c81ad6b3.jpg)
 2. **Restart** your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. **Plug** your USB device into your laptop.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Check your power management settings
@@ -72,6 +72,10 @@ If all your USB ports aren’t working, try Step 2, below.
 **![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be166620610a.png)**
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
@@ -79,6 +83,10 @@ If all your USB ports aren’t working, try Step 2, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
@@ -104,16 +112,8 @@ or
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f93a4683.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f53e08f3.jpg)
 4. Restart your computer and check if your USB port now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -136,20 +136,15 @@ or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-letter-not-working-on-keyboard-win-1111/"><u>[FIXED] Letter Not Working On Keyboard Win 11/11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-increasing-brilliance-on-your-android-videos/"><u>[New] Increasing Brilliance on Your Android Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-peering-through-hololens-a-peek-at-next-gen-interaction/"><u>[New] Peering Through HoloLens A Peek at Next-Gen Interaction</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-enhance-youtubes-conversations-with-emojis/"><u>[Updated] Enhance Youtubes' Conversations with Emojis</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-history-streams-that-will-transform-your-study-habits/"><u>[Updated] History Streams That Will Transform Your Study Habits</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-understanding-digital-color-with-rgb-and-srgb-analysis/"><u>2024 Approved Understanding Digital Color with Rgb & Srgb Analysis</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212036439-dell-usb-connection-issues-heres-how-to-get-it-working-again/"><u>Dell USB Connection Issues? Here's How to Get It Working Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-fix-for-windows-11-bluetooth-not-detected-problems-step-by-step-guide/"><u>Effortless Fix for Windows 11 Bluetooth Not Detected Problems - Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gadget-glitch-gone/"><u>Gadget Glitch Gone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-infinix-gt-10-pro-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Infinix GT 10 Pro Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-8-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 8 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/optimizing-your-videos-before-transferring-them-onto-a-dvd-expert-tips-and-tricks/"><u>Optimizing Your Videos Before Transferring Them Onto a DVD - Expert Tips and Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-and-easy-troubleshooting-guide-to-reviving-your-drained-laptop-battery/"><u>Quick & Easy Troubleshooting Guide to Reviving Your Drained Laptop Battery</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revamping-the-digital-world-insights-on-windows-11-changes/"><u>Revamping the Digital World: Insights on Windows 11 Changes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-troubleshooting-the-0xc000007b-application-startup-failure/"><u>Step-by-Step Solution for Troubleshooting the 0xC000007b Application Startup Failure</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-3dr-a-compreran-users-journey-through-tech-aloneness/"><u>[New] In 2024, '3DR' A Compreran User's Journey Through Tech Aloneness</u></a></li>
+<li><a href="https://blog-min.techidaily.com/winx-mediatrans-pciphone-ipad/"><u>使用WinX MediaTrans™提升数字内容管理 - 专业PC到iPhone iPad转移方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/detailed-walkthrough-to-correctly-diagnose-and-resolve-error-code-31-on-windows/"><u>Detailed Walkthrough to Correctly Diagnose and Resolve Error Code 31 on Windows</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/direct-transfer-solution-youtube-content-on-dailymotion-now/"><u>Direct Transfer Solution YouTube Content on Dailymotion Now</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-harmonizing-youtube-content-a-guide-to-blending-files/"><u>In 2024, Harmonizing YouTube Content A Guide to Blending Files</u></a></li>
+<li><a href="https://facebook.techidaily.com/making-a-lasting-impact-3d-photography-techniques-on-social-networks/"><u>Making a Lasting Impact: 3D Photography Techniques on Social Networks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-battleye-service-integration-no-more-failed-attempts/"><u>Mastering the BattlEye Service Integration: No More Failed Attempts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-fcp-voice-over-essentials-mastering-the-basics/"><u>New FCP Voice Over Essentials Mastering the Basics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-obstacles-a-guide-to-successful-windows-patching/"><u>Overcoming Obstacles: A Guide to Successful Windows Patching</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-monster-hunter-worlds-black-screen-problem-on-your-pc/"><u>Resolving Monster Hunter World’s Black Screen Problem on Your PC</u></a></li>
 </ul></div>
 

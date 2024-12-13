@@ -1,7 +1,7 @@
 ---
 title: Dell Laptop Keyboard Issues? Here Are Effective Fixes!
-date: 2024-11-30T19:02:07.447Z
-updated: 2024-12-07T21:57:52.155Z
+date: 2024-12-09T19:47:29.068Z
+updated: 2024-12-13T18:59:03.027Z
 tags:
   - win11
   - win10
@@ -47,10 +47,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
@@ -75,15 +71,15 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -103,6 +99,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -110,7 +110,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -122,16 +122,12 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -145,6 +141,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -184,20 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-direct-download-destiny-10-online-tool-reviewers-choice/"><u>[New] 2024 Approved Direct Download Destiny #10 Online Tool Reviewers' Choice</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-list-of-recent-unfollowers-in-instagram-for-2024/"><u>[New] List of Recent Unfollowers in Instagram for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-the-essential-guide-fast-tracking-subtitle-creation-for-your-fb-posts/"><u>[New] The Essential Guide Fast-Tracking Subtitle Creation for Your FB Posts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-brightening-up-your-youtube-pixels/"><u>[Updated] 2024 Approved Brightening Up Your YouTube Pixels</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726222108350-ttaflacmovavi/"><u>网上免费转换TTA到FLAC：使用Movavi音频转换工具</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/change-your-mkv-videos-to-mp4-for-free-with-movavis-online-conversion-tool/"><u>Change Your MKV Videos to MP4 for Free with Movavi's Online Conversion Tool</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversion-gratuita-de-archivos-flv-a-formato-wma-con-movavi-online-guia-paso-a-paso/"><u>Conversión Gratuita De Archivos FLV a Formato WMA Con Movavi Online - Guía Paso a Paso</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convert-videos-without-hassle-moveavis-free-mpeg-wmv-and-avi-online-conversion-services/"><u>Convert Videos Without Hassle - Moveavi's Free MPEG, WMV and AVI Online Conversion Services</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decouvrez-le-secret-des-stories-instagram-le-manifeste-2024-du-triomphe-video-sociaux/"><u>Découvrez Le Secret Des Stories Instagram - Le Manifeste 2024 Du Triomphe Vidéo Sociaux</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/descubra-como-convertir-su-contenido-mxf-a-diferentes-tipos-de-archivo-sin-costes-usando-webs-de-conversion-gratis/"><u>Descubra Como Convertir Su Contenido MXF a Diferentes Tipos De Archivo Sin Costes Usando Webs De Conversión Gratis</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Realme C67 4G? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/scaling-up-on-igtv-through-powerful-hash-tagging/"><u>Scaling Up on IGTV Through Powerful Hash Tagging</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/soothing-soundscapes-recommended-voice-experts/"><u>Soothing Soundscapes Recommended Voice Experts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-15-reproductores-de-audio-mas-eficaces-para-apple-movavi/"><u>Top 15 Reproductores De Audio Más Eficaces Para Apple - Movavi</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-instagram-as-an-influencer-5-must-know-techniques-and-case-studies/"><u>[New] Mastering Instagram As An Influencer 5 Must-Know Techniques and Case Studies</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ideal-vr-solutions-for-drone-flying-for-2024/"><u>[Updated] Ideal VR Solutions for Drone Flying for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-ultimate-how-to-for-ifunnys-meme-app/"><u>[Updated] The Ultimate How-To for iFunny's Meme App</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-tecno-pop-7-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Pop 7 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/effortless-ways-to-enhance-your-hard-drives-speed-on-windows-1011/"><u>Effortless Ways to Enhance Your Hard Drive's Speed on Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-dealing-with-corrupted-image-display-in-windows-1110-environments/"><u>Expert Tips for Dealing with Corrupted Image Display in Windows 11/10 Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/failed-installation-of-windows-11-1607-fixes-and-solutions/"><u>Failed Installation of Windows 11 1607: Fixes and Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fatal-circuitry-issue-system-halt/"><u>Fatal Circuitry Issue: System Halt</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-invalid-value-for-registry-error-when-opening-photos-on-windows-11/"><u>Fix: Invalid Value for Registry Error When Opening Photos on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-11-how-to-stop-your-pc-from-freezing-during-start-up/"><u>Fixing Windows 11: How to Stop Your PC From Freezing During Start-Up</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/go-global-how-chatgpt-everywhere-brings-ai-assistance-to-your-fingertips-no-matter-where-you-are/"><u>Go Global: How ChatGPT Everywhere Brings AI Assistance to Your Fingertips, No Matter Where You Are</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-addressing-persistent-pauses-at-0-during-windows-updates/"><u>Mastering the Fix: Addressing Persistent Pauses at 0% During Windows Updates</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-motorola-moto-g24-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Motorola Moto G24 Phone? Unlock It Now</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/staying-ahead-of-the-heat-game-thermaltakes-luxurious-yet-expensive-massive-tm-laptop-cooling-pad-an-in-depth-review/"><u>Staying Ahead of the Heat Game - Thermaltake's Luxurious Yet Expensive Massive TM Laptop Cooling Pad: An In-Depth Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-must-have-note-taking-tools-for-your-ipad-and-ipad-pro/"><u>Top 7 Must-Have Note-Taking Tools for Your iPad & iPad Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-non-functional-huion-stylus-top-5-quick-solutions/"><u>Troubleshoot Your Non-Functional Huion Stylus: Top 5 Quick Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functioning-usb-peripherals-on-windows-7-machines/"><u>Troubleshooting Non-Functioning USB Peripherals on Windows 7 Machines</u></a></li>
 </ul></div>
 

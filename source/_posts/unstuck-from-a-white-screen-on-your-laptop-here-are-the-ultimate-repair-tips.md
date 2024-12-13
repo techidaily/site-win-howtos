@@ -1,7 +1,7 @@
 ---
 title: Unstuck From a White Screen on Your Laptop? Here Are the Ultimate Repair Tips
-date: 2024-12-02T16:22:49.721Z
-updated: 2024-12-07T19:33:03.962Z
+date: 2024-12-11T18:24:02.444Z
+updated: 2024-12-13T18:55:14.508Z
 tags:
   - win11
   - win10
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Make sure **Power** is on.  
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Go back on the window of step 2). Click **Select which icons appear on the taskbar**.  
@@ -56,17 +56,13 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6-4.png)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Make sure**Power**icon is enabled.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-1.jpg)
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
@@ -79,6 +75,10 @@ Follow these:
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
@@ -89,14 +89,14 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/8.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/9.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
 
@@ -125,19 +125,22 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-how-to-improve-gopro-battery-life-for-2024/"><u>[New] How to Improve GoPro Battery Life for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-telegram-for-newcomers-how-to-make-your-advertising-stand-out-for-2024/"><u>[New] Telegram for Newcomers How to Make Your Advertising Stand Out for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726030013254-table/"><u>/Table</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029866480-youtube/"><u>上達すべき YouTube ビデオ素材化のベスト３方法</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726030273612-4k/"><u>最新技術で4K動画からクリアな静止画への変換方法</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029704987-android/"><u>Android向けビデオフォーマットの再生とスマートフォンへの変換技術</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029709538-flac/"><u>FLACファイルをうまく再生する方法と、問題が起きた時のサポート手順</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-s23plus-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy S23+ Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-nubia-z50s-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Nubia Z50S Pro Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-music-enhanced-imagery-web-edition/"><u>In 2024, Music-Enhanced Imagery Web Edition</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-open-source-gaming-soundtracks-library/"><u>In 2024, Open Source Gaming Soundtracks Library</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/secure-your-place-in-the-metaverse-essential-devices-list/"><u>Secure Your Place in the Metaverse Essential Devices List</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-the-game-changer-samsung-ue590-4k-monitor/"><u>Unveiling the Game Changer - Samsung UE590 4K Monitor</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029812328-premiere-pro/"><u>プロフェッショナルな動画昇格：Premiere Proによる品質向上と出力方法</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-prime-fb-downloader-pack-for-ff-browsing-enthusiasts/"><u>[New] 2024 Approved Prime FB Downloader Pack for FF Browsing Enthusiasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-quick-fixes-to-ensure-your-tiktok-accounts-corrected-age/"><u>[New] Quick Fixes to Ensure Your TikTok Account's Corrected Age</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-expert-methods-for-shushing-complaints-in-gmeet-sessions/"><u>[Updated] Expert Methods for Shushing Complaints in GMeet Sessions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-unlocking-youtube-secrets-sharing-videos-in-google-wallet-for-2024/"><u>[Updated] Unlocking YouTube Secrets Sharing Videos in Google Wallet for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-prime-picks-the-best-in-bike-gaming/"><u>2024 Approved Prime Picks The Best in Bike Gaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/activation-interrupted/"><u>Activation Interrupted</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203183938-deciphering-and-resolving-error-0x80070091-for-successful-system-restores-in-windows-11-expert-tips/"><u>Deciphering and Resolving Error 0X80070091 for Successful System Restores in Windows 11 - Expert Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-service-registration-is-missing-or-corrupt-error-on-windows-11/"><u>Fix Service Registration Is Missing or Corrupt Error on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-address-and-resolve-a-non-responsive-laptop-touchpad-quickly/"><u>How to Address and Resolve a Non-Responsive Laptop Touchpad Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-get-the-most-value-from-windows-11-product-codes/"><u>How to Get the Most Value From Windows 11 Product Codes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723201626581-mastering-file-explorer-on-windows-11-simplified-troubleshooting-and-tips/"><u>Mastering File Explorer on Windows 11: Simplified Troubleshooting & Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-windows-10-class-registration-errors-expert-tips-and-solutions/"><u>Overcome Windows 10 Class Registration Errors - Expert Tips & Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/remedies-for-a-broken-key-a-comprehensive-fix-guide/"><u>Remedies for a Broken '@' Key: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-road-less-filmed-journeying-into-the-heart-of-travel-vlogging-for-2024/"><u>The Road Less Filmed Journeying Into the Heart of Travel Vlogging for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-correcting-livekernelevent-code-144-issues/"><u>Troubleshooting and Correcting LiveKernelEvent Code 144 Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/webex-2024-mp4/"><u>WebEx 2024 動画変換：録画から MP4へのステップバイステップガイド</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Oppo A78 5G? | Dr.fone</u></a></li>
 </ul></div>
 

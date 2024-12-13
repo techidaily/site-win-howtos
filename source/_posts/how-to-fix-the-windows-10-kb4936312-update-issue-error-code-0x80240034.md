@@ -1,7 +1,7 @@
 ---
 title: "How to Fix the Windows 10 KB4936312 Update Issue (Error Code: 0X80240034)"
-date: 2024-12-04T21:56:17.297Z
-updated: 2024-12-07T21:00:22.281Z
+date: 2024-12-08T16:11:07.633Z
+updated: 2024-12-13T16:52:44.582Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 4. [**Modify Registry Editor**](#Method5)
 5. **[Bonus Tip](#b1)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Why does the error 0x80070002 occur?
 
  This error code may vary from different Windows versions. In Windows XP, you will see the error code **0x80070002** . While in Windows 10/8/7, you will see the error code **80070002** .
@@ -47,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
  This problem happens when some files in the Windows Update are missing or corrupted, even though the update is downloaded and extracted successfully, or the driver faulty issue. So you can work it through by these methods until it solves your problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 1: Check the Date and Time settings**
 
@@ -62,20 +62,20 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a01819233c7d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Change date and time** to make sure that the date and time is correct on your Windows, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181cc9eb3f.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Change time zone** to make sure that the time zone is correct, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181f1e2bac.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click the**Internet Time** tab at the top, then click**Change Settings** .
@@ -95,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
  1) Type**cmd** in the search box, and right click**Command Prompt**  to click**Run as administrator** , then click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018c0f66b68.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Respectively type**time** ,**date** , and **w32tm/resync**  in the window, and press**Enter** after each command. If the time and date are incorrect after running, you can type the correct time and date in the window and press**Enter** .
 
@@ -129,7 +133,7 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-10_11-51-40-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 2: Delete the Software Distribution Folder
@@ -158,13 +162,13 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Windows-update-Start-1200x690.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your Windows and try Windows Update again to see if it solves the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 3: Try Windows Update Troubleshooter**
 
@@ -181,12 +185,16 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0175eea504b.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Then it will run and try to fix the problem. After completing, restart your computer and try Windows Update again to see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 4: Modify Registry Editor**
 
@@ -206,10 +214,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7817546e624.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Right-click the newly created**NewValue#1** and select**Modify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a78180511caf.png)
@@ -219,16 +223,12 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a781900ea1c1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7) Restart your computer and try again to see if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Bonus Tip: Update device drivers**
 
@@ -277,22 +277,22 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-discover-the-most-popular-4k-youtube-mp3-conversion-apps/"><u>[Updated] 2024 Approved Discover the Most Popular 4K YouTube MP3 Conversion Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-optimizing-visuals-aspect-ratio-alteration/"><u>[Updated] Optimizing Visuals Aspect Ratio Alteration</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-dos-and-donts-of-youtube-promo-video-making/"><u>[Updated] The Do's and Don’ts of YouTube Promo Video Making</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comparacion-clave-cual-es-la-diferencia-entre-video-en-resolucion-1080p-y-4k/"><u>Comparación Clave: ¿Cuál Es La Diferencia Entre Video en Resolución 1080P Y 4K?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversion-gratuita-de-archivos-mov-a-formato-3gp-en-linea-con-movavi/"><u>Conversión Gratuita De Archivos MOV a Formato 3GP en Línea Con Movavi</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevate-your-shots-the-ultimate-hdr-cameras-list/"><u>Elevate Your Shots The Ultimate HDR Cameras List</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-nubia-z50-ultra-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Nubia Z50 Ultra to Another | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavis-trouble-free-solution-convert-your-mkv-files-without-cost/"><u>Movavi's Trouble-Free Solution: Convert Your MKV Files Without Cost</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavi-mpe/"><u>Movavi의 자연스러운 MPE 변환 기술: 무료 인터넷 상호 작용 개선 - 이미지 제어</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-kostenloosere-aac-en-mpeg-converteer-tool-movavi/"><u>Online Kostenloosere AAC-en-MPEG Converteer Tool - Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/saving-smart-with-inexpensive-gaming-tech-boards/"><u>Saving Smart with Inexpensive Gaming Tech Boards</u></a></li>
-<li><a href="https://network-issues.techidaily.com/system-recovery-correcting-graphics-driver-errors/"><u>System Recovery: Correcting Graphics Driver Errors</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ey-to-youtube-stardom-reaching-submillion-status/"><u>The Key to YouTube Stardom Reaching Submillion Status</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transforma-archivos-aiff-en-versiones-de-alta-calidad-flac-sin-costo-con-la-herramienta-online-de-conversion-gratuita/"><u>Transforma Archivos AIFF en Versiones De Alta Calidad FLAC Sin Costo Con La Herramienta Online De Conversión Gratuita</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-discover-the-best-public-domain-video-libraries-online-for-2024/"><u>Updated Discover the Best Public Domain Video Libraries Online for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tod/"><u>오피스에서 무세공 TOD 변환 - 모바이브</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726222451129-movavigifpng/"><u>オンデマンド無料変更: MovaviのGIFとPNG間換えサービス</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-inside-look-whatsapps-vocal-messaging-network/"><u>[New] Inside Look WhatsApp's Vocal Messaging Network</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-exploring-ffmpegs-prowess-in-the-preservation-of-original-soundscape/"><u>[Updated] 2024 Approved Exploring FFmpeg’s Prowess in the Preservation of Original Soundscape</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-insta-growth-the-10-most-important-hashtags-now/"><u>[Updated] Insta Growth The 10 Most Important Hashtags Now</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-successfully-fixing-steam-installation-or-update-malfunctions/"><u>Guide to Successfully Fixing Steam Installation or Update Malfunctions</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-error-8007000e-in-windows-updates-step-by-step-guide/"><u>How To Resolve Error 8007000E in Windows Updates – Step-By-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-the-right-click-button-functionality-in-windows-11-systems/"><u>How to Restore the Right Click Button Functionality in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-the-working-state-of-speakers-and-sound-devices-in-windows-11/"><u>How to Restore the Working State of Speakers and Sound Devices in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-touchscreen-functionality-when-its-not-responding/"><u>How to Restore Touchscreen Functionality When It's Not Responding</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/impressive-endurance-and-stunning-visuals-a-comprehensive-review-of-one-of-the-most-durable-laptops-with-an-amazing-screen/"><u>Impressive Endurance & Stunning Visuals: A Comprehensive Review of One of the Most Durable Laptops with an Amazing Screen</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-top-tiktok-watermark-removal-tools-to-boost-your-videos/"><u>New 2024 Approved Top TikTok Watermark Removal Tools to Boost Your Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixes-when-your-computer-wont-boot-up-properly/"><u>Resolved: Fixes When Your Computer Won't Boot Up Properly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-touchpad-a-device-mastering-quest/"><u>Revive Your Touchpad: A Device Mastering Quest</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safeguarding-professional-confidentiality-tips-for-securely-utilizing-chatgpt-in-the-office/"><u>Safeguarding Professional Confidentiality: Tips for Securely Utilizing ChatGPT in the Office</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simplify-your-workflow-with-these-essential-windows-10-file-explorer-hacks/"><u>Simplify Your Workflow with These Essential Windows 10 File Explorer Hacks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-effective-methods-for-restricting-website-access-on-your-android-device/"><u>Step-by-Step Guide: Effective Methods for Restricting Website Access on Your Android Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unstick a Frozen DNS Server - A User's Guide to 5 Swift Resolutions
-date: 2024-11-30T17:19:46.254Z
-updated: 2024-12-07T16:43:42.485Z
+date: 2024-12-11T18:04:32.664Z
+updated: 2024-12-13T21:06:32.284Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix Shift key not working?
@@ -61,20 +61,20 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
@@ -91,14 +91,10 @@ Follow these:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
@@ -123,6 +119,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer and try to press the Shift key to see if it works.
 
 * [keyboard](https://bellelily.pxf.io/m5azgm)
@@ -142,22 +142,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-the-role-of-creative-commons-in-youtube-content-sharing/"><u>[New] In 2024, The Role of Creative Commons in YouTube Content Sharing</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-guide-to-editing-and-optimizing-instagram-footage-for-2024/"><u>[New] Step-by-Step Guide to Editing and Optimizing Instagram Footage for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-storytelling-in-cinema-from-idea-to-actuality/"><u>[Updated] 2024 Approved Storytelling in Cinema From Idea to Actuality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1-best-free-platforms-discover-the-top-12-sites-streaming-korean-dramas-without-cost/"><u>1. Best Free Platforms: Discover the Top 12 Sites Streaming Korean Dramas Without Cost</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/aomei-data-recovery-guide-comprehensive-faq-answers/"><u>AOMEI Data Recovery Guide: Comprehensive FAQ Answers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/caf-wav-movavi/"><u>CAF WAV 무료 스트리밍: 이웃에서 원특유 방법은 Movavi!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decouvrez-les-plus-performants-outils-dedition-imagee-musicaux-en-2024-choix-expert/"><u>Découvrez Les Plus Performants Outils D'Edition Imagée Musicaux en 2024 - Choix Expert!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/divisez-vos-fichiers-videovisuels-facilement-les-6-solutions-logiciels-de-bureau-vs-en-ligne/"><u>Divisez Vos Fichiers Videovisuels Facilement: Les 6 Solutions Logiciels De Bureau vs en Ligne</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-for-starting-warframe-without-any-glitches/"><u>Effective Solutions for Starting Warframe Without Any Glitches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortlessly-change-your-mov-videos-to-avi-no-cost-no-hassle-with-online-tools/"><u>Effortlessly Change Your MOV Videos to AVI - No Cost, No Hassle with Online Tools!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-and-speedy-convert-avis-to-gifs-quickly-with-our-online-tool/"><u>Free and Speedy: Convert AVIs to Gifs Quickly with Our Online Tool</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-detaille-comment-utiliser-le-convertisseur-audio-wav-de-movavi-pour-la-conversion-des-fichiers/"><u>Guide Détaillé : Comment Utiliser Le Convertisseur Audio WAV De Movavi Pour La Conversion Des Fichiers</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-resolving-win-11-bluetooth-pairing-failures/"><u>Mastering the Art of Resolving Win 11 Bluetooth Pairing Failures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavis-learning-tools-and-tips-a-valuable-guide-for-effective-study-strategies/"><u>Movavi's Learning Tools & Tips: A Valuable Guide for Effective Study Strategies</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/professional-guide-12-essential-techniques-for-high-quality-self-filming-with-movavi/"><u>Professional Guide: 12 Essential Techniques for High-Quality Self-Filming with Movavi</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/successful-cloning-of-uefigpt-hard-drive-onto-an-ssd-with-secure-boot-activation/"><u>Successful Cloning of UEFI/GPT Hard Drive Onto an SSD with Secure Boot Activation</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-d3d11-gpu-error-on-windows-11-and-10/"><u>Troubleshooting D3D11 GPU Error on Windows 11 & 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pioneering-business-through-virtual-realitiescape/"><u>[New] Pioneering Business Through Virtual Realitiescape</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-is-it-possible-to-quick-review-on-windows-heres-how-for-2024/"><u>[Updated] Is It Possible to Quick Review on Windows? Here’s How for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unlocking-potential-in-audio-design-with-magix-fusion-x/"><u>[Updated] Unlocking Potential in Audio Design with Magix Fusion X</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-potential-glitches-a-guide-to-when-netflix-is-down-or-malfunctioning/"><u>Addressing Potential Glitches: A Guide to When Netflix Is Down or Malfunctioning</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-system-gap-msvcr71-acquired/"><u>Addressing System Gap: MSVCR71 Acquired</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-ideal-laptop-for-your-creative-workflow-professional-ratings-and-in-depth-analysis-exclusive/"><u>Discover the Ideal Laptop for Your Creative Workflow: Professional Ratings & In-Depth Analysis Exclusive</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-remedies-for-when-your-windows-update-gets-stuck-at-zero/"><u>Effective Remedies for When Your Windows Update Gets Stuck at Zero</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/elevate-your-posts-with-4-effective-video-loop-techniques/"><u>Elevate Your Posts with 4 Effective Video Loop Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-epson-scan-cannot-communicate-with-the-scanner-easily/"><u>How To Fix EPSON Scan Cannot Communicate with the Scanner Easily</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-quick-snapshots-on-xbox-one-a-users-manual/"><u>In 2024, Quick Snapshots on Xbox One A User's Manual</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-streamline-your-workflow-with-the-top-5-pc-screen-grabbers/"><u>In 2024, Streamline Your Workflow with the Top 5 Pc Screen Grabbers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mic-functioning-issue-resolved/"><u>Mic Functioning: Issue Resolved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-effective-measures-for-unsuccessful-torrent-downloads/"><u>Solving the Problem: Effective Measures for Unsuccessful Torrent Downloads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fixes-for-windows-11s-bluetooth-pairing-dilemma-pro-tips-and-tricks/"><u>The Ultimate Fixes for Windows 11'S Bluetooth Pairing Dilemma - Pro Tips and Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-guide-resolving-the-dell-laptops-black-screen-issue/"><u>Ultimate Troubleshooting Guide: Resolving the Dell Laptop's Black Screen Issue</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-get-creative-with-slow-motion-tips-and-tricks-for-windows-live-movie-maker-users-for-2024/"><u>Updated Get Creative with Slow Motion Tips and Tricks for Windows Live Movie Maker Users for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/windows-video-conferencing-excellence-8-1-for-2024/"><u>Windows Video Conferencing Excellence #8-1 for 2024</u></a></li>
 </ul></div>
 

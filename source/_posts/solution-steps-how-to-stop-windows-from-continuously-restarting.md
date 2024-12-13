@@ -1,7 +1,7 @@
 ---
 title: "Solution Steps: How to Stop Windows From Continuously Restarting"
-date: 2024-12-02T20:49:14.000Z
-updated: 2024-12-07T19:56:22.613Z
+date: 2024-12-08T16:36:50.612Z
+updated: 2024-12-13T17:50:21.279Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 fixes for C**omputer Won’t Shut Down**
 
@@ -59,10 +55,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Disable fast startup
 
 **Fast startup**  is a new feature in Windows 10 that helps our computer restart faster . But sometimes it can interfere with the shutdown process, hence the**computer-not-shutting-down** problem. Here’s how to disable**fast startup** :
@@ -78,17 +70,21 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -101,11 +97,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Restart** .
@@ -124,12 +124,12 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
@@ -154,14 +154,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-2023s-must-watch-alternatives-to-top-films/"><u>[New] In 2024, 2023'S Must-Watch Alternatives to Top Films</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-perfectly-prepared-videos-a-guide-to-instagram-fitness-for-2024/"><u>[New] Perfectly Prepared Videos A Guide to Instagram Fitness for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-steady-visual-storytelling-techniques-for-2024/"><u>[New] Steady Visual Storytelling Techniques for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/apple-iphone-12-pro-max-review/"><u>Apple iPhone 12 Pro Max Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-infamous-unrecoverable-error-in-directx-solutions-explained/"><u>How To Fix The Infamous Unrecoverable Error In DirectX - Solutions Explained</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-thors-bold-path-asgard-reborn/"><u>In 2024, Thor’s Bold Path Asgard Reborn</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-unwanted-screen-wobble-issues-on-windows-10-machines/"><u>Resolving Unwanted Screen Wobble Issues on Windows 10 Machines</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-issue-repairing-a-non-functional-webcam-on-an-hp-laptop-running-windows-11/"><u>Solving the Issue: Repairing a Non-Functional Webcam on an HP Laptop Running Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-troubleshooting-and-solving-black-ops-4-critical-glitches/"><u>Ultimate Guide: Troubleshooting and Solving Black Ops 4 Critical Glitches</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-exclusive-insight-into-mematics-app-features/"><u>[New] Exclusive Insight Into Mematic's App Features</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-simplified-guide-to-iphone-screen-adjustment/"><u>[New] Simplified Guide to iPhone Screen Adjustment</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-importance-of-accurate-slug-line-writing-in-screenplays-for-2024/"><u>[Updated] The Importance of Accurate Slug Line Writing in Screenplays for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-elite-arena-showdown-best-of-the-royales/"><u>2024 Approved Elite Arena Showdown Best of the Royales</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/assessing-chatgpts-safety-measures-and-risks/"><u>Assessing ChatGPT’s Safety Measures and Risks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-to-stop-frequent-usb-dropout-problems/"><u>Easy Fixes to Stop Frequent USB Dropout Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-when-your-windows-update-gets-jammed-at-zero-percentage/"><u>Effective Fixes for When Your Windows Update Gets Jammed at Zero Percentage</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exciting-internet-adventures-best-free-games-for-youngsters/"><u>Exciting Internet Adventures: Best Free Games for Youngsters</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-get-your-frozen-trackpad-or-external-mouse-working-again-on-your-laptop/"><u>Expert Tips to Get Your Frozen Trackpad or External Mouse Working Again on Your Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-troubleshooting-the-silent-streets-forza-horizon-4-audio-fixes/"><u>Fixed: Troubleshooting the Silent Streets - Forza Horizon 4 Audio Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-responsive-keyboard-on-your-dell-laptop/"><u>How to Fix a Non-Responsive Keyboard on Your Dell Laptop</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-15-plus-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 15 Plus GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-error-program-was-not-loaded-into-memory-properly-error-code-0xc000007b/"><u>How to Fix the Error: Program Was Not Loaded Into Memory Properly ([Error Code 0xC000007B])</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-error-0x8024401c-expert-fixes-for-windows-1011-updates-gone-wrong/"><u>Overcoming Error 0X8024401C: Expert Fixes for Windows 10/11 Updates Gone Wrong</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quick-and-simple-ppm-to-tiff-file-transformation-for-free-using-movavis-online-tool/"><u>Quick & Simple PPM to TIFF File Transformation for Free Using Movavi's Online Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-excessive-disk-space-consumption-by-microsoft-compatibility-telemetry-in-windows-10/"><u>Resolving Excessive Disk Space Consumption by Microsoft Compatibility Telemetry in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-hdcp-ready-monitor-connection-errors/"><u>Troubleshooting Non-HDCP Ready Monitor Connection Errors</u></a></li>
 </ul></div>
 

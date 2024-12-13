@@ -1,7 +1,7 @@
 ---
 title: Cannot Apply Feature Updates for Windows 10 Build 1607? Let Us Help You Resolve That!
-date: 2024-12-03T18:22:55.861Z
-updated: 2024-12-07T18:27:59.484Z
+date: 2024-12-09T20:24:26.525Z
+updated: 2024-12-13T19:48:50.486Z
 tags:
   - win11
   - win10
@@ -26,35 +26,31 @@ You will be very annoyed when you get this update error. Your Windows Update kee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Install the update with Windows 10 Update Assistant
 
 Microsoft has released an update installation tool named**Windows 10 Update Assistant**for Windows 10 users. It can help you update your Windows 10 to the latest version. If you get stuck in installing the 1607 update, you can try updating your system with this tool instead of Windows Update. To download and run Windows 10 Update Assistant:**1)**Go to the[**Microsoft software download website**](https://www.microsoft.com/en-us/software-download/windows10).**2)** Click the**Update Now**button. This will download Windows 10 Update Assistant.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a002c98764a3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Open the program you’ve just downloaded. Then click**Update Now**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a002e5ecc61b.jpg)
 
-**4)** Follow the instructions to download and install the latest update.**5)** When the process finishes, your operating system will be updated to the latest version, and the update failed issue will be fixed.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**4)** Follow the instructions to download and install the latest update.**5)** When the process finishes, your operating system will be updated to the latest version, and the update failed issue will be fixed.
 
 ## Method 2: Reset the Windows Update components
 
 You may fail to install the 1607 update because the**Windows Update components**on your computer are corrupted. These components include the services and temporary files required by or related to Windows Update. You can try resetting these components and see if this can fix your problem. To reset the Windows Update components:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right click**Command Prompt**and select**Run as administrator**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** In Command Prompt, type the following lines of command and press**Enter**on your keyboard after typing each:
 
@@ -72,21 +68,25 @@ You may fail to install the 1607 update because the**Windows Update components**
 * _**net start cryptsvc**_
 **5)**Run Windows Update and check to see if your computer can install the 1607 update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3: Run the DISM utility
 
 Your system may fail to install the 1607 update because something corrupts your Windows image, which is necessary for the important system features like Windows Update. You can try running the**DISM**(Deployment Image Servicing and Management) utility to repair your Windows image. To run DISM:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right click**Command Prompt**and select**Run as administrator**.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png) **2)** In Command Prompt, type “_**DISM.exe /Online /Cleanup-image /Restorehealth**_” and press**Enter**on your keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0150723fc23.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Wait for the utility to complete repairing your Windows image. Then restart your computer and check to see if this fixes your update problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Temporarily disable your antivirus software
 
@@ -110,16 +110,18 @@ Sometimes your system can’t install new updates due to the interference from y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-charting-course-essential-steps-from-concept-to-content-creation-in-review-channels/"><u>[New] Charting Course Essential Steps From Concept to Content Creation in Review Channels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-imageintensifymax7-boosting-pixels-magnificently/"><u>[New] ImageIntensifyMax7 Boosting Pixels Magnificently</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-what-does-it-cost-to-boost-a-video/"><u>[Updated] 2024 Approved What Does It Cost to Boost a Video?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/audio-layers-for-professional-videography-premiere-pro-edition-for-2024/"><u>Audio Layers for Professional Videography Premiere Pro Edition for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-the-windows-shell-dll-crash-your-ultimate-troubleshooting-manual/"><u>Beat the 'Windows Shell DLL Crash': Your Ultimate Troubleshooting Manual</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/choreographing-a-stellar-tiktok-wrap-up/"><u>Choreographing a Stellar TikTok Wrap-Up</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-windows-10-dvdcd-rom-error-windows-cannot-start-this-hardware-device-because-its-configuration-information-in-the-registry-is-incomplete-or-damaged-code129/"><u>Fix Windows 10 DVD/CD-ROM Error: Windows Cannot Start This Hardware Device because Its Configuration Information (in the Registry) Is Incomplete or Damaged. (Code 19)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-microsoft-surface-pro-4-troubleshooting-a-non-responsive-touchscreen/"><u>Fixing Microsoft Surface Pro 4: Troubleshooting a Non-Responsive Touchscreen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-repairing-the-failure-of-right-click-on-a-mouse-within-windows-10-system/"><u>Guide To Repairing the Failure of Right-Click on a Mouse Within Windows 10 System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/maximizing-gaming-power-a-guide-to-faster-windows-11-performance/"><u>Maximizing Gaming Power: A Guide to Faster Windows 11 Performance</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unleashing-ultra-fast-wifi-with-netgear-nighthawk-x10-ad7200-a-comprehensive-review/"><u>Unleashing Ultra-Fast WiFi with Netgear Nighthawk X10 AD7200: A Comprehensive Review</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ecoding-the-science-of-hash-optimization-for-game-streaming/"><u>[New] Decoding the Science of Hash Optimization for Game Streaming</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-revamping-imagery-leading-insta-edits-explored/"><u>[Updated] Revamping Imagery Leading Insta Edits Explored</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-reimagining-ppts-with-todays-webcam-capabilities/"><u>2024 Approved Reimagining PPTs with Today's Webcam Capabilities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-tiktok-bgs-exploring-affordable-eye-catching-visuals/"><u>2024 Approved TikTok BGs Exploring Affordable, Eye-Catching Visuals</u></a></li>
+<li><a href="https://games-able.techidaily.com/bidding-adieu-to-ea-new-price-prohibitive-for-gaming/"><u>Bidding Adieu to EA: New Price Prohibitive for Gaming</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/comprehensive-guide-to-free-premium-video-callers/"><u>Comprehensive Guide to Free, Premium Video Callers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/deciphering-and-eliminating-livekernelevent-error-144-challenge/"><u>Deciphering & Eliminating 'LiveKernelEvent Error #144' Challenge</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-video-game-best-free-online-video-enhancement-software/"><u>Elevate Your Video Game Best Free Online Video Enhancement Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-missing-sound-in-anthem-for-windows-11-users-a-step-by-step-guide/"><u>Fix Missing Sound in Anthem for Windows 11 Users: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207641604-keyboard-dilemma-heres-how-to-get-your-backspace-working-again/"><u>Keyboard Dilemma? Here's How to Get Your Backspace Working Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-to-address-missing-binkw32dll-error-on-your-computer/"><u>Quick Fixes to Address Missing binkw32.dll Error on Your Computer</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-guide-for-hd-dvd-ripping-and-converting-to-wmv-using-windows-tools/"><u>Step-by-Step Guide for HD DVD Ripping and Converting to WMV Using Windows Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-a-non-functional-dell-laptop-keyboard/"><u>Troubleshooting Tips: Fixing a Non-Functional Dell Laptop Keyboard</u></a></li>
 </ul></div>
 

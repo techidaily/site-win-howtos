@@ -1,7 +1,7 @@
 ---
 title: Activation Interrupted
-date: 2024-12-06T16:40:57.634Z
-updated: 2024-12-07T16:10:26.478Z
+date: 2024-12-08T19:17:52.998Z
+updated: 2024-12-13T20:25:17.295Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Install the latest drivers
 
  When your computer crashes when you play games, one of the first things to do is to ensure that your drivers are all updated, especially the graphics card drivers.
@@ -63,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Disable background programs
 
  Games are usually CPU- and RAM-intensive, i.e., they occupy a large chunk of your computer processor and memory resources. When too many unnecessary applications run in the background when a game is on, your computer resources are strained and could crash if it reaches an extreme point. In this case, it’s suggested that you disable unnecessary background programs when playing games. To do so:
@@ -80,14 +88,10 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-48.png)
 2. Select each resource-hogging application and click**End Task** to close them one by one.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then run your game again and see if your computer crashes still. If the problem remains, please move on to the next fix below.
@@ -123,7 +127,7 @@ To verify the game’s files on Ubisoft Connect:
 3. If prompted, select**Repair** . Ubisoft Connect will then download and restore any missing or corrupted files.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-32.png)
@@ -137,11 +141,15 @@ To verify the game’s files on Ubisoft Connect:
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Then see if this game still crashes your computer. If so, please move on.
@@ -149,10 +157,6 @@ To verify the game’s files on Ubisoft Connect:
  If you’re using other game launcher, and you’re not sure how to verify the game files, please check the game launcher’s support manual or forum.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Check for software conflict
 
@@ -176,7 +180,7 @@ To verify the game’s files on Ubisoft Connect:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: On the hardware front
@@ -197,10 +201,6 @@ To verify the game’s files on Ubisoft Connect:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-53-57.jpg)
 4. Windows will run diagnosis automatically, which can take a few minutes. When it’s finished, your PC will reboot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. The results will be shown on your desktop. If you don’t see any notification, right-click the **Start** menu then click **Event Viewer** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-54-28.jpg)
@@ -209,11 +209,20 @@ To verify the game’s files on Ubisoft Connect:
 7. Type **memory diagnostic** , then click **Find Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-29-00.jpg)
 8. If you see “no errors”, your RAM is functioning well and is not the culprit to the crashing problem on your computer. Then please **[move on to the next method](#sfc)** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-00-48.jpg)
 
  If you do see an error, you may consider replacing your RAM sticks. You will need to check if your device is still under warranty or consult your machine’s manufacturer for assistance if you’re not tech-savvy enough to do this on your own.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5.2 – Run System File Checker
 
@@ -229,10 +238,6 @@ To verify the game’s files on Ubisoft Connect:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -247,14 +252,14 @@ To verify the game’s files on Ubisoft Connect:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt.jpg)
 3. Type **sfc /scannow** and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/sfc.jpg)
 4. It should begin running a system scan, and will take some time. When it finishes, restart your computer and check if it has fixed your problem. If not, try the next method.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5.3 – Prevent your computer from overheating
 
@@ -269,10 +274,6 @@ To verify the game’s files on Ubisoft Connect:
  When you’ve ensured that your computer is not running too hot when a game is running but it still crashes, please move on to the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5.4 – Check your power supply
 
@@ -309,20 +310,24 @@ To verify the game’s files on Ubisoft Connect:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-best-ios-video-editing-cameo-vs-filmorago/"><u>[New] Best iOS Video Editing Cameo Vs. FilmoraGo</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-gentle-grooves-a-selection-of-chill-country-songs-for-relaxing-dancing-tiktok/"><u>[New] In 2024, Gentle Grooves A Selection of Chill Country Songs for Relaxing Dancing (TikTok)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-astute-beginners-treatise-on-vector-types-and-software-selection-for-2024/"><u>[Updated] Astute Beginners' Treatise on Vector Types & Software Selection for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-simplifying-tasks-with-ez-grabber-techniques-for-2024/"><u>[Updated] Simplifying Tasks with EZ Grabber Techniques for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/2024mp3-mkv/"><u>2024年に最適な無料MP3変換アプリ: MKVファイル用のベストセレクション</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/adobe-premiere-promovmp4/"><u>Adobe Premiere Proを使用したMOVファイルからMP4への変換ガイド</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/associated-hyperlinks-uncover-related-content-connections/"><u>Associated Hyperlinks: Uncover Related Content Connections</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/avchd-mp4windows-1011/"><u>AVCHDへの変換: MP4ファイルをWindows 10/11環境下でオンラインツールと無料ソフトウェアを使用してどうやったらいいか</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/buy-the-ultimate-document-management-system-wonderfox/"><u>Buy the Ultimate Document Management System: WonderFox</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-champion-phonographs-for-seminar-sessions/"><u>In 2024, Champion Phonographs for Seminar Sessions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-asus-rog-phone-7-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Asus ROG Phone 7 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-shift-from-rgb-to-srgb-in-digital-imaging/"><u>In 2024, The Shift From Rgb to Srgb in Digital Imaging</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-discounted-items-on-amazon-september-2024-special-offers-zdnet/"><u>Top Discounted Items on Amazon - September 2024 Special Offers | ZDNet</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/top-tips-for-meme-magic-with-kinemaster-for-2024/"><u>Top Tips for Meme Magic with KineMaster for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/44oe44or44ob44oh44oh44kj44ki44ov44kh44kk44or44gl44kj44gu44k144ow44k44kk44oi44or5oqc44gn5yplusw44kk5pa55rov/"><u>マルチメディアファイルからのサブタイトル抜き取り方法</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-perfecting-youtube-videos-with-angle-rotation-mastery/"><u>[New] 2024 Approved Perfecting YouTube Videos with Angle Rotation Mastery</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-steps-for-perfect-audio-transition-in-adobe-audition/"><u>[New] 2024 Approved Steps for Perfect Audio Transition in Adobe Audition</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/36846702-new-closing-your-vlog-right-top-6-free-youtube-outro-tools/"><u>[New] Closing Your Vlog Right Top 6 Free YouTube Outro Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-oceans-bounty-best-cameras-for-anglers/"><u>[New] Ocean's Bounty - Best Cameras for Anglers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-best-budget-edits-8-no-charge-video-editing-software-for-2024/"><u>[Updated] Best Budget Edits 8 No-Charge Video Editing Software for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-extract-facebook-videos-for-mobile-and-desktop-easy-for-2024/"><u>[Updated] Extract Facebook Videos for Mobile & Desktop Easy for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-leading-5-goggles-for-optimal-drone-pilot-viewing-for-2024/"><u>[Updated] Leading 5 Goggles for Optimal Drone Pilot Viewing for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/comprehensively-guide-windows-10s-best-practices-for-mov-files-for-2024/"><u>Comprehensively Guide Windows 10'S Best Practices for Mov Files for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-ways-to-restore-proper-functionality-of-special-keys-on-a-dell-notebook/"><u>Easy Ways to Restore Proper Functionality of Special Keys on a Dell Notebook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-the-overwatch-error-recover-your-lost-rendering-device/"><u>Fix the 'Overwatch Error' - Recover Your Lost Rendering Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-critical-red-screen-dilemma-in-windows-11-systems/"><u>Fixing the Critical Red Screen Dilemma in Windows 11 Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-a25-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy A25 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-top-5-reaction-video-makers/"><u>New In 2024, Top 5 Reaction Video Makers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-for-continuous-csgo-gameplay-without-crashes/"><u>Quick Fix Guide for Continuous CSGO Gameplay Without Crashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rejuvenate-your-digital-experience-fixing-the-windows-10-touchscreen-using-these-5-expert-techniques/"><u>Rejuvenate Your Digital Experience: Fixing the Windows 10 Touchscreen Using These 5 Expert Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-solutions-for-windows-10-continuous-automatic-restart-issues/"><u>Simple Solutions for Windows 10 Continuous Automatic Restart Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-google-chrome-has-stopped-working-errors/"><u>Solutions for 'Google Chrome Has Stopped Working' Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-a-non-functional-mic-in-windows-10/"><u>Troubleshooting Guide: Fixing a Non-Functional Mic in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/upgrading-your-play-experience-optimizing-games-on-windows-11/"><u>Upgrading Your Play Experience: Optimizing Games on Windows 11</u></a></li>
 </ul></div>
 

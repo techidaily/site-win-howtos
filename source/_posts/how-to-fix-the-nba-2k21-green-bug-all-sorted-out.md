@@ -1,7 +1,7 @@
 ---
 title: How to Fix the NBA 2K21 Green Bug - All Sorted Out
-date: 2024-12-06T20:32:22.146Z
-updated: 2024-12-07T21:00:32.824Z
+date: 2024-12-10T17:19:02.446Z
+updated: 2024-12-13T20:22:20.446Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/ec661044f40b96dbce0a66b5f469594edc1639062
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/ec661044f40b96dbce0a66b5f469594edc1639062
    * [PlayStation](https://tools.techidaily.com/drivereasy/download/)  
    * [Steam](https://tools.techidaily.com/drivereasy/download/)  
    * [Xbox One](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Make sure your PC meets the specs
 
@@ -72,6 +68,10 @@ Recommended System Requirements
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Turn off Shot Feedback
 
  Many players have tested that turning off the**Shot Feedback** fixed the green glitch. So it’s worth a shot. To do so, you can:
@@ -79,10 +79,6 @@ Recommended System Requirements
  1) Click on the**Options/Quit** tab. Under the tab, click**SETTINGS** .
 
 ![turn off Shot Feedback NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-shot-feedback-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Scroll down and switch**Shot Feedback** to**Off** .
 
@@ -123,15 +119,15 @@ Here’s how to update drivers with Driver Easy:
 [Steam](https://tools.techidaily.com/drivereasy/download/)
 [Xbox One](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### PlayStation: download files from MyCAREER
 
  1) Go to **Settings > Application Saved Data Management > Saved Data in System Storage** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**Upload to Online Storage** and upload all your data for 2K21 to the cloud.
 
@@ -141,10 +137,14 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-3-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you’ve done all of these, you need to load back to your game. If it says**high school** when you load it, then you wouldn’t have the green glitch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steam
@@ -174,7 +174,7 @@ To do this, simply follow the instructions below:
 ![verify game files NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) When the window pops up, click**LOCAL FILES** \>**VERIFY INTEGRITY OF GAME FILES** . Till then, the verification process will be starting.
@@ -183,6 +183,10 @@ To do this, simply follow the instructions below:
 
  3) When the process is completed, restart Steam and launch your game again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Xbox One: make sure the language is set to English
 
  If you don’t set the language to English, then it’s one of the reasons you got the green glitch.
@@ -190,10 +194,6 @@ To do this, simply follow the instructions below:
  1) Go to**FEATURES** in 2K.
 
 ![set the language into English NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/set-the-language-into-English-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click**SETTINGS** and scroll down to**Menu Language** and make sure the language is set to**English** .
 
@@ -221,21 +221,20 @@ To do this, simply follow the instructions below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-boost-your-video-impact-expert-tips-on-using-wm-maker-for-2024/"><u>[New] Boost Your Video Impact Expert Tips on Using WM Maker for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-optimal-storage-solutions-the-leading-10-gopro-housings/"><u>[New] Optimal Storage Solutions - The Leading 10 GoPro Housings</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gaining-clarity-on-your-youtube-audiences-behavior-for-2024/"><u>[Updated] Gaining Clarity on Your YouTube Audience's Behavior for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-license-free-meditation-songs-your-ultimate-selection/"><u>[Updated] In 2024, License-Free Meditation Songs – Your Ultimate Selection</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-essential-guide-to-streaming-quality-via-obs-youtube-and-twitch-for-2024/"><u>[Updated] The Essential Guide to Streaming Quality via OBS, YouTube & Twitch for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-best-ios-slideshow-software-from-x-to-ios13/"><u>2024 Approved Best iOS Slideshow Software From X to IOS13</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/omamp3-movavi/"><u>網路自助將OMA文件降解為MP3 - 利用Movavi音樂格式轉換器</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/a-video-bevezetoje-3-dezalkoholizalo-modszerek/"><u>A Vídeó Bevezetője - 3 Dezalkoholizáló Módszerek</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cambiar-formato-de-imagen-gratuita-guia-paso-a-paso-para-convertir-dng-a-tiff-online-con-movavi/"><u>Cambiar Formato De Imagen Gratuita: Guía Paso a Paso Para Convertir DNG a TIFF Online Con Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/facile-conversion-dimage-en-croquis-transformez-vos-photographies-en-desseins-artistiques/"><u>Facile Conversion D'Image en Croquis: Transformez Vos Photographies En Desseins Artistiques</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-canon-mf8200c-driver-downloads-for-windows-users-windows-78110-supported/"><u>Latest Canon MF8200C Driver Downloads for Windows Users (Windows 7/8.1/10 Supported)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-tool-convert-vob-video-to-asf-filetype-at-no-cost-moviva/"><u>Online Tool: Convert VOB Video to ASF Filetype at No Cost - MoviVa</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tecnicas-simples-de-adicionar-subtitulos-ao-seu-filme-guia-detalhado/"><u>Técnicas Simples De Adicionar Subtítulos Ao Seu Filme - Guia Detalhado.</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-flipbook-creation-tools-the-ultimate-guide-to-making-engaging-interactive-ebooks/"><u>Top Flipbook Creation Tools: The Ultimate Guide to Making Engaging Interactive Ebooks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transforma-archivos-de-peliculas-avi-en-formato-m4v-sin-costo-con-convertidor-online-integral/"><u>Transforma Archivos De Películas AVI en Formato M4V Sin Costo Con Convertidor Online Integral</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-brand-makeover-made-easy-revel-in-our-array-of-over-50-free-online-promotional-artwork/"><u>[New] In 2024, Brand Makeover Made Easy Revel in Our Array of over 50 Free Online Promotional Artwork</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-10-gif-maker-services-transforming-jpgs-at-no-cost/"><u>[New] Prime 10 GIF Maker Services Transforming JPGs at No Cost</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-digital-artisans-guide-mastering-screen-recordings-in-macos-for-2024/"><u>[New] The Digital Artisan's Guide Mastering Screen Recordings in macOS for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-invisible-recorder-how-to-save-online-music-streams/"><u>[Updated] The Invisible Recorder How to Save Online Music Streams</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/computer-freeze-no-more-strategies-for-smooth-operations-and-prevention/"><u>Computer Freeze No More: Strategies for Smooth Operations and Prevention</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-content-conversations-connecting-with-subscribers-for-2024/"><u>Crafting Content Conversations Connecting With Subscribers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x80004005-explained-your-ultimate-solution-for-the-unexplained-glitch/"><u>Error 0X80004005 Explained: Your Ultimate Solution for the Unexplained Glitch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-solving-tips-for-when-windows-cant-find-the-specified-file-or-disk/"><u>Error Solving Tips for When Windows Can’t Find the Specified File or Disk</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/harnessing-the-full-potential-of-video-enhancer-22-for-your-work/"><u>Harnessing the Full Potential of Video Enhancer 2.2 for Your Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-type-without-typing-wrong-characters-solutions-explored/"><u>How to Correctly Type Without Typing Wrong Characters: Solutions Explored</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oneplus-open-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From OnePlus Open to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-outage-at-networking-interface/"><u>Resolved: Outage at Networking Interface</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-non-responsive-microphone-issues-in-windows-11/"><u>Troubleshooting: Fixing Non-Responsive Microphone Issues in Windows 11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-unlock-minitool-movie-makers-full-potential-tips-tricks-and-alternatives/"><u>Updated 2024 Approved Unlock Minitool Movie Makers Full Potential Tips, Tricks, and Alternatives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-your-pc-stops-working-unexpectedly-and-how-to-fix-it/"><u>Why Your PC Stops Working Unexpectedly & How To Fix It</u></a></li>
 </ul></div>
 

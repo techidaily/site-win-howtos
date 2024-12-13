@@ -1,7 +1,7 @@
 ---
 title: Solutions to Stop COD Black Ops 4'S Critical Failures and Glitches
-date: 2024-11-30T18:05:05.038Z
-updated: 2024-12-07T16:52:38.017Z
+date: 2024-12-09T21:04:59.796Z
+updated: 2024-12-13T22:31:43.661Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 4. [**Reseat your laptop battery**](#F4)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
 
@@ -52,7 +52,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -60,6 +60,10 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -103,6 +107,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -117,10 +125,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -139,16 +143,12 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,24 +184,21 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-dark-sky-iphone-tips-and-tricks/"><u>[Updated] 2024 Approved Dark Sky iPhone Tips & Tricks</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-premier-selection-of-premium-video-chat-tools-ios-android-ranking/"><u>[Updated] Premier Selection of Premium Video Chat Tools (iOS, Android) Ranking</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/1717304996828-updated-quick-and-easy-channels-personalize-your-youtube-url-now/"><u>[Updated] Quick and Easy Channels Personalize Your YouTube URL Now!</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-in-depth-exploration-of-morphvox-for-precise-sound-alteration/"><u>2024 Approved In-Depth Exploration of MorphVOX for Precise Sound Alteration</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-text-integration-techniques-for-digital-pictures/"><u>2024 Approved Unveiling Text Integration Techniques for Digital Pictures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ram-mpeg-movavi/"><u>免費在線上預覽RAM MPEG播放列表 - 改進動畫飆高速度的Movavi指南</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722999083447-battlefield-5-not-starting-master-the-simple-solution-in-our-2024-step-by-step-troubleshooting-tips/"><u>Battlefield 5 Not Starting? Master the Simple Solution in Our 2024 Step-by-Step Troubleshooting Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversor-de-audio-libre-para-mp3-y-video-m4v-en-linea-soluciones-faciles-de-uso-por-movavi/"><u>Conversor De Audio Libre Para MP3 Y Vídeo M4V en Línea – Soluciones Fáciles De Uso Por Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/debunking-myths-the-real-facts-on-vlc-media-player-security/"><u>Debunking Myths: The Real Facts on VLC Media Player Security</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/den-sjunde-lista-pa-automatiska-videoredigerare-skada-ut-en-inblick-till-trenden/"><u>Den Sjunde Lista På Automatiska Videoredigerare - Skåda Ut En Inblick Till Trenden!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ejecutivo-de-movavi-como-crear-subtitulos-para-videos-sin-problemas/"><u>Ejecutivo De Movavi - Cómo Crear Subtítulos Para Vídeos Sin Problemas</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo Y27 5G? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/how-to-write-compelling-podcast-narratives-and-examples-at-no-cost/"><u>How to Write Compelling Podcast Narratives & Examples at No Cost</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-playback-techniques-to-streamline-media-workflows/"><u>In 2024, Advanced Playback Techniques to Streamline Media Workflows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-konverteren-van-m4v-videokopies-zonder-kosten-experimentele-bewerking-met-movavi/"><u>Online Konverteren Van M4V Videokopies Zonder Kosten – Experimentele Bewerking Met Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-tiff-png-mvvavi/"><u>Online 무료 제공: TIFF 파일을 PNG로 원활한 전환 - MVVAVI</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/videoprojecten-in-dvds-konvertieren-einfache-losung-mit-movavi/"><u>Videoprojecten in DVDs Konvertieren: Einfache Lösung Mit Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mp4-movavi-ogm-mpg/"><u>원클라이언스 오지에이구 매퍼플라우드 MP4 변환 - 무료 Movavi OGM MPG 교체</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kernel-troubleshoot-fix-dll-in-win/"><u>[Kernel Troubleshoot] Fix DLL in Win</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-comprehensive-guide-to-free-premium-video-callers/"><u>[New] In 2024, Comprehensive Guide to Free, Premium Video Callers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-obs-direct-live-video-feed-for-instagram/"><u>[New] OBS Direct Live Video Feed for Instagram</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/4-ways-to-reset-your-password-in-windows-10/"><u>4 Ways to Reset Your Password in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-for-turning-on-your-pcs-bluetooth-feature-in-windows-1110/"><u>Comprehensive Tutorial for Turning On Your PC’s Bluetooth Feature in Windows 11/10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Lava Yuva 2? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminate-overworked-cpus-with-wmi/"><u>Eliminate Overworked CPUs with WMI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/execution-barred-by-conditions/"><u>Execution Barred by Conditions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-corrective-steps-for-file-not-found-errors/"><u>Expert Tips: Corrective Steps for 'File Not Found' Errors</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-nokia-c300-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Nokia C300 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-can-you-legally-watch-netflix-on-a-budget/"><u>How Can You Legally Watch Netflix on a Budget?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-continuously-crashing-iphone-apps-a-list-of-top-10-remedies/"><u>How to Fix Continuously Crashing iPhone Apps: A List of Top 10 Remedies</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/microsoft-expands-iot-offerings-as-google-withdraws-from-market-insights-by-zdnet/"><u>Microsoft Expands IoT Offerings as Google Withdraws From Market - Insights by ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-non-responsive-usb-mouse-problems-with-proven-techniques-for-laptops/"><u>Solve Your Non-Responsive USB Mouse Problems with Proven Techniques for Laptops</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-stuck-or-broken-letters-on-your-windows-1011-keyboard/"><u>Troubleshooting Stuck or Broken Letters on Your Windows 10/11 Keyboard</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Malfunctioning Fingerprint Reader on Your Lenovo Device
-date: 2024-12-02T18:37:20.132Z
-updated: 2024-12-07T21:11:23.781Z
+date: 2024-12-08T21:53:09.163Z
+updated: 2024-12-13T17:29:51.653Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/5164fa265fad5df086cc8d529b2f3b17fbfd41642
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 Fixes for Lenovo Fingerprint Reader Not Working
 
  Here are 5 fixes that have helped other users resolve the **Lenovo Fingerprint Reader Not Working on Windows** problem. Just work your way down the list until you find the fix that does the trick.
@@ -45,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/5164fa265fad5df086cc8d529b2f3b17fbfd41642
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Update your fingerprint reader driver
 
 This problem may occur if you are using the wrong  fingerprint reader  driver or it’s out of date. So you should update your fingerprint reader driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -66,10 +66,6 @@ This problem may occur if you are using the wrong  fingerprint reader  driver or
 ![](https://www.drivereasy.com/wp-content/uploads/2018/11/Synaptics-WBDI-Fingerprint-Reader.png)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  Restart your computer and see if the fingerprint reader works properly this time. If it works, then great. But if it doesn’t, move on to**Fix 3** , below.
@@ -77,7 +73,7 @@ This problem may occur if you are using the wrong  fingerprint reader  driver or
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Uninstall Lenovo Finerprint Manager and use the default fingerprint driver
@@ -91,11 +87,15 @@ Here’s how:
 2. Locate and click on**Lenovo Fingerprint Manager** (or,**Lenovo Finerprint Manager Pro** ) and click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/12.jpg)
 3. Click**Uninstall** to confirm, then follow the on-screen instructions to finish the uninstall process.![](https://images.drivereasy.com/wp-content/uploads/2018/11/12-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. On your keyboard, press**the Windows logo key** and type **devmgmt.msc** , then press**Enter** .  
 
@@ -105,13 +105,13 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4ff6e683a2.png)
 6. Click **Uninstall**   to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Restart your computer, then test to see if the fingerprint reader not working problem has been solved.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Re-enroll your fingerprints
 
@@ -124,16 +124,16 @@ Here’s how:
 
 4. Don’t forget to test if the fingerprint reader works normally this time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Repair system files
 
  Missing, corrupt, or damaged system files may cause Lenovo fingerprint reader to stop working. To eliminate this issue as a possible cause, you can try the 2 ways below to repair possible system file issues.
 
 1. [**Repair & replace corrupt system files with Fortect**](https://tinyland.pxf.io/org4ra)
 2. [**Run SFC scan**](https://homestyler.sjv.io/y209g3)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Repair & replace corrupt system files with Fortect
 
@@ -154,10 +154,6 @@ Here’s how to use Fortect to repair system files on your PC:
 
 Check your computer to see if the issue is fixed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Run SFC scan
 
 **System File Checker** (**SFC** ) is a handy feature in Windows that helps scan your system files and repair missing or corrupted system files. To **run the SFC scan** :
@@ -171,6 +167,10 @@ Check your computer to see if the issue is fixed.
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -201,24 +201,22 @@ Check your computer to see if the issue is fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-agricultural-bliss-the-10-perfect-gaming-friends-for-farmers/"><u>[New] 2024 Approved Agricultural Bliss The 10 Perfect Gaming Friends for Farmers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-crafting-an-irresistible-digital-selfie-replica-on-tiktok/"><u>[New] 2024 Approved Crafting an Irresistible Digital Selfie Replica on TikTok</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-elite-8s-imagery-merging-digital-software-for-2024/"><u>[New] Elite 8’S Imagery Merging Digital Software for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-audiophiles-choice-premium-asmr-recording-mics/"><u>[New] In 2024, Audiophiles' Choice Premium ASMR Recording Mics</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-non-rooting-methods-to-record-android-sounds-for-2024/"><u>[Updated] Non-Rooting Methods to Record Android Sounds for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-flvswf-movavi/"><u>完全無料で専用のOnline FLV/SWFファイルを変換: Movaviスムーズ編集ツール</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/aprenda-a-editar-dvds-com-facilidade-copiando-convertendo-e-compactando-videos/"><u>Aprenda a Editar DVDs Com Facilidade: Copiando, Convertendo E Compactando Vídeos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/changer-facilement-un-fichier-m4r-au-format-aiff-en-ligne-et-gratuit-grace-a-movavi/"><u>Changer Facilement Un Fichier M4R Au Format AIFF En Ligne Et Gratuit Grâce À Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convertissez-gratuitement-votre-fichier-ape-au-format-aiff-sur-internet-avec-ease-movavi/"><u>Convertissez Gratuitement Votre Fichier APE Au Format AIFF Sur Internet Avec Ease - Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-check-successful-or-failed-login-attempts-on-your-windows-computer/"><u>How to Check Successful or Failed Login Attempts on Your Windows Computer</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/how-to-remove-youtube-videos/"><u>How to Remove YouTube Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-wordsmith-whispers-picks-for-the-best-transcription-programs/"><u>In 2024, Wordsmith Whispers Picks for the Best Transcription Programs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ntsc-vs-pal-understanding-the-key-distinctions-and-compatibility/"><u>NTSC vs PAL: Understanding the Key Distinctions and Compatibility</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-kostenloos-movaffect-converter-efficient-konverteer-mpg-naar-mov-met-movavis-gratis-toolen/"><u>Online Kostenloos MOVAFFECT CONVERTER: Efficiënt Konverteer MPG Naar MOV Met Movavi's Gratis Toolen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformacion-aiff-a-flac-sin-gasto-conversion-en-linea-y-totalmente-gratis/"><u>Transformación AIFF a FLAC Sin Gasto - Conversión en Línea Y Totalmente Gratis!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformez-facilement-vos-videos-mpeg-en-audio-wav-via-linterface-web-depanner-avec-videotranslate/"><u>Transformez Facilement Vos Vidéos MPEG en Audio WAV via L'interface Web - Dépanner Avec VidéoTranslate</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-solutions-overcome-iphones-apple-icon-freeze-in-just-7-steps/"><u>Unlocking Solutions: Overcome iPhone's Apple Icon Freeze in Just 7 Steps</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-the-virtual-future-the-metaverse-explored/"><u>Unveiling The Virtual Future: The Metaverse Explored</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavi-flac-wma/"><u>무료 Movavi라는 소프트웨어를 사용한 FLAC WMA 변환 – 컴퓨터 내부에서의 안전하고 편리한 방법</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-optimal-action-capture-software-insights/"><u>[New] 2024 Approved Optimal Action Capture Software Insights</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ialing-up-deliverables-a-comprehensive-guide-to-gainful-vlogging/"><u>[New] Dialing Up Deliverables A Comprehensive Guide to Gainful Vlogging</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-complete-handbook-of-xbox-one-zoom-communication/"><u>[New] In 2024, The Complete Handbook of Xbox One Zoom Communication</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mastering-mobile-shots-ios-11s-camera-innovations-for-2024/"><u>[New] Mastering Mobile Shots IOS 11'S Camera Innovations for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-prospective-leaders-in-titling-the-top-5-online-masters-revealed-for-2024/"><u>[New] Prospective Leaders in Titling The Top 5 Online Masters Revealed for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-content-creators-earnings-timeline-on-youtube/"><u>[Updated] 2024 Approved Content Creators’ Earnings Timeline on YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/embark-on-an-avatar-journey-crafting-characters-with-ease-and-style-for-2024/"><u>Embark on an Avatar Journey Crafting Characters with Ease and Style for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-elevated-hard-drive-utilization-caused-by-microsofts-compatibility-feedback-on-windows-10/"><u>How to Fix Elevated Hard Drive Utilization Caused by Microsoft's Compatibility Feedback on Windows 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-the-there-was-an-issue-restoring-your-pc-error-in-windows-11-step-by-step-fix/"><u>Resolve the 'There Was an Issue Restoring Your PC' Error in Windows 11 - Step-by-Step Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-initialization-error-in-dragon-ball-fighterzs-networking/"><u>Resolved: Initialization Error in Dragon Ball FighterZ's Networking</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-keyboard-expert-methods-for-a-fresh-start/"><u>Reviving Your Keyboard: Expert Methods for a Fresh Start</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/smooth-viewing-overcoming-freezing-problems-with-netflix-online-movie-service/"><u>Smooth Viewing: Overcoming Freezing Problems with Netflix Online Movie Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tech-troubleshooting-solving-game-freezes-in-windows/"><u>Tech Troubleshooting: Solving Game Freezes in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tips-and-tricks-fixing-a-broken-character-input-in-email-addresses/"><u>Tips and Tricks: Fixing a Broken @ Character Input in Email Addresses</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-for-when-your-mouse-cant-right-click-in-windows-11/"><u>Ultimate Fixes for When Your Mouse Can't Right-Click in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-starters-manual-mastering-the-basics-of-household-sound-systems/"><u>Ultimate Starter's Manual: Mastering the Basics of Household Sound Systems</u></a></li>
 </ul></div>
 

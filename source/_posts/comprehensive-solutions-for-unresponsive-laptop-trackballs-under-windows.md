@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Solutions for Unresponsive Laptop Trackballs Under Windows
-date: 2024-12-01T19:56:23.684Z
-updated: 2024-12-07T21:55:45.085Z
+date: 2024-12-07T16:18:57.347Z
+updated: 2024-12-13T16:21:53.671Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -47,23 +43,19 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -83,6 +75,10 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
@@ -90,7 +86,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -126,9 +122,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -141,10 +145,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -184,16 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/astering-youtube-team-ups-finding-perfect-co-stars/"><u>[New] Mastering YouTube Team-Ups Finding Perfect Co-Stars</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/implified-cross-platform-listening-top-5-playlist-conversion-resources-for-2024/"><u>[New] Simplified Cross-Platform Listening Top 5 Playlist Conversion Resources for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-tailored-preferences-when-they-freeze-up/"><u>Fix Your Tailored Preferences When They Freeze Up</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-10-update-error-code-0x80240034/"><u>Fixing the Windows 10 Update Error Code 0X80240034</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-foremost-haptic-feedback-devices-providers/"><u>In 2024, Foremost Haptic Feedback Devices Providers</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/origin-game-launch-difficulties-heres-how-to-fix-common-setup-mistakes/"><u>Origin Game Launch Difficulties? Here's How to Fix Common Setup Mistakes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-msmpengexe-high-cpu-usage-on-your-windows-10-pc-complete-guide/"><u>Solving the MsMpEng.exe High CPU Usage on Your Windows 10 PC - Complete Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-overcoming-device-not-migrated-problems-on-windows-11/"><u>Step-by-Step Guide: Overcoming 'Device Not Migrated' Problems on Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-secrets-of-the-samsung-galaxy-ring-price-overview-expected-arrival-date-full-tech-specifications-and-latest-developments/"><u>Unlocking Secrets of the Samsung Galaxy Ring: Price Overview, Expected Arrival Date, Full Tech Specifications & Latest Developments</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/wmaaiff-movavi/"><u>コストなしでWMAとAIFFを変換する – オンラインツール集（Movavi）</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-a-comparative-analysis-of-top-10-budget-friendly-video-calls-for-2024/"><u>[New] A Comparative Analysis of Top 10 Budget-Friendly Video Calls for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-infuse-vibes-into-photos-via-ig-sounds/"><u>[Updated] In 2024, Infuse Vibes Into Photos via IG Sounds</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-engaging-consumers-effectively-through-snapbiz-insights/"><u>2024 Approved Engaging Consumers Effectively Through SnapBiz Insights</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-maintaining-youtube-like-video-quality-on-twitter/"><u>2024 Approved Maintaining YouTube-Like Video Quality on Twitter</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-realme-c33-2023-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme C33 2023 FRP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-windows-update-hurdle-a-complete-walkthrough-on-fixing-error-0x8024002e/"><u>Bypassing Windows Update Hurdle: A Complete Walkthrough on Fixing Error 0X8024002E</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211529507-complete-guide-to-lowering-high-cpu-usage-by-svchostexe-on-windows-10-devices-solved/"><u>Complete Guide to Lowering High CPU Usage by svchost.exe on Windows 10 Devices – Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/detect-and-fix-wd-my-passport-ultra-not-showing-up-on-windows-computer-docks/"><u>Detect & Fix: WD My Passport Ultra Not Showing Up on Windows Computer Docks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-tips-for-repairing-malfunctioning-shift-keys-in-windows-and-macos/"><u>Effective Tips for Repairing Malfunctioning Shift Keys in Windows and MacOS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-tips-for-msvcp140dll-restoration/"><u>Essential Tips for MSVCP140.dll Restoration</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/passive-to-active-a-3-step-framework-to-evaluate-your-youtube-financials-for-2024/"><u>From Passive to Active A 3-Step Framework to Evaluate Your YouTube Financials for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-guide-to-perfecting-slow-motion-on-your-android-device/"><u>In 2024, Step-by-Step Guide to Perfecting Slow Motion on Your Android Device</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-analysis-selecting-the-leading-5-virtual-title-experts-for-2024/"><u>In-Depth Analysis Selecting the Leading 5 Virtual Title Experts for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-6-best-automatic-transcription-software/"><u>New 6 Best Automatic Transcription Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/smartaudio-initialization-fiasco-how-to-correctly-set-up-your-device-fixed/"><u>SmartAudio Initialization Fiasco: How to Correctly Set Up Your Device [FIXED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210770235-steam-file-retrieval-how-to-recover-missing-game-files-effectively-solved/"><u>Steam File Retrieval: How to Recover Missing Game Files Effectively - SOLVED!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-enhancing-video-cards-without-alpha-blend-capabilities/"><u>Troubleshooting and Enhancing Video Cards Without Alpha Blend Capabilities</u></a></li>
 </ul></div>
 

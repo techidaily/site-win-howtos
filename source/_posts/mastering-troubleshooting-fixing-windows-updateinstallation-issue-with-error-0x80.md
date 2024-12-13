@@ -1,7 +1,7 @@
 ---
 title: "Mastering Troubleshooting: Fixing Windows Update/Installation Issue with Error 0X80"
-date: 2024-11-30T16:16:18.161Z
-updated: 2024-12-07T18:30:58.579Z
+date: 2024-12-07T20:54:15.004Z
+updated: 2024-12-13T16:17:31.600Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. [Enable Microsoft Hosted Network Virtual Adapter](https://tools.techidaily.com/drivereasy/download/)
@@ -42,21 +38,21 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2)Click**View** icon and tick on**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595daff2127b9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)Find and expand**Network adapters** dialog.  
  Then right-click on**Microsoft Hosted Network Virtual Adapter** to choose**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db07149d8a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4)Now set your WiFi hotspot again to see if the error has been fixed.
 
@@ -69,16 +65,16 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db5161c78b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3)View on**Power Management** pane.  
  Make sure**Allow the comoputer to turn off this device to save power** is**unchecked** and click**OK** to save settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db64b2e5ab.png)
 
  If unluckily, neither method 1 nor method 2 helps you fix the error, it’s advise that update your WiFi driver with Method 3.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3\. Update your WiFi driver
 
@@ -94,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
  Then choose**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db84f55cbc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Search automatically for updated driver software** .
 
@@ -116,12 +116,12 @@ Now Microsoft will detect the update for you automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-wireless-network-adapter-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -150,19 +150,19 @@ Now Microsoft will detect the update for you automatically.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-xbox-gameplay-perfect-screen-recording-guide/"><u>[New] 2024 Approved Xbox Gameplay Perfect Screen Recording Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-radiant-renderings-perfecting-video-light-quality/"><u>[New] In 2024, Radiant Renderings Perfecting Video Light Quality</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-ultimate-sfpr-levels-in-slow-motion-content-for-2024/"><u>[New] Ultimate SFPR Levels in Slow-Motion Content for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-unlock-potential-in-social-media-storytelling-fb-slideshows/"><u>2024 Approved Unlock Potential in Social Media Storytelling FB Slideshows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/flac-m4a-movavi/"><u>在網路上無限制自由轉換 FLAC到 M4A - 使用 Movavi 編解碼器</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/farewell-to-frustration-cyberpunk-2077-glitch-fixed/"><u>Farewell to Frustration - Cyberpunk 2077 Glitch Fixed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratis-jpgbmp-format-converter-online-professioneel-movivaaii/"><u>Gratis JPG/BMP Format Converter Online - Professioneel MoviVaaii</u></a></li>
-<li><a href="https://games-able.techidaily.com/handheld-enlightenment-with-rog-ally-fix-it-x/"><u>Handheld Enlightenment with ROG Ally Fix-It X</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mac-integration-leveraging-chatgpt-powerfully/"><u>Mac Integration: Leveraging ChatGPT Powerfully</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-gestalteerd-mp3-in-professioneel-vooral-m2ts-converter-zonder-kosten/"><u>Online Gestalteerd Mp3 in Professioneel Vooral M2ts Converter, Zonder Kosten!</u></a></li>
-<li><a href="https://article-tips.techidaily.com/storyboard-pro-for-win8-for-2024/"><u>StoryBoard Pro for Win8 for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-pick-mirari-childrens-alarm-clock-ok-to-wake-in-depth-product-assessment/"><u>Top Pick: Mirari Children's Alarm Clock 'Ok to Wake!' In-Depth Product Assessment</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformez-facilement-votre-audio-flac-au-format-mp3mp4-gratuitement-sur-la-plateforme-de-conversion-en-ligne-movavi/"><u>Transformez Facilement Votre Audio FLAC Au Format MP3/MP4 Gratuitement Sur La Plateforme De Conversion en Ligne Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trasforma-immagini-bmp-in-gif-senza-costo-con-il-convertitore-online-di-movavi/"><u>Trasforma Immagini BMP in GIF Senza Costo Con Il Convertitore Online Di Movavi</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-elite-collection-the-best-11-streamers/"><u>[New] In 2024, Elite Collection The Best 11 Streamers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-art-of-blending-digital-canvases/"><u>[Updated] 2024 Approved The Art of Blending Digital Canvases</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-professional-gamers-guide-top-video-cards-on-youtube/"><u>[Updated] Professional Gamer's Guide Top Video Cards on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-portable-visual-tinkering-a-lut-enthusiasts-guide/"><u>2024 Approved Portable Visual Tinkering A LUT Enthusiast's Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-techniques-to-dodge-windows-11-security/"><u>Efficient Techniques to Dodge Windows 11 Security</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-stuck-or-unresponsive-fn-keys-on-an-asus-computer-system/"><u>Fixing Stuck or Unresponsive Fn Keys on an ASUS Computer System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-your-speakers-back-reactivating-disabled-audio-functionality-on-windows-7/"><u>Getting Your Speakers Back: Reactivating Disabled Audio Functionality on Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-address-high-resource-usage-from-microsoft-telemetry-on-windows-11-devices/"><u>Guide to Address High Resource Usage From Microsoft Telemetry on Windows 11 Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-motorola-edge-40-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Motorola Edge 40 Phone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-a-step-by-step-journey-through-high-impact-youtube-banner-designs/"><u>In 2024, A Step-by-Step Journey Through High-Impact YouTube Banner Designs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-unavailable-desktop-error-on-windows-system-profile-directory/"><u>Overcoming the Unavailable Desktop Error on Windows System Profile Directory</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-8-youtube-ranks-tracker-essentials-guide-for-2024/"><u>Top 8 YouTube Ranks Tracker Essentials Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-notch-assistance-highest-rated-iphone-ringtone-makers-for-2024/"><u>Top-Notch Assistance Highest Rated iPhone Ringtone Makers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-update-fails-fixed/"><u>Windows Update Fails [FIXED]</u></a></li>
 </ul></div>
 

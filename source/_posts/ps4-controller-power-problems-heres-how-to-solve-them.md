@@ -1,7 +1,7 @@
 ---
 title: PS4 Controller Power Problems? Here's How to Solve Them
-date: 2024-12-01T18:24:52.146Z
-updated: 2024-12-07T21:02:23.339Z
+date: 2024-12-06T21:28:33.628Z
+updated: 2024-12-13T21:34:21.742Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/5fe7ecb89bcc6e1487d4d4a1019dead48cda049eb
 4. **[Check the charging port of your PS4 controller](#solution4)**
 5. **[Replace the batteries of your PS4 controller](#solution5)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 1: Reset your PS4 controller
 
  Generally, the PS4 controller not charging issue is caused by the malfunctioned controller itself. So, as the initial solution, we recommend you reset your PS4 controller.
@@ -46,11 +42,11 @@ You can easily reset your controller through these several steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a503f4b68e7f.jpg)
 2. Put a toothpick or a similar object into the reset hole; press the button; hold it down for a few seconds and then release.
 
-3. Your controller should then restart. Once it gets started, try to charge it again to see if successful.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. Your controller should then restart. Once it gets started, try to charge it again to see if successful.
 
 ### Solution 2: Charge your PS4 controller upside down
 
@@ -59,7 +55,7 @@ You can easily reset your controller through these several steps:
 Just put your PS4 controller upside down and then charge it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 3: Check the charging cable of your PS4 controller
@@ -69,7 +65,7 @@ Just put your PS4 controller upside down and then charge it.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a504e5686cb2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Charge your other controller if you have one with the same charging USB cable.
@@ -78,6 +74,10 @@ Just put your PS4 controller upside down and then charge it.
 
 **Note:** Some USB cable have the same connectors though, they can have different specs. That’s why your PS4 controller cannot charge if you use some third-party USB cable.  
  So please**use an official charging USB cable** to charge your controller. If you lost the USB cable coming with your PS4, you can buy an official one from Sony.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 4: Check the charging port of your PS4 controller
 
@@ -88,7 +88,7 @@ Just put your PS4 controller upside down and then charge it.
  Charge your other controller if you have one with the same charging USB cable. If the other controller does charge, there’s probably some problem with the charging port with your not charging controller. You then need to replace the charging port with a new one. If you’re not sure how to do it, you can ask for help from[the official PlayStation website](http://www.playstation.com/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 5: Replace the batteries of your PS4 controller
@@ -116,21 +116,18 @@ Just put your PS4 controller upside down and then charge it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-seamless-integration-of-movies-and-animations-using-movie-maker/"><u>[New] 2024 Approved Seamless Integration of Movies and Animations Using Movie Maker</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unlocking-content-discovery-with-instagram-hashtags/"><u>[New] 2024 Approved Unlocking Content Discovery with Instagram Hashtags</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-secrets-to-sustaining-high-view-count-in-youtube-videos/"><u>2024 Approved Secrets to Sustaining High View Count in YouTube Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversion-video-mp4-vers-matroska-mkv-libre-de-frais-avec-movavi/"><u>Conversion Vidéo MP4 Vers Matroska (MKV) Libre De Frais - Avec Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convertissez-vos-fichiers-swf-vers-mov-gratuitement-sur-internet-via-movavi-methodes-et-conseils-utiles/"><u>Convertissez Vos Fichiers SWF Vers MOV Gratuitement Sur Internet via Movavi: Méthodes Et Conseils Utiles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-converter-change-quicktime-qt-files-into-mp4-format-with-ease/"><u>Free Online Converter: Change QuickTime (QT) Files Into MP4 Format with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratuito-websaida-para-conversao-do-audio-opus-para-mp4-video-pela-movavi-utilize-on-line-sem-custo-algum/"><u>Gratuito: Websaída Para Conversão Do Audio Opus Para MP4 Vídeo Pela Movavi – Utilize On-Line Sem Custo Algum!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratuitous-online-mp4-do-mp3-konverter-bystryj-i-nadezhnyj-reshenie-po-movavi/"><u>Gratuitous Online MP4 До MP3 Конвертер: Быстрый И Надежный Решение По Movavi</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-realme-gt-5-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Realme GT 5 Pro Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-top-11-best-instagram-photo-editors/"><u>In 2024, Top 11 Best Instagram Photo Editors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/passos-faceis-para-masterizacao-de-mapas-no-minecraft-em-computador/"><u>Passos Fáceis Para Masterização De Mapas No Minecraft Em Computador</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/png-vers-jpeg-metgratis-omzetten-professioneel-online-door-movavi/"><u>PNG Vers JPEG Metgratis Omzetten - Professioneel Online Door Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/six-effective-methods-for-downloading-videos-from-youtube/"><u>Six Effective Methods for Downloading Videos From YouTube</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/thrifty-gamers-dream-pc-save-big-on-an-ibuypower-prebuilt-for-serious-competition-and-play/"><u>Thrifty Gamer's Dream PC: Save Big on an iBUYPOWER Prebuilt for Serious Competition and Play</u></a></li>
-<li><a href="https://some-tips.techidaily.com/time-honored-tech-selfies-with-iphone-x-for-2024/"><u>Time-Honored Tech Selfies with iPhone X for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-strategies-for-advancing-your-career-path-toward-chief-information-officer-cio-success-insights-from-zdnet/"><u>Top 5 Strategies for Advancing Your Career Path Toward Chief Information Officer (CIO) Success: Insights From ZDNet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-crafting-professional-ppt-video-content/"><u>[New] In 2024, Crafting Professional PPT Video Content</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-step-by-step-guide-to-creating-compelling-multi-picture-insta-stories/"><u>[Updated] Step by Step Guide to Creating Compelling, Multi-Picture Insta Stories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-expands-educational-outreach-with-massive-ai-training-initiative-for-alumni-and-student-body-latest-developments-zdnet/"><u>Apple Expands Educational Outreach with Massive AI Training Initiative for Alumni and Student Body | Latest Developments - ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-when-system-cant-access-required-modules/"><u>Effective Solutions for When System Can’t Access Required Modules</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-acting-fixes-to-overcome-windows-update-error-0x80070652/"><u>Fast-Acting Fixes to Overcome Windows Update Error 0X80070652</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-phantom-screens-in-dell-units/"><u>Fixing Phantom Screens in Dell Units</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-10-troubleshooting-non-functional-right-click-on-your-mouse/"><u>Fixing Windows 10: Troubleshooting Non-Functional Right Click on Your Mouse</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-chrome-plugin-failure-to-load-errors-on-windows-10-an-expert-walkthrough/"><u>How To Fix 'Chrome Plugin Failure to Load' Errors On Windows 10: An Expert Walkthrough</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-8-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix Apple iPhone 8 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-concurrent-display-archiving/"><u>In 2024, Concurrent Display Archiving</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-how-to-fix-a-computer-that-cant-close-windows-10/"><u>Solved: How to Fix a Computer That Can't Close Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-why-your-pc-wont-update-windows-easy-fixes-inside/"><u>Troubleshooting: Why Your PC Won't Update Windows – Easy Fixes Inside!</u></a></li>
 </ul></div>
 

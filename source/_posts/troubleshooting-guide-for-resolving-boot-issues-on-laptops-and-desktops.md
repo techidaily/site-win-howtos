@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide for Resolving Boot Issues on Laptops and Desktops
-date: 2024-12-01T22:14:04.613Z
-updated: 2024-12-07T22:04:43.553Z
+date: 2024-12-11T18:43:14.917Z
+updated: 2024-12-13T17:28:36.122Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/ba76116c91cec15f733719364aa6184afdfb3d250
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -48,7 +52,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -56,10 +60,6 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -76,16 +76,12 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -110,10 +106,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**accessibility** **keyboard** **settings** . Then click **Accessibility** **keyboard** **settings** when it pops up as the Best match.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
@@ -146,9 +138,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,16 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-beginning-your-first-community-support-blitz-on-facebook/"><u>[New] Beginning Your First Community Support Blitz on Facebook</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-creating-a-captivating-experience-with-your-first-facebook-live/"><u>[New] Creating a Captivating Experience with Your First Facebook Live</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-mobile-communication-redefined-best-10-secured-free-video-call-apps-to-keep-you-covered-on-devices-for-2024/"><u>[New] Mobile Communication Redefined Best 10 Secured, Free Video Call Apps to Keep You Covered on Devices for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-navigating-online-hostility-on-video-platforms/"><u>[New] Navigating Online Hostility on Video Platforms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-new-lens-on-sony-s3700-blu-ray-play-reviews/"><u>[New] New Lens on Sony S3700 Blu-Ray PLAY Reviews</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-youtubes-limits-tips-to-fix-stalled-video-encoding-at-critical-percentages/"><u>Bypass YouTube's Limits: Tips to Fix Stalled Video Encoding at Critical Percentages</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/m2-nvme-ssd-windows-pc/"><u>M.2 NVMe SSD クローニングガイド：Windows PC用高速冗長化ツール</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transcode-dvds-effortlessly-how-to-turn-them-into-mp4mkvmov-files/"><u>Transcode DVDs Effortlessly - How to Turn Them Into MP4/MKV/MOV Files!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-common-issues-resolving-youtube-not-responding-on-your-android-device/"><u>Troubleshooting Common Issues: Resolving 'YouTube Not Responding' On Your Android Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-successfully-viewing-your-downloaded-youtube-content/"><u>Troubleshooting Guide: Successfully Viewing Your Downloaded YouTube Content</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-silent-playback-resolving-the-no-audio-issue-on-media-player-windows-10/"><u>Troubleshooting Silent Playback: Resolving the No Audio Issue on Media Player Windows 10</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-priority-picks-high-rated-graphics-cards-for-seamless-playback/"><u>[New] 2024 Approved Priority Picks High-Rated Graphics Cards for Seamless Playback</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-unlocking-the-potential-with-samsungs-latest-photo-editor/"><u>[New] In 2024, Unlocking the Potential with Samsung's Latest Photo Editor</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-unveiling-the-magic-behind-shooting-images-with-iphones-hdr/"><u>[New] In 2024, Unveiling the Magic Behind Shooting Images with iPhone’s HDR</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-key-steps-to-successfully-infiltrating-your-dream-discord-server/"><u>[Updated] Key Steps to Successfully Infiltrating Your Dream Discord Server</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-quick-start-video-chatting-technique-for-snapchat-pros-for-2024/"><u>[Updated] Quick-Start Video Chatting Technique for Snapchat Pros for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-crafting-visual-magic-the-essentials-of-snapchat-photo-editing/"><u>2024 Approved Crafting Visual Magic The Essentials of Snapchat Photo Editing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/banish-the-reboot-loop-in-windows-10-quick-and-effective-fixes-for-stable-operation/"><u>Banish the Reboot Loop in Windows 10: Quick & Effective Fixes for Stable Operation</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/create-video-with-ai-avatar/"><u>Create Video with AI Avatar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-troubleshooting-tips-to-get-your-lenovos-fingerprint-reader-back-on-track/"><u>Easy Troubleshooting Tips to Get Your Lenovo's Fingerprint Reader Back on Track</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-device-not-identified-on-your-intelligent-cultra-e-reader-device-icue/"><u>Effective Fixes for 'Device Not Identified' On Your Intelligent CUltra E-Reader Device (ICUE)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-forcing-your-windows-10-pc-to-properly-power-down-and-restart/"><u>Expert Tips on Forcing Your Windows 10 PC to Properly Power Down and Restart</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-wacom-stylus-issues-on-windows-11-and-windows-10-systems/"><u>How to Resolve Wacom Stylus Issues on Windows 11 and Windows 10 Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/maccam-essentials-tips-and-tricks-recording/"><u>MacCam Essentials Tips and Tricks Recording</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-repairing-windows-10s-malfunctioning-sound-levels-solved/"><u>Mastering The Art Of Repairing Windows 10'S Malfunctioning Sound Levels (Solved)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-bluetooth-absent-on-your-pcs-device-manager/"><u>Resolving the Issue: Bluetooth Absent on Your PC's Device Manager</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/simplified-mac-imaging-mastering-5-easy-screenshot-methods/"><u>Simplified Mac Imaging Mastering 5 Easy Screenshot Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-with-netflix-streaming-top-solutions-for-when-netflix-fails/"><u>Trouble with Netflix Streaming? Top Solutions for When Netflix Fails</u></a></li>
 </ul></div>
 

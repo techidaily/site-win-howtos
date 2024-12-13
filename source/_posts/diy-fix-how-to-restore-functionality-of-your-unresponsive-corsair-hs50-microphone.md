@@ -1,7 +1,7 @@
 ---
 title: "DIY Fix: How to Restore Functionality of Your Unresponsive Corsair HS50 Microphone"
-date: 2024-12-03T21:49:20.630Z
-updated: 2024-12-07T18:19:52.409Z
+date: 2024-12-09T20:52:49.367Z
+updated: 2024-12-13T17:36:27.780Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 4. [Make sure your controller has fresh batteries](https://tools.techidaily.com/drivereasy/download/)
 5. [Try using a different controller or headset](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1\. Make sure the headset is not muted
 
  If the mute feature is enabled by accident, you can’s hear any sound then. When you find your Xbox One headset not working, the first thing is to check if it’s muted.
@@ -55,10 +59,6 @@ Follow the steps here to update your Xbox One controller software.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915a7941a9b.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2)  
 
  Find**Microsoft Xbox One controller** under catalog**Universal Serial Bus controllers** or**Microsoft Xbox One controller** .  
@@ -67,7 +67,7 @@ Follow the steps here to update your Xbox One controller software.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915be191b71.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)  
@@ -77,7 +77,7 @@ Follow the steps here to update your Xbox One controller software.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915bfa7e24c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now Windows will detect the update for your controller automatically.
@@ -94,21 +94,21 @@ With Pro version: Click **Update All**  to automatically download and install th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915e0fb9762.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3\. Check your device’s connection
 
  If the connection between your devices, it will also cause the issue. Please check the connection between your headset adapter and the controller, and also the connection between your headset adapter and headset cable. Make sure the connections are firm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4\. Make sure your controller has fresh batteries
 
  When the batteries of your controller become weak, your headset could not work properly, either. In such case, you can try replace with new batters for you controller to see if the headset works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 5\. Try using a different controller
 
@@ -131,20 +131,17 @@ With Pro version: Click **Update All**  to automatically download and install th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-download-premium-facebook-hd-content-anywhere/"><u>[Updated] 2024 Approved Download Premium Facebook HD Content Anywhere</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-strategies-for-watching-multiple-youtube-videos/"><u>[Updated] 2024 Approved Strategies for Watching Multiple YouTube Videos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-inferno-captures-best-slow-motion-cameras/"><u>[Updated] In 2024, Inferno Captures Best Slow-Motion Cameras</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-simple-strategies-for-saving-video-calls/"><u>[Updated] Simple Strategies for Saving Video Calls</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/5lin5yan5asx5y676yen6kab6kik5ogv77ya6kiy5oa25y2h5pwr5yqp5oyh5y2x77ym6ycz5piv5l2g6zya6kab55plusl6ygt55qe5lql5oof/"><u>不再失去重要訊息：記憶卡救助指南，這是你需要知道的事情</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/atracmp3atracmp3/"><u>ATRAC形式からMP3への効率的な変換テクニック「大量ATRACファイルをMP3にする方法」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beyond-vlc-exploring-other-options-for-changing-mp4-videos-into-mov-format/"><u>Beyond VLC: Exploring Other Options for Changing MP4 Videos Into MOV Format</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bulk-conversion-guide-transforming-multiple-mkv-files-into-mp4-format/"><u>Bulk Conversion Guide: Transforming Multiple MKV Files Into MP4 Format</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-overcoming-quicktimes-avi-compatibility-issues-across-mac-and-pc-platforms/"><u>Comprehensive Guide to Overcoming QuickTime's AVI Compatibility Issues Across Mac and PC Platforms</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-set-up-the-github-desktop-extension-for-streamlined-coding-in-kodi-media-center/"><u>Comprehensive Tutorial: Set Up the GitHub Desktop Extension for Streamlined Coding in Kodi Media Center</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discover-the-updated-path-at-wonderfox-finding-what-you-need-on-our-site/"><u>Discover the Updated Path at WonderFox: Finding What You Need on Our Site!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nubia-z50-ultra-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Nubia Z50 Ultra to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-unmatched-story-design-arena/"><u>In 2024, Unmatched Story Design Arena</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-through-2024-a-comprehensive-review-of-top-performing-cable-modems/"><u>Navigating Through 2024: A Comprehensive Review of Top-Performing Cable Modems</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-top-9-free-tv-streaming-services-or-sites-to-use/"><u>New Top 9 Free TV Streaming Services or Sites To Use</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-efficiently-redistributing-your-creative-works/"><u>[New] In 2024, Efficiently Redistributing Your Creative Works</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-deciphering-your-social-media-shadows-privacy-on-facebook/"><u>[Updated] In 2024, Deciphering Your Social Media Shadows Privacy on Facebook</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/1-comment-localiser-un-fichier-manquant-dans-microsoft-outlook/"><u>1. Comment Localiser Un Fichier Manquant Dans Microsoft Outlook?</u></a></li>
+<li><a href="https://discover-help.techidaily.com/ai-driven-frame-interpolation-enhancing-fps-and-smooth-transitions-for-a-better-viewing-experience/"><u>AI-Driven Frame Interpolation: Enhancing FPS and Smooth Transitions for a Better Viewing Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/asus-laptop-dilemma-resolving-non-functional-keyboard-fn-buttons/"><u>Asus Laptop Dilemma: Resolving Non-Functional Keyboard Fn Buttons</u></a></li>
+<li><a href="https://win-able.techidaily.com/destiny-2-centipede-bug-explained-steps-towards-a-solution/"><u>Destiny 2 Centipede Bug Explained: Steps Towards a Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-microsoft-wi-fi-display-connection-issues-in-windows-11-a-comprehensive-guide/"><u>Fixing Microsoft Wi-Fi Display Connection Issues in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-an-easy-guide-to-embedding-mp3-files-into-presentations/"><u>In 2024, An Easy Guide to Embedding MP3 Files Into Presentations</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-xiaomi-redmi-note-12-pro-4g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Xiaomi Redmi Note 12 Pro 4G for Parents | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tips-and-solutions-for-restoring-microsoft-print-to-pdf-functionality-on-windows-11/"><u>Tips and Solutions for Restoring Microsoft Print to PDF Functionality on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-notfound-message-for-d3dcompiler43dll-in-your-system/"><u>Troubleshooting the 'NotFound' Message for d3dcompiler_43.dll in Your System</u></a></li>
+<li><a href="https://discover-community.techidaily.com/ultimate-guide-converting-dvds-into-high-quality-hevch265-mp4-format-free-method/"><u>Ultimate Guide: Converting DVDs Into High-Quality HEVC/H.265 MP4 Format - FREE Method</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Compatible Peripheral Devices on a Windows Workstation
-date: 2024-12-04T20:06:26.249Z
-updated: 2024-12-07T17:43:13.779Z
+date: 2024-12-09T17:51:15.975Z
+updated: 2024-12-13T22:13:24.575Z
 tags:
   - win11
   - win10
@@ -62,16 +62,12 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Double-click the first **USB Root Hub** device in the list (if you see only one USB Root Hub device, that’s fine)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click the **Power Management**  tab  
@@ -79,19 +75,23 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342d99c355a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Un-check the **Allow the computer to turn off this device to save power**  checkbox, and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342dd22bb58.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Repeat steps 3-5 for each  USB Root Hub device in your list of Universal Serial Bus controllers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 4: Check your USB device drivers**
@@ -115,7 +115,7 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5948dbf290aa4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -142,18 +142,20 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-declutter-your-visuals-learn-background-removal-with-photopea/"><u>[New] In 2024, Declutter Your Visuals Learn Background Removal with Photopea</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-audiovisual-synchronization-in-facebook-content-creation/"><u>[Updated] Audiovisual Synchronization in Facebook Content Creation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-convenient-ways-to-document-game-sessions-for-2024/"><u>[Updated] Convenient Ways to Document Game Sessions for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mac-users-choice-why-screenflow-dominates-the-market/"><u>[Updated] In 2024, Mac Users' Choice Why ScreenFlow Dominates the Market</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-innovating-your-online-presence-expert-tips-for-video-enhancement-after-upload/"><u>[Updated] Innovating Your Online Presence Expert Tips for Video Enhancement After Upload</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723201066692-diagnostic-policy-service-malfunction-heres-the-solution/"><u>Diagnostic Policy Service Malfunction? Here's the Solution!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-electrical-energy-the-best-lipo-for-uavs/"><u>In 2024, Mastering Electrical Energy The Best LiPo for UAVs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premium-pcandroid-mkv-player-for-2024/"><u>Premium PC/Android MKV Player for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/prime-panzoid-layout-libraries/"><u>Prime Panzoid Layout Libraries</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-found-for-persistent-restart-problems-in-windows-1011-systems/"><u>Solution Found for Persistent Restart Problems in Windows 10/11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-solution-for-completing-interrupted-windows-update-cycles/"><u>The Ultimate Solution for Completing Interrupted Windows Update Cycles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-crash-dump-failures-for-wolfenstein-ii-players/"><u>Troubleshooting Crash Dump Failures for Wolfenstein II Players</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-when-radeon-settings-cant-be-accessed/"><u>Troubleshooting Guide: When Radeon Settings Can't Be Accessed</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-convincing-consumers-one-testimonial-at-a-time/"><u>[New] In 2024, Convincing Consumers, One Testimonial at a Time</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-navigating-video-uploads-on-social-platforms/"><u>[Updated] Navigating Video Uploads on Social Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-correcting-power-management-malfunctions-with-windows-drivers/"><u>Expert Advice on Correcting Power Management Malfunctions with Windows Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-restoring-sound-to-your-ps4-communication-device/"><u>Expert Advice: Restoring Sound to Your PS4 Communication Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/five-effective-methods-to-fix-steam-store-not-loading-error/"><u>Five Effective Methods to Fix 'Steam Store Not Loading' Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-boot-problems-on-windows-10-following-a-system-update/"><u>Fixing Boot Problems on Windows 10 Following a System Update</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/how-does-echo-pop-stack-up-against-the-versatile-echo-dot/"><u>How Does Echo Pop Stack Up Against the Versatile Echo Dot?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-oculus-drivers-for-seamless-experience-on-all-windows-systems-including-111087/"><u>How To Update Your Oculus Drivers for Seamless Experience on All Windows Systems Including 11/10/8/7</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2534857-9781626256514-letters-to-my-grandson/"><u>Letters to My Grandson | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-fixes-for-the-persistent-problem-of-windows-10-spontaneous-reboots/"><u>Simple Fixes for the Persistent Problem of Windows 10 Spontaneous Reboots</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/the-battle-for-high-resolution-supremacy-can-av1-outperform-hevc-in-4k-and-8k-streaming/"><u>The Battle for High-Resolution Supremacy: Can AV1 Outperform HEVC in 4K and 8K Streaming?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ilmmakers-blueprint-making-youtube-splitscreen-magic-for-2024/"><u>The Filmmaker's Blueprint Making YouTube Splitscreen Magic for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-impact-of-artificial-intelligence-on-modern-gaming-dynamics/"><u>The Impact of Artificial Intelligence on Modern Gaming Dynamics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-windows-10-microphone-issues/"><u>Troubleshooting and Repairing Windows 10 Microphone Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210988722-windows-11-blurry-text-heres-how-to-fix-it/"><u>Windows 11 Blurry Text? Here's How to Fix It.</u></a></li>
 </ul></div>
 

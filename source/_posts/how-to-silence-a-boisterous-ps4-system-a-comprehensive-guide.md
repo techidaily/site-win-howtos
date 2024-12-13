@@ -1,7 +1,7 @@
 ---
 title: "How to Silence a Boisterous PS4 System: A Comprehensive Guide"
-date: 2024-11-30T18:08:49.331Z
-updated: 2024-12-07T16:26:28.371Z
+date: 2024-12-12T18:40:24.866Z
+updated: 2024-12-13T17:47:27.124Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ Sometimes a hard-reset can help you fix some strange problems. A hard-reset of X
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fcebec23ca.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to hard reset your modem
 
 1) Use a pin or pen tip to hold the reset button of your modem for 30 seconds. Note: You should see the power light blinking.
@@ -46,20 +50,20 @@ Sometimes a hard-reset can help you fix some strange problems. A hard-reset of X
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd1c2b6433.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Release your hands and wait till the power light is steady. Now try to see if your Xbox One could be connected to Xbox Live.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Change IP settings and DNS settings on Xbox Live
 
 The IP settings and DNS settings could also have an effect on the connection between your Xbox One and Xbox Live. Follow the steps here to correct it: 1) Click the Settings icon on left side of your Xbox Live. Then click**All settings**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd64c60dd4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Click**Network**. Then select**Network settings**on the right pane.
 
@@ -73,12 +77,16 @@ The IP settings and DNS settings could also have an effect on the connection bet
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd9129d434.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Now it’s back to Advanced settings. This time click**DNS settings**and set it to be**Automatic**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd976db238.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now try to connect your Xbox one to Xbox Live.
@@ -90,7 +98,7 @@ Now try to connect your Xbox one to Xbox Live.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdf18958ed.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) On Gerenal pane, set its Startup type to **Automatic** from the drop-down menu. Then click**Apply**\>**OK**to save your settings.
@@ -106,7 +114,7 @@ Go on to do the same settings for**Xbox Live Auth Manager**and**Xbox Live Game S
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fe022a60ab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Update your network adapter driver and Xbox One controller driver
@@ -115,17 +123,9 @@ Your Xbox One won’t connect to Xbox Live could also being caused by driver iss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fe3c5e3c1c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Click the **Update**  button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **Pro** version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fe7ca890f7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After updating the drivers, please restart your computer to make the new drivers take effect.
 
@@ -146,20 +146,24 @@ After updating the drivers, please restart your computer to make the new drivers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-how-to-capturing-and-saving-instagrams-transient-media/"><u>[New] How-To Capturing and Saving Instagram's Transient Media</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-ace-your-edits-youtube-studios-time-saving-secrets-revealed/"><u>[Updated] 2024 Approved Ace Your Edits YouTube Studio's Time-Saving Secrets Revealed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-audio-input-reduction-zero-price-included/"><u>2024 Approved Audio Input Reduction - Zero Price Included</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-unique-cellphone-alerts-from-popular-tiktok-music/"><u>2024 Approved Crafting Unique Cellphone Alerts From Popular TikTok Music</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-hands-on-guide-to-optimize-your-youtube-channels-with-adsense/"><u>2024 Approved Hands-On Guide to Optimize Your YouTube Channels with AdSense</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-strategize-and-succeed-a-stepwise-approach-to-impactful-reddit-sharing/"><u>2024 Approved Strategize & Succeed A Stepwise Approach to Impactful Reddit Sharing</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/first-augmented-reality-language-app-with-speech-recognition/"><u>First Augmented Reality Language App With Speech Recognition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/surface/"><u>Surfaceのビデオ再生について学ぶ：エラー原因と解消法全面解説</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-recommended-tools-for-efficiently-downloading-videos-with-flowplayer-integration/"><u>Top Recommended Tools for Efficiently Downloading Videos with Flowplayer Integration</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-facebook-video-playback-problems-across-devices/"><u>Troubleshooting Facebook Video Playback Problems Across Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-high-quality-video-converters-that-outshine-winx-dvd-ripper/"><u>Ultimate Guide to High-Quality Video Converters That Outshine WinX DVD Ripper</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-tutorial-on-moviesjoy-downloader-effortlessly-obtain-your-favorite-movies-from-moviesjoy/"><u>Ultimate Tutorial on [MoviesJoy Downloader]: Effortlessly Obtain Your Favorite Movies From MoviesJoy!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unable-to-watch-avi-videos-on-kindle-fire-learn-simple-solutions-now/"><u>Unable to Watch AVI Videos on Kindle Fire? Learn Simple Solutions Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlimited-entertainment-streaming-download-movies-and-songs-directly-from-websites/"><u>Unlimited Entertainment Streaming: Download Movies and Songs Directly From Websites</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/unveiling-social-screens-share-your-monitor-on-fb-live/"><u>Unveiling Social Screens Share Your Monitor on FB Live</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-expert-choice-list-ultimate-streaming-audio-gear/"><u>[New] Expert Choice List Ultimate Streaming Audio Gear</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-essential-guide-to-cost-free-camera-screen-recorder-software/"><u>[New] In 2024, Essential Guide to Cost-Free Camera Screen Recorder Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-fast-fixed-ways-to-scramble-youtube-watchlist-content/"><u>[New] In 2024, Fast Fixed Ways to Scramble YouTube Watchlist Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-websites-for-digital-3d-text-with-a-golden-accent/"><u>[Updated] Leading Websites for Digital 3D Text with a Golden Accent</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-wont-respond-heres-how-you-can-fix-it/"><u>Corsair Keyboard Won't Respond? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-solving-constant-usb-drive-unplugging-problems/"><u>Expert Tips for Solving Constant USB Drive Unplugging Problems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-samsung-galaxy-a34-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Samsung Galaxy A34 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-address-and-correct-timely-responsiveness-for-services-error-code-1053/"><u>How to Address and Correct Timely Responsiveness for Services (Error Code 1053)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-error-code-0xc0000098-on-windows/"><u>How to Fix Error Code 0Xc0000098 on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-malfunctioning-fingerprint-reader-on-your-lenovo-device/"><u>How to Repair a Malfunctioning Fingerprint Reader on Your Lenovo Device</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone SE (2020) Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-your-screens-resistance-to-current-input-sync-settings-solved/"><u>Overcome Your Screen's Resistance to Current Input Sync Settings – Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-setbacks-in-windows-10-version-1607-upgrade-process/"><u>Overcoming Setbacks in Windows 10 Version 1607 Upgrade Process</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/triumph-over-troublesome-nvidia-errors-fix-complete/"><u>Triumph over Troublesome NVIDIA Errors (Fix Complete)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-csgo-crash-issues-in-minutes-with-these-easy-techniques/"><u>Troubleshoot CSGO Crash Issues in Minutes with These Easy Techniques</u></a></li>
+<li><a href="https://win-premium.techidaily.com/uberwindet-bootmgr-fehlermeldung-durch-klonvorgang-in-windows-11-erfolgreich-mit-diesen-6-schritten/"><u>Überwindet BOOTMGR-Fehlermeldung Durch Klonvorgang in Windows 11 – Erfolgreich Mit Diesen 6 Schritten</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-from-concept-to-reality-best-stop-motion-apps-for-ios-and-android-devices-for-2024/"><u>Updated From Concept to Reality Best Stop Motion Apps for iOS and Android Devices for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Tecno Spark 20? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/wmi-optimization-strategies-for-enhanced-win11-speed/"><u>WMI Optimization Strategies for Enhanced Win11 Speed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Installation Hurdles for Microsoft Windows Update to Version 190 3
-date: 2024-12-02T16:25:01.266Z
-updated: 2024-12-07T19:13:55.754Z
+date: 2024-12-06T20:05:18.867Z
+updated: 2024-12-13T21:29:07.053Z
 tags:
   - win11
   - win10
@@ -56,7 +56,7 @@ You should first uninstall the printer from your computer.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae155dae8d27.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)**Confirm** to delete the printer.
@@ -81,20 +81,20 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16cce058a8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Your computer will automatically connect to your printer and install it in your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16d03d720a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Try to have a test print to see if your error disappears.
 
  This should resolve the issue. If not, we have something else you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2\. Reinstall your printer driver
@@ -111,13 +111,13 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae170cd9723f.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Check the box next to**Delete the driver software for this device** if you’re prompted, and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae17154337fb.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) After uninstalling, restart your computer and Windows will reinstall the printer driver for you.
 
@@ -144,7 +144,7 @@ Now you should reinstall your printer to your computer.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd74d18191.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**   button next to the flagged printer device to automatically download the latest driver (you can do this with the **FREE**   version), then install it in your computer.
@@ -154,7 +154,7 @@ Now you should reinstall your printer to your computer.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae1720acdb02.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart your computer, and try your printer to see if the error disappears.
@@ -178,20 +178,20 @@ Now you should reinstall your printer to your computer.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-magixs-masterpiece-an-in-depth-look-at-video-pro-x/"><u>[New] 2024 Approved Magix's Masterpiece An In-Depth Look at Video Pro X</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-earnings-explorer-what-you-get-for-watching-one-million-videos-for-2024/"><u>[New] Earnings Explorer What You Get for Watching One Million Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-locate-and-watch-vintage-facebook-moments-for-2024/"><u>[New] Locate and Watch Vintage Facebook Moments for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-impact-text-visual-effects/"><u>2024 Approved High-Impact Text Visual Effects</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-the-troublesome-windows-update-issue-code-0x8007001f/"><u>Effective Solutions for the Troublesome Windows Update Issue: Code 0X8007001f</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/epic-narrative-institute-premier-choices-for-2024/"><u>Epic Narrative Institute – Premier Choices for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-microsoft-store-not-opening-issue-solved/"><u>How to Fix Microsoft Store Not Opening Issue – Solved</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mastering-time-lapse-techniques-select-the-best-apps-for-high-speed-video-capture-at-home/"><u>Mastering Time-Lapse Techniques: Select the Best Apps for High-Speed Video Capture at Home</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-windows-11-brightness-adjustment-issues-a-step-by-step-guide/"><u>Overcoming Windows 11 Brightness Adjustment Issues – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-definitive-2024-solutions-to-overcome-pairing-problems-with-bluetooth-on-windows-11/"><u>The Definitive 2024 Solutions to Overcome Pairing Problems with Bluetooth on Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-phasmophobia-stuck-at-pre-completion-screen-as-of-202n4/"><u>Troubleshooting Guide: Fixing Phasmophobia Stuck at Pre-Completion Screen as of 202N4</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-free-mov-file-editors-the-ultimate-2023-list/"><u>Updated In 2024, Free MOV File Editors The Ultimate 2023 List</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-overcoming-device-connection-errors-during-casting/"><u>Windows 10: Overcoming Device Connection Errors During Casting</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206386076-your-invisible-sd-no-more-anxiety/"><u>Your Invisible SD? No More Anxiety!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-leading-8-software-for-linux-video-editors/"><u>2024 Approved Leading 8 Software for Linux Video Editors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-punpictures-pro-jestjokes-network/"><u>2024 Approved PunPictures Pro JestJokes Network</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-htc-u23-pro-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset HTC U23 Pro Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/amds-innovation-with-fsr-3-can-it-outperform-dlss-35/"><u>AMD's Innovation with FSR 3: Can It Outperform DLSS 3.5?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beating-windows-update-troubles-with-a-proven-cure-for-error-code-0x80240017/"><u>Beating Windows Update Troubles with a Proven Cure for Error Code 0X80240017</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/boost-your-pcs-speed-mastering-the-setup-of-hardware-acceleration-on-windows-with-expert-advice-from-yl-software/"><u>Boost Your PC's Speed: Mastering the Setup of Hardware Acceleration on Windows with Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208765679-dell-wireless-keyboard-problems-discover-proven-fixes-and-tricks/"><u>Dell Wireless Keyboard Problems? Discover Proven Fixes & Tricks!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/flow-rate-q-is-calculated-by-q-volume-time/"><u>Flow Rate (Q) Is Calculated by Q = Volume / Time.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-restoring-touchpad-scrolling-functionality-in-windows-10-computers/"><u>Guide to Restoring Touchpad Scrolling Functionality in Windows 10 Computers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flawless-tint-enhancer/"><u>In 2024, Flawless Tint Enhancer</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/la-solution-definitive-pour-configurer-une-image-systeme-portable-sur-une-cle-usb-tous-les-details-devoiles/"><u>La Solution Définitive Pour Configurer Une Image Système Portable Sur Une Clé USB : Tous Les Détails Dévoilés</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/g-your-channel-with-flair-and-individuality/"><u>Naming Your Channel with Flair and Individuality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-optimizing-windows-driver-framework-reduces-excessive-cpu-usage/"><u>Resolved: Optimizing Windows Driver Framework Reduces Excessive CPU Usage</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-lava-yuva-2-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Lava Yuva 2 Pro FRP Bypass</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208807663-urgent-fix-required-enable-local-authorization-defenses-now/"><u>Urgent Fix Required: Enable Local Authorization Defenses Now</u></a></li>
 </ul></div>
 

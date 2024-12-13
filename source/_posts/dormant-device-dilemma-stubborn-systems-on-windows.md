@@ -1,7 +1,7 @@
 ---
 title: "Dormant Device Dilemma: Stubborn Systems on Windows"
-date: 2024-12-04T16:52:15.844Z
-updated: 2024-12-07T20:18:00.316Z
+date: 2024-12-06T20:09:56.312Z
+updated: 2024-12-13T16:17:08.874Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6 fixes for Windows 11 or 10 won’t wake up from sleep issue
 
 **Before troubleshooting** , you might have to**LONG PRESS** the power button for your computer to completely shut down, then press the power button again for it to boot up. Be sure to always**shut down your PC the normal way** .
@@ -41,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Allow your keyboard and mouse to wake up your PC
 
  Sometimes your computer will not wake up from sleep mode simply because your keyboard or mouse has been prevented from doing so. To allow your keyboard and mouse to wake up your PC:
@@ -52,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0e0e0c5d00.jpg)
 3. Click**Power Management** and check**the box** before**Allow this device to wake the computer** and then click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0e19bdf16d.png)
 4. Repeat this fix with your other keyboard devices
@@ -77,12 +73,12 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Put your machine to sleep and wake it up again to check if the issue is resolved. If yes, then congrats! If the problem persists, please move on to**Fix 3** , below.
 
@@ -96,18 +92,22 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure **the box** before **Turn on fast startup (Recommended)** is **unchecked** , then click **Save changes** and close the window.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
@@ -117,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Re-enable hibernation
 
  Hibernation is another power-saving mode in our Windows but it’s also known to interfere with the sleep mode and cause the **computer will not wake up from sleep mode in Windows 10** **or 11** problem. So we can try to disable and enable the feature to see if it fixes the issue. Here’s how:
@@ -129,15 +125,15 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/cmd123.jpg)  
  Click**Yes** when prompted with a**User Account Control** window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Type **powercfg.exe /hibernate off && powercfg.exe /hibernate on** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/power.png)
 3. Again, try to put your PC to sleep and wake it up to see if it functions properly. If yes, then you’ve resolved the issue! If it’s still not waking up, you should try**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Tweak power settings
 
@@ -145,18 +141,22 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0e5db4f467.png)
 2. Click**the chosen power plan** and click**Change plan settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0e616c565c.jpg)
 4. Double-click on**Sleep** , then set**Allow hybrid sleep** in**Off** and set**Allow wake timers** to**Enable** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/computer-wake-up-1.png)
 5. Click**Apply** \>**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Restart your computer, test on your machine again and see if it wakes up without fail.
 
@@ -198,17 +198,22 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-deciphering-intermittent-stoppages-in-photobooth-videos/"><u>[Updated] 2024 Approved Deciphering Intermittent Stoppages in Photobooth Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-pro-timer-swiftest-time-lapse-device-for-2024/"><u>[Updated] Pro Timer Swiftest Time-Lapse Device for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029337508-windows7/"><u>「長時間にわたり Windows7 画面動画化のステップ」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726030308789-mp4ts/"><u>【もらえないでしょうか、お手数をおかけします】MP4ビデオをTSフォーマットに無料変換する詳細ガイド</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-spotlight-on-windows-11-innovations/"><u>2024 Approved Spotlight on Windows 11 Innovations</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-transform-viewing-habits-the-top-6-choices-for-cost-free-and-online-short-film-downloads/"><u>2024 Approved Transform Viewing Habits The Top 6 Choices for Cost-Free & Online Short Film Downloads</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-alternative-methods-in-windows-exploration-no-ls/"><u>Deciphering Alternative Methods in Windows Exploration (No LS)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/get-american-idol-hits-no-cost-compatible-with-mobile-for-on-the-go-entertainment/"><u>Get American Idol Hits - No Cost, Compatible with Mobile for On-the-Go Entertainment</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726030570507-pc/"><u>PCやスマートフォンでプロジェクト・アッシュへの撮影方法</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-vivo-v29-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo V29 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029005974-dvd2/"><u>リージョンコードが違うDVD「コード2」での問題と修正手段：見落としたポイント</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-troubleshooting-iphone-and-android-fb-messenger-stuck-on-videos/"><u>[New] Troubleshooting iPhone & Android FB Messenger Stuck on Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-adding-pizzazz-to-your-footage-with-moving-text-for-2024/"><u>[Updated] Adding Pizzazz to Your Footage with Moving Text for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-stellar-photo-alterations-frameshift-prowess-for-2024/"><u>[Updated] Stellar Photo Alterations FrameShift Prowess for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/adjusting-copy-and-paste-on-windows-to-prevent-issues/"><u>Adjusting Copy & Paste on Windows to Prevent Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/arcadegeddon-for-pc-steps-to-prevent-recurrent-system-failures-and-enjoy-uninterrupted-gameplay/"><u>Arcadegeddon for PC - Steps to Prevent Recurrent System Failures and Enjoy Uninterrupted Gameplay</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-there-word-limits-to-stay-within-when-using-chatgpt/"><u>Are There Word Limits to Stay Within when Using ChatGPT?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquering-the-failed-to-open-user-data-file-hurdle-while-reinstalling-windows-10-effective-solutions/"><u>Conquering the 'Failed to Open User Data File' Hurdle While Reinstalling Windows 10: Effective Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decode-the-mystery-solving-speaker-issues-on-windows-pcs/"><u>Decode the Mystery: Solving Speaker Issues on Windows PCs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-selection-of-prime-day-savings-leading-laptops-by-hp-apple-and-razer-at-unprecedented-prices-gadgetguru-blog/"><u>Discover the Ultimate Selection of Prime Day Savings: Leading Laptops by HP, Apple, and Razer at Unprecedented Prices | GadgetGuru Blog</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-optimizing-your-fallout-4-gaming-experience-and-fixing-lag/"><u>Expert Tips: Optimizing Your Fallout 4 Gaming Experience & Fixing Lag</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-displays-lacking-hdcp-support/"><u>How to Resolve Displays Lacking HDCP Support</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leap-into-global-chatgpt-utility-anytime-anywhere/"><u>Leap Into Global ChatGPT Utility, Anytime Anywhere</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-extracting-individual-tracks-from-a-wav-file-using-four-separate-audio-splits/"><u>Step-by-Step Guide: Extracting Individual Tracks From a WAV File Using Four Separate Audio Splits</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-5-solutions-to-resolve-werfaultexe-crashes-on-your-pc/"><u>Top 5 Solutions to Resolve WerFault.exe Crashes on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-restore-sounds-in-anthem-for-windows-10-users-a-comprehensive-guide/"><u>Troubleshoot and Restore Sounds in Anthem for Windows 10 Users: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-addressing-the-problem-what-does-a-red-x-mean-on-my-connection-icon/"><u>Understanding and Addressing the Problem: What Does a Red X Mean on My Connection Icon?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winkernel-error-41-unraveled-and-solved/"><u>WinKernel Error 41 Unraveled & Solved</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Razer Keyboard Not Glowing: Common Issues and Fixes Discovered"
-date: 2024-11-30T20:50:51.208Z
-updated: 2024-12-07T20:07:55.414Z
+date: 2024-12-07T20:48:24.845Z
+updated: 2024-12-13T18:54:41.911Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -32,17 +32,13 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 2. [**Uninstall and reinstall Razer Synapse**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Plug your keyboard in another USB port
 
  It’s probably caused by the poor connection. Plug your keyboard into another USB port and check if it does light up. If it does and everything works well, it’s your USB port that has the issue.  
  If it doesn’t light up, move to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Uninstall and reinstall Razer Synapse
@@ -57,6 +53,10 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/services.jpg)
 5. Go to C:\\Users\\Your user name\\AppData and delete any Razer folders.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Go to C:\\Program Files (x86)… or wherever you installed Synapse and delete the Razer folders.
 7. Reboot your computer.
 8. Go to the[Razer official website](https://www.razer.com/synapse-3) to download the latest version of Synapse.
@@ -65,7 +65,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 11. Plug your keyboard and check the lightening.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your driver
@@ -88,7 +88,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 4. After updating the drivers, check to see the issue is resolved or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That’s it! Hopefully, these methods can help you resolve the issue. If you have any questions or suggestions, please let us know by commenting below.
@@ -110,22 +110,22 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-no-price-no-problem-turning-twitter-vids-into-gifs/"><u>[New] In 2024, No Price, No Problem Turning Twitter Vids Into GIFs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-leading-edge-headsets-for-drone-vr-use/"><u>[New] Leading Edge Headsets for Drone VR Use</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-handheld-panorama-peacekeeper-360-stabilizer/"><u>[Updated] Handheld Panorama Peacekeeper 360° Stabilizer</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-navigating-slack-integration-with-filmora-for-seamless-video-conferences/"><u>[Updated] In 2024, Navigating Slack Integration with Filmora for Seamless Video Conferences</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-youtube-tagging-101-for-better-engagement/"><u>[Updated] In 2024, YouTube Tagging 101 for Better Engagement</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/3-leading-tools-for-swiftly-downloading-videos-from-facebook-with-ease/"><u>3 Leading Tools for Swiftly Downloading Videos From Facebook with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/5ris5a6a5zmo44ko44od44k444gn6zplusz5aow6lui5yaz6yyy6zplusz44gu44k544og44od44ox44oq44kk44k544og44od44ox44ks44kk44oj/"><u>測定器エッジで音声転写録音のステップバイステップガイド</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/6ksh5pww44gu5a2x5bmv44oi44op44od44kv44gu5lplusd5a2y5oml6acg44ks5a2m44g2/"><u>複数の字幕トラックの保存手順を学ぶ</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/6auy5zob5l2n6kej5p6q44ot44oh44kq5asj5oplusbic0g5bcc6zaa44oe44o844or44go54sh5paz44ox44ot44kw44op44og44gu5l244ge5pa5/"><u>高品位解析ビデオ変換 - 専門ツールと無料プログラムの使い方</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comparing-features-free-vs-premium-mpeg-video-converter-factory-against-factory-pro/"><u>Comparing Features: Free vs Premium - MPEG Video Converter Factory Against Factory Pro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comprehensive-tutorial-on-retrieving-and-exporting-data-from-chatgpt/"><u>Comprehensive Tutorial on Retrieving and Exporting Data From ChatGPT</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/crafting-charming-and-humorous-emoji-clips-effortlessly-using-top-rated-emoji-editors/"><u>Crafting Charming & Humorous Emoji Clips Effortlessly Using Top-Rated Emoji Editors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discover-the-best-free-mkv-editing-tools-your-ultimate-guide/"><u>Discover the Best Free MKV Editing Tools - Your Ultimate Guide!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-steps-for-seamless-dvd-ripping-and-conversion-to-divx-format/"><u>Easy Steps for Seamless DVD Ripping & Conversion to DivX Format</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/google-pixel-watch-and-apple-series-9-face-off-deciding-on-the-ultimate-smartwatch-for-you/"><u>Google Pixel Watch and Apple Series 9 Face-Off: Deciding on the Ultimate Smartwatch for You</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/1715860405019-in-2024-embedded-recorder-usage-in-huaweis-mate-series-and-the-p-lineup/"><u>In 2024, Embedded Recorder Usage in Huawei's Mate Series and the P Lineup.</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/sky-high-selfies-and-beyond-an-insightful-analysis-of-dji-spark/"><u>Sky High Selfies and Beyond An Insightful Analysis of DJI Spark</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ay-jobs-and-digital-passion-striking-a-balance-for-2024/"><u>[New] Day Jobs & Digital Passion Striking a Balance for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-crafting-the-perfect-visual-identity-podcast-covers-unveiled/"><u>[New] In 2024, Crafting the Perfect Visual Identity Podcast Covers Unveiled</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-guide-to-smooth-youtube-video-documentation/"><u>[Updated] 2024 Approved Guide to Smooth YouTube Video Documentation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-zero-to-hero-a-step-by-step-approach-to-youtube-backlinks-for-2024/"><u>[Updated] From Zero to Hero A Step-by-Step Approach to YouTube Backlinks for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-ultimate-guide-to-convert-srt-to-txt-in-minutes/"><u>2024 Approved Ultimate Guide to Convert SRT to TXT in Minutes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-blues-with-these-simple-steps-for-fixing-error-1068-in-windows/"><u>Beat the Blues with These Simple Steps for Fixing Error 1068 in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-windows-10-kb4936312-update-issue-error-code-0x80240034/"><u>How to Fix the Windows 10 KB4936312 Update Issue (Error Code: 0X80240034)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-critical-gameplay-issues-in-tom-clancys-rainbow-six-siege/"><u>Overcoming Critical Gameplay Issues in Tom Clancy's Rainbow Six Siege</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-windows-12-touchscreen-issues-with-these-five-proven-strategies/"><u>Resolve Your Windows 1^[2]^ Touchscreen Issues with These Five Proven Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-constant-usb-recognition-issues-in-windows-computers-effective-solutions-explored/"><u>Resolving Constant USB Recognition Issues in Windows Computers: Effective Solutions Explored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-fix-guide-for-windows-update-error-code-0x8024401c-on-windows-10-and-11/"><u>Resolving the Issue: Fix Guide for Windows Update Error Code 0X8024401c on Windows 10 and 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-d3d11-compatible-gpu-issue-in-windows-oses/"><u>Solving D3D11-Compatible GPU Issue in Windows OSes</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/top-choice-comprehensive-automatic-backup-software-the-best-recommendation/"><u>Top Choice: Comprehensive Automatic Backup Software - The Best Recommendation!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-kb4056892-error-for-smooth-windows-10-updates-solved/"><u>Troubleshooting the KB4056892 Error for Smooth Windows 10 Updates - Solved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-guide-solving-your-computers-constant-wi-fi-drops/"><u>Ultimate Troubleshooting Guide: Solving Your Computer's Constant Wi-Fi Drops</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlockedchatgpt-subscription-deadline-clarity/"><u>UnlockedChatGPT: Subscription Deadline Clarity</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Oppo Reno 10 5G? | Dr.fone</u></a></li>
 </ul></div>
 

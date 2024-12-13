@@ -1,7 +1,7 @@
 ---
 title: Overcoming Setbacks in Windows 10 Version 1607 Upgrade Process
-date: 2024-12-06T17:40:48.130Z
-updated: 2024-12-07T19:47:48.353Z
+date: 2024-12-09T18:36:02.458Z
+updated: 2024-12-13T16:00:56.411Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1\. Roll back your touchpad driver to an earlier version
@@ -41,20 +41,12 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2)  
 
  Find and expand**Mice and other pointing devices** dialog.  
  Then right-click on you touchpad driver to choose**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3)  
 
@@ -63,15 +55,23 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
 
@@ -85,6 +85,10 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -92,10 +96,6 @@ Then click **Device Manager**  to open it.
 **Option 2.**   Install all the correct drivers automatically in just one-go with **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . No worry to try it as it comes with a no-questions-asked **30-day money-back guarantee**  and **professional tech support**  24/7.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
 
@@ -119,22 +119,16 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-comparing-video-storage-in-64128gb-drives-for-2024/"><u>[New] Comparing Video Storage in 64/128GB Drives for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-premier-5-goggles-securing-victory-in-air-races/"><u>[New] In 2024, Premier 5 Goggles Securing Victory in Air Races</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726224234804-jpeg-movavi/"><u>迅速なJPEG形式の無料オンラインファイル変更サービス - Movavi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015024217-anthem-silent-gamers-nightmare-fix-sounds-not-working-on-windows-11-here/"><u>Anthem Silent Gamer's Nightmare? Fix Sounds Not Working on Windows 11 Here!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comparing-aiff-and-wav-audio-formats-determining-the-superior-choice-with-movavi-converter/"><u>Comparing AIFF and WAV Audio Formats - Determining the Superior Choice with Movavi Converter</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/decoding-earnings-for-content-producers-on-short-form-platform/"><u>Decoding Earnings for Content Producers on Short-Form Platform</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-network-fluctuations-in-steam-streams/"><u>Fixing Network Fluctuations in Steam Streams</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-video-converter-convert-wmv-and-wtv-files/"><u>Free Online Video Converter - Convert WMV and WTV Files</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratuito-conversor-de-imagens-para-videos-ao-vivo-formato-mp4-m2v-e-mpeg-movavi/"><u>Gratuito Conversor De Imagens Para Vídeos Ao Vivo: Formato MP4, M2V E MPEG - Movavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-extensive-appraisal-a-look-into-bublcam-360/"><u>In 2024, Extensive Appraisal A Look Into Bublcam 360</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-14-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 14 Plus When You Forget the Passcode?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/kostenloze-flv-in-mjpeg-online-converter-movavi/"><u>Kostenloze FLV-In MJPEG Online Converter - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavis-no-cost-tool-for-easy-transformation-of-ppm-images-into-png-on-the-web/"><u>Movavi's No-Cost Tool for Easy Transformation of PPM Images Into PNG on the Web</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/the-next-best-thing-youtube-studio-editing-mastery/"><u>Nail the Next Best Thing YouTube Studio Editing Mastery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/personalized-deep-link-services-from-movavi-optimize-your-affiliate-marketing-strategy/"><u>Personalized Deep Link Services From Movavi - Optimize Your Affiliate Marketing Strategy</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-division-2-game-crash-fix-fast-simple-steps-to-resolve/"><u>The Division 2 Game Crash Fix - Fast, Simple Steps to Resolve!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformez-votre-fichier-au-format-mp4-gratuitement-via-le-web-avec-movavi-asiste/"><u>Transformez Votre Fichier Au Format MP4 Gratuitement via Le Web Avec Movavi Asiste</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-next-gen-skyborne-a-deep-dive-into-h501s-x4-for-2024/"><u>[New] Next-Gen Skyborne A Deep Dive Into H501S X4 for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-finances-in-your-podcast-journey/"><u>2024 Approved Navigating Finances in Your Podcast Journey</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970605441-effortless-installation-get-the-latest-samsung-nvme-ssd-drivers-right-now/"><u>Effortless Installation: Get the Latest Samsung NVMe SSD Drivers Right Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/introducing-weightless-power-next-gen-structural-carbon-fiber-battery-technology-transforms-device-design/"><u>Introducing Weightless Power: Next-Gen Structural Carbon Fiber Battery Technology Transforms Device Design</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-the-art-of-recording-high-quality-pip-footage-with-integrated-soundtracks/"><u>Mastering the Art of Recording High-Quality PIP Footage With Integrated Soundtracks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210015030-no-more-windows-update-issues-solve-error-8007000e-in-minutes/"><u>No More Windows Update Issues - Solve Error 80#07000E in Minutes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pcm-pulse-code-modulation/"><u>PCM (Pulse Code Modulation)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/rmvb-to-avi-file-converter-web-service-no-cost-simple-and-fast-conversion-by-videoxchange/"><u>RMVB to AVI File Converter Web Service - No Cost, Simple and Fast Conversion by Videoxchange</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-rpc-server-cant-find-your-computer-issue-on-windows-step-by-step-guide/"><u>Solving the 'RPC Server Can't Find Your Computer' Issue on Windows - Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/take-charge-of-your-computer-task-manager-elevated-mode-demystified-in-win11/"><u>Take Charge of Your Computer: Task Manager Elevated Mode Demystified in Win11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-unexpected-device-powers-off-a-complete-solution-for-computer-stability-issues/"><u>Understanding Unexpected Device Powers Off: A Complete Solution for Computer Stability Issues</u></a></li>
 </ul></div>
 

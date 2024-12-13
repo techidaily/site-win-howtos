@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Your PC From Randomly Restarting on Windows 11 Devices: Expert Advice"
-date: 2024-12-06T21:07:19.119Z
-updated: 2024-12-07T20:05:40.923Z
+date: 2024-12-09T20:30:00.290Z
+updated: 2024-12-13T21:31:46.559Z
 tags:
   - win11
   - win10
@@ -41,7 +41,7 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f20f2242c5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Display** .
@@ -49,16 +49,12 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f25c04e4c2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Check if you’re able to see the TV as a second monitor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f296382361.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you can’t see your TV on the screen , follow steps below:
 
@@ -67,18 +63,18 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f2b20b8e25.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If Duplicate doesn’t work, try switching to**Extend** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bc8338cfae9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After that, check to see if Windows can detect your TV.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 2: Update the graphics driver**
@@ -103,6 +99,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e9e0ebcfe9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer and check to see if Windows 10 can now detect your TV.
 
 **TIP:** After connecting your TV via HDMI successfully, if you can’t hear sound from the output, go to [Fix HDMI No Sound in Windows 10](https://tools.techidaily.com/drivereasy/download/) for the solutions.
@@ -126,19 +126,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-advanced-settings-for-uniform-stream-lighting-for-2024/"><u>[New] Advanced Settings for Uniform Stream Lighting for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-topview-assessment-report-for-2024/"><u>[New] TopView Assessment Report for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-boosting-your-brand-on-instagram-proven-5-techniques-and-success-stories/"><u>[Updated] In 2024, Boosting Your Brand on Instagram Proven 5 Techniques & Success Stories</u></a></li>
-<li><a href="https://discover-data.techidaily.com/2024lenovo-ideapad-l3nanossd/"><u>【2024年度】Lenovo Ideapad L3nanoのSSD改良手順：最先端速度と容量</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-display-youtube-video-upgrades/"><u>2024 Approved Maximizing Display YouTube Video Upgrades</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/5-key-methods-to-optimize-your-pc-tackling-desktop-window-manager-gpu-overuse-on-windows-systems/"><u>5 Key Methods to Optimize Your PC: Tackling Desktop Window Manager GPU Overuse on Windows Systems</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/m-soundtracks-simplified-converting-from-spotify-playlists-to-youtube-music-for-2024/"><u>Custom Soundtracks Simplified Converting From Spotify Playlists to YouTube Music for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-error-messages-on-windows-11-startup/"><u>Fixing Error Messages on Windows 11 Startup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-fn-key-failure-a-guide-for-asus-notebook-users/"><u>Overcoming Fn Key Failure: A Guide for ASUS Notebook Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205768526-resolved-miracast-issues-with-graphics-driver-now-compatible/"><u>Resolved Miracast Issues with Graphics Driver - Now Compatible!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-application-failed-to-load-properly-error-code-0xc000007b/"><u>Resolved: Fixing the 'Application Failed to Load Properly' Error Code 0xC000007B</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212267703-troubled-by-logitech-g930-mic-disconnections-heres-the-solution/"><u>Troubled by Logitech G930 Mic Disconnections? Here's the Solution!</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/windowsresilio-sync/"><u>Windows用に選ばれた、Resilio Syncの究極の代替アプリケーション！</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-art-of-digitalizing-ps3-gamesplay/"><u>[New] 2024 Approved The Art of Digitalizing PS3 Gamesplay</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-elevate-streams-using-youtubes-av1-settings/"><u>[New] Elevate Streams Using YouTube's AV1 Settings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-uncovering-the-best-apps-to-transform-your-speech/"><u>[Updated] 2024 Approved Uncovering the Best Apps to Transform Your Speech</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-selecting-the-top-infinite-storage-providers/"><u>2024 Approved Selecting the Top Infinite Storage Providers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-persistent-screen-flashes-on-your-windows-10-pc/"><u>Fixing Persistent Screen Flashes on Your Windows 10 PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/from-live-streams-to-recorded-content-navigating-aiseesofts-features-for-2024/"><u>From Live Streams to Recorded Content Navigating Aiseesoft's Features for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-rid-of-annoying-usb-recognition-errors-on-windows-or-mac-devices/"><u>Getting Rid of Annoying USB Recognition Errors on Windows or Mac Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-efficiently-wipe-your-ps5s-history/"><u>How to Efficiently Wipe Your PS5's History</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-13-mini-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from Apple iPhone 13 mini</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on OnePlus Ace 2? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-fixes-overcoming-the-entry-not-located-challenge-in-windows/"><u>Mastering Fixes: Overcoming the Entry Not Located Challenge in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-hosted-network-failures-in-windows-10/"><u>Resolved: Troubleshooting Hosted Network Failures in Windows 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-harnessing-the-inking-capabilities-within-your-microsoft-office-suite/"><u>Step-by-Step Guide to Harnessing the Inking Capabilities Within Your Microsoft Office Suite</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-addressing-serious-bugs-and-crashes-in-black-ops-4/"><u>Troubleshooting Steps: Addressing Serious Bugs and Crashes in Black Ops 4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unresponsive-file-explorer-in-windows-11-effective-methods-and-tips/"><u>Troubleshooting Unresponsive File Explorer in Windows 11 – Effective Methods and Tips</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-xiaomi-13t-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Xiaomi 13T IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-the-windows-0xc0000005-blue-screen-of-death/"><u>Ultimate Guide: Resolving the Windows 0xC0000005 Blue Screen of Death</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unidentified-issue-missing-api-dll-on-pc/"><u>Unidentified Issue: Missing API DLL on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/update-graphic-card-driver-to-enable-miracast-functionality-a-fix-guide/"><u>Update Graphic Card Driver to Enable Miracast Functionality: A Fix Guide</u></a></li>
 </ul></div>
 

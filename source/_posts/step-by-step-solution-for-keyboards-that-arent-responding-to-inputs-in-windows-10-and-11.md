@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Keyboards That Aren't Responding to Inputs in Windows 10 and 11
-date: 2024-12-04T17:13:44.362Z
-updated: 2024-12-07T18:41:39.187Z
+date: 2024-12-08T17:17:50.497Z
+updated: 2024-12-13T20:47:37.404Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/6be5b234be2302864f9331a3a3d7aaacb0018bce1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/6be5b234be2302864f9331a3a3d7aaacb0018bce1
 4. **[Repair system files](#repair-system-files)**
 
 * [**Tips: Keyboard maintenance**](#tips)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Hard reset your keyboard
 
@@ -67,10 +67,6 @@ If you’re a laptop user, you could follow these steps:
 
  Now check to see if this works for you.  
  If the keys are still not working, you could move to[Fix 2](#f2) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check for hardware issues
 
@@ -113,15 +109,23 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -134,15 +138,11 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -177,22 +177,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-secrets-of-facebooks-2023-full-screen-video-settings/"><u>[New] Secrets of Facebook's 2023 Full Screen Video Settings</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-solutions-for-an-unresponsive-obs-video-source/"><u>[Updated] 2024 Approved Solutions for an Unresponsive OBS Video Source</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-beginners-ultimate-list-of-must-have-video-tech/"><u>[Updated] In 2024, Beginner's Ultimate List of Must-Have Video Tech</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-essential-techniques-in-producing-persuasive-video-testimonials/"><u>[Updated] In 2024, Essential Techniques in Producing Persuasive Video Testimonials</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-step-by-step-guide-live-broadcast-of-recorded-videos-on-fb/"><u>2024 Approved Step-by-Step Guide Live Broadcast of Recorded Videos on FB</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-resolved-overcoming-invalid-directory-name-issues-efficiently/"><u>Error Resolved: Overcoming 'Invalid Directory Name' Issues Efficiently</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209243917-how-to-overcome-unexpected-shutdown-error-1067-on-your-windows-pc-now-solved/"><u>How to Overcome Unexpected Shutdown (Error 1067) on Your Windows PC - Now Solved!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-htc-u23-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-skyrocket-sales-traffic-with-the-15-cutting-edge-facebook-gadgets/"><u>In 2024, Skyrocket Sales Traffic with the 15 Cutting-Edge Facebook Gadgets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/insufficient-disk-space-resolving-not-enough-storage-errors/"><u>Insufficient Disk Space: Resolving 'Not Enough Storage' Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-with-ease-in-win-89/"><u>Navigating with Ease in Win 8/9</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-vcruntimenont-found-error-on-your-computer-guide/"><u>The Ultimate Fix for 'VCRUNTIMENoNT Found' Error on Your Computer [GUIDE]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-error-code-39-in-optical-drives-easy-fixes-for-a-smooth-run/"><u>Troubleshooting and Resolving 'Error Code 39' In Optical Drives – Easy Fixes for a Smooth Run</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-failed-to-enumerate-objects-on-windows-11/"><u>Troubleshooting Guide: Resolving 'Failed to Enumerate Objects' On Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-handling-event-id-1000-across-various-windows-versions/"><u>Troubleshooting Steps for Handling Event ID #1000 Across Various Windows Versions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-tricks-for-locking-down-shaky-videos-across-all-devices/"><u>Ultimate Tricks for Locking Down Shaky Videos Across All Devices</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/unraveling-popularity-myths-the-real-truth-about-instagram-reels-for-2024/"><u>Unraveling Popularity Myths The Real Truth About Instagram Reels for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unveiling-the-secrets-to-producing-popular-youtube-shorts/"><u>[New] In 2024, Unveiling the Secrets to Producing Popular YouTube Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-amplify-views-effortlessly-discovering-the-best-20-youtube-techniques/"><u>[Updated] In 2024, Amplify Views Effortlessly Discovering the Best 20 YouTube Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-zoomed-into-the-core-of-action-films/"><u>[Updated] Zoomed Into the Core of Action Films</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/an-honest-appraisal-of-the-bdr-xd05b-blu-ray-burner-by-pioneer-noticing-design-challenges/"><u>An Honest Appraisal of the BDR-XD05B Blu-Ray Burner by Pioneer: Noticing Design Challenges</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-when-your-media-device-wont-connect-to-windows-system/"><u>Easy Fixes When Your Media Device Won’t Connect to Windows System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/five-effective-methods-to-optimize-dwms-gpu-use-on-windows-11-and-10-systems/"><u>Five Effective Methods to Optimize DWM's GPU Use on Windows 11 and 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-error-1067-the-process-terminated-unexpectedly-in-windows-systems/"><u>How to Fix 'Error 1067: The Process Terminated Unexpectedly' In Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-semaphore-timeout-expiration-issue-error-0x80070079/"><u>How to Fix Semaphore Timeout Expiration Issue (Error 0X80#070079)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-football-inscriptions-premier-fifa-youtube-insights/"><u>In 2024, Football Inscriptions Premier FIFA YouTube Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-beyond-chatgpts-boundaries-tips-for-surpassing-the-token-capacity-limit/"><u>Navigating Beyond ChatGPT's Boundaries: Tips for Surpassing the Token Capacity Limit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/netflix-black-screen-issue-resolved-a-step-by-step-guide-for-uninterrupted-viewing/"><u>Netflix Black Screen Issue Resolved: A Step-by-Step Guide for Uninterrupted Viewing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-complete-blackout-at-boot-sequence-for-monster-hunter-world-gamers/"><u>Resolving Complete Blackout at Boot Sequence for Monster Hunter World Gamers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/samsung-galaxy-ring-2021-review-find-out-the-price-tag-release-forecast-and-in-depth-specifications/"><u>Samsung Galaxy Ring 2021 Review – Find Out the Price Tag, Release Forecast & In-Depth Specifications</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-resolve-user-profile-service-couldnt-log-in/"><u>Troubleshooting Guide: How to Resolve 'User Profile Service Couldn't Log In.'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-unfreezing-a-stuck-computer-mouse-button/"><u>Troubleshooting Tips: Unfreezing a Stuck Computer Mouse Button</u></a></li>
+<li><a href="https://fox-http.techidaily.com/understanding-transient-suppression-via-audacity-for-2024/"><u>Understanding Transient Suppression via Audacity for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning-for-2024/"><u>Updated The Ultimate Guide to Learning All the Details About Voice Cloning for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/upgrade-your-windows-experience-with-officially-installed-sony-vaio-drivers-heres-how/"><u>Upgrade Your Windows Experience with Officially Installed Sony VAIO Drivers - Here's How!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-replicating-text-fails/"><u>Windows 11: Replicating Text Fails</u></a></li>
 </ul></div>
 

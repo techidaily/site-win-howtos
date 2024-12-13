@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Troubleshooting Guide: Solving Your Computer's Constant Wi-Fi Drops"
-date: 2024-12-06T21:04:53.907Z
-updated: 2024-12-07T19:41:08.843Z
+date: 2024-12-07T21:59:09.602Z
+updated: 2024-12-13T17:07:57.484Z
 tags:
   - win11
   - win10
@@ -39,16 +39,12 @@ thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a
 
  1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)  and **R**  at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type **C:\\Windows\\System32\\drivers\\etc**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3567542f7b.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **hosts** . Then right-click on it to select **Delete** .
@@ -57,39 +53,39 @@ thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a
 
  4) Restart your Chrome and go to the website to see if successfully.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Clear your SSL state
 
  Sometimes the SSL state would block the SSL connection. Go with these steps to clear your SSL state:
 
  1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)  and **R**  at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **control**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35a29d09e6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Network and Internet**  in the**Category**  section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35ad5a4675.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click **Network** **and Sharing Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35b2a96e3d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click**Internet** **Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35c7a40df1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Click **Clear SSL state**  in **Content** .
 
@@ -103,15 +99,7 @@ thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35e0d12a4a.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  9) Restart your Chrome and go to the website to see if successfully.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Disable the QUIC protocol on your Chrome
 
@@ -129,7 +117,15 @@ thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c361a426aaa.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Restart your Chrome and go to the website to see if successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 5: Check the website in your Firewall
 
@@ -143,19 +139,23 @@ Restart your Chrome and go to the website to see if successfully.
 
 To check if a website is secure:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 1: See its URL
 
  Over a secure connection, the address should begin with **https** (note the **s**  at the end).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Way 2: See the security status on the address bar of Chrome
 
 To the left of the website address, check the security status:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3858db33d0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Besides **Secure** , the secure status can also be
 
@@ -178,24 +178,22 @@ To the left of the website address, check the security status:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-creating-a-softer-focus-iphone-image-blurring-explained/"><u>[Updated] 2024 Approved Creating a Softer Focus IPhone Image Blurring Explained</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-explore-best-asmr-apps-both-sides-of-the-os/"><u>[Updated] 2024 Approved Explore Best ASMR Apps, Both Sides of the OS</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-fun-on-faces-a-comprehensive-guide-to-cartoon-snaps/"><u>[Updated] In 2024, Fun on Faces A Comprehensive Guide to Cartoon Snaps</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-workings-of-drones-an-introduction-for-beginners-for-2024/"><u>[Updated] The Workings of Drones An Introduction for Beginners for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/5ycl5lq65oof5acx5lplusd6k235qmf6io944ks5ykz44gi44gf5lplush6ac85ocn44gu44gc44kl44oe44or44ob44oh44oh44kj44ki44k944ov44oi44km44kn44kiic0g44og44o844o044kh44o04419/"><u>個人情報保護機能を備えた信頼性のあるマルチメディアソフトウェア - ムーヴァヴィ</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/202310/"><u>音声編集入門者必見！無料ツールが選ばれる【2023年版】トップ10リスト</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/as-melhores-ferramentas-de-edicao-livre-de-video-top-10-em-2024-guia-completo/"><u>As Melhores Ferramentas De Edição Livre De Vídeo Top 10 Em 2024: Guia Completo</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/come-rimuovere-i-graffiti-dalle-immagini-con-il-tuo-editor-di-fotografie/"><u>Come Rimuovere I Graffiti Dalle Immagini Con Il Tuo Editor Di Fotografie</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convert-your-mov-videos-into-3gpp-format-for-free-using-movavis-service/"><u>Convert Your MOV Videos Into 3GPP Format for Free Using Movavi's Service</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/demystifying-screencasts-an-in-depth-movavi-step-by-step-resource-guide/"><u>Demystifying Screencasts: An In-Depth Movavi Step-by-Step Resource Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-major-websites-for-engagement-facebook-twitter-instagram-and-youtube/"><u>Exploring Major Websites for Engagement: Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-amazing-world-of-wonder-workshops-dash-a-comprehensive-product-evaluation/"><u>Exploring the Amazing World of Wonder Workshop's Dash - A Comprehensive Product Evaluation</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-online-conversion-of-f4v-to-wmv-format-using-movavi/"><u>Free Online Conversion of F4V to WMV Format - Using Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavis-kostenlose-wav-in-mp3-online-konvertierungstool-fur-schnelle-und-einfache-musiktransformationen/"><u>Movavi's Kostenlose WAV in MP3 Online Konvertierungstool Für Schnelle Und Einfache Musiktransformationen</u></a></li>
-<li><a href="https://media-tips.techidaily.com/no-hacks-required-a-comprehensive-tutorial-on-iphone-screen-recording/"><u>No Hacks Required: A Comprehensive Tutorial on iPhone Screen Recording</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ritocchi-online-gratuiti-da-gif-a-flv-usando-movavi-esegui-la-conversione-senza-costi-aggiuntivi/"><u>Ritocchi Online Gratuiti: Da GIF a FLV Usando Movavi - Esegui La Conversione Senza Costi Aggiuntivi</u></a></li>
-<li><a href="https://article-helps.techidaily.com/smilescreen-simple-steps-for-video-making-for-2024/"><u>SmileScreen Simple Steps for Video Making for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/upgrade-your-computer-memory-to-megabytes-per-gallon-free-moveit/"><u>Upgrade Your Computer Memory to Megabytes per Gallon Free - MoveIt</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-time-saving-tricks-for-powerpoint-projections-for-2024/"><u>[New] Time-Saving Tricks for PowerPoint Projections for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-ingredients-to-inspiration-cooking-videos/"><u>2024 Approved From Ingredients to Inspiration Cooking Videos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comparison-of-ipad-pro-and-macbook-pro-unveiling-key-distinctions/"><u>Comparison of iPad Pro and MacBook Pro: Unveiling Key Distinctions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dvd-winx-dvd-ripper-for-mac/"><u>DVDコピーガードを解除: WinX DVD Ripper for Mac - 初心者向け無料ガイド付き</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-for-resolving-spacebar-malfunctions-in-microsofts-latest-operating-system-windows-11/"><u>Expert Advice for Resolving Spacebar Malfunctions in Microsoft's Latest Operating System, Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-why-isnt-my-shortcut-key-combo-shiftpluss-active-in-windows-solutions-for-win11win10-users/"><u>Expert Advice: Why Isn't My Shortcut Key Combo (Shift+S) Active in Windows? Solutions for Win11/Win10 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-windows-11-sluggish-closure-problem-complete-solution/"><u>Fix Your Windows 11 Sluggish Closure Problem – Complete Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-problem-when-your-mouse-cursor-goes-missing-on-windows-10/"><u>Fixing the Problem: When Your Mouse Cursor Goes Missing on Windows 10?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-audio-quality-on-a-damaged-logitech-g930-microphone-cut-out/"><u>How to Restore Audio Quality on a Damaged Logitech G930 Microphone Cut Out</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-grappling-giants-twitch-triumph-or-hitbox-heroics/"><u>In 2024, Grappling Giants Twitch Triumph or Hitbox Heroics?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-superior-2-written-by-robert-littell/"><u>In 2024, Superior 2 Written by Robert Littell</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/navigating-the-challenges-of-remote-podcasting/"><u>Navigating the Challenges of Remote Podcasting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-simple-solutions-resolving-a-sluggish-keyboard/"><u>Quick & Simple Solutions: Resolving a Sluggish Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/strategies-for-overcoming-msvcp140dll-absence/"><u>Strategies for Overcoming MSVCP140.dll Absence</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transform-your-movies-tips-for-amazing-slow-motion-on-android-phones/"><u>Transform Your Movies Tips for Amazing Slow Motion on Android Phones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205520955-trouble-with-server-connections-heres-your-step-by-step-repair-manual/"><u>Trouble with Server Connections? Here's Your Step-by-Step Repair Manual</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-motorola-moto-g73-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Motorola Moto G73 5G fingerprint</u></a></li>
 </ul></div>
 

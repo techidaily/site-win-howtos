@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Why Minecraft Is Not Starting on Your Windows PC"
-date: 2024-12-02T21:41:42.850Z
-updated: 2024-12-07T19:48:24.393Z
+date: 2024-12-06T19:15:43.466Z
+updated: 2024-12-13T19:07:06.158Z
 tags:
   - win11
   - win10
@@ -30,15 +30,15 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 1: Check if the device itself is faulty**
 
  If the USB device was working before you upgraded to Windows 10, it’s unlikely to be faulty. But coincidences do occur. It’s certainly_possible_ that your device just happened to die right at the same time that you upgraded Windows. So it’s best to rule that possibility out for sure before spending time on more complex troubleshooting.
 
  To check if the USB device is faulty, simply unplug it (‘Eject’ it if it’s a USB storage device) and plug it into another computer. If it works, the device is fine. If it doesn’t, then you’ve isolated the problem! You just need to buy a replacement.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 2: Check your power supply (laptop only)**
 
@@ -62,17 +62,21 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Expand the**Universal Serial Bus controllers** branch
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double-click the first **USB Root Hub** device in the list (if you see only one USB Root Hub device, that’s fine)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click the **Power Management**  tab  
 
@@ -82,21 +86,9 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342dd22bb58.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Repeat steps 3-5 for each  USB Root Hub device in your list of Universal Serial Bus controllers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 4: Check your USB device drivers**
 
@@ -112,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594841d4c15c1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -120,6 +116,10 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 5: Check your USB ports**
 
@@ -142,21 +142,21 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-quick-quirks-lasting-impact-fast-track-to-fame-with-9gag-memes/"><u>[New] 2024 Approved Quick Quirks, Lasting Impact Fast Track to Fame with 9GAG Memes</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-powerpoint-to-video-best-practices-with-webcams-now/"><u>[New] In 2024, PowerPoint to Video Best Practices with Webcams, Now</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastery-start-essence-of-storyline-development/"><u>[New] Mastery Start Essence of Storyline Development</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1-best-sources-to-discover-authentic-unscripted-japanese-programs/"><u>1. Best Sources to Discover Authentic Unscripted Japanese Programs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1-easy-guide-transforming-your-mp4-files-into-high-quality-xvid-video-format-using-windows/"><u>1. Easy Guide: Transforming Your MP4 Files Into High-Quality Xvid Video Format Using Windows</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/einfache-schritte-zur-synchronisation-von-mac-ordnern-mit-google-drive/"><u>Einfache Schritte Zur Synchronisation Von Mac-Ordnern Mit Google Drive</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-it-when-yahoo-mail-is-not-receiving-emails/"><u>How to Fix It When Yahoo Mail Is Not Receiving Emails</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-yoga-pro-9i-unveiled-slender-frame-meets-responsive-touchpad/"><u>Lenovo Yoga Pro 9I Unveiled: Slender Frame Meets Responsive Touchpad</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/snippets-from-cinema-to-skillful-editors-arsenal-for-2024/"><u>Snippets From Cinema to Skillful Editors' Arsenal for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-correcting-error-0xc10100be-in-videos/"><u>Troubleshooting Guide for Correcting Error 0xC10100BE in Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-regional-restrictions-in-dvd-film-viewing/"><u>Troubleshooting Regional Restrictions in DVD Film Viewing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-efficiently-combining-mp3-tracks-on-windows-1011/"><u>Ultimate Guide: Efficiently Combining MP3 Tracks on Windows 10/11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-transforming-your-videos-into-itunes-compatible-format-with-youtube-conversion-masterclass/"><u>Ultimate Guide: Transforming Your Videos Into iTunes Compatible Format with YouTube Conversion Masterclass</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-index-downloading-your-preferred-chime-files-for-2024/"><u>Ultimate Index Downloading Your Preferred Chime Files for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/vlog-like-a-pro-10-essential-editing-apps-for-mobile-creators/"><u>Vlog Like a Pro 10 Essential Editing Apps for Mobile Creators</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/youtube-video-instagram/"><u>YouTube Video 公開経由 Instagramへのアップロード方法</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-picsart-app-insights-comprehensive-review-and-walkthrough/"><u>[New] 2024 Approved PicsArt App Insights Comprehensive Review and Walkthrough</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-cross-platform-chrome-leveraging-pip-features-for-2024/"><u>[New] Cross-Platform Chrome Leveraging PIP Features for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-increasing-visibility-with-strategic-reddit-posts/"><u>[Updated] Increasing Visibility with Strategic Reddit Posts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-leading-thermal-pastes-for-computers-tested-and-ranked-discover-your-top-picks/"><u>2024'S Leading Thermal Pastes for Computers Tested and Ranked - Discover Your Top Picks</u></a></li>
+<li><a href="https://facebook.techidaily.com/boosting-productivity-on-facebook-using-shortcuts/"><u>Boosting Productivity on Facebook Using Shortcuts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-how-students-can-save-with-youtube-premium-subscriptions/"><u>Discover How Students Can Save with YouTube Premium Subscriptions</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-motorola-moto-g-stylus-5g-2023-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Motorola Moto G Stylus 5G (2023) Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-to-fix-lenovo-functional-key-failures-step-by-step-tips/"><u>Easy Solutions to Fix Lenovo Functional Key Failures - Step-by-Step Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lsa-defense-back-online-secure-your-computer-today/"><u>LSA Defense Back Online: Secure Your Computer Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-fix-for-windows-11-update-error-understanding-and-solving-0x80240034/"><u>Master the Fix for Windows 11 Update Error: Understanding and Solving 0X80240034</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp3-dvd-iso/"><u>MP3への変換: DVD-ISOファイルから簡単な手順</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/optimal-screen-record-settings-for-facetime-conversations-for-2024/"><u>Optimal Screen Record Settings for FaceTime Conversations for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-constant-recycle-problem-on-your-windows-11-pc/"><u>Resolving the Constant Recycle Problem on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-what-to-do-when-ie-fails-to-load-pages/"><u>Solution Guide: What To Do When IE Fails to Load Pages</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-resolving-boot-issues-on-laptops-and-desktops/"><u>Troubleshooting Guide for Resolving Boot Issues on Laptops and Desktops</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204262003-usb-mouse-not-working-on-laptop-try-these-fixes/"><u>USB Mouse Not Working on Laptop? Try These Fixes!</u></a></li>
 </ul></div>
 

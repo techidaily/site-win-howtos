@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Chrome Plugin Failures: A Guide for Windows 11 Operating System"
-date: 2024-12-02T16:31:04.009Z
-updated: 2024-12-07T17:21:17.067Z
+date: 2024-12-10T19:08:36.852Z
+updated: 2024-12-13T17:01:05.762Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 fixes for C**omputer Won’t Shut Down**
 
  All the fixes below work in**Windows 10** . You don’t have to try all of them; just work your way down until this**computer won’t shut down** problem is resolved.
@@ -36,6 +32,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. **[Turn off fast startup](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -50,6 +50,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -68,21 +72,21 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
@@ -98,18 +102,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
-4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
+4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -153,22 +154,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-slide-show-collections-10-places-to-download-high-quality-designs/"><u>[New] 2024 Approved Top Slide Show Collections 10 Places to Download High-Quality Designs</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-lead-the-pack-identifying-the-best-facebook-timetabling-software/"><u>[New] In 2024, Lead the Pack Identifying the Best Facebook Timetabling Software</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-amplify-your-online-influence-with-these-best-5-youtube-marketing-techniques/"><u>[Updated] 2024 Approved Amplify Your Online Influence with These Best 5 YouTube Marketing Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726028486231-youtube2/"><u>「YouTubeで聴いた曲をダウンロードするシンプル2コツ」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726027955099-fc2/"><u>無料で安全に保存! FC2動画のダウンロードテクニックを学ぶ</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/fitbit-versa-lite-assessed-premium-fitness-features-at-an-economical-price-point/"><u>Fitbit Versa Lite Assessed: Premium Fitness Features at an Economical Price Point</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-galaxy-a05s-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Galaxy A05s?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-12-pro-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from 12 Pro 5G?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-craft-your-own-story-the-top-5-instagram-tips-for-aspiring-social-stars/"><u>In 2024, Craft Your Own Story The Top 5 Instagram Tips for Aspiring Social Stars</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-maximizing-engagement-avoiding-common-youtube-thumbnail-errors/"><u>In 2024, Maximizing Engagement Avoiding Common YouTube Thumbnail Errors</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-corporate-communication-with-gpt/"><u>Mastering Corporate Communication with GPT</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-eliminate-lag-in-vlc-subtitles-seamlessly/"><u>Troubleshooting Steps to Eliminate Lag in VLC Subtitles Seamlessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-list-of-myspace-video-extractors-find-the-best-free-tools-for-mp4mp3-conversion/"><u>Ultimate List of MySpace Video Extractors: Find the Best FREE Tools for MP4/MP3 Conversion</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlock-hd-video-conversion-with-factory-pros-exclusive-one-week-promo-now-closed/"><u>Unlock HD Video Conversion with Factory Pro's Exclusive One-Week Promo – Now Closed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11vob/"><u>Windows 11のVOBファイルプレーヤーとして機能する手順</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726028621251-wmamp38/"><u>WMAからMP3への無料変換ツールトップ8推薦 - 優れた品質</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726028256705-pc/"><u>ビデオ会議を撮影するための手っ取り早いPCとスマートフォン向けガイド</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-pioneering-the-future-workplace-through-virtual-tech/"><u>[Updated] 2024 Approved Pioneering the Future Workplace Through Virtual Tech</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-dive-into-picsart-comprehensive-analysis-release/"><u>[Updated] Dive Into PicsArt - Comprehensive Analysis Release</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210643527-9781608688395-conversations-with-the-zs-book-one/"><u>Conversations with the Z’s, Book One | Free Book</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/enhanced-window-recording-made-simple-with-spring-for-2024/"><u>Enhanced Window Recording Made Simple with Spring for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-a-broken-connection-how-to-get-your-usb-mouse-working-again/"><u>Fix a Broken Connection: How to Get Your USB Mouse Working Again</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-max-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Max Passcode Screen?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-smooth-gameplay-in-minecraft-fix-those-irritating-lag-issues/"><u>Mastering Smooth Gameplay in Minecraft: Fix Those Irritating Lag Issues!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-from-concept-to-reality-10-best-music-video-making-companies-for-2024/"><u>New From Concept to Reality 10 Best Music Video Making Companies for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/screenflow-mastery-on-macos-uncovered/"><u>ScreenFlow Mastery on macOS Uncovered</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-enable-pen-and-touch-interaction-on-unresponsive-monitors/"><u>Solution Found: Enable Pen & Touch Interaction on Unresponsive Monitors</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ssential-guide-to-youtube-edits-with-premiere-pro-for-2024/"><u>The Essential Guide to YouTube Edits with Premiere Pro for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-6-solutions-for-resolving-werfaultexe-crashes-in-windows/"><u>Top 6 Solutions for Resolving werFault.exe Crashes in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstick-your-pc-effective-tips-for-handling-the-configuring-windows-hang-up/"><u>Unstick Your PC: Effective Tips for Handling the 'Configuring Windows' Hang-Up</u></a></li>
 </ul></div>
 

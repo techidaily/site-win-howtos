@@ -1,7 +1,7 @@
 ---
 title: Securing Permission From TrustedInstaller to Alter Windows System Files
-date: 2024-12-05T19:52:31.726Z
-updated: 2024-12-07T19:33:47.274Z
+date: 2024-12-09T18:10:49.174Z
+updated: 2024-12-13T18:07:35.674Z
 tags:
   - win11
   - win10
@@ -51,20 +51,16 @@ The good news is, you can fix it easily!
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
 
@@ -75,16 +71,16 @@ To do so:
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Locate and double-click on**Windows Audio** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. **Restart** your PC and check if your volume control icon works as it should.
 
@@ -100,7 +96,11 @@ To run SFC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click **Yes**   when prompted to confirm.
@@ -108,13 +108,13 @@ To run SFC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run the Playing Audio troubleshooter
 
@@ -131,7 +131,7 @@ Here’s how:
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
@@ -158,20 +158,22 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-resolving-iphone-xs-facial-recognition-hurdles/"><u>[New] 2024 Approved Resolving iPhone X's Facial Recognition Hurdles</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-pros-technique-for-consolidated-photo-and-video-upload-to-ig/"><u>[New] 2024 Approved The Pro's Technique for Consolidated Photo and Video Upload to IG</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-how-to-use-the-instagram-question-sticker/"><u>[New] In 2024, How to Use the Instagram Question Sticker?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-proven-mac-imaging-comprerante-and-comparing-5-efficient-techniques/"><u>[Updated] Proven Mac Imaging Comprerante & Comparing 5 Efficient Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mtsmp4/"><u>高速化・大量データのMTSからMP4への変換テクニック - 効率的な方法を学ぶ</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-impact-on-employment-discovering-emerging-job-roles-with-ambiguous-titles-zdnet-insights/"><u>AI's Impact on Employment: Discovering Emerging Job Roles with Ambiguous Titles | ZDNET Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-step-by-step-manual-your-ultimate-guide-to-success/"><u>Comprehensive Step-by-Step Manual: Your Ultimate Guide to Success</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>How to Detect and Remove Spyware on Apple iPhone 12 mini? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/is-av1-compatible-with-adobe-premiere-pro-for-video-file-conversion-processes/"><u>Is AV1 Compatible with Adobe Premiere Pro for Video File Conversion Processes?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-art-of-youtube-downloads-a-simple-guide-to-converting-to-mp3-audio-format/"><u>Master the Art of YouTube Downloads: A Simple Guide to Converting to MP3 Audio Format</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-amv-videos-on-your-device-tutorials-for-playback-and-conversion/"><u>Mastering AMV Videos on Your Device: Tutorials for Playback & Conversion</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-screen-recording-updated-techniques-to-record-from-crunchyroll-in-four-ways/"><u>Mastering Screen Recording: Updated Techniques to Record From Crunchyroll in Four Ways</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-video-orientation-changes-tips-for-quickly-rotating-clips-in-media-player-classic/"><u>Mastering Video Orientation Changes: Tips for Quickly Rotating Clips in Media Player Classic</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revolutionize-your-viewing-with-the-samsung-qn55q6f-the-ultimate-4k-hdr-smart-tv-review/"><u>Revolutionize Your Viewing with the Samsung QN55Q6F - The Ultimate 4K HDR Smart TV Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mtsm2ts-wmv/"><u>フリーソフトで MTS/M2TS から WMV への変換手順</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-cutting-edge-tech-tweaks-to-maximize-srs-efficiency/"><u>[Updated] Cutting-Edge Tech Tweaks to Maximize SRS Efficiency</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-maximizing-indoor-luminance-naturally/"><u>[Updated] In 2024, Maximizing Indoor Luminance Naturally</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-xs-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone XS without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/5-hotkey-hits-unlock-maximum-auto-click-potential/"><u>5 Hotkey Hits: Unlock Maximum Auto Click Potential</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-compreayers-must-have-top-10-free-passport-photo-tools-for-2024/"><u>A Compreayer's Must-Have Top 10 Free Passport Photo Tools for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-error-effective-techniques-to-get-your-minecraft-up-and-running-on-a-pc-again/"><u>Beat the Error: Effective Techniques to Get Your Minecraft Up and Running on a PC Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/end-the-endless-cycle-overcome-windows-11s-constant-restart-issue-with-ease/"><u>End the Endless Cycle: Overcome Windows 11'S Constant Restart Issue with Ease</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-and-expressing-a-comprehensible-guide-to-becoming-a-travel-videographer/"><u>Exploring & Expressing A Comprehensible Guide to Becoming a Travel Videographer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-device-not-found-error-codes-on-windows-1187/"><u>Fixing 'Device Not Found' Error Codes on Windows 11/8/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-endless-load-screens-in-skyrim-a-complete-guide/"><u>Fixing Endless Load Screens in Skyrim: A Complete Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/from-raw-audio-to-polished-masterpiece-editing-with-avidemux-2023-edition-for-2024/"><u>From Raw Audio to Polished Masterpiece Editing with Avidemux - 2023 Edition for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-dolby-theatre-audio-working-again-on-windows-11/"><u>How To Get Your Dolby Theatre Audio Working Again on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-overcome-and-fix-windows-update-error-code-0x80070643/"><u>How to Successfully Overcome and Fix Windows Update Error Code 0X80070643</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-fix-overcoming-windows-update-error-code-0x802c002e/"><u>Master the Fix: Overcoming Windows Update Error Code 0X802C002E</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-troubleshooting-fixing-windows-updateinstallation-issue-with-error-0x80/"><u>Mastering Troubleshooting: Fixing Windows Update/Installation Issue with Error 0X80</u></a></li>
+<li><a href="https://fox-info.techidaily.com/zipping-and-textifying-a-guide-to-crafting-srt-from-zip-for-2024/"><u>Zipping and Textifying A Guide to Crafting Srt From Zip for 2024</u></a></li>
 </ul></div>
 

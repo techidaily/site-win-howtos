@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Optimizing Your Fallout 4 Gaming Experience & Fixing Lag"
-date: 2024-12-06T20:17:49.082Z
-updated: 2024-12-07T19:06:39.948Z
+date: 2024-12-09T19:15:43.366Z
+updated: 2024-12-13T21:18:39.575Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ You may encounter an error with a code of **1603** when you are attempting to in
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1) Change installation location
 
 You may encounter an error 1603 because the installation location is you choose is not available due to various reasons — such as being encrypted. You can use another installation folder to install the program and see if the error is gone.
@@ -34,21 +38,17 @@ If you have previously installed the same program (or its earlier version), the 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9bf012d25.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Find and open**Programs and Features**;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9c81105c5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then you can check if the application is listed here. If it is, uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9d00544d7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3) Start and re-register Microsoft Installer service
 
@@ -56,17 +56,21 @@ There may be something going wrong with**Microsoft Installer service**and theref
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca68fd8714.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **b)** Find and double click on**Windows Installer**;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca70c399c1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **c)** Hit**Start**button under**Service status**and hit**OK**. (If its service status is**running**, you should click on**Stop**first and then hit**Start**.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca7cbbdf36.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**msiexec /unregister**_” and hit**Enter**.
 
@@ -76,15 +80,15 @@ To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**m
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9952ad21.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4) Acquire full permissions on the drive for installation
 
 It is possible that the error 1603 occurs because you don’t have**full permissions**on the file location. Try getting the permissions on the drive you are installing your application to and see if this fixes the problem.**a)** Open**File Explorer**, right click on the drive containing the installation location and select**Properties**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cac402cfce.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **b)** Go to**Security**tab and click on**Edit**.
 
@@ -99,28 +103,24 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb3cf25a0c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **e)** Click on**Change Permissions**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb5c235c54.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **f)** On**Permissions**tab, double click on**Administrators**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb67382950.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **g)** Select**This folder, subfolders and files**for**Applies to**field and**tick** **all the available basic permissions**. After that hit**OK**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb7074c180.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **h)** Do the same operation above for**SYSTEM**.
 
@@ -145,18 +145,18 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-art-of-visual-storytelling-for-online-platforms/"><u>[New] In 2024, The Art of Visual Storytelling for Online Platforms</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-recover-eyes-only-snaps-a-step-by-step-guide/"><u>[Updated] How to Recover Eyes-Only Snaps A Step-by-Step Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-mastering-vocal-alteration-in-free-fire-complimentary-tips-for-2024/"><u>[Updated] Mastering Vocal Alteration in Free Fire Complimentary Tips for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-obs-or-wirecast-your-ultimate-guide-to-broadcast-software-for-2024/"><u>[Updated] OBS or Wirecast? Your Ultimate Guide to Broadcast Software for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavi-m4vmp3-movavi/"><u>免費在線Movavi 影片編解碼器，改變M4V到MP3 - 學名: Movavi 動手嘗試</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-poco-x5-pro-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Poco X5 Pro</u></a></li>
-<li><a href="https://fox-info.techidaily.com/discovering-vr-a-concise-explanation-for-all/"><u>Discovering VR A Concise Explanation for All</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/entendiendo-los-terminos-y-condiciones-de-la-aplicacion-gratis-de-descuentos-moovvi/"><u>Entendiendo Los Términos Y Condiciones De La Aplicación Gratis De Descuentos Moovvi</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/inside-look-how-the-amazon-fire-tv-cube-revolutionizes-streaming-speeds-for-viewers/"><u>Inside Look: How the Amazon Fire TV Cube Revolutionizes Streaming Speeds for Viewers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavi-video-editing-software-for-enterprises-professional-screen-recording-and-movie-editing-tool/"><u>Movavi Video Editing Software for Enterprises: Professional Screen Recording & Movie Editing Tool</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/razer-barracuda-x-not-recognizing-microphone-on-windows-11-heres-how-to-solve-it/"><u>Razer Barracuda X Not Recognizing Microphone on Windows 11? Here's How to Solve It!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revolucao-em-edicao-de-video-mastering-loops-e-guias-no-movavi-video-editor/"><u>Revolução Em Edição De Vídeo: Mastering Loops E Guias No Movavi Video Editor</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transform-your-m1v-videos-into-mpeg-format-instantly-complimentary-solutions-by-movavi/"><u>Transform Your M1V Videos Into MPEG Format Instantly - Complimentary Solutions by Movavi</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-efficient-screen-recording-on-mac-utilizing-key-combos/"><u>[New] Efficient Screen Recording on Mac Utilizing Key Combos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-6-innovative-mc-house-concepts-for-community-living/"><u>[New] In 2024, 6 Innovative MC House Concepts for Community Living</u></a></li>
+<li><a href="https://video-capture.techidaily.com/game-on-6-efficient-techniques-for-perfect-pc-snapshots/"><u>Game On 6 Efficient Techniques for Perfect PC Snapshots</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-destructive-fatal-glitch-causing-halo-4-ue4-game-crashes-edition/"><u>How to Fix the Destructive Fatal Glitch Causing Halo 4 UE4 Game Crashes Edition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pathway-to-get-your-hands-on-movie-maker-6/"><u>In 2024, Pathway to Get Your Hands on Movie Maker 6</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/price-benchmarking-top-value-in-cloud-services-for-2024/"><u>Price Benchmarking Top Value in Cloud Services for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-pathway-from-mp3s-to-widespread-audio-cds-using-imgburn-windows/"><u>Simplified Pathway From Mp3s to Widespread Audio CDs Using ImgBurn (Windows)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/software-tweaks-versus-complete-revamps/"><u>Software Tweaks Versus Complete Revamps</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/solutions-for-activating-the-elusive-windows-11-cant-switch-insider-channel-issue/"><u>Solutions for Activating the Elusive Windows 11 'Can't Switch' Insider Channel Issue</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-tutorial-on-employing-microsoft-excels-count-feature-for-effective-data-analysis/"><u>The Ultimate Tutorial on Employing Microsoft Excel's COUNT Feature for Effective Data Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208048641-trouble-free-fixes-for-a-laptop-that-wont-hold-a-charge-expert-advice-inside/"><u>Trouble-Free Fixes for a Laptop That Won't Hold A Charge: Expert Advice Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-no-audio-output-device-message-on-windows-11/"><u>Troubleshooting Guide: Resolving 'No Audio Output Device' Message on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-solutions-fixing-steam-server-connectivity-issues/"><u>Troubleshooting Solutions: Fixing Steam Server Connectivity Issues</u></a></li>
 </ul></div>
 

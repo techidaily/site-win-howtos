@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing a Nonfunctional Microphone on Your Laptop - Solved"
-date: 2024-12-04T21:40:25.536Z
-updated: 2024-12-07T17:11:12.151Z
+date: 2024-12-08T20:39:22.190Z
+updated: 2024-12-13T20:29:25.902Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
  After restarting, check to see if the keyword works again. If it’s still not working, try[Method 2](#method4) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Update the driver
 
  Your Lenovo keyboard not working problem is probably being caused by driver issues. The steps above may resolve it, but if they don’t, try to update the keyboard driver for your Lenovo laptop.
@@ -54,32 +58,24 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c3bbe03c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**   button next to the flagged keyboard device name to automatically download the correct version of those driver, then you can manually it install it (you can do this with the FREE version).
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c508fb30.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  4) Restart your laptop, and check to see if your keyboard works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3: Press the problem keys diagonally
 
  This method may work for some specific keys no working on your Lenovo laptop keyboard. To fix the issue, press the keys associated with the problem diagonally (lower left side of the button) for a couple of seconds. This may do the trick for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Remove the battery and the power cable
 
@@ -101,21 +97,17 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874ae59063e3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**System protection** in left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874af17efd1d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Click **System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f0301145.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click**Next** .
 
@@ -129,9 +121,17 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784fcae60ab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) Click**Yes** to confirm the restore.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784ffa10af0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 9) Reboot your PC for the changes to take effect.
 
@@ -155,24 +155,18 @@ If you have no idea how to do a system restore, refer steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-instantly-start-youtube-videos-on-your-facebook-timeline/"><u>[New] 2024 Approved Instantly Start YouTube Videos on Your Facebook Timeline</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-dive-into-history-the-definitive-list-of-student-friendly-channels-1-10/"><u>[New] A Dive Into History The Definitive List of Student-Friendly Channels #1-10</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-strategies-to-overcome-unseen-tiktok-limitations/"><u>[Updated] Strategies to Overcome Unseen TikTok Limitations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unraveling-the-value-of-stability-in-photoshop-shake-reduction/"><u>[Updated] Unraveling the Value of Stability in Photoshop Shake Reduction</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/2024-movavi-12/"><u>2024에 가장 좋은 비디오 조작소 검색팁: Movavi - 상위 12개</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-boutique-online-portals-for-individualized-gift-artistry/"><u>Best Boutique Online Portals for Individualized Gift Artistry</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convert-jp2-files-to-tiff-format-for-free-with-movavis-web-service/"><u>Convert JP2 Files to TIFF Format for Free with Movavi's Web Service</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/core-understanding-of-narrative-frameworks/"><u>Core Understanding of Narrative Frameworks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-raf-to-jpeg-converter-movavi-no-cost-easy-upload/"><u>Free Online RAF to JPEG Converter - Movavi: No Cost, Easy Upload</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guia-passo-a-passo-conectando-o-seu-computador-ao-gravador-de-dvd-usando-movavi/"><u>Guia Passo a Passo: Conectando O Seu Computador Ao Gravador De DVD – Usando Movavi</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-sony-xperia-5-v-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Sony Xperia 5 V Activity | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/masterize-a-personalizacao-da-resolucao-do-video-descubra-as-9-ferramentas-inigualaveis/"><u>Masterize a Personalização Da Resolução Do Video - Descubra as 9 Ferramentas Inigualáveis</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/merging-multiple-mp4-videos-quickly-an-easy-guide-for-smooth-editing/"><u>Merging Multiple MP4 Videos Quickly: An Easy Guide for Smooth Editing</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/optimal-voice-capture-systems-reviewed-top-7-2023/"><u>Optimal Voice Capture Systems Reviewed Top 7 2023</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tecnicas-expertas-para-invertir-videos-los-10-mas-eficaces-online-y-offline/"><u>Técnicas Expertas Para Invertir Vídeos: Los 10 Más Eficaces Online Y Offline</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformer-gratuitement-un-fichier-ogv-en-format-ogg-sur-internet-avec-ease-movavi/"><u>Transformer Gratuitement Un Fichier OGV en Format OGG Sur Internet Avec Ease - Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-image-enlargement-and-reduction-the-top-six-methods/"><u>Windows 11 Image Enlargement and Reduction – The Top Six Methods</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wmv-mpg-movavi/"><u>WMV 및 MPG 파일을 원격 내부로 제공 무료 전환기 - Movavi</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-behind-the-scenes-10-underrated-aspects-of-reels-on-instagram/"><u>[New] 2024 Approved Behind the Scenes 10 Underrated Aspects of Reels on Instagram</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-easy-iphonesideways-capturing-the-moment-for-2024/"><u>[New] Easy iPhonesideways Capturing the Moment for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-dominate-discussion-how-to-trend-on-social-media-platforms/"><u>[Updated] 2024 Approved Dominate Discussion How to Trend on Social Media Platforms</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-perfect-tape-mac-based-recording/"><u>[Updated] 2024 Approved Perfect Tape Mac-Based Recording</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-secure-mobile-messaging-made-simple-with-these-10-best-free-chat-services-on-iphoneandroid/"><u>[Updated] Secure Mobile Messaging Made Simple with These 10 Best Free Chat Services on iPhone/Android</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/enhance-video-engagement-pinnacle-techniques-in-zoom-editing-for-2024/"><u>Enhance Video Engagement Pinnacle Techniques in Zoom Editing for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-update-or-download-hp-officejet-pro-specific-modelnumber-printer-drivers-on-windows-1087/"><u>How to Easily Update or Download HP OfficeJet Pro ([Specific Model/Number]) Printer Drivers on Windows 10/8/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-pairing-with-windows-10-solutions-to-fix-persistent-bluetooth-connections/"><u>Master Pairing with Windows 10: Solutions to Fix Persistent Bluetooth Connections</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-torrent-download-failures-effective-strategies-and-solutions/"><u>Overcoming Torrent Download Failures: Effective Strategies and Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-based-minecraft-startup-problems-a-step-by-step-guide-solved/"><u>Solving Windows-Based Minecraft Startup Problems: A Step-by-Step Guide [SOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-solutions-for-fixing-excessive-cpu-use-by-svchostexe-on-windows-11-systems/"><u>Top Solutions for Fixing Excessive CPU Use by svchost.exe on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-reactivating-wireless-connectivity-on-devices/"><u>Troubleshooting Guide: Reactivating Wireless Connectivity on Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/zipping-to-captions-direct-method-for-srt-file-creation/"><u>Zipping to Captions Direct Method for .Srt File Creation</u></a></li>
 </ul></div>
 

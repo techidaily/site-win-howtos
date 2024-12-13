@@ -1,7 +1,7 @@
 ---
 title: "DIY Repair: When Your Bluetooth Mouse Won't Work on a Windows Machine"
-date: 2024-12-06T19:37:00.489Z
-updated: 2024-12-07T19:30:47.974Z
+date: 2024-12-07T17:17:18.576Z
+updated: 2024-12-13T19:47:38.519Z
 tags:
   - win11
   - win10
@@ -34,27 +34,19 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
  **Solution 2: [Re-enable your Bluetooth driver software in Device Manager](#solution2)**
  **Solution 3: [Reinstall your Bluetooth driver](#solution3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Check the status of the Bluetooth service
 
  1) **Right-click**   on the Start button to select **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
 
@@ -69,12 +61,16 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Right-click on the service again, and this time click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
@@ -84,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
  1) On your keyboard, press the **Windows logo key**  + **X**   key at the same time to open the quick-access menu.
@@ -91,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
  2)Then click **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
@@ -101,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
@@ -122,10 +126,6 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
  Alternatively, you can use a driver tool to help you. We highly recommend you use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to  automatically recognize your system and find the correct drivers for you. With its help, you can say goodbye to driver headaches and delays forever.
@@ -138,15 +138,15 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
 
  Or if you use the Pro version, click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (You get full support and a 30-day money back guarantee for the Pro version)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -175,22 +175,20 @@ thumbnail: https://thmb.techidaily.com/c45c79cad80f175d94c593fb8ff026b4aafae59d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-seamlessly-weaving-melodies-using-audacitys-features/"><u>[New] Seamlessly Weaving Melodies Using Audacity's Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-backspace-not-working/"><u>[Solved] Backspace Not Working</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-full-spectrum-analysis-the-complete-logitech-4k-webcam-review/"><u>[Updated] 2024 Approved Full Spectrum Analysis The Complete Logitech 4K Webcam Review</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-premium-video-devices-direct-headset-screens-for-2024/"><u>[Updated] Premium Video Devices Direct Headset Screens for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-action-cam-buyers-guide-affordable-high-definition/"><u>2024 Approved Action Cam Buyer’s Guide - Affordable, High Definition</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/classic-gaming-revived-in-depth-analysis-of-the-nintendo-game-and-watch-super-mario-bros-edition/"><u>Classic Gaming Revived: In-Depth Analysis of the Nintendo Game & Watch - Super Mario Bros Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-0x80004005-in-email-clients-identifying-and-correcting-the-hidden-undefined-problems-successfully/"><u>Error Code 0X80004005 in Email Clients - Identifying and Correcting the Hidden Undefined Problems Successfully</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-converter-from-mpe-to-mp4-movavi-video-converter/"><u>Free Online Converter From MPE to MP4 - Movavi Video Converter</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/grasping-the-essence-of-your-youtube-community-for-2024/"><u>Grasping the Essence of Your YouTube Community for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-7-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 7 Data From iOS iTunes Backup? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigate-past-touchpad-problems-a-comprehensive-guide-to-resolving-poor-scroll-performance/"><u>Navigate Past Touchpad Problems: A Comprehensive Guide to Resolving Poor Scroll Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-fix-lenovo-mouse-pad-issues-on-windows-10-8-and-7/"><u>Solution Guide: Fix Lenovo Mouse Pad Issues on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-windows-11-endless-restart-glitch-with-ease/"><u>Solve Your Windows 11 Endless Restart Glitch with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-boots-and-startups-resolving-windows-11-freezes/"><u>Troubleshooting Boots and Startups: Resolving Windows 11 Freezes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-steps-for-fixing-monitor-display-issues/"><u>Ultimate Troubleshooting Steps for Fixing Monitor Display Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-disappearing-mice-in-windows-11-solved/"><u>Winning the Battle Against Disappearing Mice in Windows 11 [Solved]</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-captivating-collections-frames-and-organizers-of-the-future-for-2024/"><u>[New] Captivating Collections Frames & Organizers of the Future for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-insights-into-crafting-responses-to-youtube-comments-for-2024/"><u>[New] Insights Into Crafting Responses to YouTube Comments for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-vs-dailymention-identifying-key-variations/"><u>[New] YouTube Vs. DailyMention Identifying Key Variations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-video-editor-selection-guide-understanding-filmora-and-democracy-creator/"><u>[Updated] Video Editor Selection Guide Understanding Filmora and Democracy Creator</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dell-usb-keyboard-and-wireless-mouse-issues-solutions-for-common-problems/"><u>Dell USB Keyboard & Wireless Mouse Issues - Solutions for Common Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gadget-fixation-fixed-keys/"><u>Gadget Fixation: Fixed Keys</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/google-chrome-black-screen-fixes-a-step-by-step-guide/"><u>Google Chrome Black Screen Fixes - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/network-adapter-driver-missing-in-windows-11-solved/"><u>Network Adapter Driver Missing in Windows 11 [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rectified-problem-with-non-functional-keyboard-input/"><u>Rectified Problem with Non-Functional Keyboard Input</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/mline-your-shoots-top-lenses-recommended-by-professionals/"><u>Streamline Your Shoots Top Lenses Recommended by Professionals</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-video-buffering-boosting-vlc-on-windows/"><u>Streamlining Video Buffering: Boosting VLC on Windows</u></a></li>
+<li><a href="https://tools.techidaily.com/hello-world/"><u>TechiDaily Tools Site</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-speedy-path-to-a-clean-windows-10-setup-made-effortless/"><u>The Speedy Path to a Clean Windows 10 Setup Made Effortless</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-when-your-pc-doesnt-recognize-the-hard-disk/"><u>Troubleshooting Guide: When Your PC Doesn't Recognize the Hard Disk</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-repairing-windows-10-touchscreen-issues-using-these-5-methods/"><u>Ultimate Guide: Repairing Windows 10 Touchscreen Issues Using These 5 Methods</u></a></li>
 </ul></div>
 

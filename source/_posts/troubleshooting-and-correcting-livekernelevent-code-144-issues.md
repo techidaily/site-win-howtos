@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Correcting LiveKernelEvent Code 144 Issues
-date: 2024-12-04T19:42:12.061Z
-updated: 2024-12-07T17:36:01.682Z
+date: 2024-12-11T18:00:14.373Z
+updated: 2024-12-13T19:26:24.612Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes For USB Keeps Disconnecting
 
  Here’re 4 fixes that have helped other users resolve the problem. Just work your way down the list until you find the one that works for you.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 2. **[Update your USB drivers](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Turn off USB selective suspend](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Change power management settings for USB Root Hubs](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Do some basic troubleshooting
 
@@ -41,10 +49,6 @@ To rule out this as a possibility:
 2. Connect your USB devices to a different (and functioning) port to see if it fixes the issue. If yes, then great! If the**USB still keeps disconnecting** , move on to**Fix 2** .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your USB drivers
 
@@ -63,6 +67,10 @@ To rule out this as a possibility:
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
 
@@ -97,7 +105,7 @@ To make sure you’ve this setting disabled:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Change power management settings for USB Root Hubs
@@ -109,7 +117,7 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
@@ -120,17 +128,9 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
@@ -156,22 +156,18 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlining-screen-shots-efficiently-documenting-your-roblox-adventures-on-macos-for-2024/"><u>[New] Streamlining Screen Shots Efficiently Documenting Your Roblox Adventures on MacOS for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-multi-lens-modifiers-for-creative-video-effects/"><u>[Updated] Multi-Lens Modifiers for Creative Video Effects</u></a></li>
-<li><a href="https://solve-help.techidaily.com/best-free-malware-protection-software-for-kindle-fire-tablets-top-picks/"><u>Best FREE Malware Protection Software for Kindle Fire Tablets – Top Picks!</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/from-joke-to-jest-constructing-impactful-social-media-memes-for-2024/"><u>From Joke to Jest Constructing Impactful Social Media Memes for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210761545-9781649630599-how-to-be-loving-the-journal/"><u>How to Be Loving: The Journal | Free Book</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-s23-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy S23 Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-motorola-moto-g23-easily-by-drfone-android/"><u>In 2024, How To Unlock a Motorola Moto G23 Easily?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-final-cut-pro-x-jump-cuts-take-your-editing-to-the-next-level-for-2024/"><u>New Final Cut Pro X Jump Cuts Take Your Editing to the Next Level for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successful-setup-guide-for-releasebb-addon-in-kodi-on-nexus-and-matrix-tv-platforms/"><u>Successful Setup Guide for ReleaseBB Addon in Kodi on Nexus and Matrix TV Platforms</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-definitive-how-to-manual-for-overcoming-a-web-sites-access-is-denied-hurdles/"><u>The Definitive How-To Manual for Overcoming a Web Site’s ‘Access Is Denied’ Hurdles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-21-must-watch-chinese-animations-mastering-the-art-of-donghua/"><u>Top 21 Must-Watch Chinese Animations: Mastering the Art of Donghua</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-rated-kindle-fire-video-transformer-apps-effortless-video-format-adaptation-for-your-device/"><u>Top Rated Kindle Fire Video Transformer Apps - Effortless Video Format Adaptation for Your Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-burning-a-dvd-as-wmv-file-with-excellent-quality-on-windows-pc/"><u>Ultimate Guide to Burning a DVD as WMV File with Excellent Quality on Windows PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-quickly-merging-mp3s-on-windows-1011-with-proven-techniques/"><u>Ultimate Guide to Quickly Merging MP3s on Windows 10/11 with Proven Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-transferring-your-favorite-tunes-from-youtube-to-your-pc/"><u>Ultimate Guide to Transferring Your Favorite Tunes From YouTube to Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/vobwmvwindows/"><u>VOBファイルをWMV形式に変換するためのWindows対応ガイド</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/watch-your-avi-videos-effortlessly-on-roku-the-ultimate-no-cost-tutorial/"><u>Watch Your AVI Videos Effortlessly on Roku: The Ultimate No-Cost Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-not-detected-solve-the-problem-quickly-on-windows-11-devices/"><u>Bluetooth Not Detected? Solve the Problem Quickly on Windows 11 Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/control-your-eco-friendly-smart-house-with-raspberry-pi-a-step-by-step-guide/"><u>Control Your Eco-Friendly Smart House with Raspberry Pi - A Step by Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/desktop-rescue-techniques-accessing-and-restoring-missing-window-locations/"><u>Desktop Rescue Techniques: Accessing and Restoring Missing Window Locations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-non-responsive-usb-ports-on-your-hp-device/"><u>Diagnosing and Repairing Non-Responsive USB Ports on Your HP Device</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/enhance-your-windows-photos-with-personalized-soundtracks-and-filter-choices-for-2024/"><u>Enhance Your Windows Photos with Personalized Soundtracks and Filter Choices for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-restore-hp-laptop-camera-operation-in-windows-10-environment/"><u>Expert Tips to Restore HP Laptop Camera Operation in Windows 10 Environment</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-7-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 7 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-enhancing-customer-engagement-with-snapchat-tactics/"><u>In 2024, Enhancing Customer Engagement with Snapchat Tactics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-bluetooth-setup-on-a-windows-7-machine/"><u>Mastering Bluetooth Setup on a Windows 7 Machine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208218554-overcome-infinite-loading-loop-in-valorant-effective-solutions-inside/"><u>Overcome Infinite Loading Loop in Valorant: Effective Solutions Inside</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-arrival-of-microsofts-surface-devices-with-enhanced-copilot-features-new-business-capabilities-revealed/"><u>The Arrival of Microsoft's Surface Devices with Enhanced Copilot Features: New Business Capabilities Revealed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-path-efficient-lenovo-dock-driver-update/"><u>Upgrade Path: Efficient Lenovo Dock Driver Update</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-your-drivers-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to update your drivers in Windows 11 & 10</u></a></li>
 </ul></div>
 

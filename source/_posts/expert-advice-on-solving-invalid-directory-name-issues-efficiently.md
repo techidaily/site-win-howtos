@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Solving 'Invalid Directory Name' Issues Efficiently
-date: 2024-12-05T18:24:23.539Z
-updated: 2024-12-07T20:12:15.568Z
+date: 2024-12-06T16:07:24.527Z
+updated: 2024-12-13T21:44:28.410Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 * [Fix 5 – Disable IPv6 on your active connection](#h-fix-5-disable-ipv6-on-your-active-connection)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1 – Is it a driver issue?
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
  The network adapter driver, which works as an interpreter between your network adapter and your PC, is essential to the proper functioning of the network adapter. Depending on different situations, you may encounter the **Unable to Contact DHCP Server** error when your network driver is outdated or new and problematic (hence requiring a rollback). There are ways you can do it manually, but if you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
 
  Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Update your network driver
 
@@ -57,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
 ![update network driver with driver easy](https://images.drivereasy.com/wp-content/uploads/2021/03/de-update-network-driver.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Run the**ipconfig /renew** in CMD again to see if the error message is resolved.
@@ -74,22 +82,23 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/tools.png)
 3. Click**Driver Backup** , then tick the box for**Network Adapter** , then click**Start Backup** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Wait around until the backup is complete. Then click**OK** to close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/backup.png)
 5. In the Tools pane, click**Driver** **Restore** \>**Browse…** , then choose the backup file you’re going to restore from, then click **Open** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/12.png)
 6. Select the driver you’re going to restore, then click **Continue** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Wait until the restore is successful, and click**OK** .
 8. Run the**ipconfig /renew** in CMD again to see if the error message is resolved. If yes, then congrats – you’ve fixed the error. If the issue persists, please move on to**Fix 2** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2 – Restart your DHCP client service
 
@@ -101,13 +110,13 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/dchp.png)
 3. If **Service status:** is set to **Running** , click the **Stop** button. If it shows **Stopped** , leave it as it is.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Set the **Startup type** menu to **Automatic** .
 5. Click the **Start** button.
 6. Click **Apply > OK**  to save changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3 – Register your DNS
 
@@ -118,10 +127,6 @@ Here’s how:
 1. On your keyboard, press the**Windows logo** key and type**cmd** . Right-click on**Command Prompt** as it pops up as a result, and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd-1.png)
 2. Type **ipconfig /registerdns** and press**Enter** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Click Close to exit the window.
 4. Restart your PC.
@@ -140,10 +145,6 @@ Here’s how:
 3. Restart computer.
 4. Run the**ipconfig /renew** command and see if the Unable to contact your dhcp server error is solved. If it’s still no joy, please continue with**Fix 5** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 5 –**Disable IPv6 on your active connection**
 
  The error also occurs if IPv6 is enabled for the internet connection you’re using and you don’t have a local gateway to connect. To rule out this as a possible cause, you should disable IPv6 on your active connection and see if it works.
@@ -153,12 +154,12 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/2.png)
 3. Under the **Networking** tab, uncheck the box next to **Internet Protocol version 6 (IPv6)** , then click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/sharing12.jpg)
 4. Restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Check to see if the error message still occurs when you perform rge ipconfig command.
 
@@ -181,21 +182,19 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-storytelling-with-epic-videos-for-2024/"><u>[New] Instagram Storytelling with Epic Videos for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-method-for-screen-recording-across-platforms/"><u>[New] The Ultimate Method for Screen Recording Across Platforms</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/best-in-class-meme-layout-essentials-for-2024/"><u>Best-in-Class Meme Layout Essentials for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/descargue-la-herramienta-online-para-convertir-videos-wmv-a-format-de-salida-3g2-sin-coste-adicional/"><u>Descargue La Herramienta Online Para Convertir Videos WMV a Format De Salida 3G2 Sin Coste Adicional</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diagnosing-and-repairing-windows-headset-mic-issue/"><u>Diagnosing & Repairing Windows Headset Mic Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-accelerating-windows-7s-startup-time-and-performance/"><u>Expert Tips for Accelerating Windows 7'S Startup Time and Performance</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-ensure-your-obs-recordings-capture-desktop-sounds-correctly/"><u>How To Ensure Your OBS Recordings Capture Desktop Sounds Correctly</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-tiktok-copycat-techniques-for-social-media-success/"><u>In 2024, TikTok Copycat Techniques for Social Media Success</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/mastering-visual-storytelling-with-vsco/"><u>Mastering Visual Storytelling with VSCO</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-windows-updates-paused-at-completion-stage/"><u>Overcoming the Challenge of Windows Updates Paused at Completion Stage</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/professional-streaming-made-easy-your-guide-to-zoom-and-youtube-integration-for-2024/"><u>Professional Streaming Made Easy Your Guide to Zoom and YouTube Integration for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-correct-a-malformed-directory-path-mistake/"><u>Resolved: How to Correct a Malformed Directory Path Mistake</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-excessive-cpu-consumption-by-msmpengexe-on-your-windows-11-pc-step-by-step-guide/"><u>Resolving Excessive CPU Consumption by MsMpEng.exe on Your Windows 11 PC – Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-restoring-hp-laptop-camera-functionality-on-windows-10/"><u>Step-by-Step Guide: Restoring HP Laptop Camera Functionality on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/stuck-in-the-starting-blocks-how-to-get-your-pc-out-of-boot-loop-purgatory/"><u>Stuck in the Starting Blocks: How To Get Your PC Out of Boot Loop Purgatory</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-definitive-walkthrough-for-correcting-winos-error-code-0xc0000005/"><u>The Definitive Walkthrough for Correcting WinOS Error Code 0xC0000005</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-advanced-strategies-for-rl-capture-success/"><u>[Updated] Advanced Strategies for RL Capture Success</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-samsung-galaxy-a23-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Samsung Galaxy A23 5G Phone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversion-libre-de-gif-a-mp4-en-direct-convertisseur-video-vecteur/"><u>Conversion Libre De GIF À MP4 en Direct - Convertisseur Vidéo Vecteur</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/explore-with-clarity-five-minecraft-zooming-hacks/"><u>Explore with Clarity Five Minecraft Zooming Hacks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-error-87-in-loadlibrary-functions-overcoming-parameter-is-incorrect-issues/"><u>Fixing Error 87 in LoadLibrary Functions – Overcoming 'Parameter Is Incorrect' Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-sharing-your-playstation-5-gaming-sessions-seamlessly/"><u>Guide: Sharing Your PlayStation 5 Gaming Sessions Seamlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-11-system-lag-and-hanging-problems/"><u>How to Fix Windows 11 System Lag and Hanging Problems?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-g2-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo G2 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unlocking-the-power-of-pages-top-10-social-media-optimization-tactics/"><u>In 2024, Unlocking the Power of Pages Top 10 Social Media Optimization Tactics</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-the-powerful-and-portable-new-ipad-mini-5-from-apple/"><u>In-Depth Look at the Powerful and Portable New iPad Mini 5 From Apple</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-when-file-explorer-wont-respond-in-windows-11/"><u>Mastering the Fix: When File Explorer Won't Respond in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-unspecified-error-0x80004005-on-your-device-effortlessly/"><u>Resolving the Unspecified Error (0X80004005) on Your Device Effortlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-brightness-issues-on-windows-10/"><u>Troubleshooting Guide: Fixing Brightness Issues on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wmi-host-fixes-boosting-pc-speed-in-windows-11/"><u>WMI Host Fixes: Boosting PC Speed in Windows 11</u></a></li>
 </ul></div>
 

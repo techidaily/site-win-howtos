@@ -1,7 +1,7 @@
 ---
 title: "Revive Your PC: Solutions to Restore Non-Functioning USB Mouse & Keyboard on Windows 7"
-date: 2024-11-30T17:43:11.779Z
-updated: 2024-12-07T17:38:40.353Z
+date: 2024-12-09T21:10:23.328Z
+updated: 2024-12-13T18:29:30.033Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 4. **[Repair system files](#repair-system-files)**
 
 * [**Tips: Keyboard maintenance**](#tips)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Hard reset your keyboard
 
@@ -65,7 +69,7 @@ If you’re a laptop user, you could follow these steps:
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check for hardware issues
@@ -77,10 +81,6 @@ If you’re a laptop user, you could follow these steps:
  If cleaning the keyboard didn’t work for you, you need to[boot to BIOS](https://tools.techidaily.com/drivereasy/download/) .  
  If your keys work fine in the BIOS, it means it’s a software issue. You should move to[Fix 3](#f3) .  
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -113,16 +113,12 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -138,11 +134,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -177,18 +177,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-innovative-techniques-for-engaging-igtv-thumbnails/"><u>[New] In 2024, Innovative Techniques for Engaging IGTV Thumbnails</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-setting-up-your-gaming-studio-with-obs/"><u>[New] Setting Up Your Gaming Studio with OBS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-imovies-automated-size-control/"><u>2024 Approved Exploring iMovie's Automated Size Control</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/assessing-the-lenovo-ideapad-for-gamers-how-hardware-impacts-cloud-based-play-review/"><u>Assessing the Lenovo IdeaPad for Gamers: How Hardware Impacts Cloud-Based Play Review</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/explore-reliable-and-high-intensity-illumination-a-thorough-review-of-ankers-strategic-flashlight/"><u>Explore Reliable and High-Intensity Illumination: A Thorough Review of Anker's Strategic Flashlight</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-lava-blaze-curve-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Lava Blaze Curve 5G Is Unlocked</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-steps-converting-your-dvds-into-mkv-format-with-windows-11-and-10/"><u>Simple Steps: Converting Your DVDs Into MKV Format with Windows 11 & 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-converting-mp4-files-to-3gp-format-online-and-offline/"><u>Step-by-Step Guide: Converting MP4 Files to 3GP Format Online and Offline</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-mastering-video-editing-techniques-in-windows-11/"><u>Step-by-Step Guide: Mastering Video Editing Techniques in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-quick-conversion-from-aiffaif-to-flac-without-quality-loss/"><u>Step-by-Step Tutorial for Quick Conversion From AIFF/AIF to FLAC without Quality Loss</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-enable-offline-accessibility-on-your-youtube-content/"><u>Step-by-Step Tutorial: Enable Offline Accessibility on Your YouTube Content</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-how-to-seamlessly-convert-ogg-to-wav-without-cost-top-solutions/"><u>The Ultimate Guide: How to Seamlessly Convert OGG to WAV Without Cost - Top Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-5-virtual-environments-ideal-for-windows-11-systems/"><u>Top 5 Virtual Environments Ideal for Windows 11 Systems</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-crafting-an-engaging-fb-slideshow-experience/"><u>[Updated] Crafting an Engaging FB Slideshow Experience</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-essential-update-on-whats-new-with-facebook/"><u>[Updated] In 2024, The Essential Update on What's New with Facebook</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-top-youtube-cameras-a-guide-for-novices-and-pros-for-2024/"><u>[Updated] Top YouTube Cameras A Guide for Novices & Pros for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-resolving-sea-of-thieves-initialization-hitches/"><u>Expert Tips on Resolving Sea of Thieves Initialization Hitches</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-comprehensive-guide-and-driver-installation-for-the-qualcomm-atheros-ar3n-broadcom-bcm4329-wlanbcm4330plusbcm4336-ieee802154-bluetooth-30-driv298/"><u>Free Download: Comprehensive Guide and Driver Installation for the Qualcomm Atheros AR3n-Broadcom BCM4329 WLAN/BCM4330+BCM4336 IEEE802.15.4 Bluetooth 3.0 Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207400294-how-to-repair-your-computers-unresponsive-shift-key-solutions-inside/"><u>How to Repair Your Computer's Unresponsive Shift Key - Solutions Inside</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-realme-narzo-60x-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Realme Narzo 60x 5G Phone that is Locked?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-resolve-your-microsoft-display-adapter-connectivity-problems-with-windows-10/"><u>How to Troubleshoot and Resolve Your Microsoft Display Adapter Connectivity Problems with Windows 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-googles-platform-unveiled-for-professional-podcasters/"><u>In 2024, Google's Platform Unveiled for Professional Podcasters</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-get-ready-to-download-best-public-domain-video-websites/"><u>New 2024 Approved Get Ready to Download Best Public Domain Video Websites</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-windows-unable-to-set-up-key-system-components-issue/"><u>Resolved: Fixing 'Windows Unable to Set Up Key System Components' Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-this-device-is-not-present-error-fixes-for-wsten-windows-10/"><u>Resolving the 'This Device Is Not Present' Error: Fixes for WS_TEN, WINDOWS 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-solving-network-alteration-noticed-errors-quickly/"><u>Understanding and Solving 'Network Alteration Noticed Errors' Quickly</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/gnwsh-glwttothpeioy-paradoseis-eyxethmatos/"><u>Γνώση Γλωττοτηπειού Παραδόσεις Ευχετήματος</u></a></li>
 </ul></div>
 

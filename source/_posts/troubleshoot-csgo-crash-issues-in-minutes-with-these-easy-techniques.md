@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot CSGO Crash Issues in Minutes with These Easy Techniques
-date: 2024-12-06T20:07:19.557Z
-updated: 2024-12-07T18:36:25.898Z
+date: 2024-12-09T16:33:58.690Z
+updated: 2024-12-13T16:23:40.691Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/347a25eb4f4bdd698c061d29a22709a4fba3cca9f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix Steam games have no sound
 
@@ -67,9 +63,17 @@ You can run Steam as administrator either temporarily or permanently:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-21.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Compatibility** tab. Make sure you check the**Run this program as an administrator** box, and then click**Apply > OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-22.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) The next time you open Steam, it’ll automatically run under administrative privileges.
 
@@ -79,33 +83,41 @@ You can run Steam as administrator either temporarily or permanently:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-23.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-click on the problematic game. Then click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-24.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) On the next page, click the**LOCAL FILES** tab. Next, click**BROWSE LOCAL FILES…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-25.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) In the pop-up window, right-click on the game’s executable file and select**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-27.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-28.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to run the game as administrator permanently, please complete the following procedure:
 
  1) After locating the game executable, right-click on the file and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-79.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Go to the**Compatibility** tab. Make sure you check the**Run this program as an administrator** box, and then click**Apply > OK** to save the change.
 
@@ -117,10 +129,6 @@ You can run Steam as administrator either temporarily or permanently:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Verify integrity of game files
 
  There’s a possibility that some of the game files got missing or corrupted during the download process. If that’s the case, you should probably use the built-in tool of Steam to verify the integrity of your game files.
@@ -128,10 +136,6 @@ You can run Steam as administrator either temporarily or permanently:
  1) Log in Steam and click**LIBRARY** .
 
 ![This image has an empty alt attribute; its file name is image-23.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-23.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Right-click on the problematic game. Then click**Properties** .
 
@@ -142,7 +146,7 @@ You can run Steam as administrator either temporarily or permanently:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-29.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Wait till the process is complete.
@@ -164,10 +168,6 @@ You can run Steam as administrator either temporarily or permanently:
  1) On your keyboard, press the **Windows Logo key** and **R** at the same time to invoke the Run dialog box. Type in **control panel** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-20_10-55-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Under **View by** , click **Category** . Then, click **Uninstall a program** right under the **Programs** category.
 
@@ -199,6 +199,10 @@ You can run Steam as administrator either temporarily or permanently:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-35.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the audio driver, simply click the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-36.png)
@@ -208,6 +212,10 @@ You can run Steam as administrator either temporarily or permanently:
  If you have any problems using Driver Easy to update your drivers, please feel free to email us at**<support@drivereasy.com>** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Roll back Windows 10 update
 
@@ -233,17 +241,9 @@ You can run Steam as administrator either temporarily or permanently:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-41.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Hit the**Get started** button right below**Go back to the previous version of Windows 10** . Then follow the onscreen instructions to complete the whole process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-44.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your**Get started** option is grayed out (as appeared in the screenshot above), that means the last update took place more than 10 days ago. In this situation, you should try the next method to roll back Windows update.
 
@@ -252,6 +252,10 @@ You can run Steam as administrator either temporarily or permanently:
  1) Repeat**Step 1 through Step 2** in**Way 1** . Then click**Uninstall updates** this time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-45.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Right-click on the unwanted update and click**Uninstall** .
 
@@ -268,10 +272,6 @@ You can run Steam as administrator either temporarily or permanently:
  1) Repeat**Step 1 through Step 3** in**Way 1** . Then hit the**Get started** button right below**Reset this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-47.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) Follow the onscreen instructions to complete the whole process.
 
@@ -302,22 +302,24 @@ You can run Steam as administrator either temporarily or permanently:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-10-best-cars-surveillance-systems-decoded/"><u>[New] 10 Best Cars Surveillance Systems Decoded</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-boost-your-igtv-presence-with-effective-title-and-summary-tweaks/"><u>2024 Approved Boost Your IGTV Presence with Effective Title & Summary Tweaks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/3gppwmv-movavi/"><u>免費移動電信格式翻譯：3GPP到WMV - 使用Movavi進行無線上的圖像編解碼</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726219728888-ogmmov-movavi/"><u>網路自由下將OGM改成MOV - Movavi 格式轉換工具</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726029061475-qsv/"><u>最新のビデオ変換手法：QSVエンコーダによる高速処理ガイド</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convert-and-enjoy-your-dvd-collections-directly-on-your-iphone-in-just-five-simple-steps/"><u>Convert and Enjoy Your DVD Collections Directly on Your iPhone in Just Five Simple Steps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/elden-ring-initial-boot-problem-solutions-for-clearing-the-darkness/"><u>Elden Ring Initial Boot Problem? Solutions for Clearing the Darkness</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/enhance-your-livestreams-using-manycam-the-ultimate-guide-to-virtual-webcams-and-screen-recording-solutions/"><u>Enhance Your Livestreams Using ManyCam: The Ultimate Guide to Virtual Webcams and Screen Recording Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratuit-transformez-facilement-votre-fichier-webm-au-format-mov-en-ligne-avec-movavi/"><u>Gratuit: Transformez Facilement Votre Fichier WebM Au Format MOV en Ligne Avec Movavi</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-honor-play-40c-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Honor Play 40C</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-11r-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock OnePlus 11R Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-liberation-convert-avi-files-into-free-ogg-format-with-movavi/"><u>Online Liberation: Convert AVI Files Into Free OGG Format with Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-9-ultimate-collage-creation-tools-of-2024-for-android-and-iphone-users/"><u>Top 9 Ultimate Collage Creation Tools of 2024 for Android and iPhone Users</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/unlock-your-watch-list-10-best-free-youtube-extractors/"><u>Unlock Your Watch List 10 Best Free YouTube Extractors</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/led-youtubes-creme-de-la-creme-of-vr-videos/"><u>Unveiled YouTube's Crème De La Crème of VR Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/zacatejte-konvertovat-videoze-z-youtube-do-mp3-13-napadnejsich-programu-movavi/"><u>Začátejte Konvertovat Vídeoze Z YouTube Do MP3 - 13 Nápadnejších Programů Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726227643763-orf-jpg-movavi/"><u>오픈소스 ORF 이미지를 JPG로 전환하는 방법 - Movavi</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-convenient-ways-to-screen-cast-lenovo-laptops/"><u>[New] Convenient Ways to Screen Cast Lenovo Laptops</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-embracing-iphones-shutter-speed-magic-for-dynamic-images-for-2024/"><u>[Updated] Embracing iPhone’s Shutter Speed Magic for Dynamic Images for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-navigating-the-virtual-landscape-of-xbox-zoom/"><u>[Updated] Navigating the Virtual Landscape of Xbox Zoom</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-crossplatform-audiomagic-2023/"><u>2024 Approved CrossPlatform AudioMagic 2023</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/add-music-in-premiere-pro-for-2024/"><u>Add Music In Premiere Pro for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-overcoming-the-plugged-in-not-charging-glitch-in-pcs-running-windows-710/"><u>Comprehensive Guide to Overcoming the 'Plugged In, Not Charging' Glitch in PCs Running Windows 7/10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-the-problem-why-isnt-my-computers-night-light-working/"><u>Diagnosing the Problem: Why Isn't My Computer's Night Light Working?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209587395-fast-solutions-for-windows-installation-problems-now-fixed/"><u>Fast Solutions for Windows Installation Problems - Now Fixed!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-apples-new-ios-18-update-enables-direct-phone-call-recording-without-external-apps-a-detailed-insight-techradar/"><u>How Apple's New iOS 18 Update Enables Direct Phone Call Recording Without External Apps: A Detailed Insight | TechRadar</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-and-install-the-latest-drivers-for-your-toshiba-notebook-on-a-pc-with-windows-os/"><u>How to Get and Install the Latest Drivers for Your Toshiba Notebook on a PC with Windows OS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-infinix-zero-30-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Infinix Zero 30 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-sunset-symphony-cinematic-darkening-in-pro/"><u>In 2024, Sunset Symphony Cinematic Darkening in Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/integrating-xbox-one-joystick-into-your-pc-gameplay/"><u>Integrating Xbox One Joystick Into Your PC Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-stability-overcoming-intermittent-wireless-mouse-failures-across-windows-10-and-windows-11/"><u>Mastering Stability: Overcoming Intermittent Wireless Mouse Failures Across Windows 10 and Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203401482-nier-automata-on-pc-keep-freezing-heres-how-to-get-smooth-gameplay/"><u>Nier Automata on PC Keep Freezing? Here's How to Get Smooth Gameplay!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/streamline-your-pc-bypassing-quick-fixes-for-windows-cannot-install/"><u>Streamline Your PC: Bypassing Quick Fixes for 'Windows Cannot Install'</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ring-titles-and-tags-for-top-youtube-performance-for-2024/"><u>Tailoring Titles and Tags for Top YouTube Performance for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-solution-for-windows-11-overcoming-access-denied-in-container-setup-guide/"><u>Ultimate Solution for Windows 11 - Overcoming Access Denied in Container Setup [Guide]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-windows-error-0xc0000098-a-comprehensive-fixing-guide-for-every-user/"><u>Winning Against Windows Error 0Xc0000098 – A Comprehensive Fixing Guide for Every User</u></a></li>
 </ul></div>
 

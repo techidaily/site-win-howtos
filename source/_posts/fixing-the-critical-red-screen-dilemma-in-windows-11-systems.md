@@ -1,7 +1,7 @@
 ---
 title: Fixing the Critical Red Screen Dilemma in Windows 11 Systems
-date: 2024-12-06T18:02:02.822Z
-updated: 2024-12-07T19:49:19.128Z
+date: 2024-12-11T21:59:44.384Z
+updated: 2024-12-13T18:36:57.341Z
 tags:
   - win11
   - win10
@@ -52,27 +52,23 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf596c06c.jpg)
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
 4. Right-click System Event Notification Service again, this time select**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Reset your Winsock Catalog
@@ -85,10 +81,6 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**cmd** , then press**Shift + Ctrl + Enter** keys together.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c0804d3b9.jpg)
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **netsh winsock reset**
 
@@ -110,16 +102,16 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c1c42f3f2.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
 
  Restart your computer to see if the error has gone. If the error persists, don’t give up hope, see if the last method could help you…
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Uninstall the KB2952664 update
 
@@ -130,14 +122,19 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c29a46965.jpg)
 3. Select**Uninstall a program** under**Programs** when**View by Category** selected.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
 4. Click View installed updates.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
 5. Find and right-click the update with KB2952664, then Uninstall.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart your computer to see if the error has gone.
 
@@ -157,6 +154,10 @@ Restart your computer to see if the error has gone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-55-36.jpg)
 4. Restart your computer to see if the error has gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
 
@@ -182,19 +183,18 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-elevating-visuals-with-hdr-excellence-in-photoshop-for-2024/"><u>[New] Elevating Visuals with HDR Excellence in Photoshop for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-enhancing-fb-videos-with-background-tracks-a-guide/"><u>[Updated] In 2024, Enhancing FB Videos with Background Tracks A Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-presentation-mastery-8-top-screen-record-comparisons/"><u>[Updated] In 2024, Presentation Mastery 8 Top Screen Record Comparisons</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/upgraded-strategies-for-eliminating-minecraft-lag-and-enhancing-playtime/"><u>[UPGRADED] Strategies for Eliminating Minecraft Lag and Enhancing Playtime</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-guide-successfully-installing-the-epson-xp-830-printer-driver/"><u>Complete Guide: Successfully Installing the Epson XP-830 Printer Driver</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-address-and-correct-delayed-keyboard-input-in-microsofts-windows-10-operating-system/"><u>Guide: Address and Correct Delayed Keyboard Input in Microsoft's Windows 10 Operating System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correctly-execute-a-memory-write-when-encountered-with-an-invalid-0xreferenced-location-error/"><u>How to Correctly Execute a Memory Write When Encountered with an Invalid 0Xreferenced Location Error</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-tecno-pop-7-pro-easily-by-drfone-android/"><u>How To Unlock a Tecno Pop 7 Pro Easily?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-inactive-usb-ports-on-your-windows-computer-windows-1011/"><u>Step-by-Step Guide: Repairing Inactive USB Ports on Your Windows Computer (Windows 10/11)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-the-elusive-d3dxwindowsdll-error-and-how-to-fix-it/"><u>Step-by-Step Solutions for the Elusive D3DXWINDOWS.dll Error and How to Fix It</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/thangz-3d-printer-add-ons-by-felicia-day-now-available-for-download/"><u>Thangz 3D Printer Add-Ons by Felicia Day Now Available for Download</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-4-ways-to-trace-apple-iphone-12-pro-max-location-drfone-by-drfone-virtual-ios/"><u>Top 4 Ways to Trace Apple iPhone 12 Pro Max Location | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fixes-to-enhance-stutter-free-play-and-raise-frame-rate-in-valorant/"><u>Ultimate Fixes to Enhance Stutter-Free Play and Raise Frame Rate in Valorant</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205936262-why-your-usb-connectors-arent-working-in-windows-11-heres-the-fix/"><u>Why Your USB Connectors Aren’t Working in Windows 11? Here's the Fix!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-following-scrutiny-unorthodox-ideas-for-2024/"><u>[New] Following Scrutiny Unorthodox Ideas for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snap-into-style-expert-tips-to-outshine-the-competition/"><u>[New] In 2024, Snap Into Style Expert Tips to Outshine the Competition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-visual-narratives-with-the-leading-frames/"><u>[Updated] Crafting Visual Narratives with the Leading Frames</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-fixes-for-nsp4rdll-not-detected-problems/"><u>Comprehensive Fixes for 'nsp4r.dll Not Detected' Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-excessive-cpu-consumption-by-msmpengine-in-windows-11-solution-found/"><u>How to Fix Excessive CPU Consumption by MsMpEngine in Windows 11 (Solution Found)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209053445-how-to-fix-the-device-is-not-ready-error/"><u>How to Fix The Device Is Not Ready Error</u></a></li>
+<li><a href="https://extra-support.techidaily.com/layer-audio-onto-video-clips-in-premiere-pro-for-2024/"><u>Layer Audio Onto Video Clips in Premiere Pro for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-fixes-for-critical-process-termination-expert-advice-on-handling-windows-error-code-0xc00000e9/"><u>Mastering Fixes for Critical Process Termination: Expert Advice on Handling Windows Error Code 0xC00000E9</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/origin-games-fixing-your-game-installation-error-quickly-and-easily/"><u>Origin Games - Fixing Your Game Installation Error Quickly and Easily</u></a></li>
+<li><a href="https://win-help.techidaily.com/surmonter-lobstacle-du-processus-dinstallation-bloque-a-99-dans-windows-nouveau-une-etude-des-trois-solutions-cles/"><u>Surmonter L'obstacle Du Processus D'installation Bloqué À 99% Dans Windows Nouveau: Une Étude Des Trois Solutions Clés</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-a-comprehensive-guide-by-toms-hardware/"><u>Tom's Tech Reviews: A Comprehensive Guide by Tom's Hardware</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-equipment-insights/"><u>Unveiling the Latest Gadgets with Tom's Equipment Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-update-error-0xc1900208-solved/"><u>Windows 10 Update Error 0Xc1900208 [SOLVED]</u></a></li>
 </ul></div>
 

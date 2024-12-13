@@ -1,7 +1,7 @@
 ---
 title: "Efficient Tips: Reactivating the Windows Upgrade Feature When It's Not Working"
-date: 2024-12-02T16:43:07.535Z
-updated: 2024-12-07T21:06:27.247Z
+date: 2024-12-11T19:14:29.126Z
+updated: 2024-12-13T19:07:43.354Z
 tags:
   - win11
   - win10
@@ -46,29 +46,21 @@ The troubleshooter in your computer helps troubleshoot the hardware problems and
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb109d3bc02.jpg)
 3. Click**Hardware** **and** **Sound** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb10c799b9d.jpg)
 4. Click**Hardware and Devices** . This will find and fix problems with devices and hardware.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb10e9a82be.jpg)
 5. Click**Next** to process. Then follow the on-screen instructions to finish the process.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb1108d468d.jpg)
 6. Restart your computer and see if it fixes the error.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Re-enable touch screen
@@ -79,7 +71,7 @@ You can also re-enable touch screen and its driver to fix the “No Pen or Touch
  and **R**  at the same time to invoke the Run box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Type**devmgmt.msc** and click**OK** .  
@@ -89,11 +81,19 @@ You can also re-enable touch screen and its driver to fix the “No Pen or Touch
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb11cb8b5a8.jpg)
 4. Right click on**HID-compliant touch screen** , then select**Disable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb12007e8f1.jpg)
 5. If you see a popup message to confirm, click**Yes** to confirm.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb123fd7728.jpg)
 6. Right click on**HID-compliant touch screen** , then select**Enable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb128e37a69.jpg)  
  Note: there may be more than one HID compliant touch screen listed there. If that’s the case, complete steps 4) -6) for each device.
@@ -113,7 +113,7 @@ A missing or outdated touch screen driver can also result in the “No Pen or To
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now check and see if the “**No Pen or Touch Input is available for this Display**” error disappears. That’s it. Hope this post comes in handy and fixes your “**No Pen or Touch Input is available for this Display**” error. If you have any questions, feel free to leave a comment below and we’ll see what more we can do.
@@ -136,22 +136,18 @@ Now check and see if the “**No Pen or Touch Input is available for this Displa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-image-interpretation-illumination-ideal-photo-to-cartoony-tools/"><u>[New] Image Interpretation Illumination Ideal Photo-to-Cartoony Tools</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-discover-how-to-thrive-in-tiktok-lives-from-desktop/"><u>[New] In 2024, Discover How to Thrive in TikTok Lives From Desktop</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-giggle-graphics-humorhub/"><u>[New] In 2024, Giggle Graphics HumorHub</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-transforming-images-with-ar-a-guide-to-free-lut-downloads/"><u>[New] Transforming Images with AR A Guide to Free LUT Downloads</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-bridging-scripts-with-voices-turning-xmlttml-into-srt/"><u>[Updated] 2024 Approved Bridging Scripts with Voices Turning XML/TTML Into SRT</u></a></li>
-<li><a href="https://fox-links.techidaily.com/advanced-card-selections-uhd-video-perfection-for-2024/"><u>Advanced Card Selections UHD Video Perfection for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypass-the-problem-occurred-during-pc-reset-in-windows-10-proven-solution/"><u>Bypass the 'Problem Occurred During PC Reset' In Windows 10 [Proven Solution]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-fixes-to-overcome-recent-oculus-error-messages/"><u>Expert Fixes to Overcome Recent Oculus Error Messages</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-two-finger-touchpad-scrolling-issue-solved/"><u>How To Fix The Two-Finger Touchpad Scrolling Issue - Solved</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-realme-11-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Realme 11 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-windows-plus-shift-plus-s-functionality-problems-in-windows-1110-operating-systems/"><u>Resolved: How to Fix 'Windows + Shift + S' Functionality Problems in Windows 11/10 Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209495330-simplify-your-experience-with-windows-10s-file-explorer-expert-advice/"><u>Simplify Your Experience with Windows 10'S File Explorer - Expert Advice!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-dell-webcam-expert-tips-for-windows-users-experiencing-issues/"><u>Troubleshoot Your Dell Webcam: Expert Tips for Windows Users Experiencing Issues</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-reviewing-vn-video-editor-is-it-worth-it-for-pc-users-in-2024/"><u>Updated Reviewing VN Video Editor Is It Worth It for PC Users, In 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/watch-netflix-without-freezes-optimized-viewing-experience-for-windows-and-mac-users/"><u>Watch Netflix Without Freezes: Optimized Viewing Experience for Windows & Mac Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/win-1011-exe-crisis-solved/"><u>Win 10/11 Exe Crisis Solved</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-5-ways-to-record-streaming-audio-online/"><u>[New] 2024 Approved 5 Ways to Record Streaming Audio Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dive-into-old-content-youtube-video-recovery-guide/"><u>[New] 2024 Approved Dive Into Old Content YouTube Video Recovery Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-step-by-step-hp-laptop-screen-recording-explained/"><u>[New] In 2024, Step-by-Step HP Laptop Screen Recording Explained</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-virtual-paths-to-fitness-ranking-elite-treadmills/"><u>[Updated] In 2024, Virtual Paths to Fitness Ranking Elite Treadmills</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-solution-to-common-apex-legends-anti-cheat-errors-for-smooth-gaming/"><u>Effortless Solution to Common Apex Legends Anti-Cheat Errors for Smooth Gaming</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insights-a-detailed-review-of-the-anthropics-smart-photo-editing-tool/"><u>Expert Insights: A Detailed Review of the Anthropics Smart Photo Editing Tool</u></a></li>
+<li><a href="https://article-files.techidaily.com/first-flight-journey-with-syma-x5c-best-start-to-uav-hobbies-for-2024/"><u>First Flight Journey with Syma X5C Best Start to UAV Hobbies for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-opencldll-unavailability-faults/"><u>Fixing OpenCL.dll Unavailability Faults</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-xiaomi-civi-3-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Xiaomi Civi 3 Lock Screen Password</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/local-security-policy-enable-lsa-protections-immediately/"><u>Local Security Policy: Enable LSA Protections Immediately</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-dell-laptop-challenge-how-to-get-your-fn-keys-working-again/"><u>Overcoming the Dell Laptop Challenge: How to Get Your FN Keys Working Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-to-overcome-windows-1-nearby-as-you-go-and-it-will-be-easier-to-keep-your-balance/"><u>Step-by-Step Solution to Overcome Windows 1 Nearby as You Go, and It Will Be Easier to Keep Your Balance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-conquering-and-clearing-out-the-google-chrome-critical-error-scam/"><u>The Ultimate Fix: Conquering and Clearing Out the Google Chrome Critical Error Scam</u></a></li>
 </ul></div>
 

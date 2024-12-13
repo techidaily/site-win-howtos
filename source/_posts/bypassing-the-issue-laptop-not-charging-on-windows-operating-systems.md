@@ -1,7 +1,7 @@
 ---
 title: "Bypassing the Issue: Laptop Not Charging on Windows Operating Systems"
-date: 2024-12-01T20:50:23.143Z
-updated: 2024-12-07T20:44:55.302Z
+date: 2024-12-07T21:09:12.952Z
+updated: 2024-12-13T17:15:15.400Z
 tags:
   - win11
   - win10
@@ -48,12 +48,16 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507a17971f4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iii.** Click the **Advanced** tab. Click the**Settings** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507b4b00aa2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **iv.** Click the **Data Execution Prevention** tab. Select **Turn on DEP for all programs and services except those I select** . Then click**Add** .
@@ -65,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507e3c65465.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **c)**  Sometimes the error appears due to**corrupted Registry** . You can **[restore your Registry](https://tools.techidaily.com/drivereasy/download/)**  or check all your Registry entries and remove any redundant one.
@@ -75,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 **d)**  In addition to all the causes above, an**incompatible** **RAM** (Random Access Memory, shown by images below, an essential part of the computer) can also result in Access violation error.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad370059cc.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad3756980a.jpg)
 
@@ -87,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
  This 0xc0000005 error usually appears when you are attempting to run an application and it nevertheless crashes. It comes with a message saying “**The application was unable to start correctly.** “
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59508823f05fa.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To resolve this error, you can try the methods below.
 
@@ -105,10 +109,6 @@ To resolve this error, you can try the methods below.
  To use Driver Easy to fix faulty drivers, you need to download and install it. Then open the program and click on**Scan Now** button. All the devices on your computer will be scanned and checked within a few seconds.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click on**Update** button next to any device to download its driver. Or you can hit**Update All** button at the bottom to download and install all the drivers (this requires upgrading to**Pro version** ).
 
@@ -133,7 +133,7 @@ To resolve this error, you can try the methods below.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a33e24868.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On Windows 10/11, click**Create a restore** **point** ,
@@ -143,6 +143,10 @@ To resolve this error, you can try the methods below.
  And then in the dialog popping up, click the**System Restore** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **iii.**  In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
@@ -181,7 +185,7 @@ bootrec /rebuildbcd
 **iv.** Close the Command Prompt window and restart your computer. Then check to see if you get rid of the error.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3) Windows installation error
@@ -189,10 +193,6 @@ bootrec /rebuildbcd
  The third type of 0xc0000005 error is an error you can get when you are installing your Windows. The error message tells you that**Windows installation encountered an unexpected error** . At this point you cannot continue your installation.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5950b581b5f1e.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The reason of this error can be that the operating system you are installing is not compatible with the partition. You need to**delete all partitions** and**create new ones** (this will**remove** **all** your files and data on your hard drive).
 
@@ -215,19 +215,22 @@ bootrec /rebuildbcd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mp3-from-twitter-media-simple-extraction-techniques/"><u>[New] 2024 Approved MP3 From Twitter Media Simple Extraction Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-best-of-the-best-top-12-tycoon-games-for-epic-victories-for-2024/"><u>[Updated] Best of the Best Top 12 Tycoon Games for Epic Victories for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unlocking-the-process-for-claiming-facebooks-top-tier-marker-for-2024/"><u>[Updated] Unlocking the Process for Claiming Facebook’s Top-Tier Marker for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oneplus-ace-3-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart OnePlus Ace 3 Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-mfc-l2740dw-printer-software-compatible-with-windows-systems/"><u>Brother MFC-L2740DW Printer Software Compatible With Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/elucrante-the-importance-of-xinput13dll-in-devices/"><u>Elucrante: The Importance of XINPUT1_3.dll in Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-optimize-your-pc-cutting-down-high-gpu-usage-from-desktop-window-manager-windows-10-and-11/"><u>How to Optimize Your PC: Cutting Down High GPU Usage From Desktop Window Manager (Windows 10 & 11)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-yuneec-typhoon-q500-4k-review/"><u>In 2024, Yuneec Typhoon Q500 4K Review</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unleash-your-creativity-7-best-animation-drawing-software-for-artists/"><u>New 2024 Approved Unleash Your Creativity 7 Best Animation Drawing Software for Artists</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-voice-communication-problems-in-overwatch-simple-solutions/"><u>Overcoming Voice Communication Problems in Overwatch - Simple Solutions!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-adobe-shockwave-flash-support-for-a-smooth-experience-on-chrome/"><u>Reviving Adobe Shockwave Flash Support for a Smooth Experience on Chrome</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-the-mystery-of-the-dead-astro-a40-microphone-diagnosis-and-remedies/"><u>Solve the Mystery of the Dead Astro A40 Microphone: Diagnosis & Remedies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-how-to-restore-touchpad-scrolling-functionality/"><u>Troubleshooting Windows 11: How to Restore Touchpad Scrolling Functionality</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-nokia-c02-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Nokia C02 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-uncovering-vidmas-video-recording-features/"><u>[New] In 2024, Uncovering Vidma's Video Recording Features</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-direct-stream-from-fb-to-whatsapp-group-chat/"><u>2024 Approved Direct Stream From FB to WhatsApp Group Chat</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/boosting-computer-security-turn-on-the-local-security-protocol-now/"><u>Boosting Computer Security: Turn on the Local Security Protocol Now</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-strategies-for-ensuring-email-privacy-and-safety/"><u>Comprehensive Strategies for Ensuring Email Privacy and Safety</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/destiny-nagged-on-boot-heres-the-solution/"><u>Destiny Nagged on Boot? Here's the Solution</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-insider-tips-for-spiderman-2-ordering/"><u>Exclusive Insider Tips for SPIDERMAN 2 Ordering</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-repairing-a-broken-dell-webcam-connection-in-windows-environment/"><u>Expert Tips for Repairing a Broken Dell Webcam Connection in Windows Environment</u></a></li>
+<li><a href="https://fox-http.techidaily.com/find-the-right-aspect-ratio-for-your-video/"><u>Find The Right Aspect Ratio For Your Video</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oneplus-nord-3-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From OnePlus Nord 3 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/microsoft-print-to-pdf-problems-solved-for-windows-10-and-11-users/"><u>Microsoft Print to PDF Problems Solved for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211441830--palmistry-for-happiness/"><u>Palmistry for Happiness | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209546383-quick-fixes-overcome-the-silence-on-netflix-restore-sound-now/"><u>Quick Fixes: Overcome the Silence on Netflix – Restore Sound Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-overwatch-voiceless-glitches-with-simple-steps/"><u>Resolving Overwatch Voiceless Glitches with Simple Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/slumbering-system-no-signal-on-win1110/"><u>Slumbering System, No Signal on Win11/10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-list-of-cost-free-industry-approved-video-callers/"><u>The Ultimate List of Cost-Free, Industry-Approved Video Callers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-protective-cases-for-iphone-12-and-12-pro-2023s-ultimate-guide/"><u>Top Rated Protective Cases for iPhone 12 & 12 Pro: 2023'S Ultimate Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-non-charging-microsoft-surface-a-complete-guide/"><u>Troubleshooting Your Non-Charging Microsoft Surface: A Complete Guide</u></a></li>
 </ul></div>
 

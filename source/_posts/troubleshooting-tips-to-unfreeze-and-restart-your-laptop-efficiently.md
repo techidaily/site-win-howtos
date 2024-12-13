@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips to Unfreeze and Restart Your Laptop Efficiently
-date: 2024-12-03T20:51:53.342Z
-updated: 2024-12-07T18:32:29.355Z
+date: 2024-12-10T21:17:12.256Z
+updated: 2024-12-13T18:37:10.741Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -54,7 +58,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -71,16 +75,12 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -88,10 +88,6 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -130,6 +126,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -143,7 +143,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
@@ -184,20 +184,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-high-def-capture-top-10-web-based-apps/"><u>[New] 2024 Approved High-Def Capture Top 10 Web-Based Apps</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-vivacut-review-unpacking-the-latest-editing-advancements-for-2024/"><u>[New] VivaCut Review Unpacking the Latest Editing Advancements for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-easy-way-to-verify-and-edit-your-age-on-tiktok-for-2024/"><u>[Updated] The Easy Way to Verify and Edit Your Age on TikTok for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capturing-moments-essential-cameras-reviewed-for-2024/"><u>Capturing Moments Essential Cameras Reviewed for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solution-for-the-failed-to-create-d3d-device-error-on-pc-systems/"><u>Effective Solution for the 'Failed to Create D3D Device' Error on PC Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/from-zero-to-hero-launching-without-issues/"><u>From Zero to Hero: Launching without Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-network-error-code-0x800704cf-ultimate-solution/"><u>How to Fix Windows Network Error Code 0X800704CF – Ultimate Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-crashes-in-total-war-rome-remastered-for-smooth-gaming-experience/"><u>How to Resolve Crashes in Total War: Rome Remastered for Smooth Gaming Experience</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-how-to-schedule-meetings-on-zoom/"><u>In 2024, How to Schedule Meetings on Zoom?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725284723981-pc/"><u>PCとスマートフォンで動画サイズ調整ガイド: 最適なソフトウェア、アプリ、そしてオンラインツール</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-smooth-migration-of-windows-server/"><u>Step-by-Step Guide: Smooth Migration of Windows Server</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tackling-inconsistent-copy-and-paste-on-windows-10/"><u>Tackling Inconsistent Copy & Paste on Windows 10</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722992341431-trouble-getting-frontiers-of-pandora-running-this-article-has-the-answers-you-need/"><u>Trouble Getting 'Frontiers of Pandora' Running? This Article Has the Answers You Need</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-undetected-wi-fi-on-your-windows-11-device/"><u>Troubleshooting Guide: Fixing Undetected Wi-Fi on Your Windows 11 Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/valorant-performance-fix-enforce-system-reset/"><u>Valorant Performance Fix: Enforce System Reset</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-installing-social-media-adding-snapchat-to-your-mac/"><u>[New] In 2024, Installing Social Media Adding Snapchat to Your Mac</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-art-of-image-detection-opposite-on-facebook-networks/"><u>[Updated] 2024 Approved The Art of Image Detection Opposite on Facebook Networks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-twilight-tones-adobe-premiere-blackouts/"><u>2024 Approved Twilight Tones Adobe Premiere Blackouts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correct-troubleshoot-and-repair-shortcuts-win-11-style/"><u>Correct: Troubleshoot and Repair Shortcuts, Win 11 Style</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/efficient-pc-management-software-the-ultimate-guide-to-remote-desktop-tools/"><u>Efficient PC Management Software: The Ultimate Guide to Remote Desktop Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-80240020-windows-10-installation-issues-how-to-fix-and-get-set-up-successfully/"><u>Error 80240020: Windows 10 Installation Issues - How to Fix and Get Set Up Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-eliminating-the-0x800704cf-connection-problem-on-your-computer/"><u>Expert Advice: Eliminating the 0X800704CF Connection Problem on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-resolve-non-responsive-number-keys-on-your-keyboard/"><u>Fixing the Issue: How to Resolve Non-Responsive Number Keys on Your Keyboard</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-keyframe-kinetics-collections/"><u>In 2024, Keyframe Kinetics Collections</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/monitor-error-alert-incompatible-data-entry-recognized/"><u>Monitor Error Alert: Incompatible Data Entry Recognized</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-minecraft-crashes-caused-by-outdated-windows-graphics-drivers/"><u>Resolving Minecraft Crashes Caused by Outdated Windows Graphics Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fixing-videodxgkrnlfatalerror-on-windows-pcs/"><u>Step-by-Step Guide to Fixing Video_Dxgkrnl_Fatal_Error on Windows PCs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/l-8-reliable-video-promotion-services/"><u>Unveil 8 Reliable Video Promotion Services</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-poco-c51-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Poco C51 | Dr.fone</u></a></li>
 </ul></div>
 

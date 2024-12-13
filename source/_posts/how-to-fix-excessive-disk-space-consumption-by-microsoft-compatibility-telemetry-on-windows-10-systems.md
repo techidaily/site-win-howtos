@@ -1,7 +1,7 @@
 ---
 title: How to Fix Excessive Disk Space Consumption by Microsoft Compatibility Telemetry on Windows 10 Systems
-date: 2024-11-30T21:38:13.379Z
-updated: 2024-12-07T20:01:03.803Z
+date: 2024-12-07T21:36:55.848Z
+updated: 2024-12-13T22:22:35.927Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1\. Turn off “Get tips, tricks, and suggestions as you use Windows” option
@@ -51,19 +51,11 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 `` ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-1.png)
 ``
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `` 2)  
 `` Click **System** .  
 ``
 `` ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-9.png)
 ``
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `` 3)  
 `` Click **Notifications & actions**  on the left pane.  
@@ -73,13 +65,17 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 ``
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `` You will get rid of the error by this error. If the issue still occur, try next fix.  
 ``
 ``
 ``
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2\. Disable background apps
   
@@ -94,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 ``
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `` 3)
@@ -103,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 ``
 `` ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-2.png)
 ``
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 `` That’s all there is to it.  
@@ -130,22 +130,24 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-securing-your-periscope-footage-expert-techniques-revealed/"><u>[New] Securing Your Periscope Footage Expert Techniques Revealed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-stir-to-screen-masterful-cooking-videos-for-2024/"><u>[Updated] From Stir to Screen Masterful Cooking Videos for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-creating-a-streamlined-podcast-rss-feed-structure/"><u>2024 Approved Creating a Streamlined Podcast RSS Feed Structure</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cambia-archivos-de-video-gratis-desde-3gp-a-avi-con-movavi-online/"><u>Cambia Archivos De Video Gratis Desde 3GP a AVI Con Movavi Online</u></a></li>
-<li><a href="https://win11.techidaily.com/complete-guide-to-navigate-widely-in-windows-11/"><u>Complete Guide to Navigate Widely in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversion-libre-de-fichier-aiff-vers-dautres-formats-utilisation-facile-avec-movavi/"><u>Conversion Libre De Fichier AIFF Vers D'autres Formats - Utilisation Facile Avec Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/converter-ram-da-wmv-para-dvd-on-line-de-graca-com-o-movavi-funcionalidade-eficiente-e-acessivel/"><u>Converter RAM Da WMV Para DVD On-Line De Graça Com O Movavi - Funcionalidade Eficiente E Acessível</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guida-rapida-al-registro-dello-schermo-in-windows-11-tecniche-e-suggerimenti-migliori/"><u>Guida Rapida Al Registro Dello Schermo in Windows 11: Tecniche E Suggerimenti Migliori</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-quicken-your-visual-content-best-android-software/"><u>In 2024, Quicken Your Visual Content - Best Android Software</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-samsung-galaxy-s23-fe-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Samsung Galaxy S23 FE IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/intuitive-software-package-hp-officejet-pro-8600-for-pc-systems/"><u>Intuitive Software Package: HP OfficeJet Pro 8600 for PC Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavis-free-mp3mp4-converter-convert-your-videos-and-music-seamlessly-using-mpg-formats/"><u>Movavi's Free MP3/MP4 Converter - Convert Your Videos and Music Seamlessly Using MPG Formats</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/practical-steps-to-remove-the-cluttered-background-in-figma-for-2024/"><u>Practical Steps to Remove the Cluttered Background in Figma for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformer-un-fichier-swf-en-format-avi-gratuitement-sur-la-toile-guide-par-movavi/"><u>Transformer Un Fichier SWF en Format AVI Gratuitement Sur La Toile - Guide Par Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trasforma-file-dpx-in-gif-gratuitamente-con-movavi-servizi-di-conversione-online/"><u>Trasforma File DPX in GIF Gratuitamente Con Movavi - Servizi Di Conversione Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trasforma-i-tuoi-file-ogm-gratuitamente-in-formato-mov-con-converti-mov-di-movavi-versione-gratuita/"><u>Trasforma I Tuoi File OGM Gratuitamente in Formato MOV Con Converti-MOV Di Movavi - Versione Gratuita</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-in-depth-analysis-lg-bp350s-visual-clarity-and-color-range/"><u>[New] 2024 Approved In-Depth Analysis LG BP350's Visual Clarity and Color Range</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-mastering-the-art-of-monochrome-modification/"><u>[New] In 2024, Mastering the Art of Monochrome Modification</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-castevaluation-synopsis/"><u>[Updated] 2024 Approved CastEvaluation Synopsis</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-from-muffled-to-clear-the-initial-use-of-fade-in-audition/"><u>[Updated] 2024 Approved From Muffled to Clear The Initial Use of Fade in Audition</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-best-of-the-best-ultimate-list-of-gopro-casings-for-2024/"><u>[Updated] Best of the Best Ultimate List of GoPro Casings for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-perfecting-close-angles-in-movie-filming-for-2024/"><u>[Updated] Perfecting Close Angles in Movie Filming for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2023s-definitive-tricks-to-optimize-performance-and-reduce-lags-in-fallout-4-adventures/"><u>2023'S Definitive Tricks to Optimize Performance & Reduce Lags in Fallout 4 Adventures</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-solution-proven-techniques-repairing-redragon-headset-mic-malfunctions-on-personal-computer/"><u>Audio Solution Proven Techniques: Repairing Redragon Headset Mic Malfunctions on Personal Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209865722-battleye-service-install-errors-now-corrected/"><u>BattlEye Service Install Errors - Now Corrected</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diagnosing-and-fixing-issues-with-an-inoperative-amazon-fire-tv-remote/"><u>Diagnosing and Fixing Issues with an Inoperative Amazon Fire TV Remote</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-fixes-for-windows-10-not-shutting-down-now-resolved/"><u>Expert Fixes for Windows 10 Not Shutting Down - Now Resolved!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/guide-removing-safaris-saved-data-from-iphoneipad-using-two-simple-techniques/"><u>Guide: Removing Safari's Saved Data From iPhone/iPad Using Two Simple Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-call-of-duty-wwii-error-code-4220-troubleshooting-guide/"><u>How to Resolve Call of Duty: WWII Error Code 4220 - Troubleshooting Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-sudden-shutdown-understanding-error-code-1067-in-windows/"><u>Resolved: Fixing the Sudden Shutdown - Understanding Error Code 1067 in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-trickery-head-on-proven-tips-for-removing-misleading-google-chrome-error-notifications/"><u>Tackling Trickery Head-On: Proven Tips for Removing Misleading Google Chrome Error Notifications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-evolution-of-netflix-from-mailing-discs-to-streaming-giant/"><u>The Evolution of Netflix: From Mailing Discs to Streaming Giant</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-application-launch-failures-with-error-0xc000007b-steps-for-success/"><u>Troubleshoot and Fix Application Launch Failures with Error 0xC000007B – Steps for Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-minecraft-solutions-for-opengl-errors/"><u>Troubleshooting Minecraft: Solutions for OpenGL Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/xbox-one-and-pc-integration-button-maneuvers/"><u>Xbox One & PC Integration: Button Maneuvers</u></a></li>
 </ul></div>
 

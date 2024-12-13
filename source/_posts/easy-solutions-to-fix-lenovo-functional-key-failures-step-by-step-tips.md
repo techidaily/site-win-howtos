@@ -1,7 +1,7 @@
 ---
 title: Easy Solutions to Fix Lenovo Functional Key Failures - Step-by-Step Tips
-date: 2024-12-04T20:49:57.523Z
-updated: 2024-12-07T17:30:08.495Z
+date: 2024-12-07T18:43:52.549Z
+updated: 2024-12-13T16:37:33.208Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/76e26b163e9495753f19f00ef08b09cc2666b4e5e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes for Astro A40 Mic Not Working
 
  All the screenshots below are from**Windows 10** , but the fixes work in**Windows 8.1** &**7** as well.
@@ -42,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/76e26b163e9495753f19f00ef08b09cc2666b4e5e
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
@@ -57,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/76e26b163e9495753f19f00ef08b09cc2666b4e5e
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Make sure the volume is audible
@@ -69,14 +65,14 @@ To make sure the volume is audible:
 1. Click **the sound icon**  on the lower-right of your screen, then move **the volume slider**  all the way  to at least halfway up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -88,8 +84,16 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
@@ -97,10 +101,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
@@ -156,22 +156,24 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-effortlessly-access-your-most-watched-fb-movies-post-2023/"><u>[Updated] 2024 Approved Effortlessly Access Your Most-Watched FB Movies Post-2023</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-major-listing-of-affordable-visual-content-sites/"><u>[Updated] 2024 Approved Major Listing of Affordable Visual Content Sites</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-shopping-smart-with-drones-what-you-need-to-think-about-first/"><u>[Updated] 2024 Approved Shopping Smart with Drones What You Need to Think About First</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-creating-captivating-youtube-openers-two-ways/"><u>2024 Approved Creating Captivating YouTube Openers - Two Ways</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-oppo-reno-11-pro-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Oppo Reno 11 Pro 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-the-reason-behind-automatic-song-selection-in-apple-music-on-ios-devices/"><u>Exploring the Reason Behind Automatic Song Selection in Apple Music on iOS Devices</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-razer-drivers-for-windows-users-supports-windows-11-8-7-xp-vista/"><u>Get the Latest Razer Drivers for Windows Users - Supports Windows 11, 8, 7, XP, Vista</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-y100a-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo Y100A</u></a></li>
-<li><a href="https://article-posts.techidaily.com/optimize-space-compelling-selection-of-20-top-free-cloud-storages-up-to-1tb/"><u>Optimize Space Compelling Selection of 20 Top FREE Cloud Storages (Up To 1TB)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/rotating-mov-file-formats-for-windows-and-mac-users-top-5-techniques-explained/"><u>Rotating Mov File Formats for Windows & Mac Users: Top 5 Techniques Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-issue-of-non-playable-tweets-a-comprehensive-guide/"><u>Solving the Issue of Non-Playable Tweets: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-adding-subtitles-on-mx-player/"><u>Step-by-Step Guide: Adding Subtitles on MX Player</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-transforming-wma-files-into-mp3-format-using-vlc-media-player/"><u>Step-by-Step Guide: Transforming WMA Files Into MP3 Format Using VLC Media Player</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-utilizing-the-advanced-features-of-swf-video-converter-factory-pro/"><u>Step-by-Step Tutorial on Utilizing the Advanced Features of SWF Video Converter Factory Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-transforming-lmms-projects-from-mmpz-to-popular-audio-formats-like-mp3-wav-and-ogg/"><u>Step-by-Step Tutorial: Transforming LMMS Projects From MMPZ to Popular Audio Formats Like MP3, WAV, and OGG</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-dvd-ripper-and-converter-software-for-windows-1011-optimal-choices-for-legal-backups-and-playback/"><u>Top DVD Ripper & Converter Software for Windows 10/11: Optimal Choices for Legal Backups and Playback</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-free-kodi-extensions-discover-the-best-options-for-watching-movies-and-tv-series-without-payment/"><u>Top Free Kodi Extensions: Discover the Best Options for Watching Movies & TV Series Without Payment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-method-for-seamless-volume-dialing-down-in-audacity/"><u>[New] The Method for Seamless Volume Dialing Down in Audacity</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-advanced-filming-techniques-for-your-live-streaming-needs-using-logitech-cam/"><u>[Updated] In 2024, Advanced Filming Techniques for Your Live-Streaming Needs Using Logitech Cam</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-explore-the-power-of-text-in-visuals-uncovering-top-5-caption-strategies-for-tiktok/"><u>2024 Approved Explore the Power of Text in Visuals Uncovering Top 5 Caption Strategies for TikTok</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/2024-approved-what-is-emoji-and-what-does-it-mean/"><u>2024 Approved What Is Emoji and What Does It Mean?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024s-most-economical-cloud-stores-revealed/"><u>2024'S Most Economical Cloud Stores Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-filmmakers-guide-to-quick-and-clear-marine-video/"><u>A Filmmaker’s Guide to Quick and Clear Marine Video</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-the-headache-of-werfaultexe-errors-with-these-effortless-repair-strategies/"><u>Bypass the Headache of werFault.exe Errors With These Effortless Repair Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-2024-on-dota-2-change-rendering-api-swift-tips-for-an-immediate-fix/"><u>Error 2024 on Dota 2 [Change Rendering API] - Swift Tips for an Immediate Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-swift-solutions-to-windows-install-failures/"><u>Expert Tips for Swift Solutions to Windows Install Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-your-non-responsive-laptop-touchpad-on-pcs-with-windows-1187-guide/"><u>Fixing Your Non-Responsive Laptop Touchpad on PCs with Windows 11/8/7 (Guide)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-airpods-not-connecting-to-windows-1111-2024-tips/"><u>How to Fix AirPods Not Connecting to Windows 11/11 - 2024 Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-7-updates-not-downloading-issue/"><u>How to Fix Windows 7 Updates Not Downloading Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-malfunctioning-spacebar-key-in-microsofts-latest-operating-system/"><u>How to Repair a Malfunctioning Spacebar Key in Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/local-safety-procedures-reinstated-activating-key-layers-of-digital-armor-on-your-device/"><u>Local Safety Procedures Reinstated - Activating Key Layers of Digital Armor on Your Device</u></a></li>
+<li><a href="https://win-trending.techidaily.com/quickstart-mastery-optimizing-launch-speeds-with-yl-softwares-best-practices/"><u>QuickStart Mastery: Optimizing Launch Speeds with YL Software's Best Practices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-quick-fix-guide-to-correct-the-change-rendering-api-error-in-dota-2-error-2024/"><u>Ultimate Quick-Fix Guide to Correct the Change Rendering API Error in Dota 2 [Error 2024]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-crc-cyclic-redundancy-check-data-corruption-issues/"><u>Understanding and Resolving CRC (Cyclic Redundancy Check) Data Corruption Issues</u></a></li>
 </ul></div>
 

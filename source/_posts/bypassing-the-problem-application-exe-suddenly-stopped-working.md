@@ -1,7 +1,7 @@
 ---
 title: Bypassing the Problem - Application Exe Suddenly Stopped Working?
-date: 2024-12-01T19:31:40.075Z
-updated: 2024-12-07T16:50:42.465Z
+date: 2024-12-07T16:49:24.238Z
+updated: 2024-12-13T17:15:25.108Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/e696268502b283ed640a05098ec06b8044deb546b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Fixes to try:**
 
@@ -55,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/e696268502b283ed640a05098ec06b8044deb546b
 
  4) If possible,**use your current AC adapter to charge a new battery** . If the battery is charging, it indicates your battery is bad. If the new battery is not charging, perhaps it is the AC adapter that triggers this issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Turn off the battery charge threshold
 
  Some laptops have**the battery charge threshold feature** . This feature allows laptop users to customize the battery charge threshold so that when the battery reaches that threshold, the battery won’t charge.
@@ -69,13 +69,13 @@ thumbnail: https://thmb.techidaily.com/e696268502b283ed640a05098ec06b8044deb546b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)**Turn off** the toggle under **Battery Charge Threshold** if it is turned on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you turn off the battery charge threshold feature, your battery should be charging.
 
@@ -90,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/e696268502b283ed640a05098ec06b8044deb546b
 
  See if the battery is charging. If so, you’ve fixed this issue. If the issue reappears, don’t worry. Try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Reinstall Microsoft ACPI-Compliant Control Method Battery
 
  You can try reinstalling **Microsoft ACPI-Compliant Control Method Battery**  to see if this annoying issue persists. Here is how to do it:
@@ -102,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/e696268502b283ed640a05098ec06b8044deb546b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Double-click**Batteries** . Right-click **Microsoft ACPI-Compliant Control Method Battery**  and select **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/1-1.jpg)
@@ -113,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/e696268502b283ed640a05098ec06b8044deb546b
  3) Click**Uninstall** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Shut down your laptop and **disconnect the AC adapter** .
 
@@ -126,15 +122,15 @@ thumbnail: https://thmb.techidaily.com/e696268502b283ed640a05098ec06b8044deb546b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd073b6f72.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ii. Select**Batteries** . Click **Action** and select **Scan for hardware changes** . Wait several seconds and **Microsoft ACPI-Compliant Control Method Battery**  will be reinstalled on your laptop.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
 
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Update the driver for your battery management device
 
@@ -156,13 +152,13 @@ thumbnail: https://thmb.techidaily.com/e696268502b283ed640a05098ec06b8044deb546b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap437.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to your battery management device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -173,6 +169,10 @@ thumbnail: https://thmb.techidaily.com/e696268502b283ed640a05098ec06b8044deb546b
 Your battery should then be charging.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully one of the fixes above resolved the laptop battery not charging issue for you. Please leave your comment below if you have any questions.
 
@@ -194,19 +194,22 @@ Your battery should then be charging.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-essential-fb-extras-video-grabs-and-firefox-boost/"><u>[New] In 2024, Essential FB Extras Video Grabs & FireFox Boost</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-idea-to-installment-making-custom-instagram-notifications/"><u>[Updated] From Idea to Installment Making Custom Instagram Notifications</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-optimization-tips-switching-from-cpu-to-gpu-rendering-in-windows-10/"><u>Cyberpunk 2077 Optimization Tips: Switching From CPU to GPU Rendering in Windows 10</u></a></li>
-<li><a href="https://win-blog.techidaily.com/enhancements-for-outriders-visual-quality-eliminating-image-blurriness/"><u>Enhancements for Outriders Visual Quality: Eliminating Image Blurriness</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-switch-to-picture-in-picture-for-youtube-videos-on-iphones/"><u>In 2024, Switch to Picture-in-Picture for YouTube Videos on iPhones</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-iphone-8-plus-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From iPhone 8 Plus</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/streamline-your-audio-conversion-how-to-transform-flv-videos-into-mp3-format-in-minutes/"><u>Streamline Your Audio Conversion: How to Transform FLV Videos Into MP3 Format in Minutes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/survive-blackouts-slash-expenses-discover-how-a-solar-generator-can-cut-costs-by-100/"><u>Survive Blackouts, Slash Expenses: Discover How a Solar Generator Can Cut Costs by $100</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tailor-your-experience-a-guide-to-optimizing-account-preferences-and-settings/"><u>Tailor Your Experience: A Guide to Optimizing Account Preferences and Settings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-5-free-ogg-vorbis-audio-editors-easy-and-powerful-options/"><u>Top 5 Free Ogg Vorbis Audio Editors - Easy and Powerful Options</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-why-cant-my-mov-files-load-on-plex/"><u>Troubleshooting Steps: Why Can't My Mov Files Load on Plex?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-discover-the-finest-60fps-video-capture-applications-for-crystal-clear-quality/"><u>Ultimate Guide: Discover the Finest 60FPS Video Capture Applications for Crystal Clear Quality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-how-to-choose-the-most-effective-video-grabber-apps-featuring-flowplayer-technology/"><u>Ultimate Guide: How to Choose the Most Effective Video Grabber Apps Featuring Flowplayer Technology</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-pinnacle-playbook-perfecting-the-art-of-live-thumbnail-design/"><u>[New] 2024 Approved The Pinnacle Playbook Perfecting the Art of Live Thumbnail Design</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-elevate-your-ppt-shows-with-advanced-techniques-for-2024/"><u>[Updated] Elevate Your PPT Shows with Advanced Techniques for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-immaculate-game-recordings-with-obs-studio-pro-for-2024/"><u>[Updated] Immaculate Game Recordings with OBS Studio Pro for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209824378-9781644616437-amor-sexo-y-astrologia/"><u>Amor, sexo y astrología | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-made-better-in-chrome-discover-our-top-7-fixes/"><u>ChatGPT Made Better in Chrome: Discover Our Top 7 Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-ways-to-improve-your-keyboards-reaction-time-tips-and-tricks/"><u>Effortless Ways to Improve Your Keyboard's Reaction Time - Tips and Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-restoring-access-to-a-malfunctioning-steam-marketplace/"><u>Expert Tips on Restoring Access to a Malfunctioning Steam Marketplace</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-lava-blaze-2-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-repairing-dirty-hard-drive-error-code-0x80071ac3-and-restoring-system-functionality/"><u>Guide to Repairing Dirty Hard Drive (Error Code 0X80071AC3) and Restoring System Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-user-profile-service-service-failed-the-sign-in-error-windows-1011/"><u>How to Fix “The User Profile Service Service Failed the Sign-In” Error Windows 10/11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-essentials-of-monetization-youtube-policy-update/"><u>In 2024, The Essentials of Monetization YouTube Policy Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-audio-device-performance-in-windows-to-reduce-excessive-cpu-load/"><u>Optimizing Audio Device Performance in Windows to Reduce Excessive CPU Load</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-hurdle-of-windows-10-update-error-0xc1900208-easy-fixes-unveiled/"><u>Overcoming the Hurdle of Windows 10 Update Error 0Xc1900208: Easy Fixes Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-uncooperative-controllers-on-pc/"><u>Quick Fixes for Uncooperative Controllers on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-fixes-for-frequent-reboots-on-windows-11-a-step-by-step-guide/"><u>Simple Fixes for Frequent Reboots on Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-intensive-cpu-utilization-from-wudfhostexe-in-win11/"><u>Troubleshooting Intensive CPU Utilization From wudfhost.exe in Win11</u></a></li>
 </ul></div>
 

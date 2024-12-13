@@ -1,7 +1,7 @@
 ---
 title: How to Fix the CE-34878-0 Eject Tray Issue on Your PS4 Console
-date: 2024-12-03T19:42:41.520Z
-updated: 2024-12-07T18:32:17.540Z
+date: 2024-12-06T16:40:13.555Z
+updated: 2024-12-13T20:25:54.672Z
 tags:
   - win11
   - win10
@@ -38,7 +38,15 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 * In the back of the keyboard, there’s the BIOS button. You can switch it to a different number for a try. You may see it suddenly detects the keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/bios-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If none of these work, you can move to the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Redownload the firmware files
 
@@ -52,7 +60,7 @@ If none of these work, you can move to the next method.
 6. Install firmware.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Disable other related devices
@@ -65,27 +73,19 @@ If none of these work, you can move to the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 4. Click**View** and choose**Show hidden devices** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/hidden.jpg)
 5. Expand**Keyboard** and then uninstall every hidden device below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Open Control Panel and click**Uninstall a program** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uninstall.jpg)
 7. Uninstall Corsair Utility Engine.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Connect your keyboard back to PC.
 9. Run iCUE and the keyboard should appear.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Update your drivers
 
@@ -119,7 +119,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -143,18 +143,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagrams-slow-motion-secrets-reels-done-right/"><u>[New] 2024 Approved Instagram's Slow Motion Secrets Reels Done Right</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-from-frame-one-15-key-shot-types-for-film-beginners/"><u>[New] From Frame One 15 Key Shot Types for Film Beginners</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ore-than-just-likes-decoding-the-secrets-to-youtube-views-for-2024/"><u>[New] More than Just Likes Decoding the Secrets to YouTube Views for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-financially-flourishing-online-media-personality-for-2024/"><u>[Updated] Financially Flourishing Online Media Personality for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-motorola-moto-g23-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Motorola Moto G23 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mp4-asf/"><u>無料MP4形式への変換サービス: ASFファイルを簡単に再編集する方法</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/free-download-winx-mobile-dvd-ripper-compatible-with-ios-and-android/"><u>Free Download: WinX Mobile DVD Ripper - Compatible with iOS and Android</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/how-to-initiate-a-collaborative-skype-group-discussion/"><u>How to Initiate a Collaborative Skype Group Discussion</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-open-and-enjoy-ebooks-with-acsm-format-on-your-nook-reader/"><u>How to Open and Enjoy eBooks with ACSM Format on Your Nook Reader</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformacion-gratuita-de-archivos-mp4-al-linea-guia-definitiva-con-movavi/"><u>Transformación Gratuita De Archivos MP4 Al Línea: Guía Definitiva Con Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-pick-5-optimal-computer-systems-enhancing-your-video-editing-experience/"><u>Ultimate Pick: 5 Optimal Computer Systems Enhancing Your Video Editing Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/onestorage-tod-movavi/"><u>이웃의 ONESTORAGE에서 원할로잉으로 TOD 자동 변환 - MOVAVI</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/onquering-competition-crafting-standout-youtube-advertising-banners-for-2024/"><u>[New] Conquering Competition Crafting Standout YouTube Advertising Banners for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-flat-to-fantastic-3d-text-creation-tips/"><u>[New] From Flat to Fantastic 3D Text Creation Tips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-quick-access-to-quality-sound-with-easy-vrecorder-downloads-for-2024/"><u>[New] Quick Access to Quality Sound with Easy VRecorder Downloads for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-inside-out-with-t5-ultimate-sport-and-action-recorder/"><u>2024 Approved Inside Out with T5 - Ultimate Sport and Action Recorder</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bluetooth-integration-mastery-in-windows-operating-system/"><u>Bluetooth Integration Mastery in Windows Operating System</u></a></li>
+<li><a href="https://win-top.techidaily.com/effective-forex-trading-with-bollinger-bands-a-comprehensive-guide-for-mt4-users/"><u>Effective Forex Trading with Bollinger Bands: A Comprehensive Guide for MT4 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/endless-eye-strain-fixing-the-never-ending-cursor-twitch/"><u>Endless Eye-Strain: Fixing the Never-Ending Cursor Twitch</u></a></li>
+<li><a href="https://fox-search.techidaily.com/enhancing-productivity-with-the-versatile-notepad-feature/"><u>Enhancing Productivity with the Versatile Notepad Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-preventing-unexpected-computer-power-losses-and-ensuring-stability/"><u>Expert Advice on Preventing Unexpected Computer Power Losses and Ensuring Stability</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209416166-fix-vanished-desktop-symbols-in-windows-11-effective-solutions-proven/"><u>Fix: Vanished Desktop Symbols in Windows 11 – Effective Solutions Proven</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fix-connection-errors-and-secure-your-browsing-session-in-mozilla-firefox/"><u>Guide to Fix Connection Errors and Secure Your Browsing Session in Mozilla Firefox</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-device-unavailable-code-24-for-windows-operating-systems-11-8-and-7/"><u>How to Resolve 'Device Unavailable (Code 24)' For Windows Operating Systems: 11, 8, and 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208125764-immediate-remedies-to-restore-sound-in-your-favorite-steam-games-hassle-free/"><u>Immediate Remedies to Restore Sound in Your Favorite Steam Games | HASSLE-FREE!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lsa-defense-mechanism-reactivated-for-enhanced-localized-safeguarding/"><u>LSA Defense Mechanism Reactivated for Enhanced Localized Safeguarding</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-link-authority-in-seo-definitions-insights-and-effective-techniques-boost-your-rankings-with-powersuite-tips/"><u>Mastering Link Authority in SEO: Definitions, Insights & Effective Techniques | Boost Your Rankings with PowerSuite Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-signal-blizzard-services-offline/"><u>No Signal - Blizzard Services Offline</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unlocking-superior-slow-motion-quality-through-fps-selection/"><u>Unlocking Superior Slow Motion Quality Through FPS Selection</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Ways to Restore Proper Functionality of Special Keys on a Dell Notebook
-date: 2024-12-02T21:04:54.968Z
-updated: 2024-12-07T20:04:48.993Z
+date: 2024-12-09T20:57:16.947Z
+updated: 2024-12-13T18:19:07.011Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes For **SteelSeries Arctis 5 Mic Not Working**
 
  All the fixes below work in**Windows 10** . Just work your way down the list until the problem is resolved.
@@ -30,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 2. [**Update your audio driver**](#F2)
 3. [**Adjust your audio settings**](#F3)
 4. [**Install the latest SteelSeries Engine software**](#F4)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Allow access to microphone
 
@@ -45,13 +45,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
@@ -62,7 +62,7 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
@@ -79,7 +79,7 @@ Here’s how to do it:
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
@@ -99,16 +99,16 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
@@ -147,24 +147,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-ultimate-avc-player-on-devices/"><u>[New] In 2024, Ultimate AVC Player on Devices</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-navigate-with-ease-best-7-android-browsers-without-pop-ups/"><u>2024 Approved Navigate With Ease Best 7 Android Browsers Without Pop-Ups</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/s-the-archived-unique-methods-for-viewing-old-youtube/"><u>Access the Archived Unique Methods for Viewing Old YouTube</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beginners-path-to-w11-audio-recording/"><u>Beginner's Path to W11 Audio Recording</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/best-techniques-for-opening-and-accessing-iso-images-in-macos-a-top-5-guide/"><u>Best Techniques for Opening and Accessing ISO Images in macOS: A Top-5 Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/critique-on-splitcam-does-it-top-video-tech/"><u>Critique on SplitCam Does It Top Video Tech?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/diving-into-samsung-galaxy-s8-the-ultra-hd-milestone/"><u>Diving Into Samsung Galaxy S8 The Ultra HD Milestone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-guide-overcoming-high-voltage-incidents-at-your-hub-port/"><u>Expert Guide: Overcoming High Voltage Incidents at Your Hub Port</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/video-embedding-for-dynamic-online-articles/"><u>Free Video Embedding for Dynamic Online Articles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-easily-enable-bluetooth-on-your-pc-with-windows-11-or-10/"><u>Guide: Easily Enable Bluetooth on Your PC with Windows 11 or 10</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-11-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 11 iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-techniques-to-eliminate-ie-frame-dll-errors-on-windows-systems/"><u>Master the Techniques to Eliminate IE Frame DLL Errors on Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/missing-device-drivers-how-to-fix-when-your-pc-lacks-essential-media-software/"><u>Missing Device Drivers: How to Fix When Your PC Lacks Essential Media Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211537847-persistent-usb-problem-solved-stop-seeing-device-not-recognized-alerts-forever/"><u>Persistent USB Problem Solved: Stop Seeing 'Device Not Recognized' Alerts Forever</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-troublesome-0xc19amo-update-error-in-windows-10-a-step-by-step-solution/"><u>Resolving the Troublesome 0xC19amo Update Error in Windows 10: A Step-by-Step Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207184627-reviving-stuck-keys-on-your-windows-pc-comprehensive-fixes-inside/"><u>Reviving Stuck Keys on Your Windows PC - Comprehensive Fixes Inside!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simplify-your-experience-advanced-support-for-file-explorer-on-windows-11/"><u>Simplify Your Experience: Advanced Support for File Explorer on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tackling-high-cpu-drain-by-svchostexe-on-windows-11-solved/"><u>Tackling High CPU Drain by svchost.exe on Windows 11: Solved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-on-acquiring-authorization-from-trustedinstaller-to-modify-files/"><u>The Ultimate Guide on Acquiring Authorization From TrustedInstaller To Modify Files</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-attention-magnet-article-initiator-for-2024/"><u>[New] Attention Magnet Article Initiator for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-flash-moment-of-fame-analysis/"><u>[New] Flash Moment of Fame Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unveiling-the-hidden-gem-best-free-text-to-speech-macapps/"><u>[Updated] 2024 Approved Unveiling the Hidden Gem Best Free Text to Speech macApps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-multimedia-designers-space/"><u>[Updated] Multimedia Designer's Space</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-navigating-the-depths-of-stardew-a-compreayer-guide-to-unveiling-ginger-islands-wonders-for-2024/"><u>[Updated] Navigating the Depths of Stardew A Compreayer Guide to Unveiling Ginger Island’s Wonders for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-periscope-demystified-features-pricing-and-account-creation-tips-for-2024/"><u>[Updated] Periscope Demystified Features, Pricing & Account Creation Tips for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-how-to-download-facebook-status-videos/"><u>2024 Approved How to Download Facebook Status Videos?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-to-fix-your-stuck-touchpad-scroll-wheel/"><u>Comprehensive Solutions to Fix Your Stuck Touchpad Scroll Wheel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210011861-expert-solutions-for-windows-users-with-unresponsive-usb-input-gear-mice-and-keyboards-made-functional-again/"><u>Expert Solutions for Windows ^Users with Unresponsive USB Input Gear – Mice and Keyboards Made Functional Again!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/geforce-experience-wont-open-issue-solved/"><u>GeForce Experience Won't Open Issue [Solved]</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-mac-mkv-players-compilation/"><u>In 2024, Top Mac MKV Players Compilation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-usb-dropout-effective-strategies-for-stable-connectivity-fixes/"><u>Overcoming USB Dropout: Effective Strategies for Stable Connectivity Fixes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/pioneering-unmicrophoned-audio-capturing-methods-for-2024/"><u>Pioneering Unmicrophoned Audio Capturing Methods for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/quality-at-cost-2024s-top-cams/"><u>Quality at Cost: 2024'S Top Cams</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issues-with-vital-components-of-the-windows-update-system/"><u>Resolved Issues with Vital Components of the Windows Update System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-the-popping-resolving-crackle-sound-problems-in-windows-operating-systems/"><u>Stop the Popping: Resolving Crackle Sound Problems in Windows Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/surpassing-hurdles-in-nvidia-installation-woes/"><u>Surpassing Hurdles in NVIDIA Installation Woes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-function-key-issues-on-your-asus-laptop/"><u>Troubleshooting Non-Functional Function Key Issues on Your ASUS Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-dealing-with-unresponsive-numeric-keys/"><u>Troubleshooting Tips: Dealing with Unresponsive Numeric Keys</u></a></li>
 </ul></div>
 

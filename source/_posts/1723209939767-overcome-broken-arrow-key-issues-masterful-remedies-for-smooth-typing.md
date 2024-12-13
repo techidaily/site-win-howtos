@@ -1,7 +1,7 @@
 ---
 title: "Overcome Broken Arrow Key Issues: Masterful Remedies for Smooth Typing"
-date: 2024-12-04T20:14:39.020Z
-updated: 2024-12-07T21:27:25.322Z
+date: 2024-12-09T16:02:22.642Z
+updated: 2024-12-13T16:06:42.482Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 6 fixes that have helped other users resolve their arrow keys not working issue. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check hardware issues
 
@@ -62,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 
@@ -73,13 +69,17 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 5. When prompted, click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
 
@@ -92,22 +92,18 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
  After updating your keyboard driver, restart your PC for the changes to take effect.
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable the Scroll Lock key
 
@@ -118,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 1. On your keyboard, press the**Windows logo key + Ctrl + O** at the same time to turn on the**On-Screen Keyboard** .
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If this method didn’t work for you, check out the last fix.
 
@@ -137,8 +129,17 @@ If this method didn’t work for you, check out the last fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### on Windows 11
 
@@ -151,7 +152,7 @@ If this method didn’t work for you, check out the last fix.
 4. Click on the**Run** button next to Keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -175,24 +176,16 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-streamlining-twitters-video-transfer-to-fb-network/"><u>[New] 2024 Approved Streamlining Twitters Video Transfer to FB Network</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-standard-edition-review-of-djis-drone-model-3/"><u>[New] The Standard Edition Review of DJI's Drone Model 3</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-metaverse-top-picks-friends-first-games/"><u>[Updated] Metaverse Top Picks Friends-First Games</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1-silencing-your-zoom-meeting-with-ease-a-step-by-step-guide/"><u>1. Silencing Your Zoom Meeting with Ease: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-elevate-your-presentations-10-best-places-to-download-slideshow-designs/"><u>2024 Approved Elevate Your Presentations 10 Best Places to Download Slideshow Designs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726219563826-movavi/"><u>高品質ビデオのスロー再生：Movaviソリューションのガイド</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/apple-unveils-revolutionary-m4-silicon-enhanced-ai-capabilities-across-all-mac-models-release-dates-revealed/"><u>Apple Unveils Revolutionary M4 Silicon: Enhanced AI Capabilities Across All Mac Models - Release Dates Revealed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/code-28-on-windows-explained-diagnosis-and-repair-tactics-that-work/"><u>Code 28 on Windows Explained: Diagnosis & Repair Tactics That Work</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convertissez-votre-fichier-3g2-en-audio-wma-sans-frais-conversion-rapide-et-facile-avec-movavi/"><u>Convertissez Votre Fichier .3G2 en Audio WMA Sans Frais - Conversion Rapide Et Facile Avec Movavi</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/effiziente-moglichkeiten-zum-datentransfer-von-oneplus-zu-iphone-drei-praktische-losungen-erklart/"><u>Effiziente Möglichkeiten Zum Datentransfer Von OnePlus Zu iPhone - Drei Praktische Lösungen Erklärt</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-conversion-transforming-nsv-files-to-avi-format-with-movavi/"><u>Free Online Conversion: Transforming NSV Files to Avi Format with Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gratuito-online-converter-de-wav-para-flv-pelo-movavi-faca-a-transformacao-agora/"><u>Gratuito Online Converter De WAV Para FLV Pelo Movavi - Faça a Transformação Agora!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guida-rapida-e-facile-per-la-conversione-on-line-di-file-audio-au-a-formato-mp4-senza-costi-aggiuntivi/"><u>Guida Rapida E Facile per La Conversione On-Line Di File Audio AU a Formato MP4 Senza Costi Aggiuntivi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/las-mejores-aplicaciones-de-streaming-de-cine-libres-optimizadas-para-windows-10-8-y-7/"><u>Las Mejores Aplicaciones De Streaming De Cine Libres: Optimizadas Para Windows 10, 8 Y 7</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-14-premier-video-editing-applications-for-creative-experts/"><u>The Ultimate Guide: 14 Premier Video Editing Applications for Creative Experts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformez-facilement-votre-fichier-video-m1v-en-mpeg-pour-free-via-le-convertisseur-videoconvert-en-ligne/"><u>Transformez Facilement Votre Fichier Vidéo M1V en MPEG Pour Free via Le Convertisseur VidéoConvert en Ligne</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/troubleshooting-messengers-failure-send-videos-without-issues-androidiphone/"><u>Troubleshooting Messenger's Failure Send Videos without Issues (Android/iPhone)</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-guide-preventing-snowrunner-applications-from-pc-crashes/"><u>Ultimate Troubleshooting Guide - Preventing SnowRunner Applications From PC Crashes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-where-to-buy-a-monetized-youtube-channel-a-complete-guide/"><u>[New] Where to Buy a Monetized YouTube Channel A Complete Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ai-powered-image-processing-hub-for-2024/"><u>[Updated] AI-Powered Image Processing Hub for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-leading-ios-emulators-virtual-ps2-world/"><u>[Updated] In 2024, Leading iOS Emulators Virtual PS2 World</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-editing-skills-switch-to-our-pro-grade-video-converter-for-advanced-features/"><u>Elevate Your Editing Skills: Switch to Our Pro-Grade Video Converter for Advanced Features</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-printing-downloading-the-right-drivers-for-ricoh-mp-c3003/"><u>Essential Printing: Downloading the Right Drivers for Ricoh MP C3003</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-tips-overcoming-the-error-code-28-challenge-in-windows-device-manager/"><u>Essential Tips: Overcoming the 'Error Code 28' Challenge in Windows Device Manager</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-overcoming-directx-encountered-an-unrecoverable-error-on-your-pc/"><u>Expert Advice: Overcoming 'DirectX Encountered an Unrecoverable Error' On Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-the-red-exclusion-mark-on-network-symbols/"><u>Troubleshooting Guide for the Red Exclusion Mark on Network Symbols</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-ps4-noise-issues-identifying-causes-and-solutions/"><u>Troubleshooting PS4 Noise Issues: Identifying Causes and Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-windows-11-update-hurdle-error-0x800f0922-fixes/"><u>Ultimate Guide: Resolving the Windows 11 Update Hurdle – Error 0X800f0922 Fixes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/why-mondly-is-perfect-for-your-first-steps-into-afrikaans/"><u>Why Mondly Is Perfect for Your First Steps Into Afrikaans</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Correct an Incorrect Directory Name Error"
-date: 2024-12-02T17:41:06.609Z
-updated: 2024-12-07T16:00:16.048Z
+date: 2024-12-07T21:13:06.088Z
+updated: 2024-12-13T20:52:23.203Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ If you opened Steam only to find**Store not loading** any more or even going all
 5. **[Launch Steam from shortcut](https://tools.techidaily.com/drivereasy/download/)** **[](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Want us to fix the problem for you?](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 1: Run flushconfig**
 
  By running flushconfig, we can clear download cache and hopefully solve our problem. To do so:
@@ -53,6 +49,10 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 2: Update Steam**
 
  Updating steam is another effective way to fix game bugs. And rest assured all your game data will be safe if done correctly. To do so:
@@ -63,13 +63,13 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eb4c9008b0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) On your keyboard, press **the Windows logo key**  and **R**  at the same time, then copy & paste **C:\\Program Files (x86)\\Steam**  into the box and press **Enter**  .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eb7602a8e8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4)
 
@@ -78,12 +78,16 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eb897dafd2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Launch Steam and it’ll update on itself.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eb8b7cb600.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Log in Steam and see if Steam store loads fine this time.
@@ -98,13 +102,13 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eb7602a8e8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-click on**Steam.exe** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eda2453493.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the**Compatibility** tab, un-check all**the boxes** and click**Change settings for all users** (or**Show settings for all users** ).
 
@@ -127,12 +131,16 @@ If you opened Steam only to find**Store not loading** any more or even going all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ec27c142c2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Hopefully your Steam store shows up fine now.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Launch Steam from shortcut
 
@@ -142,17 +150,9 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eb7602a8e8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and right-click on **Steam.exe** and click**Create shortcut** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee2106c035.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Right-click on**Steam – Shortcut** and click**Properties** .
 
@@ -165,7 +165,7 @@ If you opened Steam only to find**Store not loading** any more or even going all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ebe97cff5c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Double-click on **Steam – Shortcut** to launch Steam. Hope Steam store runs properly this time.
@@ -198,18 +198,14 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-achieve-more-engagement-on-youtube-learn-the-best-thumbnail-size/"><u>2024 Approved Achieve More Engagement on YouTube Learn the Best Thumbnail Size</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capturing-life-one-click-at-a-time-the-ultimate-guide-for-documenting-your-sims-journey-in-sims-4/"><u>2024 Approved Capturing Life, One Click at a Time The Ultimate Guide for Documenting Your Sim's Journey in Sims 4</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/cringe-worthy-tweets-the-collection-for-2024/"><u>Cringe-Worthy Tweets The Collection for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205319181-getting-microsofts-latest-patches-reviving-your-stalled-windows-update-service/"><u>Getting Microsoft's Latest Patches? Reviving Your Stalled Windows Update Service.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-brilliance-in-display-top-5-for-grading-professionals/"><u>In 2024, Brilliance in Display TOP 5 for Grading Professionals</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-uninterrupted-streams-tips-to-combat-buffering-on-kodi/"><u>Mastering Uninterrupted Streams: Tips to Combat Buffering on Kodi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/open-source-high-quality-visual-effects-apps/"><u>Open Source, High Quality Visual Effects Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-minecraft-lan-play-hurdles-expert-tips-and-tricks-for-smooth-gaming/"><u>Overcoming Minecraft LAN Play Hurdles: Expert Tips and Tricks for Smooth Gaming</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-issue-dragon-ball-fighterz-network-initialization-error/"><u>Resolved Issue: 'Dragon Ball FighterZ' Network Initialization Error</u></a></li>
-<li><a href="https://games-able.techidaily.com/solutions-for-sticky-mouse-scroll-issue/"><u>Solutions for Sticky Mouse Scroll Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-getting-destiny-2-servers-back-online/"><u>Step-by-Step Solution: Getting Destiny 2 Servers Back Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tech-savvy-tips-troubleshooting-steps-for-a-non-freezing-computer-experience/"><u>Tech Savvy Tips: Troubleshooting Steps for a Non-Freezing Computer Experience</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-hidden-costs-in-buying-a-dvr-reflect-first-on-your-needs/"><u>The Hidden Costs in Buying a DVR? Reflect First on Your Needs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-fast-play-instagram-videos-at-home-desktop/"><u>[New] Mastering Fast-Play Instagram Videos at Home (Desktop)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-5-budget-friendly-methods-for-live-feed-recordings/"><u>[New] Top 5 Budget-Friendly Methods for Live Feed Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-turning-voice-into-text-mastering-microsoft-words-speech-toolkit/"><u>[New] Turning Voice Into Text Mastering Microsoft Word's Speech Toolkit</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-ultimate-top-notch-photo-cloud-storages-both-gratis-and-premium-options/"><u>[Updated] 2024 Approved Ultimate Top-Notch Photo Cloud Storages Both Gratis & Premium Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-the-sudden-peaks-in-cpu-usage-on-windows-11/"><u>Addressing the Sudden Peaks in CPU Usage on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fix-to-your-pc-cant-project-to-another-screen-error/"><u>Easy Fix to Your PC Can't Project to Another Screen Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-ce-34878-0-issue-on-sonys-ps4-console-fixed/"><u>How to Resolve the CE-34878-0 Issue on Sony's PS4 Console [FIXED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-fixing-driver-power-cycle-errors-in-windows/"><u>Step-by-Step Solutions for Fixing Driver Power Cycle Errors in Windows</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/thwarting-vr-discomfort-tips-for-a-smooth-experience-for-2024/"><u>Thwarting VR Discomfort Tips for a Smooth Experience for 2024</u></a></li>
 </ul></div>
 

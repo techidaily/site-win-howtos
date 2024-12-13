@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Guide When Microsoft Store Doesn't Launch"
-date: 2024-12-02T19:50:52.800Z
-updated: 2024-12-07T17:41:25.510Z
+date: 2024-12-10T19:27:29.043Z
+updated: 2024-12-13T16:20:42.639Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5 fixes for **Fortnite not launching** in Windows
@@ -51,22 +51,18 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
  2) Run**Driver Easy** and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a**7-day free trial** which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged until the trial ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/DE-update-all-AMD.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer for the changes to take effect.
 
  5) Open Fortnite and see if it launches properly. If yes, then congrats! But if it still won’t launch, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Verify your Fortnite files
 
@@ -80,11 +76,11 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c11d917b99e3.jpg)
 3. As soon as the verification is ready, the**SETTINGS** option will switch to **LAUNCH** . Click**LAUNCH** to see if Fortnite opens smoothly.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Repair EasyAntiCheat
 
@@ -98,6 +94,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1200695db42.jpg)
 5. Click**Finish** once the uninstall and the install processes finish.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Re-launch Fortnite and hopefully the Fortnite not launching problem has been solved.
 
 ### Fix 4: Install the latest patch
@@ -105,6 +105,10 @@ Here’s how to do it:
  Developers of Epic Games keep releasing patches to help fix game bugs and improve overall gaming experience. So it’s always recommended you install the latest patch and then restart your computer to see if it fixes the**Fortnite not launching** issue.
 
  If all else fails, then you might want to contact **[Epic Games Help Center](https://epicgames.helpshift.com/a/fortnite/)**  for assistance in further troubleshooting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -128,10 +132,6 @@ Here’s how to use Fortect to repair system files on your PC:
  3) Once finished, Fortect will generate a detailed report of your computer health, which includes all issues detected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact[](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
@@ -185,22 +185,21 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-unveiling-fake-followers-trap-on-youtube-landscapes/"><u>[New] 2024 Approved Unveiling Fake Followers' Trap on YouTube Landscapes</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-harnessing-skypes-potential-on-pc-and-mac-with-ease/"><u>[Updated] 2024 Approved Harnessing Skype's Potential on PC & Mac with Ease</u></a></li>
-<li><a href="https://blog-min.techidaily.com/m2pmp3/"><u>網路無限制免費變更音頻格式：移動畫壺 M2P到MP3自行解決方案</u></a></li>
-<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/erclockwise-content-youtube-replay-methods-for-2024/"><u>Counterclockwise Content YouTube Replay Methods for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/efficient-x3daudio17dll-recovery-techniques/"><u>Efficient X3DAudio1_7.dll Recovery Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-system-error-5-has-occurred-error-on-windows-11-7-and-8-solved/"><u>Fix System Error 5 Has Occurred Error on Windows 11, 7 & 8 [Solved]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-lenovo-mouse-pad-troubleshooting-tips-for-windows-users/"><u>Fix Your Lenovo Mouse Pad - Troubleshooting Tips for Windows Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/freshly-compiled-netgear-device-passwords-access-guide-july-2024/"><u>Freshly Compiled NETGEAR Device Passwords: Access Guide (July 2024)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-windows-11-cant-be-installed-error-code-80240020-with-ease/"><u>How to Overcome 'Windows 11 Can’t Be Installed Error Code 80240020' With Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/identifying-and-solving-errors-in-your-windows-software-installers/"><u>Identifying and Solving Errors in Your Windows Software Installers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-f5-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Poco F5 5G Phone Without Password?</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-vivo-y100-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo Y100 5G Black and White | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-kodi-buffering-glitches-with-these-simple-solutions/"><u>Say Goodbye to Kodi Buffering Glitches with These Simple Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-the-0x80072efd-error-on-your-pc-windows-10-guide/"><u>Troubleshooting and Repairing the 0X80072EFD Error on Your PC - Windows 10 Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-nonfunctional-microphone-problems-on-windows-11-computers/"><u>Troubleshooting Nonfunctional Microphone Problems on Windows 11 Computers</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/ultimate-guide-cracking-dvd-protection-discover-8-techniques-and-access-5-cost-free-alternatives/"><u>Ultimate Guide: Cracking DVD Protection - Discover 8 Techniques and Access 5 Cost-Free Alternatives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-range-humor-development-unleash-your-wit/"><u>[Updated] Free-Range Humor Development Unleash Your Wit</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-best-of-the-best-high-res-gaming-displays/"><u>[Updated] In 2024, Best of the Best High-Res Gaming Displays</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-capture-and-convert-fb-videos-immediitsly-to-mp3/"><u>[Updated] In 2024, Capture and Convert FB Videos Immediitsly to MP3</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-pro-with-gs-effects-exclusive-free-lessons-from-4-premier-video-channels-for-2024/"><u>Going Pro with GS Effects Exclusive Free Lessons From 4 Premier Video Channels for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-solve-the-0x80e070426-issue-in-windows-10-comprehensive-tips/"><u>How to Correctly Solve the 0X80e070426 Issue in Windows 10 - Comprehensive Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-effectively-fix-the-d3derr-not-available-problem-in-minutes/"><u>How To Effectively Fix The D3DERR Not Available Problem In Minutes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-oddworld-soulstorm-from-crashing-on-your-computer-fixed/"><u>How to Stop Oddworld: Soulstorm From Crashing on Your Computer [FIXED]</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-reno-9a-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/magnifymaster-x7-resizing-photos-to-perfection/"><u>MagnifyMaster X7 Resizing Photos to Perfection</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/obs-vs-twitch-studio-which-is-better-in-2024/"><u>OBS Vs Twitch Studio Which Is Better, In 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/premier-meme-editing-software-for-2024/"><u>Premier Meme Editing Software for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-solutions-for-overcoming-the-your-pc-cannot-display-on-a-second-monitor-issue/"><u>Simple Solutions for Overcoming the 'Your PC Cannot Display on a Second Monitor' Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-amoled-screen-problems-a-guide-with-5-key-methods/"><u>Solving Windows Amoled Screen Problems: A Guide with 5 Key Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-audio-playback-errors-on-youtube-for-pcs-running-windows-10/"><u>Troubleshooting and Repairing Audio Playback Errors on YouTube for PCs Running Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-error-0x800705b4-during-windows-10-updates-complete-walkthrough/"><u>Troubleshooting and Repairing Error 0X800705b4 During Windows 10 Updates – Complete Walkthrough</u></a></li>
 </ul></div>
 

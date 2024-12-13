@@ -1,7 +1,7 @@
 ---
 title: "Resetting 101: Expert Tips for Restoring Functionality to Your Unresponsive Keyboard"
-date: 2024-12-05T16:28:07.179Z
-updated: 2024-12-07T19:48:10.610Z
+date: 2024-12-08T20:40:21.749Z
+updated: 2024-12-13T18:51:25.747Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/6e34d9fb9219c1b14b356c1db6a9498a7ed2cc88e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/6e34d9fb9219c1b14b356c1db6a9498a7ed2cc88e
 4. [**Reseat your laptop battery**](#F4)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
 
@@ -61,10 +61,6 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -78,6 +74,10 @@ Here’s how to reinstall the keyboard driver:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
@@ -122,6 +122,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
@@ -134,16 +138,12 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
@@ -184,16 +184,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/tep-into-fantasy-youtubes-top-10-vr-gems-for-2024/"><u>[New] Step Into Fantasy Youtube's Top 10 VR Gems for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726220362672-m1vmp4-movavi/"><u>網路直通無限: M1V到MP4自由转换 - 使用 Movavi 转换器</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversione-gratuita-wmv-a-wav-online-il-guida-completa-di-movie-converter/"><u>Conversione Gratuita WMV a WAV Online: Il Guida Completa Di Movie Converter</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/creative-camera-adventures-for-children-with-preloved-mobile-phones/"><u>Creative Camera Adventures for Children with Preloved Mobile Phones</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-add-crop-and-edit-music-to-canva-video-for-2024/"><u>How To Add, Crop And Edit Music To Canva Video for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-2-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Lava Blaze 2 5G Bootloader Easily</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-introducing-efficient-speech-to-text-utilization-in-powerpoint/"><u>In 2024, Introducing Efficient Speech-to-Text Utilization in PowerPoint</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-detect-clapping-impact-soundscape-for-2024/"><u>New Detect Clapping Impact Soundscape for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/techniques-faciles-pour-convertir-du-contenu-audio-modmidi-en-format-wav-sans-frais-conseils-et-astuces-de-movavi/"><u>Techniques Faciles Pour Convertir Du Contenu Audio MOD/MIDI en Format WAV Sans Frais, Conseils Et Astuces De Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transformar-archivos-mov-en-mkv-con-facilidad-y-sin-costes-mediante-conversor-gratuito-online-movavi/"><u>Transformar Archivos MOV en MKV Con Facilidad Y Sin Costes Mediante Conversor Gratuito Online - MOVavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/zoom-v-podstate-nacrtani-movavi-pohlceni-s-netecnou-hory-a-nekolika-sekund/"><u>Zoom v Podstatě: Načrtání Movavi Pohlcení S Netečnou Hory a Několika Sekund</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-screen-capture-tools-explored-apowersoft-and-others-compared-for-2024/"><u>[Updated] Top Screen Capture Tools Explored - Apowersoft and Others Compared for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-best-practices-in-finding-quality-photo-and-video-banners/"><u>2024 Approved Best Practices in Finding Quality Photo & Video Banners</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-inoperative-spacebar-key-issues-on-windows-10-devices/"><u>Diagnosing and Repairing Inoperative Spacebar Key Issues on Windows 10 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-fixes-for-a-broken-windows-key-on-your-windows-11-system/"><u>Essential Fixes for a Broken Windows Key on Your Windows 11 System</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-the-art-of-choosing-winning-video-thumbnails/"><u>In 2024, Mastering the Art of Choosing Winning Video Thumbnails</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-samsung-galaxy-s23-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Samsung Galaxy S23</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/logiciel-officiel-de-winxdvd-solutions-de-conversion-video-transfert-iphonesipods-et-extraction-des-supports-dvd/"><u>Logiciel Officiel De WinXDVD - Solutions De Conversion Vidéo, Transfert iPhones/iPods, Et Extraction Des Supports DVD</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/masters-crafting-unparalleled-vr-adventures-for-2024/"><u>Masters Crafting Unparalleled VR Adventures for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/oppo-a56s-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A56s 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restore-camera-functionality-on-your-hp-laptop-expert-advice-for-windows-11-users/"><u>Restore Camera Functionality on Your HP Laptop: Expert Advice for Windows 11 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722895853627-supercharge-your-computer-in-minutes-with-these-ps-here-are-five-new-seo-titles-that-convey-similar-meanings-to-the-7-best-ways-to-speed-up-your-computer/"><u>Supercharge Your Computer in Minutes with These Ps, Here Are Five New SEO Titles that Convey Similar Meanings to The 7 Best Ways to Speed Up Your Computer:</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-overcome-windows-11-initialization-stalling-issues/"><u>Troubleshooting Guide: How to Overcome Windows 11 Initialization Stalling Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-d3derrnotavailable-error-expert-tips-and-solutions/"><u>Troubleshooting the D3DERR_NOTAVAILABLE Error: Expert Tips & Solutions</u></a></li>
 </ul></div>
 

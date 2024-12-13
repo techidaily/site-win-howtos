@@ -1,7 +1,7 @@
 ---
 title: "Fixing Complete Latency on Your Windows 11 Keyboard: A Step-by-Step Guide"
-date: 2024-12-01T20:22:39.284Z
-updated: 2024-12-07T20:50:32.095Z
+date: 2024-12-09T22:15:27.741Z
+updated: 2024-12-13T17:00:01.324Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I fix Shift key not working?
 
@@ -57,21 +61,17 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
 
@@ -84,7 +84,7 @@ Follow these:
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
@@ -92,13 +92,13 @@ Follow these:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
@@ -142,19 +142,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhance-engagement-mastering-template-based-video-description-writing/"><u>[New] 2024 Approved Enhance Engagement Mastering Template-Based Video Description Writing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-your-entry-level-equipment-checklist-for-youtube-success/"><u>[New] Your Entry-Level Equipment Checklist for YouTube Success</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ules-magic-unfolds-access-nine-premium-whole-film-holiday-movies-for-free-for-2024/"><u>[New] Yule's Magic Unfolds Access Nine Premium, Whole-Film Holiday Movies for Free for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-digital-memory-keeping-for-your-ps3-experiences/"><u>[Updated] Digital Memory Keeping for Your PS3 Experiences</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-professional-insight-elevating-your-youtube-video-experience/"><u>[Updated] In 2024, Professional Insight Elevating Your YouTube Video Experience</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-resolving-issues-with-your-logitech-clips-digital-pen-on-xp/"><u>Comprehensive Guide To Resolving Issues With Your Logitech Clip's Digital Pen On XP</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correct-the-bad-module-information-to-stop-game-malfunctions/"><u>How To Correct the 'Bad Module Information' To Stop Game Malfunctions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/how-to-use-screencastify-recorder-for-2024/"><u>How to Use Screencastify Recorder for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/put-and-play-mkv-movies-on-htc-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Put and play MKV movies on HTC </u></a></li>
-<li><a href="https://win-howtos.techidaily.com/repeat-errors-windows-11-copy-issue/"><u>Repeat Errors: Windows 11 Copy Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-resolve-launch-errors-of-new-world-issues-with-enabling-eas-easy-anti-cheat/"><u>Step-by-Step Guide to Resolve Launch Errors of New World - Issues with Enabling EA's Easy Anti-Cheat</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unexpected-computer-shuts-off-heres-how-to-diagnose-and-resolve-it/"><u>Unexpected Computer Shuts Off? Here's How to Diagnose and Resolve It.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-practices-solving-windows-11-bluetooth-connection-issues/"><u>Best Practices: Solving Windows 11 Bluetooth Connection Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-connectivity-issues-restoring-functionality-of-your-windows-pcs-bluetooth-mouse/"><u>Bluetooth Connectivity Issues: Restoring Functionality of Your Windows PC's Bluetooth Mouse</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-blockade-clear-window-on-fixing-update-failure-0x80240034-in-windows-11/"><u>Bypassing the Blockade: Clear Window on Fixing Update Failure 0X80240034 in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-backlight-failure-heres-how-to-get-your-board-glowing-again/"><u>Corsair Keyboard Backlight Failure? Here’s How to Get Your Board Glowing Again!</u></a></li>
+<li><a href="https://fox-place.techidaily.com/datarecoverytime-how-quickly-can-you-back-up-your-files-in-windows-10/"><u>DataRecoveryTime - How Quickly Can You Back Up Your Files in Windows 10?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/friska-konvertering-av-avi-faglar-till-mov-quicktime-enkelt-och-kostnadsfritt-online-service/"><u>Friska Konvertering Av AVI-Fåglar Till MOV QuickTime - Enkelt Och Kostnadsfritt Online Service</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977810105-get-the-newest-microsoft-sound-drivers-installed-on-windows-systems-now/"><u>Get the Newest Microsoft Sound Drivers Installed on Windows Systems Now</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-complet-pour-migrer-des-dvd-vers-un-disque-de-stockage-en-nuage-nas-synology-et-qnap-pour-la-diffusion-en-continu/"><u>Guide Complet Pour Migrer Des DVD Vers Un Disque De Stockage en Nuage (NAS, Synology, Et QNAP) Pour La Diffusion en Continu</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-poco-f5-pro-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Poco F5 Pro 5G Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-save-big-on-filmora-4-legit-ways-to-get-discounted-rates/"><u>New Save Big on Filmora 4 Legit Ways to Get Discounted Rates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-store-cache-issues-a-comprehensive-fix-guide/"><u>Resolving Windows Store Cache Issues - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-passion-for-learning-strategies-to-combat-school-apathy/"><u>Reviving Your Passion for Learning: Strategies to Combat School Apathy</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshooting-guide-successfully-updating-and-installing-windows-11-via-usb-drives/"><u>Troubleshooting Guide: Successfully Updating & Installing Windows 11 via USB Drives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-made-simple-recognizing-your-ignored-usb-stick/"><u>Troubleshooting Made Simple: Recognizing Your Ignored USB Stick</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-elevate-your-soundtracks-expert-edits-using-sony-vegas-pro-software-for-2024/"><u>Updated Elevate Your Soundtracks Expert Edits Using Sony Vegas Pro Software for 2024</u></a></li>
 </ul></div>
 

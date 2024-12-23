@@ -1,7 +1,7 @@
 ---
 title: "Efficient Tips: Reactivating the Windows Upgrade Feature When It's Not Working"
-date: 2024-12-11T19:14:29.126Z
-updated: 2024-12-13T19:07:43.354Z
+date: 2024-12-16T16:07:51.431Z
+updated: 2024-12-22T22:30:45.196Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ If you see an error message saying “**No Pen or Touch Input is available for t
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 Here are some solutions that have helped people resolve the same error. You don’t need to try them all; just work your way down the list until everything’s working again.
@@ -36,6 +40,10 @@ Here are some solutions that have helped people resolve the same error. You don�
 ### Fix 1: Force a shut down and restart
 
 As many people have resolved the “**No Pen or Touch Input is available for this Display**” error on their computer by forcing a shutdown, it never hurts to perform a force shutdown and restart your computer to fix it. As the steps to force a shutdown vary from brand to brand, you can consult your computer manufacturer to do that. For example, if you’re using a Surface Pro 4, you can press and hold the**power button**for**10 seconds**, then your screen turns off and shuts down. Then press and release the power button to turn on your Surface Pro 4\. After restart, try again and see if touch screen works now. If this method doesn’t work for you, don’t worry. There are something else to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run troubleshooter in your computer
 
@@ -50,7 +58,7 @@ The troubleshooter in your computer helps troubleshoot the hardware problems and
 4. Click**Hardware and Devices** . This will find and fix problems with devices and hardware.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb10e9a82be.jpg)
@@ -60,7 +68,7 @@ The troubleshooter in your computer helps troubleshoot the hardware problems and
 6. Restart your computer and see if it fixes the error.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Re-enable touch screen
@@ -70,20 +78,16 @@ You can also re-enable touch screen and its driver to fix the “No Pen or Touch
 1. On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  
  and **R**  at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb11575bbfb.png)
 3. Double click**Human Interface Devices** to expand the category.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb11cb8b5a8.jpg)
 4. Right click on**HID-compliant touch screen** , then select**Disable** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb12007e8f1.jpg)
 5. If you see a popup message to confirm, click**Yes** to confirm.  
@@ -91,14 +95,14 @@ You can also re-enable touch screen and its driver to fix the “No Pen or Touch
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb123fd7728.jpg)
 6. Right click on**HID-compliant touch screen** , then select**Enable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb128e37a69.jpg)  
  Note: there may be more than one HID compliant touch screen listed there. If that’s the case, complete steps 4) -6) for each device.
 
 Try touch screen and see if it works now. The error still persists? Okay, there’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update touch screen driver
 
@@ -111,10 +115,6 @@ A missing or outdated touch screen driver can also result in the “No Pen or To
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb1405c2875.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now check and see if the “**No Pen or Touch Input is available for this Display**” error disappears. That’s it. Hope this post comes in handy and fixes your “**No Pen or Touch Input is available for this Display**” error. If you have any questions, feel free to leave a comment below and we’ll see what more we can do.
 
@@ -136,18 +136,19 @@ Now check and see if the “**No Pen or Touch Input is available for this Displa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-5-ways-to-record-streaming-audio-online/"><u>[New] 2024 Approved 5 Ways to Record Streaming Audio Online</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dive-into-old-content-youtube-video-recovery-guide/"><u>[New] 2024 Approved Dive Into Old Content YouTube Video Recovery Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-step-by-step-hp-laptop-screen-recording-explained/"><u>[New] In 2024, Step-by-Step HP Laptop Screen Recording Explained</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-virtual-paths-to-fitness-ranking-elite-treadmills/"><u>[Updated] In 2024, Virtual Paths to Fitness Ranking Elite Treadmills</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-solution-to-common-apex-legends-anti-cheat-errors-for-smooth-gaming/"><u>Effortless Solution to Common Apex Legends Anti-Cheat Errors for Smooth Gaming</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-insights-a-detailed-review-of-the-anthropics-smart-photo-editing-tool/"><u>Expert Insights: A Detailed Review of the Anthropics Smart Photo Editing Tool</u></a></li>
-<li><a href="https://article-files.techidaily.com/first-flight-journey-with-syma-x5c-best-start-to-uav-hobbies-for-2024/"><u>First Flight Journey with Syma X5C Best Start to UAV Hobbies for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-opencldll-unavailability-faults/"><u>Fixing OpenCL.dll Unavailability Faults</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-xiaomi-civi-3-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Xiaomi Civi 3 Lock Screen Password</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/local-security-policy-enable-lsa-protections-immediately/"><u>Local Security Policy: Enable LSA Protections Immediately</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-dell-laptop-challenge-how-to-get-your-fn-keys-working-again/"><u>Overcoming the Dell Laptop Challenge: How to Get Your FN Keys Working Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-to-overcome-windows-1-nearby-as-you-go-and-it-will-be-easier-to-keep-your-balance/"><u>Step-by-Step Solution to Overcome Windows 1 Nearby as You Go, and It Will Be Easier to Keep Your Balance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-conquering-and-clearing-out-the-google-chrome-critical-error-scam/"><u>The Ultimate Fix: Conquering and Clearing Out the Google Chrome Critical Error Scam</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-selective-recommendations-for-advanced-voice-alteration-tools/"><u>[New] 2024 Approved Selective Recommendations for Advanced Voice Alteration Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-a-comprehensive-guide-to-penning-appealing-vlog-narratives/"><u>[Updated] In 2024, A Comprehensive Guide to Penning Appealing Vlog Narratives</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprerancing-the-cutting-edge-tech-in-b550-xt/"><u>Comprerancing The Cutting-Edge Tech in B550-XT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-correcting-ethernet-connectivity-troubles-in-windows-107/"><u>Diagnosing and Correcting Ethernet Connectivity Troubles in Windows 10/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-overcome-the-error-code-0x80240034-during-windows-10-update-process/"><u>Effective Solutions to Overcome the Error Code 0X80240034 During Windows 10 Update Process</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-a-broken-right-click-on-windows-10-systems/"><u>Expert Tips for Fixing a Broken Right Click on Windows 10 Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-unparalleled-streaming-experience/"><u>In 2024, The Ultimate Guide to Unparalleled Streaming Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-storyboard-designers-den/"><u>In 2024, Ultimate Storyboard Designer's Den</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-compatibility-problems-with-shockwave-flash-on-google-chrome/"><u>Overcoming Compatibility Problems with Shockwave Flash on Google Chrome</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/recording-rivals-meet/"><u>Recording Rivals, Meet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-addressing-high-graphics-power-usage-stemming-from-the-desktop-window-manager-in-windows-11/"><u>Step-by-Step Guide: Addressing High Graphics Power Usage Stemming From the Desktop Window Manager in Windows 11</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-on-downloading-michael-jackson-music-collections-as-high-quality-audio-files/"><u>Step-by-Step Tutorial on Downloading Michael Jackson Music Collections as High-Quality Audio Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/surface-pro-4-pen-problem-heres-how-you-can-get-it-working-again/"><u>Surface Pro 4 Pen Problem? Here’s How You Can Get It Working Again</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unraveling-the-mystery-of-classic-usb-composite-devices-resolved/"><u>Unraveling the Mystery of Classic USB Composite Devices - Resolved</u></a></li>
 </ul></div>
 

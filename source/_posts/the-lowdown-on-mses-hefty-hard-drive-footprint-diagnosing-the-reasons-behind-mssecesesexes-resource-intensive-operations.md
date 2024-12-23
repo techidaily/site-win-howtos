@@ -1,7 +1,7 @@
 ---
 title: "The Lowdown on MSE's Hefty Hard Drive Footprint: Diagnosing the Reasons Behind msseceses.exe's Resource-Intensive Operations"
-date: 2024-12-09T21:57:11.592Z
-updated: 2024-12-13T21:17:08.147Z
+date: 2024-12-18T16:23:09.611Z
+updated: 2024-12-22T21:20:40.625Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes for LiveKernelEvent with Code 144 error
@@ -61,14 +61,18 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Repeat the same to remove the driver for your other display card if you have one.
@@ -76,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 5. Then update your graphics card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -99,10 +107,6 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
 
@@ -132,12 +136,12 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-15.png)
 6. Click**Uninstall** to confirm.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-16.png)
 7. Repeat the same to remove all the other grey-out devices you see here.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Restart your computer afterward.
 9. Then plug the USB devices back into your computer one by one, preferably into the USB outputs on your computer rather than USB hubs or docks.
@@ -156,10 +160,6 @@ To do so, first visit the website of your GPU manufacturer:
  Here’s[**a post from Dell**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fkbdoc%2Fen-us%2F000125185%2Fhow-to-troubleshoot-the-power-supply-unit-psu-of-a-dell-desktop-computer) with more information about the power supply if you’re interested in knowing more and seeing how you can test your PSU.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Update your computer BIOS and system firmware
 
@@ -181,7 +181,7 @@ To do so, first visit the website of your GPU manufacturer:
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
@@ -207,7 +207,7 @@ Then see if the LiveKernelEvent 144 error is still seen.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Seek help from a hardware technician
@@ -237,20 +237,20 @@ Then see if the LiveKernelEvent 144 error is still seen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/eginning-creators-guide-top-8-free-youtube-tutorials-for-2024/"><u>[New] Beginning Creator's Guide Top 8 Free YouTube Tutorials for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-discover-best-border-apps-to-elevate-instagram-visuals/"><u>[Updated] In 2024, Discover Best Border Apps to Elevate Instagram Visuals</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-unparalleled-selection-best-of-the-10-vimeo-download-sites/"><u>[Updated] In 2024, Unparalleled Selection Best of the 10 Vimeo Download Sites</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1-best-pc-performance-boosters-top-software-tools-to-enhance-your-computers-efficiency-insights-by-yl-computing/"><u>1. Best PC Performance Boosters: Top Software Tools to Enhance Your Computer's Efficiency - Insights by YL Computing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimize-online-sessions-tackling-zoom-audio-noise/"><u>2024 Approved Optimize Online Sessions Tackling Zoom Audio Noise</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fix-for-red-dead-redemption-2-memory-problems-upgrade-page-file-without-hesitation/"><u>Easy Fix for Red Dead Redemption 2 Memory Problems: Upgrade Page File Without Hesitation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-handling-video-related-dxgkrnl-crashes-on-windows-systems/"><u>Effective Fixes for Handling Video-Related Dxgkrnl Crashes on Windows Systems</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-6s-plus-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off Apple iPhone 6s Plus without Password</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-se-to-ipad-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone SE to iPad? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-game-crashes-in-nier-automata-tips-and-solutions-for-a-smoother-pc-gaming-experience/"><u>Overcome Game Crashes in Nier Automata: Tips & Solutions for a Smoother PC Gaming Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-0x8024401c-update-glitches-in-microsofts-latest-operating-systems-a-comprehensive-guide-for-windows-10-and-11-users/"><u>Overcoming 0X8024401c Update Glitches in Microsoft's Latest Operating Systems: A Comprehensive Guide for Windows 10 and 11 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-errcachemiss-issue-on-google-chrome-a-step-by-step-guide/"><u>Resolving the ERR_CACHE_MISS Issue on Google Chrome: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-overcoming-windows-10s-stalled-updates-and-installation-problems/"><u>Troubleshooting Tips: Overcoming Windows 10'S Stalled Updates and Installation Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlock-the-solution-step-by-step-tips-for-addressing-twitch-error-4000/"><u>Unlock the Solution: Step-by-Step Tips for Addressing Twitch Error #4000</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unlocking-the-full-potential-of-mac-audio-with-audacitys-features/"><u>Unlocking the Full Potential of Mac Audio with Audacity's Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-laptop-keyboard-not-working/"><u>[Solved] Laptop Keyboard Not Working</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/breaking-through-the-blockage-a-guide-to-resolving-destiny-2s-start-up-stuck-point/"><u>Breaking Through the Blockage: A Guide to Resolving Destiny 2'S Start-Up Stuck Point</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-overcoming-audio-hurdles-for-headphones-with-windows-11/"><u>Expert Tips: Overcoming Audio Hurdles for Headphones with Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-unresponsive-sound-feature-in-windows-7-a-step-by-step-guide/"><u>Fixing the Unresponsive Sound Feature in Windows 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-edge-40-prowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Edge 40 Prowith/without a PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-long-can-chatgpts-text-replies-be-before-reaching-the-cap/"><u>How Long Can ChatGPT's Text Replies Be Before Reaching the Cap?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-y100a-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo Y100A</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-magic-6-lite-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor Magic 6 Lite to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-xiaomi-redmi-a2-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Xiaomi Redmi A2 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-the-latest-epson-wf-3540-printer-drivers-on-your-windows-machine/"><u>Installing the Latest Epson WF- 3540 Printer Drivers on Your Windows Machine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-initial-dark-screen-error-in-monster-hunter-world-gameplay/"><u>Overcoming the Initial Dark Screen Error in Monster Hunter: World Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-common-opengl-issues-in-minecraft-a-step-by-step-guide/"><u>Solving Common OpenGL Issues in Minecraft: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-excessive-cpu-consumption-by-msmpengine-in-windows-10-systems/"><u>Solving the Issue: Excessive CPU Consumption by MsMpEngine in Windows 10 Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
 </ul></div>
 

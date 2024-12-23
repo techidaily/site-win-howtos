@@ -1,7 +1,7 @@
 ---
 title: Remedy for Dxgi.dll Failure in PUBG
-date: 2024-12-10T20:50:05.378Z
-updated: 2024-12-13T18:16:54.517Z
+date: 2024-12-19T20:46:31.930Z
+updated: 2024-12-22T17:39:57.484Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Local Security Authority Protection is off
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes to enable the Local Security Authority Protection
 
  As mentioned, in most cases, your Local Security Authority is off because of a UI bug with a Windows patch, so the first method should be enough to help. If it doesn’t, please move on to methods 2 and 3.
@@ -35,10 +39,6 @@ Local Security Authority Protection is off
 3. **[Configure Group Policy Editor](#m3)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Install Windows Update patch KB5007651
 
@@ -55,10 +55,14 @@ To do so:
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then see if the Local Security Authority Protection is still off.
 
@@ -66,17 +70,9 @@ Then see if the Local Security Authority Protection is still off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-25.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the “Local Security protection is off” notification is still there when you manually install the KB5007651 update, please move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Modify Registry Editor
 
@@ -89,16 +85,21 @@ Then see if the Local Security Authority Protection is still off.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-27.png)
 3. Go to the following location:`**Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa**`  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-26.png)
 4. On the right side, if you can see **RunAsPPL** , double-click it and change the**Value data** to**2** . Repeat the same with**RunAsPPLBoot** . If you don’t see either of these entries, move on to the next step.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-29.png)
 5. If you don’t see**RunAsPPL** or**RunAsPPLBoot** on the right side, right-click the empty area and select**New > DWORD (32-bit) Value** . Name the new entry**RunAsPPL** , then double-click it to change its**Value data** to**2** . Repeat the same to create a new entry named**RunAsPPLBoot** and change its value data to 2.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-28.png) [](https://cdn.windowsreport.com/wp-content/uploads/2023/03/regedit%5F1OHPX7onS7.png)
 6. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then see if the Local Security Authority protection can be turned on now. If the problem still remains, please move on.
 
@@ -116,12 +117,20 @@ Then see if the Local Security Authority Protection is still off.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-32.png)
 4. Click**Enable** , then select**Enabled with UEFI Lock** from the drop-down menu. Then click**Apply** and**OK** to save and exit.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-34.png)
 5. Restart your computer for the change to take effect.
 
  Then see if your Local Security Authority protection can be toggled back on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -134,15 +143,7 @@ Then see if the Local Security Authority Protection is still off.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -169,21 +170,20 @@ Then see if the Local Security Authority Protection is still off.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-premium-templates-for-panzoid-introduction/"><u>[Updated] Premium Templates for Panzoid Introduction</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/addressing-sign-in-error-messages-caused-by-user-profile-service-in-windows-operating-systems/"><u>Addressing Sign-In Error Messages Caused by User Profile Service in Windows Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/critical-system-file-not-installed/"><u>Critical System File Not Installed</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-20-proplus-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark 20 Pro+ If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-fix-amd-radeon-graphics-card-driver-issues-solutions-found/"><u>How to Fix AMD Radeon Graphics Card Driver Issues - Solutions Found!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-computers-night-light-on-windows-10-and-11-systems/"><u>How to Restore Your Computer’s Night Light on Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-boosting-your-video-income-on-youtube-essentials/"><u>In 2024, Boosting Your Video Income on Youtube - Essentials</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-pro-tips-uncovering-12-prime-websites-for-affordable-images/"><u>In 2024, Pro Tips Uncovering 12 Prime Websites for Affordable Images</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/moviemaker-masterwin8-for-2024/"><u>MovieMaker MasterWin8 for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208645794-overcome-stuck-keyboard-arrows-effective-troubleshooting-tips-inside/"><u>Overcome Stuck Keyboard Arrows - Effective Troubleshooting Tips Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-for-when-windows-cant-locate-the-right-printer-driver-fixed/"><u>Solution for When Windows Can’t Locate the Right Printer Driver [FIXED]</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-ultimate-guide-to-online-lithuanian-education/"><u>The Ultimate Guide to Online Lithuanian Education</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-copy-and-paste-glitches-on-your-latest-windows-operating-system/"><u>Troubleshooting Copy & Paste Glitches on Your Latest Windows Operating System</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/unveiling-the-historical-timeline-of-chinas-shift-towards-liberalization-and-global-engagement/"><u>Unveiling the Historical Timeline of China’s Shift Towards Liberalization and Global Engagement</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-against-windows-10s-unwanted-keep-restarting-dilemma/"><u>Winning Against Windows 10'S Unwanted Keep Restarting Dilemma</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/onvert-youtube-to-mp3-safely-top-3-guided-approaches/"><u>[New] Convert YouTube to MP3 Safely Top 3 Guided Approaches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-10-wont-shut-down-restarts-instead/"><u>[Solved] Windows 10 Won’t Shut Down, Restarts Instead</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-mastering-the-art-of-picsart-complete-guide-2024/"><u>[Updated] Mastering the Art of PicsArt (Complete Guide 2024)</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-nokia-c02-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Nokia C02?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-overcoming-rpc-connectivity-problems-on-windows-machines/"><u>Effective Solutions for Overcoming RPC Connectivity Problems on Windows Machines</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-resolving-airpod-connection-issues-with-windows-pcs/"><u>Effective Strategies for Resolving AirPod Connection Issues with Windows PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-overcome-scroll-failures-on-your-windows-11-touchpad/"><u>Expert Tips to Overcome Scroll Failures on Your Windows 11 Touchpad</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-dull-to-dynamic-amplifying-your-groups-charisma/"><u>From Dull to Dynamic: Amplifying Your Group's Charisma</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-xcover-6-pro-tactical-edition-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Samsung Galaxy XCover 6 Pro Tactical Edition Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-airpods-not-connecting-to-windows-1011-2024-tips/"><u>How to Fix AirPods Not Connecting to Windows 10/11 – 2024 Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-sideloading-on-ios-understanding-apples-fee-structure-and-app-review-process-insights-from-zdnet/"><u>Navigating Sideloading on iOS: Understanding Apple's Fee Structure & App Review Process - Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-leftright-shift-key-issues-expert-advice-and-fixes/"><u>Overcoming Left/Right Shift Key Issues: Expert Advice and Fixes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/recorded-speech-retrieval-and-evaluation/"><u>Recorded Speech Retrieval & Evaluation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-huion-stylus-5-effective-methods-to-restore-functionality/"><u>Troubleshooting Your Huion Stylus: 5 Effective Methods to Restore Functionality</u></a></li>
 </ul></div>
 

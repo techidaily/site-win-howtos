@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Unresponsive Mic Connections on Windows 11
-date: 2024-12-07T20:22:54.788Z
-updated: 2024-12-13T20:11:46.273Z
+date: 2024-12-20T18:40:53.604Z
+updated: 2024-12-22T17:09:23.092Z
 tags:
   - win11
   - win10
@@ -47,15 +47,15 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -71,23 +71,19 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -106,10 +102,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**accessibility** **keyboard** **settings** . Then click **Accessibility** **keyboard** **settings** when it pops up as the Best match.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
@@ -130,6 +122,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -139,12 +135,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -184,24 +184,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-free-editing-software-rankings/"><u>[New] In 2024, Essential Free Editing Software Rankings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-msvcr120dll-is-missing-in-windows-1110/"><u>[SOLVED] MSVCR120.dll Is Missing in Windows 11/10</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-essential-guide-to-populating-powerpoint-decks-with-youtube-videos/"><u>[Updated] The Essential Guide to Populating PowerPoint Decks With YouTube Videos</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-sony-xperia-1-v-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Sony Xperia 1 V to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bitfort-fractured-stay-the-course-before-change/"><u>BitFort Fractured: Stay the Course Before Change</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/breeze-through-windows-11s-persistent-restart-issue-easy-solutions-inside/"><u>Breeze Through Windows 11'S Persistent Restart Issue - Easy Solutions Inside!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-blockades-strategies-for-successful-torrent-downloads/"><u>Bypassing Blockades: Strategies for Successful Torrent Downloads</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-high-cpu-consumption-by-antivirus-on-windows-11-fixed/"><u>Dealing with High CPU Consumption by Antivirus on Windows 11 [FIXED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solution-for-excessive-cpu-usage-in-wdf-operations/"><u>Effective Solution for Excessive CPU Usage in WDF Operations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-pc-hiccups-solutions-to-overcome-freezing-issues-effectively/"><u>Fixing PC Hiccups: Solutions to Overcome Freezing Issues Effectively</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/from-social-media-giant-to-premium-format-mastering-insta-to-mp4-2-ways-for-2024/"><u>From Social Media Giant to Premium Format Mastering Insta-to-MP4 2 Ways for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-update-problem-decode-error-0x8007001f/"><u>How to Resolve Windows Update Problem – Decode Error 0X8007001f</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-chromebook-soundscaping-guide-selecting-the-best-text-to-speech-apps-online/"><u>In 2024, Chromebook Soundscaping Guide Selecting the Best Text-to-Speech Apps Online</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-slowly-fading-the-beat-a-pro-guide-for-audio-easing/"><u>In 2024, Slowly Fading the Beat A Pro Guide for Audio Easing</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-guide-to-public-domain-video-downloads-for-2024/"><u>New The Ultimate Guide to Public Domain Video Downloads for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solution-for-rdr2-memory-crash-how-to-expand-page-file-size-efficiently/"><u>Quick Solution for RDR2 Memory Crash: How to Expand Page File Size Efficiently</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-how-to-repair-aoc-display-issue-on-win10/"><u>Troubleshooting Steps: How to Repair AOC Display Issue on Win10</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/understanding-indexing-in-seo-in-depth-analysis-and-effective-techniques-using-seo-powersuite/"><u>Understanding Indexing in SEO: In-Depth Analysis and Effective Techniques Using SEO PowerSuite</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/king-efficiency-the-top-5-video-shortener-tools-for-2024/"><u>Unlocking Efficiency The Top 5 Video Shortener Tools for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-masterful-mac-livestream-tech-best-of-the-best-ranked-1-to-5/"><u>[Updated] 2024 Approved Masterful Mac Livestream Tech Best of the Best, Ranked 1 to 5</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-your-steelseries-arctis-5-headset-microphone-expert-advice/"><u>Diagnosing and Repairing Your SteelSeries Arctis 5 Headset Microphone: Expert Advice</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-list-7-cost-free-video-tags-extractors-on-youtube-for-2024/"><u>Essential List 7 Cost-Free Video Tags Extractors on YouTube for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-why-copy-paste-functionality-isnt-working-on-windows-11/"><u>Fixing the Issue: Why Copy-Paste Functionality Isn't Working on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-your-android-a-guide-to-navigating-quick-settings/"><u>Mastering Your Android: A Guide to Navigating Quick Settings</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-how-can-you-change-your-voice/"><u>New In 2024, How Can You Change Your Voice?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971718561-potential-challenges-in-domesticating-this-fungus-outside-its-natural-habitat-and-strategies-for-overcoming-these-difficulties/"><u>Potential Challenges in Domesticating This Fungus Outside Its Natural Habitat and Strategies for Overcoming These Difficulties.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-for-applicationexe-has-stopped-working-issue-on-your-computer/"><u>Solution Steps for 'Application.exe Has Stopped Working' Issue on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/touch-deficit-on-hid-certified-device-rectified/"><u>Touch Deficit on HID-Certified Device Rectified</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-when-your-printscreen-key-fails-on-win10win11-systems/"><u>Troubleshooting Tips for When Your PrintScreen Key Fails on Win10/Win11 Systems</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-avs-video-editor-2023-review-a-beginners-guide-to-video-editing-software/"><u>Updated In 2024, AVS Video Editor 2023 Review A Beginners Guide to Video Editing Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing the Issue of a Non-Responsive Keyboard During System Boot"
-date: 2024-09-05T10:09:38.117Z
-updated: 2024-09-06T10:09:38.117Z
+date: 2024-12-15T19:33:49.395Z
+updated: 2024-12-22T20:06:38.368Z
 tags:
   - win11
   - win10
@@ -24,22 +24,14 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 3. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Plug your keyboard in another USB port
 
  It’s probably caused by the poor connection. Plug your keyboard into another USB port and check if it does light up. If it does and everything works well, it’s your USB port that has the issue.  
  If it doesn’t light up, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Uninstall and reinstall Razer Synapse
 
  Plug your keyboard into another computer to see it light up or not. If it doesn’t light up, it might be a hardware problem and you need to contact Razer support.  
@@ -51,18 +43,11 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 4. Type “service.msc” and press**Enter** to open Windows Services. Make sure all Razer services listed are stopped.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/services.jpg)
 5. Go to C:\\Users\\Your user name\\AppData and delete any Razer folders.
+
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Go to C:\\Program Files (x86)… or wherever you installed Synapse and delete the Razer folders.
 7. Reboot your computer.
 8. Go to the[Razer official website](https://www.razer.com/synapse-3) to download the latest version of Synapse.
@@ -71,11 +56,9 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 11. Plug your keyboard and check the lightening.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your driver
 
  The problem can be caused by faulty drivers. So one of the things you should do is to verify that all your devices have the right drivers, and update those that don’t.
@@ -91,31 +74,16 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 3. Click the **Update**  button next to the flagged device to automatically download the correct version of its driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)  
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. After updating the drivers, check to see the issue is resolved or not.
+
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That’s it! Hopefully, these methods can help you resolve the issue. If you have any questions or suggestions, please let us know by commenting below.
@@ -128,8 +96,6 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +103,19 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-tips-for-effective-vimeo-broadcasting/"><u>[New] 2024 Approved Tips for Effective Vimeo Broadcasting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-adding-depth-to-narratives-through-b-clips/"><u>[New] Adding Depth to Narratives Through B-Clips</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-fb-videos-unleashed-with-new-mobile-app-for-2024/"><u>[New] FB Videos Unleashed with New Mobile App for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-solve-audio-absence-in-twitch-style-tweets/"><u>[New] Solve Audio Absence in Twitch-Style Tweets</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elite-hd-video-capture-software-listings-for-2024/"><u>[Updated] Elite HD Video Capture Software Listings for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-ultimate-guide-to-cost-effective-media-providers-online/"><u>2024 Approved The Ultimate Guide to Cost-Effective Media Providers Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-repair-device-not-showing-up-via-bluetooth-in-windows-10/"><u>Diagnose & Repair: Device Not Showing Up via Bluetooth in Windows 10</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-step-by-step-to-stardom-on-social-boost-your-instagram-fame-at-warp-speed-with-our-15-must-knows/"><u>In 2024, Step-by-Step to Stardom on Social Boost Your Instagram Fame at Warp Speed with Our 15 Must-Knows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-hewlett-packards-economically-priced-15-inch-laptop-worth-the-money-for-its-amd-unit-performance/"><u>Is Hewlett-Packard’s Economically Priced 15-Inch Laptop Worth the Money for Its AMD Unit Performance?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-your-issues-successful-steps-for-troubleshooting-steam-download-failures/"><u>Resolving Your Issues: Successful Steps for Troubleshooting Steam Download Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/settling-cldll-non-existence-in-devices/"><u>Settling ClDLL Non-Existence in Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-to-fix-your-driverpowerstatefailure-issue/"><u>Troubleshooting Tips to Fix Your DRIVER_POWER_STATE_FAILURE Issue</u></a></li>
+</ul></div>
 

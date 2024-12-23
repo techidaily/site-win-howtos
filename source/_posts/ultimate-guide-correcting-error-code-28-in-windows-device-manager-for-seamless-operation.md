@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Correcting Error Code 28 in Windows Device Manager for Seamless Operation"
-date: 2024-09-05T10:13:18.205Z
-updated: 2024-09-06T10:13:18.205Z
+date: 2024-12-17T21:00:04.044Z
+updated: 2024-12-22T16:05:23.198Z
 tags:
   - win11
   - win10
@@ -13,22 +13,10 @@ excerpt: "This Article Describes Ultimate Guide: Correcting Error Code 28 in Win
 thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0bd1d0ef6275f60c014f1ce3f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Ultimate Fix Guide for Overcoming Error 1068 in Windows – Expert Advice Included
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c434dca99.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you attempts to connect your system to a wireless network, if you’re getting the**Error 1068: The dependency service or group failed to start** error on your Windows computer, it could be super frustrating. Don’t worry. You’re certainly not the only one. We’ve seen many users are reporting this issue. More importantly, you can fix it with the solutions here. Read on and see how…
 
 ## 3 Fixes for Error 1068
@@ -47,29 +35,25 @@ See how to do it:
 2. Type**services.msc** , then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c45b02d97.png)
 3. Right-click on**WLAN AutoConfig** to select**Restart** . If the Restart option grayed out, click**Start** instead.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c4e8dc53f.jpg)
-4. **Double-click** WLAN AutoConfig.
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. **Double-click** WLAN AutoConfig.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Set the Startup type to**Automatic** . Then**Apply** \>**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c6c3c4eb5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Reboot your Windows computer and the error should disappear. If you’re prompted the error again, there’re something else you can try…
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 2: Repair your registry
 
  When your system settings are not configured properly, this error may also occur. You can solve it through repairing your registry.
@@ -82,30 +66,21 @@ Here’s how you can do it:
 3. Click**Yes** when prompted by User Account Control.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ca123ce81.jpg)
 4. Go to**HKEY\_LOCAL\_MACHINE** \>**SYSTEM** \>**CurrentControlSet** \>**Services** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ca74d28b3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Right-click**Dhcp** under the Services section to select**Export** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Give a name for the backup file, say Dhcp backup. Then select a backup address and click**Save** . You can restore the file from this backup if any error occurs during the process below.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cae624a92.jpg)
 6. **Double-click** DependOnService on the right pane of Dhcp. Select all the words**except “Afd”** , then**delete** them.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cc0dde1d6.jpg)
 7. Right-click**Eaphost** under the Services section to select**Export** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Give a name for the backup file, say Eaphost backup.Then select a backup address and click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cc80aaff0.jpg)
 8. **Double-click** DependOnService on the right pane of Eaphost. Select all the words and **delete** them.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cd67d4334.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Close the Registry Editor window and reboot your Windows computer. Check if the error disappears. If you still see the error, don’t give up hope. Simply move onto next solution.
 
@@ -139,8 +114,6 @@ You’re done. Feel free to comment below if you have any question.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +121,17 @@ You’re done. Feel free to comment below if you have any question.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-live-vs-stream-gopro-hero5-black-up-against-virb-ultra/"><u>[New] Live Vs. Stream GoPro Hero5 Black Up Against VIRB Ultra</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1725289473643-mp4/"><u>動画容量小さく！MP4ファイルを圧縮する最も便利なテクニック</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beating-the-windows-10-update-blues-cracking-code-0xc1900208-successfully/"><u>Beating the Windows 10 Update Blues: Cracking Code 0xC1900208 Successfully</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hideous-heroes-black-vs-gleaming-guardians-silver/"><u>Hideous Heroes (Black) VS Gleaming Guardians (Silver)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/inspirational-article-leaderboard-maker-for-2024/"><u>Inspirational Article Leaderboard Maker for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premium-desktop-systems-unveiled/"><u>Premium Desktop Systems Unveiled</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/snap-perfection-on-the-go-best-devices-for-clear-stable-videos-for-2024/"><u>Snap Perfection on the Go Best Devices for Clear, Stable Videos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-correct-user-profile-service-failures-in-windows/"><u>Step-by-Step Guide to Correct User Profile Service Failures in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/triumph-over-installation-troubles-how-to-successfully-upgrade-with-windows-10-despite-error-code-80240020/"><u>Triumph Over Installation Troubles: How to Successfully Upgrade with Windows 10, Despite Error Code 80240020</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unraveling-the-puzzle-effective-ways-to-address-google-chrome-black-screen-troubles/"><u>Unraveling The Puzzle - Effective Ways to Address Google Chrome Black Screen Troubles</u></a></li>
+</ul></div>
 

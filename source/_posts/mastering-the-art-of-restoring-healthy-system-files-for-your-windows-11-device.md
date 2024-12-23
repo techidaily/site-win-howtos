@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Restoring Healthy System Files for Your Windows 11 Device
-date: 2024-09-11T15:21:34.942Z
-updated: 2024-09-12T15:21:34.942Z
+date: 2024-12-20T20:48:37.164Z
+updated: 2024-12-23T00:49:44.209Z
 tags:
   - win11
   - win10
@@ -27,13 +27,6 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
  If there’s no problem with the HDMI port and the cable, you can try the two solutions below. Start with Solution 1, then try Solution 2 if it doesn’t solve the problem.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Solution 1: Check the display output settings**
 
  Incorrect display output settings could be preventing your TV from detecting your connected computer. Follow the steps below to check.
@@ -46,16 +39,13 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f25c04e4c2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Check if you’re able to see the TV as a second monitor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f296382361.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you can’t see your TV on the screen , follow steps below:
 
@@ -64,24 +54,22 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f2b20b8e25.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If Duplicate doesn’t work, try switching to**Extend** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bc8338cfae9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After that, check to see if Windows can detect your TV.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 2: Update the graphics driver**
@@ -101,10 +89,7 @@ After that, check to see if Windows can detect your TV.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0ea2eb0b92e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged video driver driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the **FREE** version).
@@ -112,13 +97,6 @@ After that, check to see if Windows can detect your TV.
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e9e0ebcfe9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Restart your computer and check to see if Windows 10 can now detect your TV.
 
@@ -141,5 +119,19 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ultimate-guide-7-preferred-android-ad-blocking-tools/"><u>2024 Approved Ultimate Guide 7 Preferred Android Ad Blocking Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-pc-speed-with-win11-startup-tweaks/"><u>Boosting PC Speed with Win11 Startup Tweaks</u></a></li>
+<li><a href="https://win11.techidaily.com/combat-the-dxgierror-windows-devices-reattached/"><u>Combat the DXGI_ERROR: Windows Devices Reattached</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/forza-horizon-znd-vocal-issues-resolved-sound-back-with-these-fixes/"><u>Forza Horizon ˈznd Vocal Issues Resolved – Sound Back with These Fixes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-honor-x50-gt-by-drfone-android/"><u>How to Bypass FRP from Honor X50 GT?</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-effortlessly-incorrante-windows-apps-with-menus/"><u>How to Effortlessly Incorrante Windows Apps With Menus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-sc2-device-unavailable-issue-now-fixed/"><u>Resolved: SC2 Device Unavailable Issue Now Fixed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/schritt-fur-schritt-anleitung-zum-setup-und-activieren-ihres-neuen-iphone/"><u>Schritt-Für-Schritt-Anleitung Zum Setup Und Activieren Ihres Neuen iPhone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-your-bluetooth-mouse-failing-to-connect-with-windows-pcs/"><u>Solving the Problem of Your Bluetooth Mouse Failing to Connect with Windows PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-definitive-guide-to-fixing-bluetooth-pairing-issues-on-windows-10-for-a-seamless-experience/"><u>The Definitive Guide to Fixing Bluetooth Pairing Issues on Windows 10 for a Seamless Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-photo-editing-with-top-lunapic-hacks-for-2024/"><u>Transform Photo Editing with Top LunaPic Hacks for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-wont-my-backspace-key-work-common-issues-and-solutions-explored/"><u>Why Won’t My Backspace Key Work? Common Issues and Solutions Explored</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the CE-34878-0 Eject Tray Issue on Your PS4 Console
-date: 2024-12-06T16:40:13.555Z
-updated: 2024-12-13T20:25:54.672Z
+date: 2024-12-15T18:18:21.019Z
+updated: 2024-12-22T22:25:06.601Z
 tags:
   - win11
   - win10
@@ -24,9 +24,17 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  There are common fixes and more complicated ones. You don’t need to try them all but it’s recommended to try the common fixes first. If these can’t help, try other fixes one by one to find the one that works for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Common fixes
 
@@ -38,15 +46,7 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 * In the back of the keyboard, there’s the BIOS button. You can switch it to a different number for a try. You may see it suddenly detects the keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/bios-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If none of these work, you can move to the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Redownload the firmware files
 
@@ -59,10 +59,6 @@ If none of these work, you can move to the next method.
 5. Download the firmware which has given by iCUE at launch.
 6. Install firmware.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Disable other related devices
 
  There’s one thing you can try is to shut down other programs which are related to Corsair and its iCUE. This may be because other third-party programs may interfere with Corsair and cause the problem.
@@ -73,8 +69,16 @@ If none of these work, you can move to the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 4. Click**View** and choose**Show hidden devices** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/hidden.jpg)
 5. Expand**Keyboard** and then uninstall every hidden device below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Open Control Panel and click**Uninstall a program** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uninstall.jpg)
@@ -84,7 +88,7 @@ If none of these work, you can move to the next method.
 9. Run iCUE and the keyboard should appear.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Update your drivers
@@ -118,10 +122,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
@@ -143,22 +143,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/onquering-competition-crafting-standout-youtube-advertising-banners-for-2024/"><u>[New] Conquering Competition Crafting Standout YouTube Advertising Banners for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-flat-to-fantastic-3d-text-creation-tips/"><u>[New] From Flat to Fantastic 3D Text Creation Tips</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-quick-access-to-quality-sound-with-easy-vrecorder-downloads-for-2024/"><u>[New] Quick Access to Quality Sound with Easy VRecorder Downloads for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-inside-out-with-t5-ultimate-sport-and-action-recorder/"><u>2024 Approved Inside Out with T5 - Ultimate Sport and Action Recorder</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetooth-integration-mastery-in-windows-operating-system/"><u>Bluetooth Integration Mastery in Windows Operating System</u></a></li>
-<li><a href="https://win-top.techidaily.com/effective-forex-trading-with-bollinger-bands-a-comprehensive-guide-for-mt4-users/"><u>Effective Forex Trading with Bollinger Bands: A Comprehensive Guide for MT4 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/endless-eye-strain-fixing-the-never-ending-cursor-twitch/"><u>Endless Eye-Strain: Fixing the Never-Ending Cursor Twitch</u></a></li>
-<li><a href="https://fox-search.techidaily.com/enhancing-productivity-with-the-versatile-notepad-feature/"><u>Enhancing Productivity with the Versatile Notepad Feature</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-on-preventing-unexpected-computer-power-losses-and-ensuring-stability/"><u>Expert Advice on Preventing Unexpected Computer Power Losses and Ensuring Stability</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209416166-fix-vanished-desktop-symbols-in-windows-11-effective-solutions-proven/"><u>Fix: Vanished Desktop Symbols in Windows 11 – Effective Solutions Proven</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-fix-connection-errors-and-secure-your-browsing-session-in-mozilla-firefox/"><u>Guide to Fix Connection Errors and Secure Your Browsing Session in Mozilla Firefox</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-device-unavailable-code-24-for-windows-operating-systems-11-8-and-7/"><u>How to Resolve 'Device Unavailable (Code 24)' For Windows Operating Systems: 11, 8, and 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208125764-immediate-remedies-to-restore-sound-in-your-favorite-steam-games-hassle-free/"><u>Immediate Remedies to Restore Sound in Your Favorite Steam Games | HASSLE-FREE!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/lsa-defense-mechanism-reactivated-for-enhanced-localized-safeguarding/"><u>LSA Defense Mechanism Reactivated for Enhanced Localized Safeguarding</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mastering-link-authority-in-seo-definitions-insights-and-effective-techniques-boost-your-rankings-with-powersuite-tips/"><u>Mastering Link Authority in SEO: Definitions, Insights & Effective Techniques | Boost Your Rankings with PowerSuite Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-signal-blizzard-services-offline/"><u>No Signal - Blizzard Services Offline</u></a></li>
-<li><a href="https://fox-links.techidaily.com/unlocking-superior-slow-motion-quality-through-fps-selection/"><u>Unlocking Superior Slow Motion Quality Through FPS Selection</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-tech-tutorial-exporting-and-storing-your-snaps-safely/"><u>[New] In 2024, Tech Tutorial Exporting and Storing Your Snaps Safely</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-50plus-engaging-phrases-that-will-take-your-tiktok-to-new-heights/"><u>[Updated] 2024 Approved 50+ Engaging Phrases That Will Take Your TikTok to New Heights</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-enchanting-viewers-the-art-of-crafting-engaging-youtube-description-templates/"><u>[Updated] Enchanting Viewers The Art of Crafting Engaging YouTube Description Templates</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-innovating-your-image-tips-for-crafting-irresistible-youtube-live-graphics/"><u>[Updated] Innovating Your Image Tips for Crafting Irresistible YouTube Live Graphics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-step-by-step-tutorial-for-fixing-the-red-screen-anomaly-on-windows-10-computers/"><u>A Step-by-Step Tutorial for Fixing the Red Screen Anomaly on Windows 10 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-guide-to-overcome-initializing-issues-in-destiny-2/"><u>Complete Guide to Overcome Initializing Issues in Destiny 2</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-resolving-usb-mouse-connectivity-issues-on-your-personal-computer/"><u>Expert Tips for Resolving USB Mouse Connectivity Issues on Your Personal Computer</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-poco-f5-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Poco F5 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-werfaultexe-malfunction-a-step-by-step-guide/"><u>How to Fix Windows werFault.exe Malfunction: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-motorola-moto-g24-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Motorola Moto G24 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-itel-a60s-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Itel A60s</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/microsoft-wireless-screen-projector-connectivity-woes-on-windows-10-heres-the-solution/"><u>Microsoft Wireless Screen Projector Connectivity Woes on Windows 10? Here's the Solution!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-system-resources-managing-msmpengineexe-high-cpu-drain-on-windows-11-machines/"><u>Optimizing System Resources: Managing MsMpEngine.exe High CPU Drain on Windows 11 Machines</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/score-big-savings-walmart-slashes-24-from-apples-airtag-bundle-for-labor-day-insider-tips-from-zdnet/"><u>Score Big Savings: Walmart Slashes $24 From Apple's AirTag Bundle for Labor Day - Insider Tips From ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-for-microsoft-store-failure-to-open-issue/"><u>Solution Guide for Microsoft Store Failure to Open Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstick-your-computer-during-windows-installation-professional-fixes-and-tips/"><u>Unstick Your Computer During Windows Installation: Professional Fixes and Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715860414756-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10-for-2024/"><u>Utilizing Internal Screen Recording on Huawei's Mate 10/20 & P Models (P20, P10). For 2024</u></a></li>
 </ul></div>
 

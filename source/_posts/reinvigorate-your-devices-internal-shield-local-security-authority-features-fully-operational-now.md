@@ -1,7 +1,7 @@
 ---
 title: "Reinvigorate Your Device's Internal Shield: Local Security Authority Features Fully Operational Now"
-date: 2024-12-08T19:59:52.703Z
-updated: 2024-12-13T19:47:35.897Z
+date: 2024-12-16T16:19:30.749Z
+updated: 2024-12-22T20:47:15.412Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ Local Security Authority Protection is off
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes to enable the Local Security Authority Protection
@@ -41,7 +41,7 @@ Local Security Authority Protection is off
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install Windows Update patch KB5007651
@@ -58,11 +58,11 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then see if the Local Security Authority Protection is still off.
 
@@ -75,7 +75,7 @@ Then see if the Local Security Authority Protection is still off.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Modify Registry Editor
@@ -90,11 +90,15 @@ Then see if the Local Security Authority Protection is still off.
 3. Go to the following location:`**Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa**`  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-26.png)
 4. On the right side, if you can see **RunAsPPL** , double-click it and change the**Value data** to**2** . Repeat the same with**RunAsPPLBoot** . If you don’t see either of these entries, move on to the next step.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-29.png)
 5. If you don’t see**RunAsPPL** or**RunAsPPLBoot** on the right side, right-click the empty area and select**New > DWORD (32-bit) Value** . Name the new entry**RunAsPPL** , then double-click it to change its**Value data** to**2** . Repeat the same to create a new entry named**RunAsPPLBoot** and change its value data to 2.  
@@ -102,17 +106,9 @@ Then see if the Local Security Authority Protection is still off.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-28.png) [](https://cdn.windowsreport.com/wp-content/uploads/2023/03/regedit%5F1OHPX7onS7.png)
 6. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then see if the Local Security Authority protection can be turned on now. If the problem still remains, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Configure Group Policy Editor
 
@@ -128,6 +124,10 @@ Then see if the Local Security Authority Protection is still off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-34.png)
 5. Restart your computer for the change to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then see if your Local Security Authority protection can be toggled back on.
 
@@ -171,24 +171,20 @@ Then see if the Local Security Authority Protection is still off.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-camera-to-channel-a-thoroughly-researched-video-instruction-manual/"><u>[New] From Camera to Channel A Thoroughly Researched Video Instruction Manual</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ow-to-create-vintage-videos-a-comprehensive-tutorial/"><u>[New] How to Create Vintage Videos A Comprehensive Tutorial</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-record-whole-page-visuals/"><u>[New] In 2024, Record Whole Page Visuals</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-calculating-earnings-ad-revenues-in-the-world-of-youtube-in-2024/"><u>[Updated] Calculating Earnings Ad Revenues in the World of YouTube, In 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-examining-copyright-implications-of-media-sharing-via-social-networks/"><u>[Updated] In 2024, Examining Copyright Implications of Media Sharing via Social Networks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-resolving-torrent-download-failures-effective-strategies-and-tips/"><u>Guide: Resolving Torrent Download Failures – Effective Strategies and Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-broken-usb-connection-on-your-dell-device-a-step-by-nstep-guide/"><u>How to Repair a Broken USB Connection on Your Dell Device – A Step-by-nStep Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-your-steelseries-arctis-amoanot-working-properly-solved/"><u>How to Repair Your SteelSeries Arctis Amoanot Working Properly [SOLVED]</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-6s-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 6s Plus Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-apeaksoft-2023-screens-recording-insights/"><u>In 2024, Apeaksoft 2023 Screens Recording Insights</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-unlocking-visual-potential-perfect-aspect-ratios-revealed/"><u>In 2024, Unlocking Visual Potential Perfect Aspect Ratios Revealed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211155930-overcoming-the-challenge-unsupported-monitor-input-error-now-solved/"><u>Overcoming the Challenge: Unsupported Monitor Input Error Now Solved!</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/professionelle-leitfaden-fur-die-automatische-sicherung-mit-synology-nas-top-3-methoden/"><u>Professionelle Leitfaden Für Die Automatische Sicherung Mit Synology NAS - Top 3 Methoden</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-fortnite-graphics-support-problems-with-windows-pc/"><u>Resolving Fortnite Graphics Support Problems with Windows PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-problems-with-unsuccessful-teredo-tunneling/"><u>Resolving the Problems with Unsuccessful Teredo Tunneling</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-guide-for-black-monitor-malfunction-in-dell-laptops/"><u>Step-by-Step Fix Guide for Black Monitor Malfunction in Dell Laptops</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/uncovering-solutions-to-excessive-ps4-fan-noise-a-comprehensive-guide/"><u>Uncovering Solutions to Excessive PS4 Fan Noise: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/unlocking-success-optimizing-gaming-videos-via-smart-use-of-hashtags/"><u>Unlocking Success Optimizing Gaming Videos via Smart Use of Hashtags</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205751880-valorant-gaming-fixes-eliminate-screen-distortion-and-enjoy-seamless-play/"><u>Valorant Gaming Fixes: Eliminate Screen Distortion & Enjoy Seamless Play.</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-the-ultimate-strategy-for-organizing-a-zoom-event-on-your-phonetablet/"><u>[New] 2024 Approved The Ultimate Strategy for Organizing a Zoom Event on Your Phone/Tablet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-gain-more-loyal-viewers-unlock-top-strategies-for-enhancing-viewer-retention-on-youtube/"><u>[Updated] Gain More Loyal Viewers Unlock Top Strategies for Enhancing Viewer Retention on YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-quintessential-play-by-radio-stories-for-2024/"><u>[Updated] Quintessential Play-by-Radio Stories for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-prime-mkv-viewer-windows-android-apps/"><u>2024 Approved Prime MKV Viewer Windows, Android Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-techniques-for-unfreezing-the-windows-11-taskbar-issue/"><u>Best Techniques for Unfreezing the Windows 11 Taskbar Issue</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-realme-c55-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Realme C55 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-y55s-5g-2023-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo Y55s 5G (2023) Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-fixing-unexpected-shutdowns-in-windows-11-step-by-step-strategies/"><u>Master the Art of Fixing Unexpected Shutdowns in Windows 11 – Step by Step Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-system-challenges-with-absent-xinput13dll/"><u>Navigating System Challenges with Absent XINPUT1_3.dll</u></a></li>
+<li><a href="https://fox-that.techidaily.com/one-airpod-loud-and-proud-the-other-quiet-unravel-this-mystery-and-learn-the-four-solutions/"><u>One AirPod Loud and Proud, The Other Quiet – Unravel This Mystery & Learn the Four Solutions!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-minecraft-not-starting-on-windows-os/"><u>Resolved: How to Fix 'Minecraft Not Starting on Windows OS'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-criticality-of-xinput13dll-and-troubleshooting-its-missing-status/"><u>The Criticality of XINPUT1_3.dll & Troubleshooting Its Missing Status</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolution-for-elevated-cpu-drain-by-microsofts-msmpeng-process-on-windows-10/"><u>Troubleshooting and Resolution for Elevated CPU Drain by Microsoft's MsMpEng Process on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vcruntime140dll-not-found-heres-how-to-quickly-correct-it/"><u>VCRUNTIME140.dll Not Found? Here's How to Quickly Correct It!</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-samsung-galaxy-z-fold-5-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Samsung Galaxy Z Fold 5? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

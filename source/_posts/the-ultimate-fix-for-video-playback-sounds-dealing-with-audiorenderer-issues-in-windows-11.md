@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Fix for Video Playback Sounds: Dealing With AudioRenderer Issues in Windows 11"
-date: 2024-09-05T10:13:22.195Z
-updated: 2024-09-06T10:13:22.195Z
+date: 2024-12-21T21:05:47.842Z
+updated: 2024-12-22T19:19:06.316Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes The Ultimate Fix for Video Playback Sounds: Dea
 thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d50fa969981b4673868840ed3.JPG
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Ultimate Fixes for Kodi's Glitches: Say Goodbye to Playback Issues
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a60044a95722.jpg)
@@ -39,11 +33,9 @@ thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d5
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 1: Update DirectX
 
  DirectX is developed by Microsoft which mainly handles multimedia tasks especially games and videos. If it has problems, you may not watch videos or play games.
@@ -55,21 +47,17 @@ thumbnail: https://thmb.techidaily.com/0d8eb25ffc01674066a975464e8e203ea7154d5d5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30faac5fdee.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) When DirectX Diagnostic Tool window pops up, you’ll see the DirectX Version under**System** tab. In the following screenshot, the DirectX Version is DirectX 12.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2faf385cf07.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Update DirectX to the latest version
 
  All Windows Operating systems include DirectX. Microsoft would update DirectX and release the new versions through Windows Update. So you can update the DirectX by downloading and installing the latest Windows Update. You may know how to download and install the Windows Update. But if not, the following steps may help:
@@ -82,34 +70,10 @@ If you’re using Windows 7, 8 & 8.1, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30f7fa7ccd0.png)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  b) View by Small icons, click**Windows Update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30fd18bc24f.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If you’re using Windows 10, follow these steps:
 
  a) On your keyboard, press**Win+R** (Windows logo and R key) at the same time to invoke the run command. Type**ms-settings:windowsupdate** and click**OK** .
@@ -120,18 +84,16 @@ If you’re using Windows 10, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30fe8330446.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **IMPORTANT:** Each Windows version has its own supported DirectX version. For**Windows 10** , the latest supported version is**DirectX 12** . For**Windows 8** , the latest supported version is**DirectX 11.1** . For**Windows 8.1** , the latest supported version is DirectX 11.2\. For Windows 7, the latest supported version is**DirectX 11.1** . If you want to install higher version for Windows 8, Windows 8.1 and Windows 7, you need to upgrade your operating system.
 
 ---
 
 ## Method 2: Use VPN
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Why you should use a VPN?
 
  If you run into **No stream available** error or can’t just play video with Kodi, the video content may be blocked by your ISP (Internet Service Provider) or attacked by hackers.
@@ -143,11 +105,9 @@ If you’re using Windows 10, follow these steps:
  I don’t recommend watching video without paying if you need to. We should respect other people’s hard work, right? 🙂
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Use NordVPN
 
  If you’re not sure what product you can trust, you can use **[NordVPN](https://tools.techidaily.com/drivereasy/download/)**  , so you don’t need to spend much time on further searching.
@@ -159,6 +119,10 @@ If you’re using Windows 10, follow these steps:
 3) Connect to a server by choosing a country you want to connect to.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5beeb9f37e7ea.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Check to see if Kodi works.
 
@@ -172,12 +136,6 @@ If you’re using Windows 10, follow these steps:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 4: Remove add-ons
 
  If the problem occurs after installing one specific add-on, the add-on could probably be the cause. In this case, uninstalling the add-on could resolve the problem. If you’ve installed more than one add-on and not sure which one is exactly the cause, remove them one by one and see if the problem resolves.
@@ -206,12 +164,6 @@ If you’re using Windows 10, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3116853ff8e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Click**Videos** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3116c9a518c.jpg)
@@ -220,16 +172,14 @@ If you’re using Windows 10, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3116ed64dcc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7) Restart Kodi and check to see if the problem persists.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 6: Reinstall Kodi
 
 ##
@@ -249,11 +199,9 @@ If you’re using Windows 10, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3102e50fdfc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##
 
 3) Follow the on-screen instructions to get the app.
@@ -266,12 +214,6 @@ If you’re using Windows 10, follow these steps:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 8: Clear add-on cache
 
  Add-on can store cache every time you use it. Too much cache can cause Kodi work erratically. Clearing cache can resolve a lot of issues.
@@ -288,6 +230,10 @@ Following steps are for your reference to clear cache:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a31fe38901fc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Select the add-on you have used to remove the cache.
 
 ---
@@ -302,8 +248,6 @@ Following steps are for your reference to clear cache:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -311,4 +255,21 @@ Following steps are for your reference to clear cache:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-how-to-swiftly-find-and-access-lost-reddit-discussions-for-2024/"><u>[Updated] How to Swiftly Find and Access Lost Reddit Discussions for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-ultimate-guide-to-action-film-snapshotting/"><u>[Updated] In 2024, Ultimate Guide to Action Film Snapshotting</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-peak-outcome-total-immersion-complete/"><u>2024 Approved Peak Outcome Total Immersion Complete</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-iphone-12-pro-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From iPhone 12 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-when-your-sims-4-game-doesnt-start-up/"><u>Expert Tips for Fixing When Your Sims 4 Game Doesn't Start Up</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-correcting-the-binkyw32dll-missing-error-dilemma/"><u>Expert Tips on Correcting The 'binkyW32.dll' Missing Error Dilemma</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-our-virtual-co-pilot-chatgpt-active/"><u>Is Our Virtual Co-Pilot, ChatGPT, Active?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-steam-updates-tips-and-tricks-for-seamless-downloading-success/"><u>Mastering Steam Updates: Tips and Tricks for Seamless Downloading Success</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-unleash-your-creativity-how-to-edit-videos-in-windows-movie-maker-for-2024/"><u>New Unleash Your Creativity How to Edit Videos in Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/random-key-interruption/"><u>Random Key Interruption</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-motorola-moto-g34-5g-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Motorola Moto G34 5G has been deleted</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211107586-step-by-step-guide-to-fixing-missing-audiovideo-drivers/"><u>Step-by-Step Guide to Fixing Missing Audio/Video Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-fixing-windows-11s-persistent-black-screen-fault/"><u>Troubleshooting Tips for Fixing Windows 11'S Persistent Black Screen Fault</u></a></li>
+</ul></div>
 

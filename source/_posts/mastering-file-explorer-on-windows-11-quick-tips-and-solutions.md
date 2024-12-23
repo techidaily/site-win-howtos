@@ -1,7 +1,7 @@
 ---
 title: "Mastering File Explorer on Windows 11: Quick Tips and Solutions"
-date: 2024-09-11T15:24:27.450Z
-updated: 2024-09-12T15:24:27.450Z
+date: 2024-12-15T22:23:34.149Z
+updated: 2024-12-22T16:42:06.935Z
 tags:
   - win11
   - win10
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
 
  You may familiar with the Blue Screen of Death if you’re a Windows user. But when your PC crashed and turned into a scary weird red screen, you might be confused. Don’t panic–it can be fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 1: Enter your Windows system
 
  If your computer restarted and entered the Windows system normally, you can move to[**Step 2**](#s2) .
@@ -33,10 +26,7 @@ thumbnail: https://thmb.techidaily.com/2041635073b88dca4044a894fcdb4e9d1f4358f13
 Otherwise, you need to take a few minutes to read this part.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 1: Hard reset your computer
@@ -52,6 +42,10 @@ Otherwise, you need to take a few minutes to read this part.
 
  Then check to see if you can get into the Windows system as usual. If not, don’t worry, try the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 2:[Enter safe mode](https://tools.techidaily.com/drivereasy/download/)
 
  Safe mode is a diagnostic mode of Windows. When the hard reset doesn’t work, you need to enter Safe mode to trigger the problem. Safe mode will be running with a minimal set of drivers and services which is easier for you to identify the problem.
@@ -60,19 +54,6 @@ Otherwise, you need to take a few minutes to read this part.
 
 1. **[Update your device drivers](#f4)**
 2. **[Revert your system from a restore point](#f7)**
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 2: Try these fixes
 
@@ -85,6 +66,10 @@ Otherwise, you need to take a few minutes to read this part.
 5. [**Repair system files**](#f5)
 6. [**Revert your system from a restore point**](#f7)
 7. [**Reset or reinstall Windows**](#7)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Stop overclocking
 
@@ -117,6 +102,11 @@ There are a few things you should do:
 3. Remove the **memory** from your computer. (Check out the screenshots below to see what memory looks like)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-502.png)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-503.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Rub the **golden contact** of your memory with an eraser. (This can clean the golden contact of your memory.)
 5. Install the memory back to your computer.
 6. Place the cover back to your computer.
@@ -126,13 +116,6 @@ There are a few things you should do:
 Hopefully, this fix could help you get rid of this issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -162,20 +145,22 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your BIOS
 
@@ -190,13 +175,6 @@ OR
 1. On your keyboard, press **the Windows logo key** and **R** at the same time, then copy & paste **msinfo32**  into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714e5d73e95.png)
 2. In **the information** in **BIOS Version/Date**  and go to the manufacturer’s official website.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Check out the **Support** (or **Download** ) section and search for the latest BIOS update.
 4. Download the file and install it properly.
@@ -224,22 +202,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -252,34 +225,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap825.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Type**sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Restart your computer to check whether the blue screen issue is fixed or not.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the result indicates there are broken files but SFC can’t fix them, you can turn to[Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Revert your system from a restore point
 
@@ -320,5 +272,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellent-global-music-livestreams/"><u>2024 Approved Excellent Global Music Livestreams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-disabled-accounts-fixing-windows-login-fails/"><u>Bypassing Disabled Accounts: Fixing Windows Login Fails</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hdmi-detection-error-in-windows-10-tips-and-solutions-for-connecting-your-television/"><u>HDMI Detection Error in Windows 10: Tips and Solutions for Connecting Your Television</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-shockwave-flash-issues-on-google-chrome/"><u>How to Repair Shockwave Flash Issues on Google Chrome</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-enrich-your-browsing-routine-picture-in-picture-techniques-for-edge/"><u>In 2024, Enrich Your Browsing Routine Picture-in-Picture Techniques for Edge</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-with-precision-the-ultimate-guide-to-the-teleport-function-in-minecraft/"><u>Navigating with Precision: The Ultimate Guide to the Teleport Function in Minecraft</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/schutzen-sie-ihr-betriebssystem-windows-10-mit-den-besten-gratis-sicherheitsprogrammen-eine-umfassende-liste/"><u>Schützen Sie Ihr Betriebssystem Windows 10 Mit Den Besten Gratis-Sicherheitsprogrammen: Eine Umfassende Liste</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-connecting-airpods-efficiently-with-microsofts-latest-operating-systems-insider-advice-from-2024/"><u>Step-by-Step Fix: Connecting AirPods Efficiently with Microsoft's Latest Operating Systems - Insider Advice From 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/success-overcoming-the-latest-discord-update-hurdles-now-running-smoothly/"><u>Success! Overcoming the Latest Discord Update Hurdles – Now Running Smoothly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-crafting-successful-health-targets-using-chatgpt/"><u>The Ultimate Guide to Crafting Successful Health Targets Using ChatGPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-printer-activation-problems-with-error-code-30/"><u>Troubleshooting and Fixing Printer Activation Problems with Error Code -30</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205362915-troubleshooting-tips-for-overcoming-steam-bootstrapper-errors-now-resolved/"><u>Troubleshooting Tips for Overcoming Steam Bootstrapper Errors – Now Resolved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-wow-correcting-unmatched-device-drivers/"><u>Troubleshooting WoW: Correcting Unmatched Device Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-persistent-problems-with-missing-cursors-on-windows-11/"><u>Troubleshooting: Persistent Problems with Missing Cursors on Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes: Overcoming the Problems of Non-Shutting PCs on Windows 10 Platform"
-date: 2024-12-11T20:27:40.155Z
-updated: 2024-12-13T20:28:20.685Z
+date: 2024-12-15T17:17:50.963Z
+updated: 2024-12-22T20:09:12.755Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Try these fixes**
 
@@ -46,18 +50,14 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap789.png)
 3. Click **Apply this fix**   to continue.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap790.png)
 4. Follow the on-screen instructions to troubleshoot this issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Perform a Windows update again to see if you can install the update. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 2: Restarting Windows Update service**
 
@@ -66,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 1. On your keyboard, press **the Windows Logo key**  and **R**  at the same time to open the Run dialog, then type **services.msc**  and press **Enter**  to open the Services window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap791.png)
 2. Right-click **Windows Update** and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap792.png)
 3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** .  Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.  
@@ -82,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap795.png)  
  When all the files are deleted, you shall see “This folder is empty”.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open   **File Explorer**  . Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to open the **Download**  folder.  
 
 **`C:\Windows\SoftwareDistribution\Download**  
@@ -97,13 +89,21 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
  When all the files are deleted, you shall see “This folder is empty”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. In the Services window, right-click **Windows Update** and select **Start**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap798.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check Windows Update again to see whether you can install the update. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 3: Setting the TrustedInstaller service to auto start**
 
@@ -114,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 2. In Command Prompt, type the command line below and press enter:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **SC config trustedinstaller start=auto**  
@@ -131,9 +131,17 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap799.png)
 2. In Command Prompt, type the following command and press **Enter**  .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **sfc /scannow**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap801.png)  
  It may take some time for the command operation to be completed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. When this command operation is completed, close Command Prompt.
 
@@ -150,29 +158,21 @@ Run Windows Update  again to check whether this fix works or not. If you still f
    ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap802.png)  
     “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Visit[**Microsoft Update Catalog**](https://www.catalog.update.microsoft.com/home.aspx) .
 3. Type**KB4056892**  and then click **Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap803.png)
 4. In the list of search results, select right update for your operating system and click **Download**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If your **Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap806.png)
 5. In the pop-up window, click the link to start downloading the updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap807.png)
 6. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 See if you can install the update. If not, try the next fix, below.
 
@@ -204,22 +204,20 @@ See if you can install the update. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-online-subtitles-our-choice-of-free-services/"><u>[Updated] Mastering Online Subtitles Our Choice of Free Services</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210928511-cannot-apply-feature-updates-for-windows-10-build-1607-let-us-help-you-resolve-that/"><u>Cannot Apply Feature Updates for Windows 10 Build 1607? Let Us Help You Resolve That!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-the-persistent-windows-update-error-0x8024002e/"><u>Effective Fixes for the Persistent Windows Update Error 0X8024002E</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-to-restore-your-microsoft-surface-pro-4s-touchscreen-functionality-no-more-frustration/"><u>Expert Tips to Restore Your Microsoft Surface Pro 4'S Touchscreen Functionality - No More Frustration!</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-revolutionizes-relationships-riskily/"><u>Facebook Revolutionizes Relationships, Riskily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-restore-disappeared-desktop-folder-at-cwindowssystem32configsystemprofile/"><u>Guide to Restore Disappeared Desktop Folder at C: Windows System32 Config SystemProfile</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-prevent-your-pc-from-continuously-going-to-sleep-mode-a-step-by-step-guide/"><u>How to Prevent Your PC From Continuously Going to Sleep Mode: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-achieving-spotlight-submitting-on-apple-platform/"><u>In 2024, Achieving Spotlight Submitting on Apple Platform</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-samsung-galaxy-s23-ultra-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Samsung Galaxy S23 Ultra Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-oppo-reno-10-pro-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Oppo Reno 10 Pro 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1424520-9781780282763-kick-ass-angels/"><u>Kick-Ass Angels | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-device-not-migrated-issue-on-microsoft-windows-10-computers/"><u>Resolving the 'Device Not Migrated' Issue on Microsoft Windows 10 Computers</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-honor-magic-v2-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Honor Magic V2 Phones</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-correct-windows-update-failure-0x80070002-fast/"><u>Troubleshoot and Correct Windows Update Failure 0X80070002 Fast</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-your-dell-computers-usb-port-stops-working/"><u>Troubleshooting Steps When Your Dell Computer's USB Port Stops Working</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-leading-tag-tracker-software-on-major-platforms-like-fb-tweet-and-insta/"><u>[New] Leading Tag Tracker Software on Major Platforms Like FB, Tweet & Insta</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-windows-driver-energy-management-problems-quickly-and-easily/"><u>Fix Windows Driver Energy Management Problems Quickly and Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gameplay-initiates-pc-reboot/"><u>Gameplay Initiates PC Reboot</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-v-purse-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Honor V Purse to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-vivo-s18-pro-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Vivo S18 Pro Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mystery-of-missing-movies-a6400s-quandary/"><u>In 2024, Mystery of Missing Movies A6400's Quandary</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/masterful-marketing-top-strategies-to-thrive-in-fb-video-space/"><u>Masterful Marketing Top Strategies to Thrive in FB Video Space</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fixes-how-to-seamlessly-update-scansnap-ix500-software-in-windows/"><u>Quick Fixes: How to Seamlessly Update ScanSnap iX500 Software in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-installation-of-microsoft-ergo-keyboard-easily-driver-downloads-available-now/"><u>Quick Installation of Microsoft Ergo Keyboard Easily - Driver Downloads Available Now!</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/schnelle-zollerleichterungen-ermoglichen-den-schnellen-austausch-von-gutern-zwischen-grossbritannien-und-der-eu-fertigung-in-nur-5-minuten/"><u>Schnelle Zollerleichterungen Ermöglichen Den Schnellen Austausch Von Gütern Zwischen Großbritannien Und Der EU – Fertigung in Nur 5 Minuten</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-windows-cant-find-appropriate-printer-drivers/"><u>Solving the Issue: Windows Can't Find Appropriate Printer Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-troubleshooting-ethernet-in-windows-operating-systems/"><u>Step-by-Step Solutions for Troubleshooting Ethernet in Windows Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-repeatedly-encountered-usb-device-not-recognized-tips-and-techniques-that-work/"><u>The Ultimate Fix for Repeatedly Encountered 'USB Device Not Recognized': Tips & Techniques That Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-wudfhostexe-cpu-load-in-windows-10-systems/"><u>Troubleshooting High wudfhost.exe CPU Load in Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/what-causes-the-parameter-is-incorrect-solve-your-loadlibrary-error-87-now/"><u>What Causes 'The Parameter Is Incorrect?' Solve Your LoadLibrary Error 87 Now!</u></a></li>
 </ul></div>
 

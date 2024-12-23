@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting a Non-Charging Surface: Is It Really Plugged In?"
-date: 2024-09-11T15:22:56.235Z
-updated: 2024-09-12T15:22:56.235Z
+date: 2024-12-16T22:39:49.099Z
+updated: 2024-12-22T18:45:54.961Z
 tags:
   - win11
   - win10
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
 If you’re getting so frustrated that you have to type and then wait awfully long for your keyboard to slowly spit words out, don’t worry. Here’re 4 fixes that have helped other users resolve this**keyboard lag** problem, check them out…
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Fixes for Keyboard Lag
 
  All the fixes below work in**Windows 10** . You may not have to try all of them; just work your way down the list until the**keyboard lag** issue has been resolved.
@@ -34,10 +27,7 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 4. **[Run DISM](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware issues
@@ -51,6 +41,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run Hardware and Devices troubleshooter
 
 **Windows Hardware and Devices Troubleshooter**  is a useful tool that helps us solve problems with our hardware and devices (keyboard in this case). Here’s how to**run Troubleshooter** :
@@ -58,19 +52,17 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press **the Windows logo key**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
 
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -87,22 +79,12 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -121,10 +103,7 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait a while for the whole process to finish.
@@ -153,5 +132,18 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-aligning-apple-android-and-computer-schedules-for-zoom-syncing/"><u>2024 Approved Aligning Apple, Android, and Computer Schedules for Zoom Syncing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-apple-melodies-enhancing-visual-storytelling/"><u>2024 Approved Apple Melodies Enhancing Visual Storytelling</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-make-wd-my-passport-ultra-visible-in-your-windows-system-again/"><u>How to Make WD My Passport Ultra Visible in Your Windows System Again</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-transfer-your-videos-an-easy-guide-to-avi-files-on-iphone/"><u>How to Transfer Your Videos: An Easy Guide to AVI Files on iPhone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-building-rapport-an-interviewers-toolkit/"><u>In 2024, Building Rapport An Interviewer's Toolkit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mouse-gesture-power-ups-for-xpwin-7/"><u>Mouse Gesture Power-Ups for XP/Win 7</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/quick-steps-for-fetching-dotsub-media-videocasts-and-captions/"><u>Quick Steps for Fetching DotSub Media: Videocasts and Captions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/successfully-recover-your-money-the-ultimate-steam-game-refund-procedure-explained/"><u>Successfully Recover Your Money – The Ultimate Steam Game Refund Procedure Explained</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-essential-manual-to-operating-streamlabs-obs-for-2024/"><u>The Essential Manual to Operating Streamlabs OBS for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-airpods-connection-issues-on-windows-11/"><u>Ultimate Guide: Resolving AirPods Connection Issues on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-steps-resolving-the-msvcr110dll-file-not-found-error/"><u>Ultimate Troubleshooting Steps: Resolving the MSVCR110.dll File Not Found Error</u></a></li>
+</ul></div>
 

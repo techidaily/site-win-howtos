@@ -1,7 +1,7 @@
 ---
 title: No Sound From Laptop Mic? Here's How You Can Make It Work Again
-date: 2024-09-11T15:23:41.436Z
-updated: 2024-09-12T15:23:41.436Z
+date: 2024-12-20T17:10:08.549Z
+updated: 2024-12-22T21:55:18.614Z
 tags:
   - win11
   - win10
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/0fd141422ea325bb82ac6e625cf733b7dc3435639
 
 **USB ports not working on HP laptop** ? You’re not alone. Many users have reported the same. But the good news is, you can fix it easily!
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3 fixes for USB ports not working on HP laptop
 
  All the fixes below work in**Windows 10** ,**8** and**7** . Just work your way down the list until your USB ports work properly again.
@@ -35,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/0fd141422ea325bb82ac6e625cf733b7dc3435639
 **Before diving into the troubleshooting part** , make sure the USB devices you’re using are functioning.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Disconnect ALL USB devices and re-seat your battery
 
@@ -52,13 +49,6 @@ Here’s how:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2:  Change power management settings for USB Root Hubs
 
 Tweaking the properties in **USB Root Hub**  devices is another proven effective way to solve our**USB ports not working on HP laptop** issue. To do this:
@@ -67,38 +57,15 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Universal Serial Bus controllers**   \>  **the first**   item of **USB Root Hub** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
 4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
 5. Reconnect your USB devices to the USB ports, then**reboot your computer** and check to see if they’re working properly. If the problem has been fixed, then congrats! If it persists, you should try**Fix 3** , below.
@@ -106,10 +73,7 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update the drivers for your USB devices
@@ -126,9 +90,17 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbeca937d3b9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -157,5 +129,19 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-editing-images-erasing-unwanted-backdrops/"><u>[New] Editing Images Erasing Unwanted Backdrops</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/audio-disruption-in-win-10-rectified/"><u>Audio Disruption in Win 10 Rectified</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-lenovo-ideapad-100-drivers-guide-for-windows-11-users/"><u>Download & Install Lenovo IdeaPad 100 Drivers: Guide for Windows 11 Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/efficient-look-up-table-techniques-for-movies-for-2024/"><u>Efficient Look-Up Table Techniques for Movies for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficient-wdf-implementation-lowering-high-cpu-consumption-in-windows-systems/"><u>Efficient WDF Implementation - Lowering High CPU Consumption in Windows Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/enhancing-obs-on-a-thrifty-computer/"><u>Enhancing OBS on a Thrifty Computer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-methods-for-incorporating-music-into-your-videos-work-from-anywhere/"><u>Free Methods for Incorporating Music Into Your Videos - Work From Anywhere!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-solitary-snaps-to-awe-inspiring-tiled-panoramas/"><u>From Solitary Snaps to Awe-Inspiring Tiled Panoramas</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/left-click-not-responding-heres-how-you-can-resolve-the-issue-quickly/"><u>Left Click Not Responding? Here's How You Can Resolve the Issue Quickly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/program-termination-requested/"><u>Program Termination Requested</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-a-dead-laptop-mouse-effective-solutions-for-stuck-or-non-responsive-usb-devices/"><u>Revive a Dead Laptop Mouse: Effective Solutions for Stuck or Non-Responsive USB Devices</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-turning-onoff-secure-boot-feature-on-your-pc-with-windows-11-tips-from-yl-computing/"><u>Step-by-Step Guide: Turning On/Off Secure Boot Feature on Your PC with Windows 11 - Tips From YL Computing</u></a></li>
+</ul></div>
 

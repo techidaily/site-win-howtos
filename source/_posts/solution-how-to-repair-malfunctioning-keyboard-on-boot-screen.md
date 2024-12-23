@@ -1,7 +1,7 @@
 ---
 title: "Solution: How to Repair Malfunctioning Keyboard on Boot Screen"
-date: 2024-09-11T15:24:23.595Z
-updated: 2024-09-12T15:24:23.595Z
+date: 2024-12-20T21:14:01.665Z
+updated: 2024-12-22T21:08:15.490Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
 4. **[Use a different user profile](#f4)**
 5. **[Check hardware issues](#f5)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Turn off Mouse Keys
 
 #### On Windows 10
@@ -38,24 +42,19 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ed1505fee.png)
 3. Click**Ease of Access** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2edebb4167.jpg)
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee1e422d4.jpg)
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### On Windows 11
@@ -75,25 +74,11 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
  Look on your keyboard for a key that says **NumLock** and make sure to enable the key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2eecb19e08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the**NumLock** key is disabled, the number keys on the right side of your keyboard will not work.
 
  If the NumLock key is enabled and the number keys still don’t work, you can try pressing the NumLock key for about**5 seconds** , which did the trick for some users.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -111,30 +96,19 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ebe32f70f.jpg)
 3. Click the**Update** button next to your keyboard to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ec4831bd8.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Use a different user profile
@@ -146,13 +120,6 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
  When you’ve logged in to Windows with the new account, open Word or Notepad to test your keyboard numbers.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Check hardware issues
 
@@ -177,5 +144,20 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/1723209063772-fixed-windows-cannot-access-the-specified-device-path-or-file-error/"><u>[Fixed] ‘Windows Cannot Access the Specified Device Path or File’ Error</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-eliminating-iphones-inability-to-autofocus-on-targets/"><u>[Updated] Eliminating iPhone's Inability to Autofocus on Targets</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leading-device-editors-for-app-development-art/"><u>[Updated] Leading Device Editors for App Development Art</u></a></li>
+<li><a href="https://win-help.techidaily.com/windows-update0x80242fff/"><u>「Windows Updateの問題を克服する戦略：エラー0x80242FFFの修正手順」</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/apex-legends-voice-chat-not-working-solved/"><u>Apex Legends Voice Chat Not Working [SOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-for-windows-11-dvdcd-rom-error-incomplete-or-corrupted-device-configuration-data-error-code-19/"><u>Fix for Windows 11 DVD/CD-ROM Error: Incomplete or Corrupted Device Configuration Data (Error Code 19)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-bad-module-info-issue-and-prevent-your-game-from-crashing/"><u>Resolve 'Bad Module Info' Issue & Prevent Your Game From Crashing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-persistent-keyboard-delay-on-windows-11/"><u>Resolved: How to Fix Persistent Keyboard Delay on Windows 11</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/resolving-computer-sluggishness-from-excessive-background-processes-tips-and-tricks-yl-tech-solutions/"><u>Resolving Computer Sluggishness From Excessive Background Processes: Tips & Tricks - YL Tech Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-overcoming-fatal-installation-error-16-and-ensuring-a-smooth-start/"><u>Step-by-Step Guide to Overcoming 'Fatal Installation Error 16#' And Ensuring a Smooth Start</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-complete-walkthrough-to-enhancing-your-intel-imacs-software-and-hardware/"><u>The Complete Walkthrough to Enhancing Your Intel iMac's Software and Hardware</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-the-power-of-the-essential-troubleshooting-tactics-for-when-it-wont-press-down/"><u>Unlock the Power of the '@': Essential Troubleshooting Tactics for When It Won’t Press Down</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-google-pixel-smartwatch-unveiled-anticipated-costs-launch-timeline-and-potential-features/"><u>Upcoming Google Pixel Smartwatch Unveiled: Anticipated Costs, Launch Timeline & Potential Features</u></a></li>
+</ul></div>
 

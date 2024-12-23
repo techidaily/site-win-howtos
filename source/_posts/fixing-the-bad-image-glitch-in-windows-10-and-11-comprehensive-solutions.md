@@ -1,7 +1,7 @@
 ---
 title: "Fixing the 'Bad Image' Glitch in Windows 10 & 11: Comprehensive Solutions"
-date: 2024-09-05T10:13:09.719Z
-updated: 2024-09-06T10:13:09.719Z
+date: 2024-12-17T18:51:06.750Z
+updated: 2024-12-22T16:04:47.265Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Fixing the 'Bad Image' Glitch in Windows 10 & 1
 thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120ed3c32dedf0e24f515c80068.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Error 1068 in Windows: A Comprehensive Guide - SOLUTION FOUND
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c434dca99.jpg)
@@ -26,11 +20,9 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
  When you attempts to connect your system to a wireless network, if you’re getting the**Error 1068: The dependency service or group failed to start** error on your Windows computer, it could be super frustrating. Don’t worry. You’re certainly not the only one. We’ve seen many users are reporting this issue. More importantly, you can fix it with the solutions here. Read on and see how…
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3 Fixes for Error 1068
 
 1. **[Restart the WLAN AutoConfig service](https://tools.techidaily.com/drivereasy/download/)**
@@ -47,29 +39,19 @@ See how to do it:
 2. Type**services.msc** , then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c45b02d97.png)
 3. Right-click on**WLAN AutoConfig** to select**Restart** . If the Restart option grayed out, click**Start** instead.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c4e8dc53f.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. **Double-click** WLAN AutoConfig.
 5. Set the Startup type to**Automatic** . Then**Apply** \>**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c6c3c4eb5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Reboot your Windows computer and the error should disappear. If you’re prompted the error again, there’re something else you can try…
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 2: Repair your registry
 
  When your system settings are not configured properly, this error may also occur. You can solve it through repairing your registry.
@@ -82,30 +64,21 @@ Here’s how you can do it:
 3. Click**Yes** when prompted by User Account Control.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ca123ce81.jpg)
 4. Go to**HKEY\_LOCAL\_MACHINE** \>**SYSTEM** \>**CurrentControlSet** \>**Services** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ca74d28b3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Right-click**Dhcp** under the Services section to select**Export** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Give a name for the backup file, say Dhcp backup. Then select a backup address and click**Save** . You can restore the file from this backup if any error occurs during the process below.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cae624a92.jpg)
 6. **Double-click** DependOnService on the right pane of Dhcp. Select all the words**except “Afd”** , then**delete** them.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cc0dde1d6.jpg)
-7. Right-click**Eaphost** under the Services section to select**Export** .  
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Right-click**Eaphost** under the Services section to select**Export** .  
  Give a name for the backup file, say Eaphost backup.Then select a backup address and click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cc80aaff0.jpg)
 8. **Double-click** DependOnService on the right pane of Eaphost. Select all the words and **delete** them.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cd67d4334.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Close the Registry Editor window and reboot your Windows computer. Check if the error disappears. If you still see the error, don’t give up hope. Simply move onto next solution.
 
@@ -139,8 +112,6 @@ You’re done. Feel free to comment below if you have any question.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +119,24 @@ You’re done. Feel free to comment below if you have any question.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-samsung-galaxy-s8-in-depth-4k-phone-analysis/"><u>[New] Samsung Galaxy S8 In-Depth 4K Phone Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimizing-trailer-vibes-the-melody-essentials/"><u>[Updated] Optimizing Trailer Vibes The Melody Essentials</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-smooth-blur-magic-for-instagrams-story-moments/"><u>[Updated] Smooth Blur Magic for Instagram's Story Moments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/connecting-your-playstation-5-dualsense-controller-with-windows-11-a-step-by-step-guide/"><u>Connecting Your PlayStation 5 DualSense Controller with Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-10-usb-connectivity-problems-a-guide-to-handling-unknown-devices-and-failed-port-resets/"><u>Fixing Windows 10 USB Connectivity Problems: A Guide to Handling Unknown Devices & Failed Port Resets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/halo-4-and-unreal-engine-4-overcoming-the-critical-2024-ue4-game-crash-issue/"><u>Halo 4 and Unreal Engine 4 - Overcoming the Critical 2024 UE4 Game Crash Issue</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nokia-c22-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nokia C22 Device</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/innovative-gadgets-ranked-11-auditory-capture-guide-for-2024/"><u>Innovative Gadgets Ranked #11 Auditory Capture Guide for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leading-minds-discuss-global-ai-trends/"><u>Leading Minds Discuss Global AI Trends</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-obstacles-successfully-instaling-the-windows-10-july-2016-update-version-1607/"><u>Overcoming Obstacles: Successfully Instaling the Windows 10 July 2016 Update (Version 1607)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-a-non-charging-but-plugged-in-surface-a-comprehensive-guide/"><u>Overcoming the Challenge of a Non-Charging but Plugged-In Surface: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/script-inactive-no-launch/"><u>Script Inactive: No Launch</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/smooth-iphone-screen-recording-made-simple-for-2024/"><u>Smooth iPhone Screen Recording Made Simple for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-the-role-of-sfc-and-deployment-image-servicing-in-fixing-windows-11-issues/"><u>Understanding the Role of SFC and Deployment Image Servicing in Fixing Windows 11 Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unexpected-silence-revive-your-touchpads-display/"><u>Unexpected Silence? Revive Your Touchpad's Display!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/usb-to-hdmi-bridge-malfunction-heres-how-to-solve-it/"><u>USB to HDMI Bridge Malfunction? Here's How to Solve It</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/windows-media-creator-alternatives/"><u>Windows Media Creator Alternatives</u></a></li>
+</ul></div>
 

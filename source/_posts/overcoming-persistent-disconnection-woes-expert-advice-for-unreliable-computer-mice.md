@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Persistent Disconnection Woes: Expert Advice for Unreliable Computer Mice"
-date: 2024-09-11T15:21:55.827Z
-updated: 2024-09-12T15:21:55.827Z
+date: 2024-12-20T17:16:36.955Z
+updated: 2024-12-22T17:42:23.613Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/97308f979ef9767cdb33e037debbc9d1c528c201f
 
  Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Update your network driver
 
  You can update your drivers automatically with either the[**FREE**](https://tools.techidaily.com/drivereasy/download/) or the **[Pro versio](https://tools.techidaily.com/drivereasy/download/)** [**n**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
@@ -46,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/97308f979ef9767cdb33e037debbc9d1c528c201f
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![update network driver with driver easy](https://images.drivereasy.com/wp-content/uploads/2021/03/de-update-network-driver.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
@@ -61,16 +58,7 @@ thumbnail: https://thmb.techidaily.com/97308f979ef9767cdb33e037debbc9d1c528c201f
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Roll back your network driver
@@ -88,14 +76,16 @@ thumbnail: https://thmb.techidaily.com/97308f979ef9767cdb33e037debbc9d1c528c201f
 5. In the Tools pane, click**Driver** **Restore** \>**Browse…** , then choose the backup file you’re going to restore from, then click **Open** .  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/12.png)
 6. Select the driver you’re going to restore, then click **Continue** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Wait until the restore is successful, and click**OK** .
 8. Run the**ipconfig /renew** in CMD again to see if the error message is resolved. If yes, then congrats – you’ve fixed the error. If the issue persists, please move on to**Fix 2** , below.
 
@@ -108,15 +98,17 @@ thumbnail: https://thmb.techidaily.com/97308f979ef9767cdb33e037debbc9d1c528c201f
 2. Locate the **DHCP Client**  service in the services list, then right-click on it and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/dchp.png)
 3. If **Service status:** is set to **Running** , click the **Stop** button. If it shows **Stopped** , leave it as it is.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Set the **Startup type** menu to **Automatic** .
 5. Click the **Start** button.
 6. Click **Apply > OK**  to save changes.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3 – Register your DNS
@@ -129,13 +121,6 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd-1.png)
 2. Type **ipconfig /registerdns** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click Close to exit the window.
 4. Restart your PC.
 5. Check to see if the**Unable to Contact DHCP Server** error is solved. If yes, then great. If it still happens, please continue with**Fix 4** , below.
@@ -146,19 +131,6 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd-1.png)
 2. In the command promopt window, type the following commands and press**Enter** after each:  
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    * Type **netsh winsock reset** and press**Enter** .  
    * Type **netsh int ip reset** and press**Enter** .  
    * Type **ipconfig /release** and press**Enter** .  
@@ -166,13 +138,6 @@ Here’s how:
    * Type **ipconfig /flushdns** and press**Enter** .
 3. Restart computer.
 4. Run the**ipconfig /renew** command and see if the Unable to contact your dhcp server error is solved. If it’s still no joy, please continue with**Fix 5** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5 –**Disable IPv6 on your active connection**
 
@@ -184,27 +149,11 @@ Here’s how:
 3. Under the **Networking** tab, uncheck the box next to **Internet Protocol version 6 (IPv6)** , then click**OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/sharing12.jpg)
 4. Restart your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Check to see if the error message still occurs when you perform rge ipconfig command.
 
@@ -225,5 +174,24 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-fast-track-to-fashionista-status-on-instagram-our-essential-guide-for-speed-up-star-chasers/"><u>[New] In 2024, The Fast Track to Fashionista Status on Instagram Our Essential Guide for Speed-Up Star Chasers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-becoming-a-youtube-pro-the-ultimate-picture-post-guide/"><u>[Updated] Becoming a YouTube Pro The Ultimate Picture Post Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ultimate-ios-compatible-ps2-software/"><u>[Updated] Ultimate iOS Compatible PS2 Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/boost-your-gameplay-fixing-lag-issues-in-fallout-4-this-year/"><u>Boost Your Gameplay: Fixing Lag Issues in Fallout ^4 This Year</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/drive-dynamics-compiling-the-top-10-windows-and-mac-srt-mods/"><u>Drive Dynamics Compiling the Top 10 Windows & Mac SRT Mods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-pubgs-building-loading-issue-for-a-seamless-gaming-experience/"><u>Fixing PUBG's Building Loading Issue for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-proceed-with-admin-rights-for-software-installations-on-windows-11107/"><u>How to Proceed with Admin Rights for Software Installations on Windows 11/10/7</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-iphone-12-pro-max-activation-lock-by-drfone-ios/"><u>How to Remove iPhone 12 Pro Max Activation Lock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-and-prevent-the-input-not-supported-alert-on-computer-screens/"><u>How to Resolve and Prevent the 'Input Not Supported' Alert on Computer Screens</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-comprehensive-guide-to-crafting-effective-reddit-posts/"><u>In 2024, The Comprehensive Guide to Crafting Effective Reddit Posts</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unleashing-creativity-the-top-10-final-cut-pro-movies/"><u>New In 2024, Unleashing Creativity The Top 10 Final Cut Pro Movies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-missing-sound-device-issues-in-windows-1011/"><u>Step-by-Step Guide: Correcting Missing Sound Device Issues in Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-the-hiccup-overcome-a-stalled-dns-server-using-easy-strategies/"><u>Stop the Hiccup! Overcome a Stalled DNS Server Using Easy Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-fixing-your-laptop-when-it-wont-charge-despite-being-connected-windows-11-edition/"><u>Troubleshooting Steps: Fixing Your Laptop When It Won't Charge Despite Being Connected - Windows 11 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-computer-start-up-issues-solutions-included/"><u>Troubleshooting Your Computer Start-Up Issues – Solutions Included</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-review-the-portable-powerhouse-razer-blade-pro-17/"><u>Unboxing & Review: The Portable Powerhouse, Razer Blade Pro 17</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mystery-windows-canary-channel-explained/"><u>Unraveling the Mystery: Windows Canary Channel Explained</u></a></li>
+</ul></div>
 

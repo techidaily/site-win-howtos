@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Fix 'Can't Cast to Device' Issue on Windows 10"
-date: 2024-12-09T22:35:48.706Z
-updated: 2024-12-13T16:37:56.344Z
+date: 2024-12-18T18:05:06.548Z
+updated: 2024-12-22T22:44:58.581Z
 tags:
   - win11
   - win10
@@ -35,22 +35,22 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Fix DCOM(**Distributed Component Object Model)** errors
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -80,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 
 ``
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
 ``
@@ -109,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -128,7 +120,7 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
@@ -144,12 +136,16 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Open the app again to see if it goes fine.
 
 ``
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
@@ -177,7 +173,7 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -197,6 +193,10 @@ thumbnail: https://thmb.techidaily.com/6604e06a9acd007eaa4a4b27af2a49c5989610b00
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -225,24 +225,18 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-boost-your-content-reach-the-expert-guide-to-youtubes-featured-channels-for-2024/"><u>[New] Boost Your Content Reach The Expert Guide to Youtube's Featured Channels for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-what-is-svchostexe-netsvcs-and-fix-its-high-network-usage-issue/"><u>[Solved] What Is svchost.exe (Netsvcs) and Fix Its High Network Usage Issue</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-shoppers-ultimate-list-of-top-rated-webcams/"><u>[Updated] 2024 Approved Shopper’s Ultimate List of Top-Rated Webcams</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-current-compendium-of-questions-for-captivating-audio-clips-for-2024/"><u>[Updated] Current Compendium of Questions for Captivating Audio Clips for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-historical-gems-art-unshackled-by-laws/"><u>[Updated] Historical Gems Art Unshackled by Laws</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-your-personalized-music-compilation/"><u>[Updated] In 2024, Your Personalized Music Compilation</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-essentials-of-sharing-music-compilations-online/"><u>2024 Approved The Essentials of Sharing Music Compilations Online</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-windows-11s-hidden-secrets-for-media-upload/"><u>2024 Approved Unveiling Windows 11'S Hidden Secrets for Media Upload</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/mp4-dvd-flick/"><u>読み込まれないMP4問題: DVD Flickで解決策を見つける方法</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/efficient-fixes-for-malfunctioning-system-components-in-windows-11-pcs/"><u>Efficient Fixes for Malfunctioning System Components in Windows 11 PCs</u></a></li>
-<li><a href="https://solve-news.techidaily.com/gratuit-conversion-de-mov-en-m4v-sur-moovavni-en-ligne-et-facile-a-utiliser/"><u>Gratuit Conversion De MOV en M4V Sur Moovavni - En Ligne Et Facile À Utiliser</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-open-apps-using-your-systems-default-admin-profile/"><u>How To Successfully Open Apps Using Your System's Default Admin Profile</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Infinix Note 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-pubg-effective-strategies-to-combat-and-prevent-game-lags/"><u>Mastering PUBG: Effective Strategies to Combat and Prevent Game Lags</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-activating-bluetooth-connectivity-in-windows-11-and-10/"><u>Step-by-Step Tutorial for Activating Bluetooth Connectivity in Windows 11 & 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successful-fixes-and-tips-for-overcoming-error-1603-fatal-installation-issue/"><u>Successful Fixes & Tips for Overcoming Error 1603 - Fatal Installation Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-your-bootstrapper-keeps-crashing-on-startup/"><u>Troubleshooting Steps When Your Bootstrapper Keeps Crashing on Startup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210807114-usb-tethering-on-windows-10-easily/"><u>USB Tethering on Windows 10 Easily!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-stuck-heres-how-you-can-get-your-computer-to-properly-power-off/"><u>Windows 11 Stuck? Here's How You Can Get Your Computer to Properly Power Off</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-premier-video-cutting-software-recommendations-for-windows-users-for-2024/"><u>[New] Premier Video Cutting Software Recommendations for Windows Users for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-instagram-djs-playlist-tailoring-sounds-for-stories/"><u>[New] The Instagram DJ's Playlist Tailoring Sounds for Stories</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-uniting-friends-across-operating-systems-with-skype-groups/"><u>[New] Uniting Friends Across Operating Systems with Skype Groups</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-how-to-buy-1-million-youtube-views-safely-from-trusted-providers/"><u>[Updated] In 2024, How to Buy 1 Million YouTube Views Safely From Trusted Providers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/activating-your-systems-lsa-defenses-essential-guide/"><u>Activating Your System's LSA Defenses - Essential Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-6s-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 6s</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-high-system-resource-use-by-windows-audio-services/"><u>How to Solve High System Resource Use by Windows Audio Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-turn-off-the-touchscreen-controls-in-windows-10-when-using-a-mouse/"><u>How to Turn Off the Touchscreen Controls in Windows 10 when Using a Mouse</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-the-approval-process-with-guardianlayer-for-file-changes/"><u>Navigating the Approval Process with GuardianLayer for File Changes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/no-more-screen-shimmy-win11-improved/"><u>No More Screen Shimmy: Win11 Improved</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/mline-your-online-presence-yt-descriptive-insights-for-2024/"><u>Streamline Your Online Presence YT Descriptive Insights for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tech-tip-diagnosing-and-resolving-sudden-pc-shutdown-issues-successfully/"><u>Tech Tip: Diagnosing And Resolving Sudden PC Shutdown Issues Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-solution-guide-for-dealing-with-livekernelevent-issue-code-117/"><u>The Ultimate Solution Guide for Dealing with LiveKernelEvent Issue Code 117</u></a></li>
 </ul></div>
 

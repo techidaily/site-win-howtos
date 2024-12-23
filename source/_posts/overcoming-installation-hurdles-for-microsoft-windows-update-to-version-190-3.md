@@ -1,7 +1,7 @@
 ---
 title: Overcoming Installation Hurdles for Microsoft Windows Update to Version 190 3
-date: 2024-12-06T20:05:18.867Z
-updated: 2024-12-13T21:29:07.053Z
+date: 2024-12-17T20:06:58.533Z
+updated: 2024-12-23T00:42:07.111Z
 tags:
   - win11
   - win10
@@ -51,13 +51,13 @@ You should first uninstall the printer from your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae155061b9aa.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the**Printers** section, right click on your**printer** , and select**Remove device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae155dae8d27.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3)**Confirm** to delete the printer.
 
@@ -86,22 +86,22 @@ Now you should reinstall your printer to your computer.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16d03d720a.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Try to have a test print to see if your error disappears.
 
  This should resolve the issue. If not, we have something else you can try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2\. Reinstall your printer driver
 
  You can also uninstall your printer driver and reinstall it to fix the error. To do so, follow the instructions below:
 
  1) On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Type**devmgmt.msc** and click**OK** .
 
@@ -112,16 +112,24 @@ Now you should reinstall your printer to your computer.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae170cd9723f.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Check the box next to**Delete the driver software for this device** if you’re prompted, and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae17154337fb.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) After uninstalling, restart your computer and Windows will reinstall the printer driver for you.
 
  Try your printer again and the error should be removed now. If the error still persists, you can try[Method 3](https://tools.techidaily.com/drivereasy/download/) to update your printer driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3\. Update your printer driver
 
@@ -143,19 +151,11 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd74d18191.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**   button next to the flagged printer device to automatically download the latest driver (you can do this with the **FREE**   version), then install it in your computer.
 
  Or click **Update**  **All**   to automatically download and install the all the latest correct drivers that is missing or outdated in your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click _**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae1720acdb02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer, and try your printer to see if the error disappears.
 
@@ -178,20 +178,22 @@ Now you should reinstall your printer to your computer.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/approved-leading-8-software-for-linux-video-editors/"><u>2024 Approved Leading 8 Software for Linux Video Editors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-punpictures-pro-jestjokes-network/"><u>2024 Approved PunPictures Pro JestJokes Network</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-htc-u23-pro-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset HTC U23 Pro Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/amds-innovation-with-fsr-3-can-it-outperform-dlss-35/"><u>AMD's Innovation with FSR 3: Can It Outperform DLSS 3.5?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beating-windows-update-troubles-with-a-proven-cure-for-error-code-0x80240017/"><u>Beating Windows Update Troubles with a Proven Cure for Error Code 0X80240017</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/boost-your-pcs-speed-mastering-the-setup-of-hardware-acceleration-on-windows-with-expert-advice-from-yl-software/"><u>Boost Your PC's Speed: Mastering the Setup of Hardware Acceleration on Windows with Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208765679-dell-wireless-keyboard-problems-discover-proven-fixes-and-tricks/"><u>Dell Wireless Keyboard Problems? Discover Proven Fixes & Tricks!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/flow-rate-q-is-calculated-by-q-volume-time/"><u>Flow Rate (Q) Is Calculated by Q = Volume / Time.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-restoring-touchpad-scrolling-functionality-in-windows-10-computers/"><u>Guide to Restoring Touchpad Scrolling Functionality in Windows 10 Computers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-flawless-tint-enhancer/"><u>In 2024, Flawless Tint Enhancer</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/la-solution-definitive-pour-configurer-une-image-systeme-portable-sur-une-cle-usb-tous-les-details-devoiles/"><u>La Solution Définitive Pour Configurer Une Image Système Portable Sur Une Clé USB : Tous Les Détails Dévoilés</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/g-your-channel-with-flair-and-individuality/"><u>Naming Your Channel with Flair and Individuality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-optimizing-windows-driver-framework-reduces-excessive-cpu-usage/"><u>Resolved: Optimizing Windows Driver Framework Reduces Excessive CPU Usage</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-lava-yuva-2-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Lava Yuva 2 Pro FRP Bypass</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208807663-urgent-fix-required-enable-local-authorization-defenses-now/"><u>Urgent Fix Required: Enable Local Authorization Defenses Now</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-firstrow-leisure-without-the-sports-commitment/"><u>[New] FirstRow Leisure Without the Sports Commitment</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-techs-choice-best-online-screen-capturing-tools-for-2024/"><u>[New] Tech's Choice Best Online Screen Capturing Tools for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-strategies-for-finding-high-impact-keywords-for-youtube-content/"><u>[Updated] In 2024, Strategies for Finding High-Impact Keywords for YouTube Content</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-excellence-professional-editing-techniques-revealed-for-2024/"><u>[Updated] Instagram Excellence Professional Editing Techniques Revealed for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-the-port-reset-failed-error-on-windows-11s-usb-devices-tips-and-tricks/"><u>Dealing with the Port Reset Failed Error on Windows 11'S USB Devices – Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-recover-corrupt-system-components-on-your-windows-11-device/"><u>Effective Solutions to Recover Corrupt System Components on Your Windows 11 Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-24-decoded-addressing-the-missing-device-warning-in-windows-versions/"><u>Error Code 24 Decoded: Addressing the Missing Device Warning in Windows Versions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-y55s-5g-2023-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo Y55s 5G (2023) Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-depth-fix-how-to-address-could-not-write-crash-dump-glitches-in-wolfenstein-ii/"><u>In-Depth Fix: How to Address 'Could Not Write Crash Dump' Glitches in Wolfenstein II</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/photographys-new-frontier-toolwiz-app-detailed-review-2023-edition-for-2024/"><u>Photography's New Frontier Toolwiz App - Detailed Review, 2023 Edition for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-boot-not-detected-issues-on-your-device-easy-troubleshooting-steps-inside/"><u>Resolve Boot Not Detected Issues on Your Device - Easy Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-the-hp-laptop-camera-in-windows-10-expert-tips-and-fixes/"><u>Reviving the HP Laptop Camera in Windows 10: Expert Tips & Fixes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/streamline-split-and-save-going-beyond-xsplit/"><u>Streamline, Split & Save Going Beyond XSplit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-solutions-to-prevent-total-war-rome-remastered-from-crashing/"><u>Ultimate Solutions to Prevent Total War: Rome Remastered From Crashing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-msdia80dll-importance-and-whether-to-retain/"><u>Understanding msdia80.dll: Importance & Whether To Retain</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unleashing-potential-combining-zoom-and-google-mail/"><u>Unleashing Potential Combining Zoom & Google Mail</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-tecno-camon-20-pro-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Tecno Camon 20 Pro 5G Phone Network-Ready</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Nonfunctioning HP Laptop Cameras in Windows 11 Devices
-date: 2024-09-11T15:24:36.354Z
-updated: 2024-09-12T15:24:36.354Z
+date: 2024-12-19T16:54:11.975Z
+updated: 2024-12-22T19:40:48.732Z
 tags:
   - win11
   - win10
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
 
 The good news is, you can fix it easily!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  All the fixes below work in**Windows 10** . And just work your way down the list until your volume control not working issue is resolved.
@@ -38,13 +31,6 @@ The good news is, you can fix it easily!
 4. [**Run the Playing Audio troubleshooter**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your sound driver
 
@@ -61,10 +47,7 @@ The good news is, you can fix it easily!
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
@@ -72,19 +55,6 @@ The good news is, you can fix it easily!
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
 
@@ -96,34 +66,18 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
 2. Locate and double-click on**Windows Audio** .  
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Run SFC
 
@@ -135,30 +89,19 @@ To run SFC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click **Yes**   when prompted to confirm.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
@@ -171,7 +114,17 @@ Here’s how:
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
@@ -196,5 +149,22 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-youtube-meets-branding-a-new-era-of-digital-partnership/"><u>[New] In 2024, YouTube Meets Branding A New Era of Digital Partnership</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212413001-solved-reclaim-lost-performance-eradicate-the-root-cause-of-high-system-load-shell-infrastructures/"><u>[Solved] Reclaim Lost Performance: Eradicate the Root Cause of High System Load – Shell Infrastructures!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-step-by-step-approach-to-crafting-customized-youtube-alerts-and-notifications/"><u>2024 Approved A Step-by-Step Approach to Crafting Customized Youtube Alerts & Notifications</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6s-plus-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6s Plus Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-charting-the-top-8-online-photo-hybrid-creator/"><u>In 2024, Charting the Top 8 Online Photo Hybrid Creator</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-xcover-7-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy XCover 7 FRP Locks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-the-darkness-in-depth-strategies-for-repairing-a-nonresponsive-screen-on-dell-notebooks/"><u>Navigating the Darkness: In-Depth Strategies for Repairing a Nonresponsive Screen on Dell Notebooks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/photo-memory-locker-at-no-cost-plus-elite-charged-cloud-spheres-for-2024/"><u>Photo Memory Locker at No Cost, Plus Elite Charged Cloud Spheres for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/resurrect-your-invisible-wi-fi-connection-on-windows-11/"><u>Resurrect Your Invisible Wi-Fi Connection on Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-ultimate-checklist-for-zoom-recording/"><u>The Ultimate Checklist for Zoom Recording</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-tips-and-solutions-for-fixing-a-non-responsive-ps4-microphone/"><u>Top Tips & Solutions for Fixing a Non-Responsive PS4 Microphone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-dvd-playback-problems-on-windows-computers/"><u>Troubleshooting Guide: DVD Playback Problems on Windows Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-quick-solutions-for-unrecognized-usb-flash-drives/"><u>Troubleshooting: Quick Solutions for Unrecognized USB Flash Drives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-fixing-and-preventing-critical-errors-in-google-chrome-stay-protected/"><u>Ultimate Guide: Fixing and Preventing Critical Errors in Google Chrome - Stay Protected!</u></a></li>
+</ul></div>
 

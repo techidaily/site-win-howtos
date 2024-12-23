@@ -1,7 +1,7 @@
 ---
 title: "Solutions for Common Issues: Why Isn't My Torrent Downloading?"
-date: 2024-09-11T15:24:22.355Z
-updated: 2024-09-12T15:24:22.355Z
+date: 2024-12-21T16:25:53.641Z
+updated: 2024-12-22T16:21:32.138Z
 tags:
   - win11
   - win10
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/c169b3dacf2f59341958f21d25bf2991aa2ae1cda
 If you’re getting so annoyed with**the** **PUBG lag** issue, you’re not alone.
 
  But don’t worry – check out the following 5 steps below and you can make all the difference…
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5 fixes for PUBG lag
 
@@ -47,16 +40,7 @@ If you’re getting so annoyed with**the** **PUBG lag** issue, you’re not alon
 ---
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Close unused apps and set high priority for PUBG
@@ -69,10 +53,7 @@ If you’re getting so annoyed with**the** **PUBG lag** issue, you’re not alon
 3. After that, we can also prioritize PUBG. Click the**Details** tab, right-click on your**PUBG** and click**Set priority** \>**High** .
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Start a game in PUBG and see if the lag issues have been fixes. If the issue persists, please move on to**Fix 3** , below.
@@ -88,19 +69,6 @@ Running PUBG in a lower resolution can also help in fixing lag:
 3. Start a game in PUBG and check if the lag in PUBG issues have been resolved. If yes, then congrats! But if the issues still persist, you should move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics drivers
 
@@ -128,6 +96,10 @@ Running PUBG in a lower resolution can also help in fixing lag:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Change the power option and adjust for best performance
 
  By default, the power plan on our computer is often configured to **Balanced**   or **Power saver**   to conserve battery, which largely compromises the operating capacity of your graphics card and CPU.
@@ -139,31 +111,20 @@ So to tweak the settings:
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Choose the **High performance** option.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
-3. In the top-right corner of the window, type **advanced**  and click **View advanced system settings** .  
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
+3. In the top-right corner of the window, type **advanced**  and click **View advanced system settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c503626f65.jpg)
 4. Click **Adjust for best performance** \> **Apply** \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c50b65a2ed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -186,5 +147,18 @@ So to tweak the settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/eciphering-the-must-haves-for-an-enhanced-youtube-experience-for-2024/"><u>[New] Deciphering the Must-Haves for an Enhanced YouTube Experience for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-augment-your-cams-with-top-accessory-picks/"><u>[Updated] Augment Your Cams with Top Accessory Picks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastering-motion-capture-top-gear-recommendations/"><u>[Updated] In 2024, Mastering Motion Capture - Top Gear Recommendations</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/como-hacer-una-copia-de-seguridad-completa-y-libre-de-costos-de-windows/"><u>Cómo Hacer Una Copia De Seguridad Completa Y Libre De Costos De Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-resolving-resident-evidy-4-remake-stability-issues-and-crash-fixes/"><u>Expert Tips for Resolving Resident Evidy 4 Remake Stability Issues and Crash Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-track-to-connectivity-repair-techniques-for-remote-server-connection-failures/"><u>Fast Track to Connectivity: Repair Techniques for Remote Server Connection Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-the-missing-device-issue-error-24-in-windows-10-11-and-earlier-versions/"><u>Guide to Fixing the Missing Device Issue (Error 24) in Windows 10, 11, and Earlier Versions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-a-windows-surface-that-wont-charge-even-though-it-is-connected/"><u>Step-by-Step Fixes for a Windows Surface That Won't Charge Even Though It Is Connected</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-edge-settings-to-reduce-processes/"><u>Tailoring Edge Settings to Reduce Processes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-definitive-selection-of-optimal-cable-modems/"><u>The Definitive Selection of Optimal Cable Modems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-printing-a-pdf-file-quick-fixes-you-must-try-today/"><u>Trouble Printing a PDF File? Quick Fixes You Must Try Today</u></a></li>
+</ul></div>
 

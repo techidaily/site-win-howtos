@@ -1,7 +1,7 @@
 ---
 title: Guide to Fixing the Unresponsive Volume Control in Windows 10
-date: 2024-09-11T15:23:52.739Z
-updated: 2024-09-12T15:23:52.739Z
+date: 2024-12-20T23:48:09.563Z
+updated: 2024-12-22T19:51:22.519Z
 tags:
   - win11
   - win10
@@ -16,13 +16,6 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 ## Keyboard Malfunction in Windows 11? Here's the Solution to Unresponsive Characters
 
  Did you find that some keys on your keyboard don’t work? Are you typing but the letters are not appearing on the screen? Well don’t worry, you’re not alone. This post could help you fix this vexing issue.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -67,10 +60,7 @@ If you’re a laptop user, you could follow these steps:
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check for hardware issues
@@ -82,6 +72,10 @@ If you’re a laptop user, you could follow these steps:
  If cleaning the keyboard didn’t work for you, you need to[boot to BIOS](https://tools.techidaily.com/drivereasy/download/) .  
  If your keys work fine in the BIOS, it means it’s a software issue. You should move to[Fix 3](#f3) .  
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -114,22 +108,12 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -147,23 +131,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips: Keyboard maintenance
@@ -191,5 +169,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-clearer-sharper-zoom-tips-for-ultimate-video-quality/"><u>[New] Clearer, Sharper Zoom Tips for Ultimate Video Quality</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-seamless-integration-of-nvidia-screener-techniques-for-2024/"><u>[New] Seamless Integration of NVIDIA Screener Techniques for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-strategic-evasion-the-best-room-escapes-ranked-for-2024/"><u>[New] Strategic Evasion The Best Room Escapes Ranked for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-triple-check-for-profitability-guiding-principles-for-measuring-youtube-income/"><u>[New] Triple Check for Profitability Guiding Principles for Measuring YouTube Income</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205342105-arctis-5-mic-not-working-heres-the-ultimate-fix/"><u>Arctis 5 Mic Not Working? Here's The Ultimate Fix</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-meme-generator-app-downlaod/"><u>Best Meme Generator App Downlaod</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/essential-guide-to-pre-eminent-video-conferencing-tools/"><u>Essential Guide to Pre-Eminent Video Conferencing Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-to-accelerate-windows-7-booting-performance/"><u>Expert Solutions to Accelerate Windows 7 Booting Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-failed-creation-of-d3d-graphics-device-in-windows-applications-step-by-step-solution/"><u>Fixing Failed Creation of D3D Graphics Device in Windows Applications: Step-by-Step Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-repairing-your-windows-stores-damaged-cache-issue-resolved/"><u>Guide to Repairing Your Windows Store's Damaged Cache (ISSUE RESOLVED)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-device-drivers-manually-in-windows-11107-by-drivereasy-guide/"><u>How to install and update device drivers manually in Windows 11/10/7</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-revive-a-frozen-iphone-a-step-by-step-guide-beyond-the-apple-icon/"><u>How to Revive a Frozen iPhone: A Step-by-Step Guide Beyond the Apple Icon</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-crafting-captivating-reels-syncing-audio-to-images/"><u>In 2024, Crafting Captivating Reels Syncing Audio to Images</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lenovo-keyboards-failing-top-tips-and-tricks-to-restore-your-typing-experience/"><u>Lenovo Keyboards Failing? Top Tips and Tricks to Restore Your Typing Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-missing-dll-in-steam-games/"><u>Overcoming Missing DLL in Steam Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/speaker-noise-elimination-techniques-for-windows-11-and-7-users/"><u>Speaker Noise Elimination Techniques for Windows 11 and 7 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-error-unable-to-access-windows-installer-issues/"><u>Step-by-Step Solution for Error: Unable to Access Windows Installer Issues</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/the-complete-guide-to-preserving-and-backing-up-your-outlook-calendar-schedules/"><u>The Complete Guide to Preserving and Backing Up Your Outlook Calendar Schedules</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcoming-unexpected-crashes-in-directx-applications/"><u>Troubleshooting Guide: Overcoming Unexpected Crashes in DirectX Applications</u></a></li>
+</ul></div>
 

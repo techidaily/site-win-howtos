@@ -1,7 +1,7 @@
 ---
 title: Fix Applied! The Infamous 'EXE File Has Ceased Operation'
-date: 2024-09-05T10:12:22.952Z
-updated: 2024-09-06T10:12:22.952Z
+date: 2024-12-17T17:44:28.998Z
+updated: 2024-12-22T18:12:48.211Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Fix Applied! The Infamous 'EXE File Has Ceased O
 thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02bd5063809503ecb26b1549e6.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Cracking the Code to Successfully Register Classes on Windows 10 - Detailed Fixes Revealed
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90d415e22e7.jpg)
@@ -36,39 +30,19 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
 5. [ Disable iCloud](<https://www.drivereasy.com/knowledge/fix-class-not-registered-error-on-windows-10-solved/#Fix> 5. Disable iCloud) ``
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Fix DCOM(**Distributed Component Object Model)** errors
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ``
 
 ``
@@ -80,17 +54,9 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ``
 
 ``
@@ -109,18 +75,6 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
 
 ``
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
 ``
@@ -154,12 +108,6 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
@@ -172,6 +120,10 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -180,20 +132,26 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Open the app again to see if it goes fine.
 
 ``
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -202,6 +160,10 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -221,18 +183,6 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Disable iCloud
 
  Some users reported that to disable iCloud in Task Manager fix the error for them. So make sure to try to disable icloud if you install one on Windows 10.
@@ -243,12 +193,6 @@ thumbnail: https://thmb.techidaily.com/c47d9b748677be35ea8562c8673e1a0adea4db02b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Open the app again to see if it goes fine.
 
 That’s it!
@@ -267,8 +211,6 @@ That’s it!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -276,4 +218,21 @@ That’s it!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unlocking-audio-potential-download-plus-install-guide-for-vrecorder/"><u>[New] 2024 Approved Unlocking Audio Potential - Download + Install Guide for VRecorder</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-discreetly-watch-instas-hidden-gems-here/"><u>[New] Discreetly Watch Insta's Hidden Gems, Here</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-quick-fixes-for-the-troublesome-steam-disk-cant-be-writed/"><u>Expert Advice on Quick Fixes for the Troublesome Steam 'Disk Can't Be Writed'</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-behringer-usb-audio-cable-drivers-today-download-and-learn-easily/"><u>Get Your Behringer USB Audio Cable Drivers Today – Download & Learn Easily</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-pro-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12 Pro 5G Phone without Google Account?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-itel-s23-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Itel S23?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/resonant-rhythms-where-to-download-classical-ringtones/"><u>Resonant Rhythms Where to Download Classical Ringtones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/shrink-high-wmi-cpu-load-in-win1011/"><u>Shrink High WMI CPU Load in Win10/11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-itel-p40-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Itel P40 Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-high-gpu-demand-from-windows-10s-desktop-window-manager-5-effective-strategies/"><u>Troubleshoot High GPU Demand From Windows 10'S Desktop Window Manager: 5 Effective Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-successfully-fixing-steam-network-unreachable-problems/"><u>Troubleshooting Guide: Successfully Fixing 'Steam Network Unreachable' Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-wow-performance-drops/"><u>Ultimate Guide: Solving WoW Performance Drops</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revive Your PC: Solutions to Restore Non-Functioning USB Mouse & Keyboard on Windows 7"
-date: 2024-12-09T21:10:23.328Z
-updated: 2024-12-13T18:29:30.033Z
+date: 2024-12-19T22:21:08.763Z
+updated: 2024-12-22T21:31:08.816Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 * [**Tips: Keyboard maintenance**](#tips)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Hard reset your keyboard
@@ -67,10 +67,6 @@ If you’re a laptop user, you could follow these steps:
 
  Now check to see if this works for you.  
  If the keys are still not working, you could move to[Fix 2](#f2) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check for hardware issues
 
@@ -113,7 +109,7 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -135,20 +131,24 @@ OR
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tips: Keyboard maintenance
 
@@ -177,19 +177,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-crafting-an-engaging-fb-slideshow-experience/"><u>[Updated] Crafting an Engaging FB Slideshow Experience</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-essential-update-on-whats-new-with-facebook/"><u>[Updated] In 2024, The Essential Update on What's New with Facebook</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-top-youtube-cameras-a-guide-for-novices-and-pros-for-2024/"><u>[Updated] Top YouTube Cameras A Guide for Novices & Pros for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-on-resolving-sea-of-thieves-initialization-hitches/"><u>Expert Tips on Resolving Sea of Thieves Initialization Hitches</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-download-comprehensive-guide-and-driver-installation-for-the-qualcomm-atheros-ar3n-broadcom-bcm4329-wlanbcm4330plusbcm4336-ieee802154-bluetooth-30-driv298/"><u>Free Download: Comprehensive Guide and Driver Installation for the Qualcomm Atheros AR3n-Broadcom BCM4329 WLAN/BCM4330+BCM4336 IEEE802.15.4 Bluetooth 3.0 Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207400294-how-to-repair-your-computers-unresponsive-shift-key-solutions-inside/"><u>How to Repair Your Computer's Unresponsive Shift Key - Solutions Inside</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-realme-narzo-60x-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Realme Narzo 60x 5G Phone that is Locked?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-resolve-your-microsoft-display-adapter-connectivity-problems-with-windows-10/"><u>How to Troubleshoot and Resolve Your Microsoft Display Adapter Connectivity Problems with Windows 10</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-googles-platform-unveiled-for-professional-podcasters/"><u>In 2024, Google's Platform Unveiled for Professional Podcasters</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-get-ready-to-download-best-public-domain-video-websites/"><u>New 2024 Approved Get Ready to Download Best Public Domain Video Websites</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-windows-unable-to-set-up-key-system-components-issue/"><u>Resolved: Fixing 'Windows Unable to Set Up Key System Components' Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-this-device-is-not-present-error-fixes-for-wsten-windows-10/"><u>Resolving the 'This Device Is Not Present' Error: Fixes for WS_TEN, WINDOWS 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-solving-network-alteration-noticed-errors-quickly/"><u>Understanding and Solving 'Network Alteration Noticed Errors' Quickly</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/gnwsh-glwttothpeioy-paradoseis-eyxethmatos/"><u>Γνώση Γλωττοτηπειού Παραδόσεις Ευχετήματος</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-usb-ports-not-working-in-windows-1011/"><u>[Fixed] USB Ports Not Working in Windows 10/11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-add-a-youtube-video-to-google-slides/"><u>[New] In 2024, How to Add a YouTube Video to Google Slides</u></a></li>
+<li><a href="https://win-able.techidaily.com/fast-conversion-tips-transforming-webm-files-into-quality-wav-audio/"><u>Fast Conversion Tips: Transforming WebM Files Into Quality WAV Audio</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-corrupted-windows-store-cache-step-by-step-solutions/"><u>Fixing a Corrupted Windows Store Cache: Step-by-Step Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-time-travelers-guide-mastering-video-speed-adjustment/"><u>In 2024, Time Traveler's Guide Mastering Video Speed Adjustment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-guide-top-6-cutting-edge-21-hdmi-portable-displays/"><u>In 2024, Ultimate Guide Top 6 Cutting-Edge 2.1 HDMI Portable Displays</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-unreachable-steam-content-services/"><u>Step-by-Step Solutions for Unreachable Steam Content Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-corrupt-or-unsupported-images-in-windows-11-and-windows-10/"><u>Troubleshooting Corrupt or Unsupported Images in Windows 11 & Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-computing-insights-from-toms-hardware/"><u>Unveiling the Latest in Computing: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/windowsmac-srt-sound-management/"><u>Windows/Mac SRT Sound Management</u></a></li>
 </ul></div>
 

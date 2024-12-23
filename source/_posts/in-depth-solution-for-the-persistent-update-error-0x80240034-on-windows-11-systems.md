@@ -1,7 +1,7 @@
 ---
 title: In-Depth Solution for the Persistent Update Error (0X80240034) on Windows 11 Systems
-date: 2024-12-12T16:31:00.666Z
-updated: 2024-12-13T16:26:42.684Z
+date: 2024-12-19T23:48:56.725Z
+updated: 2024-12-22T18:04:56.457Z
 tags:
   - win11
   - win10
@@ -32,27 +32,19 @@ thumbnail: https://thmb.techidaily.com/e310ec62b9e76066416bdd2ef743a630e77fd957f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **LAN settings**  under**Connection** pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Check on Automatically detect settings
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-1.png)
 
-Now try to install Windows Updates now.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Now try to install Windows Updates now.
 
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
 
@@ -69,6 +61,10 @@ Now try to install Windows Updates now.
  Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Exit Internet Explorer and run Command Prompt.
 
@@ -105,7 +101,7 @@ Double-click on your active Network Adapter.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Locate Use the following DNS server addresses.
@@ -119,7 +115,7 @@ Double-click on your active Network Adapter.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
@@ -136,13 +132,13 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
 
@@ -151,7 +147,7 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
@@ -161,6 +157,10 @@ If the fixes above didn’t serve you, try this one.
  And name the new key**WindowsUpdate** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  b) Right-click on**WindowUpdate**  folder, then choose **New**  \> **Key** .
 
@@ -195,22 +195,17 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-discover-the-best-premiere-pro-templates-free-2023/"><u>[New] 2024 Approved Discover the Best Premiere Pro Templates (FREE) 2023</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-a-step-by-step-approach-to-enhanced-roblox-views/"><u>[New] A Step-by-Step Approach to Enhanced Roblox Views</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-10-expert-suggestions-to-make-your-yt-shorts-stand-out/"><u>[Updated] 2024 Approved 10 Expert Suggestions to Make Your YT Shorts Stand Out</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-best-free-screencasting-solutions-for-everyone-for-2024/"><u>[Updated] Best Free Screencasting Solutions for Everyone for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dhcp-server-unreachable-heres-the-resolved-technique/"><u>DHCP Server Unreachable? Here's the Resolved Technique</u></a></li>
-<li><a href="https://win-dash.techidaily.com/fixing-common-drivers-error-for-the-hp-laserjet-p2-a-the-value-of-a-is-incorrect-and-it-cannot-be-set-to-100/"><u>Fixing Common Drivers Error for the HP LaserJet P2# A: The Value of #A Is Incorrect, and It Cannot Be Set to 100</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-your-game-requires-a-system-restart-to-play-valorant/"><u>How to Fix Your Game Requires a System Restart to Play'' Valorant</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-gunners-gratitude-discovering-our-top-7-shooter-games/"><u>In 2024, Gunner's Gratitude Discovering Our Top 7 Shooter Games</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-15-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 15 With 7 Methods | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/logitech-mouse-woes-heres-how-to-restore-your-scroll-wheel-functionality/"><u>Logitech Mouse Woes? Here’s How to Restore Your Scroll Wheel Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209914137-quick-guide-solve-your-sims-4-launching-issues-today/"><u>Quick Guide: Solve Your Sims 4 Launching Issues Today</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-your-screen-mirroring-woes-a-step-by-step-guide-for-windows-n-11-users/"><u>Resolve Your Screen Mirroring Woes: A Step-by-Step Guide for Windows N 11 Users</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-motorola-moto-g73-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Motorola Moto G73 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-tips-for-solving-lag-in-world-of-warcraft-efficiently/"><u>Top Tips for Solving Lag in World of Warcraft Efficiently</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-responsive-fn-keys-on-dell-laptops-effective-solutions/"><u>Troubleshooting Non-Responsive Fn Keys on Dell Laptops: Effective Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-and-solutions-for-stabilizing-total-war-rome-remastered/"><u>Troubleshooting Tips and Solutions for Stabilizing Total War: Rome Remastered</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-transformative-tutorial-turning-vids-on-twitter-into-catchy-animated-memes-gifs/"><u>[New] In 2024, Transformative Tutorial Turning Vids on Twitter Into Catchy Animated Memes (GIFs)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-discovering-those-who-left-my-instagram-circle/"><u>[Updated] 2024 Approved Discovering Those Who Left My Instagram Circle</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-device-to-desktop-fastest-file-transfers-to-your-computer/"><u>[Updated] From Device to Desktop Fastest File Transfers to Your Computer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-power-of-time-lapse-with-samsung-smartphones/"><u>2024 Approved Unlocking the Power of Time Lapse with Samsung Smartphones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-blues-overcoming-the-frustrating-windows-11-error-0x800f0922-with-these-8-fixes/"><u>Beat the Blues: Overcoming the Frustrating Windows 11 Error 0X800f0922 with These 8 Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-troubleshooting-tips-repairing-common-issues-with-your-electronic-gadgets/"><u>DIY Troubleshooting Tips: Repairing Common Issues with Your Electronic Gadgets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-free-windows-11-setup-avoid-the-installation-couldnt-be-completed-mishap-code-80240020/"><u>Error-Free Windows 11 Setup: Avoid the 'Installation Couldn’t Be Completed' Mishap (Code 80240020)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/fastest-bipedal-bot-breaks-speed-barrier-leaves-casual-walkers-in-dust/"><u>Fastest Bipedal Bot Breaks Speed Barrier - Leaves Casual Walkers in Dust</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-no-hassle-just-happiness-effortless-video-edits-on-windows-10/"><u>In 2024, No Hassle, Just Happiness Effortless Video Edits on Windows 10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-phantom-v-fold-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Phantom V Fold</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-for-lost-sounds-in-netflix-videos/"><u>Step-by-Step Troubleshooting for Lost Sounds in Netflix Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlocking-the-potential-of-onestream-live-streaming/"><u>Unlocking the Potential of OneStream Live Streaming</u></a></li>
 </ul></div>
 

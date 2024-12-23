@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Essential Media Driver Now Detected on Your PC"
-date: 2024-09-05T10:09:55.125Z
-updated: 2024-09-06T10:09:55.125Z
+date: 2024-12-15T21:05:54.724Z
+updated: 2024-12-22T16:11:28.636Z
 tags:
   - win11
   - win10
@@ -41,23 +41,16 @@ Recently some**WoW** players are getting the**Your device driver is not compatib
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-MPOW-driver.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Remember to restart your computer for the changes to take effect.
 5. Launch WoW to see if the error is fixed. If yes, then congrats! If it still pops up, please try**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Reset WoW User Interface
 
  It is possible that the display and interface settings are corrupt, causing the Your device driver is not compatible error. If this is the case, you should reset the user interface in WoW.
@@ -69,56 +62,24 @@ Here’s how to do it:
 3. In Battle.net, click **Options** and select **Show in Explorer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-4.png)
 4. Exit **Blizzard.net** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4.png)
 5. In the pop-up windows, double-click on the **World of Warcraft** folder.  
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-1.png)
 6. Double-click on **the game version that is having the connection issue** ( **\_retail\_**  or **\_classic\_** ).  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6-2.png)
 7. Rename these three folders: **Cache** , **Interface** , and **WTF folders** to **CacheOld** , **InterfaceOld** , and **WTFOld** .  
+
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/7.png)
 8. Relaunch World of Warcraft and see if you can play it properly. If yes, then great – you’ve resolved the error! If the issue still remains, you should try **Fix 3** , below.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Make sure your PC meets the minimum specifications
 
@@ -139,8 +100,18 @@ Here’s how to do it:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-12.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-11.png)
 3. Click the **Display** tab and you can check what **graphics card** your PC is using.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Close DirectX.
 
  You may need to upgrade the hardware of your computer if it fails to meet the specs.
@@ -157,8 +128,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +135,18 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-sjcam-sj7-star-action-camera-complete-review-for-2024/"><u>[New] SJCam SJ7 Star Action Camera Complete Review for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-youtube-video-text-overlay-techniques-for-2024/"><u>[Updated] Mastering YouTube Video Text Overlay Techniques for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-unable-to-access-file-path-issues-in-windows/"><u>How to Resolve 'Unable to Access File Path' Issues in Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/motion-review-full-scope-2023/"><u>Motion Review Full Scope 2023</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-when-your-windows-11-mouse-cant-right-click/"><u>Quick Solutions for When Your Windows 11 Mouse Can't Right-Click</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-11s-night-light-problem-a-step-by-step-guide/"><u>Resolving Windows 11'S Night Light Problem - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-tackling-the-memory-write-denial-in-0x-designated-address/"><u>Successfully Tackling the Memory Write Denial in 0X Designated Address</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-trick-to-watch-netflix-at-zero-price-point/"><u>The Ultimate Trick to Watch Netflix at Zero Price Point</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-solving-failed-to-initialize-network-in-dbfz/"><u>Troubleshooting Tips: Solving 'Failed to Initialize Network' In DBFZ</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unleash-hilarious-mischief-creative-iphone-and-ipad-trickery-for-friends-amusement/"><u>Unleash Hilarious Mischief: Creative iPhone & iPad Trickery for Friends' Amusement</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/online-mkv-to-aac-converter-movavi/"><u>무료 Online MKV to AAC Converter - Movavi</u></a></li>
+</ul></div>
 

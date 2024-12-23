@@ -1,7 +1,7 @@
 ---
 title: Click Confusion Cleared
-date: 2024-09-05T10:12:36.877Z
-updated: 2024-09-06T10:12:36.877Z
+date: 2024-12-15T21:38:59.879Z
+updated: 2024-12-22T19:35:48.947Z
 tags:
   - win11
   - win10
@@ -28,12 +28,6 @@ thumbnail: https://thmb.techidaily.com/3dcb6c62df72cedd3cd399cfd308e616854c3b7c7
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -44,34 +38,20 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -86,12 +66,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -121,17 +95,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -148,14 +114,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -165,15 +133,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -204,8 +170,6 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,4 +177,21 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-behind-the-scenes-guide-to-elusive-instagram-tools/"><u>[New] 2024 Approved Behind-the-Scenes Guide to Elusive Instagram Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-eye-opening-list-of-the-top-12-yt-gamers-intros-freepaid-sessions/"><u>[New] In 2024, Eye-Opening List of the Top 12 YT Gamers' Intros (Free/Paid Sessions)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-tapestry-of-tech-loom-recording-explained/"><u>[New] The Tapestry of Tech Loom Recording Explained</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beyond-the-screen-metaverse-vs-omniverse-dissected/"><u>[Updated] Beyond the Screen Metaverse Vs. Omniverse Dissected</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-creating-smooth-audio-flows-with-pp/"><u>[Updated] In 2024, Creating Smooth Audio Flows with PP</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-insufficient-installation-authorization-errors/"><u>Addressing Insufficient Installation Authorization Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/brightness-adjustment-trouble-solving-windows-11-display-problems/"><u>Brightness Adjustment Trouble: Solving Windows 11 Display Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortlessly-resolve-no-battery-found-issue-swift-solutions/"><u>Effortlessly Resolve 'No Battery Found' Issue – Swift Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210932111-forgotten-sd-cards-reclaim-and-repair-them/"><u>Forgotten SD Cards? Reclaim & Repair Them!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-restriction-graphic-device-block-in-windows/"><u>Hardware Restriction: Graphic Device Block in Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-change-location-on-yik-yak-for-your-vivo-s18-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Vivo S18 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-microsoft-bluetooth-drivers-available-for-download-supporting-windows-xp-to-windows-11-users/"><u>Latest Microsoft Bluetooth Drivers Available for Download: Supporting Windows XP to Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-solving-class-not-registered-problems-easily/"><u>Troubleshooting Windows 11: Solving 'Class Not Registered' Problems Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-over-wi-fi-mice-issues-consistent-connectivity-for-windows-1011-systems/"><u>Winning Over Wi-Fi Mice Issues: Consistent Connectivity for Windows 10/11 Systems</u></a></li>
+</ul></div>
 

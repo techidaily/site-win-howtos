@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Solving 'Invalid Directory Name' Issues Efficiently
-date: 2024-12-06T16:07:24.527Z
-updated: 2024-12-13T21:44:28.410Z
+date: 2024-12-21T22:10:17.164Z
+updated: 2024-12-22T18:30:06.348Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Table of contents
 
 * [Fix 1 – Is it a driver issue?](#h-fix-1-is-it-a-driver-issue)  
@@ -36,19 +40,11 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 * [Fix 4 – Reset TCP/IP Configuration](#h-fix-4-reset-tcp-ip-configuration)
 * [Fix 5 – Disable IPv6 on your active connection](#h-fix-5-disable-ipv6-on-your-active-connection)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1 – Is it a driver issue?
 
  The network adapter driver, which works as an interpreter between your network adapter and your PC, is essential to the proper functioning of the network adapter. Depending on different situations, you may encounter the **Unable to Contact DHCP Server** error when your network driver is outdated or new and problematic (hence requiring a rollback). There are ways you can do it manually, but if you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
 
  Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Update your network driver
 
@@ -61,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
 ![update network driver with driver easy](https://images.drivereasy.com/wp-content/uploads/2021/03/de-update-network-driver.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Run the**ipconfig /renew** in CMD again to see if the error message is resolved.
@@ -86,19 +78,15 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/backup.png)
 5. In the Tools pane, click**Driver** **Restore** \>**Browse…** , then choose the backup file you’re going to restore from, then click **Open** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/12.png)
 6. Select the driver you’re going to restore, then click **Continue** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Wait until the restore is successful, and click**OK** .
 8. Run the**ipconfig /renew** in CMD again to see if the error message is resolved. If yes, then congrats – you’ve fixed the error. If the issue persists, please move on to**Fix 2** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2 – Restart your DHCP client service
 
@@ -111,12 +99,16 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 3. If **Service status:** is set to **Running** , click the **Stop** button. If it shows **Stopped** , leave it as it is.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Set the **Startup type** menu to **Automatic** .
 5. Click the **Start** button.
 6. Click **Apply > OK**  to save changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3 – Register your DNS
 
@@ -145,6 +137,10 @@ Here’s how:
 3. Restart computer.
 4. Run the**ipconfig /renew** command and see if the Unable to contact your dhcp server error is solved. If it’s still no joy, please continue with**Fix 5** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5 –**Disable IPv6 on your active connection**
 
  The error also occurs if IPv6 is enabled for the internet connection you’re using and you don’t have a local gateway to connect. To rule out this as a possible cause, you should disable IPv6 on your active connection and see if it works.
@@ -155,11 +151,15 @@ Here’s how:
 3. Under the **Networking** tab, uncheck the box next to **Internet Protocol version 6 (IPv6)** , then click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/sharing12.jpg)
 4. Restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Check to see if the error message still occurs when you perform rge ipconfig command.
 
@@ -182,19 +182,18 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-advanced-strategies-for-rl-capture-success/"><u>[Updated] Advanced Strategies for RL Capture Success</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-samsung-galaxy-a23-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Samsung Galaxy A23 5G Phone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversion-libre-de-gif-a-mp4-en-direct-convertisseur-video-vecteur/"><u>Conversion Libre De GIF À MP4 en Direct - Convertisseur Vidéo Vecteur</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/explore-with-clarity-five-minecraft-zooming-hacks/"><u>Explore with Clarity Five Minecraft Zooming Hacks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-error-87-in-loadlibrary-functions-overcoming-parameter-is-incorrect-issues/"><u>Fixing Error 87 in LoadLibrary Functions – Overcoming 'Parameter Is Incorrect' Issues</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-sharing-your-playstation-5-gaming-sessions-seamlessly/"><u>Guide: Sharing Your PlayStation 5 Gaming Sessions Seamlessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-11-system-lag-and-hanging-problems/"><u>How to Fix Windows 11 System Lag and Hanging Problems?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-g2-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo G2 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unlocking-the-power-of-pages-top-10-social-media-optimization-tactics/"><u>In 2024, Unlocking the Power of Pages Top 10 Social Media Optimization Tactics</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-the-powerful-and-portable-new-ipad-mini-5-from-apple/"><u>In-Depth Look at the Powerful and Portable New iPad Mini 5 From Apple</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-when-file-explorer-wont-respond-in-windows-11/"><u>Mastering the Fix: When File Explorer Won't Respond in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-unspecified-error-0x80004005-on-your-device-effortlessly/"><u>Resolving the Unspecified Error (0X80004005) on Your Device Effortlessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-brightness-issues-on-windows-10/"><u>Troubleshooting Guide: Fixing Brightness Issues on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wmi-host-fixes-boosting-pc-speed-in-windows-11/"><u>WMI Host Fixes: Boosting PC Speed in Windows 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-chuckle-and-sob-with-these-top-10-instagram-meme-collectives/"><u>[New] Chuckle & Sob with These Top 10 Instagram Meme Collectives</u></a></li>
+<li><a href="https://fox-that.techidaily.com/depth-effect-not-working-in-ios-16-lock-screen-try-these-7-fixes/"><u>Depth Effect Not Working in iOS 16 Lock Screen? Try These 7 Fixes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-oneplus-nord-ce-3-lite-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone OnePlus Nord CE 3 Lite 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro with a Mask On</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-for-beginner-3d-lut-masters/"><u>In 2024, Step-by-Step for Beginner 3D LUT Masters</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-meizu-21-pro-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Meizu 21 Pro Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/repair-guide-for-aoc-screen-malfunction-compatibility-with-windows-11-devices/"><u>Repair Guide for AOC Screen Malfunction Compatibility with Windows 11 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-solving-the-issue-when-microsoft-store-doesnt-launch/"><u>Resolved: Solving the Issue When Microsoft Store Doesn't Launch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-challenge-of-elevated-gpu-use-by-dwm-essential-fixes-for-windows-1011/"><u>Solving the Challenge of Elevated GPU Use by DWM - Essential Fixes for Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-definitive-solution-to-fix-a-missing-cursor-in-windows-11-operating-system/"><u>The Definitive Solution to Fix a Missing Cursor in Windows 11 Operating System</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/tp67-thermometer-by-thermopro-a-budget-friendly-choice-with-durability-concerns/"><u>TP67 Thermometer by ThermoPro - A Budget-Friendly Choice with Durability Concerns</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-repair-an-unresponsive-external-mouse-on-windowsmac/"><u>Troubleshoot and Repair an Unresponsive External Mouse on Windows/Mac</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/wevideo-the-fast-and-easy-way-to-create-online-videos-for-2024/"><u>WeVideo The Fast and Easy Way to Create Online Videos for 2024</u></a></li>
 </ul></div>
 

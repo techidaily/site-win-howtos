@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Fix Lenovo Mouse Pad Issues on Windows 10, 8 & 7"
-date: 2024-09-11T15:19:04.808Z
-updated: 2024-09-12T15:19:04.808Z
+date: 2024-12-15T21:56:41.295Z
+updated: 2024-12-22T21:03:08.018Z
 tags:
   - win11
   - win10
@@ -20,10 +20,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
  Surprisingly, this is quite a common problem. But although it’s quite frustrating, it’s usually not that hard to fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 fixes for C**omputer Won’t Shut Down**
@@ -36,10 +33,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
@@ -65,10 +59,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
@@ -83,28 +74,8 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -116,25 +87,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -144,10 +106,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
@@ -159,6 +118,11 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -180,5 +144,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-building-inspiring-lifestyle-content-for-viewers/"><u>[Updated] 2024 Approved Building Inspiring Lifestyle Content for Viewers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-boost-camera-output-retain-excellent-clarity/"><u>[Updated] In 2024, Boost Camera Output, Retain Excellent Clarity</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-top-15-royalty-free-music-hideouts-for-video-artists/"><u>2024 Approved Top 15 Royalty-Free Music Hideouts for Video Artists</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-do-a-clean-install-of-windows-11-quickly-and-easily/"><u>How to Do a Clean Install of Windows 11, Quickly and Easily!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/ion-air-pro-3-review-unleashing-videography-potential/"><u>ION Air Pro 3 Review Unleashing Videography Potential</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-fn-key-malfunction-on-your-dell-pc-a-comprehensive-guide/"><u>Resolving the Fn-Key Malfunction on Your Dell PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-print-screen-malfunction-on-windows-1110-platforms/"><u>Solutions for 'Print Screen' Malfunction on Windows 11/10 Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-why-your-windows-10-laptop-wont-charge-while-connected/"><u>Troubleshooting Guide: Why Your Windows 10 Laptop Won't Charge While Connected</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unlocking-enigmas-ranked-puzzle-experiences-explored/"><u>Unlocking Enigmas Ranked Puzzle Experiences Explored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-wont-my-spacebar-work-in-windows-10-find-out-how-to-resolve-it-today/"><u>Why Won't My Spacebar Work in Windows 10? Find Out How to Resolve It Today!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/be-earnings-exploration-breakdown-of-adsense-payouts-per-kv-watcher/"><u>Youtube Earnings Exploration Breakdown of AdSense Payouts Per KV Watcher</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ethical Living and Community
-date: 2024-12-12T18:30:13.667Z
-updated: 2024-12-13T20:44:00.645Z
+date: 2024-12-19T21:55:17.310Z
+updated: 2024-12-22T18:00:08.296Z
 tags:
   - win11
   - win10
@@ -55,16 +55,16 @@ the picture was taken by: Article\_86
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run a virus scan
 
  Do a clean virus scan is important after you met the scam. In case your computer gets infected by it, it’s no harm to do so. You can use the antivirus software on your computer or run Windows Defender. Just make sure the software has updated to the latest version.  
  If you would like to try another antivirus software, here we recommend[CCleaner](https://tools.techidaily.com/drivereasy/download/) . It’s a powerful but easy to use software that protects your computer from viruses and criminal ads. CCleaner can easily remove temporary files, program caches, cookies, logs, etc.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall suspicious add-ons
 
@@ -78,12 +78,16 @@ the picture was taken by: Article\_86
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Relaunch Chrome to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Clear Google Chrome cache
 
@@ -95,20 +99,24 @@ the picture was taken by: Article\_86
 3. In the open window, click **Clear browsing data** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 5: Reset Google Chrome to default settings
 
@@ -126,15 +134,7 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## TIPS: Avoid Google Chrome Critical Error
 
@@ -171,14 +171,17 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/maximizing-your-video-quality-with-hevc-format-on-youtube-uploads/"><u>: Maximizing Your Video Quality with HEVC Format on YouTube Uploads</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-enthralling-readers-with-these-stellar-5-book-promo-videos-for-2024/"><u>[New] Enthralling Readers with These Stellar 5 Book Promo Videos for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-real-world-applications-of-magix-video-pro-x/"><u>[Updated] 2024 Approved Real-World Applications of Magix Video Pro X</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-maximize-your-video-impact-with-free-vimeo-editing/"><u>[Updated] In 2024, Maximize Your Video Impact with FREE Vimeo Editing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723200653667-dell-laptop-keyboard-malfunction-heres-how-you-can-fix-it-quickly/"><u>Dell Laptop Keyboard Malfunction? Here's How You Can Fix It Quickly!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/seamless-video-playback-on-kodi-master-the-art-of-fixing-buffering-woes/"><u>Seamless Video Playback on Kodi - Master the Art of Fixing Buffering Woes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-non-functioning-integrated-webcams-in-windows/"><u>Ultimate Guide: Resolving Non-Functioning Integrated Webcams in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-guide-resolving-persistent-screen-freezes-on-your-pc/"><u>Ultimate Troubleshooting Guide: Resolving Persistent Screen Freezes on Your PC</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/uncharted-waters-of-assassins-creed-valhalla-a-detailed-review-of-the-epic-nordic-quest/"><u>Uncharted Waters of Assassin's Creed: Valhalla - A Detailed Review of the Epic Nordic Quest</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-fine-tuning-your-videos-for-viral-instagram-moments/"><u>[New] 2024 Approved Fine-Tuning Your Videos for Viral Instagram Moments</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-expanding-social-footprint-tying-igtv-and-facebook-together/"><u>[New] In 2024, Expanding Social Footprint Tying IGTV & Facebook Together</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-polishing-resilience-for-online-criticism/"><u>[Updated] In 2024, Polishing Resilience for Online Criticism</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-secrets-in-watching-the-instagram-story-narrative/"><u>2024 Approved Secrets in Watching The Instagram Story Narrative</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ace-your-installation-correcting-setup-hiccups-in-origin-games/"><u>Ace Your Installation: Correcting Setup Hiccups in Origin Games</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/boost-your-pcs-performance-effective-strategies-for-accelerating-your-computer/"><u>Boost Your PC's Performance: Effective Strategies for Accelerating Your Computer</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-ensuring-continuous-functionality-for-windows-updates/"><u>Resolved! Ensuring Continuous Functionality for Windows Updates</u></a></li>
+<li><a href="https://article-tips.techidaily.com/step-by-step-guide-to-iphones-dynamic-images/"><u>Step-by-Step Guide to iPhone's Dynamic Images</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-overwatch-voice-chatting-fast-and-effective-solutions/"><u>Troubleshoot Overwatch Voice Chatting: Fast & Effective Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208077072-ultimate-strategy-eradicate-your-livekernelevent-144-issues-today/"><u>Ultimate Strategy: Eradicate Your LiveKernelEvent 144 Issues Today!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/zooming-in-on-clarity-an-essential-guide-to-professional-quality-audio-recordings-for-2024/"><u>Zooming In On Clarity An Essential Guide to Professional-Quality Audio Recordings for 2024</u></a></li>
 </ul></div>
 

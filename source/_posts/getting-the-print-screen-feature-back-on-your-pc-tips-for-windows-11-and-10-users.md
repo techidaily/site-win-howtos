@@ -1,7 +1,7 @@
 ---
 title: Getting the Print Screen Feature Back on Your PC - Tips for Windows 11 & 10 Users
-date: 2024-09-11T15:19:50.751Z
-updated: 2024-09-12T15:19:50.751Z
+date: 2024-12-21T00:49:00.524Z
+updated: 2024-12-22T20:24:57.188Z
 tags:
   - win11
   - win10
@@ -16,13 +16,6 @@ thumbnail: https://thmb.techidaily.com/3ca289f4707af5e0ebcc0fe8b2f301906af8c014f
 ## Keyboard Troubleshooting Tips for Windows 10/11 - Get Your Typing Back On Track
 
  Did you find that some keys on your keyboard don’t work? Are you typing but the letters are not appearing on the screen? Well don’t worry, you’re not alone. This post could help you fix this vexing issue.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -66,6 +59,10 @@ If you’re a laptop user, you could follow these steps:
  Now check to see if this works for you.  
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check for hardware issues
 
  If a hard reset is not working for you, you need to identify whether it’s a hardware issue or a software issue. Follow the steps below:
@@ -77,10 +74,7 @@ If you’re a laptop user, you could follow these steps:
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
@@ -113,32 +107,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -152,26 +130,20 @@ OR
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tips: Keyboard maintenance
 
@@ -198,5 +170,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-dive-into-a-stream-of-9-full-length-festive-flicks-no-charge/"><u>[New] 2024 Approved Dive Into a Stream of 9 Full-Length Festive Flicks - No Charge!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-tales-for-twilight-film-analysis-for-2024/"><u>[New] Tales for Twilight Film Analysis for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unleash-creative-potential-for-video-editing-in-windows-photos/"><u>[Updated] Unleash Creative Potential for Video Editing in Windows Photos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tactics-for-effortless-collage-making/"><u>2024 Approved Expert Tactics for Effortless Collage Making</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-interactive-boundaries-the-vision-of-mixed-reality/"><u>2024 Approved Exploring Interactive Boundaries The Vision of Mixed Reality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/correcting-mistyped-words-strategies-to-improve-keyboard-precision/"><u>Correcting Mistyped Words: Strategies to Improve Keyboard Precision</u></a></li>
+<li><a href="https://solve-info.techidaily.com/enhanced-conversion-tracking-with-the-cookiebot-integration/"><u>Enhanced Conversion Tracking with the Cookiebot Integration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-overcoming-dragon-ball-fighterz-unable-to-initiate-network-errors/"><u>Expert Tips on Overcoming 'Dragon Ball FighterZ' Unable to Initiate Network Errors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-the-art-of-video-editing-with-top-10-fcp-tools-for-2024/"><u>Master the Art of Video Editing with Top 10 FCP Tools for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/ms-office-dateien-wiederfinden-effiziente-methoden-zur-rettung-von-dokumenten-unter-windows-1110/"><u>MS-Office Dateien Wiederfinden: Effiziente Methoden Zur Rettung Von Dokumenten Unter Windows 11/10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-mystery-behind-your-pcs-sudden-power-losses/"><u>Resolving the Mystery Behind Your PC's Sudden Power Losses</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-dimmed-led-backlights-in-corsair-keyboards-a-step-by-nstep-guide/"><u>Reviving Dimmed LED Backlights in Corsair Keyboards - A Step-by-nStep Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-when-the-computer-ignores-your-realtek-wifi-card/"><u>Solutions for When the Computer Ignores Your Realtek WiFi Card</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-file-retrieval-how-to-recover-missing-game-files-effectively-solved/"><u>Steam File Retrieval: How to Recover Missing Game Files Effectively - SOLVED</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-infinix-smart-8-hd-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Infinix Smart 8 HD? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-non-functioning-usb-ports-on-windows-10-and-11/"><u>Troubleshooting Steps for Non-Functioning USB Ports on Windows 10 and 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing Complete Latency on Your Windows 11 Keyboard: A Step-by-Step Guide"
-date: 2024-12-09T22:15:27.741Z
-updated: 2024-12-13T17:00:01.324Z
+date: 2024-12-19T00:40:46.058Z
+updated: 2024-12-22T22:56:18.279Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix Shift key not working?
@@ -66,12 +66,16 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
 
@@ -84,7 +88,7 @@ Follow these:
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
@@ -92,14 +96,10 @@ Follow these:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -142,20 +142,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/best-practices-solving-windows-11-bluetooth-connection-issues/"><u>Best Practices: Solving Windows 11 Bluetooth Connection Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bluetooth-connectivity-issues-restoring-functionality-of-your-windows-pcs-bluetooth-mouse/"><u>Bluetooth Connectivity Issues: Restoring Functionality of Your Windows PC's Bluetooth Mouse</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-the-blockade-clear-window-on-fixing-update-failure-0x80240034-in-windows-11/"><u>Bypassing the Blockade: Clear Window on Fixing Update Failure 0X80240034 in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-backlight-failure-heres-how-to-get-your-board-glowing-again/"><u>Corsair Keyboard Backlight Failure? Here’s How to Get Your Board Glowing Again!</u></a></li>
-<li><a href="https://fox-place.techidaily.com/datarecoverytime-how-quickly-can-you-back-up-your-files-in-windows-10/"><u>DataRecoveryTime - How Quickly Can You Back Up Your Files in Windows 10?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/friska-konvertering-av-avi-faglar-till-mov-quicktime-enkelt-och-kostnadsfritt-online-service/"><u>Friska Konvertering Av AVI-Fåglar Till MOV QuickTime - Enkelt Och Kostnadsfritt Online Service</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722977810105-get-the-newest-microsoft-sound-drivers-installed-on-windows-systems-now/"><u>Get the Newest Microsoft Sound Drivers Installed on Windows Systems Now</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/guide-complet-pour-migrer-des-dvd-vers-un-disque-de-stockage-en-nuage-nas-synology-et-qnap-pour-la-diffusion-en-continu/"><u>Guide Complet Pour Migrer Des DVD Vers Un Disque De Stockage en Nuage (NAS, Synology, Et QNAP) Pour La Diffusion en Continu</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-poco-f5-pro-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Poco F5 Pro 5G Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-save-big-on-filmora-4-legit-ways-to-get-discounted-rates/"><u>New Save Big on Filmora 4 Legit Ways to Get Discounted Rates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-store-cache-issues-a-comprehensive-fix-guide/"><u>Resolving Windows Store Cache Issues - A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-your-passion-for-learning-strategies-to-combat-school-apathy/"><u>Reviving Your Passion for Learning: Strategies to Combat School Apathy</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/troubleshooting-guide-successfully-updating-and-installing-windows-11-via-usb-drives/"><u>Troubleshooting Guide: Successfully Updating & Installing Windows 11 via USB Drives</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-made-simple-recognizing-your-ignored-usb-stick/"><u>Troubleshooting Made Simple: Recognizing Your Ignored USB Stick</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-elevate-your-soundtracks-expert-edits-using-sony-vegas-pro-software-for-2024/"><u>Updated Elevate Your Soundtracks Expert Edits Using Sony Vegas Pro Software for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-high-speed-recording-tool-with-guided-soundtracks/"><u>[New] 2024 Approved High-Speed Recording Tool with Guided Soundtracks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-velocity-in-virtue-share-your-youtube-lists-fast/"><u>[Updated] 2024 Approved Velocity in Virtue Share Your YouTube Lists Fast</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-decoding-the-functions-of-a-virtual-reality-helmet/"><u>[Updated] Decoding The Functions Of A Virtual Reality Helmet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5asa5qey44gq5yuv55s744kz44os44kv44k344on44oz44gr5yq55p6c55qe44gr44kv44oq44od44ox44ks6ywn572u44gz44kl5oqa6kgt/"><u>多様な動画コレクションに効果的にクリップを配置する技術</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-vcruntime140dll-error-and-launch-your-windows-11-apps-without-issues-solutions-inside/"><u>Fix VCRUNTIME140.dll Error & Launch Your Windows 11 Apps Without Issues – Solutions Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-address-and-repair-issues-with-an-inactive-lenovo-keyboard/"><u>How to Address and Repair Issues with an Inactive Lenovo Keyboard</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>How to identify some outdated drivers with Windows Device Manager on Windows 7</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oneplus-11r-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus 11R Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-iphones-best-5-podcasting-apps/"><u>In 2024, The Ultimate Guide to iPhone's Best 5 Podcasting Apps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/itop-screen-recorder-review-should-you-install-it/"><u>ITop Screen Recorder Review Should You Install It?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-input-delay-no-more-a-guide-to-tackle-window-11-typing-lags/"><u>Keyboard Input Delay No More – A Guide to Tackle Window 11 Typing Lags</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-missing-bluetooth-in-windows-10-systems/"><u>Quick Fixes for Missing Bluetooth in Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-troubleshooting-minecrafts-opengl-issues/"><u>Step-by-Step Guide: Troubleshooting Minecraft's OpenGL Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-dns-server-issues-discover-4-simple-fixes/"><u>Troubleshooting DNS Server Issues: Discover 4 Simple Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-restore-your-windows-11-start-menu/"><u>Troubleshooting Tips: Restore Your Windows 11 Start Menu</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-correcting-printer-error-code-30-for-seamless-printing-experience/"><u>Understanding and Correcting Printer Error Code -30 for Seamless Printing Experience</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/unleash-the-fun-of-jumping-into-tiktok-lives-for-2024/"><u>Unleash the Fun of Jumping Into TikTok Lives for 2024</u></a></li>
 </ul></div>
 

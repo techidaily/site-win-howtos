@@ -1,7 +1,7 @@
 ---
 title: "Resetting 101: Expert Tips for Restoring Functionality to Your Unresponsive Keyboard"
-date: 2024-12-08T20:40:21.749Z
-updated: 2024-12-13T18:51:25.747Z
+date: 2024-12-16T22:09:03.903Z
+updated: 2024-12-22T17:54:12.788Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/6e34d9fb9219c1b14b356c1db6a9498a7ed2cc88e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -51,10 +47,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
@@ -75,19 +67,23 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -122,13 +118,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -138,17 +134,21 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,18 +184,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-top-screen-capture-tools-explored-apowersoft-and-others-compared-for-2024/"><u>[Updated] Top Screen Capture Tools Explored - Apowersoft and Others Compared for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-best-practices-in-finding-quality-photo-and-video-banners/"><u>2024 Approved Best Practices in Finding Quality Photo & Video Banners</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-inoperative-spacebar-key-issues-on-windows-10-devices/"><u>Diagnosing and Repairing Inoperative Spacebar Key Issues on Windows 10 Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-fixes-for-a-broken-windows-key-on-your-windows-11-system/"><u>Essential Fixes for a Broken Windows Key on Your Windows 11 System</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-the-art-of-choosing-winning-video-thumbnails/"><u>In 2024, Mastering the Art of Choosing Winning Video Thumbnails</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-samsung-galaxy-s23-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Samsung Galaxy S23</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/logiciel-officiel-de-winxdvd-solutions-de-conversion-video-transfert-iphonesipods-et-extraction-des-supports-dvd/"><u>Logiciel Officiel De WinXDVD - Solutions De Conversion Vidéo, Transfert iPhones/iPods, Et Extraction Des Supports DVD</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/masters-crafting-unparalleled-vr-adventures-for-2024/"><u>Masters Crafting Unparalleled VR Adventures for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/oppo-a56s-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A56s 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restore-camera-functionality-on-your-hp-laptop-expert-advice-for-windows-11-users/"><u>Restore Camera Functionality on Your HP Laptop: Expert Advice for Windows 11 Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722895853627-supercharge-your-computer-in-minutes-with-these-ps-here-are-five-new-seo-titles-that-convey-similar-meanings-to-the-7-best-ways-to-speed-up-your-computer/"><u>Supercharge Your Computer in Minutes with These Ps, Here Are Five New SEO Titles that Convey Similar Meanings to The 7 Best Ways to Speed Up Your Computer:</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-overcome-windows-11-initialization-stalling-issues/"><u>Troubleshooting Guide: How to Overcome Windows 11 Initialization Stalling Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-d3derrnotavailable-error-expert-tips-and-solutions/"><u>Troubleshooting the D3DERR_NOTAVAILABLE Error: Expert Tips & Solutions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-shadowy-snapshots-skills-for-stunning-night-images-for-2024/"><u>[New] Shadowy Snapshots Skills for Stunning Night Images for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mov-in-the-cloud-top-six-techniques-for-windows-11-users/"><u>2024 Approved .MOV in the Cloud - Top Six Techniques for Windows 11 Users</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-maximizing-impact-with-tiktok-video-uploads-from-pcmac/"><u>2024 Approved Maximizing Impact with TikTok Video Uploads From PC/Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-mending-broken-operating-system-files-in-windows-10-and-11/"><u>Diagnosing and Mending Broken Operating System Files in Windows 10 & 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-lava-blaze-curve-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Lava Blaze Curve 5G FRP</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-crafting-excellence-essential-tips-for-ginger-island-life/"><u>In 2024, Crafting Excellence Essential Tips for Ginger Island Life</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-reno-8t-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 8T 5G Phone without PIN</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-cannot-start-hardware-device-error-due-to-damaged-registry-configuration-code-19/"><u>Resolving 'Windows 11 Cannot Start Hardware Device' Error Due to Damaged Registry Configuration - Code 19</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-sound-problems-in-resident-evil-village/"><u>Resolving Sound Problems in Resident Evil Village</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-microsoft-wireless-adapter-connectivity-error-in-windows-10-environments/"><u>Step-by-Step Solutions for Microsoft Wireless Adapter Connectivity Error in Windows 10 Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-svchostexes-heavy-load-on-windows-11-solution/"><u>Winning the Battle Against Svchost.exe's Heavy Load on Windows 11 [Solution]</u></a></li>
 </ul></div>
 

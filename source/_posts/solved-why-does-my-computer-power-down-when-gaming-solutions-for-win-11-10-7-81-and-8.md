@@ -1,7 +1,7 @@
 ---
 title: Solved! Why Does My Computer Power Down When Gaming? - Solutions for Win 11, 10, 7, 8.1 & 8
-date: 2024-09-11T15:20:37.480Z
-updated: 2024-09-12T15:20:37.480Z
+date: 2024-12-20T20:58:08.252Z
+updated: 2024-12-22T22:34:44.208Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/e189e2b79ab7938cf17b29478f70443bb039bf95e
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Update your device drivers
 
 If you got the mic-not-working issue after having Windows Updates, it’s possible that the drivers (especially the sound card driver) you’re using currently are out-dated, missing, or incompatible with your system. In case you’re not sure whether all the drivers are working fine, you should check.
@@ -51,9 +55,17 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** If you have any problems using**Driver Easy Pro** to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Set microphone as default device
 
@@ -61,32 +73,11 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
  1) Click the speaker icon ![](https://images.drivereasy.com/wp-content/uploads/2016/01/2020-05-18_15-02-50.jpg) in the notification area of your taskbar. Then click **Open Volume mixer** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Select**System Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Go to the **Recording** tab, right-click an empty area inside the devices’ display list, and then tick **Show Disabled Devices** to ensure that your mic device shows up.
 
@@ -99,10 +90,7 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-115.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also right-click the mic item and check if it is disabled. If it is, select **Enable** to get your mic working.
@@ -111,6 +99,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) On the **Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-116.png)
@@ -118,13 +110,6 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
  7) Click**OK** to save all the changes you’ve made.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-117.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Check to see if your mic is working fine. If it isn’t, please move on to the next fix, below.
 
@@ -138,49 +123,29 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/2019-06-17_14-24-52.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the pop-up window, double-click the**Audio inputs and outputs** entry and find your mic device in the drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click your mic and select**Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now check to see your mic is back on track.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Modify privacy settings
 
@@ -199,13 +164,6 @@ Now check to see your mic is back on track.
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this fix doesn’t work, please proceed to the next one.
 
@@ -228,5 +186,23 @@ If this fix doesn’t work, please proceed to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-dual-method-strategies-boosting-tiktok-visibility-for-2024/"><u>[New] Dual-Method Strategies Boosting TikTok Visibility for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/use-melodies-into-your-youtube-digital-realm-for-2024/"><u>[New] Fuse Melodies Into Your Youtube Digital Realm for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ecrets-to-successful-youtube-filmmaking-with-pc-editing-software/"><u>[New] Secrets to Successful YouTube Filmmaking with PC Editing Software</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-making-every-minute-count-youtube-length-reduction-techniques-for-2024/"><u>[Updated] Making Every Minute Count YouTube Length Reduction Techniques for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-time-lapse-wizardry-harnessing-gopros-potential/"><u>2024 Approved Time-Lapse Wizardry Harnessing GoPro's Potential</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/beliebteste-kostenlose-videobearbeitungssoftware-fur-windows-und-mac-os-x-entferne-unerwunschte-teile-ihrer-videos-einfach/"><u>Beliebteste Kostenlose Videobearbeitungssoftware Für Windows Und Mac OS X - Entferne Unerwünschte Teile Ihrer Videos Einfach!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/computer-boot-error-heres-how-to-fix-your-machine-when-it-wont-turn-on/"><u>Computer Boot Error? Here's How to Fix Your Machine When It Won't Turn On</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/handling-live-stream-halt-a-guide-for-fb-users/"><u>Handling Live Stream Halt A Guide for FB Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/humor-in-pixels-kapwings-meme-crafting-app/"><u>Humor in Pixels Kapwing’s Meme Crafting App</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202694347-kodi-buffering-solved-ensuring-continuous-and-stable-streams-every-time/"><u>Kodi Buffering Solved: Ensuring Continuous and Stable Streams Every Time</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-waiting-just-gameplay-in-fortnite/"><u>No More Waiting, Just Gameplay in Fortnite</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/praise-in-pixels-the-new-marketing-trend-for-2024/"><u>Praise in Pixels The New Marketing Trend for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-for-dell-notebook-black-display-error-a-comprehveiw-guide/"><u>Quick Fix for Dell Notebook Black Display Error - A Comprehveiw [Guide]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211652366-quick-fixes-for-unresponsive-hp-laptop-keyboards-learn-how/"><u>Quick Fixes for Unresponsive HP Laptop Keyboards – Learn How</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-windows-11s-malfunctioning-start-screen-interface/"><u>Step-by-Step Fix for Windows 11'S Malfunctioning Start Screen Interface</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-complete-standstill-in-windows-10-at-boot-time-a-guide-to-quick-fixes/"><u>Troubleshooting Complete Standstill in Windows 10 at Boot Time: A Guide to Quick Fixes</u></a></li>
+</ul></div>
 

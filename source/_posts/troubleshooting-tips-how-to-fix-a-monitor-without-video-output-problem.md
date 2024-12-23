@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: How to Fix a Monitor Without Video Output Problem"
-date: 2024-09-11T15:24:40.744Z
-updated: 2024-09-12T15:24:40.744Z
+date: 2024-12-20T16:41:15.009Z
+updated: 2024-12-22T19:27:52.270Z
 tags:
   - win11
   - win10
@@ -17,19 +17,6 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
 
  It can be very frustrating if you**can’t print your PDF files** on Adobe. No error messages; each time you click Print on Adobe, it just doesn’t print at all. Don’t worry. This guide is going to help you solve this problem step by step. Read on to find out how.
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Before we go…
 
  The problems of your printer, your PDF files, and your Adobe software all can cause you can’t print a PDF file. First things first, **figure out if the problem is due to your printer, your PDF file, or your Adobe software** .
@@ -37,10 +24,19 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
 1. Try to print this post you’re viewing.  If you’re viewing this article on a browser like Chrome, and Microsoft Edge, click the three dots icon, then select**Print** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03dbb9284b.png)  
    1. If you**can’t**  print this page either, there are some issues with your printer, follow to **[troubleshoot problems of your printer](#printer)** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    2. If you**can** print this page, go on to check:
 2. Open your PDF file in your browser, then print it in the browser.  
    1. If you**can’t** print your PDF file in your browser either, probably your PDF files are corrupted, follow to**[repair or recreate your PDF file](#PDF)** .  
    2. If you **can**  print your PDF file in your browser, you need to [**troubleshoot problems with your Acrobat Reader** .](#reader)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -61,24 +57,19 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
 2. Type**control** and click**OK** .”  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0354b845be.png)
 3. Click**Devices and Printers** in**Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0355fe9f37.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Make sure there is a green ✔ mark with your printer, which means it’s set to default.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0361852b11.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If it’s not set to default, right-click on your printer and click**Set as default printer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0363012f57.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 2\. Make sure your printer driver is up-to-date
 
@@ -97,6 +88,11 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
 2. Click **Scan Now** . It will quickly detect all driver’s problems with your computer. Your printer driver is no exception.  
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update**  next to your flagged printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/printer-driver-9015.png)
 4. Restart your computer and try to print your PDF file in Adobe to see if successful.
 
@@ -104,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Repair or recreate your PDF file
 
@@ -123,19 +112,6 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03f2e27b7d.png)
 3. Click**Advanced** , then tick on **Print As Image** .  Go on to click**OK** \>**Print** to see if your PDF file can be printed.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f046ecc9c75.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 2\. Recreate a new PDF file
 
 1. Choose a way to recreate a new PDF file:  
@@ -146,27 +122,7 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03fccde7ab.png)
 2. Double-click the new PDF file on your hard drive and then try to print it to see if successful.
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Scan your computer to detect issues
 
@@ -194,10 +150,7 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Option 2 – Manually
@@ -256,13 +209,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  Restart your PC after repairing the corrupt files and test your printer.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Troubleshoot problems with your Acrobat Reader
 
  If something corrupt happens to your Acrobat Reader or if the software is of an old version, you can’t use it to print your PDF file, either. Troubleshoot the problem with your Acrobat Reader:
@@ -271,20 +217,12 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 2. Open your PDF file in Acrobat Reader and try to print it to see if successful. If a simple restart cannot solve your problem, reinstall your Acrobat Reader with the latest version with the following steps.
 3. Type features in the search box from Start. Then click Apps & features.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03ff1ce57c.png)
 4. Find your Acrobat Reader, then Uninstall.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f040401a2b4.jpg)
-5. Go to the official Adobe website, download, and the latest version of Acrobat Reader on your computer.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Go to the official Adobe website, download, and the latest version of Acrobat Reader on your computer.
 
 6. Open your PDF file using the new Acrobat Reader. Then try to print it to see if successful.
 
@@ -307,5 +245,20 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-10-best-instagram-tools-to-manage-post-and-increase-followers/"><u>[New] 2024 Approved 10 Best Instagram Tools to Manage Post and Increase Followers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-premiere-pros-full-scene-showcase-guide/"><u>[New] In 2024, Premiere Pro's Full Scene Showcase Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-analysis-of-yuneecs-typhoon-h-drone-technology/"><u>[Updated] In-Depth Analysis of Yuneec's Typhoon H Drone Technology</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-maximizing-video-quality-in-zoom-conferences-on-win11/"><u>2024 Approved Maximizing Video Quality in Zoom Conferences on Win11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/big-sur-tech-requirements-a-quick-reference-guide/"><u>Big Sur Tech Requirements A Quick Reference Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-repair-instructions-the-stop-working-issue-with-32-bit-print-management-hosts-resolved/"><u>Comprehensive Repair Instructions: The Stop Working Issue with 32-Bit Print Management Hosts Resolved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-diagnosing-and-repairing-windows-driver-power-failures/"><u>Comprehensive Tutorial: Diagnosing and Repairing Windows Driver Power Failures</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/explore-over-144-advanced-creative-tim-template-packs-unleash-your-design-potential/"><u>Explore Over 144 Advanced Creative Tim Template Packs – Unleash Your Design Potential!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/geforce-experience-wont-open-comprehensive-solutions-and-fixes/"><u>GeForce Experience Won't Open - Comprehensive Solutions and Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-lenovos-malfunctioning-special-function-keys-a-step-by-step-guide/"><u>How to Repair Lenovo's Malfunctioning Special Function Keys: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximize-comfort-and-minimize-fatigue-with-the-ergodriven-topo-the-ideal-standing-desk-mat-reviewed/"><u>Maximize Comfort and Minimize Fatigue with the Ergodriven Topo - The Ideal Standing Desk Mat Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolution-steps-enable-detection-of-unrecognized-wd-my-passport-ultra-external-hard-drive/"><u>Resolution Steps: Enable Detection of Unrecognized 'WD My Passport Ultra' External Hard Drive</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unraveling-the-magic-of-mixed-reality-for-2024/"><u>Unraveling the Magic of Mixed Reality for 2024</u></a></li>
+</ul></div>
 

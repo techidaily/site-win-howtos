@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Upgrade Fails with Error 0Xc1900208? Here's How to Fix It!
-date: 2024-09-11T15:21:04.020Z
-updated: 2024-09-12T15:21:04.020Z
+date: 2024-12-20T00:48:13.703Z
+updated: 2024-12-22T21:14:45.813Z
 tags:
   - win11
   - win10
@@ -17,31 +17,11 @@ thumbnail: https://thmb.techidaily.com/919428e7eabfca4b711aa4a4cd51f4e93cb7908e2
 
  While booting your PC, Windows gives you a BSOD with the**error code** **0xc0000098** . It can be rather frustrating not being able to use your device. You just get stuck at the blue/black screen. But don’t panic. This is a most common Windows error and it’s never hard to fix it at all…
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## About the error 0xc0000098
 
 > _During the start-up process, the**Boot Configuration Data** (BCD) is very essential to provide required information to load the operating system. If the Boot Configuration Data is missing or corrupted, Windows won’t be able to load operating system and gives you the error**0xc0000098** ._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/0xc0000098-windows-7.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  _Error Code**0xc0000098**_  o_n Windows 7, Vista_
 
@@ -50,10 +30,7 @@ thumbnail: https://thmb.techidaily.com/919428e7eabfca4b711aa4a4cd51f4e93cb7908e2
  _Error Code**0xc0000098**_  o_n Windows 10, 8, 8.1_
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -66,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/919428e7eabfca4b711aa4a4cd51f4e93cb7908e2
 4. **[Run System File Checker](#f4)**
 5. **[Use a Windows Reimage Tool](#fix-reimage)**
 6. **[Perform a clean install of Windows](#f5)**
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Rebuild BCD manually
 
@@ -113,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/919428e7eabfca4b711aa4a4cd51f4e93cb7908e2
 **Note:** The key to access BIOS can vary from**Esc** ,**Delete** to**F2** ,**F8** ,**F12** , depending on your manufacturer and computer model.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/keyboard-bios-keys.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Once in BIOS, go to the**Boot** sector and set**Removable Devices** or**CD-Rom Drive** as the first boot device.
 
  4) Save the changes and exit.
@@ -145,13 +119,6 @@ bootrec /rebuildbcd
 
  The 0xc0000098 error should now be fixed as your PC begins to load. If not, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Startup Repair
 
  Startup Repair is a built-in tool to diagnose and repair some common problems on Windows. You may need to run Startup Repair (even 2 or 3 times).
@@ -162,15 +129,16 @@ bootrec /rebuildbcd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Startup Repair will begin scanning your installation for known issues and will attempt a repair if it finds any.
 
  4) If it fails, you can run Startup Repair again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: CHKDSK
@@ -192,16 +160,7 @@ chkdsk C: /f /r /x
 4) Close Command Prompt and restart your device to check if the Windows system can load up again.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: System File Checker
@@ -216,13 +175,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 2) Wait for the scan to finish.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Use a Windows Fortect Tool
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  Windows repair works by replacing system files automatically. It’s like a clean Windows reinstallation in one hour, without losing any programs, settings, or user data. It can fix the 0xc0000098 error code without a computer restart.
@@ -233,18 +185,19 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Start Repair** to restore any corrupted files. You will need to purchase a license key to do so and don’t have pressure on it, for it has a 60-day money-back guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
- 4) Enter your license key and the restoration will begin automatically. Reimage handles all.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 4) Enter your license key and the restoration will begin automatically. Reimage handles all.
 
 ### Fix 6: Perform a clean install of Windows
 
@@ -273,13 +226,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 ##### 1\. Check for updates
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Windows-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Type**Check for updates** in the Search box and press**Enter** .
 
@@ -335,5 +281,23 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-pubg-tones-in-minutes/"><u>[New] Mastering PUBG Tones in Minutes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-ultimate-quadcopter-propeller-pick-achieve-optimal-efficiency/"><u>[Updated] In 2024, Ultimate Quadcopter Propeller Pick Achieve Optimal Efficiency</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-science-of-visual-appeal-crafting-stunning-youtube-shorts-templates-for-2024/"><u>[Updated] The Science of Visual Appeal Crafting Stunning YouTube Shorts Templates for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-conflict-conqueror-error-45/"><u>Device Conflict Conqueror: Error 45</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-connection-problems-a-comprehensive-approach-to-repairing-non-working-usb-mouse-and-keyboard-on-pcs-running-windows-7/"><u>Diagnosing Connection Problems: A Comprehensive Approach to Repairing Non-Working USB Mouse & Keyboard on PCs Running Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-when-your-windows-10-system-freezes/"><u>Effective Solutions When Your Windows 10 System Freezes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-desktop-not-available-error-in-systemprofile-a-comprehensive-guide/"><u>Fixing the 'Desktop Not Available' Error in SystemProfile: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-insufficient-space-warnings-in-command-line-operations/"><u>How to Overcome Insufficient Space Warnings in Command Line Operations</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sony-xperia-5-v-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Sony Xperia 5 V Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-conquer-your-audience-the-top-5-youtube-strategies-for-brands/"><u>In 2024, Conquer Your Audience The #Top 5 YouTube Strategies for Brands</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-challenges-how-teredo-failed-to-meet-requirements/"><u>Overcoming Challenges: How Teredo Failed to Meet Requirements</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-nightmare-tackling-the-deadly-black-screen-problem/"><u>Overcoming iPhone Nightmare: Tackling the Deadly Black Screen Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-scrolling-challenges-on-your-laptops-touchpad-windows-10-solutions/"><u>Overcoming Scrolling Challenges on Your Laptop's Touchpad (Windows 10 Solutions)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-login-issues-restoring-keyboard-functionality-pre-login/"><u>Resolving Login Issues: Restoring Keyboard Functionality Pre-Login</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-high-performance-gamers-invest-in-mechanical-inputs/"><u>Should High-Performance Gamers Invest in Mechanical Inputs?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-review-of-samsungs-qn55q60rafxza-delving-into-its-outstanding-4k-and-hdr10plus-performance/"><u>Top Review of Samsung's QN55Q60RAFXZA - Delving Into Its Outstanding 4K and HDR10+ Performance</u></a></li>
+</ul></div>
 

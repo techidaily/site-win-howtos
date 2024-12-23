@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Repair 'Internet Explorer Has Stopped Working'
-date: 2024-12-08T17:05:50.811Z
-updated: 2024-12-13T19:12:44.816Z
+date: 2024-12-17T20:13:44.114Z
+updated: 2024-12-22T16:47:29.932Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
@@ -57,6 +57,10 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -71,19 +75,23 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -109,10 +117,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -122,13 +126,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -137,10 +141,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -184,24 +184,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-perfect-panning-leading-stabilizers-unveiled/"><u>[New] Perfect Panning Leading Stabilizers Unveiled</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/2022s-guide-to-seamless-gaming-eliminating-fallout-4-latency-for-a-smoother-play/"><u>2022'S Guide to Seamless Gaming: Eliminating Fallout 4 Latency for a Smoother Play</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-maximize-your-iphone-xs-selfie-potential-top-free-apps/"><u>2024 Approved Maximize Your iPhone X's Selfie Potential - Top Free Apps</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/seagate-hdd5/"><u>自分手にドロンと絶対必要!Seagate HDDからデータ復活の5つの方法</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-motorola-moto-g73-5g-frp-bypass-by-drfone-android/"><u>About Motorola Moto G73 5G FRP Bypass</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/behind-the-scenes-youtube-live-thumbnail-secrets/"><u>Behind the Scenes YouTube Live Thumbnail Secrets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/copilot-unlocks-free-advanced-uses-for-gpt-4/"><u>Copilot Unlocks Free, Advanced Uses for GPT-4</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-missing-class-registration-issues-on-windows-10-solutions-for-a-smooth-experience/"><u>Fixing Missing Class Registration Issues on Windows 10 - Solutions for a Smooth Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-update-when-its-stuck-on-100-a-step-by-step-guide/"><u>How to Fix Windows Update When It's Stuck on 100% – A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-realme-12-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/livestream-elite-top-equipment-for-youtube-content-creators-for-2024/"><u>Livestream Elite Top Equipment For YouTube Content Creators for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/microsoft-compatibility-telemetry-addressing-the-issue-of-increased-disk-utilization-on-windows-10-systems/"><u>Microsoft Compatibility Telemetry: Addressing the Issue of Increased Disk Utilization on Windows 10 Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/potential-challenges-in-executing-this-ambitious-roadmap-and-their-solutions/"><u>Potential Challenges in Executing This Ambitious Roadmap and Their Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-sound-problems-when-your-pc-says-audio-not-connected/"><u>Step-by-Step Guide: Repairing Sound Problems When Your PC Says Audio Not Connected</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steps-to-correctly-resolve-service-started-failure-on-windows-login-screen/"><u>Steps to Correctly Resolve Service Started Failure on Windows Login Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixes-how-to-restore-functionality-to-your-non-responsive-number-keys/"><u>Troubleshooting Fixes: How to Restore Functionality to Your Non-Responsive Number Keys</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restoring-functionality-of-non-responsive-laptop-backlit-keyboards/"><u>Troubleshooting Guide: Restoring Functionality of Non-Responsive Laptop Backlit Keyboards</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-premier-8-voice-recognition-tools-windows-macos-and-cloud-solutions-roundup-for-2024/"><u>Updated Premier 8 Voice Recognition Tools Windows, macOS & Cloud Solutions Roundup for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-strategies-overcoming-the-not-loading-building-challenge-in-pubg/"><u>Winning Strategies: Overcoming the Not Loading Building Challenge in PUBG</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-stand-out-as-an-elite-gamer-on-youtube/"><u>[New] 2024 Approved Stand Out as an Elite Gamer on Youtube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-video-capture-bandicams-edge-over-camtasia/"><u>[New] Mastering Video Capture Bandicam’s Edge Over Camtasia</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/remium-10-volume-enhancers-windows-apple-android-for-2024/"><u>[New] Premium 10 Volume Enhancers Windows, Apple, Android for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-print-screen-not-working-in-windows-1110/"><u>[SOLVED] Print Screen Not Working in Windows 11/10</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-confirming-youtube-pro-rated-earnings-for-2024/"><u>[Updated] Confirming YouTube Pro-Rated Earnings for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-open-srt-soundtrack-on-windowsmacos-for-2024/"><u>[Updated] Open SRT Soundtrack on Windows/macOS for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/prehensive-look-at-youtubes-adsense-mechanisms-for-2024/"><u>A Comprehensive Look at YouTube's AdSense Mechanisms for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/common-wacom-device-malfunctions-and-how-to-resolve-them-quickly/"><u>Common Wacom Device Malfunctions and How to Resolve Them Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-spacebar-issue-solutions-for-unresponsive-keyboard-keys-in-windows-10/"><u>Fixing the Spacebar Issue: Solutions for Unresponsive Keyboard Keys in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-print-to-pdf-not-working-in-windows-1011-by-microsoft/"><u>How to Fix 'Print to PDF Not Working' In Windows 10/11 by Microsoft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-windows-10-not-booting-due-to-recent-updates/"><u>How to Overcome Windows 10 Not Booting Due to Recent Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-elevated-permission-error-in-windows-11-10-and-7/"><u>How to Resolve the 'Elevated Permission' Error in Windows 11, 10 and 7</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-poco-m6-pro-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Poco M6 Pro 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-honor-magic-6-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Honor Magic 6 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-engagement-game-changers-the-top-25-hashtags-you-need/"><u>Instagram Engagement Game-Changers The Top 25 Hashtags You Need</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/shadowy-sheen-visual-puzzle/"><u>Shadowy Sheen: Visual Puzzle</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-auto-boot-puzzle-for-windows-10-systems/"><u>Solving the Auto-Boot Puzzle for Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-solutions-overcome-the-windows-10-error-0x800f0922-during-updates/"><u>Top Solutions: Overcome the Windows 10 Error 0X800F0922 During Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-when-the-key-fails-to-respond/"><u>Troubleshooting Tips: When the '@' Key Fails to Respond</u></a></li>
 </ul></div>
 

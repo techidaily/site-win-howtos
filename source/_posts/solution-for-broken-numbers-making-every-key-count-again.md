@@ -1,7 +1,7 @@
 ---
 title: Solution for Broken Numbers - Making Every Key Count Again!
-date: 2024-09-11T15:24:31.240Z
-updated: 2024-09-12T15:24:31.240Z
+date: 2024-12-15T19:59:16.636Z
+updated: 2024-12-22T23:31:24.674Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/302790bfdd6c387be2ce7104b2f0ec7045e52a09e
 
  The above questions walked you through a few simple steps for troubleshooting. However, they may not have covered all possible aspects, so we strongly suggest you look into the user manual of the Huion pen (or tablet) for more essential details.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 fixes for the Huion pen not working issue
 
  Now let’s cut to the chase. Here you’ll have 5 fixes that have proved useful for the Huion pen not working issue. You don’t need to try them all; just work your way down the list until you find the one that works for you.
@@ -45,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/302790bfdd6c387be2ce7104b2f0ec7045e52a09e
 **[Fix 5: Uncheck “Enable Windows Ink”](#fix5)**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
 
@@ -76,28 +73,12 @@ thumbnail: https://thmb.techidaily.com/302790bfdd6c387be2ce7104b2f0ec7045e52a09e
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-636.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In the next window, click**Change plan settings** next to your preferred plan.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-637.png)
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Expand**Put the computer to sleep:** and select**Never** . Then click**Save changes** .
 
@@ -114,22 +95,12 @@ thumbnail: https://thmb.techidaily.com/302790bfdd6c387be2ce7104b2f0ec7045e52a09e
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Power-1200x761.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select**Never** from the drop-down for both**When plugged in, turn off my screen after** and**When plugged in, put my device to sleep after** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-When-plugged-in-put-my-device-to-sleep-after-Never-When-plugged-in-turn-off-my-screen-after-Never-1200x771.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
@@ -141,23 +112,9 @@ thumbnail: https://thmb.techidaily.com/302790bfdd6c387be2ce7104b2f0ec7045e52a09e
 
  1) Double-click the**driver tablet icon** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-27_18-52-38.jpg) on your system tray (an area on the right side of your Taskbar) to open the PenTablet control interface.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Check the**Support TabletPC** box, as shown below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-665.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now go on to check whether your pen works properly. If it doesn’t, please proceed to Fix 4.
 
@@ -191,6 +148,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Huion tablet driver for now, simply click the **Update**  button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-650.png)
@@ -218,10 +179,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-657.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The folder name can be different based on your tablet model.
@@ -229,6 +187,10 @@ OR
  4) Double-click the extracted folder you get and then double-click the**.exe file** in that folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-660.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Follow the on-screen wizard to install the driver.
 
@@ -238,13 +200,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Uncheck “Enable Windows Ink”
 
  This fix should work if you’re experiencing brush lags or other similar issues in Photoshop, with a Huion pen/tablet. Here’s how to do it:
@@ -253,16 +208,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-663.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) When Notepad is opened, type in**UseSystemStylus 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-662.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then save the file as**PSUserConfig.txt** to the following location:
 
@@ -273,6 +225,10 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 **Note** that some of the functions in your drawing software may be unusable if you disable Windows Ink. In that situation, you’ll need to enable Windows Ink again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-666.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The screenshot above comes from the new version of the Huion tablet driver interface. If you’re using the older one, such as the version shown in**[Fix 3](#fix3)** , then you won’t see this**Enable Windows Ink** option.
 
@@ -297,5 +253,26 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/nlocking-earnings-the-mean-daily-pay-from-youtube-adsense-per-k-viewers/"><u>[New] Unlocking Earnings The Mean Daily Pay From YouTube AdSense per K Viewers</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-funimate-unlocked-a-complete-experience/"><u>2024 Approved Funimate Unlocked A Complete Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/backspace-key-stuck-here-are-proven-methods-to-get-it-working-again/"><u>Backspace Key Stuck? Here Are Proven Methods to Get It Working Again!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquering-connectivity-a-step-by-step-guide-to-troubleshoot-and-fix-bluetooth-pairing-problems-in-windows-11/"><u>Conquering Connectivity: A Step-by-Step Guide to Troubleshoot and Fix Bluetooth Pairing Problems in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/desktop-icon-disappearance-issue-on-windows-11-simple-restoration-methods/"><u>Desktop Icon Disappearance Issue on Windows 11 - Simple Restoration Methods</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exemplary-6-online-communities-for-corporate-growth/"><u>Exemplary 6 Online Communities for Corporate Growth</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211098305-fix-your-disappearing-taskbar-and-desktop-icons-in-windows-10-now/"><u>Fix Your Disappearing Taskbar and Desktop Icons in Windows 10 Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-recover-your-desktop-on-systemprofile-in-windows-system32-config-directory-now-solved/"><u>How to Recover Your Desktop on SystemProfile in Windows' System32 Config Directory - Now Solved!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-nvenc-encoder-usage-in-handbrake-for-optimal-video-compression-and-quality/"><u>Mastering NVENC Encoder Usage in Handbrake for Optimal Video Compression and Quality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-task-efficiency-leverage-onlyoffice-docspaces-chatgpt-capabilities/"><u>Mastering Task Efficiency: Leverage ONLYOFFICE DocSpace's ChatGPT Capabilities</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/resuscitating-dormant-connections-with-your-obs-cam-for-2024/"><u>Resuscitating Dormant Connections with Your OBS Cam for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-common-issues-with-unresponsive-shift-buttons/"><u>Solving Common Issues with Unresponsive Shift Buttons</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-bluetooth-not-detected-error-in-device-manager/"><u>Step-by-Step Fix for 'Bluetooth Not Detected' Error in Device Manager</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-adding-lines-in-microsoft-word/"><u>Step-by-Step Guide: Adding Lines in Microsoft Word</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-x-flip-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo X Flip Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208088497-why-is-my-chrome-not-responding-expert-tricks-to-launch-fresh-and-fast/"><u>Why Is My Chrome Not Responding? Expert Tricks To Launch Fresh and Fast</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-update-successfully-reinstated-after-troubleshooting-steps/"><u>Windows Update Successfully Reinstated After Troubleshooting Steps</u></a></li>
+</ul></div>
 

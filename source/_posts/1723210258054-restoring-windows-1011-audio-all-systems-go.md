@@ -1,7 +1,7 @@
 ---
 title: Restoring Windows 10/11 Audio, All Systems Go
-date: 2024-09-05T10:10:19.870Z
-updated: 2024-09-06T10:10:19.870Z
+date: 2024-12-18T22:27:18.536Z
+updated: 2024-12-22T20:30:25.943Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Restoring Windows 10/11 Audio, All Systems Go
 thumbnail: https://thmb.techidaily.com/ddf4423afddb9cc05befc8c29dab68251d90672059623bcb13035bb3744866c7.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Restoring Windows 10/11 Audio, All Systems Go
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afb934399f9.png)
@@ -26,22 +20,14 @@ thumbnail: https://thmb.techidaily.com/ddf4423afddb9cc05befc8c29dab68251d9067205
  If you’re on Windows 11/10, and you’re seeing this error saying**The Audio Service is not running** , you’re not alone. Many Windows users are reporting it. But the good news is you can fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 fixes for ‘The Audio Service is not running’
 
 1. **[Modify the audio related services settings](#solution1)**
 2. **[Update your audio driver](#solution2)**  <Try this if Fix 1 didn’t work>
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Modify the audio related services settings
 
  This problem is probably the improper status of the Windows audio service and any other of its dependencies. Correcting the status can solve your problem.
@@ -54,28 +40,26 @@ To modify the audio related services settings:
 3. Click**Windows Audio** , then **Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afc066cd8c7.jpg)
 4. Right-click **Windows Audio** , then select **Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afc0cf032c7.jpg)
 5. Set the Startup to**Automatic** . Then click **Apply**  \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afc0ef2b45c.png)
 6. Restart these two services and set the Startup types to**Automatic** through the same method 4) & 5):  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Windows Audio Endpoint Builder**  
 **Multimedia Class Scheduler**
 7. Try to play a music or a video to see if the audio works.
 
  If it does, congratulations! But if it doesn’t, don’t be frustrated, go on to the second solution.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your audio driver
 
  This problem could also be caused by the old or incorrect audio driver on your Windows 10\.  You can update your audio driver manually or, if you’re not confident playing around with drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .
@@ -88,14 +72,17 @@ To modify the audio related services settings:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 3. Click the **Activate & Update** button next to a flagged audio driver to automatically download and install the correct version of this driver. Or click   **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This will prompt an upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy offers a 7-day free trial, providing access to premium features such as high-speed downloads and one-click installs without any charges until the trial period ends.)  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/de-update-all-realtek.jpg)
 4. Restart your computer and try to play a music or a video to see of the audio works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully you’ve fixed the problem. Feel free to comment below for any questions.
 
@@ -110,8 +97,6 @@ To modify the audio related services settings:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +104,16 @@ To modify the audio related services settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-advanced-vr-tech-for-drone-enthusiasts/"><u>[New] 2024 Approved Advanced VR Tech for Drone Enthusiasts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/xplore-the-pinnacle-of-editing-android-edition/"><u>[New] Explore the Pinnacle of Editing Android Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-high-definition-excellence-leading-the-recording-race-for-2024/"><u>[New] High Definition Excellence Leading the Recording Race for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-broken-pc-components-in-windows-operating-systems/"><u>Easy Fixes for Broken PC Components in Windows Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-hidden-wi-fi-settings-in-windows-11/"><u>How to Fix Hidden Wi-Fi Settings in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-windows-11-performance-addressing-surge-in-disk-usage-from-microsofts-telemetry-feature/"><u>Optimizing Windows 11 Performance: Addressing Surge in Disk Usage From Microsoft's Telemetry Feature</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-runtime-issues-stabilizing-psychonauts-2-performance-on-your-pc/"><u>Solving Runtime Issues: Stabilizing Psychonauts 2 Performance on Your PC</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-motorola-razr-40-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Motorola Razr 40 without backup.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-brightness-control-malfunction-solutions-at-hand/"><u>Windows 10 Brightness Control Malfunction - Solutions at Hand</u></a></li>
+</ul></div>
 

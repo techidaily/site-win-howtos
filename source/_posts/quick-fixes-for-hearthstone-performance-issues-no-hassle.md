@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Hearthstone Performance Issues - No Hassle
-date: 2024-09-11T15:19:34.316Z
-updated: 2024-09-12T15:19:34.316Z
+date: 2024-12-17T23:36:13.434Z
+updated: 2024-12-22T17:11:44.941Z
 tags:
   - win11
   - win10
@@ -46,25 +46,20 @@ Having terrible**Hearthstone lagging**?  You’re not alone. Many players are re
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** on your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25a4a55650e.jpg)
 3. Click the **Display** tab and you can check what **graphics card**  your PC is using.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25a60f5ce60.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You’d probably have to upgrade your hardware if any of the above-mentioned item fails to meet its minimum requirement.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -76,42 +71,17 @@ A corrupt or outdated graphics driver is one of the common reason of the Hearths
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it. Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and**a 30-day money back guarantee** . You’ll be prompted to upgrade when you click**Update All** .)  
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25a24566c60.jpg)
 4. Restart your computer, launch Hearthstone and see if the problem has been resolved. If the**Hearthstone lagging** issue still persists, move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Reset in-game settings
 
@@ -122,25 +92,11 @@ A corrupt or outdated graphics driver is one of the common reason of the Hearths
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c6b728e28.jpg)
 3. Under the**Hearthstone** section, click**Reset in-Game Options** . Then click**Reset** to confirm the reset.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c271845e6c0c.jpg)
 4. Click**Done** once it’s finished.
 5. Relaunch Hearthstone and hopefully the**Hearthstone lagging** problem has been fixed by now. If it still lingers on, don’t worry. There’re 3 more fixes for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: AdjustBlizzard settings
 
@@ -149,28 +105,8 @@ As it turns out, having Blizzard running in background when playing a game contr
 1. In Blizzard, click**Options** \>**Game Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c6b728e28.jpg)
 2. Click**General** . Then under**WHEN I LAUNCH A GAME** , select**Exit Battle.net completely** from the drop-down menu and click**Done** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c750aa1fa.jpg)
 3. Run Hearthstone again and see if the lagging has been reduced.
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -181,6 +117,11 @@ Deleting the**log.config**file is another proven method to reduce lag according 
 1. In Blizzard, click**Hearthstone** \>**Options** \>**Show in Explorer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25e255100a8.jpg)
 2. As soon as the Hearthstone folder pops up, completely exit Blizzard (and Hearthstone).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Double-click on **the Hearthstone folder** and then delete the **log.config** file.
 4. Restart your computer, launch Hearthstone and see if the Hearthstone lagging problem has been fixed. If yes, then congrats! But if the problem still exists, you should try**Fix 6** , below.
 
@@ -199,10 +140,7 @@ You can also modify your graphics card settings for reduced lag and smoother gam
 2. In the left pane, click**Manage 3D settings** . Then in the right pane, click**Global Settings** and **make sure you’ve modified the following features as follows** :  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
    * **Power management mode** :**Prefer maximum performance** ;  
@@ -215,23 +153,13 @@ You can also modify your graphics card settings for reduced lag and smoother gam
 1. On your keyboard, press**the Windows logo key** and type**amd** . Then click on **AMD Settings**  .![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25d5ccb16f0.png)
 2. Click**Gaming** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25d74add3bc.jpg)
 3. Click**Global Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25d7388bd4a.jpg)
 4. Modify the settings as follows:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25d705b7f8b.jpg)
@@ -241,17 +169,20 @@ You can also modify your graphics card settings for reduced lag and smoother gam
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25dd5c35ea9.png)
 2. Type**intel** in the search box and click**Intel® HD Graphics** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25ddc3b471d.jpg)
 3. Click**3D** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25de8e6aa96.jpg)
 4. Make sure you’ve modified the following features as follows:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * **Application Optimal Mode** :**Enable** ;  
    * **Custom Settings**  ;  
    * **Anti-Aliasing: Use Application Settings**  ;  
@@ -280,5 +211,20 @@ You can also modify your graphics card settings for reduced lag and smoother gam
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-your-quick-reference-guide-to-sharing-smiles-with-9gag/"><u>[Updated] 2024 Approved Your Quick Reference Guide to Sharing Smiles with 9GAG</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-mastering-iphone-ringtone-updates/"><u>[Updated] In 2024, Mastering iPhone Ringtone Updates</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-thumbnails-demystified-mac-edition/"><u>[Updated] In 2024, YouTube Thumbnails Demystified - Mac Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-walkthrough-to-resolve-error-80240020-on-your-windows-10-pc/"><u>Complete Walkthrough to Resolve Error #80240020 on Your Windows 10 PC</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/discover-the-easy-way-with-massmail-app-harvesting-contact-details-en-masse-from-digital-files/"><u>Discover the Easy Way with MassMail App: Harvesting Contact Details En Masse From Digital Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-skype-microphone-issues-a-comprehensive-solution-guide/"><u>Fixing Skype Microphone Issues - A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-windows-11-kb5003602-error-during-install-issue/"><u>How to Fix the Windows 11 KB5003602 'Error During Install' Issue</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-xiaomi-redmi-note-12r-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Xiaomi Redmi Note 12R FRP In 3 Different Ways</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-lava-yuva-2-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Lava Yuva 2 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/iphones-darkest-hours-decoded-for-photographers-for-2024/"><u>IPhone's Darkest Hours Decoded for Photographers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-the-windows-80072ee2-updating-glitch/"><u>Quick Solutions for the Windows 80072EE2 Updating Glitch</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quickly-overcome-instagram-lags-with-these-6-handy-tricks-for-ios-and-android-users/"><u>Quickly Overcome Instagram Lags with These 6 Handy Tricks for iOS & Android Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-error-31-a-step-by-step-guide/"><u>Resolving Windows Error 31: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

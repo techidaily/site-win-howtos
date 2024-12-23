@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Bluetooth Appears Invisible on PC's Device List"
-date: 2024-09-11T15:22:43.457Z
-updated: 2024-09-12T15:22:43.457Z
+date: 2024-12-17T21:42:06.264Z
+updated: 2024-12-22T20:01:18.030Z
 tags:
   - win11
   - win10
@@ -18,16 +18,7 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
  Your computer gets stuck on the boot screen? This is very annoying – and quite scary. You’re probably thinking, I can’t even access the desktop! How am I supposed to fix it? But no worries, you can fix this. Here’s what you can do…
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Fix the PC Stuck on Boot Screen Issue
@@ -51,31 +42,11 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/usb-g6d352e3ca_640.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Try turning on your computer again.
 
  If your computer boots correctly, that means that one of the peripherals you removed is causing your problem. You should **reinstall each device** back into your computer and test them each time. Then, you’ll find the specific device that causes your problem. Replace the device once you’ve identified it. Or, consult the manufacturer of the device for assistance.
 
 If your computer still can’t boot correctly, try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 2: Check the RAM
 
@@ -92,19 +63,6 @@ If your computer still can’t boot correctly, try the fix below.
 RAM looks like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Put your RAMs back into the slot one by one while trying to boot each time.
 
@@ -129,21 +87,16 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Wait for 5 minutes, and then reinstall your CMOS battery.
 
 5) Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 4: Restore your System to the Previous State
 
@@ -164,6 +117,10 @@ The CMOS battery looks like this
  3) Click **Choose a different restore point** , and click**Next** to select a restore point before the issue occurs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-13-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Follow the on-screen instructions to finish the restore.
 
@@ -194,13 +151,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -211,10 +161,7 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-28-48.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type **SFC /Scannow** , and then press **Enter** .
@@ -226,10 +173,7 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_17-08-53.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 6: Perform a Fresh Install
@@ -251,5 +195,26 @@ The CMOS battery looks like this
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-easy-insights-into-effective-use-of-showmore-screen-recorder/"><u>[New] 2024 Approved Easy Insights Into Effective Use of ShowMore Screen Recorder</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-airdrop-not-working-quickly-and-easily/"><u>[SOLVED] AirDrop Not Working | Quickly & Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-personalized-settings-not-responding/"><u>[SOLVED] Personalized Settings (Not Responding)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-top-notch-mac-visual-archiver/"><u>2024 Approved Top-Notch Mac Visual Archiver</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ultraedit-pro-music-and-visual-craftsmanship-for-pcs/"><u>2024 Approved UltraEdit Pro Music & Visual Craftsmanship for PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-windows-11-sudden-shutdowns/"><u>Bypassing Windows 11 Sudden Shutdowns</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-walkthrough-installing-windows-11-onto-a-brand-new-ssdhdd/"><u>Complete Walkthrough: Installing Windows 11 Onto a Brand New SSD/HDD</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-advanced-computing-at-toms-tech-store/"><u>Dive Into Advanced Computing at Tom's Tech Store</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-no-device-found-error-on-your-computer-a-step-by-step-guide/"><u>Fixing 'No Device Found' Error on Your Computer - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-when-your-game-wont-start-destiny-2-initialization-issue-resolved/"><u>How to Fix When Your Game Won't Start: Destiny 2 Initialization Issue Resolved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-steelseries-arctis-5-mic-failure-and-restore-audio-capabilities/"><u>How To Resolve SteelSeries Arctis 5 Mic Failure and Restore Audio Capabilities</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-se-2020-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone SE (2020) Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-motorola-edge-40-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Motorola Edge 40 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ms-sql-lifeline-mvps-restoration-talk/"><u>MS SQL Lifeline: MVP's Restoration Talk</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-resolve-no-signal-issue-on-your-display/"><u>Step-by-Step Guide: Resolve 'No Signal' Issue on Your Display</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-entry-level-gaming-edit-suite-reviews/"><u>Top Entry-Level Gaming Edit Suite Reviews</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-non-functioning-voice-chat-in-overwatch-with-simple-steps/"><u>Troubleshoot Non-Functioning Voice Chat in Overwatch with Simple Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-correcting-google-chromes-errcachemiss-cache-failure/"><u>Troubleshooting and Correcting Google Chrome's ERR_CACHE_MISS Cache Failure</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211330318-9780062689641-where-did-you-go/"><u>Where Did You Go? | Free Book</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Overcoming 'The Parameter Is Incorrect' Error (Error Code Groovy) When Loading Libraries"
-date: 2024-09-11T15:24:02.093Z
-updated: 2024-09-12T15:24:02.093Z
+date: 2024-12-19T23:54:27.256Z
+updated: 2024-12-22T19:01:12.370Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/7b53187b4430cc2c3cbe56db79b5743ab13bdfc8c
 ## Overcome the 0X80073712 Error in Windows 10: Tips and Tricks for a Smooth Operating Experience
 
 If you got a **0x80073712** error code in the midst of a Windows update, don’t panic. Here’re 5 fixes that have helped other users resolve the error. So read on and check them out…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -38,27 +42,26 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Windows Update**   \> **Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a523037e9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Follow the on-screen instructions to troubleshoot.
 
 4) Restart your computer, try Windows Update again and hopefully this problem has been fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run the SFC scan
 
@@ -68,36 +71,20 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click **Yes**   when prompted to confirm.
 
 2) In the command prompt window, type **sfc /scannow**   and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient. ?  
  3) Restart your computer and see if the error**0x80073712**   has been solved.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Run **the DISM tool**
 
@@ -105,27 +92,7 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Type **the following command**   and press **Enter** :
 
@@ -142,10 +109,7 @@ Wait for a while for the whole process to finishes.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Delete Windows Update Cache
@@ -154,42 +118,19 @@ Wait for a while for the whole process to finishes.
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time. Then copy & paste **services.msc**   into the box and click **OK** .
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b220b691f96a.png)
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b220b691f96a.png)
 
  2) Scroll down to the bottom, right-click on **Windows Update**  . Then click**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a89c68a29.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time, then copy & paste **C:\\Windows\\SoftwareDistribution\\Download** into the box and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a92deb7fc.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Press**Ctrl** and**A** at the same time, then right-click to pop up a menu and click**Delete** .
 
@@ -203,20 +144,11 @@ Wait for a while for the whole process to finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ac06c5a8a.jpg)
 
- 7) Restart your computer and try the Windows update again to see if the error code disappears.
-
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 7) Restart your computer and try the Windows update again to see if the error code disappears.
 
 ### Fix 5: Use **Media Creation Tool** to have a clean installation of Windows 10
 
@@ -225,19 +157,6 @@ Wait for a while for the whole process to finishes.
  After that, check if the**0x80073712** error code problem has been sorted.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Want us to fix the problem for you?
 
@@ -262,5 +181,20 @@ Wait for a while for the whole process to finishes.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-enhance-visual-appeal-adding-borders-in-social-media-vids/"><u>[New] In 2024, Enhance Visual Appeal Adding Borders in Social Media Vids</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfect-360-rotation-visual-exploration/"><u>[New] Perfect 360° Rotation Visual Exploration</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-setting-up-facebook-live-your-roku-route/"><u>[Updated] In 2024, Setting Up Facebook LIVE Your Roku Route</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/balancing-personalization-and-privacy-in-gpt-applications/"><u>Balancing Personalization and Privacy in GPT Applications</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/buffer-free-entertainment-in-kodi-effective-techniques-to-ensure-seamless-playback/"><u>Buffer-Free Entertainment in Kodi: Effective Techniques to Ensure Seamless Playback</u></a></li>
+<li><a href="https://win11.techidaily.com/capture-notes-effortlessly-on-windows-11/"><u>Capture Notes Effortlessly on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-overcoming-steam-store-connectivity-problems-and-getting-it-running-smoothly/"><u>Expert Guide: Overcoming Steam Store Connectivity Problems and Getting It Running Smoothly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-unresponsive-screen-interaction-pen-and-touch-solutions/"><u>Fixing Unresponsive Screen Interaction – Pen and Touch Solutions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209876959-9781999128333-helping-yourself-with-acupineology/"><u>Helping Yourself With Acupineology | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-when-your-computer-runs-into-issues-with-windows-10-freezing/"><u>How to Fix When Your Computer Runs Into Issues with Windows 10 Freezing?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/key-tips-for-sourcing-elite-filmmakers/"><u>Key Tips for Sourcing Elite Filmmakers</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/navigating-crypto-laws-a-comprehensive-guide-by-experts-at-yl-computing-and-yl-software/"><u>Navigating Crypto Laws: A Comprehensive Guide by Experts at YL Computing & YL Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-invisible-windows-extra-display/"><u>Resolving Invisible Windows Extra Display</u></a></li>
+</ul></div>
 

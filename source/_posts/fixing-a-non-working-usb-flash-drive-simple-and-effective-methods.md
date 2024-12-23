@@ -1,7 +1,7 @@
 ---
 title: "Fixing a Non-Working USB Flash Drive: Simple and Effective Methods"
-date: 2024-12-10T21:26:14.380Z
-updated: 2024-12-13T16:12:48.255Z
+date: 2024-12-21T00:39:12.849Z
+updated: 2024-12-22T23:51:52.999Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ the picture was taken by: Article\_86
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## End the process
 
  Yes, clicking the “**X** ” button to close the page is the first reaction for most people. But the page like this scam uses our reaction to get permission to infect our devices. So they could let the page pop up again.  
@@ -41,11 +37,11 @@ the picture was taken by: Article\_86
 2. Choose**Google Chrome** and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/task-1.jpg)
 
-**Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
 ## Try these fixes
 
@@ -62,6 +58,10 @@ the picture was taken by: Article\_86
  Because this scam is a fraud page, technically it won’t do severe harm to your computer. The working mechanism of this scam is like an ad. Screening fraudulent users to defraud money. So an ad-block extension can help.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run a virus scan
 
@@ -82,7 +82,7 @@ the picture was taken by: Article\_86
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Relaunch Chrome to take effect.
@@ -99,15 +99,11 @@ the picture was taken by: Article\_86
 3. In the open window, click **Clear browsing data** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
@@ -124,7 +120,7 @@ the picture was taken by: Article\_86
 3. Scroll down to the bottom and click **Advanced** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
@@ -133,6 +129,10 @@ the picture was taken by: Article\_86
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -171,24 +171,24 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-surviving-splashes-top-7-action-cam-selection/"><u>[New] Surviving Splashes Top 7 Action Cam Selection</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-mastering-the-art-of-customizing-your-youtube-channel-url/"><u>[Updated] Mastering the Art of Customizing Your YouTube Channel URL</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/2024-solutions-for-tackling-miracast-rejection-by-your-device-expert-advice/"><u>2024 Solutions for Tackling Miracast Rejection by Your Device: Expert Advice</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/a-step-by-step-solution-to-minecraft-malfunctions-stemming-from-inadequate-graphics-drivers-on-windows/"><u>A Step-by-Step Solution to Minecraft Malfunctions Stemming From Inadequate Graphics Drivers on Windows</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/deplacer-rapidement-les-medias-sur-iphone-et-ipad-avec-macx-mediatrans-le-transferisseur-numero-1/"><u>Déplacer Rapidement Les Médias Sur iPhone Et iPad Avec MacX MediaTrans, Le Transferisseur Numéro 1 !</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-ultimate-festive-bargains-apple-devices-smart-tvs-and-high-performance-laptops-save-big-this-season-expert-tips-from-zdnet/"><u>Discover the Ultimate Festive Bargains: Apple Devices, Smart TVs, and High-Performance Laptops - Save Big This Season | Expert Tips From ZDNET</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo X100? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Max Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-quick-tips-capturing-overwatch-matches/"><u>In 2024, Quick Tips Capturing Overwatch Matches</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-unshutdown-windows-11-on-your-laptop-or-desktop/"><u>Resolving the Issue of Unshutdown Windows 11 on Your Laptop or Desktop</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/rethinking-content-strategy-with-instagrams-new-order-for-2024/"><u>Rethinking Content Strategy with Instagram's New Order for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-for-windows-update-issue-0x8024401c-on-windows-11-systems/"><u>Solution for Windows Update Issue 0X8024401C on Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-your-astro-a40s-microphone-problem-step-by-step-guide/"><u>Solving Your Astro A40's Microphone Problem - Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-optimizing-your-minecraft-gameplay-experience/"><u>Step-by-Step Solutions for Optimizing Your Minecraft Gameplay Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-compromised-files-in-your-windows-11-operating-system/"><u>Troubleshooting and Fixing Compromised Files in Your Windows 11 Operating System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-we-fixed-unresponsive-keys-on-your-keyboard/"><u>Troubleshooting Guide - How We Fixed Unresponsive Keys on Your Keyboard</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-y56-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Vivo Y56 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/usb-mouse-connection-issues-with-your-laptop-heres-what-you-can-do/"><u>USB Mouse Connection Issues with Your Laptop? Here's What You Can Do</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-best-10-tools-for-stunning-insta-grid-designs-for-2024/"><u>[New] Best 10 Tools for Stunning Insta Grid Designs for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagrams-copyright-and-sharing-guide/"><u>[New] Instagram's Copyright & Sharing Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-art-of-crafting-a-one-of-a-kind-tiktok-marker/"><u>[Updated] The Art of Crafting a One-of-a-Kind TikTok Marker</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unlock-the-full-potential-of-instagram-stories-for-2024/"><u>[Updated] Unlock the Full Potential of Instagram Stories for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprehensive-guide-to-digiarty-winxdvd-eulas-for-consumers/"><u>Comprehensive Guide to Digiarty WinXDVD EULAs for Consumers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-hdmi-connectivity-problems-on-your-windows-10-pc/"><u>Diagnosing and Repairing HDMI Connectivity Problems on Your Windows 10 PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-keyboard-malfunction-heres-what-you-can-do-to-fix-it/"><u>Laptop Keyboard Malfunction? Here's What You Can Do To Fix It</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-xiaomi-redmi-note-13-proplus-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Xiaomi Redmi Note 13 Pro+ 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-pairing-process-how-to-successfully-link-airpods-with-windows-11/"><u>Mastering the Pairing Process: How to Successfully Link AirPods with Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-105-classic-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Nokia 105 Classic support - Forgotten screen lock.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issues-with-initiating-the-hosted-network-feature-in-windows-11/"><u>Resolved: Issues with Initiating the Hosted Network Feature in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-wacom-tablet-problems-on-the-latest-windows-systems/"><u>Step-by-Step Fixes for Wacom Tablet Problems on the Latest Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-a-broken-or-unresponsive-apple-mouse/"><u>Step-by-Step Solution for a Broken or Unresponsive Apple Mouse</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-horizontal-or-vertical-line-distortions-on-your-monitor/"><u>Troubleshooting and Resolving Horizontal or Vertical Line Distortions on Your Monitor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-if-your-torrent-download-fails/"><u>Troubleshooting Steps if Your Torrent Download Fails</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-managed-system-preferences-in-windows-environments/"><u>Understanding Managed System Preferences in Windows Environments</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-exploring-ai-face-generators/"><u>Updated In 2024, Exploring AI Face Generators</u></a></li>
+<li><a href="https://win-trending.techidaily.com/yl-software-solutions-do-you-need-to-set-up-our-app-before-using-it/"><u>YL Software Solutions: Do You Need To Set Up Our App Before Using It?</u></a></li>
 </ul></div>
 

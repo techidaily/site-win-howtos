@@ -1,7 +1,7 @@
 ---
 title: "Razer Keyboard Not Glowing: Common Issues and Fixes Discovered"
-date: 2024-12-07T20:48:24.845Z
-updated: 2024-12-13T18:54:41.911Z
+date: 2024-12-19T19:35:50.057Z
+updated: 2024-12-22T19:45:46.388Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -32,13 +32,17 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 2. [**Uninstall and reinstall Razer Synapse**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Plug your keyboard in another USB port
 
  It’s probably caused by the poor connection. Plug your keyboard into another USB port and check if it does light up. If it does and everything works well, it’s your USB port that has the issue.  
  If it doesn’t light up, move to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Uninstall and reinstall Razer Synapse
@@ -53,20 +57,12 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/services.jpg)
 5. Go to C:\\Users\\Your user name\\AppData and delete any Razer folders.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Go to C:\\Program Files (x86)… or wherever you installed Synapse and delete the Razer folders.
 7. Reboot your computer.
 8. Go to the[Razer official website](https://www.razer.com/synapse-3) to download the latest version of Synapse.
 9. Follow the on-screen instructions to install Synapse.
 10. Launch Synapse.
 11. Plug your keyboard and check the lightening.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your driver
 
@@ -84,11 +80,15 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)  
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. After updating the drivers, check to see the issue is resolved or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That’s it! Hopefully, these methods can help you resolve the issue. If you have any questions or suggestions, please let us know by commenting below.
@@ -110,22 +110,20 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ay-jobs-and-digital-passion-striking-a-balance-for-2024/"><u>[New] Day Jobs & Digital Passion Striking a Balance for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-crafting-the-perfect-visual-identity-podcast-covers-unveiled/"><u>[New] In 2024, Crafting the Perfect Visual Identity Podcast Covers Unveiled</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-guide-to-smooth-youtube-video-documentation/"><u>[Updated] 2024 Approved Guide to Smooth YouTube Video Documentation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-zero-to-hero-a-step-by-step-approach-to-youtube-backlinks-for-2024/"><u>[Updated] From Zero to Hero A Step-by-Step Approach to YouTube Backlinks for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-ultimate-guide-to-convert-srt-to-txt-in-minutes/"><u>2024 Approved Ultimate Guide to Convert SRT to TXT in Minutes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-the-blues-with-these-simple-steps-for-fixing-error-1068-in-windows/"><u>Beat the Blues with These Simple Steps for Fixing Error 1068 in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-windows-10-kb4936312-update-issue-error-code-0x80240034/"><u>How to Fix the Windows 10 KB4936312 Update Issue (Error Code: 0X80240034)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-critical-gameplay-issues-in-tom-clancys-rainbow-six-siege/"><u>Overcoming Critical Gameplay Issues in Tom Clancy's Rainbow Six Siege</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-your-windows-12-touchscreen-issues-with-these-five-proven-strategies/"><u>Resolve Your Windows 1^[2]^ Touchscreen Issues with These Five Proven Strategies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-constant-usb-recognition-issues-in-windows-computers-effective-solutions-explored/"><u>Resolving Constant USB Recognition Issues in Windows Computers: Effective Solutions Explored</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-fix-guide-for-windows-update-error-code-0x8024401c-on-windows-10-and-11/"><u>Resolving the Issue: Fix Guide for Windows Update Error Code 0X8024401c on Windows 10 and 11</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-d3d11-compatible-gpu-issue-in-windows-oses/"><u>Solving D3D11-Compatible GPU Issue in Windows OSes</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/top-choice-comprehensive-automatic-backup-software-the-best-recommendation/"><u>Top Choice: Comprehensive Automatic Backup Software - The Best Recommendation!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-kb4056892-error-for-smooth-windows-10-updates-solved/"><u>Troubleshooting the KB4056892 Error for Smooth Windows 10 Updates - Solved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-guide-solving-your-computers-constant-wi-fi-drops/"><u>Ultimate Troubleshooting Guide: Solving Your Computer's Constant Wi-Fi Drops</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlockedchatgpt-subscription-deadline-clarity/"><u>UnlockedChatGPT: Subscription Deadline Clarity</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ideal-strategies-for-noiseless-filming/"><u>[Updated] Ideal Strategies for Noiseless Filming</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-f15-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy F15 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ce-34878-0-error-on-ps4-step-by-step-repair-instructions-fixed/"><u>CE-34878-0 Error on PS4: Step-by-Step Repair Instructions [FIXED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fix-windows-error-0x80071ac3-overcoming-a-dirty-disk-problem/"><u>Guide to Fix Windows Error 0X80071AC3: Overcoming a 'Dirty' Disk Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-requesting-trustedinstallers-approval-to-edit-system-files/"><u>Guide: Requesting TrustedInstaller's Approval to Edit System Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-curate-christian-chimes-for-devotion-for-2024/"><u>How to Curate Christian Chimes for Devotion for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-15-plus-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 15 Plus?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-microsoft-wireless-display-adapter-working-on-windows-11-without-a-hitch/"><u>How to Get Your Microsoft Wireless Display Adapter Working on Windows 11 Without a Hitch</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-essentials-of-writing-attractive-vlog-narratives/"><u>In 2024, The Essentials of Writing Attractive Vlog Narratives</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/personal-experience-with-apple-series-9-and-fitbit-charge-6-a-detailed-comparison/"><u>Personal Experience with Apple Series 9 & Fitbit Charge 6 - A Detailed Comparison</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubg-2024-startup-problems-heres-your-complete-solution-guide/"><u>PUBG 2024 Startup Problems? Here’s Your Complete Solution Guide</u></a></li>
+<li><a href="https://win-popular.techidaily.com/simple-mp3-finder-easy-online-music-search-and-download/"><u>Simple MP3 Finder: Easy Online Music Search & Download</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-stop-your-mouse-from-dropping-out/"><u>Step-by-Step Troubleshooting: Stop Your Mouse From Dropping Out</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-wifi-fix-your-bluetooth-pairing-woes-on-windows-11-tips-and-tricks/"><u>Winning Against WiFi: Fix Your Bluetooth Pairing Woes on Windows 11 - Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wolcen-lords-of-mayhem-reasons-behind-the-delayed-release/"><u>Wolcen: Lords of Mayhem - Reasons Behind the Delayed Release</u></a></li>
 </ul></div>
 

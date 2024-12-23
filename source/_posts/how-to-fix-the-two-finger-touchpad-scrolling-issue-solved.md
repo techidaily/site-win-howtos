@@ -1,7 +1,7 @@
 ---
 title: How To Fix The Two-Finger Touchpad Scrolling Issue - Solved
-date: 2024-09-11T15:20:21.767Z
-updated: 2024-09-12T15:20:21.767Z
+date: 2024-12-16T01:01:28.932Z
+updated: 2024-12-22T18:24:03.160Z
 tags:
   - win11
   - win10
@@ -36,27 +36,21 @@ If you are not sure how to change change the mouse pointer, refer steps below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f47f87ea005.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Under **Devices and Printers** , click **Mouse** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f47f9f7c2c8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Select the new pointer from the drop-down menu of **Scheme**. You can change the mouse pointer to a solid black one.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f48138b03e1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click**Apply** button.  
   
@@ -76,10 +70,7 @@ If you are not sure how to change change the mouse pointer, refer steps below.
   
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Under Devices, click**Device Settings** tab. Highlight Synaptics TouchPad and click the **Settings** button. (Note the Device Settings tab only appears when the touchpad driver is installed.)  
@@ -90,13 +81,6 @@ If you are not sure how to change change the mouse pointer, refer steps below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f46725e17fd.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Click**Apply** buttons.  
 
@@ -115,30 +99,10 @@ If you are not sure how to change change the mouse pointer, refer steps below.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f4837cbe218.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Driver** tab and click on**Roll Back Driver** . (If the button is grayed out, it means the driver cannot be restored. This solution doesn’t work for you.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f484c3dc408.jpg)
   
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) If prompted for the confirmation to continue, click**Yes** .  
 
@@ -147,6 +111,10 @@ If you are not sure how to change change the mouse pointer, refer steps below.
  5) Restart the computer.  
   
  If rolling back driver doesn’t work for you, try to uninstall then update the driver.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Solution 4: Update the toupad driver  
 
@@ -165,10 +133,7 @@ If you are not sure how to change change the mouse pointer, refer steps below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6beb3248b3b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged touchpad driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
@@ -199,5 +164,21 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-polling-puzzle-platforms-leading-politic-simulations/"><u>[New] In 2024, Polling Puzzle Platforms Leading Politic Simulations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-the-viral-internet-landscape/"><u>[New] Navigating the Viral Internet Landscape</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-vivo-y78t-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Vivo Y78t Phone When You Forget the Password</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-the-most-recent-july-2024-updates-and-service-packs-on-microsoft-windows/"><u>Comprehensive Guide to the Most Recent July 2024 Updates and Service Packs on Microsoft Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fast-track-solutions-overcoming-challenges-with-shader-tweaks-in-swbfii/"><u>Fast Track Solutions: Overcoming Challenges with Shader Tweaks in SWBFII</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-12-mini-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 12 mini? Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-broken-night-light-setting-in-windows-1011-a-step-by-step-tutorial/"><u>How to Repair a Broken Night Light Setting in Windows 10/11 – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-non-responsive-sound-issues-in-windows-11/"><u>How to Troubleshoot Non-Responsive Sound Issues in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/incompatibility-between-games-and-systems/"><u>Incompatibility Between Games & Systems</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-best-6-video-dubbing-software-for-pc/"><u>New In 2024, Best 6 Video Dubbing Software for PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ottimizzazione-dellhandbrake-x265-guida-alla-codificazione-e-impostazioni-hevc-dei-video/"><u>Ottimizzazione Dell'handbrake X265 - Guida Alla Codificazione E Impostazioni HEVC Dei Video</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/safe-and-smart-the-ultimate-guide-to-choosing-the-perfect-phone-for-your-child-insights/"><u>Safe and Smart: The Ultimate Guide to Choosing the Perfect Phone for Your Child - Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-your-laptops-unresponsive-trackpad/"><u>Solving the Problem of Your Laptop's Unresponsive Trackpad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-fixing-pc-reset-errors-on-windows-10/"><u>Troubleshooting Guide for Fixing PC Reset Errors on Windows 10</u></a></li>
+</ul></div>
 

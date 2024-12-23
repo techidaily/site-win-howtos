@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide - How We Fixed Unresponsive Keys on Your Keyboard
-date: 2024-12-12T16:19:15.459Z
-updated: 2024-12-13T19:31:55.508Z
+date: 2024-12-16T01:14:39.650Z
+updated: 2024-12-22T21:32:33.478Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 6 fixes that have helped other users resolve their arrow keys not working issue. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -35,16 +39,12 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check hardware issues
@@ -67,21 +67,21 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
@@ -103,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
  After updating your keyboard driver, restart your PC for the changes to take effect.
@@ -119,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this method didn’t work for you, check out the last fix.
 
 ### Fix 6: Run Keyboard Troubleshooter
@@ -134,10 +142,6 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
 
@@ -147,10 +151,6 @@ If this method didn’t work for you, check out the last fix.
 2. Select**System** . Scroll down and click**Troubleshoot** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
@@ -176,15 +176,24 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-photo-editing-the-eraser-guide-in-psx/"><u>[New] Mastering Photo Editing The Eraser Guide in PSX</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-add-youtube-annotations-and-cards-for-2024/"><u>[Updated] How to Add YouTube Annotations and Cards for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-m14-5g-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy M14 5G FRP?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-the-destiny-warzone-memory-glitch-error-code-0-1766-on-your-console-and-pc/"><u>How to Fix the Destiny Warzone Memory Glitch (Error Code 0-1766) on Your Console & PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-key-elements-for-effective-spotify-ad-execution/"><u>In 2024, The Key Elements for Effective Spotify Ad Execution</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209699340-9781547584598-meditacao-como-meditar-guia-para-iniciantes-para-aumentar-a-energia-live-without-stress/"><u>Meditação : Como Meditar Guia Para Iniciantes Para Aumentar A Energia (Live Without Stress) | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-steps-for-fixing-bluetooth-connectivity-problems-in-windows-11/"><u>Solution Steps for Fixing Bluetooth Connectivity Problems in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-wacom-device-troubles-solutions-for-when-your-tablet-doesnt-work/"><u>Solving Wacom Device Troubles: Solutions for When Your Tablet Doesn't Work</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-fixing-persistent-windows-update-problems/"><u>The Ultimate Guide to Fixing Persistent Windows Update Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/yac59k-yamahaaturbosound-ii-sound-module-based-on-the-ymf7a3eymu3x-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-of-r109/"><u>YAC59K - Yamaha'aturboSound II Sound Module Based on the YMF7A3E/YMU^3X (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unmasking-invisible-audiences-interactions/"><u>[New] Unmasking Invisible Audiences' Interactions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-mold-your-own-online-giggle-piece-for-2024/"><u>[Updated] Mold Your Own Online Giggle Piece for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-streamline-your-movies-in-windows-10-with-these-techniques/"><u>[Updated] Streamline Your Movies in Windows 10 with These Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-three-budget-friendly-strategies-for-audio-amplification-in-ios-films/"><u>[Updated] Three Budget-Friendly Strategies for Audio Amplification in iOS Films</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-modern-photographys-dynamic-range-capabilities/"><u>2024 Approved Mastering Modern Photography's Dynamic Range Capabilities</u></a></li>
+<li><a href="https://techtrends.techidaily.com/amazons-hot-deals-for-september-202n-exclusive-picks-reviewed/"><u>Amazon's Hot Deals for September 202N: Exclusive Picks Reviewed!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-oppo-k11-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Oppo K11 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-techniques-for-fixing-no-light-show-a-full-how-to-for-dell-laptop-screen-issues/"><u>Expert Techniques for Fixing No Light Show: A Full How-To for Dell Laptop Screen Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208301722-fix-mac-camera-not-working-the-easy-way/"><u>Fix Mac Camera Not Working — The Easy Way</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-meizu-21-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-missing-graphics-device-in-starcraft-2-solution-guide/"><u>How to Fix the Missing Graphics Device in StarCraft 2 – Solution Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-bypassing-ssi-and-installing-unverified-drivers/"><u>Mastering Windows: Bypassing SSI & Installing Unverified Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-wow-slowdown-strategies-to-overcome-connection-issues/"><u>No More Wow Slowdown: Strategies to Overcome Connection Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-simple-solutions-resolve-your-netflix-audio-problems-instantly/"><u>Quick & Simple Solutions: Resolve Your Netflix Audio Problems Instantly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-notorious-red-screen-problem-on-windows-11/"><u>Resolved: Fixing the Notorious Red Screen Problem on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-typing-troubles-in-windows-10-and-11-repair-broken-keyboard-buttons/"><u>Solve Your Typing Troubles in WINDOWS 10 and 11: Repair Broken Keyboard Buttons!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-tech-brands-in-online-recording-solutions-for-2024/"><u>Top Tech Brands in Online Recording Solutions for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-display-driver-stopped-responding-issues-on-your-computer/"><u>Understanding and Resolving ‘Display Driver Stopped Responding’ Issues on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-teredo-cant-meet-qualification-requirements-explained/"><u>Why Teredo Can't Meet Qualification Requirements Explained</u></a></li>
 </ul></div>
 

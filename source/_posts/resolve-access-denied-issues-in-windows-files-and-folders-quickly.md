@@ -1,7 +1,7 @@
 ---
 title: Resolve 'Access Denied' Issues in Windows Files & Folders Quickly
-date: 2024-09-11T15:23:23.586Z
-updated: 2024-09-12T15:23:23.586Z
+date: 2024-12-19T23:01:26.616Z
+updated: 2024-12-23T00:23:21.733Z
 tags:
   - win11
   - win10
@@ -31,6 +31,11 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
  Method 2:[**Get the proper permissions**](https://tools.techidaily.com/drivereasy/download/)
  Method 3:[**Recover your data**](https://tools.techidaily.com/drivereasy/download/)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Take the ownership of the file or folder
 
  The access denied error may occur if you don’t have the ownership of the file or folder or the ownership has changed. You can try taking the ownership and see if this resolves the problem.
@@ -43,25 +48,11 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84e37bce76.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84e855e5ac.png)
 
  After that, click**Manage your account** or**User Accounts** in the list of results. Then in the window popping up, you will see your account name and the account type.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84fe1ae64a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ff74c632.jpg)
 
@@ -84,44 +75,20 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e8535558e4e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Type the account name you are using into the box under**Enter the object name to select** . Then click the**Check Names** button (and the computer will complete the object name for you). After that, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6f33e53abc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** If you want to take the ownership of all the files and subfolders in this folder, select the check box of **Replace all child object permission entries with inheritable permission entries from this object.** Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e852da485ce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Click**OK** to save the changes and close the Properties dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6f8bd1c175.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)** Try opening or making changes to the file or folder and see if the error disappears.  
   
@@ -135,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fdb62994a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the**Owner** tab. Then click the**Edit** button to change the owner.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fdc489026.jpg)
@@ -151,10 +111,7 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fe2f135c8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Type the account name you are using into the box under**Enter the object name to select** . Then click the**Check Names** button (to let the computer to enter the complete object name for you). After that, click**OK** .
@@ -162,10 +119,7 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6ff37346ff.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Check**Replace owner on subcontainers and objects**  If you want to take the ownership of all the files and subfolders. Then click**OK** .
@@ -184,10 +138,7 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
   
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Get the proper permissions
@@ -200,7 +151,15 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84e37bce76.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84e855e5ac.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, click**Manage your account** or**User Accounts** in the list of results. Then in the window popping up, you will see your account name and the account type.
 
@@ -217,16 +176,7 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6d7b9e5fd1.png)
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Click the**Security** tab, and then the**Edit** button. This will open the Permissions dialog for this file or folder, which allows you to change the permissions.
@@ -234,32 +184,19 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e822552e434.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** In the**Group or users names** box, click your name (the name you use to log into this computer). Then, in the Permissions for Users box, select the**Allow** check box of**Full control** (this will allow you to have full control to access and modify this file or folder). After that, click**OK** to apply the changes and exit this dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e8234601e13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Click**OK** to apply all the changes and close the Properties dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e8249a9c44d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  If this method works for you, you won’t get the access denied error when you try to open or modify the file or folder.  
@@ -283,5 +220,21 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-instagram-gurus-playbook-5-game-changing-strategies-and-outcomes/"><u>[New] 2024 Approved The Instagram Guru’s Playbook 5 Game Changing Strategies and Outcomes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-pro-rated-screen-capture-software-top-11-selections/"><u>[Updated] 2024 Approved Pro-Rated Screen Capture Software Top 11 Selections</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-guide-resolving-audio-device-uninstalled-troubles-on-your-windows-amelon-computer/"><u>DIY Guide: Resolving 'Audio Device Uninstalled' Troubles on Your Windows Amelon Computer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-visuals-with-these-top-pixlr-tips/"><u>Elevate Visuals with These Top Pixlr Tips</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/ensuring-authenticity-as-you-aspire-for-one-million-video-watches/"><u>Ensuring Authenticity as You Aspire for One Million Video Watches</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-itel-a05s-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Itel A05s Quickly | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ipad-printing-issues-solutions-for-when-your-device-cannot-connect-with-a-printer/"><u>IPad Printing Issues: Solutions For When Your Device Cannot Connect With A Printer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-microphone-malfunctions-heres-how-you-can-get-it-working-again/"><u>Laptop Microphone Malfunctions? Here's How You Can Get It Working Again!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-players-rejoice-resolving-the-far-cry-6-does-not-start-problem/"><u>PC Players Rejoice: Resolving the 'Far Cry 6 Does Not Start' Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-improving-your-csgo-ping-speed/"><u>Step-by-Step Solutions for Improving Your CS:GO Ping Speed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-nier-automata-from-crashing-a-guide-for-pc-gamers/"><u>Stop Nier: Automata From Crashing - A Guide for PC Gamers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-the-low-memory-alerts-in-roblox-on-your-iphone-heres-how/"><u>Stop the Low Memory Alerts in Roblox on Your iPhone Here's How</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719162480304-the-most-reliable-ios-gaming-tools-ranked-find-out-now/"><u>The Most Reliable iOS Gaming Tools Ranked: Find Out Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-solution-guide-restoring-access-to-your-networks-dhcp-server/"><u>The Solution Guide: Restoring Access to Your Network's DHCP Server</u></a></li>
+</ul></div>
 

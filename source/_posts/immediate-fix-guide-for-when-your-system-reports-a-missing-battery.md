@@ -1,7 +1,7 @@
 ---
 title: Immediate Fix Guide for When Your System Reports a Missing Battery
-date: 2024-09-05T10:11:39.570Z
-updated: 2024-09-06T10:11:39.570Z
+date: 2024-12-21T16:35:34.552Z
+updated: 2024-12-22T19:49:13.417Z
 tags:
   - win11
   - win10
@@ -20,17 +20,9 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
  In this post, we’ll show you some easy and effective solutions to fix the USB mouse not working problem on your Windows laptop.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Cause of USB Mouse Not Working
 
 * **Hardware Damage**
@@ -39,11 +31,9 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 * **Inappropriate surface**
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 4 solutions you can try. You may not have to try them all; just work your way until your mouse works again.
@@ -69,36 +59,26 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4d8efba92bc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4d8f0a4ba40.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) Wait for 1-3 minutes.
 
 3) Plug your USB cable or USB receiver into the USB port correctly.
 
 4) Try to use your mouse to see if works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Restart your laptop
 
  Sometimes a simple restart can help you fix a lot of computer woes, including your mouse not working issue. So if after you reconnect your mouse to the laptop, it still keeps not working, restart your laptop, please. After getting into Windows, try your mouse to see if it works.
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your mouse driver
 
  If you’ve tried all of the basic troubleshooting methods but still failed to fix it, don’t be frustrated. Your USB mouse not working issue could be caused by an old, incompatible, or corrupted mouse driver.
@@ -123,12 +103,6 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/Driver-Easy-Scan-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to your flagged mouse driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro Version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a**30-day money-back guarantee** . You’ll be prompted to upgrade when you click Update All.)
@@ -136,11 +110,9 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/Update-all-drivers-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -157,8 +129,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +136,24 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/uides-on-creating-cost-free-youtube-beginnings-and-conclusions-for-2024/"><u>[New] Guides on Creating Cost-Free YouTube Beginnings & Conclusions for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-displaying-screens-in-google-meet/"><u>[New] In 2024, The Ultimate Guide to Displaying Screens in Google Meet</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-a-comprehensive-guide-to-facebooks-full-screen-feature-for-2024/"><u>[Updated] A Comprehensive Guide to Facebook's Full Screen Feature for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-record-a-voice-over-for-a-video/"><u>[Updated] How To Record A Voice Over For A Video</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-maximize-zoom-audio-clarity-methods-and-tips-shared/"><u>2024 Approved Maximize Zoom Audio Clarity Methods & Tips Shared</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corrected-non-hid-interactive-capability-in-touch-screen/"><u>Corrected Non-HID Interactive Capability in Touch Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dns-server-not-responding-4-easy-solutions/"><u>DNS Server Not Responding (4 Easy Solutions)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/expert-tips-for-fixing-your-logitech-g433-mic-when-it-stops-working-properly/"><u>Expert Tips for Fixing Your Logitech G433 Mic When It Stops Working Properly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-it-overcoming-the-challenge-of-an-unresponsive-backspace-button/"><u>Fix It! Overcoming the Challenge of an Unresponsive Backspace Button</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-fixing-windows-error-1067-the-process-ended-suddenly-and-how-we-resolved-it/"><u>Guide: Fixing Windows Error 1#067 – The Process Ended Suddenly & How We Resolved It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-your-computer-when-it-gets-stuck-during-windows-setup/"><u>How to Fix Your Computer When It Gets Stuck During Windows Setup</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-the-newest-amd-video-cards-driver-update-on-windows/"><u>How to Get the Newest AMD Video Cards Driver Update on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-functionality-of-your-pcs-built-in-speakers-on-windows-10/"><u>How to Restore Functionality of Your PC's Built-In Speakers on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/logildadll-recovery-made-easy/"><u>LogiLDA.dll Recovery Made Easy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-excessive-cpu-load-caused-by-wudfhostexe-on-windows-10/"><u>Resolve Excessive CPU Load Caused by wudfhost.exe on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-minecraft-crashes-stemming-from-outdated-or-corrupted-windows-vga-drivers/"><u>Step-by-Step Solutions for Minecraft Crashes Stemming From Outdated or Corrupted Windows VGA Drivers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/streamlined-savings-for-cloud-storage-costs-analysis-for-2024/"><u>Streamlined Savings for Cloud Storage Costs Analysis for 2024</u></a></li>
+</ul></div>
 

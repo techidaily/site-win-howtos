@@ -1,7 +1,7 @@
 ---
 title: "Resolving Insufficient System Memory Issues on Windows 10: A Comprehensive Guide"
-date: 2024-09-05T10:10:52.949Z
-updated: 2024-09-06T10:10:52.949Z
+date: 2024-12-18T16:15:55.942Z
+updated: 2024-12-22T20:37:17.253Z
 tags:
   - win11
   - win10
@@ -19,12 +19,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
  Surprisingly, this is quite a common problem. But although it’s quite frustrating, it’s usually not that hard to fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 fixes for C**omputer Won’t Shut Down**
 
  All the fixes below work in**Windows 10** . You don’t have to try all of them; just work your way down until this**computer won’t shut down** problem is resolved.
@@ -34,12 +28,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -59,14 +47,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -75,29 +65,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -109,20 +90,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
+
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 5. Click**Restart** .
@@ -133,12 +112,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -146,12 +119,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
@@ -168,8 +135,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +142,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-decoding-instagrams-reels-and-stories-evolution/"><u>[New] In 2024, Decoding Instagram's Reels and Stories Evolution</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-essence-of-youtubes-content-craft-room-for-2024/"><u>[New] The Essence of YouTube's Content Craft Room for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-bridging-the-gap-transitioning-youtube-to-televisions-smoothly/"><u>[Updated] In 2024, Bridging the Gap Transitioning YouTube to Televisions Smoothly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-high-quality-virtual-console-imitation-software-for-pc/"><u>[Updated] In 2024, High-Quality Virtual Console Imitation Software for PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-streaming-services-a-must-know/"><u>[Updated] Top 10 Streaming Services - A Must Know</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevate-video-impact-proven-youtube-seo-methods/"><u>2024 Approved Elevate Video Impact Proven YouTube SEO Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-solutions-how-to-fix-werfaultexe-application-errors-on-your-pc-running-windows/"><u>Effortless Solutions: How to Fix WerFault.exe Application Errors on Your PC Running Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-troubleshooting-and-resolving-windows-error-code-0xc0000098/"><u>Expert Tips for Troubleshooting and Resolving Windows Error Code 0xC0000098</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-broken-updown-keys-on-your-keyboard-expert-advice-here/"><u>Fix Broken Up/Down Keys on Your Keyboard – Expert Advice Here!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-remote-access-problems-guide-to-overcoming-network-errors/"><u>Fixing Remote Access Problems: Guide to Overcoming Network Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-rockstar-games-red-dead-redemption-2-memory-issues-increasing-page-file-effectively/"><u>Fixing Rockstar Games Red Dead Redemption 2 Memory Issues: Increasing Page File Effectively</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-honor-80-pro-straight-screen-edition-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor 80 Pro Straight Screen Edition phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-managing-pages-file-formats-on-pc-systems/"><u>Mastering the Art of Managing Pages File Formats on PC Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-erroneous-alphabetic-entries-in-keyboard-use/"><u>Overcoming the Challenge of Erroneous Alphabetic Entries in Keyboard Use</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-common-2024-oculus-hardware-problems/"><u>Step-by-Step Solutions for Common 2024 Oculus Hardware Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-for-non-connecting-airpods-to-your-windows-11-system/"><u>Ultimate Fixes for Non-Connecting AirPods to Your Windows 11 System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-over-cheats-with-battleye-post-installation-fixes-for-smooth-gaming/"><u>Winning Over Cheats with BattlEye: Post-Installation Fixes for Smooth Gaming</u></a></li>
+</ul></div>
 

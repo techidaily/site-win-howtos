@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Issues with Your ASUS Keyboard Not Functioning Correctly
-date: 2024-12-11T18:28:38.461Z
-updated: 2024-12-13T20:16:51.531Z
+date: 2024-12-21T17:11:04.755Z
+updated: 2024-12-22T16:12:11.479Z
 tags:
   - win11
   - win10
@@ -43,21 +43,21 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ed1505fee.png)
 3. Click**Ease of Access** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2edebb4167.jpg)
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee1e422d4.jpg)
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### On Windows 11
 
@@ -65,6 +65,11 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 2. Click**Accessibility** on the left penal, then click**Mouse** in the Interaction section on the right.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-accessibility-mouse.jpg)
 3. Check if the Mouse keys toggle is On. If it is, switch it to Off.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-mouse-keys.jpg)
 
  Open Word or Notepad to test if the number keys on your keyboard can work now.
@@ -75,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
  Look on your keyboard for a key that says **NumLock** and make sure to enable the key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2eecb19e08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the**NumLock** key is disabled, the number keys on the right side of your keyboard will not work.
 
@@ -99,19 +108,15 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ebe32f70f.jpg)
 3. Click the**Update** button next to your keyboard to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ec4831bd8.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 4: Use a different user profile
 
@@ -122,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
  When you’ve logged in to Windows with the new account, open Word or Notepad to test your keyboard numbers.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Check hardware issues
 
@@ -152,19 +153,18 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-podcast-release-schedules/"><u>[New] Mastering Podcast Release Schedules</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-xiaomi-14-ultra-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ning-news-outro-sequences/"><u>Designing News Outro Sequences</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-fixes-for-minecraft-not-starting-on-your-windows-pc-detailed-instructions/"><u>Expert Fixes for Minecraft Not Starting on Your Windows PC – Detailed Instructions</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/expert-insights-on-forging-youtube-sponsorship-bonds-using-famebit/"><u>Expert Insights on Forging YouTube Sponsorship Bonds Using FameBit</u></a></li>
-<li><a href="https://extra-information.techidaily.com/fundamental-steps-for-transforming-pins-into-audios/"><u>Fundamental Steps for Transforming Pins Into Audios</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211437627-how-to-fix-and-restore-your-lost-steam-files-solutions-unveiled/"><u>How to Fix and Restore Your Lost Steam Files - Solutions Unveiled!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y77t-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y77t</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-compelling-documentary-narratives/"><u>In 2024, Crafting Compelling Documentary Narratives</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-apple-iphone-xs-max-look-no-further-drfone-by-drfone-virtual-ios/"><u>In 2024, Looking For A Location Changer On Apple iPhone XS Max? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-package-discrepinas-in-windows-photos-with-step-by-step-tips/"><u>Overcoming Package Discrepinas in Windows Photos with Step-by-Step Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211676541-razer-keyboard-not-glowing-common-issues-and-fixes-discovered/"><u>Razer Keyboard Not Glowing: Common Issues and Fixes Discovered</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-touch-input-not-responsive-on-your-display-device/"><u>Step-by-Step Fix for 'Touch Input Not Responsive' On Your Display Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-against-the-hurdles-getting-your-hosted-network-up-and-running-on-windows-11/"><u>Winning Against the Hurdles: Getting Your Hosted Network Up and Running on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/address-and-correct-the-network-connection-error-0x800704cf-a-detailed-walkthrough-for-windows-users/"><u>Address and Correct the Network Connection Error 0X800704cf: A Detailed Walkthrough for Windows Users</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/how-to-fix-a-scanner-that-wont-read-your-files-solutions-from-yl-computing/"><u>How To Fix a Scanner That Won't Read Your Files - Solutions From YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-file-explorer-issues-in-windows-11-quickly-and-efficiently/"><u>How to Fix Unresponsive File Explorer Issues in Windows 11 Quickly & Efficiently</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-gt-10-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Infinix GT 10 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-jumpstart-your-social-media-success-instagrams-top-9-hacks/"><u>In 2024, Jumpstart Your Social Media Success Instagram's Top 9 Hacks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leveraging-cost-free-text-animation-techniques/"><u>In 2024, Leveraging Cost-Free Text Animation Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-shockwave-flash-on-google-chrome-overcome-the-compatibility-hurdle-today/"><u>No More Shockwave Flash on Google Chrome: Overcome the Compatibility Hurdle Today</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-not-delivered-messages-on-iphone-a-step-by-step-guide/"><u>Resolving 'Not Delivered' Messages on iPhone - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-store-not-working-heres-how-to-restore-access/"><u>Steam Store Not Working? Here’s How to Restore Access!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-resolution-reconnecting-your-airpods-to-windows-11-systems-updated-tips/"><u>Step-by-Step Resolution: Reconnecting Your AirPods to Windows 11 Systems (Updated Tips)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-when-your-bluetooth-mouse-wont-connect-with-windows/"><u>Step-by-Step Solutions: When Your Bluetooth Mouse Won't Connect with Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-ultimate-how-to-for-keeping-your-windows-computers-motherboard-drivers-current-and-efficient/"><u>The Ultimate How-To for Keeping Your Windows Computer's Motherboard Drivers Current and Efficient</u></a></li>
 </ul></div>
 

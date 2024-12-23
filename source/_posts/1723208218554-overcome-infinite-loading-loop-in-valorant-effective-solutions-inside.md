@@ -1,7 +1,7 @@
 ---
 title: "Overcome Infinite Loading Loop in Valorant: Effective Solutions Inside"
-date: 2024-12-09T21:54:38.673Z
-updated: 2024-12-13T19:41:22.975Z
+date: 2024-12-15T19:50:10.573Z
+updated: 2024-12-23T01:00:19.383Z
 tags:
   - win11
   - win10
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Take the ownership of the file or folder
@@ -56,19 +56,11 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84e855e5ac.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After that, click**Manage your account** or**User Accounts** in the list of results. Then in the window popping up, you will see your account name and the account type.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84fe1ae64a.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ff74c632.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your account type is not**administrator** , sign out of this account and log into an administrator account, or ask the administrator of this computer to log on for you.
 
@@ -79,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 **1)** Right click the problem file or folder. Then select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6d7b9e5fd1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Click the**Security** tab, and then the**Advanced** button. This will open Advanced Security Settings for this file or folder.
 
@@ -96,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6f33e53abc.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** If you want to take the ownership of all the files and subfolders in this folder, select the check box of **Replace all child object permission entries with inheritable permission entries from this object.** Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e852da485ce.jpg)
@@ -107,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 **6)** Click**OK** to save the changes and close the Properties dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6f8bd1c175.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)** Try opening or making changes to the file or folder and see if the error disappears.  
   
@@ -129,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6fdc489026.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click the**Other users or groups** button to choose the user manually.
@@ -145,7 +125,7 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e71f2934f14.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)** Click**OK** to apply the changes and close the settings window.
@@ -159,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 **9)** Check and see if the error disappears.  
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Get the proper permissions
 
  The system may deny your access if you don’t have the proper permissions to read or modify the file or folder. You can try get yourself the permissions and see if this can get rid of the error.
@@ -171,11 +155,23 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84e855e5ac.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, click**Manage your account** or**User Accounts** in the list of results. Then in the window popping up, you will see your account name and the account type.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84fe1ae64a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ff74c632.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your account type is not**administrator** , sign out of this account and log into an administrator account, or ask the administrator of this computer to log on for you.
 
@@ -186,24 +182,28 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6d7b9e5fd1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Click the**Security** tab, and then the**Edit** button. This will open the Permissions dialog for this file or folder, which allows you to change the permissions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e822552e434.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** In the**Group or users names** box, click your name (the name you use to log into this computer). Then, in the Permissions for Users box, select the**Allow** check box of**Full control** (this will allow you to have full control to access and modify this file or folder). After that, click**OK** to apply the changes and exit this dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e8234601e13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click**OK** to apply all the changes and close the Properties dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e8249a9c44d.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  If this method works for you, you won’t get the access denied error when you try to open or modify the file or folder.  
   
@@ -229,18 +229,18 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-guiding-you-to-untainted-stock-visuals/"><u>[New] Guiding You to Untainted Stock Visuals</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-smooth-sailing-through-sequences-with-kinemaster/"><u>[New] Smooth Sailing Through Sequences with Kinemaster</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhance-your-device-rugged-accessories-for-apple-watch-and-samsung-galaxy-z-fold-top-picks-by-gadgetflow/"><u>Enhance Your Device: Rugged Accessories for Apple Watch and Samsung Galaxy Z Fold - Top Picks by GadgetFlow</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-media-connection-errors-in-windows-systems-expert-tips-and-tricks/"><u>Fixing Media Connection Errors in Windows Systems – Expert Tips and Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-graphics-device-not-supported-issue-in-civ-vi/"><u>Fixing the 'Graphics Device Not Supported' Issue in Civ VI</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-crimson-display-issue-on-your-device-a-step-by-step-tutorial/"><u>How to Resolve the Crimson Display Issue on Your Device – A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-answers.techidaily.com/plex-versus-kodi-showdown-which-is-the-superior-media-streaming-platform/"><u>Plex Versus Kodi Showdown: Which Is the Superior Media Streaming Platform?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-google-pixel-8-pro-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Google Pixel 8 Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-for-error-1053-improving-timely-service-start-up-and-control-acknowledgment/"><u>Solution for Error 1053: Improving Timely Service Start-Up and Control Acknowledgment</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211738761-tired-of-that-blinking-cursor-lets-resolve-it-together/"><u>Tired of that Blinking Cursor? Let's Resolve It Together</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/visualizing-the-most-influential-23-social-trends/"><u>Visualizing the Most Influential '23 Social Trends</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-is-auto-gpt-and-how-does-it-differ-from-chatgpt/"><u>What Is Auto-GPT, and How Does It Differ From ChatGPT?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-update-essentials-repair-and-restoration-successfully-completed/"><u>Windows Update Essentials: Repair and Restoration Successfully Completed</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-conquer-the-clouds-recording-and-preserving-streaming-radios/"><u>[New] Conquer the Clouds Recording and Preserving Streaming Radios</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-make-sense-of-iphone-video-repetition-tech/"><u>[Updated] Make Sense of iPhone Video Repetition Tech</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-disconnecting-from-your-old-linkedin-account/"><u>2024 Approved Mastering the Art of Disconnecting From Your Old LinkedIn Account</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/battleye-installation-issue-solved-quick-fix-guide/"><u>BattlEye Installation Issue Solved: Quick Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-repair-restoring-function-to-malfunctioning-hp-keyboard/"><u>Effortless Repair: Restoring Function to Malfunctioning HP Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ensuring-smooth-media-streaming-fixing-cast-to-device-failures-on-windows-10/"><u>Ensuring Smooth Media Streaming: Fixing Cast to Device Failures on Windows 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-realme-note-50-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Realme Note 50</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-tecno-camon-30-pro-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Tecno Camon 30 Pro 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-to-perfect-elgato-stream-deck-selection/"><u>Navigate to Perfect Elgato Stream Deck Selection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-repair-unresponsive-spacebar-in-windows-11-computers/"><u>Step-by-Step Guide to Repair Unresponsive Spacebar in Windows 11 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-code-24-fixing-this-device-is-not-present-error-on-windows-11-8-and-7/"><u>Troubleshooting Code 24: Fixing 'This Device Is Not Present' Error on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208380318-windowslinux-users-beware-how-to-tackle-unwarranted-high-cpu-usage-from-shell-infrastructures/"><u>Windows/Linux Users Beware – How to Tackle Unwarranted High CPU Usage From Shell Infrastructures</u></a></li>
 </ul></div>
 

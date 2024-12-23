@@ -1,7 +1,7 @@
 ---
 title: Solve 'No Response From DNS Server' Issues with These 4 Simple Fixes
-date: 2024-12-10T22:26:15.312Z
-updated: 2024-12-13T18:23:21.661Z
+date: 2024-12-21T23:31:33.881Z
+updated: 2024-12-22T20:49:44.461Z
 tags:
   - win11
   - win10
@@ -53,40 +53,40 @@ The DNS server not responding error could be probably caused by an **incorrect D
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e5c170e3799.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Click **Network and Sharing Center** in **Large icons**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1287bc28f2e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Click **Change adapter settings**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1286df40874.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Right-click on **Local Area Connection**, **Ethernet** or **Wi-Fi** according to your Windows. Then click **Properties**.|  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a128e6af137d.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Click **Internet Protocol Version 4(TCP/IPv4)**, then **Properties**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a128fa0c7dc8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7) Tick on **Obtain an IP address automatically** and **Obtain DNS server address automatically**. Then click **OK**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12900623628.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8) Click **Internet Protocol Version 6(TCP/IPv6)**, then **Properties**.  
 
@@ -95,6 +95,10 @@ The DNS server not responding error could be probably caused by an **incorrect D
 9) Tick on **Obtain an IP address automatically** and **Obtain DNS server address automatically**. Then click **OK**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12905d90a85.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart your computer and try to access the website you want to go to again and see if it succeeds.
 
@@ -107,10 +111,6 @@ There may be problems with your DNS server if its cache is getting full. To see 
 1) Type **cmd** in the search box from the Start menu. Then right-click on **Command Prompt** to select **Run as administrator**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1298fb8c2d7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** Click **Yes** when prompted by the User Account Control.
 
@@ -125,6 +125,10 @@ There may be problems with your DNS server if its cache is getting full. To see 
  **ipconfig /renew**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a129aa3217b1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then restart your computer and try to access the website you want to visit again and see if it succeeds.
 
@@ -143,10 +147,6 @@ You can update your drivers automatically with either the **FREE** or the **Pro*
 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/driver-easy-scan.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)  
 **Note**: You can do it for free if you like, but it’s partly manual.  
@@ -164,7 +164,7 @@ If your modem or router doesn’t work properly, the DNS server could stop respo
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-28.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Try to access the website you want to go to again and see if it succeeds.
@@ -200,22 +200,19 @@ Hopefully, this article has helped you fixed the problem. Feel free to comment b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-brilliant-setups-top-17-gear-for-online-videographers/"><u>[Updated] Brilliant Setups Top 17 Gear for Online Videographers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-smile-more-using-emojis-in-youtube-conversations-for-2024/"><u>[Updated] Smile More Using Emojis in YouTube Conversations for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-astrological-flair-in-digital-self-portrayals-on-whatsapp/"><u>2024 Approved Astrological Flair in Digital Self-Portrayals on WhatsApp</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/application-exe-crashes-solving-the-stopped-working-issue/"><u>Application Exe Crashes: Solving the 'Stopped Working' Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-auto-start-issues-in-windows-11-a-comprehensive-guide/"><u>Diagnosing Auto Start Issues in Windows 11 – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-auto-start-problems-for-your-windows-10-device-a-comprehensive-guide/"><u>Diagnosing Auto-Start Problems for Your Windows 10 Device - A Comprehensive Guide</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-advice-on-purging-your-iphone-efficient-strategies-from-stellar-professionals/"><u>Expert Advice on Purging Your iPhone: Efficient Strategies From Stellar Professionals</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-repairing-copy-and-paste-feature-failures-on-windows-11-systems/"><u>Expert Tips for Repairing 'Copy and Paste' Feature Failures on Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-10-installation-issue-error-code-80240020/"><u>How to Fix Windows 10 Installation Issue - Error Code 80240020</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-google-pixel-7a-easily-by-drfone-android/"><u>In 2024, How To Unlock a Google Pixel 7a Easily?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-t2x-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Vivo T2x 5G</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/native-tongue-learn-romanian-app-style/"><u>Native Tongue: Learn Romanian App Style</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-the-problem-of-dead-keys-on-your-hp-computer-effective-solutions-await/"><u>Solve the Problem of Dead Keys on Your HP Computer – Effective Solutions Await</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steps-to-rectify-kernel32-issues/"><u>Steps to Rectify Kernel32 Issues</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/why-the-value-of-free-titles-on-the-epic-games-store-has-dropped-significantly/"><u>Why the Value of Free Titles on the Epic Games Store Has Dropped Significantly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-power-issues-solved-how-to-force-your-computer-to-turn-off/"><u>Windows 10 Power Issues Solved – How to Force Your Computer to Turn Off</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-innovative-script-visionaries-corner-for-2024/"><u>[Updated] Innovative Script Visionaries Corner for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-launchpad-logic-the-complete-framework-for-founders-of-a-reviews-channel/"><u>[Updated] Launchpad Logic The Complete Framework for Founders of a Reviews Channel</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-maximizing-tiktok-video-velocity-effectively-for-2024/"><u>[Updated] Maximizing TikTok Video Velocity Effectively for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-mastering-srt-to-txt-translation-the-fastest-guide/"><u>2024 Approved Mastering SRT to TXT Translation - The Fastest Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726026542524-gif/"><u>複数のGIFアニメを連動させるスッキリ解決策</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/application-error-winapi-dependency-missing/"><u>Application Error: WinAPI Dependency Missing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/direct-connection-navigating-desktop-display-integration-on-facebook-for-2024/"><u>Direct Connection Navigating Desktop Display Integration on Facebook for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203994583-huion-pen-trouble-here-are-five-ways-to-bring-it-back-to-life-fast/"><u>Huion Pen Trouble? Here Are Five Ways to Bring It Back to Life Fast</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-explore-the-possibilities-with-dual-screen-watching-on-netflix/"><u>In 2024, Explore the Possibilities with Dual-Screen Watching on Netflix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/securing-second-screen-visibility-in-win1011/"><u>Securing Second Screen Visibility in Win10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-ps4-noise-issues-understanding-causes-and-remedies/"><u>Solving PS4 Noise Issues: Understanding Causes and Remedies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-overcome-update-failure-0x800700ba-on-windows-11/"><u>Step-by-Step Guide to Overcome Update Failure 0X800700BA on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functional-usb-to-hdmi-converter/"><u>Troubleshooting Guide: How to Fix a Non-Functional USB to HDMI Converter</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-strategies-for-instantaneous-success-on-onedrives-folder-addition/"><u>Unveiling Strategies for Instantaneous Success on OneDrive's Folder Addition</u></a></li>
 </ul></div>
 

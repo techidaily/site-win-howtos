@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Keys: Effective Solutions for Malfunctioning Keyboard Lighting in Windows/Mac Systems"
-date: 2024-09-11T15:21:41.301Z
-updated: 2024-09-12T15:21:41.301Z
+date: 2024-12-19T19:55:50.335Z
+updated: 2024-12-22T18:49:40.006Z
 tags:
   - win11
   - win10
@@ -18,10 +18,7 @@ thumbnail: https://thmb.techidaily.com/e5cf76fbd383eaf326a40e9f47ba567bbfc7a6911
 If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, try methods in this post. Try each of these methods in order. See if the keys works after each method. Move on to next method if the issue still persists. After trying all methods, the issue should resolve.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 1: Uninstall Keyboard Driver in Device Manager**
@@ -37,10 +34,7 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd39ed6472.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Windows will prompt you to confirm the uninstallation. Click**OK**  button to continue.
@@ -49,10 +43,7 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
   
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Reboot your PC as soon as possible. Then Windows will load the keyboard driver automatically.
@@ -76,16 +67,7 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6e699f9b.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**   button next to the flagged keyboard device name to automatically download the correct version of those driver, then you can manually it install it (you can do this with the FREE version).
@@ -95,10 +77,7 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fc095f3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your laptop, and check to see if your keyboard works.
@@ -118,13 +97,6 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd7d0f3270.png)
   
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3\. In the**Name** list of services in the Details pane, double-click**Human Interface Device Access** , and then make sure that the Startup type is set to Automatic.  
 
@@ -149,5 +121,22 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/issue-resolved-how-to-overcome-windows-camera-error-code-0xa0-groovyf4292-and-get-back-to-snapshots/"><u>[Issue Resolved]: How to Overcome Windows Camera Error Code 0xA0 Groovyf4292 and Get Back to Snapshots</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-7-high-impact-workout-videos-that-engage-and-energize-audiences-for-2024/"><u>[New] 7 High-Impact Workout Videos That Engage and Energize Audiences for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-typing-troubles-learn-how-to-reconnect-your-wireless-keyboard-with-computer/"><u>Bluetooth Typing Troubles? Learn How to Reconnect Your Wireless Keyboard with Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/charge-rescue-for-pcs-fixing-the-plugged-in-not-charging-error-in-wndows-710/"><u>Charge Rescue for PCs: Fixing the 'Plugged In, Not Charging' Error in Wndows 7/10</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-samsung-galaxy-tab-s7plus-the-ultimate-high-end-tablet-experience/"><u>Expert Analysis of the Samsung Galaxy Tab S7+: The Ultimate High-End Tablet Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/find-the-start-button-on-windows-10/"><u>Find The Start Button on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/finding-companion-cameras-for-windows-hello-effortlessly/"><u>Finding Companion Cameras for Windows Hello Effortlessly</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-top-5-non-twitter-social-sites/"><u>In 2024, Top 5 Non-Twitter Social Sites</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-mkv-video-on-huawei-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Issues playing MKV video on Huawei</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-interviews-with-chatgpts-assistance-a-step-by-step-guide/"><u>Mastering the Art of Interviews with ChatGPT's Assistance - A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mejora-la-velocidad-de-codificacion-hevch265-consejos-para-acelerar-el-proceso/"><u>Mejora La Velocidad De Codificación HEVC/H.265: Consejos Para Acelerar El Proceso</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-free-top-10-best-online-video-editors-without-watermark/"><u>New In 2024, FREE Top 10 Best Online Video Editors without Watermark</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-steam-missing-files-issue-regain-your-full-game-access/"><u>Solving the Steam Missing Files Issue: Regain Your Full Game Access</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-ce-34878-0-playstation-4-error-message-updated-solution/"><u>Step-by-Step Fix for CE-34878-0 Playstation 4 Error Message [UPDATED SOLUTION]</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/stop-premiere-pro-2022-from-freezing-easy-solutions-and-tips-applied/"><u>Stop Premiere Pro 2022 From Freezing – Easy Solutions & Tips Applied</u></a></li>
+</ul></div>
 

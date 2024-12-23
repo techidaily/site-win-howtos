@@ -1,7 +1,7 @@
 ---
 title: How to Overcome 'Video File Can't Be Played' Problem with Error 22403
-date: 2024-09-05T10:12:43.576Z
-updated: 2024-09-06T10:12:43.576Z
+date: 2024-12-19T21:17:47.706Z
+updated: 2024-12-22T22:31:11.150Z
 tags:
   - win11
   - win10
@@ -28,51 +28,23 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-5.png)
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click **LAN settings**  under**Connection** pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Check on Automatically detect settings
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Now try to install Windows Updates now.
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
 
  Keep your proxy settings clean can prevent your system from navigating to many different and unresourceful servers. Go with the steps below to clean your proxy settings.
@@ -83,18 +55,6 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-2.png)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Clear Exceptions box if there were any content in it.
 
  Then click**OK** .
@@ -117,12 +77,6 @@ Find and click to open Command Prompt from Start menu.
 
 Now try to install Windows Updates now.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3\. Change DNS Servers
 
  If there were any issue of your ISP(Internet service provider), it could also lead to Error 0x8024402c. Change DNS Servers into public one can solve it.
@@ -133,6 +87,10 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Now Internet Connection window is open.
 
 Double-click on your active Network Adapter.
@@ -140,6 +98,10 @@ Double-click on your active Network Adapter.
  Then click **Properties**  and double-click on **Internet Protocol Version 4 (TCP/IPv4)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Locate Use the following DNS server addresses.
 
@@ -153,6 +115,10 @@ Double-click on your active Network Adapter.
 
 Now try to install Windows Updates now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4\. Configure Updates Client
 
 If the fixes above didn’t serve you, try this one.
@@ -165,28 +131,20 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
 
  Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
 
  a) Right-click on**Windows**  folder, then choose **New**  \> **Key** .
@@ -195,29 +153,21 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  b) Right-click on**WindowUpdate**  folder, then choose **New**  \> **Key** .
 
  And name the new key**A** **U** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
 
  Name the new value **UseWUServer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -225,14 +175,11 @@ After the fixes above, Windows Update should be good to go now.
 
 * [Windows Update](/tag-search/?tagId=62)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -241,4 +188,26 @@ After the fixes above, Windows Update should be good to go now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-cultivating-an-online-community-via-periscope/"><u>[Updated] 2024 Approved Cultivating an Online Community via Periscope</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-exploring-the-universe-of-gesture-technology/"><u>[Updated] 2024 Approved Exploring the Universe of Gesture Technology</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avoid-rdr2-crashes-due-to-high-memory-usage-tips-on-increasing-your-pagefile-size/"><u>Avoid RDR2 Crashes Due to High Memory Usage - Tips on Increasing Your Pagefile Size</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-walkthrough-correcting-windows-10s-troubling-update-bug-0x80240034/"><u>Complete Walkthrough: Correcting Windows 10'S Troubling Update Bug 0X80240034</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721468826927-enhance-your-4g5g-speeds-key-strategies-for-quicker-data-usage/"><u>Enhance Your 4G/5G Speeds: Key Strategies for Quicker Data Usage!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202021194-expert-advice-on-correcting-windows-update-failure-with-error-code-0x8024402c-learn-how-here/"><u>Expert Advice on Correcting Windows Update Failure with Error Code 0X8024402C - Learn How Here!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-troubleshooting-and-overcoming-windows-mysterious-blackout-problems/"><u>Expert Tips on Troubleshooting and Overcoming Windows' Mysterious Blackout Problems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/freemake/"><u>Freemakeを使用したビデオ変換: ロゴ除去手順解説</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-error-43-resolved-and-fixed/"><u>GPU Error 43: Resolved and Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hid-integrity-rectified-missing-touch-element/"><u>HID Integrity: Rectified Missing Touch Element</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/obs-vs-shadowplay-the-streaming-software-showdown/"><u>Obs vs ShadowPlay The Streaming Software Showdown</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-honor-x50-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor X50 Black and White | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Set Your Preferred Job Location on LinkedIn App of your Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/sfc-and-dism-windows-10-repair-options/"><u>SFC and DISM: Windows 10 Repair Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-restoring-icon-order-in-windows/"><u>Tips for Restoring Icon Order in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-stuck-spacebar-key-under-windows-10/"><u>Troubleshooting a Stuck Spacebar Key Under Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-techniques-for-fixing-laptop-mouse-freezing-issues/"><u>Troubleshooting Techniques for Fixing Laptop Mouse Freezing Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-wont-update-discover-the-steps-to-resolve-update-freezing-issues/"><u>Windows 10 Won’t Update? Discover the Steps to Resolve Update Freezing Issues</u></a></li>
+</ul></div>
 

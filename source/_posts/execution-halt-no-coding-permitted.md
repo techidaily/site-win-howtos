@@ -1,7 +1,7 @@
 ---
 title: "Execution Halt: No Coding Permitted"
-date: 2024-09-11T15:21:01.537Z
-updated: 2024-09-12T15:21:01.537Z
+date: 2024-12-16T18:08:53.953Z
+updated: 2024-12-22T20:46:04.950Z
 tags:
   - win11
   - win10
@@ -19,13 +19,6 @@ If you’re getting so annoyed with**the** **PUBG lag** issue, you’re not alon
 
  But don’t worry – check out the following 5 steps below and you can make all the difference…
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5 fixes for PUBG lag
 
  All the steps below work in Windows 10\. Just work your way down the list to reduce lag:
@@ -35,19 +28,6 @@ If you’re getting so annoyed with**the** **PUBG lag** issue, you’re not alon
 3. **[Lower your game resolution](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your graphics drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Change the power option and adjust for best performance](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Run PUBG in windowed full screen
 
@@ -69,22 +49,12 @@ If you’re getting so annoyed with**the** **PUBG lag** issue, you’re not alon
 3. After that, we can also prioritize PUBG. Click the**Details** tab, right-click on your**PUBG** and click**Set priority** \>**High** .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Start a game in PUBG and see if the lag issues have been fixes. If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Lower your game resolution
 
@@ -114,6 +84,10 @@ Running PUBG in a lower resolution can also help in fixing lag:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -123,10 +97,7 @@ Running PUBG in a lower resolution can also help in fixing lag:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Change the power option and adjust for best performance
@@ -140,18 +111,21 @@ So to tweak the settings:
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Choose the **High performance** option.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
 3. In the top-right corner of the window, type **advanced**  and click **View advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c503626f65.jpg)
 4. Click **Adjust for best performance** \> **Apply** \> **OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c50b65a2ed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c50b65a2ed.jpg)
 
 ---
 
@@ -173,5 +147,20 @@ So to tweak the settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-is-optimal-hdr-with-aurora-worth-it/"><u>[Updated] Is Optimal HDR with Aurora Worth It?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-discover-the-ultimate-camcorders-for-your-windows-system/"><u>2024 Approved Discover the Ultimate Camcorders for Your Windows System</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-elevate-your-listening-experience-top-10-audio-compressors-and-expanders-for-windows-2-written-by-an-ai-developer/"><u>2024 Approved Elevate Your Listening Experience Top 10 Audio Compressors and Expanders for Windows (2 Written by an AI Developer)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209036577-clear-up-fuzzy-display-on-your-windows-11-screen-quick-fixes-inside/"><u>Clear Up Fuzzy Display on Your Windows 11 Screen - Quick Fixes Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/elevate-your-esports-skills-with-these-windows-11-tweaks-for-peak-performance/"><u>Elevate Your Esports Skills with These Windows 11 Tweaks for Peak Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fix-halo-4s-ue4-fatal-glitch-causing-collapses-gaming-experience/"><u>Guide to Fix Halo 4'S UE4 Fatal Glitch Causing Collapses Gaming Experience</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-v29e-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Vivo V29e?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-symphony-in-softness-playback-reduction-guide/"><u>In 2024, Symphony in Softness Playback Reduction Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/invisible-sd-be-seen-fixes-abound/"><u>Invisible SD, Be Seen! Fixes Abound</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-ai-conversations-unlock-these-5-strategies-to-use-chatgpt-anonymously/"><u>Navigating AI Conversations: Unlock These 5 Strategies to Use ChatGPT Anonymously</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/securing-a-smooth-win11-performance/"><u>Securing a Smooth Win11 Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-the-hamachi-service-stopped-hiccup/"><u>Troubleshooting Guide: Fixing the 'Hamachi Service Stopped' Hiccup</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-the-power-of-zoom-with-your-chrome-os-device/"><u>Unlocking the Power of Zoom with Your Chrome OS Device</u></a></li>
+</ul></div>
 

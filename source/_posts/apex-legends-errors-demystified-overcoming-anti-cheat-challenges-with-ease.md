@@ -1,7 +1,7 @@
 ---
 title: "Apex Legends Errors Demystified: Overcoming Anti-Cheat Challenges with Ease"
-date: 2024-09-11T15:20:47.585Z
-updated: 2024-09-12T15:20:47.585Z
+date: 2024-12-17T22:23:49.977Z
+updated: 2024-12-22T20:02:41.963Z
 tags:
   - win11
   - win10
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
 
 You may encounter an error with a code of **1603** when you are attempting to install something on your Windows. The error message is basically something like “**Error: -1603 Fatal error during installation.**” It usually occurs when you are using a Windows Installer package to install the program. You can try the methods below that can be help you fix the error. **1)[Change installation location](https://tools.techidaily.com/drivereasy/download/)**   **2) [Completely uninstall the same program installed](https://tools.techidaily.com/drivereasy/download/)**   **3)[Start and re-register Microsoft Installer service](https://tools.techidaily.com/drivereasy/download/)**   **4)[Acquire full permissions on the drive for installation](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1) Change installation location
 
 You may encounter an error 1603 because the installation location is you choose is not available due to various reasons — such as being encrypted. You can use another installation folder to install the program and see if the error is gone.
@@ -36,19 +29,6 @@ If you have previously installed the same program (or its earlier version), the 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9bf012d25.png)
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Find and open**Programs and Features**;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9c81105c5.png)
@@ -58,17 +38,7 @@ Then you can check if the application is listed here. If it is, uninstall it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9d00544d7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3) Start and re-register Microsoft Installer service
@@ -77,23 +47,9 @@ There may be something going wrong with**Microsoft Installer service**and theref
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca68fd8714.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **b)** Find and double click on**Windows Installer**;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca70c399c1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **c)** Hit**Start**button under**Service status**and hit**OK**. (If its service status is**running**, you should click on**Stop**first and then hit**Start**.)
 
@@ -104,10 +60,7 @@ To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**m
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9370d810.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **b)** Press**Win + R** again and enter “ _**msiexec /regserve** **r**_ “.
@@ -115,10 +68,7 @@ To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**m
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9952ad21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4) Acquire full permissions on the drive for installation
@@ -131,27 +81,21 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595caf24696ae.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)** Single click on **SYSTEM**and ensure that the**Allow**box of every item in**Permissions for SYSTEM** is checked (if it is checkable). Do the same check for**Administrators**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb123f210b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **d)** Click on**OK**to go back to**Properties**dialog. Then click on**Advanced**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb3cf25a0c.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **e)** Click on**Change Permissions**.
 
@@ -161,9 +105,17 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb67382950.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **g)** Select**This folder, subfolders and files**for**Applies to**field and**tick** **all the available basic permissions**. After that hit**OK**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb7074c180.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **h)** Do the same operation above for**SYSTEM**.
 
@@ -186,5 +138,22 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-how-to-minimize-stress-in-ipad-screen-recordings-heres-a-way-for-2024/"><u>[New] How to Minimize Stress in iPad Screen Recordings? Here's a Way for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-achieve-flawless-imagery-how-to-remove-backgrounds-on-canva/"><u>[Updated] Achieve Flawless Imagery How to Remove Backgrounds on Canva</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-banishing-bogus-followers-from-instagram-landscape/"><u>[Updated] In 2024, Banishing Bogus Followers From Instagram Landscape</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-hack-for-bulk-selecting-messages-within-gmail-interface/"><u>Expert Hack for Bulk Selecting Messages Within Gmail Interface</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/fix-issue-unable-to-execute-file-in-the-temporary-directory-setup-aborted-error-5-access-is-denied/"><u>Fix Issue: “Unable to Execute File in the Temporary Directory. Setup Aborted. Error 5: Access Is Denied.”</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-user-profile-service-failed-to-sign-in-error-on-windows-pcs/"><u>Fixing the 'User Profile Service Failed to Sign In' Error on Windows PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-persistent-0x8024402c-error-during-your-windows-updates-complete-guide/"><u>Fixing the Persistent 0X8024402C Error During Your Windows Updates - Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/improve-scanner-connectivity-with-epson-solutions/"><u>Improve Scanner Connectivity with Epson Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-pinnacle-montage-apps-androidiphones-creative-powerhouses/"><u>In 2024, Pinnacle Montage Apps Android/iPhone's Creative Powerhouses</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210757311-netflix-not-working-diagnose-and-solve-common-streaming-problems-today/"><u>Netflix Not Working: Diagnose & Solve Common Streaming Problems Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-dilemma-step-by-step-guide-to-overcoming-glexttexturecompression-level-compression-format-opengl-error-1281/"><u>Resolving the Dilemma: Step-by-Step Guide to Overcoming GL_EXT_texture_compression Level Compression Format OpenGL Error #1281</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-continuous-shutdown-restart-cycles-for-windows-10-computers/"><u>Troubleshoot Continuous Shutdown-Restart Cycles for Windows 10 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-mouse-fixing-right-click-issues-on-windows-11/"><u>Troubleshooting the Mouse: Fixing Right-Click Issues on Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-huge-advancements-a-comprehensive-look-at-the-elegoo-saturn-4-ultra-resin-printer/"><u>Unveiling Huge Advancements: A Comprehensive Look at the Elegoo Saturn 4 Ultra Resin Printer</u></a></li>
+</ul></div>
 

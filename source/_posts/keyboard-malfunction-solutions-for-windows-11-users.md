@@ -1,7 +1,7 @@
 ---
 title: Keyboard Malfunction Solutions for Windows 11 Users
-date: 2024-09-11T15:20:05.266Z
-updated: 2024-09-12T15:20:05.266Z
+date: 2024-12-16T22:44:05.174Z
+updated: 2024-12-22T17:16:46.191Z
 tags:
   - win11
   - win10
@@ -20,10 +20,7 @@ thumbnail: https://thmb.techidaily.com/1040d06f8d0aa10730551351f9cb44d3bcea699d8
  The**print screen key stops working** when you want to capture your screen? You would be very frustrated. But don’t panic. You can easily fix this problem and print your screen.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -37,16 +34,7 @@ thumbnail: https://thmb.techidaily.com/1040d06f8d0aa10730551351f9cb44d3bcea699d8
 5. **[Bonus Tip](#additional)**
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your keyboard driver
@@ -71,10 +59,7 @@ thumbnail: https://thmb.techidaily.com/1040d06f8d0aa10730551351f9cb44d3bcea699d8
 ```` ```` Try to press**F Mode** key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-3.png) or**F Lock** key![](https://images.drivereasy.com/wp-content/uploads/2017/04/1-2.png) (when there are such keys on your keyboard, if not, please skip this fix), then check if the Print Screen works. That’s because such keys may prevent you from using print screen key.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ```` ````
@@ -89,19 +74,6 @@ thumbnail: https://thmb.techidaily.com/1040d06f8d0aa10730551351f9cb44d3bcea699d8
 
 ```` ```` ````
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Update your operating system
 
 `` Check if your operating system is up-to-date.
@@ -111,23 +83,11 @@ thumbnail: https://thmb.techidaily.com/1040d06f8d0aa10730551351f9cb44d3bcea699d8
 2. Now on Windows Update Windows, you can check if there are any available updates for your window. If yes, install the updates and try to print screen again.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Bonus Tip
@@ -153,5 +113,26 @@ thumbnail: https://thmb.techidaily.com/1040d06f8d0aa10730551351f9cb44d3bcea699d8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-dissecting-screencapturex-pros-latest-recording-capabilities/"><u>[Updated] 2024 Approved Dissecting ScreenCaptureX Pro's Latest Recording Capabilities</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-comprehensive-breakdown-of-zd-soft-recording-features/"><u>[Updated] Comprehensive Breakdown of ZD Soft Recording Features</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-logitech-g510-gamepad-drivers-compatible-with-windows-7-8-and-10/"><u>Download the Latest Logitech G510 Gamepad Drivers: Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-fixing-cast-to-device-failures-in-windows-10-systems/"><u>Effective Solutions for Fixing 'Cast to Device' Failures in Windows 10 Systems</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-fusion-combining-videos-for-a-unified-youtube-presence-for-2024/"><u>Fluid Fusion Combining Videos for a Unified Youtube Presence for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-your-rockstar-games-launcher-running-smoothly-pro-tips-edition/"><u>Get Your Rockstar Games Launcher Running Smoothly: Pro Tips Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-your-webcam-back-on-track-a-guide-for-hp-laptops-on-windows-10/"><u>Getting Your Webcam Back on Track: A Guide for HP Laptops on Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hps-greatest-seasonal-discounts-for-the-holidps-a-comprehensive-guide-curated/"><u>HP's Greatest Seasonal Discounts for the Holidps - A Comprehensive Guide | Curated</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-tecno-camon-20-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Tecno Camon 20 Pro 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-user-profile-service-failure-during-sign-in-on-windows-1011-a-step-by-step-guide/"><u>Resolving 'User Profile Service' Failure During Sign-In on Windows 10/11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-sound-setbacks-astro-a40-microphone-not-working-guide/"><u>Resolving Sound Setbacks: Astro A40 Microphone Not Working Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-windows-11-touch-screen-effective-fixes-you-must-know-5/"><u>Revive Your Windows 11 Touch Screen: Effective Fixes You Must Know (5)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-persistent-usb-mouse-connection-issues-a-comprehensive-guide/"><u>Solving Persistent USB Mouse Connection Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-the-troublesome-red-screen-in-windows-10/"><u>Step-by-Step Guide: Repairing the Troublesome Red Screen in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205491215-troubleshooting-nonfunctional-usb-ports-on-windows-1011-fixed/"><u>Troubleshooting Nonfunctional USB Ports on Windows 10/11 - Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723201556389-troubleshooting-overwatch-voice-chat-malfunctions-simple-solutions/"><u>Troubleshooting Overwatch Voice Chat Malfunctions: Simple Solutions!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-tips-and-tricks-for-seamless-music-video-and-photo-transfers-with-winx-mediatrans/"><u>Ultimate Tips & Tricks for Seamless Music, Video & Photo Transfers with WinX MediaTrans</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-system-check-ensuring-your-computer-meets-premiere-pros-requirements/"><u>Updated In 2024, System Check Ensuring Your Computer Meets Premiere Pros Requirements</u></a></li>
+</ul></div>
 

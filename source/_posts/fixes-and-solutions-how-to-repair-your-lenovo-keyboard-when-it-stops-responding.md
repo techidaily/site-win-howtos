@@ -1,7 +1,7 @@
 ---
 title: "Fixes & Solutions: How to Repair Your Lenovo Keyboard When It Stops Responding"
-date: 2024-09-11T15:19:53.846Z
-updated: 2024-09-12T15:19:53.846Z
+date: 2024-12-18T21:07:00.430Z
+updated: 2024-12-22T18:29:49.696Z
 tags:
   - win11
   - win10
@@ -24,16 +24,7 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
  But no worries, it’s not at all a hard question to solve. Here are 4 options for you to try. You may not have to try them all; just work your way down until you find the one that works for you. Let’s get started!
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Table of contents
@@ -48,10 +39,7 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
  If the sticking problem happens only under certain circumstances, for instance, you only notice it when typing in certain programs or web pages, your keyboard may not be at fault. The problem could be software bugs or poor network connection. Rule out this possibility first before you move on.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Check keyboard connection
@@ -63,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 * If you’re using a wireless keyboard, make sure that the batteries in your keyboard are working, or try to use new batteries.
 * Also, make sure that the keyboard receiver is well-connected as well.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Check for possible viruses
 
  Among all the possible reasons why your keyboard is sticking, virus infection or malware is one of the biggest possibilities. Try to update your anti-virus programs and run a full scan with them.
@@ -79,16 +60,7 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 **IMPORTANT** : You should never disable Windows Defender, the built-in anti-virus program in Windows, especially in Windows 10 OS where it has become stronger and more comprehensive.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Install the correct keyboard driver
@@ -105,28 +77,16 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-50.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the flagged keyboard to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-45.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Clean the keyboard
@@ -154,5 +114,21 @@ If you haven’t cleaned your keyboard, in like forever, do it now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-unwanted-high-cpu-load-mitigated-by-windows-stops/"><u>[FIXED] Unwanted High CPU Load Mitigated by Windows Stops</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-professional-gamcapture-tools-and-tactics-for-quality-content-for-2024/"><u>[New] Professional GamCapture Tools and Tactics for Quality Content for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-elite-screen-recording-apps-of-2023-expert-picks/"><u>[Updated] Elite Screen Recording Apps of 2023 - Expert Picks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-perfecting-audio-records-with-our-step-by-step-guide/"><u>2024 Approved Perfecting Audio Records with Our Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209031169-fix-error-0x887a0006-instantly-effortless-fix-techniques-unveiled/"><u>Fix Error 0X887A0006 Instantly: Effortless Fix Techniques Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-silence-solutions-for-forza-horizon-4-audio-issues/"><u>Fixing the Silence: Solutions for 'Forza Horizon 4' Audio Issues</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317219-9781401929978-how-my-death-saved-my-life/"><u>How My Death Saved My Life | Free Book</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-detect-and-connect-overlooked-seagate-drive-in-w10/"><u>How To Detect & Connect Overlooked Seagate Drive in W10</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-plus-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Plus to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-top-family-vehicle-entertainment-adventures/"><u>In 2024, Top Family Vehicle Entertainment Adventures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-directory-name-not-recognized-issue-comprehensive-solutions/"><u>Resolving the 'Directory Name Not Recognized' Issue - Comprehensive Solutions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721468896420-say-goodbye-to-yellow-tinted-iphones-discover-9-effective-methods/"><u>Say Goodbye to Yellow Tinted iPhones - Discover 9 Effective Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202531697-shift-key-issues-discover-effective-fixes-and-solutions/"><u>Shift Key Issues? Discover Effective Fixes and Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-for-fixing-device-manager-error-code-28-on-your-windows-pc/"><u>Step-by-Step Guide for Fixing ‘Device Manager Error Code 28’ on Your Windows PC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Individual Preferences Panel Fixed: Responsiveness Issue Solved Successfully"
-date: 2024-09-05T10:12:59.195Z
-updated: 2024-09-06T10:12:59.195Z
+date: 2024-12-20T16:27:31.264Z
+updated: 2024-12-22T21:17:19.479Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Individual Preferences Panel Fixed: Responsiven
 thumbnail: https://thmb.techidaily.com/8ce47f0b6f9813f5bc22a10ae1035723a396d6df9ac3890df3f71584e5d0f8e3.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Successfully Resolve Error Code 0X80ebbbb on Windows Updates - Proven Techniques Inside
 
 **Error 0x8024402c** , occurs when checking for Windows Updates. It could be caused by invalid network settings, update settings and LAN settings. Here in this post, 4 useful fixes to Error 0x8024402c will being shown to you.
@@ -34,33 +28,23 @@ thumbnail: https://thmb.techidaily.com/8ce47f0b6f9813f5bc22a10ae1035723a396d6df9
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click **LAN settings**  under**Connection** pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Check on Automatically detect settings
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-1.png)
 
 Now try to install Windows Updates now.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
 
  Keep your proxy settings clean can prevent your system from navigating to many different and unresourceful servers. Go with the steps below to clean your proxy settings.
@@ -71,12 +55,6 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Clear Exceptions box if there were any content in it.
 
  Then click**OK** .
@@ -84,11 +62,9 @@ Now try to install Windows Updates now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6) Exit Internet Explorer and run Command Prompt.
 
 Find and click to open Command Prompt from Start menu.
@@ -105,12 +81,6 @@ Find and click to open Command Prompt from Start menu.
 
 Now try to install Windows Updates now.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3\. Change DNS Servers
 
  If there were any issue of your ISP(Internet service provider), it could also lead to Error 0x8024402c. Change DNS Servers into public one can solve it.
@@ -121,6 +91,10 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Now Internet Connection window is open.
 
 Double-click on your active Network Adapter.
@@ -129,12 +103,6 @@ Double-click on your active Network Adapter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Locate Use the following DNS server addresses.
 
  Set**Preferred DNS server** to be**8.8.8.8**
@@ -147,12 +115,6 @@ Double-click on your active Network Adapter.
 
 Now try to install Windows Updates now.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4\. Configure Updates Client
 
 If the fixes above didn’t serve you, try this one.
@@ -165,9 +127,17 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
 
@@ -190,11 +160,9 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
 
  Name the new value **UseWUServer** .
@@ -207,14 +175,11 @@ After the fixes above, Windows Update should be good to go now.
 
 * [Windows Update](/tag-search/?tagId=62)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -223,4 +188,24 @@ After the fixes above, Windows Update should be good to go now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ow-to-remove-background-noise-from-your-youtube-video-for-2024/"><u>[New] How To Remove Background Noise From Your YouTube Video for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-journey-through-powerdirector-2024-complete-review-and-walkthrough/"><u>[New] Journey Through PowerDirector 2024 Complete Review & Walkthrough</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rofessional-thumbnail-tactics-dos-and-donts-guidebook-for-2024/"><u>[New] Professional Thumbnail Tactics Do's and Don'ts Guidebook for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-caption-implementation-essentials/"><u>2024 Approved YouTube Caption Implementation Essentials</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-struggles-top-tricks-for-seamless-pairing-with-windows-11-update-insights/"><u>Bluetooth Struggles? Top Tricks for Seamless Pairing with Windows 11 - Update Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-guide-to-overcome-installation-setbacks-solving-error-1603/"><u>Complete Guide to Overcome Installation Setbacks: Solving Error 1603</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-fixes-for-when-your-lenovo-fingerprint-recognition-stops-working/"><u>Effortless Fixes for When Your Lenovo Fingerprint Recognition Stops Working</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-eliminating-crackling-sounds-from-pc-speakers-on-windowss/"><u>Expert Advice: Eliminating Crackling Sounds From PC Speakers on Windowss</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-dirty-volume-problem-with-code-0x80071ac3-on-your-pc/"><u>Fixing the Dirty Volume Problem with Code 0X80071AC3 on Your PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-xiaomi-redmi-note-12-proplus-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Xiaomi Redmi Note 12 Pro+ 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-15-pro-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 15 Pro Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lag-free-gaming-in-pubg-the-definitive-guide-to-best-performance-tweaks/"><u>Lag-Free Gaming in PUBG: The Definitive Guide to Best Performance Tweaks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-fix-permanent-solutions-for-pc-players-struggling-with-slime-rancher-2-downloads/"><u>Mastering the Fix: Permanent Solutions for PC Players Struggling with Slime Rancher 2 Downloads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quantity-of-videos-on-128gb-storage-media/"><u>Quantity of Videos on 128GB Storage Media</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/sparking-interest-with-the-top-8-most-effective-youtube-thumbnails-for-2024/"><u>Sparking Interest with the Top 8 Most Effective YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-strategies-to-overcome-and-prevent-error-0x8000ffff-from-crashing-your-windows-system/"><u>Top Strategies to Overcome and Prevent Error 0X8000ffff From Crashing Your Windows System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/xbox-one-controller-woes-heres-how-to-fix-connection-issues/"><u>Xbox One Controller Woes? Here’s How to Fix Connection Issues</u></a></li>
+</ul></div>
 

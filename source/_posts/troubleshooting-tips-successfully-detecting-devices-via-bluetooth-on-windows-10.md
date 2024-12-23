@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Successfully Detecting Devices via Bluetooth on Windows 10"
-date: 2024-12-12T20:45:27.589Z
-updated: 2024-12-13T21:17:33.571Z
+date: 2024-12-16T19:17:56.684Z
+updated: 2024-12-22T17:46:49.436Z
 tags:
   - win11
   - win10
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874575aaf653.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**View all** in the left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874579e7f5b6.jpg)
@@ -51,31 +55,27 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587457ec45cf7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click**Advanced** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58748718cdfdb.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Click**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745856da0c3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Click the **Next** button. Then the troubleshoot will detect the problems and fix them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874588bebf3f.png)
 
 8) Check to see if you see the 0x800705b4 error in Windows Update.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 2: Change Windows Update Settings**
 
@@ -92,16 +92,12 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745aa5541bd.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Clear option **Give me updates for other Microsoft products when I update Windows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745b19a3f8e.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer.
 
@@ -112,7 +108,7 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587487b4f0856.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Re-select option   **Give me updates for other Microsoft products when I update Windows**  .
@@ -124,7 +120,7 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587487e7dd051.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 3: Delete Some Related Files**
@@ -134,10 +130,6 @@ Follow these steps:
  1) Type**services** in Cortana and click**Services** on the pop-up menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58746e74d3054.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Right-click**Background Intelligent Transfer Service** then select**Stop** .
 
@@ -150,6 +142,10 @@ Follow these steps:
  4) Open **Windows Explorer** and navigate to “**C:\\Windows\\SoftwareDistribution** “.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874704edc0c2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Delete all the content in this folder. (Some files may not be deleted, in this case, go back to Step 3 and try again. Just ensure to delete “Download” and “DeliveryOptimation”.)
 
@@ -178,11 +174,15 @@ There are 2 ways to solve it. Here’s how:
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -196,6 +196,10 @@ There are 2 ways to solve it. Here’s how:
  2) Type **cmd** and press **Shift** +**Ctrl** +**Enter** together on your keyboard to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap825.jpg)
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Type **sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
@@ -228,10 +232,6 @@ There are 2 ways to solve it. Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-441.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Hopefully methods here will help you resolve the 0x800705b4 error. If you have any questions, please feel free to leave your comments. I’d love to hear of any suggestions or ideas.
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -251,21 +251,21 @@ There are 2 ways to solve it. Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-how-to-share-screen-on-facebook-live/"><u>[New] In 2024, How to Share Screen on Facebook Live?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-elevate-every-shot-the-leaderboard-of-androids-5-best-photo-apps/"><u>[Updated] Elevate Every Shot The Leaderboard of Android's 5 Best Photo Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beating-the-blues-overcoming-update-failed-hurdles-in-warframe-solved/"><u>Beating the Blues: Overcoming 'Update Failed' Hurdles in Warframe – Solved!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-look-at-the-samsung-galaxy-a20-quality-on-a-budget/"><u>Comprehensive Look at the Samsung Galaxy A20: Quality on a Budget</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-your-tecno-spark-20-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Tecno Spark 20 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Tecno Pop 8? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-aoc-monitor-detection-errors-on-windows-11-pcs/"><u>Overcoming AOC Monitor Detection Errors on Windows 11 PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-common-problems-with-laptop-microphones/"><u>Quick Fixes for Common Problems with Laptop Microphones</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/clip-genius/"><u>QuickClip Genius</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-dreaded-twitch-error-code-4000-a-step-by-step-guide/"><u>Resolving the Dreaded Twitch Error Code 4000: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-10-stuck-updates-effective-methods-unveiled/"><u>Resolving Windows 10 Stuck Updates: Effective Methods Unveiled</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/rmvb-a-mp4-convertissez-vos-videos-gratuitement-et-facilement-avec-movavi/"><u>RMVB À MP4 : Convertissez Vos Vidéos Gratuitement Et Facilement Avec Movavi</u></a></li>
-<li><a href="https://extra-information.techidaily.com/secrets-to-stunning-fisheye-sphere-photography/"><u>Secrets to Stunning Fisheye Sphere Photography</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/world-of-warcraft-redefined-exclusive-use-of-3d-acceleration/"><u>World of Warcraft Redefined: Exclusive Use of 3D Acceleration</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/write-protected-disk-fix-a-comprehensive-solution-for-usb-sd-card-and-cd-issues-in-windows-os/"><u>Write-Protected Disk Fix: A Comprehensive Solution for USB, SD Card & CD Issues in Windows OS</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-perfect-tripod-positioning-for-quality-vlogs/"><u>[New] 2024 Approved Perfect Tripod Positioning for Quality Vlogs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-go-backwards-a-step-by-step-for-reversing-youtube-videos-for-2024/"><u>[New] Go Backwards A Step-by-Step for Reversing YouTube Videos for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-upload-tweets-no-retweets-on-mobile/"><u>[New] How to Upload Tweets - No Retweets on Mobile?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-navigating-microsoft-azure-for-text-conversion/"><u>[New] In 2024, Navigating Microsoft Azure for Text Conversion</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-metaverse-visibility-your-step-by-step-avatar-design-for-2024/"><u>[New] Metaverse Visibility Your Step-by-Step Avatar Design for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-toonsmax-app-insight-comprehensive-review-2024/"><u>[New] ToonsMax App Insight - Comprehensive Review 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-clicks-to-cash-the-systematic-triple-pathway-for-youtube-revenue-tracking/"><u>[Updated] From Clicks to Cash The Systematic Triple Pathway for YouTube Revenue Tracking</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-the-problem-of-applicationexe-suddenly-crashing-and-how-to-fix-it/"><u>Addressing the Problem of 'Application.exe' Suddenly Crashing and How to Fix It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-overcoming-usb-connection-problems-and-port-resets-on-your-windows-10-computer/"><u>Comprehensive Guide: Overcoming USB Connection Problems and Port Resets on Your Windows 10 Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/football-manager-2022-pc-freezing-issues-how-to-fix-them/"><u>Football Manager 2022 PC Freezing Issues: How to Fix Them</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-fixing-motion-detection-problems-in-hp-laptops-for-windows-users/"><u>Guide: Fixing Motion Detection Problems in HP Laptops for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-implement-windows-feature-update-version-1903-without-glitches/"><u>How to Successfully Implement Windows Feature Update Version 1903 Without Glitches</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-galactic-territories-an-experts-guide-to-playing-stellaris/"><u>Navigating Galactic Territories: An Expert's Guide to Playing Stellaris</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-store-loading-problems-heres-how-to-fix-them-easily/"><u>Steam Store Loading Problems? Here's How to Fix Them Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-volume-buttons-in-windows-11-solved/"><u>Troubleshooting Non-Functional Volume Buttons in Windows 11 – Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-restoring-asus-webcam-functionality-under-windows-10/"><u>Troubleshooting Steps for Restoring ASUS Webcam Functionality Under Windows 10</u></a></li>
 </ul></div>
 

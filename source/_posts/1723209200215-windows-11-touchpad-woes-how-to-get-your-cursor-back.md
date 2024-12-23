@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Touchpad Woes? How to Get Your Cursor Back!
-date: 2024-09-11T15:22:27.682Z
-updated: 2024-09-12T15:22:27.682Z
+date: 2024-12-21T00:08:56.222Z
+updated: 2024-12-22T22:00:14.643Z
 tags:
   - win11
   - win10
@@ -21,13 +21,6 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 
  No panic any more. Here in this post, we will be showing you the tried-and-true **methods to fix touchpad scroll not working issue on Windows 10** . Actually, the methods also suits for other Windows operating system. Go on with the methods and make sure to try next if the only one didn’t help you.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1\. Roll back your touchpad driver to an earlier version
 
  Many users fix their touchpad not scrolling issue by rolling back the driver. Follow the steps below.
@@ -39,19 +32,16 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)  
 
  Find and expand**Mice and other pointing devices** dialog.  
  Then right-click on you touchpad driver to choose**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3)  
 
@@ -61,24 +51,22 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
 
@@ -93,10 +81,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) After scanning, you have 2 options.
@@ -106,13 +91,6 @@ Then click **Device Manager**  to open it.
 **Option 2.**   Install all the correct drivers automatically in just one-go with **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . No worry to try it as it comes with a no-questions-asked **30-day money-back guarantee**  and **professional tech support**  24/7.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
 
@@ -134,5 +112,19 @@ Then click **Device Manager**  to open it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-6-proven-techniques-to-elevate-your-youtube-engagement-and-reduce-churn/"><u>[New] 2024 Approved 6 Proven Techniques to Elevate Your YouTube Engagement and Reduce Churn</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-elite-10-add-ons-to-elevate-terria/"><u>[New] Elite 10 Add-Ons to Elevate Terria</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-high-precision-with-hp-envy-27-monitor/"><u>[New] Exploring High Precision with HP Envy 27 Monitor</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-influencing-now-top-10-hashtags-for-your-next-post/"><u>2024 Approved Influencing Now Top 10 Hashtags for Your Next Post</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/crack-the-code-to-update-success-a-user-friendly-guide-for-eliminating-error-0x8024002e-in-windows-updates/"><u>Crack the Code to Update Success: A User-Friendly Guide for Eliminating Error 0X8024002E in Windows Updates</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-techniques-for-taking-off-and-installing-new-glass-on-phone-screens/"><u>DIY Techniques for Taking Off and Installing New Glass on Phone Screens</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-troubleshooting-for-feature-level-100-error-in-wwe-2k-battlegrounds-gameplay/"><u>Effective Troubleshooting for Feature Level 10.0 Error in WWE 2K Battlegrounds Gameplay</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-tecno-spark-10-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Tecno Spark 10 Pro?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-svchostexes-excessive-cpu-drain-in-windows-10-comprehensive-fixes/"><u>Resolving svchost.exe's Excessive CPU Drain in Windows 10 - Comprehensive Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/system-setup-successful-yet-missing-interaction/"><u>System Setup Successful, Yet Missing Interaction</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-chromium-connection-pixel-phone-rhythms/"><u>The Chromium Connection Pixel Phone Rhythms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-dealing-with-constant-errors-of-unrecognized-usb-devices/"><u>Troubleshooting Tips: Dealing with Constant Errors of Unrecognized USB Devices</u></a></li>
+</ul></div>
 

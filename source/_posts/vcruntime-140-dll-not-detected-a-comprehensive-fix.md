@@ -1,7 +1,7 @@
 ---
 title: VCRuntime 140 DLL Not Detected - A Comprehensive Fix
-date: 2024-12-12T21:42:34.001Z
-updated: 2024-12-13T20:10:23.886Z
+date: 2024-12-18T16:35:22.986Z
+updated: 2024-12-22T19:33:50.019Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ If your **Xbox One won’t connect to Xbox Live**, don’t worry. There’re**fo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Hard reset your Xbox One and modem
 
 Sometimes a hard-reset can help you fix some strange problems. A hard-reset of Xbox One controller and modem helps many users fix the Xbox One not connecting to Xbox Live error. So make sure to give it a shot.
@@ -40,7 +44,11 @@ Sometimes a hard-reset can help you fix some strange problems. A hard-reset of X
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fcebec23ca.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to hard reset your modem
@@ -49,11 +57,11 @@ Sometimes a hard-reset can help you fix some strange problems. A hard-reset of X
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd1c2b6433.jpg)
 
-2) Release your hands and wait till the power light is steady. Now try to see if your Xbox One could be connected to Xbox Live.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+2) Release your hands and wait till the power light is steady. Now try to see if your Xbox One could be connected to Xbox Live.
 
 ## Method 2: Change IP settings and DNS settings on Xbox Live
 
@@ -65,20 +73,20 @@ The IP settings and DNS settings could also have an effect on the connection bet
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd828a1cb4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Go on to click**Advanced settings**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd893e389f.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Click**IP settings**and set it to be**Automatic**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd9129d434.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Now it’s back to Advanced settings. This time click**DNS settings**and set it to be**Automatic**.
@@ -91,19 +99,15 @@ Now try to connect your Xbox one to Xbox Live.
 
 1) On your keyboard, press the **Windows logo key** +**R**key together to invoke the Run box. 2) Enter**services.msc**in the box and click**OK**.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599f8eede7987.png)3) Scroll down on the open Services window. Find and right click on**Xbox Live Networking Service**. Then select**Properties**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdf18958ed.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) On Gerenal pane, set its Startup type to **Automatic** from the drop-down menu. Then click**Apply**\>**OK**to save your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdeb828a6c.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Now it’s back on Services window, right-click on**Xbox Live Networking Service**again. This time select**Start**.**Note:**If the Start option grayed out, select**Restart**instead.
 
@@ -112,10 +116,6 @@ Now try to connect your Xbox one to Xbox Live.
 Go on to do the same settings for**Xbox Live Auth Manager**and**Xbox Live Game Save**via the same steps above. They’re ussually listed closed to Xbox Live Networking Service.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fe022a60ab.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Update your network adapter driver and Xbox One controller driver
 
@@ -146,22 +146,19 @@ After updating the drivers, please restart your computer to make the new drivers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-capturing-facebook-hd-videos-for-later-use-for-2024/"><u>[New] Capturing Facebook HD Videos for Later Use for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-enhance-your-livestream-quality-learn-4-innovative-techniques-for-2024/"><u>[New] Enhance Your Livestream Quality Learn 4 Innovative Techniques for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-the-shifts-essential-insights-on-future-facebook-ads-24/"><u>[New] Navigating the Shifts Essential Insights on Future Facebook Ads '24</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-your-gateway-to-metaverse-mastery-the-best-tech-in-short-form-for-2024/"><u>[New] Your Gateway to Metaverse Mastery - The Best Tech in Short Form for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-full-overview-of-installing-wm6/"><u>[Updated] 2024 Approved Full Overview of Installing WM6</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bright-ideas-for-restoring-functionality-and-lights-to-your-corsair-board/"><u>Bright Ideas for Restoring Functionality and Lights to Your Corsair Board</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enhanced-device-usability-improved-hit-screen-functionality/"><u>Enhanced Device Usability - Improved HIT Screen Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixes-and-tips-overcoming-the-print-driver-host-stopped-working-problem-on-32-bit-machines/"><u>Fixes & Tips: Overcoming the 'Print Driver Host Stopped Working' Problem on 32-Bit Machines</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-phrozens-premium-sonic-mini-8k-s-resin-printer-for-a-steal-at-325/"><u>Get Phrozen's Premium Sonic Mini 8K S Resin Printer for a Steal at $325</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-correct-mss32dll-errors-when-the-file-is-absent-or-unfound/"><u>Guide to Correct Mss32.dll Errors When The File Is Absent or Unfound</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-pdf-reading-a-comprehensive-guide-for-your-amazon-kindle/"><u>Mastering the Art of PDF Reading: A Comprehensive Guide for Your Amazon Kindle</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/script-suspended-no-more-action/"><u>Script Suspended: No More Action</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-this-device-is-not-present-issue-in-windows-operating-systems/"><u>Solving 'This Device Is Not Present' Issue in Windows Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-correcting-windows-file-corruption-for-update-10-and-11-users/"><u>Step-by-Step Tutorial: Correcting Windows File Corruption for Update 10 and 11 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-final-play-fixing-the-persistent-green-error-in-nba-2k21/"><u>The Final Play: Fixing the Persistent Green Error in NBA 2K21</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-motorola-moto-g34-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Motorola Moto G34 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-10-update-errors-and-unresponsive-behavior/"><u>Troubleshooting Windows 10 Update Errors and Unresponsive Behavior</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/uilding-a-million-views-empire-safe-and-secure-methods/"><u>[New] Building a Million Views Empire Safe and Secure Methods</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/s-it-lawful-to-screen-capture-youtube-content-in-2024/"><u>[New] Is It Lawful to Screen-Capture YouTube Content, In 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-infinix-smart-7-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Infinix Smart 7 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-deployment-delays-successful-strategies-for-the-windows-11-v1607-upgrade/"><u>Dealing with Deployment Delays: Successful Strategies for the Windows 11 v1607 Upgrade</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-nubia-z60-ultra-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Nubia Z60 Ultra</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-to-reduce-compatibility-telemetrys-memory-footprint-on-windows-11-devices/"><u>Effective Strategies to Reduce Compatibility Telemetry's Memory Footprint on Windows 11 Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-most-out-of-your-headset-steelseries-arctis-ve-audio-software-setup/"><u>Get the Most Out of Your Headset: SteelSeries Arctis Ve Audio Software Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-rectifying-the-side-by-side-assembly-version-problem-in-windows-11-systems/"><u>Guide: Rectifying the 'Side-by-Side' Assembly Version Problem in Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-enhanced-productivity-through-a-90-degree-display-reorientation/"><u>Harnessing Enhanced Productivity Through a 90-Degree Display Reorientation</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-iphone-6-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your iPhone 6?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-mouse-right-click-in-windows-11-quick-fixes-and-tips/"><u>How to Restore Mouse Right-Click in Windows 11 - Quick Fixes and Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/master-your-touchpad-experience-with-quick-synaptics-driver-updates-and-downloads/"><u>Master Your Touchpad Experience with Quick Synaptics Driver Updates and Downloads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstick-your-unresponsive-desktop-troubleshooting-frozen-systems-easily/"><u>Unstick Your Unresponsive Desktop: Troubleshooting Frozen Systems Easily</u></a></li>
 </ul></div>
 

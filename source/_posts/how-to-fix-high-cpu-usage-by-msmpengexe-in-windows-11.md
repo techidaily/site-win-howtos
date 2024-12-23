@@ -1,7 +1,7 @@
 ---
 title: How to Fix High CPU Usage by MsMpEng.exe in Windows 11
-date: 2024-09-11T15:19:31.736Z
-updated: 2024-09-12T15:19:31.736Z
+date: 2024-12-21T17:17:59.587Z
+updated: 2024-12-22T16:52:20.318Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
 
 [**4: Troubleshoot Windows Updates issues**](#4)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **1: Scan your computer for viruses**
 
  High CPU or memory usage of**svchost.exe** services can be caused by viruses or malicious programs. So run your antivirus program and scan for possible viruses and malicious programs.
@@ -53,10 +46,7 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
  If you find any, uninstall them or remove the viruses completely to see if the problem is fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **2: Disable certain svchost.exe services**
@@ -72,16 +62,7 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/go-to-services-600x417.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) You’ll go to a window with highlighted services that run under the**svchost.exe** process.
@@ -89,22 +70,12 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/highlighted-services.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Right-click one of the processes and click **Stop**  to stop it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-service-in-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Repeat the steps until you locate the faulty process.
 
@@ -113,16 +84,7 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/open-services-600x422.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7) We’re using the **Windows Update**  service as an example. Right-click **Windows Update**  and click **Properties** .
@@ -132,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
 8) Change the **Startup Type** to **Disable** , then click **OK** and restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/startup-type-disable.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9) See if the problem is resolved.
 
@@ -150,20 +105,21 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/eventvwr.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left side of the pane, click **Application** under **Windows Logs**  . On the right side of the pane, click **Clear Log…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/clear-log-windows-log-application-event-viewer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Repeat the same procedures to clear the **Security, Setup** and **System** logs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/security-setup-and-system-log.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Restart your computer after this.
 
@@ -176,10 +132,7 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/services-msc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Right-click**Windows Update** and click **Stop** .
@@ -187,10 +140,7 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-windows-update-service.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Go to**This PC > Local Disk (C:) > Windows** and delete **SoftwareDistribution** folder. Restart your computer.
@@ -232,5 +182,19 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-device-footage-to-youtube-shorts-your-streamlined-approach/"><u>[New] 2024 Approved From Device Footage to YouTube Shorts - Your Streamlined Approach</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ace-titles-our-picks-for-the-very-best-adventurous-players/"><u>[New] Ace Titles Our Picks for the Very Best Adventurous Players</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-benq-bl2711u-reviewed-the-apex-of-27-high-definition-monitoring-technology/"><u>[New] In 2024, BenQ BL2711U Reviewed - The Apex of 27” High-Definition Monitoring Technology</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capturing-content-live-review-of-premium-obs-options/"><u>2024 Approved Capturing Content Live Review of Premium OBS Options</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-infinix-hot-40-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Infinix Hot 40 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/advanced-insights-into-the-functionality-of-the-ring-video-doorbell-pro-a-clever-device-showcase/"><u>Advanced Insights Into the Functionality of the Ring Video Doorbell Pro: A Clever Device Showcase</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-overcome-windows-11-freeze-on-launch/"><u>Effective Solutions to Overcome Windows 11 Freeze on Launch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-print-a-pdf-expert-advice-and-tricks/"><u>How to Successfully Print a PDF: Expert Advice and Tricks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/igtv-unveiled-5-essential-downloads-for-mobile-devices-for-2024/"><u>IGTV Unveiled 5 Essential Downloads for Mobile Devices for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/repair-tips-fixing-hp-laptop-webcam-failures-on-the-latest-microsoft-operating-system/"><u>Repair Tips: Fixing HP Laptop Webcam Failures on the Latest Microsoft Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-for-darkened-screens-during-obs-video-recording-of-games/"><u>Solution for Darkened Screens During OBS Video Recording of Games</u></a></li>
+</ul></div>
 

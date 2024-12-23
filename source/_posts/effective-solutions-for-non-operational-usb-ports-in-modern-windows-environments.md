@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Non-Operational USB Ports in Modern Windows Environments
-date: 2024-09-11T15:21:19.771Z
-updated: 2024-09-12T15:21:19.771Z
+date: 2024-12-19T22:49:00.056Z
+updated: 2024-12-22T20:14:42.962Z
 tags:
   - win11
   - win10
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 
  Did you find that some keys on your keyboard don’t work? Are you typing but the letters are not appearing on the screen? Well don’t worry, you’re not alone. This post could help you fix this vexing issue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -36,10 +29,7 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 * [**Tips: Keyboard maintenance**](#tips)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Hard reset your keyboard
@@ -73,6 +63,10 @@ If you’re a laptop user, you could follow these steps:
  Now check to see if this works for you.  
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check for hardware issues
 
  If a hard reset is not working for you, you need to identify whether it’s a hardware issue or a software issue. Follow the steps below:
@@ -82,13 +76,6 @@ If you’re a laptop user, you could follow these steps:
  If cleaning the keyboard didn’t work for you, you need to[boot to BIOS](https://tools.techidaily.com/drivereasy/download/) .  
  If your keys work fine in the BIOS, it means it’s a software issue. You should move to[Fix 3](#f3) .  
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -121,16 +108,7 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -151,22 +129,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -197,5 +170,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-unveiling-the-art-of-facebook-reels-production/"><u>[New] Unveiling the Art of Facebook Reels Production</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-ensuring-your-video-shines-in-the-staff-pick-spotlight/"><u>[Updated] 2024 Approved Ensuring Your Video Shines in the Staff Pick Spotlight</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-lace-footage-with-music-using-premiere-pro-for-2024/"><u>[Updated] Lace Footage with Music Using Premiere Pro for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-repairing-ethernet-network-errors-for-windows-10-and-7-users/"><u>Guide to Repairing Ethernet Network Errors for Windows 10 and 7 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-responsive-laptop-mousepad-on-windows-8-and-7-step-by-step-guide/"><u>How to Fix a Non-Responsive Laptop Mousepad on Windows 8 & 7: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-repair-non-functional-dell-usb-ports/"><u>How to Troubleshoot and Repair Non-Functional Dell USB Ports</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-augment-your-design-abilities-the-10-most-powerful-android-graphics-tools/"><u>In 2024, Augment Your Design Abilities The 10 Most Powerful Android Graphics Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-identifying-key-windows-movie-maker-alternatives/"><u>In 2024, Identifying Key Windows Movie Maker Alternatives</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-low-cost-options-for-acquiring-gopro-cameras/"><u>In 2024, Low-Cost Options for Acquiring GoPro Cameras</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-sj6-mastery-showdown-sjcam-vs-xiaomis-yi-pro-4k/"><u>In 2024, SJ6 Mastery Showdown SJCam Vs. Xiaomi's Yi Pro 4K</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-v27-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on V27 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-unsupported-platforms-during-intel-serial-io-driver-setup/"><u>Resolving Issues with Unsupported Platforms During Intel Serial IO Driver Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-update-issues-in-windows-10-resolve-error-code-0x800f0922/"><u>Solving Update Issues in Windows 10: Resolve Error Code 0X800f0922</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-your-usb-connection-woes/"><u>Ultimate Guide: Solving Your USB Connection Woes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/usb-malfunctioning-problem-solved-guides-for-windows-10-and-11/"><u>USB Malfunctioning Problem Solved: Guides for Windows 10 and 11</u></a></li>
+</ul></div>
 

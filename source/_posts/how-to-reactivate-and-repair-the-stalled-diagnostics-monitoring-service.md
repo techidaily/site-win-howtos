@@ -1,7 +1,7 @@
 ---
 title: How to Reactivate and Repair the Stalled Diagnostics Monitoring Service
-date: 2024-09-11T15:22:09.898Z
-updated: 2024-09-12T15:22:09.898Z
+date: 2024-12-19T20:55:42.573Z
+updated: 2024-12-22T23:12:44.197Z
 tags:
   - win11
   - win10
@@ -20,10 +20,7 @@ thumbnail: https://thmb.techidaily.com/6038b4e1d0b30613cb41c0ccc8733d5ac9ac78f01
  You may familiar with the Blue Screen of Death if you’re a Windows user. But when your PC crashed and turned into a scary weird red screen, you might be confused. Don’t panic–it can be fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 1: Enter your Windows system
@@ -31,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/6038b4e1d0b30613cb41c0ccc8733d5ac9ac78f01
  If your computer restarted and entered the Windows system normally, you can move to[**Step 2**](#s2) .
 
 Otherwise, you need to take a few minutes to read this part.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Way 1: Hard reset your computer
 
@@ -52,6 +42,10 @@ Otherwise, you need to take a few minutes to read this part.
 
  Then check to see if you can get into the Windows system as usual. If not, don’t worry, try the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 2:[Enter safe mode](https://tools.techidaily.com/drivereasy/download/)
 
  Safe mode is a diagnostic mode of Windows. When the hard reset doesn’t work, you need to enter Safe mode to trigger the problem. Safe mode will be running with a minimal set of drivers and services which is easier for you to identify the problem.
@@ -62,16 +56,7 @@ Otherwise, you need to take a few minutes to read this part.
 2. **[Revert your system from a restore point](#f7)**
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 2: Try these fixes
@@ -93,13 +78,6 @@ Otherwise, you need to take a few minutes to read this part.
  If you were overclocking your hardware and encounter with RSOD issue, you’d better stop overclocking and remove settings from your device.
 
  To do this, you need to[enter the BIOS system](https://tools.techidaily.com/drivereasy/download/) , then set settings back to default.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Check your hardware devices and temperature
 
@@ -126,10 +104,7 @@ There are a few things you should do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-503.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Rub the **golden contact** of your memory with an eraser. (This can clean the golden contact of your memory.)
@@ -141,13 +116,6 @@ There are a few things you should do:
 Hopefully, this fix could help you get rid of this issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -185,13 +153,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Update your BIOS
 
 **BIOS** (**Basic Input/Output System** ) performs the hardware initialization and jumpstarts the processes during the booting process of your computer. In some cases, the red screen on Windows 10 may be related to it.
@@ -207,16 +168,7 @@ OR
 2. In **the information** in **BIOS Version/Date**  and go to the manufacturer’s official website.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Check out the **Support** (or **Download** ) section and search for the latest BIOS update.
@@ -249,10 +201,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -266,15 +215,16 @@ OR
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Type**sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Restart your computer to check whether the blue screen issue is fixed or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the result indicates there are broken files but SFC can’t fix them, you can turn to[Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
 
@@ -293,13 +243,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-647.png)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Reset or reinstall Windows
 
@@ -326,5 +269,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/resolution-tackle-the-stealthy-culprit-of-elevated-system-load-the-invisible-impacts-of-shell-infra-on-your-windows/"><u>(Resolution) Tackle the Stealthy Culprit of Elevated System Load: The Invisible Impacts Of Shell Infra on Your Windows.</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-easy-replay-on-iphone-set-videos-cycling-for-2024/"><u>[New] Easy Replay on iPhone Set Videos Cycling for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-activating-built-in-recorders-on-mate-and-p-series-phones-mate-1020-p2010/"><u>2024 Approved Activating Built-In Recorders on Mate and P Series Phones (Mate 10/20; P20/10)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-global-collaboration-easeus-expertise/"><u>2024 Approved Global Collaboration EaseUS Expertise</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/head-to-head-comparison-roku-or-fire-tv-stick-for-your-home-entertainment/"><u>Head-to-Head Comparison: Roku or Fire TV Stick for Your Home Entertainment?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-infinix-hot-40i-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Infinix Hot 40i Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-asus-rog-phone-8-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Asus ROG Phone 8 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-wont-boot-troubleshooting-the-all-too-common-bright-display-problem/"><u>Laptop Won’t Boot? Troubleshooting the All-Too-Common Bright Display Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-microsoft-compatibility-telemetry-memory-and-storage-surges-in-windows-10/"><u>Resolving Microsoft Compatibility Telemetry Memory and Storage Surges in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-geforce-experience-launch-error-a-comprehensive-guide/"><u>Resolving the GeForce Experience Launch Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-taming-the-beast-of-high-disk-usage-by-microsoft-compatibility-telemetry-on-windows-11-devices/"><u>Step-by-Step Guide: Taming the Beast of High Disk Usage by Microsoft Compatibility Telemetry on Windows 11 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unsuccessful-attempts-to-connect-to-a-distant-server/"><u>Troubleshooting Unsuccessful Attempts to Connect to a Distant Server</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-upgrades-explore-how-apples-latest-airpods-pro-and-max-compare-insights/"><u>Unveiling the Upgrades: Explore How Apple's Latest AirPods Pro and Max Compare - Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-update-woes-heres-how-to-tackle-the-failed-version-1803-upgrade-successfully/"><u>Windows 11 Update Woes? Here's How to Tackle the Failed Version 1803 Upgrade Successfully</u></a></li>
+</ul></div>
 

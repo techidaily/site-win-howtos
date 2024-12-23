@@ -1,7 +1,7 @@
 ---
 title: How to Repair Your Laptop's Trackpad When It Fails to Work with Windows OS
-date: 2024-12-10T18:33:25.090Z
-updated: 2024-12-13T17:06:45.034Z
+date: 2024-12-17T00:46:45.808Z
+updated: 2024-12-22T22:42:59.429Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 1: Unplug the keyboard and the mouse then plug it back**
 
  To fix the issue, you can try to unplug and replug the keyboard and the mouse, then Windows will reinstall the driver automatically, and the keyboard and mouse will reconnect.
@@ -44,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/270d60dd7eabb30b6772ffb66d3ea0dacdceb2788
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 2: Disconnect the power cable for a while**
@@ -63,13 +67,13 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8de9b459b5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Press the **Enter** key on your keyboard then Windows will restart.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 4: Update the USB driver**
 
@@ -86,16 +90,12 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e209798c0.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Expand the category “Universal Serial Bus controllers” and locate the device USB 3.0 eXtensible Host Controller (The name could be different in your case. Just locate a USB device). If you can’t find the USB device under this category, expand the category of Other devices. You may find the device with a yellow mark there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e2b99785c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) On your keyboard, press the **Del** key (It could be**Delete** on some keyboards).
 
@@ -119,10 +119,6 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5c7ea0bb4aa.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -143,13 +139,13 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8db9a4f349.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Go to the **Services** tab. Check the box next to**Hide all Microsoft services** then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8dc3401983.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click the **OK** button.
 
@@ -157,12 +153,16 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8dca75f671.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the issue resolves after the computer starts, you can try disabling the third-party services one by one to determine which service is causing the issue.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 6: Enable Legacy USB Support in BIOS**
@@ -200,22 +200,16 @@ Follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-convert-instagram-videos-into-audio-clips-mp3-for-2024/"><u>[New] Convert Instagram Videos Into Audio Clips (MP3) for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-file-shift-quick-and-easy-transfer-tactics-for-the-computer/"><u>[New] Mastering File Shift Quick and Easy Transfer Tactics for the Computer</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-setting-up-for-success-on-youtube-from-newbie-to-noteworthy-net-gain/"><u>[Updated] 2024 Approved Setting Up for Success on Youtube From Newbie to Noteworthy Net Gain</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-melodic-matchups-finding-the-right-song-for-your-insta-story/"><u>[Updated] In 2024, Melodic Matchups Finding the Right Song for Your Insta Story</u></a></li>
-<li><a href="https://os-tips.techidaily.com/discover-how-to-retrieve-your-gps-tracking-data-from-ios-devices-a-simple-walkthrough-for-iphoneipad-users/"><u>Discover How to Retrieve Your GPS Tracking Data From iOS Devices - A Simple Walkthrough for iPhone/iPad Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-your-microsoft-surface-pen-back-in-action-common-fixes-explained/"><u>Getting Your Microsoft Surface Pen Back in Action - Common Fixes Explained</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-connected-status-of-external-displays-and-speakers-in-windows/"><u>How to Restore Connected Status of External Displays and Speakers in Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/lenovo-mouse-pad-failure-in-windows-systems-resolve-for-win11win8win7-users-tutorial/"><u>Lenovo Mouse Pad Failure in Windows Systems: Resolve for Win11/Win8/Win7 Users [TUTORIAL]</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/reviving-your-sound-blaster-mic-a-step-by-step-guide/"><u>Reviving Your Sound Blaster Mic: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-overcome-failed-library-loading-error-1114-fixes/"><u>Step-by-Step Guide to Overcome 'Failed Library Loading' - Error 1114 Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-tackling-service-stopped-on-your-hamachi-connection/"><u>Step-by-Step Solution: Tackling 'Service Stopped' On Your Hamachi Connection</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-like-a-pro-solutions-to-fix-your-computer-stuck-on-boot-screen/"><u>Troubleshoot Like a Pro: Solutions to Fix Your Computer Stuck on Boot Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fix-windows-11-error-code-0xc1900208-successfully/"><u>Troubleshooting Guide: Fix Windows 11 Error Code 0xC1900208 Successfully</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/yac561-yamahaaturbosound-ii-sound-module-based-on-the-ymf794fymu3x-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-of-r120/"><u>YAC561 - Yamaha'aturboSound II Sound Module Based on the YMF794F/YMU^3X (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-cutting-edge-text-motion-designs/"><u>[New] Cutting-Edge Text Motion Designs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ideal-choices-the-best-9-gif-recorder-software-on-your-pc-for-2024/"><u>[New] Ideal Choices The Best 9 GIF Recorder Software on Your PC for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enhancing-viewer-interest-with-accurate-time-stamping/"><u>[New] In 2024, Enhancing Viewer Interest with Accurate Time Stamping</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/1723015137431-comprehensive-toshiba-55lf711u20-55-fire-tv-edition-guide-a-top-pick-for-prime-subscribers/"><u>Comprehensive Toshiba 55LF711U20 55 Fire TV Edition Guide - A Top Pick for Prime Subscribers!</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/experts-reveal-the-leading-windows-data-recovery-tools-discover-how-yl-software-can-help-you-safeguard-your-files/"><u>Experts Reveal the Leading Windows Data Recovery Tools – Discover How YL Software Can Help You Safeguard Your Files</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-kinemasters-ultimate-green-screen-implementation-techniques/"><u>In 2024, Kinemaster's Ultimate Green Screen Implementation Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/leverage-automated-tracking-with-the-cookiebot-platform-for-enhanced-user-experience/"><u>Leverage Automated Tracking with the Cookiebot Platform for Enhanced User Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-wwe-2k-battlegrounds-directx-11-feature-level-10-compatibility-issues/"><u>Overcoming WWE 2K Battlegrounds DirectX 11 Feature Level 10 Compatibility Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/recovering-data-from-broken-unreadable-file-systems-a-step-by-nstep-guide/"><u>Recovering Data From Broken, Unreadable File Systems: A Step-by-nStep Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-svchostexes-excessive-cpu-drain-in-windows-11-a-comprehensive-fix-guide/"><u>Resolving svchost.exe's Excessive CPU Drain in Windows 11 - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-steps-to-take-when-windows-10-system-crashes/"><u>Troubleshooting Guide: Steps to Take When Windows 10 System Crashes</u></a></li>
 </ul></div>
 

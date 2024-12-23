@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Troubleshooting 'Initialization Failed' In Age of Empires 3
-date: 2024-12-08T16:58:57.112Z
-updated: 2024-12-13T18:13:23.462Z
+date: 2024-12-20T18:24:24.996Z
+updated: 2024-12-22T18:49:17.362Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/005e6344e4c73e50ccb232f7e6d3806cb38585b8b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 1: Check the hardware**
 
@@ -58,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/005e6344e4c73e50ccb232f7e6d3806cb38585b8b
 
 3) Try your PS4 mic again to see if it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 2: Update your sound card driver**
 
  If your microphone is not working when using it on a PC, you should update the audio driver to make sure there’s no problem communicating between the PC and the mic. There are two options to update your audio driver:[manually](#Way1) and[automatically](#Way2) .
@@ -76,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/005e6344e4c73e50ccb232f7e6d3806cb38585b8b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Click the **Update button**  next to the driver name to download and install the correct driver (you can do that with the FREE version). Or click **Update All**  to automatically download and install the correct version of all the problem drivers (you can do that with the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you will be prompted to upgrade when you click **Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
@@ -97,57 +101,45 @@ thumbnail: https://thmb.techidaily.com/005e6344e4c73e50ccb232f7e6d3806cb38585b8b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a84d947cce.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Input Device** and select**Headset Connected to Controller.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a85ab2cba5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Output Device** and select **Headset Connected to Controller** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a85ee7a8cb.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click  **Volume Control (Headphones)** , and set the  level to**maximum** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a866925cb8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click**Output to Headphones** , and select**All Audio** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a87f94933c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Click **Adjust Microphone Level** , then follow the wizard to calibrate your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a88777dfbd.jpg)
 
-If your mic can be detected on the   **Adjust Microphone Level**   screen, then the headset and mic are working with the PS4 properly. If your mic was not detected on the  **Adjust Microphone Level**  screen, continue to  [**Method 4**](#Method3) .
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If your mic can be detected on the   **Adjust Microphone Level**   screen, then the headset and mic are working with the PS4 properly. If your mic was not detected on the  **Adjust Microphone Level**  screen, continue to  [**Method 4**](#Method3) .
 
 ## **Method 4: Check the audio settings on your PC**
 
  To check your microphone,**plug your microphone into another computer** that works properly, and see if your microphone works or not. If your mic still doesn’t work, then it should be a problem with your mic, and you should replace it with a new one; if your mic works on the new computer, it should be a problem with your audio settings, then check the following settings:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### in Windows 10
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Step 1**
 
@@ -158,7 +150,7 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2de909d7185.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) On the**Sound** pane, click the **Recording**   tab, and check if your microphone is set as default (there will be a green check mark next to it and the Set Default button is grayed out).
@@ -183,13 +175,13 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2def1c97882.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** :  If the volume is muted, you will see the sound icon display on your desktop like this: [](https://images.drivereasy.com/wp-content/uploads/2016/01/62.png)
 
  4) Click **OK** to save your settings. Then try your PS4 mic to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### in Windows 11
 
@@ -199,11 +191,19 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/win11-System-Sound-1200x797.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down and click**More sound settings** .
 
 ![Windows11 - More sound settings](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-More-sound-settings.jpg)
 
  4) Select the**Recording** tab. Right-click your microphone and select**Set as default** **device** . Then click on the**Properties** button. Select the**Levels** tab and slide the slider of**Microphone** and**Microphone Boost** to medium or higher to unmute your microphone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 5: Replace with a PS4 microphone
 
@@ -231,24 +231,16 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-mastering-the-art-of-monitoring-loved-comments-on-youtube/"><u>[New] In 2024, Mastering the Art of Monitoring Loved Comments on YouTube</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-step-by-step-for-xml-and-ttml-conversion-to-streamlined-srts/"><u>[New] In 2024, Step-by-Step for XML & TTML Conversion to Streamlined SRTs</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-perfecting-your-projects-proportions-with-aspect-ratio/"><u>[Updated] Perfecting Your Project's Proportions with Aspect Ratio</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-precision-editing-mastery-proven-pc-strategies-for-youtube-success/"><u>[Updated] Precision Editing Mastery Proven PC Strategies for YouTube Success</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-basics-an-approachable-hdr-review/"><u>[Updated] Unveiling the Basics An Approachable HDR Review</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/all-about-handbrake-complete-user-manual-solutions-for-common-issues-and-other-video-converters/"><u>All About HandBrake: Complete User Manual, Solutions for Common Issues & Other Video Converters</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/crafting-a-new-digital-persona-comprehensible-steps-for-changing-tiktok-handle-for-2024/"><u>Crafting a New Digital Persona Comprehensible Steps for Changing TikTok Handle for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/te-video-appeal-crafting-unforgettable-thumbnail-images/"><u>Elevate Video Appeal Crafting Unforgettable Thumbnail Images</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-busters-overcoming-setup-hurdles-with-failed-driver-messages/"><u>Error Busters: Overcoming Setup Hurdles with Failed Driver Messages</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-tips-to-overcome-destiny-server-access-issues-online/"><u>Essential Tips to Overcome Destiny Ⅱ Server Access Issues Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-lenovo-mousepad-issues-on-windows-10-8-and-7-a-step-by-step-guide/"><u>Fix Lenovo Mousepad Issues on Windows 10, 8 & 7 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-ce-34878-0-eject-tray-issue-on-your-ps4-console/"><u>How to Fix the CE-34878-0 Eject Tray Issue on Your PS4 Console</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-network-issues-encountered-in-new-world/"><u>How to Overcome Network Issues Encountered in New World</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-maximize-engagement-a-comprehensive-thumbnail-guidebook/"><u>In 2024, Maximize Engagement A Comprehensive Thumbnail Guidebook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209939767-overcome-broken-arrow-key-issues-masterful-remedies-for-smooth-typing/"><u>Overcome Broken Arrow Key Issues: Masterful Remedies for Smooth Typing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resetting-101-expert-tips-for-restoring-functionality-to-your-unresponsive-keyboard/"><u>Resetting 101: Expert Tips for Restoring Functionality to Your Unresponsive Keyboard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-geforce-shadow-play-installation-error-step-by-step-guide/"><u>Resolving the GeForce Shadow Play Installation Error: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-unresponsive-keys-on-a-keyboard/"><u>Troubleshooting Guide: How to Fix Unresponsive Keys on a Keyboard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/vcruntime-140-dll-not-detected-a-comprehensive-fix/"><u>VCRuntime 140 DLL Not Detected - A Comprehensive Fix</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-premiered-top-8-crowd-pleasing-ae-setups/"><u>[New] Premiered Top 8 Crowd-Pleasing AE Setups</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-investors-edge-tapping-into-youtube-creators-earnings/"><u>[Updated] The Investor’s Edge Tapping Into YouTube Creators' Earnings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209008590-connectivity-hacks-for-your-xbox-one-controller-overcoming-synchronization-challenges-easily/"><u>Connectivity Hacks for Your Xbox One Controller – Overcoming Synchronization Challenges Easily!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premier-selection-incredible-platform-compatible-free-streaming-apps/"><u>In 2024, Premier Selection Incredible, Platform-Compatible Free Streaming Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-android-titles-on-pc-seamless-gameplay-through-windows-and-google/"><u>Integrating Android Titles on PC: Seamless Gameplay Through Windows & Google</u></a></li>
+<li><a href="https://article-posts.techidaily.com/mastering-zoom-for-fb-live-broadcasts-for-2024/"><u>Mastering Zoom for FB Live Broadcasts for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-pubg-top-solutions-for-eliminating-game-lags/"><u>Optimizing PUBG: Top Solutions for Eliminating Game Lags</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/problem-solved-correcting-login-keyboard-connectivity-issues/"><u>Problem Solved: Correcting Login Keyboard Connectivity Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-input-devices-troubleshoot-unresponsive-mouse-and-keyboard-on-windows-7-systems/"><u>Reviving Input Devices: Troubleshoot Unresponsive Mouse and Keyboard on Windows 7 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/scrolling-gain-windows-mouse-mastery/"><u>Scrolling Gain: Windows Mouse Mastery</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-samsung-galaxy-s23-ultra-by-drfone-android/"><u>Three Ways to Sim Unlock Samsung Galaxy S23 Ultra</u></a></li>
 </ul></div>
 

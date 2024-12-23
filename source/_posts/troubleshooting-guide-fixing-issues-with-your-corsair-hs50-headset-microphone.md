@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Issues with Your Corsair HS50 Headset Microphone"
-date: 2024-09-05T10:10:06.403Z
-updated: 2024-09-06T10:10:06.403Z
+date: 2024-12-21T16:51:05.892Z
+updated: 2024-12-22T16:51:14.289Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/923ea7bec628700a525c9380309e5e23cc2f5ab6e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3343089246.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you’re trying to access a website on Chrome, you may encounter this error: **SSL conection error**  or**This site can’t provide a secure connection** , and you might see this code **ERR\_SSL\_PROTOCOL\_ERROR** . Many users are reporting it. Don’t be worried; the good news is you can fix it.
 
  This error could be caused by different reasons. Here’re 6 methods you can try. You may not have to try them all; just work you way down the list until you find the one that works.
@@ -35,11 +29,9 @@ thumbnail: https://thmb.techidaily.com/923ea7bec628700a525c9380309e5e23cc2f5ab6e
  **Method 6:[Make sure you’re going to the secure website](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 1: Remove your system hosts file
 
  This error could be cause by the effected system hosts file. Removing the file may solve the problem:
@@ -50,22 +42,10 @@ thumbnail: https://thmb.techidaily.com/923ea7bec628700a525c9380309e5e23cc2f5ab6e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3567542f7b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **hosts** . Then right-click on it to select **Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c357b799ed0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Restart your Chrome and go to the website to see if successfully.
 
 ## Method 2: Clear your SSL state
@@ -74,21 +54,13 @@ thumbnail: https://thmb.techidaily.com/923ea7bec628700a525c9380309e5e23cc2f5ab6e
 
  1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)  and **R**  at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Type **control**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35a29d09e6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Network and Internet**  in the**Category**  section.
 
@@ -98,29 +70,25 @@ thumbnail: https://thmb.techidaily.com/923ea7bec628700a525c9380309e5e23cc2f5ab6e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35b2a96e3d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click**Internet** **Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35c7a40df1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Click **Clear SSL state**  in **Content** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35da806bf6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  7) Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35de82e9dd.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Click **OK** .
 
@@ -129,11 +97,9 @@ thumbnail: https://thmb.techidaily.com/923ea7bec628700a525c9380309e5e23cc2f5ab6e
  9) Restart your Chrome and go to the website to see if successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 3: Disable the QUIC protocol on your Chrome
 
  1) On a new blank tab of your Chrome, go to **Chrome://flags/#enable-quic**
@@ -150,31 +116,17 @@ thumbnail: https://thmb.techidaily.com/923ea7bec628700a525c9380309e5e23cc2f5ab6e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c361a426aaa.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Restart your Chrome and go to the website to see if successfully.
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 5: Check the website in your Firewall
 
  If the website you want to access was blocked by your Firewall, this error would also occur. Check your Firewall settings and remove the website if you find it.
 
 Restart your Chrome and go to the website to see if successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 6: Make sure you’re going to the secure website
 
@@ -193,21 +145,17 @@ To the left of the website address, check the security status:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3858db33d0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Besides **Secure** , the secure status can also be
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c386f232916.png) or ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3870b99499.png) , click the status for more detailed information.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * [Google Chrome](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -216,8 +164,6 @@ To the left of the website address, check the security status:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -225,4 +171,23 @@ To the left of the website address, check the security status:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-facebooks-automatic-video-features/"><u>[New] Navigating Facebook's Automatic Video Features</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/png-bmp-movavi/"><u>在線自由轉換 PNG 成 BMP 文件 - 使用 Movavi 照片工具</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-startup-blues-effective-ways-to-resolve-freezing-problems-in-your-windows-10-system/"><u>Beat Startup Blues: Effective Ways to Resolve Freezing Problems in Your Windows 10 System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-to-failed-to-update-messages-in-warframe-now-resolved/"><u>Expert Solutions to 'Failed to Update' Messages in Warframe – Now Resolved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-non-responsive-huion-pen-instantly-with-these-5-tips/"><u>Fix Your Non-Responsive Huion Pen Instantly with These 5 Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-samsung-galaxy-z-flip-5-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Realme GT 3? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-pairing-process-how-to-get-your-airpods-working-on-windows-11-latest-fixes/"><u>Master the Pairing Process: How to Get Your AirPods Working on Windows 11 – Latest Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mouse-cursor-disappears-on-windows-11-solved/"><u>Mouse Cursor Disappears on Windows 11 [Solved]</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-unlimited-space-service-catalogue-for-2024/"><u>Prime Unlimited Space Service Catalogue for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/simplify-your-viewing-experience-the-ultimate-guide-to-quick-access-kodi-addons/"><u>Simplify Your Viewing Experience: The Ultimate Guide to Quick-Access Kodi Addons</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-directx-update-issues-in-windows/"><u>Solutions for DirectX Update Issues in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-verifiers-guide-ensuring-authenticity-of-wellness-info/"><u>The Verifier's Guide: Ensuring Authenticity of Wellness Info</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-invalid-directory-paths-for-optimal-site-functionality/"><u>Troubleshooting Invalid Directory Paths for Optimal Site Functionality</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/viral-visuals-photos-and-their-lives/"><u>Viral Visuals Photos and Their Lives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wwe-2k-fixing-and-understanding-the-issue-with-the-dx11-feature-level-100-problem/"><u>WWE 2K: Fixing and Understanding the Issue with the DX11 Feature Level 10.0 Problem</u></a></li>
+</ul></div>
 

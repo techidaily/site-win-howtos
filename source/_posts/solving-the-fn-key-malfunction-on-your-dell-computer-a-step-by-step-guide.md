@@ -1,7 +1,7 @@
 ---
 title: "Solving the Fn-Key Malfunction on Your Dell Computer: A Step-by-Step Guide"
-date: 2024-09-11T15:20:10.358Z
-updated: 2024-09-12T15:20:10.358Z
+date: 2024-12-17T19:38:10.184Z
+updated: 2024-12-22T20:55:56.931Z
 tags:
   - win11
   - win10
@@ -46,18 +46,15 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  So this is the quick fix for you. Sometimes it’s just your device driver running into glitches that caused the pen to stop working. In this case, simply shut down your computer and then restart it. The next time you use your pen on a PC, it should work as normal.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Disable Sleep Mode
 
@@ -76,31 +73,23 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-636.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In the next window, click**Change plan settings** next to your preferred plan.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-637.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Expand**Put the computer to sleep:** and select**Never** . Then click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-639.png)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that you’ve disabled Sleep Mode, restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
@@ -113,16 +102,13 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Power-1200x761.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select**Never** from the drop-down for both**When plugged in, turn off my screen after** and**When plugged in, put my device to sleep after** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-When-plugged-in-put-my-device-to-sleep-after-Never-When-plugged-in-turn-off-my-screen-after-Never-1200x771.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
@@ -134,23 +120,9 @@ thumbnail: https://thmb.techidaily.com/09d90f71aa46b1fd9d4bcc7810bb203ff9683f8d9
 
  1) Double-click the**driver tablet icon** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-27_18-52-38.jpg) on your system tray (an area on the right side of your Taskbar) to open the PenTablet control interface.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Check the**Support TabletPC** box, as shown below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-665.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now go on to check whether your pen works properly. If it doesn’t, please proceed to Fix 4.
 
@@ -184,16 +156,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Huion tablet driver for now, simply click the **Update**  button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-650.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -211,6 +180,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-653-1024x311.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to download the user manual, select the icon next to**Instruction:** according to your operating system.
 
  3) After downloading the driver, open the folder in which the driver is downloaded. Usually, you’ll see a**compressed folder (with .zip extension)** there. Go on to**extract** the folder.
@@ -218,10 +191,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-657.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The folder name can be different based on your tablet model.
@@ -246,23 +216,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-663.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) When Notepad is opened, type in**UseSystemStylus 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-662.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then save the file as**PSUserConfig.txt** to the following location:
 
@@ -297,5 +253,21 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-a-decades-best-anime-opening-songs-compiled/"><u>[New] 2024 Approved A Decade's Best Anime Opening Songs Compiled</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/triking-a-balance-in-youtube-thumbnail-sizing-for-2024/"><u>[New] Striking a Balance in YouTube Thumbnail Sizing for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-iphone-12-pro-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From iPhone 12 Pro - 4 Easy Ways</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-malfunctioning-integrated-webcams-on-windows-systems/"><u>Diagnosing and Fixing Malfunctioning Integrated Webcams on Windows Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-store-cache-issues-solutions-and-troubleshooting/"><u>Fixing Windows Store Cache Issues: Solutions & Troubleshooting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fully-functioning-again-toshiba-laptop-key-malfunctions-repair-complete/"><u>Fully Functioning Again: Toshiba Laptop Key Malfunctions Repair Complete</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reactivate-pentouch-functionality-on-non-interactive-displays-solutions-included/"><u>How to Reactivate Pen/Touch Functionality on Non-Interactive Displays – Solutions Included</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-naming-excellence-the-top-10-ai-powered-title-makers/"><u>In 2024, Naming Excellence The Top 10 AI-Powered Title Makers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-poco-m6-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Poco M6 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-viewsonic-xg2n352-2k-oled-display-analysis-a-top-pick-for-enthusiastic-gamers/"><u>In-Depth ViewSonic XG2n352-2K OLED Display Analysis: A Top Pick for Enthusiastic Gamers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-user-account-control-enable-required-permissions-in-windows-11-10-and-vista7/"><u>Mastering User Account Control: Enable Required Permissions in Windows 11, 10 and Vista/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/origin-troubleshooting-guide-overcoming-setup-hurdles-in-gaming-systems/"><u>Origin Troubleshooting Guide: Overcoming Setup Hurdles in Gaming Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-definitive-walkthrough-for-using-the-battery-report-on-your-windows-10-device/"><u>The Definitive Walkthrough for Using the Battery Report on Your Windows 10 Device</u></a></li>
+</ul></div>
 

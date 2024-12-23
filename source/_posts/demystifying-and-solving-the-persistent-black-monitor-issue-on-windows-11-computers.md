@@ -1,7 +1,7 @@
 ---
 title: Demystifying and Solving the Persistent Black Monitor Issue on Windows 11 Computers
-date: 2024-09-11T15:19:22.911Z
-updated: 2024-09-12T15:19:22.911Z
+date: 2024-12-17T20:04:49.426Z
+updated: 2024-12-22T16:43:47.967Z
 tags:
   - win11
   - win10
@@ -21,10 +21,7 @@ A lot Windows 10 users reported that system restore did not complete successfull
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Fix One. Rename the WindowsApps folder in Safe Mode**
@@ -40,13 +37,6 @@ Then type **msconfig** in the box and hit **Enter**.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-2.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 b)  
 On the pop-up window, view on **Boot** pane.  
 Then tick on **Safe boot**and click **OK**.  
@@ -54,13 +44,6 @@ Click **Restart**, if prompted by system configuration
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-1.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then your Windows 10 would get into safe mode.  
   
@@ -72,6 +55,11 @@ When prompted by User Account Control, click   **Yes.**
   
 **![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-2.jpg)**
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3)  
 
 Type the following commands and hit **Enter** to run them one by one:  
@@ -89,13 +77,6 @@ This time uncheck **Safe boot** to reboot your Windows 10.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/5-1.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5)  
 
 When it finish rebooting, run System Restore again.  
@@ -112,6 +93,11 @@ Then click **Update & security**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 b)  
 Click **Recovery**.  
 Then scroll down on the right side and click **Restart now** under **Advanced startup** .  
@@ -120,10 +106,7 @@ Then scroll down on the right side and click **Restart now** under **Advanced st
   
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 c)  
@@ -133,16 +116,7 @@ Click**Troubleshoot** \> **Advanced** \>**Command Prompt**.
   
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2)  
@@ -173,5 +147,26 @@ That’s it!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-accessible-quality-sunglasses-to-enhance-vr-experience-for-2024/"><u>[Updated] Accessible, Quality Sunglasses to Enhance VR Experience for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-efficient-techniques-for-obtaining-ios-audio-files/"><u>[Updated] In 2024, Efficient Techniques for Obtaining iOS Audio Files</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-pioneering-youtube-visibility-through-strategic-thumbnails/"><u>[Updated] In 2024, Pioneering YouTube Visibility Through Strategic Thumbnails</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/a-simplified-guide-to-jdk-setup-for-modern-windows-11-users/"><u>A Simplified Guide to JDK Setup for Modern Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-11-upstart-hiccups-steps-for-a-smooth-boot-process/"><u>Fixing Windows 11 Upstart Hiccups: Steps for a Smooth Boot Process</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-error-unknown-usb-device-descriptor-request-failed-on-windows-a-step-by-step-guide/"><u>How to Fix the Error 'Unknown USB Device - Descriptor Request Failed' On Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-windows-update-or-installation-glitch-tips-for-resolving-error-0x80070643/"><u>How to Overcome Window's Update or Installation Glitch: Tips for Resolving Error 0X80070643</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-persistent-windows-update-issue-error-8007000e/"><u>How to Resolve the Persistent Windows Update Issue: Error 8007000E</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-y100-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo Y100 Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-or-upgrade-your-canon-pixma-ts3222-printer-drivers-now/"><u>Install or Upgrade Your Canon PIXMA TS3222 Printer Drivers Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206718516-laptop-mouse-malfunctions-heres-how-to-restore-functionality-and-beat-the-lag/"><u>Laptop Mouse Malfunctions? Here's How to Restore Functionality and Beat the Lag!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-code-24-restoring-missing-devices-on-your-windows-pc/"><u>Overcoming Code 24: Restoring Missing Devices on Your Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-a-seamless-minecraft-adventure-overcoming-performance-lags/"><u>Quick Solutions for a Seamless Minecraft Adventure: Overcoming Performance Lags</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shielding-sensitive-information-from-customized-ai/"><u>Shielding Sensitive Information From Customized AI</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/simplify-your-work-the-best-5-mac-snipper-applications-for-2024/"><u>Simplify Your Work The Best 5 Mac Snipper Applications for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/system-rests-to-cool-down-post-gaming/"><u>System Rests to Cool Down Post-Gaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-restore-your-lenovos-laptop-camera-functionality/"><u>Troubleshooting Tips: Restore Your Lenovo's Laptop Camera Functionality</u></a></li>
+</ul></div>
 

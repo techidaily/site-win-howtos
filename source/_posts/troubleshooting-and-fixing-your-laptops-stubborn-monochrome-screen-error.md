@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing Your Laptop's Stubborn Monochrome Screen Error
-date: 2024-09-05T10:12:42.266Z
-updated: 2024-09-06T10:12:42.266Z
+date: 2024-12-15T22:48:03.411Z
+updated: 2024-12-23T00:35:10.540Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Troubleshooting and Fixing Your Laptop's Stubbor
 thumbnail: https://thmb.techidaily.com/8b3d2d47a5002bc66759eafaa4c246c7aaef6efd4d358641ba5470b5ab5b74e3.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshooting Guide: Dealing with Chrome's SSL Protocol Error - Now Solved
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3343089246.png)
@@ -40,46 +34,16 @@ thumbnail: https://thmb.techidaily.com/8b3d2d47a5002bc66759eafaa4c246c7aaef6efd4
 
  1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)  and **R**  at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Type **C:\\Windows\\System32\\drivers\\etc**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3567542f7b.png)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **hosts** . Then right-click on it to select **Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c357b799ed0.png)
 
  4) Restart your Chrome and go to the website to see if successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Clear your SSL state
 
  Sometimes the SSL state would block the SSL connection. Go with these steps to clear your SSL state:
@@ -87,37 +51,17 @@ thumbnail: https://thmb.techidaily.com/8b3d2d47a5002bc66759eafaa4c246c7aaef6efd4
  1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)  and **R**  at the same time to invoke the Run box.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Type **control**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35a29d09e6.png)
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **Network and Internet**  in the**Category**  section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35ad5a4675.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click **Network** **and Sharing Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35b2a96e3d.jpg)
@@ -130,27 +74,23 @@ thumbnail: https://thmb.techidaily.com/8b3d2d47a5002bc66759eafaa4c246c7aaef6efd4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35da806bf6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  7) Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35de82e9dd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  8) Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c35e0d12a4a.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  9) Restart your Chrome and go to the website to see if successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Disable the QUIC protocol on your Chrome
 
@@ -159,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/8b3d2d47a5002bc66759eafaa4c246c7aaef6efd4
  2) You should then see **Experimental QUIC protocol**  on the top. Click **Disabled**  from the drop down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c360227258e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Restart your Chrome and go to the website to see if successfully.
 
@@ -169,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/8b3d2d47a5002bc66759eafaa4c246c7aaef6efd4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c361a426aaa.png)
 
 Restart your Chrome and go to the website to see if successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 5: Check the website in your Firewall
 
@@ -183,14 +131,16 @@ Restart your Chrome and go to the website to see if successfully.
 To check if a website is secure:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Way 1: See its URL
 
  Over a secure connection, the address should begin with **https** (note the **s**  at the end).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 2: See the security status on the address bar of Chrome
 
@@ -199,21 +149,13 @@ To the left of the website address, check the security status:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3858db33d0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Besides **Secure** , the secure status can also be
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c386f232916.png) or ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c3870b99499.png) , click the status for more detailed information.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * [Google Chrome](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -222,8 +164,6 @@ To the left of the website address, check the security status:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -231,4 +171,20 @@ To the left of the website address, check the security status:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-top-workplace-cloud-storage-networks/"><u>[New] In 2024, Top Workplace Cloud Storage Networks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effectively-decreasing-high-cpu-demands-in-wdf-based-systems/"><u>Effectively Decreasing High CPU Demands in WDF-Based Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-house-flipper-2-from-exiting-unexpectedly-on-a-pc/"><u>How to Stop House Flipper 2 From Exiting Unexpectedly on a PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-beyond-vidcon-top-50-youtube-celebrations/"><u>In 2024, Beyond VidCon Top 50 YouTube Celebrations</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-securely-through-windows-8s-safe-mode-for-graphics-cleanup/"><u>Navigating Securely Through Windows 8’S Safe Mode for Graphics Cleanup</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-audio-irregularities-fix-stuttering-or-distorted-sounds-on-pcs-running-windows-107-the-ultimate-troubleshooting-manual/"><u>Overcome Audio Irregularities - Fix Stuttering or Distorted Sounds on PCs Running Windows 10/7: The Ultimate Troubleshooting Manual</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210046270-persistent-windows-update-problems-heres-what-you-need-to-do/"><u>Persistent Windows Update Problems? Here's What You Need To Do!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubg-2024-troubleshooting-a-comprehensive-guide-on-fixing-startup-issues/"><u>PUBG 2024 Troubleshooting: A Comprehensive Guide on Fixing Startup Issues</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/radpowers-heavy-duty-radcity-5-plus-unveiled-a-comprehensive-review-of-strength-and-performance/"><u>RadPower's Heavy-Duty RadCity 5 Plus Unveiled: A Comprehensive Review of Strength and Performance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamsavvy-beyond-the-dacast-boundary-for-2024/"><u>StreamSavvy Beyond the DaCast Boundary for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-repaired-minecraft-performance-lags/"><u>Troubleshooting & Resolving [REPAIRED] Minecraft Performance Lags</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-repairing-the-0x80072efd-error-tips-and-tricks-for-windows-10-users/"><u>Understanding and Repairing the 0X80072EFD Error: Tips & Tricks for Windows 10 Users</u></a></li>
+</ul></div>
 

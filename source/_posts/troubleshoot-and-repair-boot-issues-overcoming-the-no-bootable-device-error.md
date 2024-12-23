@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot and Repair Boot Issues: Overcoming the No Bootable Device Error"
-date: 2024-09-05T10:09:47.806Z
-updated: 2024-09-06T10:09:47.806Z
+date: 2024-12-18T20:54:59.794Z
+updated: 2024-12-22T21:06:15.855Z
 tags:
   - win11
   - win10
@@ -13,28 +13,10 @@ excerpt: "This Article Describes Troubleshoot and Repair Boot Issues: Overcoming
 thumbnail: https://thmb.techidaily.com/9b1d54d7ae73d83b91bdfdadbf959717f77a8b021abfc1f3482b428b18a9e6d1.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Overcoming Frequent Device Disconnection: A Comprehensive Approach to Troubleshooting USB Connectivity
 
 **USB keeps disconnecting** on your computer? Don’t worry, it’s actually quite easy to fix…
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes For USB Keeps Disconnecting
 
  Here’re 4 fixes that have helped other users resolve the problem. Just work your way down the list until you find the one that works for you.
@@ -44,12 +26,6 @@ thumbnail: https://thmb.techidaily.com/9b1d54d7ae73d83b91bdfdadbf959717f77a8b021
 3. **[Turn off USB selective suspend](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Change power management settings for USB Root Hubs](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Do some basic troubleshooting
 
  You may encounter this problem because of physical issues. It can be that your USB device happens to be faulty or the USB port you’re plugging your devices into are failing.
@@ -75,21 +51,23 @@ To rule out this as a possibility:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also click Update to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and check if the**USB keeps disconnecting** issue has been resolved. If yes, then congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Turn off USB selective suspend
 
@@ -105,18 +83,6 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
@@ -126,17 +92,9 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
 ---
@@ -150,33 +108,17 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
@@ -200,8 +142,6 @@ To make sure you’ve this setting disabled:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,4 +149,21 @@ To make sure you’ve this setting disabled:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/3-proven-methods-to-enhance-your-music-archives/"><u>3 Proven Methods to Enhance Your Music Archives</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/9-innovative-workout-challenges-for-dynamic-viewers/"><u>9 Innovative Workout Challenges for Dynamic Viewers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-wired-internet-issues-on-your-pc-running-windows-11-or-7/"><u>Expert Tips for Fixing Wired Internet Issues on Your PC Running Windows 11 or 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-repairing-and-scanning-drives-that-wont-respond-on-windows-10/"><u>Expert Tips for Repairing and Scanning Drives That Won't Respond on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/finding-your-lost-screen-a-true-solution/"><u>Finding Your Lost Screen: A True Solution</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-htc-u23-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of HTC U23 with Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-resolve-pc-rebooting-problems-after-upgrading-to-windows-11/"><u>How to Successfully Resolve PC Rebooting Problems After Upgrading to Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-xiaomi-13-ultra-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Xiaomi 13 Ultra to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-gaming-without-hiccups-fix-your-fortnite-pc-freeze-problems-with-these-easy-steps/"><u>Master Gaming Without Hiccups: Fix Your Fortnite PC Freeze Problems with These Easy Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-microsoft-account-woes-fix-user-profile-service-hiccups-in-windows-11/"><u>Mastering Microsoft Account Woes: Fix User Profile Service Hiccups in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-policy-service-failure-and-restart-guide/"><u>Resolving the Issue: Policy Service Failure and Restart Guide</u></a></li>
+<li><a href="https://win-bits.techidaily.com/step-by-step-guide-swapping-your-current-esxi-host-for-upgraded-hardware/"><u>Step-by-Step Guide: Swapping Your Current ESXi Host for Upgraded Hardware</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-verdict-on-samsungs-cf591-a-comprehensive-review-for-enthusiasts/"><u>The Verdict on Samsung's CF591: A Comprehensive Review for Enthusiasts</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unleash-your-creativity-top-10-free-webm-video-editing-tools/"><u>Updated In 2024, Unleash Your Creativity Top 10 Free WebM Video Editing Tools</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Solved] The C:\\Windows\\system32\\config\\systemprofile\\Desktop Is Unavailable Error"
-date: 2024-09-11T15:22:40.922Z
-updated: 2024-09-12T15:22:40.922Z
+date: 2024-12-20T18:52:06.158Z
+updated: 2024-12-22T19:03:41.384Z
 tags:
   - win11
   - win10
@@ -16,13 +16,6 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
 ## Solve the Problem of Undetected Bluetooth Devices in Windows 10 Quickly
 
  If you’re on Windows 10 and your Bluetooth devices are not showing up, don’t panic. Here are 4 solutions to try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -45,19 +38,6 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_15-06-07.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Under**View by** , select**Category** , then click**View devices and printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-02-15.jpg)
@@ -66,18 +46,15 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-12-48.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Click**Add a device** to see if your Bluetooth works properly now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_18-13-19.jpg)
 
 If your problem persists, then move on and try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run the Bluetooth troubleshooter
 
@@ -88,10 +65,7 @@ If your problem persists, then move on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-35-46-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Select**Bluetooth** , then click**Run the troubleshooter** .
@@ -99,10 +73,7 @@ If your problem persists, then move on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-48-23.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Wait for this process to be complete. Then, try pairing your Bluetooth devices to your PC again.
@@ -121,54 +92,29 @@ If your problem persists, then move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-56-23.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click**Bluetooth Support Service** . If the service is running, click**Restart** ; if the service isn’t running, click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_12-00-47.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Right-click**Bluetooth Support Service** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-59-45.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Set the**Startup Type** to **Automatic** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_18-02-50.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Try connecting your Bluetooth devices to test your problem.
 
 If your issue continues to occur, then try the next solution, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update Bluetooth driver
 
@@ -187,10 +133,7 @@ If your issue continues to occur, then try the next solution, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-09-57.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the **Update**  button next to the Bluetooth driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -219,5 +162,19 @@ If your issue continues to occur, then try the next solution, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-top-7-nft-generating-marvels-for-modern-digital-artists-needs-for-2024/"><u>[New] Top 7 NFT-Generating Marvels for Modern Digital Artists' Needs for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/our-blueprint-to-top-ranked-business-youtube-channels-for-2024/"><u>[New] Your Blueprint to Top-Ranked Business YouTube Channels for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-elevated-sound-navigation-system-android-edition/"><u>[Updated] 2024 Approved Elevated Sound Navigation System, Android Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-exclusive-ig-edits-for-apple-and-android-users/"><u>[Updated] Exclusive IG Edits for Apple & Android Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-the-hurdle-repairing-dead-usb-input-devices-in-windows-7-environments/"><u>Bypass the Hurdle: Repairing Dead USB Input Devices in Windows 7 Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204306824-easy-fix-for-disappearing-bluetooth-in-windows-10-get-back-online-now/"><u>Easy Fix for Disappearing Bluetooth in Windows 10 - Get Back Online Now</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-samsung-galaxy-s23-phone-by-drfone-android/"><u>How to Reset a Locked Samsung Galaxy S23 Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-your-guide-to-language-translation/"><u>Mastering ChatGPT: Your Guide to Language Translation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-mspcm-interface-on-windows-11-easily/"><u>Navigating the MSPCM Interface on Windows 11 Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-fixes-for-haldll-error-messages-on-different-versions-of-windows-including-vista-7-8-10-and-11/"><u>Quick Fixes for hal.dll Error Messages on Different Versions of Windows, Including Vista, 7, 8, 10, and 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-overcome-error-0x80072f8f-in-windows-1110-update-processes/"><u>Step-by-Step Solutions to Overcome Error 0X80072F8F in Windows 11/10 Update Processes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-ftdibus-malfunctions-how-incompatible-drivers-impact-memory-safety/"><u>Understanding Ftdibus Malfunctions: How Incompatible Drivers Impact Memory Safety</u></a></li>
+</ul></div>
 

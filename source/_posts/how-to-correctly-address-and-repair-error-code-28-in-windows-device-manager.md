@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Repair 'Error Code 28' In Windows Device Manager
-date: 2024-12-11T20:27:01.634Z
-updated: 2024-12-13T21:37:20.696Z
+date: 2024-12-17T01:14:33.613Z
+updated: 2024-12-22T23:47:41.841Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/368cd26d3749cfcc0c9a3f4f17a7f654d421407ed
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Fix 1\. Enable Automatic Detect Settings**
 
  If your computer is not sure how it should connect to the Internet, it would cause Windows Update Error 0x8024402c. In this case, enable Automatic Detect Settings could fix it.
@@ -37,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/368cd26d3749cfcc0c9a3f4f17a7f654d421407ed
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Check on Automatically detect settings
@@ -45,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/368cd26d3749cfcc0c9a3f4f17a7f654d421407ed
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
@@ -60,25 +64,21 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Clear Exceptions box if there were any content in it.
 
  Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6) Exit Internet Explorer and run Command Prompt.
 
 Find and click to open Command Prompt from Start menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Run the commands below one by one.
 
@@ -108,10 +108,6 @@ Double-click on your active Network Adapter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Locate Use the following DNS server addresses.
 
  Set**Preferred DNS server** to be**8.8.8.8**
@@ -123,10 +119,14 @@ Double-click on your active Network Adapter.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4\. Configure Updates Client
 
@@ -139,6 +139,10 @@ If the fixes above didn’t serve you, try this one.
  Click **Yes**  when prompted by User Account Control.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
@@ -170,10 +174,6 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now try to install Windows Updates now.
 
 After the fixes above, Windows Update should be good to go now.
@@ -195,24 +195,20 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/fficiently-removing-youtube-channels-a-device-centric-approach-for-2024/"><u>[New] Efficiently Removing Youtube Channels A Device-Centric Approach for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-filmmakers-toolkit-essential-color-grading-of-7-techniques-for-2024/"><u>[New] The Filmmaker's Toolkit Essential Color Grading of 7 Techniques for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-transform-your-vfx-workflow-implementing-luts-within-after-effects/"><u>[New] Transform Your VFX Workflow Implementing LUTs Within After Effects</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-brilliant-question-bank-to-entice-audio-enthusiasts/"><u>2024 Approved Brilliant Question Bank to Entice Audio Enthusiasts</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-detailed-instructions-for-embedding-and-displaying-youtube-playlists-online/"><u>2024 Approved Detailed Instructions for Embedding and Displaying YouTube Playlists Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-a-non-functional-mic-issue-in-windows-11/"><u>Fixing a Non-Functional Mic Issue in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correctly-address-device-unavailable-error-24-for-windows-users/"><u>How to Correctly Address Device Unavailable Error (#24) for Windows Users</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-fix-asus-laptop-screen-flickering/"><u>How To Fix ASUS Laptop Screen Flickering</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-shockwave-flash-problems-on-google-chrome-platform/"><u>How to Repair Shockwave Flash Problems on Google Chrome Platform</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-top-10-affordable-and-easy-online-passport-pics-tools/"><u>In 2024, Top 10 Affordable & Easy Online Passport Pics Tools</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/oxford-3000-revolutionized-by-mondly-for-learning/"><u>Oxford 3000, Revolutionized by Mondly for Learning</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210065638-pdf-printer-problems-quick-fixes-for-immediate-relief/"><u>PDF Printer Problems: Quick Fixes for Immediate Relief!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-key-issues-in-windows-11-easy-step-by-step-solutions/"><u>Resolving Windows Key Issues in Windows 11 - Easy Step-by-Step Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-getting-microsoft-store-back-online-after-failure-to-open/"><u>Solution Guide: Getting Microsoft Store Back Online After Failure to Open</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-to-tailored-settings-malfunctioning-on-your-device/"><u>Solutions to Tailored Settings Malfunctioning on Your Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/taming-the-high-cpu-demands-of-win10/"><u>Taming the High-CPU Demands of Win10</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-s17e-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-guide-to-hp-dock-g2-thunderbolt-setup-obtain-the-essential-120w230w-device-drivers-today/"><u>Ultimate Guide to HP Dock G2 Thunderbolt Setup: Obtain the Essential 120W/230W Device Drivers Today!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wwe-2k-battlegrounds-directx-compatibility-fixing-feature-level-100-issue/"><u>WWE 2K Battlegrounds DirectX Compatibility: Fixing Feature Level 10.0 Issue</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevating-your-channel-maximizing-adsense-on-youtube/"><u>[New] In 2024, Elevating Your Channel Maximizing AdSense on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-investigating-best-fps-for-outstanding-slow-motion-cinematography/"><u>[New] Investigating Best FPS for Outstanding Slow-Motion Cinematography</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-top-cricket-ultimate-guide-to-live-streaming-selection/"><u>[New] Top Cricket Ultimate Guide to Live Streaming Selection</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-indoor-android-games-you-can-play-without-a-network-for-2024/"><u>[Updated] Indoor Android Games You Can Play Without a Network for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-applying-the-cartoon-face-filter-in-snapchat/"><u>[Updated] Step-by-Step Applying the Cartoon Face Filter in Snapchat</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/advanced-handling-of-insufficient-resources-service-errors/"><u>Advanced Handling of 'Insufficient Resources' Service Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-when-your-lenovo-laptop-camera-stops-functioning/"><u>Effective Solutions for When Your Lenovo Laptop Camera Stops Functioning</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correct-a-bad-image-error-on-your-windows-11windows-10-device/"><u>How to Correct a Bad Image Error on Your Windows 11/Windows 10 Device</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-instagrams-vertical-vortex-sideways-media-mystery/"><u>In 2024, Instagram's Vertical Vortex Sideways Media Mystery</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/resolving-blue-screen-problems-stemming-from-hardware-failures-expert-advice-from-yl-software/"><u>Resolving 'Blue Screen' Problems Stemming From Hardware Failures: Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-svchostexes-excessive-cpu-consumption-in-windows-10-a-complete-guide/"><u>Resolving svchost.exe's Excessive CPU Consumption in Windows 10 - A Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamless-repair-tips-for-resolving-stubborn-usb-port-issues-effectively/"><u>Seamless Repair Tips for Resolving Stubborn USB Port Issues Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/svchostexe-using-too-much-power-optimize-your-pc-with-these-windows-10-tips/"><u>Svchost.exe Using Too Much Power? Optimize Your PC with These Windows 10 Tips!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/1716464698258-top-recruiter-shorts-find-your-motivation/"><u>Top Recruiter Shorts Find Your Motivation!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-crackling-sounds-from-speakers-on-microsoft-operating-systems/"><u>Troubleshooting Crackling Sounds From Speakers on Microsoft Operating Systems</u></a></li>
 </ul></div>
 

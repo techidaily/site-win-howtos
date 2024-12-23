@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Step-by-Step: How to Fix Windows 11 Store Error Code 0X80073CF9"
-date: 2024-09-11T15:19:25.438Z
-updated: 2024-09-12T15:19:25.438Z
+date: 2024-12-18T20:25:39.987Z
+updated: 2024-12-22T22:47:44.468Z
 tags:
   - win11
   - win10
@@ -22,10 +22,7 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
  The error code generally is displayed as   **This device is not working properly because Windows cannot load the drivers required for this device. (Code 31)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Can I Fix Code 31 in Device Manager?
@@ -38,16 +35,7 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 **Note** : The screenshots below are shown on Windows 10, but the fixes apply to Windows 8, Windows 7, Windows Vista and Windows XP.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Solution 1: Restart your computer to fix Code 31**
@@ -57,10 +45,7 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
  If it’s the connected hardware that has the driver issue, you can also try to reconnect the hardware device to your computer, then restart the computer again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Solution 2: Update the driver to fix Code 31**
@@ -84,16 +69,7 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7ad4d9d7044.png)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**   button next to the flagged driver to automatically install the correct driver. (You can do this with the FREE version)
@@ -103,10 +79,7 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7ad50b355c3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) After updating drivers, restart your computer, and reconnect your device to see if the issue is resolved.
@@ -129,5 +102,18 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-blueprint-for-successful-metaverse-campaigns/"><u>[New] Blueprint for Successful Metaverse Campaigns</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-twisting-tales-in-photography-the-ultimate-guide-to-angled-spins-on-digital-platforms-for-2024/"><u>[Updated] Twisting Tales in Photography The Ultimate Guide to Angled Spins on Digital Platforms for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/automated-opener-your-srt-files-windows-and-mac-for-2024/"><u>Automated Opener Your SRT Files, Windows & Mac for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/customize-your-chromecast-a-step-by-step-guide-to-personalizing-screensaver-images/"><u>Customize Your Chromecast: A Step-by-Step Guide to Personalizing Screensaver Images</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-eliminating-excessive-cpu-demand-from-svchostexe-in-windows-10-complete-walkthrough/"><u>Diagnosing and Eliminating Excessive CPU Demand From Svchost.exe in Windows 10 [Complete Walkthrough]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-your-pc-when-it-refuses-to-power-down-in-windows-10/"><u>How to Fix Your PC When It Refuses to Power Down in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/logitech-lifesaver-unplugging-troubleshooting/"><u>Logitech Lifesaver: Unplugging Troubleshooting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/triumphing-with-troubleshooting-a-faulty-nvidia-setup/"><u>Triumphing with Troubleshooting a Faulty NVIDIA Setup</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-and-testing-2018-lg-gram-156-the-ultimate-lightweight-powerhouse-on-the-market/"><u>Unboxing & Testing: 2018 LG Gram 15.6 - The Ultimate Lightweight Powerhouse on the Market</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleashing-productivity-with-hp-zbook-firefly-gen-8-the-pinnacle-of-portable-power-solutions/"><u>Unleashing Productivity with HP ZBook Firefly Gen 8 - The Pinnacle of Portable Power Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-top-tier-gif-utilities-on-ios-devices/"><u>Unlocking Top-Tier GIF Utilities on iOS Devices</u></a></li>
+</ul></div>
 

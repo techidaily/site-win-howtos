@@ -1,7 +1,7 @@
 ---
 title: Solve Unstable USB Connections – Expert Tips & Techniques
-date: 2024-09-05T10:13:02.683Z
-updated: 2024-09-06T10:13:02.683Z
+date: 2024-12-16T23:09:59.112Z
+updated: 2024-12-22T19:03:14.390Z
 tags:
   - win11
   - win10
@@ -17,18 +17,6 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
 
  Your keyboard keeps typing wrong letters? This is extremely annoying and you’re certainly not the only one who faces it. Many Windows users are reporting this issue. But the good news is that you can fix it. Here are 6 fixes to try.
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -41,11 +29,9 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
 6. **[Reconnect your keyboard to your computer](#f)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Disable Num Lock
 
  If your keyboard starts typing numbers instead of letters, you probably enable Num Lock by mistake. In this case, disabling Num Lock can fix your problem. Here is how to do it:
@@ -54,12 +40,6 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/keyboard-162134_1280-1024x512.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * **If you don’t have a NUM key** (if you’re using a laptop), you’ll need to press the**FN key** and the**CAPS Lock key** instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/keyboard-311803_1280-1-1024x512.png)
@@ -74,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-230.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Switch to another input language and then switch back. (In my case, I’ll change the input language to German, then change it back to English.)
 
 **3)** Check your keyboard to see if this fixed your issue.
@@ -81,11 +65,9 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
  If your keyboard map still won’t match the letters on your keys, move on and try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Run the keyboard troubleshooter
 
  Another quick fix to this issue is running the Windows troubleshooter to detect and fix your problem. Follow the instructions below to see how to do it:
@@ -97,28 +79,10 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-534.png)
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Click**Keyboard** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-535.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Wait for Windows to find and fix your issue automatically.
 
  If Windows fails to detect your problem, don’t worry. There are still 3 more fixes to try.
@@ -156,20 +120,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)**  Click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-229.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -178,11 +138,9 @@ OR
  Restart your computer after you update your keyboard driver. After your computer restarts, check if your issue has been resolved. If not, try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Check for Windows updates
 
  Windows updates can address bugs related to both hardware and software. So, make sure you’ve installed all the new Windows updates to keep your keyboard running correctly. Here is how to do it:
@@ -199,12 +157,6 @@ OR
 
 If your problem persists, check the fix 6, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Reconnect your keyboard to your PC
 
  If none of the fixes above worked, reinstalling your keyboard is very likely the solution to your issue. Here is how to do it:
@@ -253,8 +205,6 @@ If your problem persists, check the fix 6, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -262,4 +212,23 @@ If your problem persists, check the fix 6, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-bluetooth-keyboard-not-connecting-to-pc/"><u>[FIXED] Bluetooth Keyboard Not Connecting to PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/browser-security-alert-decoded-how-to-deal-with-firefox-secerrorunknownissuer/"><u>Browser Security Alert Decoded - How to Deal with FireFox SEC_ERROR_UNKNOWN_ISSUER</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-diagnosing-and-fixing-improper-computer-boot-up-problems/"><u>Expert Advice on Diagnosing and Fixing Improper Computer Boot-Up Problems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-xiaomi-redmi-note-12-proplus-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Xiaomi Redmi Note 12 Pro+ 5G Phone Screen?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-shell-common-dll-error-a-step-by-step-guide/"><u>How to Resolve 'Windows Shell Common DLL Error' – A Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-lava-blaze-2-5g-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Lava Blaze 2 5G</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-top-10-iphone-and-android-apps-to-add-stickers-on-your-photos/"><u>In 2024, Top 10 iPhone and Android Apps to Add Stickers on Your Photos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-the-dreambot-l10-pro-a-lidar-enhanced-cleansing-marvel-for-modern-homes/"><u>In-Depth Review of the DreamBot L10 Pro: A LiDAR-Enhanced Cleansing Marvel for Modern Homes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-digital-age-laptops-smartphones-and-literary-treasures-galore/"><u>Navigating the Digital Age: Laptops, Smartphones & Literary Treasures Galore!</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-an-ai-artist/"><u>New What Is an AI Artist?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-skype-visual-glitches-in-windows-11-with-easy-fixes/"><u>Overcome Skype Visual Glitches in Windows 11 with Easy Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-0x800f0831-error-instantly-a-guide-to-updating-your-windows-system/"><u>Solve 0X800f0831 Error Instantly: A Guide to Updating Your Windows System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-call-of-duty-world-war-ii-error-code-4220-malfunction/"><u>Step-by-Step Fix for Call of Duty World War II Error Code 4220 Malfunction</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-insiders-blueprint-for-commanding-attention-with-posts-for-2024/"><u>The Insider's Blueprint for Commanding Attention with Posts for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-shoppers-list-select-box-personalization-sites/"><u>Ultimate Shopper's List Select Box Personalization Sites</u></a></li>
+</ul></div>
 

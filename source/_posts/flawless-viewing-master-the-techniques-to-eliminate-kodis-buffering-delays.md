@@ -1,7 +1,7 @@
 ---
 title: Flawless Viewing - Master the Techniques to Eliminate Kodi's Buffering Delays
-date: 2024-09-05T10:12:56.881Z
-updated: 2024-09-06T10:12:56.881Z
+date: 2024-12-18T00:15:17.184Z
+updated: 2024-12-22T22:04:46.409Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Flawless Viewing - Master the Techniques to Elim
 thumbnail: https://thmb.techidaily.com/25348c47fef7e0c5d4c880e473042e01e47d5973d7a411956a452edb781f4e13.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Kodi Continuous Playback Restored - No More Buffering Issues
 
 Quick Fix:**Install & update drivers automatically**
@@ -39,6 +33,10 @@ Quick Fix:**Install & update drivers automatically**
 
  The methods written below can help you fix these buffering issues. Read on to find how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Check your Internet speed
 
  The first thing you have to do is to check your internet connection. Make sure it’s stable and then test your internet speed. You can use add-ons on Kodi to test your internet speed.  
@@ -46,19 +44,11 @@ Quick Fix:**Install & update drivers automatically**
 
 1. Select Add-ons in the Kodi home screen and click**One Nation Portal** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/527.jpg)
 2. Click**Internet Tools** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5271.jpg)
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**Speed Tester** and wait for the testing result.![](https://images.drivereasy.com/wp-content/uploads/2019/05/5272.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Usually, a large, HD content will require a high speed. If the problem is due to low internet speed, you can try[Fix 1](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -86,12 +76,6 @@ Quick Fix:**Install & update drivers automatically**
 2. Run NordVPN and open it.
 3. Connect to a server in a chosen location.![](https://images.drivereasy.com/wp-content/uploads/2019/05/nord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Coupon tip** : Get a **[NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/)**  before you buy it!
 
 ### Fix 2: Adjust video cache size with One nation
@@ -100,68 +84,40 @@ Quick Fix:**Install & update drivers automatically**
 
 1. Select Add-ons in the Kodi home screen and click**One Nation Porta** l.![](https://images.drivereasy.com/wp-content/uploads/2019/05/527-1.jpg)
 2. Click**Maintenance** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-3.jpg)
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click System Tweaks/Fixes.![](https://images.drivereasy.com/wp-content/uploads/2019/05/5273.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click**Quick Configure AdvancedSettings.xml** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5274.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Adjust the video cache size and then click**Write file** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5275.jpg)
-6. Restart Kodi and check the buffering problem is still there or not.
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Restart Kodi and check the buffering problem is still there or not.
+
 ### Fix 3: Clear Kodi cache with One nation
 
  Besides expanding the cache size, you can use clearing Kodi cache to fix the issue. The cache is like a reservoir, the temp files are like rocks in the reservoir. When the reservoir is filled with the stream you need, you’ll get constantly fluent streaming. But if there’s rock inside, the stream will slow down and you’ll encounter the Kodi buffering issue. So, clearing cache to leave more space can fix the Kodi buffering problem.
 
 1. Select Add-ons in the Kodi home screen and click**One Nation Portal** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/j5-2.jpg)
 2. Click**Maintenance** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Click**Cleaning Tools** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/3-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Choose**Clear Cache** . Or choose**Total Clean Up** , which also helps to play videos smoothly in Kodi.![](https://images.drivereasy.com/wp-content/uploads/2019/05/4-2.jpg)
 5. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Restart Kodi and check whether the buffering issue is still here or not.
 
  We hope these methods can help you solve the Kodi buffering issue. And it would be very nice if you share your opinion with us below.
@@ -174,8 +130,6 @@ Quick Fix:**Install & update drivers automatically**
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +137,21 @@ Quick Fix:**Install & update drivers automatically**
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-solutions-for-missing-shorts-thumbnails-on-youtube/"><u>[New] 2024 Approved Solutions for Missing Shorts Thumbnails on YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-discovering-streamer-favorite-live-cam-technology/"><u>[New] Discovering Streamer-Favorite Live Cam Technology</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-top-mac-gif-saving-best-10-gif-apps/"><u>[Updated] In 2024, Top Mac GIF Saving Best 10 Gif Apps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-3-prime-video-hosts-beyond-youtube/"><u>[Updated] Top 3 Prime Video Hosts - Beyond YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-exploring-and-harnessing-twitter-archive-insights/"><u>2024 Approved Exploring and Harnessing Twitter Archive Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-hurdle-easy-ways-to-address-unavailable-dns-errors/"><u>Bypassing the Hurdle: Easy Ways to Address Unavailable DNS Errors</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-troubleshoot-when-call-of-duty-warzone-wont-open/"><u>How to Troubleshoot When Call of Duty Warzone Won't Open</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/kostenloser-premium-video-streamplayer-optimiert-fur-die-wiedergabe-von-high-definition-inhalt-in-full-hd-auf-pcs-windows-10-macos/"><u>Kostenloser Premium Video Streamplayer - Optimiert Für Die Wiedergabe Von High Definition Inhalt in Full HD Auf PCs (Windows 10) / MacOS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigate-through-connectivity-woes-how-to-ensure-a-constant-wi-fi-connection-for-your-mouse/"><u>Navigate Through Connectivity Woes: How To Ensure a Constant Wi-Fi Connection for Your Mouse</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/perfect-your-gif-game-on-windows-nine-best-capture-software-for-2024/"><u>Perfect Your GIF Game on Windows Nine Best Capture Software for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-pax8-pparg-translocation-is-frequently-associated-with-follicular-thyroid-carcinoma-providing-potential-targets-for-intervention/"><u>The PAX8-PPARγ Translocation Is Frequently Associated with Follicular Thyroid Carcinoma, Providing Potential Targets for Intervention.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-strategies-for-troubleshooting-non-pairing-bluetooth-devices-on-windows-11/"><u>Top Strategies for Troubleshooting Non-Pairing Bluetooth Devices on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-usb-recognition-issues-expert-tips-and-fixes-for-persistent-notifications/"><u>Troubleshooting USB Recognition Issues: Expert Tips & Fixes for Persistent Notifications</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-guide-fixing-your-non-syncing-xbox-one-controller/"><u>Ultimate Troubleshooting Guide: Fixing Your Non-Syncing Xbox One Controller</u></a></li>
+</ul></div>
 

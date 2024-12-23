@@ -1,7 +1,7 @@
 ---
 title: DIY Solutions for Persistent Computer Hangs and Stops Working Problems
-date: 2024-09-11T15:23:29.930Z
-updated: 2024-09-12T15:23:29.930Z
+date: 2024-12-18T19:14:17.422Z
+updated: 2024-12-22T20:46:03.348Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 3. [**Reinstall your system without activating it**](#c)
 4. [**Find another source of installation media**](#d)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Continue installation using Automatic Repair
 
  When your Windows installation process is stopped by the “could not complete” error, one effective method is to continue the process with the help of Advanced Recovery.
@@ -39,10 +43,7 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a698952129aa.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Click**Advanced options** .
@@ -50,10 +51,7 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a69891372c5b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Select**Troubleshoot** .
@@ -63,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 **4)** Select**Reset this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a698a2bd825b.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Select**Keep my files** .
 
@@ -82,19 +73,6 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 **7)** Select**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a698c64b4abb.png)
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **8)** If this method works for you, it’ll continue the installation process and you won’t get the error again.
 
@@ -110,18 +88,19 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a699954165bf.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to each of your devices to download the latest and correct driver for this device. You can also click the Update All button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6999d636954.jpg)
 
-**4)** Restart your computer, then you have already had the latest drivers installed on your computer.
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**4)** Restart your computer, then you have already had the latest drivers installed on your computer.
 
 ## Method 2: Run the Windows account creation wizard
 
@@ -132,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 **2)**  Type “_**cd %windir%/system32/oobe/**_ ” and press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c48a959cce0.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Type “_**msoobe**_ ” and press**Enter** on your keyboard.
 
@@ -151,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 ## Method 3: Reinstall your system without activating it
 
  Sometimes the error occurs when you are trying to install a specific version of Windows (such as Windows 10 Education). In this case, you can try reinstalling your system. But this time you should choose to install the Home version and don’t activate it during the installation. After the installation completes, use the product key to activate your system. It should run fine at this time.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4: Find another source of installation media
 
@@ -178,5 +143,24 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-global-leaders-in-digital-education-beyond-udemy/"><u>[New] Global Leaders in Digital Education Beyond Udemy</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leaders-list-of-gps-drones-with-precision-tracking/"><u>[Updated] Leader's List of GPS Drones with Precision Tracking</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-why-does-facebook-suggested-videos-not-showing-up/"><u>[Updated] Why Does Facebook Suggested Videos Not Showing Up?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/0x80072ee7-in-windows-store-solved/"><u>0X80072EE7 in Windows Store [SOLVED]</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-breaking-the-monotony-infusing-novelty-in-ppt-voiceovers/"><u>2024 Approved Breaking the Monotony Infusing Novelty in PPT Voiceovers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-solution-to-total-war-rome-remastered-crash-issues-step-by-step-tutorial/"><u>Complete Solution to Total War: Rome Remastered Crash Issues - Step by Step Tutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/dont-miss-out-unbeatable-labor-day-sale-on-fire-tv-and-xbox-game-pass-bundle-save-a-whopping-33-techradar-news/"><u>Don't Miss Out! Unbeatable Labor Day Sale on Fire TV and Xbox Game Pass Bundle – Save a Whopping 33% | TechRadar News</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-tips-for-recovering-and-restoring-broken-system-files-in-windows-1110/"><u>Essential Tips for Recovering and Restoring Broken System Files in Windows 11/10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-stuck-startup-issue-getting-past-the-windows-preparation-stage/"><u>Fixing the Stuck Startup Issue: Getting Past the 'Windows Preparation Stage'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-brightness-settings-in-windows-10-when-they-stop-responding/"><u>How to Restore Brightness Settings in Windows 10 When They Stop Responding</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-realme-gt-neo-5-se-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Realme GT Neo 5 SE FRP Without Computer</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-media-files-with-freeaudextractor-2024-review/"><u>Mastering Media Files with FreeAudExtractor 2024 Review</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-v30-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Realme V30 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208570701-ps4-network-type-trouble-follow-this-comprehensive-fix-tutorial/"><u>PS4 Network Type Trouble? Follow This Comprehensive Fix Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-audacity-here-are-five-reliable-ways-to-correct-the-sound-output-error/"><u>Trouble with Audacity? Here Are Five Reliable Ways to Correct the Sound Output Error!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-overcoming-the-hurdle-of-anti-cheat-errors-in-apex-legends/"><u>Ultimate Guide: Overcoming the Hurdle of Anti-Cheat Errors in Apex Legends</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/what-to-do-when-your-torrent-wont-start-downloading-expert-advice/"><u>What to Do When Your Torrent Won't Start Downloading? Expert Advice</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Surface Pro 4 Touchscreen Malfunction? Here's How to Get It Working Again
-date: 2024-12-08T19:00:12.166Z
-updated: 2024-12-13T17:04:18.491Z
+date: 2024-12-18T21:08:04.830Z
+updated: 2024-12-22T16:20:57.164Z
 tags:
   - win11
   - win10
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 **4) Start** your device. Then try your touch screen and see if it can work.  
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Install system updates
 
  Your operating system may contain some defects that disable the touch screen of your device. You should verify that your system is updated, and install the system updates if it isn’t.
@@ -66,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Update the driver of your touch screen
@@ -86,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c49fc02c88.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click the Update button next to a flagged touch screen driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click the Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)  – you’ll be prompted to upgrade when you click the Update All).
@@ -107,7 +111,7 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Select**Recovery** and then select **Get started** button under Reset this PC.
@@ -115,16 +119,12 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c54ad3185f.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Choose either to **keep your files** or to **remove everything** when resetting your device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c551f22061.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Wait for your device to be reset completely. Then try your screen and see if it gets back to normal.
 
@@ -145,22 +145,24 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-10-best-flash-and-fly-player-for-pc-and-mobile/"><u>[New] 10 Best Flash and Fly Player for PC and Mobile</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-a-comprehensive-guide-to-superior-valheim-saplings/"><u>[New] A Comprehensive Guide to Superior Valheim Saplings</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-virtual-worlds-with-samsung-gear-vr-games/"><u>[Updated] Exploring Virtual Worlds with Samsung Gear VR Games</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-optimizing-visual-engagement-in-google-meet-sessions/"><u>[Updated] Optimizing Visual Engagement in Google Meet Sessions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/addressing-invisible-network-connections-fixing-wi-fi-on-your-windows-11-pc/"><u>Addressing Invisible Network Connections: Fixing Wi-Fi on Your Windows 11 PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-accelerate-windows-7-boot-times/"><u>Effective Solutions to Accelerate Windows 7 Boot Times</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-diagnosing-and-repairing-error-0x8024a105-during-windows-update-cycle/"><u>Effective Strategies for Diagnosing and Repairing Error 0X8024A105 During Windows Update Cycle</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-unresponsive-usb-ports-in-windows-11-for-better-performance/"><u>How to Repair Unresponsive USB Ports in Windows 11 for Better Performance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/immediate-ways-to-correct-non-functioning-voice-chat-in-overwatch/"><u>Immediate Ways to Correct Non-Functioning Voice Chat in Overwatch</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-14-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 14 Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-xiaomi-redmi-a2plus-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Xiaomi Redmi A2+ to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-repair-of-microsofts-infamous-80072ee2-update-failure/"><u>Mastering the Repair of Microsoft's Infamous 80072EE2 Update Failure</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pinnacle-of-3d-entertainment-premium-blu-ray-decks-for-2024/"><u>Pinnacle of 3D Entertainment Premium Blu-Ray Decks for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/premiere-pro-pc-build-a-step-by-step-system-setup-tutorial/"><u>Premiere Pro PC Build A Step-by-Step System Setup Tutorial</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-defective-usb-connections-expert-tips/"><u>Quick Fixes for Defective USB Connections - Expert Tips</u></a></li>
-<li><a href="https://facebook.techidaily.com/study-most-covid-19-misinformation-was-spread-by-these-12-influencers/"><u>Study: Most Covid-19 Misinformation Was Spread by These 12 Influencers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-code-24-overcoming-the-device-unavailable-problem-in-windows-operating-systems-wsten-to-win7/"><u>Troubleshoot Code 24: Overcoming the 'Device Unavailable' Problem in Windows Operating Systems WS_TEN to Win7</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-photographicperfection-how-to-fine-tune-insta-images-and-videos/"><u>[New] In 2024, PhotographicPerfection How to Fine-Tune Insta Images & Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-screen-capture-mastery-windows-edition-free-3-methods-for-2024/"><u>[New] Screen Capture Mastery Windows Edition (Free, 3 Methods) for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-seventh-line-up-of-all-weather-action-cams/"><u>[New] The Seventh Line-Up of All-Weather Action Cams</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-fashion-forward-video-ideas/"><u>[Updated] 2024 Approved Fashion Forward Video Ideas</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mastering-media-making-filmoras-edge-over-democreator/"><u>[Updated] In 2024, Mastering Media Making Filmora's Edge Over Democreator</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-rebound-creators-range-for-2024/"><u>[Updated] Rebound Creators' Range for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/0x80073712-error-code-in-windows-11-solved/"><u>0X80073712 Error Code in Windows 11 [SOLVED]</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ades-across-platforms-for-video-creators/"><u>Accolades Across Platforms for Video Creators</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-windows-error-the-case-of-the-d3dxx32dll-that-wont-load/"><u>Easy Fixes for Windows Error - The Case of the d3dxx_32.dll That Won't Load</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-restoring-functionality-to-a-broken-lenovo-f-key-with-ease/"><u>Expert Advice: Restoring Functionality to a Broken Lenovo F-Key with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-back-your-racetrack-roar-expert-solutions-for-restoring-sounds-in-forza-horizon-4/"><u>Get Back Your Racetrack Roar: Expert Solutions for Restoring Sounds in Forza Horizon 4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-address-unresponsive-windows-11-after-turning-it-on-a-comprehensive-guide/"><u>How to Address Unresponsive Windows 11 After Turning It On - A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-magic-6-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Honor Magic 6 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-enable-detecting-bluetooth-gadgets-on-your-windows-update/"><u>How to Enable Detecting Bluetooth Gadgets on Your Windows # Update</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-samsung-bd-j5900-overhaul-whats-new/"><u>In 2024, Samsung BD-J5900 Overhaul What's New ?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/out-of-sight-not-out-of-reach-bringing-offscreen-windows-back-into-view/"><u>Out of Sight, Not Out of Reach: Bringing Offscreen Windows Back Into View</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210520907-9781088022153-the-monad-manifesto/"><u>The Monad Manifesto | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-lost-sound-devices-in-windows-1011-expert-fixes/"><u>Troubleshooting Lost Sound Devices in Windows 10/11 - Expert Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-10-updates-solutions-for-when-installation-freezes/"><u>Troubleshooting Windows 10 Updates: Solutions for When Installation Freezes</u></a></li>
 </ul></div>
 

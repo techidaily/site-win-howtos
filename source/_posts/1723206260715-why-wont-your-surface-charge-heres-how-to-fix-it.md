@@ -1,7 +1,7 @@
 ---
 title: Why Won't Your Surface Charge? Here's How to Fix It!
-date: 2024-09-11T15:24:09.581Z
-updated: 2024-09-12T15:24:09.581Z
+date: 2024-12-21T16:35:49.994Z
+updated: 2024-12-22T23:16:50.366Z
 tags:
   - win11
   - win10
@@ -39,21 +39,16 @@ thumbnail: https://thmb.techidaily.com/d009fff2d2f1ae33a60244be6a10e60fe9a4c6152
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to one driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/01/Driver-Easy-Update-mouse-driver.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Change function key behavior
@@ -66,40 +61,16 @@ Follow these steps:
 
 ![Windows 11 - how to open the Control Panel](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2\. View by Large icons and select**Windows Mobility Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3dbd122ee9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3\. In the Windows Mobility Center window, locate Fn Key Behavior. Click the drop-down arrow and select**Function key** from the menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3dae73bccf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 4： Try Uninstalling and reinstalling the keyboard drivers**
@@ -110,21 +81,16 @@ Follow these steps:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. Expand category**Keyboards** , Right-click on the keyboard device, and click**Uninstall device** from the pop-up menu. Then follow the on-screen instructions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3de2f109fa.png)
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3\. After uninstalling the driver, restart Windows then the driver will install automatically.
@@ -148,5 +114,26 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-steps-for-deleting-discord-on-computermobile/"><u>[New] 2024 Approved Steps for Deleting Discord on Computer/Mobile</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-6-plus-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone 6 Plus & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficient-methods-to-repair-integrated-cameras-on-windows-devices/"><u>Efficient Methods to Repair Integrated Cameras on Windows Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ensure-flawless-play-with-fixing-xbox-one-controller/"><u>Ensure Flawless Play with Fixing Xbox One Controller</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-resolving-power-plugs-detected-yet-no-charge-on-windows-os/"><u>Expert Tips for Resolving Power Plugs Detected, Yet No Charge on Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-why-wont-my-windows-10-screen-adjust-its-brightness/"><u>Fix: Why Won't My Windows 10 Screen Adjust Its Brightness?</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/guide-setting-up-automatic-saving-for-emails-from-sent-items-in-microsoft-outlook/"><u>Guide: Setting Up Automatic Saving for Emails From Sent Items in Microsoft Outlook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-connect-chatgpt-with-apples-siri-for-an-enhanced-iphone-experience/"><u>How to Connect ChatGPT With Apple's Siri for an Enhanced iPhone Experience</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How to Detect and Remove Spyware on Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-print-screen-functionality-in-windows-11-and-windows-10-systems/"><u>How to Restore Print Screen Functionality in Windows 11 and Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/igfxem-malfunction-effective-solutions-for-reestablishing-functionality/"><u>IgfxEM Malfunction: Effective Solutions for Reestablishing Functionality</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-screen-capture-with-irecorder/"><u>In 2024, Mastering Screen Capture with iRecorder</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-maximizing-youtube-engagement-with-strategic-hashes/"><u>In 2024, Maximizing YouTube Engagement with Strategic Hashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-device-compatibility-fix-your-pcs-casting-problem-in-the-latest-windows-10-update/"><u>Mastering Device Compatibility: Fix Your PC's Casting Problem in the Latest Windows 10 Update</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-file-relocation-expert-tips-for-seamless-transfers-within-windows-11/"><u>Mastering File Relocation: Expert Tips for Seamless Transfers Within Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smartphone-security-systems-apples-x-vs-samsungs-facial-tech-for-2024/"><u>Smartphone Security Systems Apple’s X Vs. Samsung's Facial Tech for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/teredo-struggles-with-eligibility-understanding-the-challenges/"><u>Teredo Struggles with Eligibility: Understanding the Challenges</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstick-your-pdf-printer-effortless-fixes-for-a-smooth-printout/"><u>Unstick Your PDF Printer: Effortless Fixes for a Smooth Printout</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp3-3gpp/"><u>블라우징 덕터의 MP3 태스크릿 - 오페라 3GPP 음성 파일을 무료로 체계적으로 전환하기</u></a></li>
+</ul></div>
 

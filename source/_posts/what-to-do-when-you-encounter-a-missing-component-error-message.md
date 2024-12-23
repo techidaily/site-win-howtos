@@ -1,7 +1,7 @@
 ---
 title: What to Do When You Encounter a Missing Component Error Message
-date: 2024-09-11T15:24:10.820Z
-updated: 2024-09-12T15:24:10.820Z
+date: 2024-12-17T22:58:08.616Z
+updated: 2024-12-22T22:12:09.113Z
 tags:
   - win11
   - win10
@@ -18,16 +18,7 @@ thumbnail: https://thmb.techidaily.com/e082df8e991a0ed032e389702a1a1fbbc04b48103
 **Mouse keeps disconnecting** on your computer? Don’t worry, it’s often quite not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 fixes for **Mouse keeps disconnecting**
@@ -40,19 +31,6 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check for hardware issues
 
 1. **Change a different port**. Sometimes this **Mouse keeps disconnecting** problem occurs simply because you’ve plugged your mouse in a faulty USB port. You can plug it out and insert in another port to see if it fixes the problem.
@@ -60,43 +38,36 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Change power management settings for USB Root Hub
 
 Tweaking the properties in **USB Root Hub** devices is another proven effective way to solve our mouse keeps disconnecting and reconnecting issue. To do this:
 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
-2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
-3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
+3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -111,15 +82,13 @@ You can update your drivers automatically with either the [**Free**](https://too
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
 
@@ -144,5 +113,24 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-in-video-earnings-techno-gamers-guide/"><u>[New] 2024 Approved In-Video Earnings Techno Gamers' Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-snapcutmaster-insights-full-scrutiny/"><u>[Updated] In 2024, SnapCutMaster Insights – Full Scrutiny</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-chromebook-users-companion-to-launching-and-deleting-audacity/"><u>2024 Approved Chromebook Users Companion to Launching and Deleting Audacity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essential-guide-to-video-hue-correction-11-steps/"><u>2024 Approved The Essential Guide to Video Hue Correction (11 Steps)</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-a-non-functioning-huion-pen-in-just-5-steps/"><u>Fix a Non-Functioning Huion Pen in Just 5 Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-and-tips-for-keyboards-not-responding-during-initial-access/"><u>Fixes and Tips for Keyboards Not Responding During Initial Access</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-xiaomi-14-ultra-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Xiaomi 14 Ultra Face Lock?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-run-admin-tasks-without-elevation-prompts-on-windows-11/"><u>How to Run Admin Tasks Without Elevation Prompts on Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-tecno-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Tecno Without Password?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/music-video-madness-top-10-on-social-sphere/"><u>Music Video Madness Top 10 on Social Sphere</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-sims-4-not-launching-dilemma-a-comprehensive-guide/"><u>Solving the 'Sims 4 Not Launching' Dilemma: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-wow-lagging-issues-what-you-need-to-know/"><u>Troubleshooting and Fixing WoW Lagging Issues - What You Need to Know</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/untangling-the-mystery-of-lost-steam-file-rights/"><u>Untangling the Mystery of Lost Steam File Rights</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/wiederherstellung-verlorener-dateien-auf-flash-speichermedien-eine-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Verlorener Dateien Auf Flash-Speichermedien: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-failed-to-enumerate-objects-in-the-container-access-is-denied-solved/"><u>Windows 11 Failed to Enumerate Objects in the Container. Access Is Denied [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-help-solving-power-issues-for-plugged-in-not-charging-laptops/"><u>Windows 11 Help - Solving Power Issues for Plugged In, Not Charging Laptops</u></a></li>
+</ul></div>
 

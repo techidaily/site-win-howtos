@@ -1,7 +1,7 @@
 ---
 title: Solutions to Stop COD Black Ops 4'S Critical Failures and Glitches
-date: 2024-12-09T21:04:59.796Z
-updated: 2024-12-13T22:31:43.661Z
+date: 2024-12-19T17:17:00.011Z
+updated: 2024-12-22T23:28:43.178Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/12fbcccb55845f8983544f25e1cc6b0c0aa528d40
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -51,10 +47,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
@@ -62,7 +54,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -107,15 +99,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -130,6 +122,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -138,17 +134,21 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,21 +184,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/kernel-troubleshoot-fix-dll-in-win/"><u>[Kernel Troubleshoot] Fix DLL in Win</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-comprehensive-guide-to-free-premium-video-callers/"><u>[New] In 2024, Comprehensive Guide to Free, Premium Video Callers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-obs-direct-live-video-feed-for-instagram/"><u>[New] OBS Direct Live Video Feed for Instagram</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/4-ways-to-reset-your-password-in-windows-10/"><u>4 Ways to Reset Your Password in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-for-turning-on-your-pcs-bluetooth-feature-in-windows-1110/"><u>Comprehensive Tutorial for Turning On Your PC’s Bluetooth Feature in Windows 11/10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Lava Yuva 2? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eliminate-overworked-cpus-with-wmi/"><u>Eliminate Overworked CPUs with WMI</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/execution-barred-by-conditions/"><u>Execution Barred by Conditions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-corrective-steps-for-file-not-found-errors/"><u>Expert Tips: Corrective Steps for 'File Not Found' Errors</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-nokia-c300-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Nokia C300 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-can-you-legally-watch-netflix-on-a-budget/"><u>How Can You Legally Watch Netflix on a Budget?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-continuously-crashing-iphone-apps-a-list-of-top-10-remedies/"><u>How to Fix Continuously Crashing iPhone Apps: A List of Top 10 Remedies</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone 13 Pro Max?</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/microsoft-expands-iot-offerings-as-google-withdraws-from-market-insights-by-zdnet/"><u>Microsoft Expands IoT Offerings as Google Withdraws From Market - Insights by ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-non-responsive-usb-mouse-problems-with-proven-techniques-for-laptops/"><u>Solve Your Non-Responsive USB Mouse Problems with Proven Techniques for Laptops</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-stuck-or-broken-letters-on-your-windows-1011-keyboard/"><u>Troubleshooting Stuck or Broken Letters on Your Windows 10/11 Keyboard</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-listenlogic-evaluating-alternatives-to-dacast/"><u>[Updated] ListenLogic Evaluating Alternatives to DaCast</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-tickling-your-sense-of-humor-tiktoks-20-joke-highlights/"><u>[Updated] Tickling Your Sense of Humor TikTok's 20 Joke Highlights</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-caller-id-changers-with-enchanting-options/"><u>2024 Approved Leading Caller ID Changers with Enchanting Options</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-techniques-for-effective-webp-to-jpeg-change/"><u>2024 Approved Leading Techniques for Effective WebP to JPEG Change</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ultimate-guide-best-free-mac-screen-recording-tools/"><u>2024 Approved Ultimate Guide Best Free Mac Screen Recording Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/a-comprehensive-guide-to-crucial-linux-terminology-unveiling-the-meanings-of-distributions-desktops-environments-repos-and-more/"><u>A Comprehensive Guide to Crucial Linux Terminology: Unveiling the Meanings of Distributions, Desktops Environments, Repos, and More</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/avoiding-memory-errors-strategies-and-tips-yl-computing/"><u>Avoiding Memory Errors: Strategies & Tips - YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-guide-solve-windows-network-problem-0x80e704cf-fixed/"><u>Complete Guide: Solve Windows Network Problem - 0X80e704CF Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/connect-your-microsoft-wireless-display-to-windows-11-step-by-step-troubleshooting-guide/"><u>Connect Your Microsoft Wireless Display to Windows 11: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-sluggish-closure-problem-windows-10-troubleshooting/"><u>Fixing the Sluggish Closure Problem: Windows 10 Troubleshooting</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-12-pro-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 12 Pro Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-a-missing-or-invisible-cursor-problem-on-your-windows-10-pc/"><u>How to Resolve a Missing or Invisible Cursor Problem on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205397157-how-to-resolve-common-issues-apex-legends-cheating-protection-bugs-fixed/"><u>How to Resolve Common Issues: Apex Legends Cheating Protection Bugs Fixed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-persistent-windows-11-update-error-code-0x80c705b4/"><u>How to Resolve the Persistent Windows 11 Update Error (Code 0X80C705B4)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-top-tier-electronics-with-toms-hardware-insights/"><u>Inside Look at Top-Tier Electronics with Tom’s Hardware Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/minecraft-opengl-problems-demystified-how-to-restore-smooth-gameplay/"><u>Minecraft OpenGL Problems Demystified: How to Restore Smooth Gameplay</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-samsung-galaxy-m34-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Samsung Galaxy M34 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-definitive-guide-to-repairing-red-screen-malfunctions-solutions-that-work/"><u>The Definitive Guide to Repairing Red Screen Malfunctions: Solutions That Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-enabling-your-windows-10-hosted-network-when-initialization-fails/"><u>Troubleshooting Guide: Enabling Your Windows 10 Hosted Network When Initialization Fails</u></a></li>
 </ul></div>
 

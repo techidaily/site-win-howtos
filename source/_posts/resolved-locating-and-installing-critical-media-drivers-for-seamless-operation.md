@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Locating and Installing Critical Media Drivers for Seamless Operation"
-date: 2024-12-10T21:12:04.797Z
-updated: 2024-12-13T17:41:44.315Z
+date: 2024-12-19T17:06:38.415Z
+updated: 2024-12-22T21:34:16.392Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ the picture was taken by: Article\_86
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## End the process
@@ -40,10 +40,6 @@ the picture was taken by: Article\_86
 1. Press**Ctrl+Shift+Esc** together on your keyboard to evoke the**Task Manager** .
 2. Choose**Google Chrome** and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/task-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
@@ -57,15 +53,15 @@ the picture was taken by: Article\_86
 4. [**Clear Google Chrome cache**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Get an ad-block extension
 
  Because this scam is a fraud page, technically it won’t do severe harm to your computer. The working mechanism of this scam is like an ad. Screening fraudulent users to defraud money. So an ad-block extension can help.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run a virus scan
 
@@ -86,12 +82,16 @@ the picture was taken by: Article\_86
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Relaunch Chrome to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Clear Google Chrome cache
 
@@ -102,15 +102,15 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -128,7 +128,7 @@ the picture was taken by: Article\_86
 5. Click **Reset settings** to reset Google Chrome.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
@@ -171,14 +171,22 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-crafting-a-continuous-youtube-video-stream-from-separate-files/"><u>[New] Crafting a Continuous Youtube Video Stream From Separate Files</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-master-screen-record-on-win-10-for-2024/"><u>[Updated] Master Screen Record on Win 10 for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/apple-iphone-14-plus-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 14 Plus Screen Mirroring You Must Know | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beating-update-errors-on-windows-10-a-comprehensive-guide-to-overcoming-error-0xc1900208/"><u>Beating Update Errors on Windows 10: A Comprehensive Guide to Overcoming Error 0xC1900208</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-upgradable-windows-10-solutions-and-tips/"><u>How to Fix a Non-Upgradable Windows 10: Solutions & Tips</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-itel-a70-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Itel A70 FRP Bypass</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-to-reduce-svchostexe-cpu-consumption-on-windows-11-systems/"><u>Step-by-Step Solution to Reduce svchost.exe CPU Consumption on Windows 11 Systems</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-9-apple-iphone-6s-plus-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>Top 9 Apple iPhone 6s Plus Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202362511-troubleshooting-a-nonfunctional-dell-wireless-keypad-solutions-inside/"><u>Troubleshooting a Nonfunctional Dell Wireless Keypad – Solutions Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-local-security-authority-protection-is-off/"><u>[Fixed] Local Security Authority Protection Is Off</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-accelerated-learning-for-chromakey-artistry/"><u>[New] 2024 Approved Accelerated Learning for Chromakey Artistry</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-streaming-stations-beyond-ustream-reviews/"><u>[Updated] In 2024, Streaming Stations Beyond Ustream Reviews</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminating-unwanted-lag-when-typing-solutions-for-windows-10-users/"><u>Eliminating Unwanted Lag When Typing: Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-resource-protection-error-step-by-step-guide/"><u>Fixing 'Windows Resource Protection Error' – Step-by-Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722964440152-get-the-newest-canon-d530-firmware-version-free-download-available-now/"><u>Get the Newest Canon D530 Firmware Version – Free Download Available Now</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-cutting-edge-filmmaking-on-your-ios-device/"><u>In 2024, Cutting-Edge Filmmaking on Your iOS Device</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-the-0x80860010-a-guide-to-fixes-for-windows/"><u>Navigating Through The 0X80860010: A Guide to Fixes for Windows</u></a></li>
+<li><a href="https://win-news.techidaily.com/netflix4/"><u>Netflixプロフィールが消えた後、4方法で復元するコツ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-windows-10s-audio-rendering-challenges-in-youtube-a-fix-guide/"><u>Overcome Windows 10'S Audio Rendering Challenges in YouTube - A Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211006901-quick-fixes-for-when-your-laptop-wont-charge-solve-it-now/"><u>Quick Fixes for When Your Laptop Won't Charge – Solve It Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/remote-server-connectivity-problems-heres-how-to-restore-access/"><u>Remote Server Connectivity Problems? Here's How to Restore Access!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/seamless-cross-posting-of-tiktok-content-to-facebook/"><u>Seamless Cross-Posting of TikTok Content to Facebook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-8-no-cost-web-design-tools-ideal-html-editors-for-windows/"><u>Top 8 No-Cost Web Design Tools: Ideal HTML Editors for Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-life-mastering-lifestyle-enhancement-with-chatgpt/"><u>Transform Your Life: Mastering Lifestyle Enhancement with ChatGPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-with-server-connections-heres-your-step-by-step-repair-manual/"><u>Trouble with Server Connections? Here's Your Step-by-Step Repair Manual!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-incorrect-directory-names-and-resolving-common-mistakes/"><u>Troubleshooting Incorrect Directory Names & Resolving Common Mistakes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick Solutions: Resolving the 'Windows Update Held at 0%%' Dilemma"
-date: 2024-09-05T10:13:14.342Z
-updated: 2024-09-06T10:13:14.342Z
+date: 2024-12-20T17:30:14.309Z
+updated: 2024-12-22T17:13:54.254Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Quick Solutions: Resolving the 'Windows Update 
 thumbnail: https://thmb.techidaily.com/436e7c090c1399dacbfd65fa5eec6eb667bcc5539d8f70bb67561d5aae5ff3b5.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing the Windows 11 Welcome Hang-Up: Fast Solutions
 
 Many Windows 10 users are reporting that their computers get stuck on**Welcome screen** . The loading circle cannot stop and the system does not respond to their actions.
@@ -35,12 +29,6 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 **IMPORTANT:** To perform these methods, you need to have a**Windows 10 installation media** , like a USB drive or a DVD. If you don’t,[**create one with a USB** **drive**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 1: Run a Startup Repair
 
  The Startup Repair can repair the files necessary for the startup of your computer. To run a Startup Repair to fix your issue:
@@ -55,6 +43,10 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687ec975fbb.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Select**Troubleshoot** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687f253bcd5.png)
@@ -63,12 +55,6 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968810c5917f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **6)**  Select**Windows 10** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968812f12e1e.png)
@@ -76,11 +62,9 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 **7)** After the Startup Repair complete, restart your computer and see if it resolves your problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 2: Run system checks
 
  Your Windows 10 computer may get stuck on the welcome screen when there are corrupted system files on your computer. You can run some checks on your computer to see if it is the corrupted files that cause your problem.
@@ -95,6 +79,10 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687ec975fbb.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Select**Troubleshoot** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687f253bcd5.png)
@@ -102,6 +90,10 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 **5)**  Select**Command Prompt** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596884143a289.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)**  Type the following lines in Command Prompt and press **Enter** on your computer after each.
 
@@ -114,28 +106,10 @@ _**bootrec /scanos**_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968863896808.png)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **7)**  Wait for the scans to complete. Then exit Command Prompt.
 
 **8)** Restart your computer and see if it fixes the issue. If you still get stuck, check**method 3** to reset your Windows 10.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Reset your Windows 10
 
  It is possible that your Windows 10 was damaged and it can’t start up normally.**Resetting your operating system** can help you get it back to normal.
@@ -148,28 +122,14 @@ _**bootrec /scanos**_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Boot your computer from your Windows 10 installation media. After selecting the language and region, click on**Install now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968970ab6012.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)**  Follow the on-screen instructions to complete the reinstallation of your system.
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -180,8 +140,6 @@ _**bootrec /scanos**_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +147,24 @@ _**bootrec /scanos**_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-prolive-vs-showrunner-hub/"><u>[New] In 2024, ProLive VS Showrunner Hub</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-innovative-techniques-for-final-frame-enhancements-on-vimeo-for-2024/"><u>[New] Innovative Techniques for Final Frame Enhancements on Vimeo for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-securely-extract-and-convert-youtube-audios-as-mp3/"><u>[Updated] In 2024, How To Securely Extract and Convert YouTube Audios as MP3</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimal-vision-selections-of-best-4k-dslrs-in-action/"><u>2024 Approved Optimal Vision Selections of Best 4K DSLRs in Action</u></a></li>
+<li><a href="https://facebook.techidaily.com/amazons-challenge-to-facebook-group-administrators/"><u>Amazon's Challenge to Facebook Group Administrators</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-windows-drivers-for-brother-hl-l2n60dw-laser-all-in-one-printer/"><u>Download Windows Drivers for Brother HL-L2n60dw Laser All-in-One Printer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-fixing-screen-failure-on-dell-laptops-a-comprehensive-walkthrough/"><u>Expert Advice: Fixing Screen Failure on Dell Laptops - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-applicationexe-error-how-to-resolve-the-program-crash/"><u>Fixing 'Application.exe' Error: How to Resolve the Program Crash</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-enabling-and-displaying-bluetooth-drivers-via-device-manager/"><u>Guide: Enabling and Displaying Bluetooth Drivers via Device Manager</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-reorient-an-inverted-laptop-display-back-to-normal/"><u>How To Correctly Reorient An Inverted Laptop Display Back To Normal</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-unresponsive-fn-keys-a-guide-for-asus-notebook-users/"><u>How to Repair Unresponsive Fn Keys: A Guide for ASUS Notebook Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-error-0x80070426-on-your-windows-11-system-efficiently/"><u>How to Resolve the 'Error 0X80070426' On Your Windows 11 System Efficiently</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-samsung-galaxy-m14-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Samsung Galaxy M14 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solution-for-dealing-with-missing-wmvcoredll-errors/"><u>Step-by-Step Solution for Dealing with Missing Wmvcore.dll Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-invisible-mouse-cursor-problems-on-windows-11-solutions-inside/"><u>Troubleshooting the Invisible Mouse Cursor Problems on Windows 11 – Solutions Inside!</u></a></li>
+<li><a href="https://techidaily.com/vivo-bypass-tools-to-bypass-lock-screen-vivo-y100i-by-drfone-android-unlock-android-unlock/"><u>Vivo Bypass Tools to Bypass Lock Screen(Vivo Y100i)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win10-tackling-excessive-cpu-waste/"><u>Win10: Tackling Excessive CPU Waste</u></a></li>
+</ul></div>
 

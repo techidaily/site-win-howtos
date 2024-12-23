@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps When Your Dell Computer's USB Port Stops Working
-date: 2024-12-12T20:40:36.822Z
-updated: 2024-12-13T22:24:33.104Z
+date: 2024-12-17T21:12:25.999Z
+updated: 2024-12-22T20:46:46.993Z
 tags:
   - win11
   - win10
@@ -55,31 +55,23 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/dxdiag-Run-box.jpg)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display.png)
 4. Close DirectX.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You may need to upgrade the hardware of your computer if it fails to meet the specs.
 
  If your PC specs are up to the mark but Oddworld: Soulstorm still crashes, please move on to**Fix 2** , below to begin troubleshooting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
 
@@ -94,15 +86,15 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/update-your-device-drivers.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your computer for the changes to take effect.
 5. Launch Oddworld: Soulstorm and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Run Epic Games Launcher as administrator
 
@@ -112,10 +104,6 @@ Here’s how:
 
 1. On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Windows-logo-key.png) , type**epic** , then right-click on**Epic Games Launcher** and click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/epic.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2. Click**Yes** when UAC promots for permissions to proceed.
 
@@ -127,10 +115,6 @@ Here’s how:
 
  Wait a bit until the process finishes. After that, re-launch Oddworld: Soulstorm to see if it can be played properly. If yes, then congrats! If it’s still no joy, please try**Fix 5** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Allow Epic Games Launcher through firewall
 
  A firewall is a network security system that filters incoming and outgoing network traffic by permitting/blocking specific traffic based on a set of security rules. You should allow the launcher through the firewall to make sure that the connection isn’t lost.
@@ -141,6 +125,10 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-1.png)
 2. In the window that pops up, click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall.png)
 3. Browse through the list of Allowed apps and features to see if Epic Gamers launcher is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app.png)
@@ -150,6 +138,10 @@ Here’s how:
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. During this time, be extra careful about what sites you visit, what emails you open and what files you download.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Install the latest patch
 
  The crashing issue may be an unintended bug ensconced in the patches of the game. If this is the case, the developers would respond to this and address the issue with a new patch. So you can check out the latest patch to see if it helps fix the issue.
@@ -157,7 +149,7 @@ Here’s how:
  If there’s no new patch available, or the problem remains after installing the latest patch, head on to**Fix 7** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean boot
@@ -170,6 +162,10 @@ Here are the steps to perform a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/msconfig.png)
 2. Click the **Services**  tab and tick the box for **Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/service-and-hide-all-microsoft-services.png)
 3. Browse through the full list of services, make sure to **check the boxes for the items that belong to your hardware manufacturers** (such as Intel, AMD, and Qualcomm) and**uncheck the boxes for the rest** . Once finished, click**OK** to apply the changes.  
 
@@ -178,6 +174,10 @@ Here are the steps to perform a clean boot:
 
    * **If Oddworld: Soulstorm stops crashing** , you can try repeating these steps, disabling half of the services each time until you isolate the culpable program. Once you do, do some research on the internet to find out what the program is for, then contact the vendor of this program for advice or an alternative solution.  
    * **If Oddworld: Soulstorm still crashes** , please continue to**Fix 8** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Oddworld: Soulstorm and the launcher
 
@@ -204,22 +204,24 @@ Here are the steps to perform a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-key-to-unlocking-a-vault-of-no-cost-clip-art/"><u>[New] The Key to Unlocking a Vault of No-Cost Clip Art</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-vision-quest-identifying-top-tier-slow-motion-cameras-for-2024/"><u>[New] Vision Quest Identifying Top-Tier Slow Motion Cameras for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-a-comprehensive-look-at-stardew-and-ginger-isle-for-2024/"><u>[Updated] A Comprehensive Look at Stardew and Ginger Isle for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-ultimate-drone-collection-available-now-for-2024/"><u>[Updated] Ultimate Drone Collection Available Now for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-asus-rog-phone-8-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Asus ROG Phone 8</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dragon-ball-fighterz-successfully-overcoming-network-setup-errors/"><u>Dragon Ball FighterZ - Successfully Overcoming Network Setup Errors!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-the-clock-watchdog-timeout-blue-screen-on-windows-11/"><u>Effective Solutions for the Clock Watchdog Timeout Blue Screen on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-on-resolving-windows-10-taskbar-freezing-issues-successfully/"><u>Expert Advice on Resolving Windows 10 Taskbar Freezing Issues Successfully</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-repairing-the-problem-of-unavailable-specified-modules/"><u>Expert Tips for Repairing the Problem of Unavailable Specified Modules</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/immediate-fix-overcoming-time-sensitive-response-delays-service-error-1053/"><u>Immediate Fix: Overcoming Time-Sensitive Response Delays (Service Error 1053)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/improving-your-minecraft-gaming-experience-by-updating-or-repairing-windows-video-drivers/"><u>Improving Your Minecraft Gaming Experience by Updating or Repairing Windows Video Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-stubborn-chrome-freeze-problems-tips-and-tricks-for-smooth-browsing/"><u>Overcoming Stubborn Chrome Freeze Problems – Tips and Tricks for Smooth Browsing</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-planning-an-epic-at-home-karaoke-night/"><u>Step-by-Step Instructions for Planning an Epic At-Home Karaoke Night</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-to-correct-the-openal32dll-not-detected-problem/"><u>Step-by-Step Instructions to Correct the 'openal32.dll' Not Detected Problem</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-best-free-learning-tools-every-student-needs-this-academic-term/"><u>The Best Free Learning Tools Every Student Needs This Academic Term</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-step-by-step-troubleshooting-for-no-video-signal-monitor-issue/"><u>Ultimate Guide: Step-by-Step Troubleshooting for 'No Video Signal' Monitor Issue</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ow-to-loop-videos-on-iphone-in-2024/"><u>[New] How to Loop Videos on iPhone, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expert-tips-activating-or-deactivating-youtube-comments/"><u>[Updated] 2024 Approved Expert Tips Activating or Deactivating YouTube Comments</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-building-your-brand-setting-up-a-business-on-instagram/"><u>[Updated] Building Your Brand Setting Up a Business on Instagram</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-elevate-instagram-presence-with-professional-video-editing-skills/"><u>[Updated] Elevate Instagram Presence with Professional Video Editing Skills</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avoid-keyword-stuffing-ensure-that-your-title-flows-naturally-with-keywords-incorporated-in-a-way-that-feels-natural-to-the-reader-overstuffing-may-result-i74/"><u>Avoid Keyword Stuffing: Ensure that Your Title Flows Naturally, with Keywords Incorporated in a Way that Feels Natural to the Reader. Overstuffing May Result in Penalties From Google's Algorithms or Simply Look Unappealing to Users</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-huawei-mediapad-m5-evaluation-emphasizing-visuals-and-audio-experience/"><u>Comprehensive Huawei MediaPad M5 Evaluation: Emphasizing Visuals & Audio Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminate-the-error-code-0x80070426-a-comprehensive-repair-tutorial-for-windows-11-users/"><u>Eliminate the Error Code 0X80070426: A Comprehensive Repair Tutorial for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-microsoft-update-issues-effortlessly-tackling-error-0x80070652/"><u>Fixing Microsoft Update Issues Effortlessly: Tackling Error 0X80070652</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-restoring-settings-menu-when-it-fails-to-respond/"><u>Guide to Restoring Settings Menu When It Fails to Respond</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-error-code-0x80071ac3-when-your-storage-device-is-marked-as-corrupt/"><u>How to Fix Error Code 0X80071AC3 - When Your Storage Device Is Marked as Corrupt</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Itel A05s? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/online-gifflv/"><u>Online 무료 고급 GIF,FLV 전환 소프트웨어 - 모바이비</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-absent-battery-icon-issue-on-your-windows-11-pc-a-step-by-step-guide/"><u>Resolving the Absent Battery Icon Issue on Your Windows 11 PC – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-making-your-minecraft-lan-multiplayer-work-perfectly/"><u>Step-by-Step Solution: Making Your Minecraft LAN Multiplayer Work Perfectly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/syncing-success-laptopplusheadphones-working-together/"><u>Syncing Success: Laptop+Headphones Working Together</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/think-twice-before-whispering-confidentials-to-chatgpt/"><u>Think Twice Before Whispering Confidentials to ChatGPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-no-audio-output-device-installed-issue-on-windows-10-and-11/"><u>Troubleshooting Guide: Resolving 'No Audio Output Device Installed' Issue on Windows 10 & 11</u></a></li>
 </ul></div>
 

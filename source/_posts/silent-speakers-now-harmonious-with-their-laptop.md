@@ -1,7 +1,7 @@
 ---
 title: Silent Speakers, Now Harmonious with Their Laptop
-date: 2024-09-11T15:24:41.997Z
-updated: 2024-09-12T15:24:41.997Z
+date: 2024-12-16T17:39:00.445Z
+updated: 2024-12-22T18:59:48.034Z
 tags:
   - win11
   - win10
@@ -21,19 +21,6 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 
  We are telling you the top 2 easy solutions to fix battery/power icon missing on Windows 10\. Try the Fix 2 if the Fix 1 doesn’t works.
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Make sure your power icon is turned on
 
 1) Right-click on the blank area of taskbar and choose **Settings**.  
@@ -41,30 +28,10 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-1.jpg)
   
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2）Click**Turn system icons on or off**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-6.png)
   
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Make sure **Power** is on.  
   
@@ -72,16 +39,7 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
   
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Go back on the window of step 2). Click **Select which icons appear on the taskbar**.  
@@ -89,29 +47,13 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6-4.png)
   
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Make sure**Power**icon is enabled.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-1.jpg)
   
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
@@ -124,10 +66,19 @@ Follow these:
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/8.jpg)
@@ -136,6 +87,11 @@ Follow these:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/9.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
 
  If Windows fails to install the drivers for you, or your want to do it much faster, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to help you update drivers automatically.
@@ -161,5 +117,17 @@ Follow these:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-effortless-video-recordings-of-google-meets-on-phones/"><u>[New] 2024 Approved Effortless Video Recordings of Google Meets on Phones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-visual-velocity-time-lapse-photography-with-samsung-gear/"><u>[New] Visual Velocity Time-Lapse Photography with Samsung Gear</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhancement-alert-new-gpu-prerequisite-d3d11-compatibility-required-by-game-software/"><u>Enhancement Alert: New GPU Prerequisite - D3D11 Compatibility Required by Game Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/eyesharp-record-chromeos-native-cam/"><u>EyeSharp Record ChromeOS Native Cam</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208637048-fixing-the-issue-how-to-resolve-windows-update-error-code-0x8007001f/"><u>Fixing the Issue: How to Resolve Windows Update Error Code 0X8007001f</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/high-definition-silver-themed-wallpapers-premium-hd-imagery-and-photo-collections-by-yl-computing/"><u>High-Definition Silver Themed Wallpapers: Premium HD Imagery & Photo Collections by YL Computing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/humor-haven-the-ultimate-choice-of-memer-text-tools-for-2024/"><u>Humor Haven The Ultimate Choice of Memer Text Tools for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/repairing-damaged-system-files-in-windows-10-and-11-step-by-step-guide/"><u>Repairing Damaged System Files in Windows 10 & 11 – Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-overcoming-the-kb4056892-hurdle-windows-10-update-installation-tips/"><u>Successfully Overcoming the KB4056892 Hurdle - Windows 10 Update Installation Tips</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unleash-potential-with-hero5-black-perfecting-cinematography-skills-for-2024/"><u>Unleash Potential with Hero5 Black Perfecting Cinematography Skills for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unstuck From Sticky Keys: Restoring Backspace Key Functionality"
-date: 2024-12-07T20:37:09.178Z
-updated: 2024-12-13T21:58:00.416Z
+date: 2024-12-19T19:30:08.817Z
+updated: 2024-12-23T00:59:09.433Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 6 fixes that have helped other users resolve their arrow keys not working issue. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 4. **[Update your keyboard driver](#Fix4)**
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Clean your keyboard
 
@@ -49,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 
  After confirming that your hardware is not the problem, check out the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Reinstall your keyboard driver
 
  The arrow keys not working issue can be due to a faulty driver. To fix it, you can try uninstalling and reinstalling your keyboard driver. Here’s how:
@@ -58,25 +70,25 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
@@ -101,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable the Scroll Lock key
 
  If the arrow keys are not working as intended in**Excel** , try**disabling the Scroll Lock key** to fix the problem. If the Scroll Lock key is enabled, the whole page will move when you press any of the arrow keys, but the selected cell won’t change. So if you just want to use the arrow keys to move between different cells, you should turn off the Scroll Lock key.
@@ -116,14 +124,10 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this method didn’t work for you, check out the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Run Keyboard Troubleshooter
 
@@ -134,10 +138,6 @@ If this method didn’t work for you, check out the last fix.
 1. On your keyboard, press the**Window logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
@@ -176,18 +176,19 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-from-biting-snippets-to-captivating-narratives-an-experts-guide-to-youtube-edits/"><u>[New] 2024 Approved From Biting Snippets to Captivating Narratives An Expert's Guide to Youtube Edits</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-picsart-revamp-explained-in-depth-review-and-step-by-step-tutorial-update/"><u>[New] PicsArt Revamp Explained In-Depth Review & Step-by-Step Tutorial Update</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-ultimate-trailer-highlight-hodgepodge/"><u>[New] Ultimate Trailer Highlight Hodgepodge</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-itel-p55-unlock-without-password-by-drfone-android/"><u>5 Solutions For Itel P55 Unlock Without Password</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138621222-9781601633873-bloodline-of-the-gods/"><u>Bloodline of the Gods | Free Book</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-delving-into-the-strengths-of-yuneecs-typhoon-h-drone/"><u>In 2024, Delving Into the Strengths of Yuneec's Typhoon H Drone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/incompatibility-issues-leading-to-ftdi-bus-system-memory-integrity-failure/"><u>Incompatibility Issues Leading to FTDI Bus System Memory Integrity Failure</u></a></li>
-<li><a href="https://program-issues.techidaily.com/persona-3-fe-fixes-resolving-pc-game-crash-issues/"><u>Persona 3 FE Fixes: Resolving PC Game Crash Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-overview-fixing-malfunctioning-function-keys-on-your-dell-laptop-system/"><u>Solution Overview: Fixing Malfunctioning Function Keys on Your Dell Laptop System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-dx11-v100-glitch-in-wwe-2k-battlegrounds-step-by-step-guide/"><u>Solving the DX11 v10.0 Glitch in WWE 2K Battlegrounds: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-power-state-errors-linked-to-drivers-on-windows-system/"><u>Step-by-Step Solution for Power State Errors Linked to Drivers on Windows System</u></a></li>
-<li><a href="https://blog-min.techidaily.com/trasforma-i-tuoi-file-mov-in-mp4-gratuitamente-online-con-movavi/"><u>Trasforma I Tuoi File MOV in MP4 Gratuitamente Online Con Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-contrasts-between-ipad-mini-and-ipad-air-for-informed-choices/"><u>Unveiling the Contrasts Between iPad Mini and iPad Air for Informed Choices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-inspiration-on-screen-top-youtube-themes-for-channels-prosperity/"><u>[New] 2024 Approved Inspiration on Screen Top YouTube Themes for Channels' Prosperity</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-leading-free-non-commercial-android-recorders/"><u>[New] 2024 Approved Leading Free Non-Commercial Android Recorders</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-your-guide-to-exceptional-online-marketing-savor-our-selection-of-50-free-ads/"><u>[Updated] Your Guide to Exceptional Online Marketing – Savor Our Selection of 50 FREE Ads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/android-lacking-procreate-discover-top-6-alternatives-for-your-digital-art-needs/"><u>Android Lacking Procreate? Discover Top 6 Alternatives for Your Digital Art Needs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decode-the-error-code-80240020-windows-11-installation-hurdles-and-how-to-overcome-them/"><u>Decode the Error Code 80240020: Windows 11 Installation Hurdles and How to Overcome Them</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-itel-a60s-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Itel A60s Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-selection-best-5-free-convertors-for-video-from-gifs-for-2024/"><u>Exclusive Selection Best 5 Free Convertors for Video From GIFs for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-service-is-not-running-error-in-diagnostic-services/"><u>Fixing the 'Service Is Not Running' Error in Diagnostic Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-long-wait-semaphore-failure-overcome-expired-timers-error-0x80070079/"><u>Fixing the Long-Wait Semaphore Failure, Overcome Expired Timers Error (0X80070079)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-issue-solved-functional-on-windows-11/"><u>Keyboard Issue Solved: Functional on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-quickly-fixing-windows-update-problem-error-0x80070652/"><u>Mastering the Art of Quickly Fixing Windows Update Problem – Error 0X80070652</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-sluggish-closure-in-windows-10-operating-system/"><u>Resolved: Fixing Sluggish Closure in Windows 10 Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-fixing-silent-streams-on-netflix-instantly/"><u>Ultimate Guide: Fixing Silent Streams on Netflix Instantly</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/drives-youtubes-content-creator-hub-for-2024/"><u>What Drives YouTube's Content Creator Hub for 2024</u></a></li>
 </ul></div>
 

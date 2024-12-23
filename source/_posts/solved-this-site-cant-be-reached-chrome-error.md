@@ -1,7 +1,7 @@
 ---
 title: "Solved: “This Site Can’t Be Reached” Chrome Error"
-date: 2024-09-11T15:22:12.415Z
-updated: 2024-09-12T15:22:12.415Z
+date: 2024-12-15T17:56:33.215Z
+updated: 2024-12-22T19:26:01.126Z
 tags:
   - win11
   - win10
@@ -30,19 +30,6 @@ The remaster of**Total War: Rome** has been out with quite a slew of evolved fea
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Total War: ROME REMASTERED and Steam](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: **Make sure your PC meets the minimum specifications for Total War: ROME REMASTERED**
 
 **Total War: ROME REMASTERED** has a set of hardware and system requirements in order for it to be played smoothly. If your copy of**Total War: ROME REMASTERED** crashes a lot on your PC, it’s time to check if your PC meets the requirements.
@@ -62,31 +49,10 @@ To check Windows Build of your PC:
 1. On your keyboard, press the**Windows logo** key![](https://images.drivereasy.com/wp-content/uploads/2020/08/Windows-logo-key.png) and**R** at the same time, then type **winver** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. In the window that pops up, you can check the exact version of the copy of Windows on your PC.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/22-1.png)
 3. Once finished, click**OK** to exit the window.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To check the specs of your PC:
 
@@ -103,10 +69,7 @@ To check the specs of your PC:
  If your PC specs are up to the mark but Total War: ROME REMASTERED still crashes, please move on to **Fix 2** , below to begin troubleshooting.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
@@ -121,25 +84,16 @@ To check the specs of your PC:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/Update-drivers-with-Driver-Easy.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 5. Launch Total War: ROME REMASTERED and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Run Steam as administrator
 
@@ -151,20 +105,11 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/123-1.png)
 2. Click **Yes**  when UAC promots for permissions to proceed.
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, launch Total War: ROME REMASTERED game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify game files on Steam
 
@@ -188,20 +133,16 @@ Here’s how:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run box. Then type **control firewall.cpl**  into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-1-1.png)
 2. In the window that pops up, click **Allow an app or feature through Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall-1.png)
 3. Browse through the list of Allowed apps and features to see if Steam is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app-1.png)
@@ -216,6 +157,10 @@ Here’s how:
 
  If there’s no new patch available, or the problem remains after installing the latest patch, head on to **Fix 7** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Perform a clean boot
 
  Another possible cause for the Total War: ROME REMASTERED crashing issue is software conflict. If this is the case, you should perform a clean boot. A clean boot restarts Windows with a minimal set of drivers and startup programs, allowing you to narrow down the programs and servicies so that you could potentially pinpoint the offender.
@@ -227,25 +172,20 @@ Here are the steps to perform a clean boot:
 2. Click the **Services**  tab and tick the box for **Hide all Microsoft services** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/service-and-hide-all-microsoft-services-1.png)
 3. Browse through the full list of services, make sure to   **check the boxes for the items that belong to your hardware manufacturers**  (such as Intel, AMD, and Qualcomm) and **uncheck the boxes for the rest** . Once finished, click **OK** to apply the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/esential.png)
 4. Restart your computer, then test to see if the game still crashes.  
    * **If Total War: ROME REMASTERED stops crashing** , you can try repeating these steps, disabling half of the services each time until you isolate the culpable program. Once you do, do some research on the internet to find out what the program is for, then contact the vendor of this program for advice or an alternative solution.  
    * **If Total War: ROME REMASTERED still crashes** , please continue to **Fix 8** .
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8:**Reinstall Total War: ROME REMASTERED and Steam**
 
@@ -270,5 +210,20 @@ Here are the steps to perform a clean boot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-perfecting-tiktok-media-with-zoom-techniques/"><u>[New] Perfecting TikTok Media with Zoom Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-record-and-save-with-zero-cost-on-android-devices/"><u>[New] Record & Save with Zero Cost on Android Devices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unlimited-choice-in-free-personalized-outro-sounds/"><u>[New] Unlimited Choice in Free, Personalized Outro Sounds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-for-the-windows-11-updating-problem-error-code-0xc1900208/"><u>Comprehensive Solution for the Windows 11 Updating Problem - Error Code 0xC1900208</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/discover-how-to-update-your-system-via-the-windows-control-panel-a-step-by-step-guide-by-yl-computing/"><u>Discover How to Update Your System via the Windows Control Panel: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-missing-mouse-cursor-on-your-windows-10-pc-easily/"><u>How to Fix a Missing Mouse Cursor on Your Windows 10 PC Easily</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-realme-narzo-60-pro-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Realme Narzo 60 Pro 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-latest-gadgets-with-tomn-hardwares-experts/"><u>Navigating the Latest Gadgets with Tom'n Hardware's Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207172659-resolve-the-bluetooth-not-found-error-on-windows-10-with-simple-fixes/"><u>Resolve the 'Bluetooth Not Found' Error on Windows 10 with Simple Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-application-unable-to-boot-correctly-a-user-friendly-guide-to-handling-the-0xc000007b-problem/"><u>Resolving 'Application Unable to Boot Correctly' - A User-Friendly Guide to Handling the 0xC000007B Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-in-place-eliminate-d3dx939dll-disappearance-troubles-once-and-for-all/"><u>Solution in Place: Eliminate d3dx9_39.dll Disappearance Troubles Once and For All</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-errcachemiss-issue-a-step-by-step-guide-for-chrome-users/"><u>Solving the ERR_CACHE_MISS Issue: A Step-by-Step Guide for Chrome Users</u></a></li>
+</ul></div>
 

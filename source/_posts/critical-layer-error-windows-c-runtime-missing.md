@@ -1,7 +1,7 @@
 ---
 title: "Critical Layer Error: Windows C Runtime Missing"
-date: 2024-12-08T21:19:55.685Z
-updated: 2024-12-13T22:05:20.515Z
+date: 2024-12-21T23:33:21.331Z
+updated: 2024-12-22T23:34:21.243Z
 tags:
   - win11
   - win10
@@ -34,27 +34,15 @@ thumbnail: https://thmb.techidaily.com/8fc83bbaf6617e7676315028cdd620caacb6dd10b
  **Solution 2: [Re-enable your Bluetooth driver software in Device Manager](#solution2)**
  **Solution 3: [Reinstall your Bluetooth driver](#solution3)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 1: Check the status of the Bluetooth service
 
  1) **Right-click**   on the Start button to select **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
 
@@ -64,32 +52,36 @@ thumbnail: https://thmb.techidaily.com/8fc83bbaf6617e7676315028cdd620caacb6dd10b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a686110efd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click **Bluetooth Support Service**   or any other service related, like **Bluetooth Driver Management System** . Then **Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Right-click on the service again, and this time click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
@@ -99,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/8fc83bbaf6617e7676315028cdd620caacb6dd10b
  2)Then click **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
@@ -126,9 +114,17 @@ thumbnail: https://thmb.techidaily.com/8fc83bbaf6617e7676315028cdd620caacb6dd10b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
@@ -147,6 +143,10 @@ thumbnail: https://thmb.techidaily.com/8fc83bbaf6617e7676315028cdd620caacb6dd10b
  Or if you use the Pro version, click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (You get full support and a 30-day money back guarantee for the Pro version)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -175,17 +175,16 @@ thumbnail: https://thmb.techidaily.com/8fc83bbaf6617e7676315028cdd620caacb6dd10b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-what-you-must-watch-a-close-look-at-todays-top-8-social-media-clips/"><u>[New] What You Must Watch! - A Close Look at Today's Top 8 Social Media Clips</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-jokegenius-get-the-best-meme-app/"><u>2024 Approved JokeGenius - Get the Best Meme App</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/2024-approved-yosemite-video-editing-essentials-tips-and-tricks/"><u>2024 Approved Yosemite Video Editing Essentials Tips and Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/concern-is-rising-that-equities-have-become-and-too-expensive-to-be-worth-bunk-in-the-long-run-despite-recent-gains2/"><u>Concern Is Rising that Equities Have Become and Too Expensive to Be Worth Bunk in the Long Run, Despite Recent Gains.[^2]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-diagnostics-policy-service-not-running-problems/"><u>Guide to Fixing 'Diagnostics Policy Service Not Running' Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-a-fatal-instruction-push-error-fix-0xc0000005-on-windows-systems/"><u>How to Overcome a Fatal Instruction Push Error - Fix 0xC0000005 on Windows Systems</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-trouble-fixes-for-input-device-problems-at-startup/"><u>Keyboard Trouble? Fixes for Input Device Problems at Startup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-to-restore-battery-charging-functionality-on-your-laptop/"><u>Quick Fixes to Restore Battery Charging Functionality on Your Laptop</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revitalize-os-performance-with-updated-drivers/"><u>Revitalize OS Performance with Updated Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/solved-common-windows-7-network-adapter-driver-problems-and-how-to-fix-them/"><u>Solved! Common Windows 7 Network Adapter Driver Problems and How to Fix Them</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/suppression-des-sauvegardes-telecommandees-a-laide-de-wbadmin-dans-windows-server-etapes-pratiques-et-conseils/"><u>Suppression Des Sauvegardes Télécommandées À L'aide De WBAdmin Dans Windows Server: Étapes Pratiques Et Conseils</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204135970-fix-immediately-reduce-high-cpu-usage-of-your-device-targeted-solutions-for-tackling-excessive-shell-induced-heat/"><u>[Fix] Immediately Reduce High CPU Usage of Your Device – Targeted Solutions for Tackling Excessive Shell-Induced Heat</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-4-simplified-ways-to-screen-record-lenovo/"><u>[Updated] In 2024, 4 Simplified Ways to Screen Record Lenovo</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-simplifying-the-process-of-capturing-and-fine-tuning-videos-in-adobe-connect/"><u>[Updated] Simplifying the Process of Capturing and Fine-Tuning Videos in Adobe Connect</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-parrot-playfulness-explored-in-bebop-2/"><u>2024 Approved Parrot Playfulness Explored in Bebop 2</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-common-issues-wacom-pen-malfunction-on-windows-11-and-10/"><u>Fixing Common Issues: Wacom Pen Malfunction on Windows 11 & 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-geforce-settings-retrieval-error-on-your-pc/"><u>How to Overcome GeForce Settings Retrieval Error on Your PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-safety-into-everyday-child-steam-games/"><u>Integrating Safety Into Everyday Child Steam Games</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-art-of-revisiting-historical-facebook-posts-mobilelaptop-for-2024/"><u>The Art of Revisiting Historical Facebook Posts (Mobile/Laptop) for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-cinematography-on-youtube-for-2024/"><u>The Ultimate Guide to Cinematography on YouTube for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-overcoming-the-0xc0000005-kernel-termination-blue-screen-of-death-on-windows-computers/"><u>Troubleshooting Tips: Overcoming the '0xC0000005' Kernel Termination Blue Screen of Death on Windows Computers</u></a></li>
 </ul></div>
 

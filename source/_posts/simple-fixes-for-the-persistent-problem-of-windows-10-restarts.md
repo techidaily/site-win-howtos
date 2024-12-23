@@ -1,7 +1,7 @@
 ---
 title: Simple Fixes for the Persistent Problem of Windows 10 Restarts
-date: 2024-12-09T18:14:56.731Z
-updated: 2024-12-13T18:40:06.337Z
+date: 2024-12-21T22:13:38.399Z
+updated: 2024-12-22T22:54:31.883Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ````   **1: Unplug unnecessary external devices**
@@ -49,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0c511d9193.png) and click **Control Panel** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) View by**Category** , click **Appearance and Personalization** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58492ca22a4c0.jpg)
@@ -61,16 +57,16 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58492d59e849d-600x332.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) In this window, you can choose which screen saver you’d like to use, and then customize it and set the time before it appears. Click **Apply** and **OK** to make it work.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584933b0e0509.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ````   **3: Update Windows and device drivers**
@@ -80,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 1) On your keyboard, press the  **Windows logo key**  and  **I**  at the same time. Click  **Update & security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0bf2b55265.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click **Check for updates** .
 
@@ -97,15 +97,15 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5979a3ff32d61.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to any flagged device to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5979a40b981b3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ````   **Other options**
 
@@ -131,24 +131,15 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-dive-deep-into-the-past-with-these-top-10-student-friendly-yt-channels/"><u>[New] In 2024, Dive Deep Into the Past with These Top 10 Student-Friendly YT Channels</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-scanning-and-repairing-drive-stuck-issue-in-windows-10/"><u>[Solved] Scanning and Repairing Drive Stuck Issue in Windows 10</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-essential-emulators-reviving-sonys-ps1-games/"><u>[Updated] 2024 Approved Essential Emulators Reviving Sony's PS1 Games</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-crafting-top-notch-gopro-cinematography-step-by-step/"><u>[Updated] In 2024, Crafting Top-Notch GoPro Cinematography Step by Step</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-hassle-free-techniques-record-your-dell-screen-easily/"><u>[Updated] In 2024, Hassle-Free Techniques Record Your Dell Screen Easily</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boost-your-gameplay-eliminating-rainbow-six-siege-fps-issues/"><u>Boost Your Gameplay: Eliminating Rainbow Six Siege FPS Issues</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/compilation-of-excellent-video-capture-tools-for-windows-11-for-2024/"><u>Compilation of Excellent Video Capture Tools for Windows 11 for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/explore-the-finest-movie-series-youtubes-10-pack-no-cost-in-2024/"><u>Explore the Finest Movie Series YouTube's 10-Pack, No Cost, In 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-windows-11-bluetooth-missing-issue-quickly-and-easily/"><u>Fix Windows 11 Bluetooth Missing Issue. Quickly & Easily!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-identifying-and-resolving-non-detecting-bluetooth-issues-on-windows-10-computers/"><u>Guide: Identifying & Resolving Non-Detecting Bluetooth Issues on Windows 10 Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-hdcp-errors-on-incompatible-monitors/"><u>How To Resolve HDCP Errors on Incompatible Monitors</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-xs-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone XS Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagram-rising-video-view-counts/"><u>Mastering Instagram Rising Video View Counts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-0x800705b4-glitch-a-complete-guide-to-fixing-windows-10-updates/"><u>Resolving the 0X800705b4 Glitch: A Complete Guide to Fixing Windows 10 Updates</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-the-error-800-dilemma-in-vpn-clients-and-servers/"><u>Resolving the Error 800 Dilemma in VPN Clients and Servers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-windows-11-update-conundrum-navigating-through-error-code-0x80240034/"><u>Resolving the Windows 11 Update Conundrum: Navigating Through Error Code 0X80240034</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-puzzle-a-detailed-guide-to-turning-on-bluetooth-in-windows-7/"><u>Solving the Puzzle: A Detailed Guide to Turning On Bluetooth in Windows 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-win11-shutdown-spike/"><u>Troubleshooting Win11 Shutdown Spike</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-wrap-errors-in-windows-causes-solutions-and-prevention-tips/"><u>Understanding WRAP Errors in Windows: Causes, Solutions & Prevention Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-high-quality-streaming-choice-go-with-obs-or-fraps-for-2024/"><u>[New] High-Quality Streaming Choice Go With OBS or Fraps for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-how-to-screen-record-on-mac/"><u>[New] In 2024, How to Screen Record on Mac</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-essential-insights-into-top-10-no-cost-open-source-video-communication-tools/"><u>2024 Approved Essential Insights Into Top 10 No-Cost, Open Source Video Communication Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/endless-blink-no-more-expert-strategies-to-stabilize-your-mouse-pointer/"><u>Endless Blink No More! Expert Strategies to Stabilize Your Mouse Pointer</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-se-2020-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone SE (2020)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-usb-port-power-surges-and-error-messages-on-a-windows-n-operating-system/"><u>How to Fix USB Port Power Surges and Error Messages on a Windows N Operating System</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-to-enhancing-your-experience-with-facebooks-lived-in-content/"><u>How-To Enhancing Your Experience with Facebook's Lived-In Content</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-seipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone SE/iPad Without Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-how-to-restore-hidden-networks-on-windows-11/"><u>Solved: How to Restore Hidden Networks on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/uninstall-and-reinstall-drivers/"><u>Uninstall and Reinstall Drivers</u></a></li>
 </ul></div>
 

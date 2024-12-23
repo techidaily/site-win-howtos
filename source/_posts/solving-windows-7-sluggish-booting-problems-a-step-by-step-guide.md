@@ -1,7 +1,7 @@
 ---
 title: "Solving Windows 7 Sluggish Booting Problems: A Step-by-Step Guide"
-date: 2024-09-05T10:11:59.987Z
-updated: 2024-09-06T10:11:59.987Z
+date: 2024-12-15T21:47:48.588Z
+updated: 2024-12-22T22:46:28.239Z
 tags:
   - win11
   - win10
@@ -18,11 +18,9 @@ thumbnail: https://thmb.techidaily.com/67b23da48fe8834c53011ffd46dfbcfae0dcd1d4b
  Is your **SteelSeries Arctis 5 Mic Not Working** ? You’re not alone – many users have reported similar issues. But don’t worry, it’s often quite easy to fix…
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixes For **SteelSeries Arctis 5 Mic Not Working**
 
  All the fixes below work in**Windows 10** . Just work your way down the list until the problem is resolved.
@@ -33,11 +31,9 @@ thumbnail: https://thmb.techidaily.com/67b23da48fe8834c53011ffd46dfbcfae0dcd1d4b
 4. [**Install the latest SteelSeries Engine software**](#F4)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
  If your **SteelSeries Arctis 5 microphone is not working** , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -52,12 +48,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
@@ -80,18 +70,6 @@ Here’s how to do it:
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
@@ -105,35 +83,32 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Install the latest SteelSeries Engine software
 
  For the best performance of your **SteelSeries Arctis 5 headset** , it’s recommended you head over to[**SteelSeries Engine**](https://steelseries.com/engine) to download and install the latest SteelSeries Engine software.
@@ -156,8 +131,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +138,22 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-charting-your-course-from-creator-to-major-label-for-2024/"><u>[New] Charting Your Course From Creator to Major Label for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-mastering-the-art-of-trailer-sound-design/"><u>[New] In 2024, Mastering the Art of Trailer Sound Design</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-from-large-files-to-tiny-previews-crafting-stunning-thumbnails/"><u>[Updated] In 2024, From Large Files to Tiny Previews Crafting Stunning Thumbnails</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-connectivity-issues-for-aoc-usb-monitors-compatible-with-windows-10-systems/"><u>Fixing Connectivity Issues for AOC USB Monitors Compatible with Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-audio-device-missing-errors-in-windows-10-and-11-effective-solutions/"><u>Fixing Windows Audio Device Missing Errors in Windows 10 and 11: Effective Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-out-of-your-radeon-hd-5-how-to-find-download-and-install-amd-radeon-hd-7870-drivers-on-windows-10/"><u>Get the Most Out of Your Radeon HD 5. How to Find, Download & Install AMD Radeon HD 7870 Drivers on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reinstall-and-configure-audio-drivers-in-windows-1011-when-no-sound-devices-are-recognized/"><u>How to Reinstall and Configure Audio Drivers in Windows 10/11 When No Sound Devices Are Recognized</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-intermittent-wireless-mouse-failures-on-windows-1110-computers/"><u>How to Troubleshoot Intermittent Wireless Mouse Failures on Windows 11/10 Computers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-infuse-your-reels-with-dynamic-music-choices/"><u>In 2024, How to Infuse Your Reels with Dynamic Music Choices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/instant-image-perfection-advanced-cropping-guide/"><u>Instant Image Perfection - Advanced Cropping Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/rapid-results-elevate-images-on-windows-11-for-2024/"><u>Rapid Results Elevate Images on Windows 11 for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resetting-windows-11-made-easy-step-by-step-instructions-and-tips/"><u>Resetting Windows 11 Made Easy: Step-by-Step Instructions & Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-secure-connection-failure-issue-in-mozilla-firefox/"><u>Resolving the 'Secure Connection Failure' Issue in Mozilla Firefox</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-quick-access-menu-problems-with-this-step-by-step-windowplusshiftpluss-fix/"><u>Solve Your Quick Access Menu Problems with This Step-by-Step Window+Shift+S Fix</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-top-10-ai-subtitle-translators-for-content-creators/"><u>Updated In 2024, Top 10 AI Subtitle Translators for Content Creators</u></a></li>
+</ul></div>
 

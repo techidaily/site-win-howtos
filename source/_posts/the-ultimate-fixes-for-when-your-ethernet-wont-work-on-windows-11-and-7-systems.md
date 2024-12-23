@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Fixes for When Your Ethernet Won't Work on Windows 11 & 7 Systems
-date: 2024-09-05T10:13:06.850Z
-updated: 2024-09-06T10:13:06.850Z
+date: 2024-12-19T16:40:10.151Z
+updated: 2024-12-22T19:04:45.004Z
 tags:
   - win11
   - win10
@@ -33,12 +33,11 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
 3. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/troubleshoot.jpg)
 4. Follow the on-screen instructions to finish the process.
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Relaunch your computer and check the issue is resolved or not.
 
  If you fail to find Hardware and Devices Troubleshooter in Control Panel, that’s probably because your computer version is after **Windows 10 build 1809** . The version has removed the Hardware and Devices Troubleshooter. Don’t worry, you can still run the Hardware and Devices Troubleshooter in this way:
@@ -46,33 +45,19 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
 1. Right-click on the**Start** button, then click**Windows PowerShell (Admin)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_15-52-49.jpg)
 2. Copy and paste**msdt.exe -id DeviceDiagnostic** in the PowerShell, then press the**Enter** key.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-02-37.jpg)
 3. You’ll see the**Hardware and Devices** window popping out. Click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2020-05-07_16-05-33.jpg)
 4. Follow the on-screen instructions to finish the process.
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Relaunch your computer and check the issue is resolved or not.
 
 ## Method 2: Reinstall the AOC USB Monitor driver
 
  If fix 1 can’t help, then try to uninstall and reinstall the AOC USB monitor driver to fix the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: Uninstall AOC USB monitor driver
 
@@ -84,18 +69,11 @@ thumbnail: https://thmb.techidaily.com/cc90cfb91ad0a20c12f9d720fc85b3d9e0382268e
 4. Right-click on the AOC USB monitor and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall-1.jpg)
 5. Follow the on-screen instructions to uninstall it.
+
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Reboot your computer.
 
 ### Step 2: Download AOC USB monitor driver
@@ -116,27 +94,13 @@ OR
 2. Search for the monitor on the webpage.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbf95967fd.jpg)
 3. Click **Support** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbfce1bef4.jpg)
 4. Scroll down and click **Driver** in the **Drivers and Software** section.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbfda9b0ca.png)
 5. Click the downloaded file and follow the on-screen instructions to finish the process.
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### **Option 2 – Automatically update AOC USB monitor drivers**
@@ -151,20 +115,17 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbfffb0e24.jpg)
 3. Click the Update button next to your **AOC monitor** to automatically download and install the correct version of this driver (you can do this with the **FREE** version).  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdc1306ec3e.jpg)
 4. Reboot your computer and check the issue is solved or not.
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -177,8 +138,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +145,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unlocking-aspect-ratios-the-key-to-facebook-video-success/"><u>[New] In 2024, Unlocking Aspect Ratios The Key to Facebook Video Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-win-api-load-library-not-located/"><u>[Resolved]: Win API Load Library Not Located</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-direct-video-tweet-to-twitter-apps-no-retweets-involved/"><u>[Updated] 2024 Approved Direct Video Tweet to Twitter Apps, No Retweets Involved</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-complete-guide-for-capturing-stunning-details-on-film/"><u>[Updated] The Complete Guide for Capturing Stunning Details on Film</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-a-comparative-look-at-samsung-photo-tools/"><u>2024 Approved A Comparative Look at Samsung Photo Tools</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-8-plusipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from Apple iPhone 8 Plus/iPad/iPod</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-resolving-common-anydesk-errors-on-windows/"><u>Mastering the Art of Resolving Common AnyDesk Errors on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-pc-startup-problems-a-step-by-step-guide-for-oddworld-soulstorm/"><u>Overcoming PC Startup Problems: A Step-by-Step Guide for Oddworld Soulstorm</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-overcoming-ssl-errors-and-establishing-a-secure-connection-in-firefox/"><u>Resolved: Overcoming SSL Errors and Establishing a Secure Connection in Firefox</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reveal-your-taskbar-in-windows-10-simple-troubleshooting-steps/"><u>Reveal Your Taskbar in Windows 10 – Simple Troubleshooting Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-fix-for-usb-device-not-recognized-get-back-to-business/"><u>Simple Fix for 'USB Device Not Recognized': Get Back to Business!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-5-effective-solutions-to-restore-touchscreen-functionality/"><u>Troubleshooting Windows 11: 5 Effective Solutions to Restore Touchscreen Functionality</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-fixing-your-ps4-when-it-keeps-freezing-a-step-by-step-approach/"><u>Ultimate Guide: Fixing Your PS4 When It Keeps Freezing - A Step-by-Step Approach</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Critical Hardware Specification Change: Only D3D11 GPUs Will Support This Updated Engine Version"
-date: 2024-09-05T10:10:32.606Z
-updated: 2024-09-06T10:10:32.606Z
+date: 2024-12-17T20:12:36.316Z
+updated: 2024-12-22T16:02:06.199Z
 tags:
   - win11
   - win10
@@ -29,11 +29,9 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
 6. **[Perform a clean boot](#solution6)**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Solution 1: Repair the game
 
 **When Sims 4 won’t start or crashes** , the first solution you can try is to repair the game in Origin. For how to repair the game, follow steps below:
@@ -46,13 +44,11 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac3425c0d6be.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Check to see if Sims 4 opens.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 2: Update the video card driver
 
@@ -73,20 +69,20 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged video card driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 3: Update the network controller driver
 
@@ -104,12 +100,6 @@ How to back up the game:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac3442808b23.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Right-click on**The Sims 4** , then select**Copy** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac3467fc47f9.jpg)
@@ -120,12 +110,6 @@ How to back up the game:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac344bfdd6b0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Change the name of the folder  to something you’ll remember, like**Sims 4 Backup** .
 
 **How to restore the game** :
@@ -136,12 +120,6 @@ How to back up the game:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac346a049930.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Empty your**Recycle Bin** .
 
  4) Right-click on the folder you backed up before, and select**Copy** .
@@ -154,22 +132,10 @@ How to back up the game:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac3442808b23.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Right-click on The Sims 4, then select**Delete** . If you’re prompted to confirm the deletion, click**Yes** to confirm you want to delete the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac346c018a59.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Empty your**Recycle Bin** .
 
  4) Restart your computer.
@@ -195,8 +161,6 @@ How to back up the game:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +168,22 @@ How to back up the game:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-secure-and-quality-the-top-5-choice-of-recorders/"><u>[New] In 2024, Secure and Quality - The Top 5 Choice of Recorders</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-screen-scenarios-simplified-a-novices-guide-to-pixels/"><u>[New] Screen Scenarios Simplified A Novice's Guide to Pixels</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-shoot-straight-best-tripods-for-smartphones-today-for-2024/"><u>[New] Shoot Straight Best Tripods for Smartphones Today for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-blockade-masterful-strategies-for-overcoming-0x8024002e-in-windows-updates/"><u>Bypassing the Blockade: Masterful Strategies for Overcoming 0X8024002E in Windows Updates</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-zte-axon-40-lite-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to ZTE Axon 40 Lite FRP Bypass Instantly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-motion-graphics-101-key-principles-and-methods/"><u>In 2024, Motion Graphics 101 Key Principles & Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-wit-within-walls-a-guide-to-crafting-metaverse-jokes/"><u>In 2024, Unleashing Wit Within Walls – A Guide to Crafting Metaverse Jokes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-repeated-disconnections-in-usb-ports-and-drives-expert-tips/"><u>Overcoming Repeated Disconnections in USB Ports and Drives: Expert Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-msmpengexe-high-cpu-usage-on-windows-10/"><u>Resolved: MsMpEng.exe High CPU Usage on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-non-existent-device-warning-error-code-24-on-windows-11-8-and-7-systems/"><u>Solving the Non-Existent Device Warning (Error Code 24) on Windows 11, 8 & 7 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-a-broken-start-menu-on-windows-nx/"><u>Step-by-Step Fix for a Broken Start Menu on Windows nX</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/troubleshooting-failures-in-your-pcs-hardware-a-guide-by-yl-computing/"><u>Troubleshooting Failures in Your PC's Hardware - A Guide by YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-unexpected-computer-power-off-problems/"><u>Understanding and Fixing Unexpected Computer Power-Off Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-touchpad-scroll-not-working-heres-how-to-fix-it/"><u>Windows 11 Touchpad Scroll Not Working? Here's How to Fix It!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-cpm-rates-how-much-do-youtubers-make-for-2024/"><u>YouTube CPM Rates How Much Do YouTubers Make for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding and Solving Windows Update Error Code 80070103: Expert Advice & Tips"
-date: 2024-12-09T20:44:30.232Z
-updated: 2024-12-13T17:07:09.673Z
+date: 2024-12-16T17:40:24.379Z
+updated: 2024-12-22T20:14:00.052Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works.
@@ -44,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest version of IE for Windows 7
 
  This fix is for the users who are using **Windows 7** operating system. If the current OS of your PC is not Windows 7, you can skip this fix.
@@ -55,23 +55,23 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 ![download the latest version of IE 11](https://images.drivereasy.com/wp-content/uploads/2018/09/download-the-latest-version-of-IE-11.jpg)
 3. Install the latest version of IE 11 on your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then Type **control** and press **Enter** to open the Control Panel.  
 ![step 4](https://images.drivereasy.com/wp-content/uploads/2018/09/step-4.jpg)
 5. In the search box in the upper-right corner, type **installed update** . Click **View installed updates** under **Programs and Features**  to view installed updates on your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![View installed updates](https://images.drivereasy.com/wp-content/uploads/2018/09/View-installed-updates.jpg)
 6. Delete **Hotfix for Microsoft Windows (KB2534111)** and **Hotfix for Microsoft Windows (KB2639308)** .   **If you don’t find these two hot fixes, please skip this step.**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![step 6](https://images.drivereasy.com/wp-content/uploads/2018/09/step-6.jpg)
 7. Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Open IE and go through the welcome screen. Then close all the tabs to close IE.
 9. Restart your PC.
@@ -91,18 +91,14 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 ![Updated Troubleshooter Available](https://images.drivereasy.com/wp-content/uploads/2018/09/Updated-Troubleshooter-Available.jpg)
 4. In the new version of Windows Update troubleshooter, click **Next** . The troubleshooter will check the available updates for your machine.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Fix 2 Step 4](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-2-Step-4.jpg)
 5. Click **Apply this fix**  to start the update process in the background immediately.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Fix 2 Step 5](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-2-Step-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The troubleshooter will try to fix the issue for you. You can restart your computer and try performing the Windows update again. If it still doesn’t work, please try the next fix.
 
@@ -121,12 +117,21 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 ![Fix 3 step 3](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-3-step-3.jpg)
 4. Delete all the files in the folder **DataStore** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. On your keyboard, press **the Windows Logo Key** and **E** at the same time to open **File Explorer** . Copy the path below and paste it in the address bar, then press **Enter** on your keyboard to open the **Download**  folder.  
 
 **C:\\Windows\\SoftwareDistribution\\Download**  
 
 ![Fix 3 step 5](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-3-step-5.jpg)
 6. Delete all the files in the folder **Download** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. In the Services window, right-click **Windows Update**  and select **Start** .  
 ![Fix 3 step 7](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-3-step-7.jpg)
 
@@ -144,25 +149,25 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 ![Fix 4 step 1](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-4-step-1.jpg)
 2. On your keyboard, type the command lines below one by one and press **Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Dism /Online /Cleanup-Image /ScanHealth**  
 ![DISM ScanHealth](https://images.drivereasy.com/wp-content/uploads/2018/09/DISM-ScanHealth.jpg)  
 **Note:** When you run the command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Dism /Online /Cleanup-Image /CheckHealth**  
 ![DISM CheckHealth](https://images.drivereasy.com/wp-content/uploads/2018/09/DISM-CheckHealth.jpg)  
 **Note:** When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image exists corruptions or not. This command line also doesn’t repair the corrupted files.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Dism /Online /Cleanup-Image /RestoreHealth**  
 ![DISM RestoreHealth](https://images.drivereasy.com/wp-content/uploads/2018/09/DISM-RestoreHealth.jpg)  
  Note: The command line **Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official source online.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Close Command Prompt when the restore operation completed.  
 ![Fix 4 step 3](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-4-step-3.jpg)
@@ -180,10 +185,6 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 **sfc /scannow**  
 ![sfc sacannow](https://images.drivereasy.com/wp-content/uploads/2018/09/sfc-sacannow.jpg)
 3. When this command operation is completed, close the Command Prompt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Run Windows Update again to check whether this fix works or not. If you still fail to install updates for your Windows system, please try the next fix.
 
@@ -208,14 +209,14 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 ![Fix 6 step 4](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-6-step-4.jpg)
 5. In the list of search results, select right update for your operating system and click **Download** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** If your **Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.
 6. In the pop-up window, click the link to start downloading the updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-6-step-6.jpg)
 7. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## This issue persists?
 
@@ -246,16 +247,18 @@ thumbnail: https://thmb.techidaily.com/3098d762b6d8dcd72acd0532421367ade2e95fba7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-compreranstive-approach-to-high-fidelity-recording-no-mic-necessary/"><u>[New] 2024 Approved A Compreranstive Approach to High-Fidelity Recording, No Mic Necessary</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-perfect-blueprint-for-installing-wm6-version-60/"><u>[New] 2024 Approved Perfect Blueprint for Installing WM6 Version 6.0</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-set-up-zoom-video-meeting/"><u>[New] How to Set up Zoom Video Meeting</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-redefining-tv-viewing-lg-bp550-2023-edition/"><u>[New] Redefining TV Viewing - LG BP550 2023 Edition</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-understanding-and-mastering-video-content-on-yt-shorts/"><u>2024 Approved Understanding and Mastering Video Content on YT Shorts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/live-recording-gadgets-for-youtube-content-creators-for-2024/"><u>Best Live Recording Gadgets for YouTube Content Creators for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-the-0x80072efd-error-in-windows-11-with-proven-solutions/"><u>Bypassing the 0X80072EFD Error in Windows 11 with Proven Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-issues-with-your-steelseries-x70-mouse-pen-not-responding-detailed-tutorial-inside/"><u>Diagnosing and Repairing Issues with Your SteelSeries X70 Mouse Pen Not Responding – Detailed Tutorial Inside</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-c51-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme C51 Devices | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fix-your-kodi-streams-say-goodbye-to-buffering/"><u>Resolved: Fix Your Kodi Streams - Say Goodbye to Buffering</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/your-sd-card-not-detected-heres-the-fix/"><u>Your SD Card Not Detected? Here’s the Fix</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-youtube-shorts-earnings-guide-must-knows-and-future-potential/"><u>[New] In 2024, Youtube Shorts Earnings Guide Must-Knows & Future Potential</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-pioneering-image-editing-with-toolwiz-a-compre-written-review/"><u>[Updated] In 2024, Pioneering Image Editing with Toolwiz – A Compre Written Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-deciphering-rar-files-on-your-apple-computer/"><u>Comprehensive Guide to Deciphering RAR Files on Your Apple Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-gameplay-experience-on-switch-via-efficient-controllers-using-ryujinx/"><u>Enhance Gameplay Experience on Switch via Efficient Controllers Using Ryujinx</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-monitor-2-non-detection/"><u>Fixing Windows Monitor #2 Non-Detection</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-motorola-edge-40-neo-by-drfone-android/"><u>Full Guide to Unlock Your Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guide-successful-downloads-from-pscfptv-and-periscope-across-macos-and-windows-systems/"><u>Guide: Successful Downloads From PSCFPTV & Periscope Across macOS & Windows Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-riches-301-safe-and-highest-earning-strategies-for-2024/"><u>Instagram Riches 301 Safe and Highest Earning Strategies for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigate-and-organize-your-files-like-a-pro-with-these-file-explorer-hacks-for-widows-11/"><u>Navigate and Organize Your Files Like a Pro with These File Explorer Hacks for Widows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-unpredictable-wireless-mouse-disconnections-on-windows-operating-systems/"><u>Resolving the Issue of Unpredictable Wireless Mouse Disconnections on Windows Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-implementation-of-the-latest-windows-11-update-kb4056892-guide/"><u>Successful Implementation of the Latest Windows 11 Update (KB4056892) [GUIDE]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-overcoming-windows-update-issue-error-0x8007001f-solution/"><u>Troubleshooting Steps for Overcoming Windows Update Issue - Error 0X8007001F Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unraveling-the-mystery-behind-google-chromes-false-alarm-critical-error-fixes/"><u>Unraveling the Mystery Behind Google Chrome’s False Alarm: Critical Error Fixes</u></a></li>
 </ul></div>
 

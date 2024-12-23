@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Failed Hosted Network Setup on Windows 11"
-date: 2024-09-11T15:19:48.221Z
-updated: 2024-09-12T15:19:48.221Z
+date: 2024-12-17T01:03:33.153Z
+updated: 2024-12-22T16:12:10.840Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Adjust your display settings
 
  When Windows 7 doesn’t detect your second monitor, probably it’s simply because your**second monitor is not enabled in the display settings** . Follow to adjust your display settings:
@@ -45,32 +38,20 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a812a6c131.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Display** when choose to View by**Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a817eeda01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**Adjust resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a81ad7638e.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) In the**Multiple displays** section, select**Extend these displays** . Then click**Apply** \>**OK** .
@@ -78,10 +59,7 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8387d8ba7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See if your second monitor is displaying. If your second monitor is detected, great! If it’s still not detected, there’re something else you can try…
@@ -89,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
  This problem could be due to an old, corrupted or missing video driver on your Windows 7 computer. You can try to roll back your video driver to the previous version as **[Method 2](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) shown, or directly update your video driver to the latest version as **[Method 3](https://tools.techidaily.com/drivereasy/download/)**  shown.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Roll back your video driver to the previous version
 
@@ -109,9 +80,17 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a863c479f5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Roll Back Driver** under the**Driver pane** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8782b427a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the Roll Back Driver icon grayed out, move onto **[Method 3](https://tools.techidaily.com/drivereasy/download/)** [t](https://tools.techidaily.com/drivereasy/download/) hen.
 
@@ -119,22 +98,12 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8727a02c3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once it’s done, restart your computer to see if your second monitor is displaying.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Update your video driver to the latest version
@@ -152,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5add9a418221e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.
 
@@ -198,5 +160,20 @@ Restart your computer to see if your second monitor is displaying.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-elevate-your-video-presentations-applying-zoom-filters-guide/"><u>[New] 2024 Approved Elevate Your Video Presentations Applying Zoom Filters Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlock-potential-top-free-video-opener-hacks/"><u>[New] Unlock Potential Top Free Video Opener Hacks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-computer-randomly-restarts-on-windows-11/"><u>[SOLVED] Computer Randomly Restarts on Windows 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-yearly-revelation-of-cost-effective-editing-apps/"><u>[Updated] 2024 Approved The Yearly Revelation of Cost-Effective Editing Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-learn-the-basics-of-digital-distortion/"><u>[Updated] Learn the Basics of Digital Distortion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-5-best-apps-blending-visual-storytelling-and-music/"><u>2024 Approved 5 Best Apps Blending Visual Storytelling & Music</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-streamlining-your-video-call-process-with-obs-and-skype/"><u>2024 Approved Streamlining Your Video Call Process with OBS & Skype</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-class-not-registered-problems-for-windows-10-apps/"><u>Diagnosing and Fixing 'Class Not Registered' Problems for Windows 10 Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-back-to-battle-faster-expert-advice-on-fixing-slow-download-problems-with-lol/"><u>Get Back to Battle Faster: Expert Advice on Fixing Slow Download Problems with LoL</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guiding-users-through-fixing-windows-10-copy-problems/"><u>Guiding Users Through Fixing Windows 10 Copy Problems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-honor-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Honor Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-printing-experience-with-canon-ip110-compatible-drivers-for-windows-11-10-8-and-7/"><u>Seamless Printing Experience with Canon iP110 - Compatible Drivers for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-movie-maker-unleashed-creative-possibilities-explored-for-2024/"><u>YouTube Movie Maker Unleashed Creative Possibilities Explored for 2024</u></a></li>
+</ul></div>
 

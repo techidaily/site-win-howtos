@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Opaque Initialization Screens on Monster Hunter: World Starts"
-date: 2024-09-11T15:21:10.307Z
-updated: 2024-09-12T15:21:10.307Z
+date: 2024-12-20T22:08:05.491Z
+updated: 2024-12-23T00:05:21.750Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/4ea85f8fd0d9ab2c6c04d80e6aa73ebac967f8aac
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Boot your PC without Peripherals
 
  External peripherals can sometimes conflict with your system and trigger errors of all sorts. So before we dive into anything deeper, let’s start with the easiest solution: restarting your PC without peripherals.
@@ -39,16 +43,7 @@ thumbnail: https://thmb.techidaily.com/4ea85f8fd0d9ab2c6c04d80e6aa73ebac967f8aac
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/usb-g6d352e3ca_640.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Try turning on your computer again.
@@ -56,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/4ea85f8fd0d9ab2c6c04d80e6aa73ebac967f8aac
  If your computer boots correctly, that means that one of the peripherals you removed is causing your problem. You should **reinstall each device** back into your computer and test them each time. Then, you’ll find the specific device that causes your problem. Replace the device once you’ve identified it. Or, consult the manufacturer of the device for assistance.
 
 If your computer still can’t boot correctly, try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 2: Check the RAM
 
@@ -87,10 +75,7 @@ RAM looks like this:
  If your computer still can’t boot properly, don’t worry. Check the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Reset BIOS Settings
@@ -110,16 +95,7 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Wait for 5 minutes, and then reinstall your CMOS battery.
@@ -127,10 +103,7 @@ The CMOS battery looks like this
 5) Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 4: Restore your System to the Previous State
@@ -144,19 +117,6 @@ The CMOS battery looks like this
 2) Type **recovery**  in the search box on your desktop, and click **Recovery** in the list of results.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-11-44.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click **Open System Restore** .
 
@@ -195,13 +155,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -211,13 +164,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-28-48.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type **SFC /Scannow** , and then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-29-41.jpg)
@@ -225,6 +171,10 @@ The CMOS battery looks like this
  3) Type **DISM /Online /Cleanup-Image /RestoreHealth** , and then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_17-08-53.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 6: Perform a Fresh Install
 
@@ -245,5 +195,20 @@ The CMOS battery looks like this
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pro-zoom-functionality-tips-for-chromebook-devices/"><u>[Updated] 2024 Approved Pro Zoom Functionality Tips for Chromebook Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-your-non-functional-razer-kraken-headset-mic/"><u>Diagnosing and Repairing Your Non-Functional Razer Kraken Headset Mic</u></a></li>
+<li><a href="https://win-best.techidaily.com/festplatten-sichern-wie-sie-daten-sicherstellen-konnen-auch-wenn-windows-nicht-bootet-einfach-zu-befolgender-tutorial/"><u>Festplatten Sichern: Wie Sie Daten Sicherstellen Können, Auch Wenn Windows Nicht Bootet - Einfach Zu Befolgender Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-brightness-adjustment-features-in-your-windows-10-pc/"><u>How to Restore Brightness Adjustment Features in Your Windows 10 PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leading-free-communication-tools-better-than-skype-top-picks/"><u>Leading Free Communication Tools (Better Than Skype) - Top Picks</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-looking-forward-to-making-up-your-career-in-video-editing-land-in-here-to-learn-about-the-credibility-of-some-popular-video-editing-course/"><u>New 2024 Approved Looking Forward to Making up Your Career in Video Editing? Land in Here to Learn About the Credibility of some Popular Video Editing Courses</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/real-time-streaming-solutions-with-manycam-premium-video-software-and-online-camera-alternatives/"><u>Real-Time Streaming Solutions with ManyCam: Premium Video Software & Online Camera Alternatives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-code-28-trouble-in-microsoft-device-manager/"><u>Resolving the 'Code 28' Trouble in Microsoft Device Manager</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restoring-full-touchpad-support-and-scrolling-in-windows-11-systems/"><u>Restoring Full Touchpad Support and Scrolling in Windows 11 Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-solutions-for-missing-steamdll-files/"><u>Troubleshooting and Solutions for Missing Steam.dll Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-update-error-0x8024401c-on-windows-10-and-windows-11-systems/"><u>Troubleshooting Update Error 0X8024401c on Windows 10 and Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-10-cast-to-device-problems-effective-fixes-revealed/"><u>Troubleshooting Windows 10 Cast to Device Problems – Effective Fixes Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unclogging-the-puzzle-a-user-manual-for-repairing-webcam-problems-in-windows/"><u>Unclogging the Puzzle: A User Manual for Repairing Webcam Problems in Windows</u></a></li>
+</ul></div>
 

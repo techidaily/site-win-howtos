@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Repair Manual: How to Restore Functionality to Your Lagging Gamepad"
-date: 2024-09-11T15:20:30.615Z
-updated: 2024-09-12T15:20:30.615Z
+date: 2024-12-19T22:07:39.420Z
+updated: 2024-12-22T16:55:43.302Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/366d048ff390e8ea9501aef5e5e819c7e4080380c
 
  Try to unplug and replug the controller to the computer. This simple method should be the first method you can try, as it always work like a charm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Use a Different USB Cable (Wired Only)
 
  If you’re using a wired controller, a broken USB cable can be the cause. Try a cable with no problem and check to see if the problem is resolved.
@@ -52,36 +56,13 @@ Follow these steps to update the driver via Device Manager:
 3. Expand**Microsoft Xbox One Controller** . Right-click on it and click **Update Driver Software** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/05/img_591d497d71563.png)
 4. Select**Search automatically for updated driver software** . Then Windows will install the new driver.  
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the issue persists, follow steps below to update the driver again:
 
@@ -89,41 +70,23 @@ Follow these steps to update the driver via Device Manager:
 2. Click **Browse my computer for driver software** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-3.png)
 3. Click **Let me pick from a list of device drivers on my computer** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-4.png)
 4. Select **Microsoft Xbox One Controller** then click**Next** button.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-5.png)
 5. Select**Microsoft Xbox One Controller** and click**Next** to run the driver installation.  
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this still doesn’t work for you, please move on.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4: Update the Driver Using Driver Easy
 
@@ -136,23 +99,14 @@ If this still doesn’t work for you, please move on.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/05/microsoft-xbox-one-controller.png)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hope you can solve the Xbox One controller not working issue with the methods above. If you have any questions, please feel free to comment below. We’d love to hear your ideas and suggestions.
 
@@ -171,5 +125,19 @@ If this still doesn’t work for you, please move on.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-video-capture-obs-versus-bandicam/"><u>[New] In 2024, The Ultimate Guide to Video Capture OBS versus Bandicam</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-path-to-personalized-tiktok-hash-creation-for-2024/"><u>[New] The Path to Personalized TikTok Hash Creation for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-xbox-screen-recording-uncovered-a-step-by-step-manual/"><u>2024 Approved Xbox Screen Recording Uncovered A Step-by-Step Manual</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/classic-1980s-visual-elements-in-editing-workflow-for-2024/"><u>Classic 1980S Visual Elements in Editing Workflow for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-fortnites-graphics-card-compatibility-issues-on-windows/"><u>How to Fix Fortnite's Graphics Card Compatibility Issues on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-intel-rapid-storage-technology-rst-malfunction-in-windows-11-systems/"><u>How to Resolve Intel Rapid Storage Technology (RST) Malfunction in Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-computer-gear-tips-and-reviews-from-toms-hardware/"><u>Navigating Computer Gear: Tips and Reviews From Tom's Hardware</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/sam-altman-steps-down-as-openai-ceo-repercussions-for-ai-language-model-chatgpt/"><u>Sam Altman Steps Down as OpenAI CEO - Repercussions for AI Language Model ChatGPT?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-reducing-high-cpu-usage-by-svchostexe-in-windows-10-systems/"><u>Step-by-Step Guide to Reducing High CPU Usage by svchost.exe in Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-6-solutions-for-resolving-werfaultexe-malfunction-in-windows/"><u>Top 6 Solutions for Resolving werfault.exe Malfunction in Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-y100a-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Vivo Y100A Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/when-tech-fails-the-mind-9-critical-concerns-of-using-ai-in-place-of-trained-therapists/"><u>When Tech Fails the Mind: 9 Critical Concerns of Using AI in Place of Trained Therapists</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Resolving Windows Networking Problem 0X800704cf: Expert Tips for Users"
-date: 2024-09-05T10:12:03.947Z
-updated: 2024-09-06T10:12:03.947Z
+date: 2024-12-15T22:47:15.619Z
+updated: 2024-12-22T18:14:44.681Z
 tags:
   - win11
   - win10
@@ -28,11 +28,9 @@ thumbnail: https://thmb.techidaily.com/566315d56d553ccbd049a4fe3b4211dbde8cabf2c
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a9098f95479.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1) Fix the 0x80070643 error on Windows Update
 
  Here are fixes that you should try when you see an 0x80070643 error in Windows Update.
@@ -53,12 +51,6 @@ thumbnail: https://thmb.techidaily.com/566315d56d553ccbd049a4fe3b4211dbde8cabf2c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8d75d07929.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **iii.** Click on**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8d8364e9e9.jpg)
@@ -78,21 +70,13 @@ thumbnail: https://thmb.techidaily.com/566315d56d553ccbd049a4fe3b4211dbde8cabf2c
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8db550cab4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **ii.** Type “_**cmd**_ “. When you see**Command Prompt** appear in the menu above, right click on it and select**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8dc2dcc5a2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **iii.** In Command Prompt, type “_**sfc /scannow**_ ” and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8de0f758fc.png)
@@ -111,34 +95,20 @@ thumbnail: https://thmb.techidaily.com/566315d56d553ccbd049a4fe3b4211dbde8cabf2c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8f897c7bf5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **ii.** In the System window, check the System type entry to see if your operating system is**32-bit (x86-based)** or**64-bit (x64-based)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8fa2a4f246.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **iii.** Open Windows Update and check the updates you have failed to install. Copy down the codes of these updates (the codes starting with “**KB** “).
 
 **iv.** Go to[**Microsoft Update Catalog**](http://www.catalog.update.microsoft.com) and search the codes for those updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a920adb952b.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **v.** Find the update that is suitable for your operating**system type** (**x86-based** or**x64-based** ) and click on the**Download** button next to it.
 
 _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, please go to[**method 4**](#f) ._
@@ -159,6 +129,10 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37871a5b248.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iii.** Open the file you have downloaded and install the update on your computer.
 
 **iv.**  Restart your computer and then run Windows Update. Check to see if the error is gone.
@@ -168,6 +142,10 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
  Your antivirus software may be conflicting with the programs or Windows Update on your computer and bring about the 0x80070643 error. You can try disabling your antivirus software to see if this solves your problem. Disable all the functions of your antivirus software and then check Windows Update to see if it can update your system normally.
 
  _Hopefully one of the fixes above resolved your Windows Update issue. But if not, you may need to try [**the fixes in this post**](https://tools.techidaily.com/drivereasy/download/) ._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2) Fix the 0x80070643 error during a program installation
 
@@ -193,12 +171,6 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a917d0eff42.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **iii.** Click on**Windows Installer** , then**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a918b2d4c1e.jpg)
@@ -213,12 +185,6 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a91bc320988.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **ii.** Go to[**Microsoft’s .NET Framework download website**](https://www.microsoft.com/net/download/framework) .
 
 **iii.** Click on the latest version of .NET Framework.
@@ -226,37 +192,21 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8d75d07929.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **iv.** Click **Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8d8364e9e9.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **v.** Open the downloaded file and follow the on-screen instructions to install it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8d990c1845.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **vi.** Try installing the program again and see if the error is gone.
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -268,8 +218,6 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -277,4 +225,20 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/uick-cover-art-crafting-for-fighting-games-for-2024/"><u>[New] Quick Cover Art Crafting for Fighting Games for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-google-pixel-fold-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Google Pixel Fold Pattern Lock Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/getting-past-stuck-ios-updates-a-comprehensive-list-of-6-troubleshooting-steps/"><u>Getting Past Stuck iOS Updates: A Comprehensive List of 6 Troubleshooting Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-speaker-distortion-on-windows-11-and-7-a-step-by-step-guide/"><u>How To Fix Speaker Distortion on Windows 11 & 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/repair-guide-reactivating-night-light-feature-in-windows-11-operating-system/"><u>Repair Guide: Reactivating Night Light Feature in Windows 11 Operating System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-with-the-release-of-urban-planners-challenge-skycrapes-unbound/"><u>Resolving Issues with the Release of Urban Planner's Challenge: Skycrapes Unbound</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-sudden-end-of-a-program-understanding-error-1067-in-windows/"><u>Resolving the Sudden End of a Program - Understanding Error 1067 in Windows</u></a></li>
+<li><a href="https://os-tips.techidaily.com/safe-methods-for-rooting-your-android-device-a-comprehensive-guide/"><u>Safe Methods for Rooting Your Android Device: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-common-problems-with-todays-advanced-networked-devices-for-easy-setup/"><u>Solving Common Problems with Today's Advanced Networked Devices for Easy Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/speedy-fixes-to-tackle-the-low-battery-detected-error-with-ease/"><u>Speedy Fixes to Tackle the 'Low Battery Detected' Error with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-tips-for-common-black-ops/"><u>Step-by-Step Troubleshooting Tips for Common Black Ops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-slow-windows-apps-boost-their-web-connection/"><u>Troubleshoot Slow Windows Apps: Boost Their Web Connection</u></a></li>
+</ul></div>
 

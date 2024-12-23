@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Solutions for Unresponsive Laptop Trackballs Under Windows
-date: 2024-12-07T16:18:57.347Z
-updated: 2024-12-13T16:21:53.671Z
+date: 2024-12-17T18:03:08.061Z
+updated: 2024-12-22T22:02:37.150Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -54,7 +58,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -76,7 +80,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -84,10 +88,6 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -113,6 +113,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -122,17 +126,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -141,6 +137,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -184,22 +184,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-a-comparative-analysis-of-top-10-budget-friendly-video-calls-for-2024/"><u>[New] A Comparative Analysis of Top 10 Budget-Friendly Video Calls for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-infuse-vibes-into-photos-via-ig-sounds/"><u>[Updated] In 2024, Infuse Vibes Into Photos via IG Sounds</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-engaging-consumers-effectively-through-snapbiz-insights/"><u>2024 Approved Engaging Consumers Effectively Through SnapBiz Insights</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-maintaining-youtube-like-video-quality-on-twitter/"><u>2024 Approved Maintaining YouTube-Like Video Quality on Twitter</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-realme-c33-2023-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme C33 2023 FRP</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-windows-update-hurdle-a-complete-walkthrough-on-fixing-error-0x8024002e/"><u>Bypassing Windows Update Hurdle: A Complete Walkthrough on Fixing Error 0X8024002E</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211529507-complete-guide-to-lowering-high-cpu-usage-by-svchostexe-on-windows-10-devices-solved/"><u>Complete Guide to Lowering High CPU Usage by svchost.exe on Windows 10 Devices – Solved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/detect-and-fix-wd-my-passport-ultra-not-showing-up-on-windows-computer-docks/"><u>Detect & Fix: WD My Passport Ultra Not Showing Up on Windows Computer Docks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-tips-for-repairing-malfunctioning-shift-keys-in-windows-and-macos/"><u>Effective Tips for Repairing Malfunctioning Shift Keys in Windows and MacOS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-tips-for-msvcp140dll-restoration/"><u>Essential Tips for MSVCP140.dll Restoration</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/passive-to-active-a-3-step-framework-to-evaluate-your-youtube-financials-for-2024/"><u>From Passive to Active A 3-Step Framework to Evaluate Your YouTube Financials for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-guide-to-perfecting-slow-motion-on-your-android-device/"><u>In 2024, Step-by-Step Guide to Perfecting Slow Motion on Your Android Device</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-analysis-selecting-the-leading-5-virtual-title-experts-for-2024/"><u>In-Depth Analysis Selecting the Leading 5 Virtual Title Experts for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-6-best-automatic-transcription-software/"><u>New 6 Best Automatic Transcription Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/smartaudio-initialization-fiasco-how-to-correctly-set-up-your-device-fixed/"><u>SmartAudio Initialization Fiasco: How to Correctly Set Up Your Device [FIXED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210770235-steam-file-retrieval-how-to-recover-missing-game-files-effectively-solved/"><u>Steam File Retrieval: How to Recover Missing Game Files Effectively - SOLVED!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-enhancing-video-cards-without-alpha-blend-capabilities/"><u>Troubleshooting and Enhancing Video Cards Without Alpha Blend Capabilities</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-essential-steps-to-implement-video-card-anchors-on-youtube/"><u>[New] 2024 Approved Essential Steps to Implement Video Card Anchors on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-simplify-lenovo-screen-casting-today/"><u>[New] In 2024, Simplify Lenovo Screen Casting Today</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-revolutionized-ios-screenshot-and-recording-methods/"><u>[Updated] 2024 Approved Revolutionized iOS Screenshot & Recording Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-instagram-live-anonymously-a-step-by-step-approach/"><u>[Updated] Navigating Instagram Live Anonymously A Step-by-Step Approach</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-illuminating-your-android-videos-a-quick-guide/"><u>2024 Approved Illuminating Your Android Videos A Quick Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-troubleshooting-for-missing-bluetooth-in-windows-11-step-by-step-tutorial/"><u>Easy Troubleshooting for Missing Bluetooth in Windows 11 - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/find-the-best-sound-key-considerations-for-buying-quality-stereo-speakers/"><u>Find the Best Sound: Key Considerations for Buying Quality Stereo Speakers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>How to identify missing your drivers with Windows Device Manager on Windows 10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-knowledge-keepers-guide-10-top-choices-for-lecture-capturers/"><u>In 2024, Knowledge Keeper's Guide 10 Top Choices for Lecture Capturers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-issues-fix-inactive-letters-on-your-win-10-or-win-11-system-today/"><u>Keyboard Issues? Fix Inactive Letters on Your Win 10 or Win 11 System Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/role-of-rituals/"><u>Role of Rituals</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/schritt-fur-schritt-tutorial-zum-erstellen-eines-windows-11-bootabgleichs-auf-einem-hochwertigen-usb-laufwerk/"><u>Schritt-Für-Schritt Tutorial Zum Erstellen Eines Windows 11 Bootabgleichs Auf Einem Hochwertigen USB-Laufwerk</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-overcoming-limited-system-capacity-issues/"><u>Troubleshooting: Overcoming Limited System Capacity Issues</u></a></li>
 </ul></div>
 

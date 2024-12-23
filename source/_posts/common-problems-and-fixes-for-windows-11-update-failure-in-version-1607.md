@@ -1,7 +1,7 @@
 ---
 title: Common Problems and Fixes for Windows 11 Update Failure in Version 1607
-date: 2024-09-05T10:13:28.866Z
-updated: 2024-09-06T10:13:28.866Z
+date: 2024-12-16T23:26:18.460Z
+updated: 2024-12-22T22:14:00.125Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Common Problems and Fixes for Windows 11 Update 
 thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170de1cb456669c5929df51dc2a.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Overcoming Problems with Windows 10 Version 1903 Update (KB4056892) – Solutions Inside
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap787-300x95.png)
@@ -36,12 +30,6 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 1: Running Windows Update Troubleshooter**
 
  Windows Update troubleshooter is a built-in tool that can help you analyze and resolve issues related to Windows update. Try running Windows Update troubleshooter to see if you can resolve this issue. Here is how to do it:
@@ -49,25 +37,18 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 1. On your keyboard, press **the Windows logo key**  and type **troubleshoot** . In the list of search results, select **Troubleshoot**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap788.png)
 2. In the pop-up window, select **Windows Update**   and click **Run the troubleshooter** . You’ll be prompted for permission. Click **Yes**   to run Windows Update troubleshooter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap789.png)
 3. Click **Apply this fix**   to continue.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap790.png)
 4. Follow the on-screen instructions to troubleshoot this issue.
 
  Perform a Windows update again to see if you can install the update. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 2: Restarting Windows Update service**
 
  You may run into this issue if there is something wrong with the Windows Update service. You can try restarting the Windows Update service to resolve this problem. Here’s how to do it:
@@ -75,39 +56,36 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 1. On your keyboard, press **the Windows Logo key**  and **R**  at the same time to open the Run dialog, then type **services.msc**  and press **Enter**  to open the Services window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap791.png)
 2. Right-click **Windows Update** and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap792.png)
 3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** .  Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **`C:\Windows\SoftwareDistribution\DataStore`**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap794.png)
 4. Delete all the files in the folder **DataStore**  .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap795.png)  
  When all the files are deleted, you shall see “This folder is empty”.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open   **File Explorer**  . Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to open the **Download**  folder.  
 
 **`C:\Windows\SoftwareDistribution\Download**  
 **`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap796.png)
 6. Delete all the files in the folder   **Download**  .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap797.png)  
  When all the files are deleted, you shall see “This folder is empty”.
 7. In the Services window, right-click **Windows Update** and select **Start**  .  
@@ -116,11 +94,9 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
  Check Windows Update again to see whether you can install the update. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 3: Setting the TrustedInstaller service to auto start**
 
  This issue may occur if you didn’t set the trustedInstaller service to auto start. So try setting the TrustedInstaller service to auto start before you install the update KB4056892\. Here is how to do it:
@@ -128,24 +104,12 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**cmd** and press**Ctrl** ,**Shift** and**Enter** at the same time to**run Command Prompt as administrator** . You’ll be prompted for permission. Click**Yes** to open Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap799.png)
 2. In Command Prompt, type the command line below and press enter:  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **SC config trustedinstaller start=auto**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap800.png)
 3. Close Command Prompt and restart your PC.
 
  Perform Windows Update again after your restart your PC. See if you can install the update KB4056892\. If you can install it, congratulations! You’ve fixed this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 4: Running System File Checker**
 
 **System File Checker**  can scan for corruptions in Windows system files and restore corrupted files. When you fail to install Windows updates, it may be caused by some corruption error. In this case, running System File Checker may help you resolve this issue.
@@ -153,18 +117,21 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**cmd** and press**Ctrl** ,**Shift** and**Enter** at the same time to**run Command Prompt as administrator** . You’ll be prompted for permission. Click**Yes** to open Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap799.png)
 2. In Command Prompt, type the following command and press **Enter**  .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **sfc /scannow**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap801.png)  
  It may take some time for the command operation to be completed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. When this command operation is completed, close Command Prompt.
 
 Run Windows Update  again to check whether this fix works or not. If you still fail to install the update KB4056892 for your Windows system, try downloading it from Microsoft Update Catalog manually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 5: Downloading the update KB4056892 from Microsoft Update Catalog manually**
 
@@ -176,6 +143,11 @@ Run Windows Update  again to check whether this fix works or not. If you still f
    2. Type the command line **systeminfo**  and press **Enter**  to view your system type.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap802.png)  
     “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Visit[**Microsoft Update Catalog**](https://www.catalog.update.microsoft.com/home.aspx) .
 3. Type**KB4056892**  and then click **Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap803.png)
@@ -183,23 +155,16 @@ Run Windows Update  again to check whether this fix works or not. If you still f
  If your **Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap806.png)
 5. In the pop-up window, click the link to start downloading the updates.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap807.png)
 6. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
 
 See if you can install the update. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Pro tip: Want us to fix the problem for you?**
 
  If none of the fixes above worked, or you just don’t have the time or confidence to troubleshoot the problem for yourself, get us to fix it for you.
@@ -219,8 +184,6 @@ See if you can install the update. If not, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -228,4 +191,26 @@ See if you can install the update. If not, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-highlight-trail-from-skatescape-2022/"><u>[New] The Ultimate Highlight Trail From Skatescape 2022</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-youtubes-hidden-gems-keyword-research/"><u>[New] Unlocking YouTube's Hidden Gems Keyword Research</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-pioneering-the-soundtrack-adding-editing-and-cropping-music/"><u>[Updated] 2024 Approved Pioneering the Soundtrack Adding, Editing, and Cropping Music</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-game-on-top-10-gaming-personalities-on-tiktok/"><u>[Updated] Game On Top 10 Gaming Personalities on TikTok</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-generate-memes-for-free-meme-creator-kit/"><u>[Updated] Generate Memes for Free - Meme Creator Kit</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-brain-mechanisms-guiding-high-stakes-business-conclusions/"><u>[Updated] In 2024, Brain Mechanisms Guiding High-Stakes Business Conclusions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-no-cost-video-capture-tools-top-5-picks-for-editors/"><u>Best No-Cost Video Capture Tools: Top 5 Picks for Editors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-copy-and-paste-features-in-your-windows-11-operating-system/"><u>How to Restore Copy and Paste Features in Your Windows 11 Operating System</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-x100-pro-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo X100 Pro To Phone | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/is-netflix-not-working-properly-uncover-the-causes-and-quick-fixes/"><u>Is Netflix Not Working Properly? Uncover the Causes and Quick Fixes</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/master-the-art-of-email-backup-best-techniques-to-safeguard-old-gmail-messages-and-photos/"><u>Master the Art of Email Backup: Best Techniques to Safeguard Old Gmail Messages and Photos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-writers-block-in-computer-memory-dealing-with-a-referenced-location-at-0x-0x/"><u>Overcoming Writer's Block in Computer Memory: Dealing with a Referenced Location at 0X (0X)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207863980-pdf-printing-problems-quick-fixes-to-get-your-document-out/"><u>PDF Printing Problems? Quick Fixes to Get Your Document Out</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574178084-printer-woes-in-windows-11-help-needed/"><u>Printer Woes in Windows 11 - Help Needed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-update-error-code-0x802eb3f6-a-step-by-step-guide/"><u>Resolving Windows 11 Update Error Code 0X802eb3f6: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-typing-issues-fix-broken-letter-functions-on-win-1011-computers/"><u>Solving Typing Issues: Fix Broken Letter Functions on Win 10/11 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-the-infamous-red-screen-problem-a-complete-fix-guide/"><u>Tackling the Infamous 'Red Screen' Problem: A Complete Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vcruntime140dll-not-found-heres-how-you-can-resolve-it/"><u>VCRUNTIME140.dll Not Found? Here's How You Can Resolve It!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211838378-your-sds-silence-uncover-solutions/"><u>Your SD's Silence? Uncover Solutions!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Fix a Non-Responsive Touchpad Scroll Issue: A Step-by-Step Guide"
-date: 2024-12-08T18:33:13.895Z
-updated: 2024-12-13T20:46:56.391Z
+date: 2024-12-18T16:55:55.387Z
+updated: 2024-12-22T23:27:54.324Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1\. Roll back your touchpad driver to an earlier version
@@ -41,10 +41,6 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2)  
 
  Find and expand**Mice and other pointing devices** dialog.  
@@ -53,7 +49,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)  
@@ -63,7 +59,15 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Scroll still not working?
 
@@ -81,10 +85,6 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -94,7 +94,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
@@ -119,14 +119,20 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-recording-revelry-capturing-the-thrill-of-sports-games/"><u>[Updated] 2024 Approved Recording Revelry Capturing the Thrill of Sports Games</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/addressing-and-fixing-the-persistent-error-0x80073cf9-on-your-windows-10-devices-store-app/"><u>Addressing and Fixing the Persistent Error 0X80073CF9 on Your Windows 10 Device's Store App</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/from-blocked-to-bold-wow-breaks-through-3d-limitations/"><u>From Blocked to Bold: WoW Breaks Through 3D Limitations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-hdcp-incompatibility-a-guide-for-unsupported-visual-equipment/"><u>How to Fix HDCP Incompatibility: A Guide for Unsupported Visual Equipment</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-realme-gt-3-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Realme GT 3 Device</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/new-age-fitness-trackers-showdown-how-does-samsung-galaxy-watch-active-2-improve-on-original-models-features/"><u>New Age Fitness Trackers Showdown - How Does Samsung Galaxy Watch Active 2 Improve on Original Model's Features?</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-transform-videos-into-stunning-live-photos-with-these-apps/"><u>New Transform Videos Into Stunning Live Photos with These Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-restoring-functionality-for-a-broken-pvpnet-lol-players-kernel-update-process/"><u>Step-by-Step: Restoring Functionality for a Broken PvP.net LOL Player's Kernel Update Process</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-unparalleled-streaming-experience/"><u>The Ultimate Guide to Unparalleled Streaming Experience</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ssential-knowledge-for-youtube-short-creators/"><u>[New] Essential Knowledge for YouTube Short Creators</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essential-screen-recording-tips-for-windows-8-pros/"><u>[Updated] Essential Screen Recording Tips for Windows 8 Pros</u></a></li>
+<li><a href="https://win11.techidaily.com/debugging-made-simple-top-10-windows-fixers/"><u>Debugging Made Simple: Top 10 Windows Fixers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-non-existent-opencl-dynamic-libraries/"><u>Fixing Non-Existent OpenCL Dynamic Libraries</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-your-path-to-a-unique-auditory-experience-customizing-ringtone-and-sound-on-android/"><u>In 2024, Your Path to a Unique Auditory Experience Customizing Ringtone & Sound on Android</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-removal-of-critical-errors-your-ultimate-guide-to-fixing-google-chrome-issues/"><u>Mastering the Removal of Critical Errors: Your Ultimate Guide to Fixing Google Chrome Issues</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/optimal-obs-configuration-tips-for-budget-gaming-pcs/"><u>Optimal OBS Configuration Tips for Budget Gaming PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-wow-crash-132-a-guide-for-users/"><u>Preventing WoW Crash #132: A Guide for Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/prime-online-communities-eclipsing-twitterenasity-for-2024/"><u>Prime Online Communities Eclipsing Twitter'enasity for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/proficient-strategies-for-hyperlink-integration-into-tiktok-profiles-for-2024/"><u>Proficient Strategies for Hyperlink Integration Into TikTok Profiles for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-kernel-141-errors-a-practical-approach/"><u>Resolving Kernel 141 Errors: A Practical Approach</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-internet-explorer-is-no-longer-supported-error-a-comprehensive-guide/"><u>Resolving the 'Internet Explorer Is No Longer Supported' Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-when-your-torrent-files-wont-download-tips-and-advice/"><u>Solutions when Your Torrent Files Won't Download - Tips & Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-best-way-to-get-more-out-of-gpt-4-turbo-copilot/"><u>The Best Way to Get More Out of GPT-4 Turbo: Copilot</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-common-easy-hacks-blocker-faults-in-apex-legends/"><u>Troubleshooting Common Easy Hacks Blocker Faults in Apex Legends</u></a></li>
 </ul></div>
 

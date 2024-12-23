@@ -1,7 +1,7 @@
 ---
 title: How to Fix Windows 11 Black Screen Issue
-date: 2024-12-10T20:03:21.097Z
-updated: 2024-12-13T18:57:42.377Z
+date: 2024-12-19T22:03:29.785Z
+updated: 2024-12-22T21:05:06.544Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes for Keyboard Lag
 
  All the fixes below work in**Windows 10** . You may not have to try all of them; just work your way down the list until the**keyboard lag** issue has been resolved.
@@ -30,10 +34,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 2. **[Run Hardware and Devices troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 3. [**Update your keyboard driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Run DISM](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware issues
 
@@ -46,6 +46,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run Hardware and Devices troubleshooter
 
 **Windows Hardware and Devices Troubleshooter**  is a useful tool that helps us solve problems with our hardware and devices (keyboard in this case). Here’s how to**run Troubleshooter** :
@@ -54,12 +58,12 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
@@ -79,17 +83,9 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -98,7 +94,7 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run DISM
@@ -108,6 +104,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
@@ -140,18 +140,24 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-the-pinnacle-of-media-excellence-top-phones-videos/"><u>[New] In 2024, The Pinnacle of Media Excellence Top Phones Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-connecting-through-ig-a-guide-for-hyperlink-posts/"><u>2024 Approved Connecting Through IG A Guide for Hyperlink Posts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leveraging-kinemasters-strengths-for-video-magic-and-10-esteemed-competitors/"><u>2024 Approved Leveraging KineMaster's Strengths for Video Magic & 10 Esteemed Competitors</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-oppo-reno-10-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Oppo Reno 10 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-nubia-red-magic-8s-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Nubia Red Magic 8S Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-listen-and-act-complimentary-recognition-software/"><u>In 2024, Listen and Act Complimentary Recognition Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-one-device-one-storage-transferring-files-smoothly/"><u>In 2024, One Device, One Storage Transferring Files Smoothly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fortnites-unsuccessful-launch/"><u>Resolved Fortnite's Unsuccessful Launch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-dell-input-devices-troubleshooting-tips-for-keyboards-and-mice-that-wont-work/"><u>Revive Your Dell Input Devices: Troubleshooting Tips for Keyboards and Mice That Won't Work</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/save-your-tech-expert-advice-on-salvaging-moisture-hit-ios-devices/"><u>Save Your Tech: Expert Advice on Salvaging Moisture-Hit iOS Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tackling-the-overuse-of-processor-resources-in-windows-sound-card-graphs/"><u>Tackling the Overuse of Processor Resources in Windows Sound Card Graphs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transform-your-paperwork-into-digital-format-using-iphones-best-ocr-scanner-pluspdf-converter/"><u>Transform Your Paperwork Into Digital Format Using iPhone's Best OCR Scanner +PDF Converter!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winupdate-trouble-learn-how-to-restart-and-resolve-issues-quickly/"><u>WinUpdate Trouble? Learn How to Restart and Resolve Issues Quickly!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-viacoms-top-10-screen-recorder-software/"><u>[New] In 2024, Viacom’s Top 10 Screen Recorder Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-viewfinder-verdicts-summary-for-2024/"><u>[New] Viewfinder Verdicts Summary for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-essential-manual-for-personalizing-android-ringtones-and-sounds/"><u>[Updated] The Essential Manual for Personalizing Android Ringtones and Sounds</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2023-download-all-favorites-without-spending/"><u>2023 Download All Favorites Without Spending</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automate-conversion-of-high-efficiency-image-coding-heic-photos-to-jpeg-format/"><u>Automate Conversion of High-Efficiency Image Coding (HEIC) Photos to JPEG Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhanced-performance-fixes-system-resource-shortage-on-service-delivery/"><u>Enhanced Performance Fixes System Resource Shortage on Service Delivery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-and-tips-the-problem-of-unopenable-nvidias-graphics-software-solved/"><u>Fixes and Tips: The Problem of Unopenable NVIDIA's Graphics Software Solved</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guide-complet-comment-profiter-au-maximum-de-wd-backup-sur-windows-11-ainsi-que-des-solutions-de-rechange-efficaces/"><u>Guide Complet: Comment Profiter Au Maximum De WD Backup Sur Windows 11, Ainsi Que Des Solutions De Rechange Efficaces</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-does-windows-10-maintain-file-integrity-across-reboots-a-closer-look-at-data-persistence/"><u>How Does Windows 10 Maintain File Integrity Across Reboots? A Closer Look at Data Persistence</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-superior-group-multimedia-platforms/"><u>In 2024, Superior Group Multimedia Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-pubg-building-loading-problems-expert-tips-for-a-seamless-experience/"><u>Overcome PUBG Building Loading Problems – Expert Tips for a Seamless Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-error-fixing-print-driver-host-crash-in-32-bit-software/"><u>Resolved: Error Fixing 'Print Driver Host' Crash in 32-Bit Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-compatibility-issues-with-dell-cameras-on-windows-devices-expert-advice/"><u>Resolving Compatibility Issues with Dell Cameras on Windows Devices - Expert Advice</u></a></li>
+<li><a href="https://fox-http.techidaily.com/speedy-pace-fb-videos-innovative-apps-and-proxies-ensuring-faster-uploaddownload/"><u>Speedy Pace FB Videos Innovative Apps & Proxies Ensuring Faster Upload/Download</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/swift-remedy-reinstating-lost-game-dlls-like-x3d/"><u>Swift Remedy: Reinstating Lost Game Dlls Like X3D</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-eliminates-delayed-typing-in-windows-11/"><u>Troubleshooting Eliminates Delayed Typing in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolve-when-your-sims-4-game-fails-to-start/"><u>Troubleshooting Tips: Resolve When Your Sims 4 Game Fails to Start</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-overcoming-windows-ready-boot-loop-problems-on-pc/"><u>Troubleshooting: Overcoming 'Windows Ready' Boot Loop Problems on PC</u></a></li>
 </ul></div>
 

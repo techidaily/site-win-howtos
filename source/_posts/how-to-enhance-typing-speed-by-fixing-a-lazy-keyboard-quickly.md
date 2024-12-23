@@ -1,7 +1,7 @@
 ---
 title: How to Enhance Typing Speed by Fixing a Lazy Keyboard Quickly
-date: 2024-12-07T17:32:22.266Z
-updated: 2024-12-13T16:42:46.002Z
+date: 2024-12-21T20:20:44.764Z
+updated: 2024-12-22T20:04:04.194Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -44,7 +48,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
@@ -71,10 +75,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -84,10 +84,6 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -107,11 +103,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -134,10 +138,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
@@ -147,7 +147,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
@@ -184,24 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-collection-of-10-inspirational-movies-for-2024/"><u>[New] The Ultimate Collection of 10 Inspirational Movies for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-bringing-up-the-height-editing-instagram-content-with-fcpx-for-2024/"><u>[Updated] Bringing Up the Height Editing Instagram Content with FCPX for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-exquisite-expression-saver-perfecting-the-art-of-twitter-animations-for-2024/"><u>[Updated] Exquisite Expression Saver - Perfecting the Art of Twitter Animations for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flashflicker-artist/"><u>[Updated] In 2024, FlashFlicker Artist</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-evolution-of-video-from-full-length-to-yt-shorts/"><u>[Updated] In 2024, The Evolution of Video From Full-Length to YT Shorts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-the-user-profile-service-sign-in-errors-on-windows-1011-computers/"><u>Effective Fixes for the User Profile Service Sign-In Errors on Windows 10/11 Computers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/free-easy-tag-extraction-compilation-of-7-best-no-cost-online-tools-for-2024/"><u>Free, Easy Tag Extraction Compilation of 7 Best No-Cost Online Tools for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-past-windows-11-freezing-point-update-solutions-unveiled/"><u>Getting Past Windows 11 Freezing Point: Update Solutions Unveiled</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratuito-conversor-de-orfaos-para-imagens-png-online-movavi/"><u>Gratuito Conversor De Orfãos Para Imagens PNG Online - Movavi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-maintenance-revolution-apple-approves-repaired-components-for-select-models-insights/"><u>IPhone Maintenance Revolution: Apple Approves Repaired Components for Select Models - Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/magsafes-3-in-1-charging-marvel-the-ultimate-tech-gadget-for-travelers-embracing-qi2-standards-zdnet/"><u>MagSafe's 3-in-1 Charging Marvel: The Ultimate Tech Gadget for Travelers Embracing Qi2 Standards | ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-for-windows-11s-persistent-update-problem-error-id-0x80240034/"><u>Mastering the Fix for Windows 11'S Persistent Update Problem – Error ID 0X80240034</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-for-resolving-windows-setup-hanging-issues-on-your-laptop-or-desktop/"><u>Solutions for Resolving Windows Setup Hanging Issues on Your Laptop or Desktop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-resolving-the-issue-when-your-pc-gets-stuck-during-windows-10-shutdown/"><u>Solved! Resolving the Issue When Your PC Gets Stuck During Windows 10 Shutdown</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-activating-bluetooth-connectivity-in-windows-7/"><u>Step-by-Step Guide: Activating Bluetooth Connectivity in Windows 7</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stuck-in-portrait-here-are-fixes-for-iphone-not-rotating-screen-settings/"><u>Stuck in Portrait? Here Are Fixes for iPhone Not Rotating Screen Settings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-failed-attempts-at-changing-display-settings-successfully-explained/"><u>Troubleshooting Failed Attempts at Changing Display Settings Successfully Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-classes-on-windows-11-effective-solutions-proven-to-work/"><u>Troubleshooting Missing Classes on Windows 11: Effective Solutions Proven to Work</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-repairing-damaged-windows-11-registry-entries/"><u>Ultimate Guide: Repairing Damaged Windows 11 Registry Entries</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-examining-the-income-mechanics-of-tseries-on-youtube/"><u>[New] 2024 Approved Examining the Income Mechanics of TSeries on YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-soundtrack-of-successful-snapchat-stories/"><u>[New] The Soundtrack of Successful Snapchat Stories</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-overcoming-windows-10-unshutting-problems-on-your-computer/"><u>Expert Tips: Overcoming Windows 10 Unshutting Problems on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-error-code-0x8024200d-comprehensive-guide-to-resolve-windows-update-issues/"><u>Fixing Error Code 0X8024200D: Comprehensive Guide to Resolve Windows Update Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-ruby-tinted-display-anomaly-of-windows-11-computers/"><u>Fixing the Ruby-Tinted Display Anomaly of Windows 11 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-the-unresponsive-mic-on-your-arctis-5-by-steelseries-solution-explained/"><u>How to Repair the Unresponsive Mic on Your Arctis 5 by SteelSeries (Solution Explained)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-connect-your-devices-with-cast-on-windows-10/"><u>How to Successfully Connect Your Devices with Cast on Windows 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-your-apple-iphone-se-2022-display-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror your Apple iPhone SE (2022) Display? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-live-broadcast-precision-introducing-an-effective-timer/"><u>In 2024, Live Broadcast Precision Introducing an Effective Timer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-motorola-moto-g84-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Motorola Moto G84 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-stop-the-stop-start-prevent-freezing-on-photo-booth/"><u>In 2024, Stop the Stop-Start Prevent Freezing on Photo Booth</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/merge-skype-and-zoom-easy-techniques-for-effective-communication-for-2024/"><u>Merge Skype and Zoom Easy Techniques for Effective Communication for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-initial-set-up-hurdle-for-age-of-empires-iii-gamers/"><u>Resolving the Initial Set-Up Hurdle for Age of Empires III Gamers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-acer-laptop-why-isnt-it-holding-a-charge/"><u>Troubleshooting Acer Laptop: Why Isn't It Holding a Charge?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-screen-mirroring-problems-in-windows-11-solutions-and-tips/"><u>Troubleshooting Screen Mirroring Problems in Windows 11 - Solutions and Tips</u></a></li>
 </ul></div>
 

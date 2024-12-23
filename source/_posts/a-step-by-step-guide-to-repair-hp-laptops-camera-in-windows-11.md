@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide to Repair HP Laptop's Camera in Windows 11
-date: 2024-09-11T15:21:12.859Z
-updated: 2024-09-12T15:21:12.859Z
+date: 2024-12-16T01:01:16.872Z
+updated: 2024-12-22T20:01:12.288Z
 tags:
   - win11
   - win10
@@ -22,10 +22,7 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 The good news is, you can fix it easily!
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -40,10 +37,7 @@ The good news is, you can fix it easily!
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your sound driver
@@ -62,19 +56,6 @@ The good news is, you can fix it easily!
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
 
 ---
@@ -88,37 +69,10 @@ To do so:
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Locate and double-click on**Windows Audio** .  
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
@@ -134,20 +88,23 @@ To run SFC:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click **Yes**   when prompted to confirm.
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run the Playing Audio troubleshooter
 
@@ -157,13 +114,15 @@ Here’s how:
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
@@ -190,5 +149,20 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-fb-url-harnesser-secure-and-free-downloader-bundle-for-23/"><u>[New] FB URL Harnesser Secure & Free Downloader Bundle for '23</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-cutting-edge-splitcams-rated-or-not/"><u>[Updated] 2024 Approved Cutting-Edge SplitCams Rated or Not?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/avoiding-auditory-peaks-control-volume-levels-in-logic-pro-for-2024/"><u>Avoiding Auditory Peaks Control Volume Levels in Logic Pro for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-issues-fixes-for-non-responsive-led-lights/"><u>Corsair Keyboard Issues: Fixes for Non-Responsive LED Lights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-10-couldnt-be-installed-error-80240020-a-complete-guide-to-resolution/"><u>Fixing 'Windows 10 Couldn't Be Installed' Error 80240020 - A Complete Guide to Resolution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-baldurs-gate-3-from-crashing-on-your-pc-step-by-step-solution/"><u>How to Prevent Baldur's Gate 3 From Crashing on Your PC - Step-by-Step Solution</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hulus-partners-beyond-amazon-firetv/"><u>Hulu's Partners Beyond Amazon FireTV</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-a-deep-dive-into-luts-for-image-enhancement/"><u>In 2024, A Deep Dive Into LUTs for Image Enhancement</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-computers-getting-windows-ready-hang-step-by-step-troubleshooting-guide/"><u>Resolve Your Computer's 'Getting Windows Ready' Hang: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-mouse-pointer-vanishing-issues-in-windows-1e/"><u>Resolving Mouse Pointer Vanishing Issues in Windows 1E</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-kodi-buffering-woes-easy-steps-for-seamless-viewing/"><u>Troubleshoot Kodi Buffering Woes – Easy Steps for Seamless Viewing</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-15-health-and-fitness-apps-compatible-with-apple-and-android-phones/"><u>Ultimate Selection of 15 Health and Fitness Apps Compatible with Apple & Android Phones</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes for a Non-Functioning Mac Webcam: Simple Solutions"
-date: 2024-09-11T15:19:41.885Z
-updated: 2024-09-12T15:19:41.885Z
+date: 2024-12-15T22:03:51.973Z
+updated: 2024-12-22T22:17:41.586Z
 tags:
   - win11
   - win10
@@ -46,25 +46,11 @@ thumbnail: https://thmb.techidaily.com/a5bbe71d28db5297dd251335f2aaa3c6aeec5c7c6
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your computer
 
  So this is the quick fix for you. Sometimes it’s just your device driver running into glitches that caused the pen to stop working. In this case, simply shut down your computer and then restart it. The next time you use your pen on a PC, it should work as normal.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Disable Sleep Mode
 
@@ -77,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/a5bbe71d28db5297dd251335f2aaa3c6aeec5c7c6
  1) On your keyboard, press the**Windows logo** **key** and**I** at the same time to invoke the**Settings** window. Then click**System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-634.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) On the**Power & sleep** tab, in the results pane, under**Related settings** , click**Additional power settings** .
 
@@ -108,10 +87,7 @@ thumbnail: https://thmb.techidaily.com/a5bbe71d28db5297dd251335f2aaa3c6aeec5c7c6
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Power-1200x761.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select**Never** from the drop-down for both**When plugged in, turn off my screen after** and**When plugged in, put my device to sleep after** .
@@ -122,46 +98,23 @@ thumbnail: https://thmb.techidaily.com/a5bbe71d28db5297dd251335f2aaa3c6aeec5c7c6
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Tick the “Support TabletPC” option
 
  As mentioned in the user manual of the Huion pen, you should check the**Support TabletPC** box to enable the pressure sensitivity function in a variety of drawing programs. Here’s how:
 
  1) Double-click the**driver tablet icon** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-27_18-52-38.jpg) on your system tray (an area on the right side of your Taskbar) to open the PenTablet control interface.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Check the**Support TabletPC** box, as shown below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-665.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now go on to check whether your pen works properly. If it doesn’t, please proceed to Fix 4.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your tablet driver
 
@@ -191,9 +144,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Huion tablet driver for now, simply click the **Update**  button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-650.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -211,6 +172,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-653-1024x311.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to download the user manual, select the icon next to**Instruction:** according to your operating system.
 
  3) After downloading the driver, open the folder in which the driver is downloaded. Usually, you’ll see a**compressed folder (with .zip extension)** there. Go on to**extract** the folder.
@@ -223,13 +188,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-660.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Follow the on-screen wizard to install the driver.
 
 6) When everything’s done, reboot your computer for the changes to take effect.
@@ -239,10 +197,7 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Uncheck “Enable Windows Ink”
@@ -258,10 +213,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-662.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then save the file as**PSUserConfig.txt** to the following location:
@@ -273,6 +225,10 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 **Note** that some of the functions in your drawing software may be unusable if you disable Windows Ink. In that situation, you’ll need to enable Windows Ink again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-666.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The screenshot above comes from the new version of the Huion tablet driver interface. If you’re using the older one, such as the version shown in**[Fix 3](#fix3)** , then you won’t see this**Enable Windows Ink** option.
 
@@ -297,5 +253,18 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-facebook-frenzy-top-downloader-tools-that-bring-videos-to-life-on-idevices/"><u>[New] Facebook Frenzy Top Downloader Tools that Bring Videos to Life on iDevices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-techniques-to-improve-video-visibility-on-youtube-platform/"><u>[New] In 2024, Techniques to Improve Video Visibility on YouTube Platform</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-art-of-float-engaging-with-netflixs-picture-in-picture/"><u>[Updated] The Art of Float Engaging with Netflix's Picture-in-Picture</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-aoc-screen-compatibility-issues-in-new-windows-11-environments/"><u>Effective Solutions for AOC Screen Compatibility Issues in New Windows 11 Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-unable-to-start-geforce-experience-error-successfully/"><u>How to Fix 'Unable to Start GeForce Experience' Error Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-quickly-resolve-slow-startup-problems-in-windows-7/"><u>How to Quickly Resolve Slow Startup Problems in Windows 7</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-how-to-add-and-change-thumbnails-of-twitter-videos/"><u>In 2024, How to Add and Change Thumbnails of Twitter Videos?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-common-oculus-hw-issues/"><u>Troubleshooting Guide: Resolving Common Oculus HW Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-hidden-bluetooth-option-on-pc/"><u>Troubleshooting Steps for Hidden Bluetooth Option on PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unraveling-technology-secrets-with-expertise-from-toms-hardware/"><u>Unraveling Technology Secrets with Expertise From Tom’s Hardware</u></a></li>
+</ul></div>
 

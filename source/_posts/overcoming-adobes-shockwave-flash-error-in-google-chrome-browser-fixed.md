@@ -1,7 +1,7 @@
 ---
 title: Overcoming Adobe's Shockwave Flash Error in Google Chrome Browser [FIXED]
-date: 2024-09-11T15:22:21.314Z
-updated: 2024-09-12T15:22:21.314Z
+date: 2024-12-16T17:22:06.426Z
+updated: 2024-12-22T21:36:37.556Z
 tags:
   - win11
   - win10
@@ -25,13 +25,6 @@ In fact, corrupted browsing data or files in your Chrome browser can cause vario
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5953117b1933e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **b)** Choose**the beginning of time**for the time period, tick**all** items, and then click on**Clear browsing data**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59531266ef7b7.png)
@@ -44,28 +37,12 @@ Some extensions or plugins can affect your browser and cause ERR\_CACHE\_MISS er
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595314ac68037.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **b)**A list of extensions will appear. You can identify the problematic extensions by disabling or enabling them one by one. It is suggested that you try disabling the**toolbars**and**ad blocking tools**that you use in that these extensions can usually bring about problems.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5953153dd28e4.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3) Reset your browser
@@ -74,36 +51,23 @@ It is possible that the error results from improper browser settings or configur
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5953191b68915.png)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **b)** Click on**Show advanced settings**at the bottom. Then scroll down and click on**Reset settings**.![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595319b975441.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_595319ded082c.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **c)** **Confirm**your action.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59531aa767f68.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **d)** Your browser settings is reset. Now check and see if this fixes the error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4) Upgrade your browser
 
@@ -116,16 +80,11 @@ If you come across ERR\_CACHE\_MISS error, you can use development tool to disab
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5953204cab895.png)
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6) Reset network settings
@@ -135,10 +94,7 @@ Sometimes faulty network settings can cause the error. You may need to open Comm
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5953219b07a39.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **b)** Type the following lines of command in Command Prompt. (Note that you should press**Enter**after typing each line and before going to the next line.)
@@ -165,5 +121,24 @@ After you finish, reboot your computer. Then you can open your browser and check
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-deciphering-the-power-of-apples-new-m1-laptops/"><u>[Updated] 2024 Approved Deciphering the Power of Apple’s New M1 Laptops</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-elite-steadicam-models-suitable-for-drones-in-cinema/"><u>[Updated] 2024 Approved Elite Steadicam Models Suitable for Drones in Cinema</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-essential-guide-for-prime-webcams-in-youtube-live-broadcasts/"><u>[Updated] 2024 Approved Essential Guide for Prime Webcams in YouTube Live Broadcasts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-prime-methods-to-adapt-track-paceplay-in-spotify-app-for-2024/"><u>[Updated] Prime Methods to Adapt Track Paceplay in Spotify App for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-screensnap-it-all-high-quality-netflix-on-mac-for-2024/"><u>[Updated] ScreenSnap It All High-Quality Netflix on Mac for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-craft-your-narrative-implementing-inshot-transitions-professionally/"><u>2024 Approved Craft Your Narrative Implementing Inshot Transitions Professionally</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-woes-master-fixing-paired-device-problems-in-windows-11-this-2024/"><u>Bluetooth Woes? Master Fixing Paired Device Problems in Windows 11 This 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-walkthrough-to-correct-windows-update-error-0x8024002e/"><u>Comprehensive Walkthrough to Correct Windows Update Error [0X8024002E]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-your-browsers-sudden-shift-to-a-black-screen/"><u>Easy Fixes for Your Browser's Sudden Shift to a Black Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211743520-ensuring-smooth-gaming-experience-for-minecraft-on-windows-by-addressing-troublesome-video-card-drivers-solved/"><u>Ensuring Smooth Gaming Experience for Minecraft on Windows by Addressing Troublesome Video Card Drivers - Solved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-clearing-windows-10-update-blockages-and-enhancing-system-performance/"><u>Guide: Clearing Windows 10 Update Blockages and Enhancing System Performance</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a38-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A38 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-unleash-your-creativity-video-editing-on-mac-os-x-yosemite-for-beginners/"><u>In 2024, Unleash Your Creativity Video Editing on Mac OS X Yosemite for Beginners</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722731041992-innovative-and-invisible-safety-with-the-rexing-v1-an-in-depth-review-of-a-steal-deal/"><u>Innovative and Invisible Safety with the Rexing V1: An In-Depth Review of a Steal Deal!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-issues-with-hps-built-in-gyroscope-sensor/"><u>Resolving Windows Issues with HP's Built-In Gyroscope Sensor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcoming-minecrafts-error-code-5-challenge/"><u>Troubleshooting Guide: Overcoming Minecraft's Error Code 5 Challenge</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-the-scrolling-secret-in-win-1011/"><u>Unlocking the Scrolling Secret in Win 10/11</u></a></li>
+</ul></div>
 

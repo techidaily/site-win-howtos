@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting a Non-Charging PS4 Controller: Quick Fixes & Tips"
-date: 2024-12-09T16:53:46.880Z
-updated: 2024-12-13T21:52:56.609Z
+date: 2024-12-17T00:35:19.967Z
+updated: 2024-12-22T20:02:01.612Z
 tags:
   - win11
   - win10
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
  4) If possible,**use your current AC adapter to charge a new battery** . If the battery is charging, it indicates your battery is bad. If the new battery is not charging, perhaps it is the AC adapter that triggers this issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Turn off the battery charge threshold
 
  Some laptops have**the battery charge threshold feature** . This feature allows laptop users to customize the battery charge threshold so that when the battery reaches that threshold, the battery won’t charge.
@@ -65,17 +69,9 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2)**Turn off** the toggle under **Battery Charge Threshold** if it is turned on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you turn off the battery charge threshold feature, your battery should be charging.
 
@@ -90,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
  See if the battery is charging. If so, you’ve fixed this issue. If the issue reappears, don’t worry. Try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Reinstall Microsoft ACPI-Compliant Control Method Battery
 
  You can try reinstalling **Microsoft ACPI-Compliant Control Method Battery**  to see if this annoying issue persists. Here is how to do it:
@@ -101,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
  2) Double-click**Batteries** . Right-click **Microsoft ACPI-Compliant Control Method Battery**  and select **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Uninstall** to uninstall it.
 
@@ -123,14 +127,10 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Update the driver for your battery management device
 
@@ -153,12 +153,16 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap437.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update** next to your battery management device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -169,10 +173,6 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 Your battery should then be charging.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Hopefully one of the fixes above resolved the laptop battery not charging issue for you. Please leave your comment below if you have any questions.
 
@@ -194,22 +194,19 @@ Your battery should then be charging.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/bloodhunt-pc-woes-comprehensive-guide-to-fix-glitchy-execution/"><u>'Bloodhunt' PC Woes: Comprehensive Guide to Fix Glitchy Execution</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-downloading-pinterest-videos-made-easy-top-5-free-options/"><u>[New] 2024 Approved Downloading Pinterest Videos Made Easy Top 5 FREE Options</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-download-harmony-free-music-from-fb/"><u>[New] In 2024, Download Harmony Free Music From FB</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pinnacle-srt-upgrades-elevating-your-tech-game/"><u>[Updated] Pinnacle SRT Upgrades Elevating Your Tech Game</u></a></li>
-<li><a href="https://video-capture.techidaily.com/10-easy-strategies-for-capturing-youtube-content-for-2024/"><u>10 Easy Strategies for Capturing YouTube Content for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fading-vision-visual-void/"><u>Fading Vision: Visual Void</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guia-paso-a-paso-rescatando-datos-borrados-en-windows-server-2012-r2/"><u>Guía Paso a Paso: Rescatando Datos Borrados en Windows Server 2012 R2</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-easily-fix-the-troublesome-update-issue-windows-10s-0xc1900208-error-code-decoded/"><u>How to Easily Fix the Troublesome Update Issue - Windows 10'S 0Xc1900208 Error Code Decoded</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-your-steelseries-arctis-9s-mic-working-again-proven-fixes/"><u>How to Get Your SteelSeries Arctis 9'S Mic Working Again - Proven Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-solve-a-laptops-white-screen-dilemma-for-smooth-operations/"><u>How to Solve a Laptop's White Screen Dilemma for Smooth Operations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-navigation-downfall-restore-function-to-up-down-left-and-right-arrows-now/"><u>Keyboard Navigation Downfall: Restore Function to Up, Down, Left & Right Arrows Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-efficiency-the-reason-behind-resting-your-palm-on-the-center-cursor-area/"><u>Mastering Efficiency: The Reason Behind Resting Your Palm on the Center Cursor Area</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-changed-monitor-display-size-a-troubleshooting-guide/"><u>Successfully Changed Monitor Display Size - A Troubleshooting Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-8-proven-video-growth-enhancers-for-2024/"><u>Top 8 Proven Video Growth Enhancers for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trouble-with-your-game-heres-how-to-fix-setup-problems-on-origin/"><u>Trouble With Your Game? Here's How to Fix Setup Problems on Origin</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-unwanted-windows-10-file-explorers-scroll-jumping-behavior/"><u>Troubleshooting Guide for Unwanted Windows 10 File Explorer's Scroll Jumping Behavior</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-issues-with-applying-windows-11-update-version-1607/"><u>Understanding Issues with Applying Windows 11 Update Version 1607</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-screens-to-spreads-the-dos-and-donts-of-live-blogging-for-2024/"><u>[New] From Screens to Spreads The Do's and Don'ts of Live Blogging for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-essential-tips-for-kinemasters-chroma-keying/"><u>[Updated] 2024 Approved Essential Tips for KineMaster's Chroma Keying</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-maximize-your-reach-snapchat-advertising-101/"><u>2024 Approved Maximize Your Reach Snapchat Advertising 101</u></a></li>
+<li><a href="https://media-tips.techidaily.com/convert-mkv-files-instantly-and-flawlessly-to-wmv-format-at-no-cost/"><u>Convert MKV Files Instantly & Flawlessly to WMV Format at No Cost</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tips-and-tricks-for-captioning-instagram-stories-effectively/"><u>Easy Tips and Tricks for Captioning Instagram Stories Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-nonfunctional-lenovo-mousepads-on-windows-operating-systems/"><u>Effective Fixes for Nonfunctional Lenovo Mousepads on Windows Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminate-sluggish-typing-experience-fix-keyboard-latency-in-windows-10/"><u>Eliminate Sluggish Typing Experience: Fix Keyboard Latency in Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-deactivating-auditory-effects-on-windows-11-systems/"><u>Guide: Deactivating Auditory Effects on Windows 11 Systems</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-build-a-memorable-facebook-timeline/"><u>How to Build a Memorable Facebook Timeline</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-note-13-pro-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi Note 13 Pro 5G Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-lowering-dwms-impact-on-gpu-in-windows-11-through-five-key-tips/"><u>Mastering the Art of Lowering DWM's Impact on GPU in Windows 11 Through Five Key Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/nikon-d-500-4k-dslr-camera-review-for-2024/"><u>Nikon D 500 4K DSLR Camera Review for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-windows-host-rundll32-stopped-functioning-errors-in-windows-os/"><u>Understanding and Fixing 'Windows Host (Rundll32) Stopped Functioning' Errors in Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-windows-update-error-0x80240017-a-comprehensive-fix/"><u>Winning the Battle Against Windows Update Error 0X80240017: A Comprehensive Fix</u></a></li>
 </ul></div>
 

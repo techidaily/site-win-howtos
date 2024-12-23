@@ -1,7 +1,7 @@
 ---
 title: Fix Your Screen Mirroring Problems When Miracast Is Unavailable via Graphics Card
-date: 2024-12-09T20:23:59.427Z
-updated: 2024-12-13T16:29:07.036Z
+date: 2024-12-18T20:40:55.993Z
+updated: 2024-12-22T16:40:36.206Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/51471ca8a7054ce3eae075b674d92ea208c650984
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -48,7 +52,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -70,6 +74,10 @@ Here’s how to reinstall the keyboard driver:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
@@ -99,15 +107,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -119,16 +127,12 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -137,10 +141,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -184,22 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/1723209908371-resolution-tackle-the-stealthy-culprit-of-elevated-system-load-the-invisible-impacts-of-shell-infra-on-your-windows/"><u>(Resolution) Tackle the Stealthy Culprit of Elevated System Load: The Invisible Impacts Of Shell Infra on Your Windows</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-novices-companion-to-av1-technology/"><u>[Updated] In 2024, Novice’s Companion to AV1 Technology</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209873704-9781945026553-bring-him-home/"><u>Bring Him Home | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnose-and-repair-igfxem-problems-for-improved-system-performance/"><u>Diagnose & Repair igfxEM Problems for Improved System Performance</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-steps-for-obtaining-the-latest-drivers-of-canoscan-lide-220-scanner/"><u>Easy Steps for Obtaining the Latest Drivers of CanoScan LiDE 220 Scanner</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exploring-high-res-videography-with-nikon-j5/"><u>Exploring High-Res Videography with Nikon J5</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-cant-open-geforce-experience-a-comprehensive-solution/"><u>Fixing 'Can't Open GeForce Experience': A Comprehensive Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-library-loading-failures-dealing-with-error-87-incorrect-parameter-issue/"><u>Fixing Library Loading Failures: Dealing with Error 87 - Incorrect Parameter Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-address-and-solve-dhcp-server-offline-connectivity-problems/"><u>How to Address and Solve 'DHCP Server Offline' Connectivity Problems</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/illuminating-iphones-nighttime-photo-secrets-revealed/"><u>Illuminating iPhones Nighttime Photo Secrets Revealed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-avoid-and-eliminate-fog-on-gopro-lenshousing/"><u>In 2024, How to Avoid and Eliminate Fog on GoPro Lens/Housing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/keeping-friends-close-and-strangers-outdoorsy/"><u>Keeping Friends Close and Strangers Outdoorsy</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimizing-windows-11-reducing-disk-impact-of-compatibility-telemetry-services/"><u>Optimizing Windows 11: Reducing Disk Impact of Compatibility Telemetry Services</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/professionals-picks-the-top-5-drones-to-invest-in/"><u>Professional's Picks The Top 5 Drones to Invest In</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restore-key-illumination-step-by-step-solutions-for-malfunctioning-backlit-keys-on-macos-and-windows/"><u>Restore Key Illumination: Step-by-Step Solutions For Malfunctioning Backlit Keys on macOS and Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-icon-troubleshooting-solutions-for-missing-desktop-icons/"><u>Windows 10 Icon Troubleshooting: Solutions for Missing Desktop Icons</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-expert-strategies-for-managing-facebook-lives-in-two-screens-for-2024/"><u>[New] Expert Strategies for Managing Facebook Lives in Two Screens for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-screensphere-comprehensively-global-plus-locally-connected/"><u>[New] In 2024, ScreenSphere Comprehensively Global + Locally Connected</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-eye-catching-graphic-principles-for-podcast-titles/"><u>[Updated] 2024 Approved Eye-Catching Graphic Principles for Podcast Titles</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-elevating-video-branding-the-art-and-science-of-youtube-image-designs/"><u>[Updated] Elevating Video Branding The Art and Science of Youtube Image Designs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-10-digital-landscape-replacers-for-videos/"><u>2024 Approved Best 10 Digital Landscape Replacers for Videos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/direct-access-to-streams-how-to-download-youtube-videos-to-your-ios-device/"><u>Direct Access to Streams How to Download YouTube Videos to Your iOS Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-a-dead-stuck-windows-pc-resurrecting-your-bluetooth-mouse-connection/"><u>Fix a Dead-Stuck Windows PC: Resurrecting Your Bluetooth Mouse Connection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reactivate-a-stalled-diagnostic-policies-running-functionality-guide/"><u>How to Reactivate a Stalled Diagnostic Policies Running Functionality [Guide]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-tearing-a-comprehensive-guide-to-resolve-display-issues-on-valorant/"><u>No More Tearing: A Comprehensive Guide to Resolve Display Issues on VALORANT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-world-of-warcraft-slowness-expert-advice-on-lag-fixes/"><u>Overcome World of Warcraft Slowness: Expert Advice on Lag Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-errors-in-smartaudio-initialization-step-by-step-solutions/"><u>Resolving Errors in SmartAudio Initialization – Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-update-woes-heres-how-you-can-ensure-successful-downloads/"><u>Steam Update Woes? Here's How You Can Ensure Successful Downloads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transcodificar-archivos-mpeg-a-formato-vob-gratis-con-conversor-online-de-movavi/"><u>Transcodificar Archivos MPEG a Formato VOB Gratis Con Conversor Online De Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-windows-update-services-that-wont-start/"><u>Troubleshooting Guide: Fixing Windows Update Services That Won't Start</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-cursor-issues-on-microsofts-latest-os-windows-11/"><u>Troubleshooting Missing Cursor Issues on Microsoft's Latest OS, Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-your-phones-potential-activating-ultra-wideband-tech-on-android-devices-and-the-surprising-benefits-for-your-driving-experience-techsavvy-times/"><u>Unlocking Your Phone's Potential: Activating Ultra-Wideband Tech on Android Devices & The Surprising Benefits for Your Driving Experience | TechSavvy Times</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-samsung-galaxy-s21-fe-5g-2023-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Samsung Galaxy S21 FE 5G (2023)?</u></a></li>
 </ul></div>
 

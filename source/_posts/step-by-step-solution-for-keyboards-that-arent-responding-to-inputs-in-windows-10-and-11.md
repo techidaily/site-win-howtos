@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Keyboards That Aren't Responding to Inputs in Windows 10 and 11
-date: 2024-12-08T17:17:50.497Z
-updated: 2024-12-13T20:47:37.404Z
+date: 2024-12-18T21:45:02.282Z
+updated: 2024-12-22T22:47:19.670Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/6be5b234be2302864f9331a3a3d7aaacb0018bce1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -78,6 +78,10 @@ If you’re a laptop user, you could follow these steps:
  If your keys work fine in the BIOS, it means it’s a software issue. You should move to[Fix 3](#f3) .  
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your keyboard driver
 
  Your letter keys may not be working properly because you’re using the wrong keyboard driver or it’s out of date. You should update your keyboard driver to see if this fixes your keyboard.
@@ -108,24 +112,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -142,10 +138,14 @@ OR
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -177,24 +177,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-unveiling-the-secrets-to-producing-popular-youtube-shorts/"><u>[New] In 2024, Unveiling the Secrets to Producing Popular YouTube Shorts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-amplify-views-effortlessly-discovering-the-best-20-youtube-techniques/"><u>[Updated] In 2024, Amplify Views Effortlessly Discovering the Best 20 YouTube Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-zoomed-into-the-core-of-action-films/"><u>[Updated] Zoomed Into the Core of Action Films</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/an-honest-appraisal-of-the-bdr-xd05b-blu-ray-burner-by-pioneer-noticing-design-challenges/"><u>An Honest Appraisal of the BDR-XD05B Blu-Ray Burner by Pioneer: Noticing Design Challenges</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-when-your-media-device-wont-connect-to-windows-system/"><u>Easy Fixes When Your Media Device Won’t Connect to Windows System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/five-effective-methods-to-optimize-dwms-gpu-use-on-windows-11-and-10-systems/"><u>Five Effective Methods to Optimize DWM's GPU Use on Windows 11 and 10 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-error-1067-the-process-terminated-unexpectedly-in-windows-systems/"><u>How to Fix 'Error 1067: The Process Terminated Unexpectedly' In Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-semaphore-timeout-expiration-issue-error-0x80070079/"><u>How to Fix Semaphore Timeout Expiration Issue (Error 0X80#070079)</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-football-inscriptions-premier-fifa-youtube-insights/"><u>In 2024, Football Inscriptions Premier FIFA YouTube Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-beyond-chatgpts-boundaries-tips-for-surpassing-the-token-capacity-limit/"><u>Navigating Beyond ChatGPT's Boundaries: Tips for Surpassing the Token Capacity Limit</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/netflix-black-screen-issue-resolved-a-step-by-step-guide-for-uninterrupted-viewing/"><u>Netflix Black Screen Issue Resolved: A Step-by-Step Guide for Uninterrupted Viewing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-complete-blackout-at-boot-sequence-for-monster-hunter-world-gamers/"><u>Resolving Complete Blackout at Boot Sequence for Monster Hunter World Gamers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/samsung-galaxy-ring-2021-review-find-out-the-price-tag-release-forecast-and-in-depth-specifications/"><u>Samsung Galaxy Ring 2021 Review – Find Out the Price Tag, Release Forecast & In-Depth Specifications</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-resolve-user-profile-service-couldnt-log-in/"><u>Troubleshooting Guide: How to Resolve 'User Profile Service Couldn't Log In.'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-unfreezing-a-stuck-computer-mouse-button/"><u>Troubleshooting Tips: Unfreezing a Stuck Computer Mouse Button</u></a></li>
-<li><a href="https://fox-http.techidaily.com/understanding-transient-suppression-via-audacity-for-2024/"><u>Understanding Transient Suppression via Audacity for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-the-ultimate-guide-to-learning-all-the-details-about-voice-cloning-for-2024/"><u>Updated The Ultimate Guide to Learning All the Details About Voice Cloning for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/upgrade-your-windows-experience-with-officially-installed-sony-vaio-drivers-heres-how/"><u>Upgrade Your Windows Experience with Officially Installed Sony VAIO Drivers - Here's How!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-replicating-text-fails/"><u>Windows 11: Replicating Text Fails</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ice-cream-capture-technology-reviewed-deeply/"><u>[New] 2024 Approved Ice Cream Capture Technology Reviewed Deeply</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-transform-your-music-library-best-free-software-choices-for-youtube-to-mp3/"><u>[New] In 2024, Transform Your Music Library Best Free Software Choices for YouTube-to-MP3</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-top-5-game-ready-keyboards-under-100-a-comparison/"><u>[Updated] 2024 Approved Top 5 Game-Ready Keyboards Under $100 – A Comparison</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/apem4a-movavi/"><u>「無料でオンラインAPEからM4Aへの効率的変換: Movaviソリューション」</u></a></li>
+<li><a href="https://fox-http.techidaily.com/best-cloud-storage-apps-for-android-2024-rankings/"><u>Best-Cloud-Storage-Apps-for-Android-2024-Rankings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-missing-opencl-dll-files/"><u>Dealing with Missing OpenCL DLL Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/engage-in-privacy-focused-conversations-with-duckduckgos-ai-chat-featuring-chatgpt-and-beyond/"><u>Engage in Privacy-Focused Conversations with DuckDuckGo's AI Chat Featuring ChatGPT and Beyond</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-windows-11-touch-display-issues-with-these-5-proven-strategies/"><u>Fix Your Windows 11 Touch Display Issues with These 5 Proven Strategies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-selection-best-idevice-custom-alerts/"><u>In 2024, Ultimate Selection Best iDevice Custom Alerts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-huggingchat-the-best-open-source-option-to-challenge-chatgpts-dominance/"><u>Mastering HuggingChat - The Best Open Source Option To Challenge ChatGPT's Dominance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211255697-revive-your-silent-companion-the-touchpad/"><u>Revive Your Silent Companion - The Touchpad!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-d3derrnotavailable-error/"><u>Ultimate Guide: Resolving 'D3DERR_NOTAVAILABLE' Error</u></a></li>
 </ul></div>
 

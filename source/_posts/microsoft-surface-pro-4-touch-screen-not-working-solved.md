@@ -1,7 +1,7 @@
 ---
 title: Microsoft Surface Pro 4 Touch Screen Not Working [Solved]
-date: 2024-09-05T10:10:30.685Z
-updated: 2024-09-06T10:10:30.685Z
+date: 2024-12-15T18:24:01.104Z
+updated: 2024-12-23T00:32:23.138Z
 tags:
   - win11
   - win10
@@ -33,17 +33,9 @@ thumbnail: https://thmb.techidaily.com/26d450fdec75a3cb5316781ad73e34df68fc7b736
 ---
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot hardware issues
 
  Before we make any changes, we might have to troubleshoot hardware issues. To do so:
@@ -55,12 +47,6 @@ thumbnail: https://thmb.techidaily.com/26d450fdec75a3cb5316781ad73e34df68fc7b736
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on A40 won’t work simply because the volume is mute or set too low.
@@ -71,11 +57,9 @@ To make sure the volume is audible:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
 
@@ -90,34 +74,30 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -137,12 +117,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Once you’ve updated the driver for your Astro A40 headset,**restart** your computer and check if the**Astro A40 mic not working** problem has been resolved.
@@ -166,8 +140,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +147,23 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-seamless-transition-into-the-world-of-zoom-meetings-for-your-android-device/"><u>[New] 2024 Approved Seamless Transition Into the World of Zoom Meetings for Your Android Device</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-strategic-screen-customization-timely-adjustments-in-teams-for-2024/"><u>[New] Strategic Screen Customization Timely Adjustments in Teams for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-analyzing-screen-capture-tech-for-professionals/"><u>2024 Approved Analyzing Screen Capture Tech for Professionals</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comment-pouvez-vous-visionner-un-fichier-mp4-sur-les-systemes-dexploitation-windows-10-8-et-7/"><u>Comment Pouvez-Vous Visionner Un Fichier MP4 Sur Les Systèmes D'Exploitation Windows 10, 8 Et 7 ?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-your-broken-pcdevice-a-step-by-nstep-repair-guide/"><u>Easy Fixes for Your Broken PC/Device: A Step-by-nStep Repair Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-the-not-supported-error-in-miracast-with-a-simple-graphics-driver-update/"><u>Fix the Not Supported Error in Miracast with a Simple Graphics Driver Update</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-banish-coffee-stains-free-iphone-app-to-remove-red-eyes/"><u>In 2024, Banish Coffee Stains Free iPhone App to Remove Red Eyes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-textual-amplification-for-igtv-broadcasts/"><u>In 2024, Textual Amplification for IGTV Broadcasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-minecraft-expert-tips-for-resolving-local-network-glitches/"><u>Mastering Minecraft: Expert Tips for Resolving Local Network Glitches</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixing-the-entry-point-not-found-error-in-fortnite/"><u>Resolved: Fixing the 'Entry Point Not Found' Error in Fortnite</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/s-top-free-mpeg-video-editors-for-splitting-and-trimming/"><u>S Top Free MPEG Video Editors for Splitting and Trimming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-overcoming-code-24-issue-in-windows-operating-systems/"><u>Solutions for Overcoming Code 24 Issue in Windows Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-windows-update-and-installation-issues-error-code-0x80070643/"><u>Troubleshooting Guide: Resolving Windows Update and Installation Issues (Error Code 0X80070643)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-wi-fi-has-been-turned-off-error-solutions-proven-effective/"><u>Troubleshooting the 'Wi-Fi Has Been Turned Off' Error: Solutions Proven Effective</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstuck-windows-11-audio-troubles-a-step-by-step-guide-to-restoring-volume-control/"><u>Unstuck Windows 11 Audio Troubles: A Step-by-Step Guide to Restoring Volume Control</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Poco M6 Pro 4G | Dr.fone</u></a></li>
+</ul></div>
 

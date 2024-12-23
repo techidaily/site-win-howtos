@@ -1,7 +1,7 @@
 ---
 title: "Solution Steps: How to Stop Windows From Continuously Restarting"
-date: 2024-12-08T16:36:50.612Z
-updated: 2024-12-13T17:50:21.279Z
+date: 2024-12-19T16:34:51.510Z
+updated: 2024-12-22T21:56:37.195Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. **[Turn off fast startup](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -69,21 +73,17 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
@@ -97,15 +97,11 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Restart** .
@@ -116,6 +112,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -125,7 +125,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
@@ -154,24 +154,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-exclusive-insight-into-mematics-app-features/"><u>[New] Exclusive Insight Into Mematic's App Features</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-simplified-guide-to-iphone-screen-adjustment/"><u>[New] Simplified Guide to iPhone Screen Adjustment</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-importance-of-accurate-slug-line-writing-in-screenplays-for-2024/"><u>[Updated] The Importance of Accurate Slug Line Writing in Screenplays for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-elite-arena-showdown-best-of-the-royales/"><u>2024 Approved Elite Arena Showdown Best of the Royales</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/assessing-chatgpts-safety-measures-and-risks/"><u>Assessing ChatGPT’s Safety Measures and Risks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-to-stop-frequent-usb-dropout-problems/"><u>Easy Fixes to Stop Frequent USB Dropout Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-when-your-windows-update-gets-jammed-at-zero-percentage/"><u>Effective Fixes for When Your Windows Update Gets Jammed at Zero Percentage</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exciting-internet-adventures-best-free-games-for-youngsters/"><u>Exciting Internet Adventures: Best Free Games for Youngsters</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-to-get-your-frozen-trackpad-or-external-mouse-working-again-on-your-laptop/"><u>Expert Tips to Get Your Frozen Trackpad or External Mouse Working Again on Your Laptop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixed-troubleshooting-the-silent-streets-forza-horizon-4-audio-fixes/"><u>Fixed: Troubleshooting the Silent Streets - Forza Horizon 4 Audio Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-responsive-keyboard-on-your-dell-laptop/"><u>How to Fix a Non-Responsive Keyboard on Your Dell Laptop</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-15-plus-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 15 Plus GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-error-program-was-not-loaded-into-memory-properly-error-code-0xc000007b/"><u>How to Fix the Error: Program Was Not Loaded Into Memory Properly ([Error Code 0xC000007B])</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Oppo Reno 9A? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-error-0x8024401c-expert-fixes-for-windows-1011-updates-gone-wrong/"><u>Overcoming Error 0X8024401C: Expert Fixes for Windows 10/11 Updates Gone Wrong</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/quick-and-simple-ppm-to-tiff-file-transformation-for-free-using-movavis-online-tool/"><u>Quick & Simple PPM to TIFF File Transformation for Free Using Movavi's Online Tool</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-excessive-disk-space-consumption-by-microsoft-compatibility-telemetry-in-windows-10/"><u>Resolving Excessive Disk Space Consumption by Microsoft Compatibility Telemetry in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-hdcp-ready-monitor-connection-errors/"><u>Troubleshooting Non-HDCP Ready Monitor Connection Errors</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-ion-air-pro-3-camera-analysis-gearing-up-for-great-shots/"><u>[New] 2024 Approved ION Air Pro 3 Camera Analysis - Gearing Up for Great Shots</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-starting-from-scratch-on-youtube-channel-creation-and-monetization-basics/"><u>[New] 2024 Approved Starting From Scratch on Youtube Channel Creation and Monetization Basics</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-creating-dynamic-time-lapse-with-your-gopro-hero-series/"><u>[Updated] 2024 Approved Creating Dynamic Time-Lapse with Your GoPro Hero Series</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-full-screen-mastery-achieved-in-obs/"><u>[Updated] In 2024, Full Screen Mastery Achieved in Obs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-practices-for-handling-system-level-resource-contention-issues/"><u>Best Practices for Handling System-Level Resource Contention Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/breaking-down-nvidia-installation-blockers/"><u>Breaking Down NVIDIA Installation Blockers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehending-artificial-intelligence-and-its-associated-dangers/"><u>Comprehending Artificial Intelligence and Its Associated Dangers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-repair-resolving-issues-with-internet-explorer-malfunctions/"><u>DIY Repair: Resolving Issues with Internet Explorer Malfunctions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/dji-phantom-3-standard-vs-advanced-vs-professional-vs-4k-for-2024/"><u>DJI Phantom 3 Standard Vs Advanced Vs Professional Vs 4K for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/effettuare-il-tuo-stesso-convertitore-da-dvd-a-mp4-con-movavi-video-converter/"><u>Effettuare Il Tuo Stesso Convertitore Da DVD a MP4 Con Movavi Video Converter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-prevent-your-pc-from-going-off-mid-game-tips-for-windows-users/"><u>How to Prevent Your PC From Going Off Mid-Game: Tips for Windows Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-c33-2023-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme C33 2023 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-8-sites-to-download-free-green-screen-backgrounds-and-footage/"><u>In 2024, 8 Sites to Download Free Green Screen Backgrounds and Footage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-solution-for-overcoming-fatal-errors-in-software-installs-error-1603-included/"><u>Master Solution for Overcoming Fatal Errors in Software Installs, Error 1603 Included</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-oculus-hardware-maintenance-avoid-and-fix-the-top-errors-of-2024/"><u>Mastering Oculus Hardware Maintenance: Avoid and Fix the Top Errors of 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-update-failed-with-error-0x80240017-expert-strategies-revealed/"><u>Overcoming 'Windows Update Failed with Error 0X80240017': Expert Strategies Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-the-stuck-startup-a-users-manual-for-windows-preparing-glitches-on-computers/"><u>Resolve the Stuck Startup: A User's Manual for Windows Preparing Glitches on Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-a-broken-start-menu-on-windows-11-step-by-step-tips-and-tricks/"><u>Reviving a Broken Start Menu on Windows 11 - Step-by-Step Tips & Tricks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/enefits-of-tubebuddy-manage-your-youtube-channel-more-easily-for-2024/"><u>The Benefits of TubeBuddy | Manage Your YouTube Channel More Easily for 2024</u></a></li>
 </ul></div>
 

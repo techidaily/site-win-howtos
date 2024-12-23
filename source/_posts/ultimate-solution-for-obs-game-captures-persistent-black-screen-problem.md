@@ -1,7 +1,7 @@
 ---
 title: Ultimate Solution for OBS Game Capture's Persistent Black Screen Problem
-date: 2024-12-08T17:39:57.984Z
-updated: 2024-12-13T22:01:53.968Z
+date: 2024-12-16T19:15:12.411Z
+updated: 2024-12-23T00:28:15.822Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Fix DCOM(**Distributed Component Object Model)** errors
@@ -58,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -73,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -100,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -113,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -121,15 +121,15 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ``
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
@@ -154,10 +154,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
  2) Click **System** .
@@ -165,6 +161,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -175,6 +175,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -193,10 +197,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -225,20 +225,19 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-metaverse-laughter-creating-your-own-funny-online-jokes/"><u>[New] Exploring Metaverse Laughter Creating Your Own Funny Online Jokes</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-scripters-toolbox/"><u>2024 Approved Scripter's Toolbox</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ning-with-dirt-incorporating-natural-elements-into-urban-areas/"><u>Designing with Dirt Incorporating Natural Elements Into Urban Areas</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202077745-dragon-ball-fighterz-successfully-overcoming-network-setup-errors/"><u>Dragon Ball FighterZ - Successfully Overcoming Network Setup Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-bad-image-issues-in-windows-11-and-10/"><u>Fixing 'Bad Image' Issues in Windows 11 and 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pubg-buildings-not-loading-fixed/"><u>PUBG Buildings Not Loading [FIXED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-access-issues-for-the-primary-partition-on-windows-11-computers/"><u>Resolving Access Issues for the Primary Partition on Windows 11 Computers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/shadow-flight-new-camera-frontier-for-2024/"><u>Shadow Flight New Camera Frontier for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-htc-u23-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock HTC U23 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-windows-10-mouse-malfunctions-restoring-right-click-capabilities/"><u>Solving Windows 10 Mouse Malfunctions: Restoring Right-Click Capabilities</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-enabling-bluetooth-connectivity-in-windows-11-and-windows-10/"><u>Step-by-Step Guide: Enabling Bluetooth Connectivity in Windows 11 and Windows 10</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/superior-style-for-text-mobility/"><u>Superior Style for Text Mobility</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-oppo-find-x6-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Oppo Find X6 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/top-10-animated-text-makers-you-need-to-try-this-year-for-2024/"><u>Top 10 Animated Text Makers You Need to Try This Year for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/update-error-unsuccessful-upgrade-to-windows-10-version-1607/"><u>Update Error: Unsuccessful Upgrade to Windows 10 (Version 1607)</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-overcome-error-1067-the-program-stopped-abruptly-in-windows-os/"><u>Comprehensive Guide to Overcome Error 1067: The Program Stopped Abruptly in Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-unsupported-operating-system-alerts-setup-continuity-tips/"><u>Dealing with 'Unsupported Operating System' Alerts - Setup Continuity Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-windows-system-driver-power-malfunctions/"><u>Diagnosing & Solving Windows System Driver Power Malfunctions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-tecno-pop-7-pro-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Tecno Pop 7 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-1110-bad-image-display-problems-effectively/"><u>How to Resolve Windows 11/10 Bad Image Display Problems Effectively</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-iphone-11-pro-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On iPhone 11 Pro - 4 Easy Ways</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-ranking-the-top-value-video-resources-online/"><u>In 2024, Ranking the Top Value Video Resources Online</u></a></li>
+<li><a href="https://network-issues.techidaily.com/lenovo-tap-failure-now-fully-operational/"><u>Lenovo Tap Failure, Now Fully Operational</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-adobe-premiere-tutorial-importing-and-exporting-videos-like-a-pro-for-2024/"><u>New Adobe Premiere Tutorial Importing and Exporting Videos Like a Pro for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-dells-non-responsive-fn-keys-with-easy-fixes/"><u>Solve Your Dell's Non-Responsive FN Keys with Easy Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/techniques-for-restoring-functionality-in-malfunctioning-function-fn-keys/"><u>Techniques for Restoring Functionality in Malfunctioning Function (Fn) Keys</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbelievable-price-cuts-during-hp-cyber-week-save-up-to-71-on-computers-and-monitors-s-inside-look/"><u>Unbelievable Price Cuts During HP Cyber Week: Save Up to 71% on Computers & Monitors 'S Inside Look</u></a></li>
 </ul></div>
 

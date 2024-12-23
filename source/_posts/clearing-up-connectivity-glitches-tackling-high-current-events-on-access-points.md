@@ -1,7 +1,7 @@
 ---
 title: "Clearing Up Connectivity Glitches: Tackling High Current Events on Access Points"
-date: 2024-09-05T10:11:26.176Z
-updated: 2024-09-06T10:11:26.176Z
+date: 2024-12-16T00:55:54.007Z
+updated: 2024-12-22T16:01:32.050Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Clearing Up Connectivity Glitches: Tackling Hig
 thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca322a8100dfaafbd0ac4bcb97.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Guide on Correcting the LiveKernelEvent 144 Glitch Quickly
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-18.png)
@@ -47,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Update graphics card driver
 
  The LiveKernelEvent 144 error is, in many cases, related to a faulty or missing graphics card driver. So making sure that you have the latest and the correct graphics card driver installed is one of the first things you should do.
@@ -56,38 +54,18 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 4. Repeat the same to remove the driver for your other display card if you have one.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Then update your graphics card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Update your graphics driver manually
 
  If you’re a tech-savvy gamer, you can spend some time updating your GPU driver manually.
@@ -100,18 +78,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -122,19 +88,12 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note** : You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -144,11 +103,9 @@ To do so, first visit the website of your GPU manufacturer:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Check USB peripherals
 
  If the LiveKernelEvent 144 error is seen with a blue screen of death error, then it should relate to your USB devices. To see if this is your case, you can do the following:
@@ -157,6 +114,10 @@ To do so, first visit the website of your GPU manufacturer:
 2. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 3. On the menu bar, select**View** , then **Show hidden devices.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-13.png)
 4. Double-click the expand the category**Universal Serial Bus controllers** . There should be some grey-out devices there.  
@@ -186,11 +147,9 @@ To do so, first visit the website of your GPU manufacturer:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Update your computer BIOS and system firmware
 
  Please note that wrongly updating BIOS could cause server computer problems, even brick the computer in some extreme cases. So please do not attempt the BIOS update if you’re not confident in doing it.
@@ -201,6 +160,10 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Repair damaged system files
 
 **Corrupted or damaged system files** could also relate to problems like LiveKernelEvent with code 144 error. By repairing the core Windows system files, it may resolve conflicts, missing DLL issues, registry errors, and other problems that contribute to the instability of your computer performance. Tools like **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  can automate the repair process by scanning system files and replacing corrupted ones.
@@ -209,20 +172,8 @@ To do so, first visit the website of your GPU manufacturer:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  (Tips: Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) ! )
@@ -230,6 +181,10 @@ To do so, first visit the website of your GPU manufacturer:
  Then see if the LiveKernelEvent 144 error happens again. If so, please move further.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Consider a system reinstall
 
@@ -261,8 +216,6 @@ Then see if the LiveKernelEvent 144 error is still seen.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -270,4 +223,22 @@ Then see if the LiveKernelEvent 144 error is still seen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-hot-hands-on-10-must-have-vr-peripherals/"><u>[New] Hot Hands-On 10 Must-Have VR Peripherals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-reducing-noise-amplitude-gently-using-lumafusion/"><u>[New] Reducing Noise Amplitude Gently Using Lumafusion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-woes-be-gone-expert-tips-for-seamless-connectivity-on-your-windows-10-system/"><u>Bluetooth Woes Be Gone! Expert Tips for Seamless Connectivity on Your Windows 10 System</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-driven-personalization-for-tailored-online-interactions-and-improved-engagement/"><u>Cookiebot-Driven Personalization for Tailored Online Interactions and Improved Engagement</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-personalized-keyboard-triggers-for-w11/"><u>Crafting Personalized Keyboard Triggers for W11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/crucial-factors-to-review-prior-to-acquiring-new-stereo-speakers-a-comprehensive-guide/"><u>Crucial Factors To Review Prior to Acquiring New Stereo Speakers - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hidden-windows-11-techniques-for-effortless-import-tasks-for-2024/"><u>Hidden Windows 11 Techniques for Effortless Import Tasks for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-microsoft-wireless-display-device-working-again-on-windows-11/"><u>How to Get Your Microsoft Wireless Display Device Working Again on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-connection-difficulties-with-destiny-amoor-game-servers/"><u>How To Overcome Connection Difficulties with Destiny Amoor Game Servers</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-the-essential-list-of-top-10-audio-editors-for-windows-and-mac-platforms/"><u>In 2024, The Essential List of Top 10 Audio Editors for Windows & Mac Platforms</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mastering-slack-and-filmora-scheduling-meetings-flawlessly/"><u>Mastering Slack & Filmora Scheduling Meetings Flawlessly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prime-places-for-accessible-outstanding-vector-design-tools/"><u>Prime Places for Accessible, Outstanding Vector Design Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/securing-your-network-instructions-for-enabling-lsa-guardrails/"><u>Securing Your Network: Instructions for Enabling LSA Guardrails</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-to-overcome-insufficient-resources-error-message/"><u>Solutions to Overcome 'Insufficient Resources' Error Message</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-persistent-windows-10-startup-issues-fixed/"><u>Troubleshooting Persistent Windows 10 Startup Issues [FIXED]</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving Your PC's Sudden Shutdown Issue: A Step-by-Step Guide"
-date: 2024-09-11T15:24:13.374Z
-updated: 2024-09-12T15:24:13.374Z
+date: 2024-12-20T20:33:24.098Z
+updated: 2024-12-22T23:44:37.426Z
 tags:
   - win11
   - win10
@@ -24,10 +24,7 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
  This small guide will be showing you how to fix the Shift key bot working issue step by step. Read on and go on with the steps to troubleshoot your problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix Shift key not working?
@@ -49,13 +46,6 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -65,19 +55,6 @@ Follow these:
 #### on Windows 10
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click **Ease of Access** .
 
@@ -97,24 +74,19 @@ Follow these:
 
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -133,16 +105,7 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
@@ -152,16 +115,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart your computer and try to press the Shift key to see if it works.
@@ -181,5 +135,19 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-mastering-the-art-of-making-an-effective-podcast-launch-video/"><u>[Updated] 2024 Approved Mastering the Art of Making an Effective Podcast Launch Video</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-effective-use-of-zoom-on-your-chrome-based-device/"><u>[Updated] Effective Use of Zoom on Your Chrome-Based Device</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-transform-your-live-streaming-best-practices-in-obs-studio/"><u>[Updated] Transform Your Live Streaming Best Practices in OBS Studio</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-amplifying-your-brand-the-famebit-approach-to-youtube-affiliates/"><u>2024 Approved Amplifying Your Brand The FameBit Approach to YouTube Affiliates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/crackling-sound-fix-for-speakers-how-to-restore-quality-on-windows-platforms/"><u>Crackling Sound Fix for Speakers: How to Restore Quality on Windows Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminating-error-code-0xc000007b-successful-resolution-for-application-failed-to-load-correctly/"><u>Eliminating Error Code 0xC000007B - Successful Resolution for 'Application Failed to Load Correctly'</u></a></li>
+<li><a href="https://win-info.techidaily.com/exploring-the-microsoft-surface-laptop-n-a-closer-look-at-classic-features-and-new-enhancements-insights-from-zdnet/"><u>Exploring the Microsoft Surface Laptop N: A Closer Look at Classic Features & New Enhancements | Insights From ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-logitech-g930-microphone-cut-out-issue-a-step-by-step-guide/"><u>Fixing Logitech G930 Microphone Cut-Out Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-8-superb-tablet-titans-to-take-your-photo-editing-skills-further/"><u>In 2024, 8 Superb Tablet Titans to Take Your Photo Editing Skills Further</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-perfect-idea-sparkle-top-youtube-videos-to-energize-your-channel/"><u>In 2024, The Perfect Idea Sparkle Top YouTube Videos to Energize Your Channel</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/score-big-during-prime-day-hunt-for-spectacular-discounts-on-benq-display-devices/"><u>Score Big During Prime Day: Hunt for Spectacular Discounts on BenQ Display Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-to-correct-the-windows-11-0x8024401c-update-failure-issue/"><u>Solution Steps to Correct the Windows 11 0X8024401c Update Failure Issue</u></a></li>
+</ul></div>
 

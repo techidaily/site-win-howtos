@@ -1,7 +1,7 @@
 ---
 title: "Improve League of Legends Performance: Tackling the Slow Downloader Issue"
-date: 2024-12-08T20:19:00.997Z
-updated: 2024-12-13T19:34:02.828Z
+date: 2024-12-20T17:45:43.539Z
+updated: 2024-12-22T17:43:03.188Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ League of Legends is a world popular game, but the slow download speed can easil
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -48,6 +48,10 @@ League of Legends is a world popular game, but the slow download speed can easil
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Launch as administrator
 
  The privilege issue and compatibility mode might be the reason for this problem. With high integrity access, League of Legends can make full use of its features, running its function properly. So run it as an administrator to see if this fixes the slow download issue.
@@ -62,10 +66,6 @@ Downloading again to see if it works.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Turn off Windows Firewall
 
  Windows Firewall supposes to protect your computer from malware, but sometimes it may cause trouble. It may block some features of League of Legends which result in low speed downloading. So you can try to turn off Windows Firewall to solve the “League of Legends download slow” issue.
@@ -74,17 +74,17 @@ Downloading again to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Re-download to check.
@@ -101,6 +101,10 @@ Re-download to check.
  So you can[download](https://www.microsoft.com/en-sg/download/details.aspx?id=21) and install the framework to solve the issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus: Update your drivers
 
@@ -134,10 +138,6 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -164,16 +164,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-elevate-your-profile-9-strategic-moves-for-instagram-fame/"><u>2024 Approved Elevate Your Profile 9 Strategic Moves for Instagram Fame</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/advance-web-analytics-with-cookiebot-the-secret-ingredient-to-conversion-mastery/"><u>Advance Web Analytics with Cookiebot – The Secret Ingredient to Conversion Mastery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-screen-mirroring-problems-when-miracast-is-unavailable-via-graphics-card/"><u>Fix Your Screen Mirroring Problems When Miracast Is Unavailable via Graphics Card</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-blaze-curve-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Blaze Curve 5G To Phone | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/instantly-fix-control-is-crashing-simple-solutions-revealed/"><u>Instantly Fix 'Control Is Crashing' - Simple Solutions Revealed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixes-for-computers-frozen-at-startup/"><u>Resolved: Fixes for Computers Frozen at Startup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-fixes-for-the-persistent-problem-of-windows-10-restarts/"><u>Simple Fixes for the Persistent Problem of Windows 10 Restarts</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-future-of-packaging-experiential-gifting-excellence-for-2024/"><u>The Future of Packaging Experiential Gifting Excellence for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-resolving-hp-beats-sound-problems-in-windows-1087-systems/"><u>Troubleshooting and Resolving HP Beats Sound Problems in Windows 10/8/7 Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-the-secrets-of-win11s-system32/"><u>Unlocking the Secrets of Win11's System32</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/valorant-load-screen-woes-solutions-to-tackle-the-never-ending-boot-problems-solved/"><u>Valorant Load Screen Woes? Solutions to Tackle the Never-Ending Boot Problems [Solved]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-apple-podcast-listing-essentials/"><u>[New] Apple Podcast Listing Essentials</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-in-every-frame-top-9-tips-for-vr-filmmaking/"><u>2024 Approved Precision in Every Frame Top 9 Tips for VR Filmmaking</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/black-hero-4-or-ghost-s-choosing-the-best-motorsport-camera/"><u>Black Hero 4 or Ghost-S Choosing the Best Motorsport Camera</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/compatibility-success-updating-device-drivers-for-optimal-performance-in-wow/"><u>Compatibility Success: Updating Device Drivers for Optimal Performance in WoW</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-and-solving-windows-camera-failure-tackle-error-0xa00f4292-successfully/"><u>Decoding and Solving Windows Camera Failure - Tackle Error 0Xa00f4292 Successfully</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-review-how-reliable-is-the-fintite-protective-case-for-your-macbook-pro-13/"><u>Expert Review: How Reliable Is the Fintite Protective Case for Your MacBook Pro 13?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/forza-horizon-asterisk-4-noise-solutions-eliminate-silence-and-enjoy-the-race-again/"><u>Forza Horizon Asterisk 4 Noise Solutions - Eliminate Silence and Enjoy the Race Again</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/highpoint-masterpiece-suite-for-2024/"><u>Highpoint Masterpiece Suite for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-unable-to-connect-to-the-remote-server/"><u>How to Fix Unable to Connect to the Remote Server</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/techniques-to-pull-facebook-videos-easily-for-2024/"><u>Techniques to Pull Facebook Videos Easily for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-fixing-right-click-not-working-on-a-mouse-with-windows-11/"><u>The Ultimate Guide to Fixing 'Right Click Not Working' On a Mouse with Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-repair-a-non-functional-microphone-in-a-laptop/"><u>Troubleshooting: How to Repair a Non-Functional Microphone in a Laptop</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-11-latency-issue-addressed-for-laptop-gpu/"><u>Windows 11 Latency Issue Addressed for Laptop GPU</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix 'Failed Renderer Initialization [Update 2021]' – A Step-by-Step Solution
-date: 2024-09-11T15:20:45.087Z
-updated: 2024-09-12T15:20:45.087Z
+date: 2024-12-15T21:56:16.914Z
+updated: 2024-12-22T23:22:19.614Z
 tags:
   - win11
   - win10
@@ -27,13 +27,6 @@ Continuously getting the error **“There is a problem with your games setup. Pl
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/featured-image-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Repair your game
 
  Missing or corrupt game files can cause a wide variety of issues. So you need to make sure they are intact. The feature, repairing games allows you to achieve that goal. It checks your game’s installation and then automatically downloads any replacement or missing files:
@@ -45,21 +38,16 @@ Continuously getting the error **“There is a problem with your games setup. Pl
 ![Origin error There is a problem with your game's setup. Please reinstall your game. ](https://images.drivereasy.com/wp-content/uploads/2021/05/repair-game.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This file check can take up to an hour to complete depending on your computer’s hardware. If there are any file issues or corrupt files, it will replace them or download them again.
 
 If that didn’t help, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Clear Origin game cache
 
@@ -76,13 +64,6 @@ If that didn’t help, try the next fix below.
 
 ![how to chear cache on Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/make-sure-Origin-is-fully-closed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
 
  3) Type or paste**%ProgramData%/Origin** and press Enter.  
@@ -92,19 +73,6 @@ If that didn’t help, try the next fix below.
  4) Delete all the files and folders inside it**except for LocalContent** . Do not delete this folder.  
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/do-not-delete-LocalContent.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To delete these files and folders quickly, you can hold the**Windows + A keys** to select all of them. Then hold**Ctrl** and click on**LocalContent** to deselect it. Then you can right-click on the files and folders you selected and choose**Delete** .  
   
@@ -117,10 +85,7 @@ If that didn’t help, try the next fix below.
 ![open AppData using command](https://images.drivereasy.com/wp-content/uploads/2021/05/appdata.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Look for the**Origin** folder. Right-click it and select**Delete** .  
@@ -128,16 +93,7 @@ If that didn’t help, try the next fix below.
 ![delete the Origin folder](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  8) In the address bar, click on**AppData** .  
@@ -148,16 +104,13 @@ If that didn’t help, try the next fix below.
   
 ![delete Origin folder inside LocalData](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder-inside-LocalData.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 10) Restart your PC and log back into Origin.
 
 If this didn’t give you any luck, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update your device drivers
 
@@ -184,13 +137,6 @@ Here’s how to update drivers with Driver Easy:
 
  After updating drivers, restart your PC. Then resume your installation or launch your game from Origin to check if that error message still appears.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Run Origin as an administrator
 
  There are some situations that your game can’t be installed because your Origin client lacks the administrative privileges. Therefore, you may need to run Origin as an administrator:
@@ -208,43 +154,24 @@ If you want to make Origin always run as administrator, take these steps:
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/always-run-Origin-as-an-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-Origin-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Resume your installation and check if it helped you fix the issue. If your problem persists, try the next fix below.
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Install the latest visual C++ redistributable pack
 
  Microsoft Visual C++ Redistributable is a standard distributable package of shared code that comes as part of your Windows and enables apps to run on your PC. If it’s missing or your current one is out-of-date, some apps that rely on the redistributable will fail to start or run and it will result in a total mess. Therefore, we would suggest you install the latest Visual C++ from[Microsoft](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) , both the x64 and x86 versions (you’ll find them in the**Visual Studio 2015, 2017 and 2019** section. )
 
 If that didn’t help, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Download Media Feature Pack for Windows 10 N
 
@@ -261,6 +188,10 @@ If that didn’t help, move on to the next fix.
  2) Select**About** . Then in the**Windows specifications** section, you’ll find your edition.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/my-windows-version.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -279,5 +210,26 @@ If that didn’t help, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-tempo-treasure-hunters-dive-into-free-online-scanners/"><u>[New] 2024 Approved Tempo Treasure Hunters Dive Into FREE Online Scanners</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-content-for-specific-youtube-subsets/"><u>[New] In 2024, Crafting Content for Specific Youtube Subsets</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-strategic-approaches-broadcasting-live-sports-with-precision/"><u>[Updated] 2024 Approved Strategic Approaches Broadcasting Live Sports with Precision</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-novices-selection-guide-to-ideal-filming-cameras/"><u>[Updated] In 2024, Novice's Selection Guide to Ideal Filming Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-artists-guide-to-dynamic-palette-alteration/"><u>2024 Approved The Artist's Guide to Dynamic Palette Alteration</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-filmmakers-roadmap-creating-youtube-trailers-using-filmora/"><u>2024 Approved The Filmmaker's Roadmap Creating YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://win-able.techidaily.com/bust-assassins-creed-odyssey-pc-freeze-glitches-with-these-new-fixes-202n/"><u>Bust Assassin's Creed Odyssey PC Freeze Glitches with These New Fixes (202N)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/chrome-troubles-eradicate-errnamenotresolved-with-this-easy-method/"><u>Chrome Troubles? Eradicate 'ERR_NAME_NOT_RESOLVED' With This Easy Method!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/definitive-solutions-to-windows-10-setup-error-code-80240020-get-your-system-running-now/"><u>Definitive Solutions to Windows 10 Setup Error Code 80240020 - Get Your System Running Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-effortless-csgo-stability-and-no-more-unexpected-shutdowns/"><u>Expert Tips for Effortless CS:GO Stability and No More Unexpected Shutdowns</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expertly-edit-your-imagery-with-top-androidios-montage-apps-for-2024/"><u>Expertly Edit Your Imagery with Top Android/iOS Montage Apps for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-desktop-not-available-issue-on-system-profile-windows/"><u>Fixing the 'Desktop Not Available' Issue on System Profile - Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-update-error-code-0x80070490-a-comprehensive-guide/"><u>Fixing Windows Update Error Code 0X80070490 - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-user-profile-service-service-failed-the-sign-in-error-windows-1111/"><u>How to Fix The User Profile Service Service Failed the Sign-In Error Windows 11/11</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/in-depth-focusrite-scarlett-2i2-gen-4-assessment-unmatched-performance-meets-rising-rivals/"><u>In-Depth Focusrite Scarlett 2I2 Gen 4 Assessment: Unmatched Performance Meets Rising Rivals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-pc-restoration-in-windows-11-overcoming-common-problem-resetting-errors/"><u>Mastering PC Restoration in Windows 11: Overcoming Common Problem Resetting Errors</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/navigating-facebook-live-your-2023-playbook/"><u>Navigating Facebook Live Your 2023 Playbook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-aoc-monitor-steps-to-restore-functionality-on-windows-10-devices/"><u>Troubleshoot Your AOC Monitor: Steps to Restore Functionality on Windows 10 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-wireless-potential-easy-bluetooth-setup-instructions-for-win11-and-win10-users/"><u>Unlocking Wireless Potential: Easy Bluetooth Setup Instructions for Win11 & Win10 Users</u></a></li>
+</ul></div>
 

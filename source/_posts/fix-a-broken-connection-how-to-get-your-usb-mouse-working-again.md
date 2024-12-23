@@ -1,7 +1,7 @@
 ---
 title: "Fix a Broken Connection: How to Get Your USB Mouse Working Again"
-date: 2024-12-10T21:50:34.652Z
-updated: 2024-12-13T19:44:07.407Z
+date: 2024-12-15T19:07:25.103Z
+updated: 2024-12-22T22:56:25.619Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/e663bf23b6887cb8279b82d66477ecb71e4a937f5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 fixes for **Mouse keeps disconnecting**
@@ -37,7 +37,7 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware issues
@@ -46,6 +46,10 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 2. **Try a different (and functioning) mouse**. Check if the **Mouse keeps disconnecting** issue has been resolved. If yes, then great! But if it still persists, move on to **Fix 2**, below .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Change power management settings for USB Root Hub
 
@@ -62,13 +66,13 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -84,15 +88,11 @@ You can update your drivers automatically with either the [**Free**](https://too
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
@@ -120,15 +120,18 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-unlocking-potential-angular-video-editing-on-your-android-device/"><u>[Updated] 2024 Approved Unlocking Potential Angular Video Editing on Your Android Device</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-gain-ground-on-social-media-leaders-with-insta-growth-tips/"><u>[Updated] In 2024, Gain Ground on Social Media Leaders with Insta-Growth Tips</u></a></li>
-<li><a href="https://discover-able.techidaily.com/movavijpg/"><u>「Movaviで簡単JPGファイルの画像変換 - 完全無料」</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/choosing-the-right-type-of-fan-for-your-computer-system-pwm-or-dc-a-comparison/"><u>Choosing the Right Type of Fan for Your Computer System: PWM or DC - A Comparison</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-solutions-to-correct-the-change-rendering-api-error-2024-in-dota-2/"><u>Effortless Solutions to Correct the 'Change Rendering API' Error 2024 in Dota 2</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-unresponsive-touchpad-scrolling-issues-a-comprehensive-guide/"><u>Fixing Unresponsive Touchpad Scrolling Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-asus-rog-phone-8-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Asus ROG Phone 8 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-reaction-to-valorant-freezes-reboot-call/"><u>Quick Reaction to Valorant Freezes: Reboot Call</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-windows-update-issue-error-code-0x802c002e-now-resolved/"><u>Solving Windows Update Issue: Error Code 0X802C002E Now Resolved</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-pinnacle-of-presentation-aids-top-7-ai-excellence/"><u>The Pinnacle of Presentation Aids: Top 7 AI Excellence</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-best-mac-video-editing-tools-reviewed-bandicam-vs-camtasia/"><u>[Updated] Best Mac Video Editing Tools Reviewed Bandicam Vs Camtasia</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-drones-in-film-advanced-capturing-strategies/"><u>[Updated] In 2024, Drones in Film Advanced Capturing Strategies</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-from-static-to-dynamic-making-text-pop-on-instagram-stories/"><u>[Updated] In 2024, From Static to Dynamic Making Text Pop on Instagram Stories</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-navigating-facebooks-video-evolution/"><u>[Updated] In 2024, Navigating Facebook’s Video Evolution</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-leading-photo-framers-of-2024-reviewed/"><u>[Updated] The Leading Photo Framers of 2024 Reviewed</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-xiaomi-redmi-note-13-pro-5g-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-strategies-to-overcome-system-program-not-initialized-problem-on-pc-error-0xc0000098/"><u>Expert Strategies to Overcome System Program Not Initialized Problem on PC (Error 0Xc0000098)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-of-dimmed-or-broken-keyboard-backlit-feature-on-windowsmac-machines/"><u>How to Restore Functionality of Dimmed or Broken Keyboard Backlit Feature on Windows/Mac Machines</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-itel-s23pluswithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Itel S23+with/without a PC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/optimal-live-streaming-scenery-ideas-for-2024/"><u>Optimal Live Streaming Scenery Ideas for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pam-pulse-amplitude-modulation/"><u>PAM (Pulse Amplitude Modulation)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-restoring-lenovos-function-keys-performance/"><u>Quick Solutions for Restoring Lenovo's Function Keys Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-lenovo-mouse-pad-issues-fixes-for-windows-11-8-and-7/"><u>Solving Lenovo Mouse Pad Issues: Fixes for Windows 11, 8 & 7</u></a></li>
 </ul></div>
 

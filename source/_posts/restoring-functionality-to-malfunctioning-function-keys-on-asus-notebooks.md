@@ -1,7 +1,7 @@
 ---
 title: Restoring Functionality to Malfunctioning Function Keys on ASUS Notebooks
-date: 2024-12-07T20:59:51.630Z
-updated: 2024-12-13T22:30:50.096Z
+date: 2024-12-20T18:17:33.303Z
+updated: 2024-12-22T20:30:51.326Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/4740430244a268b3ae9a4b1e15c683b234a7cf8bd
 4. [**Reseat your laptop battery**](#F4)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
 
@@ -71,6 +67,10 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -80,6 +80,10 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -100,7 +104,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
@@ -108,10 +112,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -122,13 +122,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -147,7 +147,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
@@ -184,17 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-expert-tips-to-correct-video-transmission-problem-on-mobile-messengers/"><u>[New] Expert Tips to Correct Video Transmission Problem on Mobile Messengers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-pioneering-strategies-for-success-in-the-spotify-ad-arena/"><u>[New] Pioneering Strategies for Success in the Spotify Ad Arena</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210103845-9781439668184-ghosts-of-houstons-market-square-park/"><u>Ghosts of Houston's Market Square Park | Free Book</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-optimal-metaverse-displays-the-ultimate-8-picks/"><u>In 2024, Optimal Metaverse Displays The Ultimate 8 Picks</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-itel-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Itel IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-nier-automata-gameplay-disruptions-on-your-computer-effective-fixes/"><u>Overcoming Nier: Automata Gameplay Disruptions on Your Computer – Effective Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/repairing-failed-fixservice-setup-and-registration-on-windows-11-os/"><u>Repairing Failed FixService Setup and Registration on Windows 11 OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-windows-xerox-printer-mis-0x800f020b-effective-fixes-and-solutions/"><u>Resolve Window's Xerox Printer MIS-0X800F020B: Effective Fixes and Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-dxgkrnl-fatal-error-in-videos-on-your-pc/"><u>Solving the Dxgkrnl Fatal Error in Videos on Your PC</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-15-pro-max-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 15 Pro Max You Should Try Out</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-stuck-file-explorer-icons-in-windows-11-solved/"><u>Troubleshooting Stuck File Explorer Icons in Windows 11 [Solved]</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-new-enhancements-a-deep-dive-into-windows-11-creators-update-build-1503/"><u>Unveiling New Enhancements: A Deep Dive Into Windows 11 Creators Update, Build 1503</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/directory-name-not-recognized-steps-for-resolution-and-prevention/"><u>'Directory Name Not Recognized': Steps for Resolution and Prevention</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fine-tuning-focus-the-ultimate-guide-to-zooming-in-on-videoleap/"><u>[Updated] Fine-Tuning Focus The Ultimate Guide to Zooming in on Videoleap</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-exclusive-snap-chronicles-an-in-depth-walkthrough/"><u>[Updated] In 2024, Exclusive Snap Chronicles An In-Depth Walkthrough</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-step-by-step-walkthrough-for-correcting-windows-update-issues/"><u>A Step-by-Step Walkthrough for Correcting Windows Update Issues</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/accelerate-your-reading-mastering-quick-page-flips-with-flipbuilder/"><u>Accelerate Your Reading: Mastering Quick Page Flips with FlipBuilder</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-tech-evolution-showcases-iphone-16-as-a-repair-revolution-surpassing-past-versions-explore-the-advancements/"><u>Apple's Tech Evolution Showcases iPhone 16 as a Repair Revolution, Surpassing Past Versions. Explore the Advancements .</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209088096-audio-fix-eliminate-crackling-from-your-speakers-on-windows-11-and-7/"><u>Audio Fix: Eliminate Crackling From Your Speakers on Windows 11 and 7!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/banishing-boot-problems-fixing-persistent-freezes-on-your-windows-10-pc/"><u>Banishing Boot Problems: Fixing Persistent Freezes on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-2021-graphics-renderer-start-up-issue-steps-and-tips/"><u>Fixing the 2021 Graphics Renderer Start-Up Issue: Steps and Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-unexpected-shutdowns-while-playing-a-guide-for-windows-11-10-7-8n-and-8-users/"><u>How to Stop Unexpected Shutdowns While Playing: A Guide for Windows 11, 10, 7, 8.n & 8 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-fix-a-livekernelevent-code-144-issue/"><u>How to Troubleshoot and Fix a LiveKernelEvent Code 144 Issue</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-11-pro-maxipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 11 Pro Max/iPad Without Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-pc-boot-time-delays-a-comprehensive-guide/"><u>Solving PC Boot Time Delays: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-role-of-crc-in-identifying-and-correcting-data-integrity-problems/"><u>The Role of CRC in Identifying and Correcting Data Integrity Problems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-dbpower-600a-peak-charger-with-18000mah-capacity-unbiased-review/"><u>Ultimate Guide: DBPower 600A Peak Charger with 18,000mAh Capacity - Unbiased Review</u></a></li>
 </ul></div>
 

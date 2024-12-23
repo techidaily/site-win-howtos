@@ -1,7 +1,7 @@
 ---
 title: Windows 11 No Speakers Error? Here's How You Can Fix It!
-date: 2024-12-09T20:42:17.545Z
-updated: 2024-12-13T17:16:33.718Z
+date: 2024-12-19T01:07:06.291Z
+updated: 2024-12-22T19:39:58.598Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 1: Automatically update your audio device drivers**
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 ##
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 2: Manually uninstall & reinstall the device driver**
@@ -70,15 +70,15 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Find**Sound, video, and game controllers** , then double-click on it to expand the list. Right-click on your audio device and select**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-how-to-uninstall-device-in-the-Device-Manager.jpg)
 
  2) Restart your PC. After restarting, Windows should automatically re-install the sound driver. Assuming it installs the latest correct driver, this may resolve the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 3: Re-enable the device**
 
@@ -98,17 +98,9 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Add-legacy-hardware.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2b) Click **Next**  to start the Add Hardware wizard. (If the Add Hardware wizard doesn’t display at all, you can try [Method 3](https://tools.techidaily.com/drivereasy/download/) .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Add-Legacy-hardware-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2c) Select **Search for and install hardware automatically (Recommended)** .
 
@@ -127,12 +119,16 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Add-Legacy-hardware-6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re not sure what manufacturer and model to select, press the**Windows logo + R keys** simultaneously to open the Run box, type**dxdiag,** and hit Enter to open the DirectX Diagnostic Tool. Select the**Sound** tab and you should be able to see your sound card.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-how-to-check-which-sound-card-youre-using.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2g) Click **Next**  to install the device, then when the installation is complete, click **Finish** .
 
@@ -143,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
  Once again, right-click your audio device and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2015/08/win11-Device-Manager-Enable-device.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After making the changes, restart your device and check if the error still occurs.
 
@@ -163,18 +163,24 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-iphoneandroid-sharing-videos-on-twitter-without-retweeting/"><u>[New] IPhone/Android Sharing Videos On Twitter Without Retweeting</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-achieve-epic-results-the-ultimate-guide-to-gopro-time-lapses-for-2024/"><u>[Updated] Achieve Epic Results The Ultimate Guide to GoPro Time-Lapses for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitter-account-launch-a-beginners-roadmap/"><u>[Updated] In 2024, Twitter Account Launch A Beginner's Roadmap</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-ai-image-generation-an-ultimate-how-to-manual/"><u>ChatGPT and AI Image Generation: An Ultimate How-To Manual</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206971633-effortless-ways-to-prevent-your-pc-from-snoozing-unexpectedly/"><u>Effortless Ways to Prevent Your PC From Snoozing Unexpectedly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-fixes-when-encountering-window-11-delays-or-crashes/"><u>Essential Fixes When Encountering Window 11 Delays or Crashes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-techniques-to-restore-typing-functionality-on-keyboards/"><u>Essential Techniques to Restore Typing Functionality on Keyboards</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/game-like-never-before-secure-200-off-dells-breathtaking-32-4k-aw322e5qf-gaming-display/"><u>Game Like Never Before - Secure $200 Off Dell’s Breathtaking 32 4K AW322e5QF Gaming Display</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-xiaomi-redmi-note-13-proplus-5g-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Xiaomi Redmi Note 13 Pro+ 5G Without Password?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-download-edit-and-share-the-complete-online-video-guide/"><u>New 2024 Approved Download, Edit, and Share The Complete Online Video Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-errcachemiss-issues-on-google-chrome/"><u>Solving ERR_CACHE_MISS Issues on Google Chrome</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-resolving-ue4-fatal-errors-for-stable-halo/"><u>Ultimate Troubleshooting: Resolving UE4 Fatal Errors for Stable Halo</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/uncovering-the-hidden-tricks-fixing-windows-11-taskbar-display-problems/"><u>Uncovering the Hidden Tricks: Fixing Windows 11 Taskbar Display Problems</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-brilliance-on-screen-an-examination-of-hps-4k-z32x/"><u>[New] Brilliance on Screen An Examination of HP’s 4K Z32X</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-mastering-the-art-of-recording-private-whatsapp-calls/"><u>[Updated] 2024 Approved Mastering the Art of Recording Private WhatsApp Calls</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-build-your-brands-success-on-top-business-youtube-channels/"><u>2024 Approved Build Your Brand's Success on Top Business YouTube Channels</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-sd-monitors-in-a-hdcp-required-environment/"><u>Dealing with SD Monitors in a HDCP Required Environment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-setup-tip-the-importance-of-having-an-up-to-date-d3d11-graphics-processor-to-run-your-game-engine-smoothly/"><u>Essential Setup Tip: The Importance of Having an Up-to-Date D3D11 Graphics Processor to Run Your Game Engine Smoothly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-microphone-issues-solutions-for-non-functional-mic-on-windows-11/"><u>Fixing Microphone Issues: Solutions for Non-Functional Mic on Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-oneplus-nord-n30-se-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your OnePlus Nord N30 SE Face Lock?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/high-resource-consumption-of-ntoskrnlexe-solved/"><u>High Resource Consumption of ntoskrnl.exe: Solved</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-xiaomi-13t-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Xiaomi 13T Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-nubia-red-magic-9-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP on Nubia Red Magic 9 Pro?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-13-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On Apple iPhone 13 If Youve Tried Everything</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202771406-pdf-wont-print-discover-swift-solutions-that-work/"><u>PDF Won't Print? Discover Swift Solutions That Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubg-2024-release-complete-troubleshooting-steps-for-launch-issues/"><u>PUBG 2024 Release: Complete Troubleshooting Steps for Launch Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubg-stuck-on-loading-screen-bypass-the-glitches-with-this-updated-fixing-guide-releases/"><u>PUBG Stuck on Loading Screen? Bypass the Glitches with This Updated Fixing Guide Releases</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-unstucking-your-lenovos-fn-keys-in-no-time/"><u>Solving the Problem: Unstucking Your Lenovo's FN Keys in No Time</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-play-40c-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor Play 40C.</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/shing-the-power-of-youtube-finding-and-creating-partnerships-for-2024/"><u>Unleashing the Power of YouTube Finding and Creating Partnerships for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-miracast-streaming-solved-graphics-driver-incompatibility-problems/"><u>Unlock Miracast Streaming - Solved Graphics Driver Incompatibility Problems</u></a></li>
 </ul></div>
 

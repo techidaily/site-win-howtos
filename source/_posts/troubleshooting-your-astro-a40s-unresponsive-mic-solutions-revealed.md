@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Your Astro A40's Unresponsive Mic - Solutions Revealed
-date: 2024-09-05T10:11:14.177Z
-updated: 2024-09-06T10:11:14.177Z
+date: 2024-12-19T17:23:20.555Z
+updated: 2024-12-22T18:14:13.824Z
 tags:
   - win11
   - win10
@@ -17,18 +17,6 @@ thumbnail: https://thmb.techidaily.com/b4646e6c7dd57e63be8305e5fc613622e6d7e1913
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6bc5e95188.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you run into the **Astro A40** **mic not working** problem, don’t panic – many users have reported the same. Luckily, it’s quite easy to fix…
 
 ## 4 Fixes for Astro A40 Mic Not Working
@@ -44,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/b4646e6c7dd57e63be8305e5fc613622e6d7e1913
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot hardware issues
 
  Before we make any changes, we might have to troubleshoot hardware issues. To do so:
@@ -56,11 +48,9 @@ thumbnail: https://thmb.techidaily.com/b4646e6c7dd57e63be8305e5fc613622e6d7e1913
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on A40 won’t work simply because the volume is mute or set too low.
@@ -70,12 +60,6 @@ To make sure the volume is audible:
 1. Click **the sound icon**  on the lower-right of your screen, then move **the volume slider**  all the way  to at least halfway up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
 
@@ -90,35 +74,32 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your audio driver
 
 This problem may occur if you are using the wrong audio  driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -137,12 +118,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Once you’ve updated the driver for your Astro A40 headset,**restart** your computer and check if the**Astro A40 mic not working** problem has been resolved.
@@ -166,8 +141,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +148,19 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-apowersoft-masterclass-top-pc-screen-recorder-analysis/"><u>[Updated] 2024 Approved Apowersoft Masterclass Top PC Screen Recorder Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-tier-mkv-players-macos-edition/"><u>2024 Approved Top-Tier MKV Players MacOS Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-free-photo-management-on-windows-11-correcting-invalid-registry-settings/"><u>Error-Free Photo Management on Windows 11: Correcting Invalid Registry Settings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-improve-interactivity-between-your-epson-scanner-and-printer/"><u>How to Improve Interactivity Between Your Epson Scanner and Printer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-edge-40-pro-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-editions-windowed-film-editing-software/"><u>In 2024, Innovative Editions Windowed Film Editing Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978872254-quick-fix-downloading-and-updating-asus-bluetooth-drivers-with-expert-advice-for-seamless-connectivity/"><u>Quick Fix: Downloading and Updating ASUS Bluetooth Drivers with Expert Advice for Seamless Connectivity.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-the-windows-host-process-and-rundll32-stop-errors/"><u>Resolving Issues with the Windows Host Process and Rundll32 Stop Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-couldnt-load-plugin-chrome-error-on-windows-11/"><u>Solved: Couldn't Load Plugin Chrome Error on Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-poco-f5-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Poco F5 5G Device</u></a></li>
+</ul></div>
 

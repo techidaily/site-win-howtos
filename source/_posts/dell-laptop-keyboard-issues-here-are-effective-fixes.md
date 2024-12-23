@@ -1,7 +1,7 @@
 ---
 title: Dell Laptop Keyboard Issues? Here Are Effective Fixes!
-date: 2024-12-09T19:47:29.068Z
-updated: 2024-12-13T18:59:03.027Z
+date: 2024-12-17T00:13:13.769Z
+updated: 2024-12-22T16:07:37.345Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/72178c55a17f02b5af426d7fce9f5984667c0f559
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -52,6 +56,10 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -77,10 +85,6 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -99,10 +103,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -110,7 +110,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -127,7 +127,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -143,7 +143,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
@@ -184,22 +184,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-mastering-instagram-as-an-influencer-5-must-know-techniques-and-case-studies/"><u>[New] Mastering Instagram As An Influencer 5 Must-Know Techniques and Case Studies</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-ideal-vr-solutions-for-drone-flying-for-2024/"><u>[Updated] Ideal VR Solutions for Drone Flying for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-ultimate-how-to-for-ifunnys-meme-app/"><u>[Updated] The Ultimate How-To for iFunny's Meme App</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-tecno-pop-7-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Pop 7 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/effortless-ways-to-enhance-your-hard-drives-speed-on-windows-1011/"><u>Effortless Ways to Enhance Your Hard Drive's Speed on Windows 10/11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-dealing-with-corrupted-image-display-in-windows-1110-environments/"><u>Expert Tips for Dealing with Corrupted Image Display in Windows 11/10 Environments</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/failed-installation-of-windows-11-1607-fixes-and-solutions/"><u>Failed Installation of Windows 11 1607: Fixes and Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fatal-circuitry-issue-system-halt/"><u>Fatal Circuitry Issue: System Halt</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-invalid-value-for-registry-error-when-opening-photos-on-windows-11/"><u>Fix: Invalid Value for Registry Error When Opening Photos on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-11-how-to-stop-your-pc-from-freezing-during-start-up/"><u>Fixing Windows 11: How to Stop Your PC From Freezing During Start-Up</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/go-global-how-chatgpt-everywhere-brings-ai-assistance-to-your-fingertips-no-matter-where-you-are/"><u>Go Global: How ChatGPT Everywhere Brings AI Assistance to Your Fingertips, No Matter Where You Are</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-addressing-persistent-pauses-at-0-during-windows-updates/"><u>Mastering the Fix: Addressing Persistent Pauses at 0% During Windows Updates</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-motorola-moto-g24-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Motorola Moto G24 Phone? Unlock It Now</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/staying-ahead-of-the-heat-game-thermaltakes-luxurious-yet-expensive-massive-tm-laptop-cooling-pad-an-in-depth-review/"><u>Staying Ahead of the Heat Game - Thermaltake's Luxurious Yet Expensive Massive TM Laptop Cooling Pad: An In-Depth Review</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-7-must-have-note-taking-tools-for-your-ipad-and-ipad-pro/"><u>Top 7 Must-Have Note-Taking Tools for Your iPad & iPad Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-non-functional-huion-stylus-top-5-quick-solutions/"><u>Troubleshoot Your Non-Functional Huion Stylus: Top 5 Quick Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functioning-usb-peripherals-on-windows-7-machines/"><u>Troubleshooting Non-Functioning USB Peripherals on Windows 7 Machines</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-mobile-and-desktop-no-cost-magnifier-toolkit/"><u>[New] In 2024, Mobile & Desktop No-Cost Magnifier Toolkit</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-5-pro-audio-techniques-for-windows-10-users/"><u>2024 Approved 5 Pro Audio Techniques for Windows 10 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bring-life-to-your-race-a-step-by-step-fix-for-silent-gameplay-in-forza-horizon-4/"><u>Bring Life to Your Race: A Step-by-Step Fix for Silent Gameplay in Forza Horizon 4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211398342-computer-keeps-powering-down-heres-how-to-stop-it-from-turning-on-and-off-again/"><u>Computer Keeps Powering Down? Here's How to Stop It From Turning On and Off Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-remote-server-connection-failures-a-step-by-step-guide/"><u>Resolving Issues with Remote Server Connection Failures: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/setting-up-your-printer-a-step-by-step-guide-by-yl-computing/"><u>Setting Up Your Printer: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-lcd-glare-in-windows-10-screens/"><u>Solving LCD Glare in Windows 10 Screens</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-videos-with-ease-10-steps-from-youtube-to-mpeg-for-2024/"><u>Transforming Videos with Ease 10 Steps From YouTube to MPEG for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restoring-your-lost-desktop-icons-on-windows-10-fixed/"><u>Troubleshooting Guide: Restoring Your Lost Desktop Icons on Windows 10 [FIXED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-the-secret-to-fixing-error-code-0x80070002-in-windows-update-expert-advice/"><u>Unlock the Secret to Fixing Error Code 0X80070002 in Windows Update - Expert Advice</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-11-uninterrupted-operation/"><u>Windows 11: Uninterrupted Operation</u></a></li>
 </ul></div>
 

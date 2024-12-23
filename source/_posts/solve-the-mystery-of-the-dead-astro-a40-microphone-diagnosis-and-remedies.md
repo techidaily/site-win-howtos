@@ -1,7 +1,7 @@
 ---
 title: "Solve the Mystery of the Dead Astro A40 Microphone: Diagnosis & Remedies"
-date: 2024-09-11T15:18:59.911Z
-updated: 2024-09-12T15:18:59.911Z
+date: 2024-12-21T21:57:00.024Z
+updated: 2024-12-22T23:25:27.845Z
 tags:
   - win11
   - win10
@@ -16,13 +16,6 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 ## Fixing the Issue: SteelSeries Arctis 5 Headset Microphone Malfunction Resolved
 
  Is your **SteelSeries Arctis 5 Mic Not Working** ? You’re not alone – many users have reported similar issues. But don’t worry, it’s often quite easy to fix…
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixes For **SteelSeries Arctis 5 Mic Not Working**
 
@@ -43,13 +36,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
@@ -58,16 +44,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -82,26 +65,16 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -112,29 +85,29 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
@@ -168,5 +141,21 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-craft-standout-videos-with-professional-free-banner-samples-for-2024/"><u>[New] Craft Standout Videos with Professional, Free Banner Samples for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-navigating-video-streaming-tools-a-focus-on-obs-youtube-and-twitch/"><u>[New] Navigating Video Streaming Tools A Focus on OBS, YouTube & Twitch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-dell-wireless-keyboard-not-working/"><u>[SOLVED] Dell Wireless Keyboard Not Working</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-harmony-in-canvas-cropping-adding-music-to-video/"><u>2024 Approved Perfect Harmony in Canvas Cropping, Adding Music to Video</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-0x80072f8f-explained-how-to-repair-this-issue-on-windows-1110-computers/"><u>Error Code 0X80072F8F Explained: How to Repair This Issue on Windows 11/10 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-netflix-proxy-error-you-seem-to-be-using-an-unblocker-or-proxy/"><u>Fix Netflix Proxy Error: You Seem to Be Using an Unblocker or Proxy</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-best-5-camera-apps-to-shoot-and-record-videos-on-iphone-and-andriod/"><u>In 2024, Best 5 Camera Apps to Shoot and Record Videos on iPhone and Andriod</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-windows-cant-finish-setup-error/"><u>Quick Fixes for Windows Can't Finish Setup Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-fixing-a-malfunctioning-keyboard-at-system-boot/"><u>Solution Steps: Fixing a Malfunctioning Keyboard at System Boot</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-correcting-the-motherboards-cmos-checksum-failure/"><u>Step-by-Step Tutorial: Correcting the Motherboard's CMOS Checksum Failure</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-personalized-health-top-7-reasons-with-chatgpt/"><u>The Future of Personalized Health: Top 7 Reasons with ChatGPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-the-livekernelevent-error-code-117/"><u>Ultimate Guide: Resolving the LiveKernelEvent Error Code 117</u></a></li>
+</ul></div>
 

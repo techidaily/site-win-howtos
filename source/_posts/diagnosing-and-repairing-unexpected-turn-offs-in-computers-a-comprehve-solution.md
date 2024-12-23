@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing and Repairing Unexpected Turn-Offs in Computers: A Comprehve Solution"
-date: 2024-12-11T19:46:20.375Z
-updated: 2024-12-13T17:22:16.845Z
+date: 2024-12-18T17:53:14.521Z
+updated: 2024-12-22T17:50:43.663Z
 tags:
   - win11
   - win10
@@ -59,15 +59,15 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-813.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-817.png)
 
  You can do it for free if you like, but it partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Remove any peripherals from your computer
 
@@ -76,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
  Once removing a peripheral, check to see if the problem is resolved, then you can figure out which peripheral is causing the problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-2786081_1920-1024x626.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Reset CMOS to the default settings
 
@@ -100,7 +104,7 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-815.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you enter the BIOS menu, refer to these steps to reset the settings:  
@@ -117,10 +121,6 @@ For example, many Dell PCs show this key like below at the first screen:
 
  5)**Restart your computer** and check to see if the problem is resolved.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 5: Check PSU (Power Supply Unit)
 
  If the PSU short circuits, the computer will shut down automatically for hardware safety. So check the PSU is working properly. You can replace the PSU with a good PSU and see if the problem is resolved. With the new PSU, if the problem is not resolved, it means the problem is not caused by the PSU.  
@@ -130,7 +130,7 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-1168203_1920-1024x681.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 6: Check the fan
@@ -144,11 +144,11 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/motherboard-841487_1920-1024x678.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 7: Clean dust
@@ -182,24 +182,22 @@ For example, many Dell PCs show this key like below at the first screen:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-discovering-clarity-in-your-craft-our-choice-of-top-12-vlogging-cameras/"><u>[New] 2024 Approved Discovering Clarity in Your Craft Our Choice of Top 12 Vlogging Cameras</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-top-12-clicker-games-on-pc/"><u>[New] Top 12 Clicker Games on PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/5-strategies-for-lowering-desktop-window-managers-graphics-load-on-windows-11-and-10/"><u>5 Strategies for Lowering Desktop Window Manager's Graphics Load on Windows 11 & 10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adding-movecopy-tasks-to-windows-explorers-context-menu/"><u>Adding Move/Copy Tasks to Windows Explorer's Context Menu</u></a></li>
-<li><a href="https://fox-access.techidaily.com/beginners-vectors-guide-types-and-applications-demystified/"><u>Beginner's Vectors Guide Types & Applications Demystified</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/clarify-your-view-fixing-fuzzy-typography-on-windows-11-systems/"><u>Clarify Your View: Fixing Fuzzy Typography on Windows 11 Systems</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/crafting-a-strong-dj-online-presence-mastering-facebook-and-twitter-in-part-1-guided-by-pcdj/"><u>Crafting a Strong DJ Online Presence: Mastering Facebook & Twitter in Part 1 - Guided by PCDJ</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/cutting-edge-tools-for-instagrams-most-trendy-reels-for-2024/"><u>Cutting-Edge Tools for Instagram's Most Trendy Reels for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-computer-solutions-to-the-missing-or-lost-os-problem/"><u>Fix Your Computer: Solutions to the 'Missing or Lost OS' Problem</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-msi-bluetooth-drivers-download-to-upgrade-and-secure-your-windows-111n-systems-now/"><u>Latest MSI Bluetooth Drivers - Download to Upgrade and Secure Your Windows 11/1N Systems Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimize-your-system-fixing-svchostexes-extreme-cpu-usage-on-windows-11/"><u>Optimize Your System: Fixing Svchost.exe's Extreme CPU Usage on Windows 11</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-your-safari-full-page-snapshot-woes-with-these-effective-techniques/"><u>Overcome Your Safari Full-Page Snapshot Woes with These Effective Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-game-interruptions-why-your-pc-powers-down-while-running-windows-11107818/"><u>Overcoming Game Interruptions: Why Your PC Powers Down While Running Windows 11/10/7/8.1/8?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-overcoming-hurdles-in-microsofts-windows-1903-update-process/"><u>Resolved: Overcoming Hurdles in Microsoft's Windows 1903 Update Process</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revitalizing-your-pc-with-sfc-and-dism-tools-in-windows-11/"><u>Revitalizing Your PC with SFC & DISM Tools in Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/seamless-teleconferencing-integrating-zoom-meetings-with-your-smart-tv-setup/"><u>Seamless Teleconferencing: Integrating Zoom Meetings with Your Smart TV Setup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-windows-10-touch-screen-problems-using-these-5-essential-tips/"><u>Solve Your Windows 10 Touch Screen Problems Using These 5 Essential Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-valorant-lag-implement-system-reinitiation/"><u>Solving Valorant Lag: Implement System Reinitiation</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/ultimate-free-switch-console-simulations/"><u>Ultimate Free Switch Console Simulations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-guide-to-addressing-windows-10s-red-screen-malfunction-successfully/"><u>Complete Guide to Addressing Windows 10'S Red Screen Malfunction Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-fixing-hps-built-in-camera-issues-when-running-on-windows-11/"><u>Comprehensive Guide to Fixing HP's Built-In Camera Issues When Running on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-on-solving-xbox-wireless-pen-problems-for-optimal-gaming-performance/"><u>Comprehensive Tutorial on Solving Xbox Wireless Pen Problems for Optimal Gaming Performance</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-svchostexe-causing-high-system-load-on-windows-10-effective-solutions/"><u>How to Fix svchost.exe Causing High System Load on Windows 10: Effective Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-huawei-nova-y71-frp-bypass-by-drfone-android/"><u>In 2024, About Huawei Nova Y71 FRP Bypass</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-vivo-s18-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Vivo S18 Pro Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-13-pro-max-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 13 Pro Max Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-the-world-of-advanced-ai-insights-into-using-claude/"><u>Navigating the World of Advanced AI: Insights Into Using Claude</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/secrets-to-perfecting-snapchats-playback-speed-settings/"><u>Secrets to Perfecting Snapchat's Playback Speed Settings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-puzzle-fix-xerox-update-error-0x800f020b-on-your-pc-a-step-by-step-guide/"><u>Solving the Puzzle: Fix Xerox Update Error 0X800F020B on Your PC - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-addressed-troubleshooting-directx-hardware-setup-problems/"><u>Successfully Addressed: Troubleshooting DirectX Hardware Setup Problems</u></a></li>
+<li><a href="https://win-guides.techidaily.com/the-ultimate-guide-eliminate-persistent-files-on-windows-10-once-and-for-all/"><u>The Ultimate Guide: Eliminate Persistent Files on Windows 10 Once and For All!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-essential-chatgpt-conversations-for-cryptocurrency-enthusiasts/"><u>Top 10 Essential ChatGPT Conversations for Cryptocurrency Enthusiasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-errorcachemiss-on-google-chrome-tips-and-solutions/"><u>Troubleshooting ERROR_CACHE_MISS on Google Chrome: Tips and Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-fortnites-start-up-success/"><u>Unlocking Fortnite's Start-Up Success</u></a></li>
+<li><a href="https://techidaily.com/update-your-hardware-drivers-with-device-manager-in-windows-10-by-drivereasy-guide/"><u>Update your hardware drivers with Device Manager in Windows 10</u></a></li>
 </ul></div>
 

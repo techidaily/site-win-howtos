@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for the D3D9 Graphics Device Failure Problem
-date: 2024-09-11T15:22:16.210Z
-updated: 2024-09-12T15:22:16.210Z
+date: 2024-12-18T18:41:55.368Z
+updated: 2024-12-22T20:35:09.411Z
 tags:
   - win11
   - win10
@@ -35,16 +35,7 @@ the picture was taken by: Article\_86
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -57,31 +48,11 @@ the picture was taken by: Article\_86
 4. [**Clear Google Chrome cache**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Get an ad-block extension
 
  Because this scam is a fraud page, technically it won’t do severe harm to your computer. The working mechanism of this scam is like an ad. Screening fraudulent users to defraud money. So an ad-block extension can help.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run a virus scan
 
@@ -100,19 +71,15 @@ the picture was taken by: Article\_86
 1. Double click the Google Chrome shortcut.
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Relaunch Chrome to take effect.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -127,24 +94,15 @@ the picture was taken by: Article\_86
 3. In the open window, click **Clear browsing data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Reset Google Chrome to default settings
 
@@ -155,30 +113,19 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/5.10-2.jpg)
 3. Scroll down to the bottom and click **Advanced** .
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -216,5 +163,21 @@ Spam emails may carry the form of download links or a file attachment.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/o-cost-sound-transformation-ultimate-10-youtube-tools/"><u>[New] No-Cost Sound Transformation Ultimate 10 YouTube Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-secrets-to-successful-live-sessions-obs-and-streaming-platforms-for-2024/"><u>[Updated] Secrets to Successful Live Sessions OBS and Streaming Platforms for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pajama-plots-reviewed-analyzing-childrens-video-stories/"><u>2024 Approved Pajama Plots Reviewed Analyzing Children's Video Stories</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cost-effective-home-theaters-must-have-gear-for-budget-movie-enthusiasts/"><u>Cost-Effective Home Theaters: Must-Have Gear for Budget Movie Enthusiasts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/global-leaders-in-real-time-gaming-streams-for-2024/"><u>Global Leaders in Real-Time Gaming Streams for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-svchostexe-using-excessive-cpu-resources-in-windows-10/"><u>How to Fix svchost.exe Using Excessive CPU Resources in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-rectify-the-stuck-state-of-notepad-on-windows-machines/"><u>How To Rectify the Stuck State of Notepad on Windows Machines</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-audio-malfunction-in-forza-horizon-4-a-step-by-step-guide/"><u>Resolved: Fixing the Audio Malfunction in Forza Horizon 4 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-for-repairing-ethernet-connection-errors-on-pc-windows-10-and-7/"><u>Step-by-Step Instructions for Repairing Ethernet Connection Errors on PC (Windows 10 and 7)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-insights-on-electronics/"><u>Tom's Tech Review: Comprehensive Insights on Electronics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-stop-windows-10-from-automatic-reboot-on-close/"><u>Troubleshooting: Stop Windows 10 From Automatic Reboot on Close</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-hp-deskjet-drivers-for-win11/"><u>Update HP DeskJet Drivers for Win11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205712471-windows-10-struggling-with-constant-airplane-mode-heres-your-solution/"><u>Windows 10 Struggling with Constant Airplane Mode? Here's Your Solution!</u></a></li>
+</ul></div>
 

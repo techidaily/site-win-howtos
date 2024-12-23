@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide for Resolving Boot Issues on Laptops and Desktops
-date: 2024-12-11T18:43:14.917Z
-updated: 2024-12-13T17:28:36.122Z
+date: 2024-12-18T17:01:42.254Z
+updated: 2024-12-22T17:03:33.909Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/ba76116c91cec15f733719364aa6184afdfb3d250
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -47,13 +43,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -76,7 +72,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
@@ -88,6 +84,10 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -126,6 +126,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -134,21 +138,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,22 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-priority-picks-high-rated-graphics-cards-for-seamless-playback/"><u>[New] 2024 Approved Priority Picks High-Rated Graphics Cards for Seamless Playback</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-unlocking-the-potential-with-samsungs-latest-photo-editor/"><u>[New] In 2024, Unlocking the Potential with Samsung's Latest Photo Editor</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-unveiling-the-magic-behind-shooting-images-with-iphones-hdr/"><u>[New] In 2024, Unveiling the Magic Behind Shooting Images with iPhone’s HDR</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-key-steps-to-successfully-infiltrating-your-dream-discord-server/"><u>[Updated] Key Steps to Successfully Infiltrating Your Dream Discord Server</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-quick-start-video-chatting-technique-for-snapchat-pros-for-2024/"><u>[Updated] Quick-Start Video Chatting Technique for Snapchat Pros for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-crafting-visual-magic-the-essentials-of-snapchat-photo-editing/"><u>2024 Approved Crafting Visual Magic The Essentials of Snapchat Photo Editing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/banish-the-reboot-loop-in-windows-10-quick-and-effective-fixes-for-stable-operation/"><u>Banish the Reboot Loop in Windows 10: Quick & Effective Fixes for Stable Operation</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/create-video-with-ai-avatar/"><u>Create Video with AI Avatar</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-troubleshooting-tips-to-get-your-lenovos-fingerprint-reader-back-on-track/"><u>Easy Troubleshooting Tips to Get Your Lenovo's Fingerprint Reader Back on Track</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-device-not-identified-on-your-intelligent-cultra-e-reader-device-icue/"><u>Effective Fixes for 'Device Not Identified' On Your Intelligent CUltra E-Reader Device (ICUE)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-on-forcing-your-windows-10-pc-to-properly-power-down-and-restart/"><u>Expert Tips on Forcing Your Windows 10 PC to Properly Power Down and Restart</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-wacom-stylus-issues-on-windows-11-and-windows-10-systems/"><u>How to Resolve Wacom Stylus Issues on Windows 11 and Windows 10 Systems</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/maccam-essentials-tips-and-tricks-recording/"><u>MacCam Essentials Tips and Tricks Recording</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-repairing-windows-10s-malfunctioning-sound-levels-solved/"><u>Mastering The Art Of Repairing Windows 10'S Malfunctioning Sound Levels (Solved)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-bluetooth-absent-on-your-pcs-device-manager/"><u>Resolving the Issue: Bluetooth Absent on Your PC's Device Manager</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/simplified-mac-imaging-mastering-5-easy-screenshot-methods/"><u>Simplified Mac Imaging Mastering 5 Easy Screenshot Methods</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trouble-with-netflix-streaming-top-solutions-for-when-netflix-fails/"><u>Trouble with Netflix Streaming? Top Solutions for When Netflix Fails</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-turn-your-twitter-videos-into-listenable-mp3s/"><u>[Updated] In 2024, Turn Your Twitter Videos Into Listenable MP3s</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-az-record-pro-detailed-app-analyses-and-backup-choices/"><u>2024 Approved AZ Record Pro Detailed App Analyses & Backup Choices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/device-silence-amidst-configuration-success/"><u>Device Silence Amidst Configuration Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-microsoft-wi-fi-dock-connection-issues-in-windows-10-a-comprehensive-guide/"><u>Fixing Microsoft Wi-Fi Dock Connection Issues in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-0x80070490-faulty-update-issue-on-your-pc-solved/"><u>How to Resolve 0X80070490 Faulty Update Issue on Your PC (Solved!)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-touchscreen-troubleshooting-in-windows-10-a-comprehensive-5-way-approach/"><u>Mastering Touchscreen Troubleshooting in Windows 10: A Comprehensive 5-Way Approach</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/maximizing-video-reach-sharing-twitters-content-on-facebooks-for-2024/"><u>Maximizing Video Reach Sharing Twitters' Content on Facebooks for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-complete-manual-of-sound-control-enhancing-your-live-stream-with-obs-ducking/"><u>New 2024 Approved The Complete Manual of Sound Control Enhancing Your Live Stream with OBS Ducking</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/next-gen-title-genius-for-online-content-creators-for-2024/"><u>Next-Gen Title Genius for Online Content Creators for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-x3daudio17dll-non-existence-issues/"><u>Overcome X3DAudio1_7.dll Non-Existence Issues</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfect-whatsapp-ringtones-for-iphone-and-android-users-for-2024/"><u>Perfect WhatsApp Ringtones for iPhone & Android Users for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/peripheral-vision-audit/"><u>Peripheral Vision Audit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reactivate-keyboard-glow-essential-fixes-for-non-functioning-backlight-on-your-macpc/"><u>Reactivate Keyboard Glow: Essential Fixes for Non-Functioning Backlight on Your Mac/PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-pop-8-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Pop 8</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-skype-mic-issues-on-windows-11/"><u>Troubleshooting Guide: How to Fix Skype Mic Issues on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-login-issues-in-windows-1011-with-user-profile-service-errors/"><u>Troubleshooting Login Issues in Windows 10/11 with User Profile Service Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-x3daudio17dll-play-games-effortlessly/"><u>Troubleshooting X3DAudio1_7.dll, Play Games Effortlessly</u></a></li>
 </ul></div>
 

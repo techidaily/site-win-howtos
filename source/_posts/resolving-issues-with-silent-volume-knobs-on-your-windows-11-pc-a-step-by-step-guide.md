@@ -1,7 +1,7 @@
 ---
 title: Resolving Issues with Silent Volume Knobs on Your Windows 11 PC - A Step-by-Step Guide
-date: 2024-09-11T15:22:42.177Z
-updated: 2024-09-12T15:22:42.177Z
+date: 2024-12-21T20:26:32.949Z
+updated: 2024-12-22T18:09:22.409Z
 tags:
   - win11
   - win10
@@ -37,10 +37,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
@@ -48,38 +45,19 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
@@ -100,13 +78,6 @@ Here’s how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -118,28 +89,23 @@ To do so:
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
@@ -173,5 +139,18 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-virtual-realitys-basic-words/"><u>[Updated] Understanding Virtual Reality's Basic Words</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/cutting-edge-methods-to-record-and-save-lectures-on-imac/"><u>Cutting-Edge Methods to Record and Save Lectures on iMac</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discover-essential-apple-maps-functions-a-guide-to-its-top-10-hidden-gems/"><u>Discover Essential Apple Maps Functions: A Guide to Its Top 10 Hidden Gems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-silent-speech-problems-for-gamers-playing-on-pc/"><u>Fixing Silent Speech Problems for Gamers Playing on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-11-continuous-reboot-problem-simple-steps/"><u>Fixing the Windows 11 Continuous Reboot Problem - Simple Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-to-your-corsair-hs50-mic-expert-advice/"><u>How to Restore Functionality to Your Corsair HS50 Mic - Expert Advice</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-apple-iphone-8-plus-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From Apple iPhone 8 Plus? 5 Tips You Must Know</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/mastering-multimedia-slides-with-speech-recordings-powerpoint/"><u>Mastering Multimedia Slides with Speech Recordings (PowerPoint)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimize-win1011-drop-high-cpu-in-wmi/"><u>Optimize Win10/11: Drop High CPU in WMI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-guide-when-windows-fails-to-access-the-event-viewer-service/"><u>Resolved: Troubleshooting Guide When Windows Fails to Access the Event Viewer Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-consistency-how-your-files-remain-unmoved-after-restarting/"><u>Windows 11 Consistency: How Your Files Remain Unmoved After Restarting</u></a></li>
+</ul></div>
 

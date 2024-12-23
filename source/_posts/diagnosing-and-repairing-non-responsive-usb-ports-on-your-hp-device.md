@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Non-Responsive USB Ports on Your HP Device
-date: 2024-12-11T21:12:19.394Z
-updated: 2024-12-13T19:07:37.268Z
+date: 2024-12-16T22:35:40.796Z
+updated: 2024-12-23T00:53:39.076Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -47,10 +43,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
@@ -60,6 +52,10 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -74,6 +70,10 @@ Here’s how to reinstall the keyboard driver:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
@@ -104,7 +104,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
@@ -112,10 +112,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -125,6 +121,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -138,6 +138,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
@@ -145,10 +149,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,22 +184,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/new-world-successful-resolution-of-earlier-easy-anti-cheat-errors-ready-for-players/"><u>'New World': Successful Resolution of Earlier 'Easy Anti-Cheat Errors', Ready for Players!</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-premier-pro-blueprints-exclusive-free-2023-collection/"><u>[New] In 2024, Premier Pro Blueprints - Exclusive FREE 2023 Collection</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-oppo-find-n3-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Oppo Find N3 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/destiny-troubleshooting-guide-resolving-initialization-stuck-problems/"><u>Destiny # Troubleshooting Guide: Resolving Initialization Stuck Problems</u></a></li>
-<li><a href="https://discover-community.techidaily.com/effiziente-datentragerbereinigung-mit-hirens-bootcd-fur-windows-systeme/"><u>Effiziente Datenträgerbereinigung Mit Hirens BootCD Für Windows-Systeme</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guia-simple-para-transformar-archivos-de-codificacion-hevc-en-mp4-sin-degradacion-visual/"><u>Guía Simple Para Transformar Archivos De Codificación HEVC en MP4 Sin Degradación Visual</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212043808-how-to-fix-access-denied-file-and-folder-errors-on-windows/"><u>How to Fix “Access Denied” File and Folder Errors on Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/i3-premium-free-dvd-converters-for-widnows-efficaci-rip-dvd-a-mp4-avi-o-wmv-su-windows-10/"><u>I3 Premium-Free DVD Converters for Widnows | Efficaci Rip DVD a MP4, AVI O WMV Su Windows 10</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-iphone-12-pro-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On iPhone 12 Pro without Password?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-laptop-charging-problems-expert-advice-to-revive-your-battery-fast/"><u>Overcome Laptop Charging Problems: Expert Advice to Revive Your Battery Fast</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restoring-accurate-copy-and-paste-on-windows-10-system/"><u>Restoring Accurate Copy and Paste on Windows 10 System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-servers-unavailable-in-destiny-2-expert-troubleshooting-steps/"><u>Solving 'Servers Unavailable' In Destiny 2: Expert Troubleshooting Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-when-your-usb-and-hdmi-adapter-fails/"><u>Step-by-Step Solution for When Your USB and HDMI Adapter Fails</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-endgame-resolving-nvidia-installation-issues/"><u>The Endgame: Resolving NVIDIA Installation Issues</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-discovering-the-veracity-in-luminances-hdr/"><u>[Updated] In 2024, Discovering the Veracity in Luminance’s HDR</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-illumination-innovations-advanced-lighting-in-video-making/"><u>[Updated] In 2024, Illumination Innovations Advanced Lighting in Video Making</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-stabilized-mobile-shooting-with-precision-mounts/"><u>[Updated] In 2024, Stabilized Mobile Shooting with Precision Mounts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-x-sonic-recorder-desktop-format-for-2024/"><u>[Updated] X-Sonic Recorder Desktop Format for 2024</u></a></li>
+<li><a href="https://win-docs.techidaily.com/complete-guide-retrieving-deleted-documents-in-windows-11/"><u>Complete Guide: Retrieving Deleted Documents in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-steps-to-repairing-a-malfunctioning-computer-or-device/"><u>Expert Guide: Steps to Repairing a Malfunctioning Computer or Device</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-understanding-macos-big-sur-minimum-requirements/"><u>In 2024, Understanding MacOS Big Sur Minimum Requirements</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-volume-is-dirty-problem-with-step-by-step-solution-for-error-0x80071ac3/"><u>Resolve 'Volume Is Dirty' Problem with Step-by-Step Solution for Error 0X80071AC3</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-minecraft-performance-woes-ultimate-guide-to-eliminating-lag/"><u>Resolve Your Minecraft Performance Woes: Ultimate Guide to Eliminating Lag</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-resolving-nonfunctional-typing-on-your-keyboard/"><u>Solved: Resolving Nonfunctional Typing on Your Keyboard</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/top-4-sencillas-tecnicas-para-rescatar-su-unidad-wd-my-cloud-sin-complicaciones/"><u>Top 4 Sencillas Técnicas Para Rescatar Su Unidad WD My Cloud Sin Complicaciones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/when-algorithms-fail-the-perils-of-generative-ai/"><u>When Algorithms Fail: The Perils of Generative AI</u></a></li>
 </ul></div>
 

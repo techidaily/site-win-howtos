@@ -1,7 +1,7 @@
 ---
 title: Complete Guide to Solving PUBG Buildings Not Loading Problems
-date: 2024-12-12T16:14:36.263Z
-updated: 2024-12-13T21:35:51.942Z
+date: 2024-12-19T17:19:51.888Z
+updated: 2024-12-23T00:49:16.022Z
 tags:
   - win11
   - win10
@@ -46,12 +46,12 @@ Before start using the methods, you should check your connection first.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Correct your time and location
 
@@ -63,11 +63,15 @@ Before start using the methods, you should check your connection first.
 3. Check your time and date.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click**Region** and check your region is corrected.![](https://images.drivereasy.com/wp-content/uploads/2019/06/region-1.jpg)
 5. Open the Microsoft Store to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Use the WSReset tool
 
@@ -78,7 +82,7 @@ Before start using the methods, you should check your connection first.
 3. There will be a command window pop-up. Wait for it to close by itself, then the Microsoft Store will be launched automatically.![](https://images.drivereasy.com/wp-content/uploads/2019/06/wsreset.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Disable the Proxy connection
@@ -89,18 +93,14 @@ Before start using the methods, you should check your connection first.
 2. In the Connections tab, click**LAN settings** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/ip.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. If you see the box under the**Proxy server** is ticked, uncheck**Use a proxy server for your LAN** then click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/ip1.jpg)
 4. Run the Microsoft Store and check the problem is solved or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Use Microsoft Store troubleshoot
@@ -117,7 +117,7 @@ Before start using the methods, you should check your connection first.
 5. Run the Microsoft Store to check the problem is solved or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 6: Reset Microsoft Store from settings
@@ -127,12 +127,12 @@ Before start using the methods, you should check your connection first.
 1. Press the**Windows key** +**I** together and click**Apps** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/app.jpg)
 2. Scroll down to find Microsoft Store.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click the**Microsoft Store** and then click**Advanced options** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/app1.jpg)
 4. Scroll down and click**Reset** . Click**Reset** again in the pop-up window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : This step will permanently delete the app’s data including your sign-in details.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/app2.jpg)
@@ -157,21 +157,22 @@ Before start using the methods, you should check your connection first.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-discover-instagram-stories-in-private-mode/"><u>[New] 2024 Approved Discover Instagram Stories In Private Mode</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-finding-premium-photography-without-spending/"><u>[New] Finding Premium Photography Without Spending</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-full-guide-to-adobe-cloud-storage-and-best-alternatives/"><u>[New] In 2024, Full Guide to Adobe Cloud Storage and Best Alternatives</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effective-tips-for-capturing-clickmeeting-sessions-a-comprehensive-walkthrough/"><u>Effective Tips for Capturing ClickMeeting Sessions - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-tecno-camon-30-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Tecno Camon 30 Pro 5G Devices</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-10-mindfulness-moments-in-mobile-games/"><u>In 2024, Top 10 Mindfulness Moments in Mobile Games</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-infinix-hot-30i-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Infinix Hot 30i FRP Bypass</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ating-youtube-music-eclecticism/"><u>Navigating YouTube Music Eclecticism</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-scroll-wheel-troubleshooting-tips-for-restoring-functionality-on-a-logitech-mouse/"><u>Overcoming Scroll Wheel Troubleshooting: Tips for Restoring Functionality on a Logitech Mouse.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-overcoming-setbacks-in-installing-the-windows-10-may-2019-update-v1903/"><u>Resolved! Overcoming Setbacks in Installing the Windows 10 May 2019 Update (V1903)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-connection-errors-a-guide-to-reconnecting-with-a-distant-server/"><u>Solving Connection Errors: A Guide to Reconnecting with a Distant Server</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-overcoming-the-80072ee2-error-in-windows-updates/"><u>Step-by-Step Fixes for Overcoming the 80072EE2 Error in Windows Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tips-for-correcting-the-rpc-server-unavailable-error-on-windows-machines/"><u>Step-by-Step Tips for Correcting the 'RPC Server Unavailable Error' On Windows Machines</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/trouble-with-handbrake-on-windows-discover-easy-repairs-and-backup-options-for-users-of-windows-1011/"><u>Trouble with HandBrake on Windows? Discover Easy Repairs and Backup Options for Users of Windows 10/11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-resolving-the-windows-update-failed-with-error-80244019/"><u>Troubleshooting Guide for Resolving the 'Windows Update Failed with Error 80244019'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-when-google-chrome-wont-respond/"><u>Troubleshooting Guide for When Google Chrome Won't Respond</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-productive-online-team-sessions/"><u>[New] 2024 Approved The Ultimate Guide to Productive Online Team Sessions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-twisting-the-tape-youtube-video-rotation-techniques-unveiled/"><u>[Updated] 2024 Approved Twisting the Tape YouTube Video Rotation Techniques Unveiled</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-savvy-sponsorship-strategies-for-small-scale-sites/"><u>[Updated] Savvy Sponsorship Strategies for Small-Scale Sites</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-and-tips-resolving-mic-issues-in-windows-10/"><u>Fixes & Tips: Resolving Mic Issues in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-brightness-functionality-in-windows-10-pcs/"><u>How To Restore Brightness Functionality in Windows 10 PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-we-overcame-the-problem-of-contacting-a-non-responsive-dhcp-server/"><u>How We Overcame the Problem of Contacting a Non-Responsive DHCP Server</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-14-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 14 Plus After Forgetting the Passcode?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-v29-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo V29 Phone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-moto-g-stylus-5g-2023-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Moto G Stylus 5G (2023), is it possible?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-key-stickiness-on-new-windows-operating-systems-a-comprehensive-fix-guide/"><u>Resolving Key Stickiness on New Windows Operating Systems: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-access-denied-by-microsoft-exchange-for-your-email-client/"><u>Resolving the Issue: Access Denied by Microsoft Exchange for Your Email Client</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-tips-for-non-working-dvds-in-windows-media-player/"><u>Solution Tips for Non-Working DVDs in Windows Media Player</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-repair-tips-for-non-responsive-dell-wireless-keyboards/"><u>Step-by-Step Repair Tips for Non-Responsive Dell Wireless Keyboards</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/superlative-soundstages-written-by-pros-for-2024/"><u>Superlative Soundstages Written by Pros for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-your-notification-interface-in-win-11/"><u>Tailoring Your Notification Interface in Win 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-the-livekernelevent-117-mistake/"><u>Ultimate Guide: Resolving the LiveKernelEvent 117 Mistake</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-uncontrollable-scroll-troubleshooting-steps/"><u>Windows Uncontrollable Scroll: Troubleshooting Steps</u></a></li>
 </ul></div>
 

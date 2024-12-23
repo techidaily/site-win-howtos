@@ -1,7 +1,7 @@
 ---
 title: "How to Fix the Windows 10 KB4936312 Update Issue (Error Code: 0X80240034)"
-date: 2024-12-08T16:11:07.633Z
-updated: 2024-12-13T16:52:44.582Z
+date: 2024-12-16T16:53:06.544Z
+updated: 2024-12-22T17:01:18.922Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 4. [**Modify Registry Editor**](#Method5)
 5. **[Bonus Tip](#b1)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Why does the error 0x80070002 occur?
 
  This error code may vary from different Windows versions. In Windows XP, you will see the error code **0x80070002** . While in Windows 10/8/7, you will see the error code **80070002** .
@@ -43,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
  This problem happens when some files in the Windows Update are missing or corrupted, even though the update is downloaded and extracted successfully, or the driver faulty issue. So you can work it through by these methods until it solves your problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 1: Check the Date and Time settings**
 
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a01819233c7d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Change date and time** to make sure that the date and time is correct on your Windows, then click**OK** .
@@ -74,17 +74,21 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181f1e2bac.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click the**Internet Time** tab at the top, then click**Change Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018705735c3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Make sure to check the box next to**Synchronize with an Internet time server** , and click**Update now** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0182e74a509.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Click**OK** to finish the settings.
 
@@ -97,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018c0f66b68.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Respectively type**time** ,**date** , and **w32tm/resync**  in the window, and press**Enter** after each command. If the time and date are incorrect after running, you can type the correct time and date in the window and press**Enter** .
@@ -132,10 +136,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-10_11-51-40-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Step 2: Delete the Software Distribution Folder
 
  1) Double-click the drive where your Windows is installed, generally in**C drive** .
@@ -163,7 +163,7 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Windows-update-Start-1200x690.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart your Windows and try Windows Update again to see if it solves the problem.
@@ -178,6 +178,10 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0177a875597.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Run the downloaded file.
 
  3) Click**Windows Update** , and click**Next** .
@@ -185,7 +189,7 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0175eea504b.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Then it will run and try to fix the problem. After completing, restart your computer and try Windows Update again to see if it works.
@@ -193,7 +197,7 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 4: Modify Registry Editor**
@@ -221,10 +225,6 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
  6) Change the value name to **AllowOSUpgrade** , after which you can double-click the number under Value data and enter**1** . Select **Hexadecimal** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a781900ea1c1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Restart your computer and try again to see if it works.
 
@@ -277,22 +277,14 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-inside-look-whatsapps-vocal-messaging-network/"><u>[New] Inside Look WhatsApp's Vocal Messaging Network</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-exploring-ffmpegs-prowess-in-the-preservation-of-original-soundscape/"><u>[Updated] 2024 Approved Exploring FFmpeg’s Prowess in the Preservation of Original Soundscape</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-insta-growth-the-10-most-important-hashtags-now/"><u>[Updated] Insta Growth The 10 Most Important Hashtags Now</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-successfully-fixing-steam-installation-or-update-malfunctions/"><u>Guide to Successfully Fixing Steam Installation or Update Malfunctions</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo T2x 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-error-8007000e-in-windows-updates-step-by-step-guide/"><u>How To Resolve Error 8007000E in Windows Updates – Step-By-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-the-right-click-button-functionality-in-windows-11-systems/"><u>How to Restore the Right Click Button Functionality in Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-the-working-state-of-speakers-and-sound-devices-in-windows-11/"><u>How to Restore the Working State of Speakers and Sound Devices in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-touchscreen-functionality-when-its-not-responding/"><u>How to Restore Touchscreen Functionality When It's Not Responding</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/impressive-endurance-and-stunning-visuals-a-comprehensive-review-of-one-of-the-most-durable-laptops-with-an-amazing-screen/"><u>Impressive Endurance & Stunning Visuals: A Comprehensive Review of One of the Most Durable Laptops with an Amazing Screen</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-top-tiktok-watermark-removal-tools-to-boost-your-videos/"><u>New 2024 Approved Top TikTok Watermark Removal Tools to Boost Your Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixes-when-your-computer-wont-boot-up-properly/"><u>Resolved: Fixes When Your Computer Won't Boot Up Properly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-touchpad-a-device-mastering-quest/"><u>Revive Your Touchpad: A Device Mastering Quest</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/safeguarding-professional-confidentiality-tips-for-securely-utilizing-chatgpt-in-the-office/"><u>Safeguarding Professional Confidentiality: Tips for Securely Utilizing ChatGPT in the Office</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simplify-your-workflow-with-these-essential-windows-10-file-explorer-hacks/"><u>Simplify Your Workflow with These Essential Windows 10 File Explorer Hacks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-effective-methods-for-restricting-website-access-on-your-android-device/"><u>Step-by-Step Guide: Effective Methods for Restricting Website Access on Your Android Device</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-exploring-5-engaging-book-promo-videos/"><u>[New] In 2024, Exploring 5 Engaging Book Promo Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-frontier-of-gesture-based-technology-advancements/"><u>[New] The Frontier of Gesture-Based Technology Advancements</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-art-of-livestreaming-seminars-at-no-expense-for-2024/"><u>[Updated] The Art of Livestreaming Seminars at No Expense for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-brilliance-at-a-click-choosing-5-pioneering-apps-for-video/"><u>2024 Approved Brilliance at a Click Choosing 5 Pioneering Apps for Video</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-and-efficient-fixes-to-solve-the-windows-setup-problems/"><u>Fast & Efficient Fixes to Solve the Windows Setup Problems</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-common-mousepad-connectivity-issues-in-windows-operating-systems-tips-and-tricks-for-win7-to-win10/"><u>Overcoming Common Mousepad Connectivity Issues in Windows Operating Systems: Tips & Tricks for Win7 to Win10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-microsoft-store-access-problems-for-windows-users/"><u>Solving Microsoft Store Access Problems for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/what-to-do-when-your-pc-runs-on-windows-11-and-wont-respond/"><u>What To Do When Your PC Runs on Windows 11 & Won't Respond?</u></a></li>
 </ul></div>
 

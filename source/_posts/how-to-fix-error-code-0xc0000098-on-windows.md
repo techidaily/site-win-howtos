@@ -1,7 +1,7 @@
 ---
 title: How to Fix Error Code 0Xc0000098 on Windows
-date: 2024-12-11T22:06:23.989Z
-updated: 2024-12-13T17:09:10.121Z
+date: 2024-12-19T19:47:36.233Z
+updated: 2024-12-22T21:25:15.280Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
 5. **[Disable the auto tuning feature](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Why does the error 651 occur?**
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
  Error 651 is a common error for Windows users. It occurs when we try to connect using**PPPoE connection** . PPPoE stands for**Point to Point Protocol over Ethernet** , and it remotely connects multiple PC users on an Ethernet local area network.
 
  Error 651 occurs because of various reasons, such as the incorrect **Internet and IP configuration or the network card driver issue** . Although you may not be able to locate the exact cause of this problem, you can try the following methods to troubleshoot the problem and solve it step by step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Method 1: Restart your computer and modem**
 
@@ -85,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a00cda6fc.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the network device to download the correct driver (you can do that with the**FREE** version).
@@ -97,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at**<support@drivereasy.com>** for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
 
  4) After updating the driver, restart your computer, then try to connect again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Method 3: Troubleshoot settings in Network and Sharing Center**
 
@@ -114,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3096248a096.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3094b17d852.png)
@@ -129,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
  4) Uncheck the box next to**Internet Protocol Version 6 (TCP/IPv6)** . Then c  lick**OK** to save the settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3095cc11d0a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Reconnect to the network to see if your problem is solved.
 
@@ -149,7 +141,7 @@ If the problem still persists, you can try the next solution below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30962dc7683.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Change adapter settings** .
@@ -160,13 +152,13 @@ If the problem still persists, you can try the next solution below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a982ef43d.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right click the**original dial up connection** , and select**Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a31fb3ac0375.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Try connecting to the network again to see if it works.
 
@@ -175,6 +167,10 @@ If the problem still persists, you can try the next solution below:
  1) Right click the**Internet icon** at the bottom right corner, and click**Open Network and Sharing Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30962dc7683.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**Set up a new connection or network** .
 
@@ -189,16 +185,12 @@ If the problem still persists, you can try the next solution below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309b7a09937.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Select**Broadband (PPPoE)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309bc071482.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Enter the**username** and**password** provided by your Internet Service Provider (ISP), and click**Connect** .
 
@@ -222,6 +214,10 @@ netsh int ip reset reset.log
 
  3) After the command completed, restart your PC and try to connect again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 5: Disable the auto tuning feature**
 
  The Windows auto-tuning feature enables your Windows to continually monitor routing conditions such as**bandwidth**  and **network delay** . It is turned on by default in your computer.**If you are using the router** as a connecting device, this method probably works for you. Follow the steps below:
@@ -235,6 +231,10 @@ netsh int ip reset reset.log
 Netsh interface tcp set global autotuning=disabled
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309cf60ba01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) After the command completed, try your Internet connection again to see if it works.
 
@@ -257,16 +257,18 @@ Netsh interface tcp set global autotuning=disabled
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-leveraging-the-strengths-of-ez-grabber-software/"><u>[New] Leveraging the Strengths of EZ Grabber Software</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-streamlining-movie-file-processing-in-windows-11/"><u>[Updated] Streamlining Movie File Processing in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnose-and-fix-non-working-windows-key-errors-on-windows-10-devices/"><u>Diagnose and Fix Non-Working Windows Key Errors on Windows 10 Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-best-7-apps-to-wake-up-to-our-expert-picks/"><u>Discover the Best 7 Apps to Wake Up To: Our Expert Picks!</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/indispensable-sandbox-journeys-await-in-2024/"><u>Indispensable Sandbox Journeys Await, In 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premium-pctablet-mkv-reader/"><u>Premium PC/Tablet MKV Reader</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-10-update-issues-a-step-by-step-guide/"><u>Resolving Windows 10 Update Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210246674-squamous-cell-carcinoma-usually-appears-as-a-central-tumor-and-can-lead-to-local-obstruction-symptoms/"><u>Squamous Cell Carcinoma Usually Appears as a Central Tumor and Can Lead to Local Obstruction Symptoms.</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/top-ranked-photo-restoration-app/"><u>Top-Ranked Photo Restoration App</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-lost-vcruntime1n40dll-file-expert-tips-and-tricks/"><u>Troubleshooting the Lost VCRUNTIME1n40.dll File - Expert Tips & Tricks</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-xr-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone XR Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-elevate-your-creative-workflow-detailed-insights-into-photoshops-background-eraser-feature/"><u>[New] 2024 Approved Elevate Your Creative Workflow Detailed Insights Into Photoshop's Background Eraser Feature</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-instagrams-filter-system-free-at-your-fingertips/"><u>[New] Mastering Instagram's Filter System – Free, at Your Fingertips</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-comedy-in-a-click-best-funny-short-video-suggestions-for-youtubers-for-2024/"><u>[Updated] Comedy in a Click Best Funny Short Video Suggestions for YouTubers for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-archive-your-antics-a-practical-guide-to-capturing-and-storing-gif-images-from-twitter/"><u>2024 Approved Archive Your Antics A Practical Guide to Capturing and Storing GIF Images From Twitter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-svchostexe-netsvcs-how-to-address-network-resource-drain-and-improve-system-performance/"><u>Decoding svchost.exe (Netsvcs): How to Address Network Resource Drain and Improve System Performance</u></a></li>
+<li><a href="https://win-popular.techidaily.com/downloading-high-definition-belly-dance-tutorials-as-mp4-files-on-pc-and-mac-systems/"><u>Downloading High-Definition Belly Dance Tutorials as MP4 Files on PC & Mac Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-on-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>How to Screen Mirror on Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-efficient-resource-usage-control-your-desktop-window-managers-gpu-demands-on-windows-1011/"><u>Mastering Efficient Resource Usage: Control Your Desktop Window Manager's GPU Demands on Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-resolving-steam-cant-write-to-disk-issues/"><u>Quick Solutions: Resolving 'Steam Can't Write to Disk' Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-access-denied-why-you-can-now-enter/"><u>Resolved: Access Denied – Why You Can Now Enter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-unregistered-class-errors-on-your-windows-10-pc-solutions-inside/"><u>Resolving Unregistered Class Errors on Your Windows 10 PC - Solutions Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-common-issues-and-fixes-for-the-logitech-g533-usb-mic/"><u>Solved! Common Issues and Fixes for the Logitech G533 USB Mic</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-astro-a40-microphone-issues/"><u>Troubleshooting Guide: Fixing Astro A40 Microphone Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solution Steps: Getting Your Night Light Back on Windows 11 and 11X Versions"
-date: 2024-12-10T18:24:45.371Z
-updated: 2024-12-13T22:29:57.026Z
+date: 2024-12-19T16:09:08.510Z
+updated: 2024-12-22T22:56:42.561Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes for speakers crackling
 
  All the screenshots below are from**Windows 10** , but the fixes also work in**Windows 7** .
@@ -47,6 +43,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press   **the Windows logo key**  and type**audio** , then click**Manage audio devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
@@ -73,20 +73,20 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
 
@@ -96,15 +96,11 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
@@ -112,6 +108,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
@@ -137,22 +137,19 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-enhancing-audience-connection-through-android-and-ios-streams/"><u>[New] Enhancing Audience Connection Through Android & iOS Streams</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/our-makeup-maestro-journey-establishing-a-channel-for-beauty-buffs-for-2024/"><u>[New] Your Makeup Maestro Journey Establishing a Channel for Beauty Buffs for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mobilize-your-storytelling-crafting-content-with-a-phone/"><u>[Updated] Mobilize Your Storytelling Crafting Content with a Phone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/boosting-visibility-key-steps-in-submitting-on-reddit/"><u>Boosting Visibility Key Steps in Submitting on Reddit</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/execution-inhibited-awaiting-signal/"><u>Execution Inhibited: Awaiting Signal</u></a></li>
-<li><a href="https://win-special.techidaily.com/gratis-brannprogram-for-windows-bast-programrar-i-6-steg-for-windows-1187/"><u>Gratis Brännprogram För Windows: Bäst Programrar I 6 Steg - För Windows 11/8/7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/lenovo-mouse-pad-malfunctions-in-windows-top-troubleshooting-steps-for-windows-1087-users/"><u>Lenovo Mouse Pad Malfunctions in Windows: Top Troubleshooting Steps for Windows 10/8/7 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/masterful-strategies-overcoming-writing-controller-challenges-on-xbox-platforms-a-detailed-walkthrough/"><u>Masterful Strategies: Overcoming Writing Controller Challenges on Xbox Platforms - A Detailed Walkthrough</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-top-10-free-browser-based-daws-for-creatives-for-2024/"><u>New Top 10 Free Browser-Based DAWs for Creatives for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revamped-guide-ultimate-tips-to-eliminate-minecraft-performance-problems/"><u>Revamped Guide: Ultimate Tips to Eliminate Minecraft Performance Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-fixes-for-when-your-pc-gets-stuck-during-windows-update-at-0/"><u>Simple Fixes for When Your PC Gets Stuck During Windows Update at 0%</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-errcachemiss-problem-in-google-chrome-a-step-by-step-guide/"><u>Solving the ERR_CACHE_MISS Problem in Google Chrome: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steps-to-restore-your-computers-sound-after-no-audio-device-found-on-windows/"><u>Steps to Restore Your Computer's Sound After 'No Audio Device Found' On Windows</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-lasting-linguistic-legacy-of-the-english-playwright/"><u>The Lasting Linguistic Legacy of the English Playwright</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-the-sims-4-wont-open-problem/"><u>Troubleshooting Steps: Resolving the 'Sims 4 Won't Open' Problem</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-the-dark-screen-issue-on-your-android-device/"><u>Ultimate Guide: Resolving the Dark Screen Issue on Your Android Device</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/usbsd/"><u>USBメモリまたはSDカードからコマンドラインで削除されたファイルの回復手順</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-how-to-upload-a-video-to-instagram-from-a-desktop/"><u>[Updated] How to Upload a Video to Instagram From a Desktop</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-essential-screen-capture-techniques-for-powerpoint-presentations/"><u>2024 Approved Essential Screen Capture Techniques for PowerPoint Presentations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-navigate-the-world-of-podcast-seo-efficiently/"><u>2024 Approved Navigate the World of Podcast SEO Efficiently</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-motorola-moto-e13-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Motorola Moto E13? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-evaluation-of-the-oneplus/"><u>Comprehensive Evaluation of the OnePlus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dxgidll-woes-pubgs-triumphant-fix/"><u>Dxgi.dll Woes: PUBG's Triumphant Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-usb-device-recognition-problems-the-definitive-guide-to-descriptor-request-failure/"><u>Overcoming USB Device Recognition Problems: The Definitive Guide to 'Descriptor Request Failure'</u></a></li>
+<li><a href="https://article-posts.techidaily.com/quantum-hdr-phenomenon-in-digital-photography/"><u>Quantum HDR Phenomenon in Digital Photography</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/secrets-to-finding-excellent-economic-pictures-online/"><u>Secrets to Finding Excellent, Economic Pictures Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-when-your-dhcp-server-is-not-responding/"><u>Step-by-Step Solution for When Your DHCP Server Is Not Responding</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-reactivating-your-devices-bluetooth-functionality/"><u>Troubleshooting Tips: Reactivating Your Device's Bluetooth Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-defender-issues-why-wrp-cant-complete-operations/"><u>Troubleshooting Windows Defender Issues: Why WRP Can’t Complete Operations</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-solution-for-downloading-and-installing-a-dell-mouse-driver/"><u>Ultimate Solution for Downloading & Installing a Dell Mouse Driver</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo Y78t? | Dr.fone</u></a></li>
 </ul></div>
 

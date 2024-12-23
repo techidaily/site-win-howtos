@@ -1,7 +1,7 @@
 ---
 title: Resolve Laptop Screen Turn-Off Problems Quickly and Effectively!
-date: 2024-09-05T10:10:35.251Z
-updated: 2024-09-06T10:10:35.251Z
+date: 2024-12-15T17:55:50.948Z
+updated: 2024-12-22T18:41:54.260Z
 tags:
   - win11
   - win10
@@ -13,28 +13,10 @@ excerpt: This Article Describes Resolve Laptop Screen Turn-Off Problems Quickly 
 thumbnail: https://thmb.techidaily.com/823f23c7edcedac53296943724a2a5d85768ba365fc03ece8dfb85ac34b0b238.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Resolve Laptop Screen Turn-Off Problems Quickly and Effectively
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1382d66a329.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Computer keeps going to sleep?** Don’t worry. This is one of the common issues in Windows 10 and Windows 7\. You can fix it easily with one of the solutions below.
 
  We’ve put together**five** solutions below for you to fix the problem. You may not have to try them all; just work your way down until you find the one that works for you.
@@ -45,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/823f23c7edcedac53296943724a2a5d85768ba365
 4. [**Change the System unattended sleep timeout to a longer time**](#way4)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 1: Check the power settings
 
@@ -58,32 +44,23 @@ thumbnail: https://thmb.techidaily.com/823f23c7edcedac53296943724a2a5d85768ba365
 4. Click**Change when the computer sleeps** in the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13709ea5614.jpg)
 5. Choose the sleep and display settings that you want your computer to use.  
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4a) Change the**Turn off the display** setting to whatever value you desire. You don’t have to set it to Never if you don’t want to.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137143ae4bb.jpg)  
  4b) Change the**Put the computer to sleep** setting to whatever value you desire. It’s recommended to set it to**Never** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1371d25d798.jpg)
 6. Click**Save changes** .
 7. Check to see if the computer still keeps going to sleep.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 2: Update the graphics card driver
 
@@ -100,21 +77,9 @@ thumbnail: https://thmb.techidaily.com/823f23c7edcedac53296943724a2a5d85768ba365
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 3: Disable the screen saver
 
  The screen saver is the utility built in Windows. It will be activated after a certain period of Windows inactivity. If the screen saver is set to blank, and the wait time is 5 minutes, it’ll look like your screen has turned off or gone to sleep mode. So you can disable the screen saver and see if the problem persists.
@@ -129,26 +94,13 @@ thumbnail: https://thmb.techidaily.com/823f23c7edcedac53296943724a2a5d85768ba365
 3. Click**Screen saver settings** at the bottom of the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **For Windows 7:**
 
@@ -158,12 +110,11 @@ thumbnail: https://thmb.techidaily.com/823f23c7edcedac53296943724a2a5d85768ba365
 3. Click the**Change screen saver** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
 4. Set**Screen saver** to**None** .  
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137497cb6ce.jpg)
 5. Check to see if your computer keeps going to sleep.
 
@@ -190,12 +141,11 @@ thumbnail: https://thmb.techidaily.com/823f23c7edcedac53296943724a2a5d85768ba365
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
 5. Click the**OK** button.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Exit the Registry Editor.
 
 **Secondly, reset the System unattended sleep timeout period.**
@@ -204,31 +154,23 @@ thumbnail: https://thmb.techidaily.com/823f23c7edcedac53296943724a2a5d85768ba365
 2. **View by Large icons** , and click**Power Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376290956d.jpg)
 3. Click the **Change plan settings** under your selected power plan.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Expand the entry**Sleep** , then expand the entry**System unattended sleep timeout** . The value for this setting will probably be set to 2 minutes –**change it to a longer time** , for example, 30 minutes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376fc0269a.jpg)
 6. Click**OK** to save the changes.
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Check to see if the computer keeps going to sleep.
 
 ---
@@ -243,8 +185,6 @@ thumbnail: https://thmb.techidaily.com/823f23c7edcedac53296943724a2a5d85768ba365
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,4 +192,16 @@ thumbnail: https://thmb.techidaily.com/823f23c7edcedac53296943724a2a5d85768ba365
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-elevating-your-facebook-presence-dji-drone-streaming-tips/"><u>[New] In 2024, Elevating Your Facebook Presence DJI Drone Streaming Tips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-insta-flip-techniques-rotate-videos-for-max-impact/"><u>[New] Insta-Flip Techniques Rotate Videos for Max Impact</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-hp-and-chromebook-guide-to-live-video-capture/"><u>[Updated] In 2024, HP & Chromebook Guide to Live Video Capture</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bose-soundlink-setup-simplified-easy-steps-to-connect-any-device-wirelessly/"><u>Bose Soundlink Setup Simplified: Easy Steps to Connect Any Device Wirelessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decode-microsofts-0x80070490-error-code-complete-fixes-unveiled-for-windows-users/"><u>Decode Microsoft's 0X80070490 Error Code - Complete Fixes Unveiled for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-0x802amoze-a-comprehensive-guide-for-fixing-windows-updates-in-widows-1011/"><u>Error Code 0X802amoze: A Comprehensive Guide for Fixing Windows Updates in Widows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-broken-usb-port-on-your-dell-device-a-step-by-nstep-guide/"><u>How to Repair a Broken USB Port on Your Dell Device – A Step-by-nStep Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-top-10-best-free-video-editors-for-ubuntu/"><u>New Top 10 Best Free Video Editors for Ubuntu</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-youtube-sound-playback-issue-in-windows-10/"><u>Resolving the YouTube Sound Playback Issue in Windows 10</u></a></li>
+</ul></div>
 

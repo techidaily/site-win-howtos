@@ -1,7 +1,7 @@
 ---
 title: Laptop Microphone Malfunction? Here's the Solution!
-date: 2024-12-07T18:03:25.193Z
-updated: 2024-12-13T16:12:52.768Z
+date: 2024-12-18T19:33:21.504Z
+updated: 2024-12-23T00:32:34.458Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ Read on this small guide and follow to solve the problem on your Windows.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Diagnostics Policy Service?
 
  The Diagnostic Policy Service enables problem detection, troubleshooting and resolution for Windows components on your Windows operating system. If this service is not running, diagnostics will no longer function.
@@ -54,27 +58,31 @@ Follow these steps：
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f28bd6d2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Locate**Diagnostics Policy Service** , right-click on it to select**Start** , if Start grayed out, click**Restart** instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f6a9233d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Right-click on**Diagnostics Policy Service** again and this time select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f83f0ff4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Set its Startup type to**Automatic** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5fb52fb20.png)
 
-6) Run the Network Diagnostics and see if it goes well.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6) Run the Network Diagnostics and see if it goes well.
 
 ### Solution 2: Give the network service and local service administrator privilege on your Windows
 
@@ -83,10 +91,6 @@ Follow these steps：
  1) Type**cmd** in the search box from the Start menu. Then right-click on**Command Prompt** or**cmd.exe** to select**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d600a418d0.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Type the following commands and press**Enter** after each.
 
@@ -103,10 +107,6 @@ net localgroup Administrators /add localservice
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d606b83cd1.png)
 
  3) Close the Command Prompt window, and run the Network Diagnostics to see if it goes well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 3: Reinstall your network adapters
 
@@ -141,7 +141,7 @@ net localgroup Administrators /add localservice
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad30f1e3ff8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the **FREE** version).
@@ -169,24 +169,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-conquer-joining-on-tiktok-with-confidence-and-flair/"><u>[New] 2024 Approved Conquer Joining on TikTok with Confidence and Flair</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-discovering-facebooks-quintessential-updates/"><u>[Updated] Discovering Facebook's Quintessential Updates</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-legacy-os-to-innovative-windows-11/"><u>[Updated] From Legacy OS to Innovative Windows 11</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-solutions-to-mitigate-vibrational-jello-in-uav-recordings/"><u>[Updated] In 2024, Solutions to Mitigate Vibrational Jello in UAV Recordings</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-streamlining-your-zoom-collaboration-calendar/"><u>[Updated] Streamlining Your Zoom Collaboration Calendar</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/banish-the-blight-of-error-code-0xc0000098-with-these-simple-repair-steps-for-windows-users/"><u>Banish the Blight of Error Code 0Xc0000098 with These Simple Repair Steps for Windows Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-infinite-loading-in-valorant-with-these-tips/"><u>Bypassing Infinite Loading in Valorant with These Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/class-not-registered-on-windows-11-solved/"><u>Class Not Registered on Windows 11 [Solved]</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/crafting-quality-content-setting-up-your-mac-for-minecraft-sessions-for-2024/"><u>Crafting Quality Content Setting Up Your Mac for Minecraft Sessions for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-1067-decoded-why-your-windows-application-ended-prematurely-and-how-to-avoid-it/"><u>Error Code 1067 Decoded: Why Your Windows Application Ended Prematurely and How to Avoid It</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-to-fix-path-not-found-errors-when-using-windows-operating-system/"><u>Expert Tips to Fix 'Path Not Found' Errors When Using Windows Operating System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-to-know-the-new-arrival-fresh-on-the-market-the-newest-macbook-uncovered/"><u>Get to Know the New Arrival: Fresh on the Market, The Newest MacBook Uncovered</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correct-the-wwe-2k-battlegrounds-feature-level-100-and-dx11-error-messages/"><u>How to Correct the WWE 2K: Battlegrounds Feature Level 10.0 and DX11 Error Messages</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-broken-or-damaged-windows-store-cache-a-comprehensive-guide/"><u>How to Fix a Broken or Damaged Windows Store Cache: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-copy-and-paste-failures-on-windows-10-system/"><u>Resolving Copy and Paste Failures on Windows 10 System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-resolve-sluggish-keyboard-responses-instantly/"><u>Step-by-Step Tutorial: Resolve Sluggish Keyboard Responses Instantly</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/steps-to-set-up-the-zilt-addon-collection-on-kodi-version-190-leia/"><u>Steps to Set Up the Zilt Addon Collection on Kodi Version 19.0 Leia</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-chatgpts-text-input-restrictions-bypassing-the-cap/"><u>Understanding ChatGPT's Text Input Restrictions: Bypassing the Cap</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/upload-and-transform-mp4-videos-to-movquicktime-formats-for-free-online-conversion-services/"><u>Upload & Transform MP4 Videos to MOV/QuickTime Formats for Free Online Conversion Services</u></a></li>
+<li><a href="https://program-issues.techidaily.com/days-gone-when-and-where-to-play-the-fps-adventure-on-pc/"><u>'Days Gone': When and Where to Play the FPS Adventure on PC</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-a-vloggers-guide-to-camera-lenses/"><u>[New] 2024 Approved A Vlogger's Guide To Camera Lenses</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-future-at-your-fingertips-mycams-video-recorder-examined/"><u>[New] 2024 Approved The Future at Your Fingertips – MyCam's Video Recorder Examined</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-victory-lane-best-of-the-top-10-royales/"><u>[New] 2024 Approved Victory Lane Best of the Top 10 Royales</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/asus-laptop-how-to-fix-unresponsive-fn-keys-problems/"><u>ASUS Laptop: How to Fix Unresponsive Fn Keys Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enable-detecting-of-bluetooth-gadgets-on-your-pc-running-windows-10/"><u>Enable Detecting of Bluetooth Gadgets on Your PC Running Windows 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-motorola-moto-g34-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10s-failure-to-shutdown-a-comprehensive-guide/"><u>Overcoming Windows 10'S Failure to Shutdown - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/pioneering-the-use-of-film-in-educational-methodologies-for-2024/"><u>Pioneering the Use of Film in Educational Methodologies for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-update-issues-fixes-and-tips/"><u>Resolving Windows 11 Update Issues: Fixes and Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210723266-skype-microphone-not-working-follow-these-steps-for-a-quick-and-easy-resolution/"><u>Skype Microphone Not Working? Follow These Steps for a Quick and Easy Resolution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-files-for-games-and-streamers-on-windows-systems-solved/"><u>Troubleshooting Missing Files for Games and Streamers on Windows Systems [Solved]</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-lol-skirting-startup-snags-and-stalls/"><u>Win: LOL – Skirting Startup Snags and Stalls</u></a></li>
 </ul></div>
 

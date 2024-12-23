@@ -1,7 +1,7 @@
 ---
 title: "How to Resolve the 'Bad Image Error' On Your PC: A Guide for Windows 11/10 Users"
-date: 2024-09-05T10:10:01.999Z
-updated: 2024-09-06T10:10:01.999Z
+date: 2024-12-21T23:11:59.205Z
+updated: 2024-12-22T23:02:08.505Z
 tags:
   - win11
   - win10
@@ -13,18 +13,6 @@ excerpt: "This Article Describes How to Resolve the 'Bad Image Error' On Your PC
 thumbnail: https://thmb.techidaily.com/4b87d391cf12a5ae13597110e648fd93c3ae4425301404db4cfcebfa50a8ddc4.png
 ---
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Resolve the Persistent Windows Store Error 0X80072EE7: Proven Solutions Unveiled
 
 If you’re greeted with **0x80072EE7** error code when opening**Windows Store** , you’re not alone.
@@ -47,52 +35,40 @@ But don’t worry, it’s not hard to fix at all…
 
 1. On your keyboard, press **the Windows logo key**   ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)  and **R**  at the same time, then copy & paste **services.msc** into the box and press   **Enter**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ef3aff37fc.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 2. Right-click on**Microsoft Store Install Service** and click**Start** .  
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b515a7b35011.jpg)
 3. Scroll down to the bottom and double-click on**Windows Update** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51623b61cf7.jpg)
 4. Select**Manual** in**Startup type** , click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51629aa2ad6.jpg)
 5. Launch your Windows Store again and see if the problem has been solved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Run the DISM tool
 
 **DISM**  (**Deployment Image & Servicing Management** ) is a tool in Windows that helps us fix Windows-corruption-caused errors.  Sometimes this XXXX problem happens because of corruption and misconfigurations on our computer. If that’s the case, we’ll have to run DISM to check and fix the error.
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Type **the following command** and press **Enter** :  
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
@@ -102,12 +78,6 @@ But don’t worry, it’s not hard to fix at all…
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  A corrupt/outdated/missing/wrong graphics driver is one of the common cause of this Windows store **0x80072ee7** error code. So you might have to**update your graphics driver to the latest** to make sure things won’t go worse (like snowy screens, blue screens of death) if unattended. There’re two ways you can update your device drivers — manually or automatically:
@@ -124,25 +94,11 @@ But don’t worry, it’s not hard to fix at all…
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and hope everything goes off without a hitch on your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the problem still lingers on after trying Driver Easy, feel free to contact our support team at **<support@drivereasy.com>** . Be sure to attach **the URL of this article** for more expedient and efficient guidance. ?
@@ -155,31 +111,23 @@ But don’t worry, it’s not hard to fix at all…
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)** and **R**  at the same time. Then copy & paste **control /name Microsoft.NetworkAndSharingCenter** into the box and click   **OK**  .  
 **![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af921398c56a.png)**
-2. **Click Change adapter settings .**  
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+2. **Click Change adapter settings .**  
 **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2935c0967f.jpg)**
 3. Right-click on**the network adpater** (Ethernet in my case) and click **Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b22081a8ea67.jpg)
 4. Click **Internet Protocol Version 4 (TCP/IPv4)**  and then click **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2228b800796.jpg)
 5. Click option **Use the following DNS server addreses** ,
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  for **Preferred DNS server** , enter **8.8.8.8** ;
 
@@ -199,18 +147,11 @@ But don’t worry, it’s not hard to fix at all…
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Copy & paste**the following command** into the window and press**Enter** .  
+
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **PowerShell -ExecutionPolicy Unrestricted -Command “& {$manifest = (Get-AppxPackage Microsoft.WindowsStore).InstallLocation + ‘\AppxManifest.xml’ ; Add-AppxPackage -DisableDevelopmentMode -Register $manifest}”**
 3. Once it finishes, close the command prompt window.
 4. Restart your computer, open Windows Store again and see if the error code has been fixed.
@@ -227,8 +168,6 @@ But don’t worry, it’s not hard to fix at all…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,4 +175,26 @@ But don’t worry, it’s not hard to fix at all…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-pro-sniping-on-a-budget-try-these-affordable-pc-tools/"><u>[New] Pro Sniping on a Budget? Try These Affordable PC Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/treamline-your-thumbnail-design-journey-today/"><u>[New] Streamline Your Thumbnail Design Journey Today</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-captivating-viewers-top-10-creative-yt-reaction-tactics/"><u>[Updated] In 2024, Captivating Viewers Top 10 Creative YT Reaction Tactics</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-cutting-edge-tools-to-revamp-virtual-performer-voices/"><u>2024 Approved Cutting-Edge Tools to Revamp Virtual Performer Voices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-x90s-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on X90S.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x80072f8f-on-windows-11-and-10-comprehensive-troubleshooting-guide/"><u>Error 0X80072F8F on Windows 11 & 10: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/fueling-audience-interaction-crafting-intriguing-fb-giving-announcements-for-2024/"><u>Fueling Audience Interaction Crafting Intriguing FB Giving Announcements for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-crafting-the-perfect-youtube-channel-url-a-quick-guide/"><u>In 2024, Crafting the Perfect YouTube Channel Url A Quick Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-11-pro-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme 11 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-fixing-broken-system-components-and-registry-issues-in-windows-1011/"><u>Mastering the Art of Fixing Broken System Components and Registry Issues in Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-league-of-legends-lag-speedy-solutions-for-downloads-and-more/"><u>Overcome League of Legends Lag: Speedy Solutions for Downloads and More</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-wacom-tablet-challenges-step-by-step-fixes-for-non-working-devices/"><u>Overcoming Wacom Tablet Challenges: Step-by-Step Fixes for Non-Working Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-keyboard-malfunctions-a-guide-for-windows-11-7-and-8-users/"><u>Solving Keyboard Malfunctions: A Guide for Windows 11, 7, and 8 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/system-idle-process-high-cpu-usage-solved/"><u>System Idle Process High CPU Usage [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-pairing-problems-with-windows-11-bluetooth-devices-tips-and-tricks/"><u>Troubleshoot Pairing Problems with Windows 11 Bluetooth Devices, Tips and Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-network-latency-in-counter-strike-global-offensive/"><u>Troubleshooting High Network Latency in Counter-Strike Global Offensive</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-does-feeding-mean-for-your-social-media-experience/"><u>What Does 'Feeding' Mean for Your Social Media Experience?</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wow-reimagined-thriving-with-advanced-3d-graphics/"><u>WoW Reimagined: Thriving with Advanced 3D Graphics</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: When Windows Fails to Identify Correct Printer Drivers"
-date: 2024-09-11T15:21:36.246Z
-updated: 2024-09-12T15:21:36.246Z
+date: 2024-12-19T00:52:40.211Z
+updated: 2024-12-23T01:02:43.245Z
 tags:
   - win11
   - win10
@@ -30,39 +30,26 @@ thumbnail: https://thmb.techidaily.com/db339cfb71ad17e704275f446976657b74bdf593b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51a8575082e.jpg)
 2. Type**bluetooth settings** in the search box, then select**Change Bluetooth settings** from the results.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51aa79eae67.jpg)
 3. Make sure you**check** the boxes as the screenshot shown below, then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51aa0665a3a.jpg)
 4. Click the**little triangle icon** on the bottom-right part of your screen, and you’ll see the Bluetooth icon; it means you’ve turned on Bluetooth in your Windows 7\. Congratulations!
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51acf5ddfb0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/TIM图片20180720165237.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  But if you don’t see the Bluetooth icon in the system tray, don’t worry, you can try the methods below to solve the problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to do if you can’t turn on Bluetooth on Windows 7
 
@@ -71,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/db339cfb71ad17e704275f446976657b74bdf593b
 1. **[Update your Bluetooth driver](#fix1)**
 2. **[Re-enable the Bluetooth driver software in Device Manager](#fix2)**
 3. **[Make sure the Bluetooth Support Service is running](#fix3)**
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your Bluetooth driver
 
@@ -95,15 +75,13 @@ Fortunately, this is also the easiest problem to fix.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb6f71081f36.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee. )  
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb6f7884d30c.jpg)
-4. Restart your computer and check if you can turn on Bluetooth now. If you can’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb6f7884d30c.jpg)
+4. Restart your computer and check if you can turn on Bluetooth now. If you can’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 2, below.
 
 ---
 
@@ -117,6 +95,10 @@ Fortunately, this is also the easiest problem to fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51bc632abfc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If there is a yellow exclamation mark on the Bluetooth icon, you need to install the proper driver before the Bluetooth will work. See[How to install or update the latest Bluetooth driver as mentioned in Fix 1](#fix1) .
 
  3) Right-click on your Bluetooth device and select **Disable** .  
@@ -126,44 +108,30 @@ Fortunately, this is also the easiest problem to fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b553f4d7ea68.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Click **Show hidden icons**  .
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/TIM图片20180720182550.png)
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Can you see the Bluetooth icon now? If you do, congratulations. You’ve fixed the problem. But if it’s still not there, try Fix 3, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Make sure the Bluetooth Support Service is running
 
 1. Type**services** in the Start Search, then select**Services** to access the Windows Services Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ec80e4f62.jpg)
 2. In the list find**Bluetooth Support Service** , right-click on it and select**Start** . (If the Start option grayed out, then click**Restart** .)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5eceb3cad6.jpg)
 3. Right-click **Bluetooth Support Service** again, and this time select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ed153af78.jpg)
@@ -171,32 +139,10 @@ Fortunately, this is also the easiest problem to fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ed3843575.jpg)
 5. Now check if you find the Bluetooth icon in the Notification Area.  
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/TIM图片20180720182550.png)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -221,5 +167,18 @@ Hopefully, this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-windows-10-users-guide-saving-mov-files-flawlessly/"><u>[New] Windows 10 Users' Guide Saving .mov Files Flawlessly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-reels-crafting-exquisite-slow-motion-content/"><u>[Updated] In 2024, Instagram Reels Crafting Exquisite Slow-Motion Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-perfect-color-balancing-for-free-leveraging-luts-within-obs-studio-environment/"><u>2024 Approved Perfect Color Balancing for Free Leveraging LUTs Within OBS Studio Environment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressed-non-functional-keys-on-the-keyboard/"><u>Addressed: Non-Functional Keys on the Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dell-wireless-keyboards-failing-discover-quick-fixes-for-common-issues/"><u>Dell Wireless Keyboards Failing? Discover Quick Fixes for Common Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/endless-skies-of-tamriel-fixing-the-looped-load-screens-in-skyim/"><u>Endless Skies of Tamriel? Fixing the Looped Load Screens in Skyim</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/enhance-your-site-with-cookiebot-technology/"><u>Enhance Your Site with Cookiebot Technology</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Vivo Y28 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-the-art-of-marketing-with-these-top-phrases/"><u>In 2024, Master the Art of Marketing with These Top Phrases</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-win10s-critical-error-code-0x80n0705b4-in-system-updates/"><u>Troubleshooting and Solving Win10's Critical Error Code 0X80n0705b4 in System Updates</u></a></li>
+</ul></div>
 

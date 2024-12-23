@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My USB to HDMI Adaptor Functioning? Expert Diagnosis and Repairs
-date: 2024-09-11T15:22:18.805Z
-updated: 2024-09-12T15:22:18.805Z
+date: 2024-12-19T18:33:42.381Z
+updated: 2024-12-22T19:09:06.056Z
 tags:
   - win11
   - win10
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
 **Lenovo laptop camera not working** on your computer? Don’t worry. It’s usually not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to fix laptop camera not working in Windows 10
 
  Here are 3 fixes that have helped other users resolve the **Lenovo laptop camera not working**  problem. Just work your way down the list until you find the one that works for you.
@@ -33,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 3. **[Reinstall your camera driver](#F3)**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Adjust your camera privacy settings
 
@@ -52,16 +38,7 @@ Here is to make sure the camera is enabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff3b628678.png)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure to toggle **On** **Allow apps to access your camera** .
@@ -69,15 +46,16 @@ Here is to make sure the camera is enabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff5be2b4ad.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down to **Choose which apps can access your camera** and toggle **On** ALL the apps you want access to camera.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff6254a550.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Close the window, test the camera and see if it’s working properly. If it works, then congrats – you’ve solved the camera not working problem successfully! But if it is still not working, please try **Fix 2** , below.
 
@@ -101,6 +79,10 @@ Here is to make sure the camera is enabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-743.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Check your laptop camera to see if the problem is resolved. If yes, then great! If the issue still persists, please move on to **Fix 3** , below.
@@ -117,33 +99,17 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be00c2cd78eb.png)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Double-click on either **Cameras**  or **Imaging devices** to reveal your camera device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-741.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click on **your camera device** and click **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-742.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click **Yes** to confirm the uninstall.
 
@@ -156,13 +122,6 @@ Here is how to do it:
  7) Click **Action** \> **Scan for hardware changes** so that Windows can reinstall the driver for your PC (a generic one though).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be01480c86ca.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8) Check your camera and see if it’s working properly.
 
@@ -186,5 +145,24 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-discover-your-preferred-music-experience-top-6-android-music-video-apps/"><u>[New] 2024 Approved Discover Your Preferred Music Experience - Top 6 Android Music Video Apps</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/breaking-down-this-years-latest-tiktok-wave-for-2024/"><u>Breaking Down This Year's Latest TikTok Wave for 2024</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/cookiebot-enabled-site-enhance-user-experience-with-smart-tracking/"><u>Cookiebot-Enabled Site: Enhance User Experience with Smart Tracking</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-y77t-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Y77t.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficiently-navigate-the-new-file-explorer-features-of-windows-11/"><u>Efficiently Navigate the New File Explorer Features of Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-dota-2-error-2024-a-step-by-step-guide-on-changing-rendering-api/"><u>Fixing the Dota 2 Error 2024: A Step-by-Step Guide on Changing Rendering API</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-put-an-end-to-distracting-cursor-vibrations-solution-tips/"><u>How to Put an End to Distracting Cursor Vibrations - Solution Tips</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-tecno-camon-20-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Tecno Camon 20 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-motorola-razr-40-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Motorola Razr 40 Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723201208684-laptop-microphone-woes-find-out-how-to-get-it-working-again/"><u>Laptop Microphone Woes? Find Out How to Get It Working Again!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/masterclass-troubleshooting-and-solving-graphic-card-problems-for-fortnite-windows-players/"><u>Masterclass: Troubleshooting and Solving Graphic Card Problems for Fortnite Windows Players</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-tlsssl-verification-issues-with-your-secure-browsers-a-guide-for-quick-fixes/"><u>Overcoming TLS/SSL Verification Issues with Your Secure Browsers: A Guide for Quick Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-update-issue-code-0x800f0922-solutions/"><u>Resolving Windows 11 Update Issue - Code 0X800F0922 Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-against-dxgi-error-device-detachment/"><u>Strategies Against DXGI Error: Device Detachment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/valorant-perpetual-boot-loop-heres-how-to-resolve-it/"><u>Valorant Perpetual Boot Loop? Here's How to Resolve It</u></a></li>
+<li><a href="https://facebook.techidaily.com/who-fits-in-the-criteria-for-facebook-neighborhood-group-membership/"><u>Who Fits In? - The Criteria for Facebook Neighborhood Group Membership</u></a></li>
+</ul></div>
 

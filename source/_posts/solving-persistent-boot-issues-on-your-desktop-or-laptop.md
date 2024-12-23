@@ -1,7 +1,7 @@
 ---
 title: Solving Persistent Boot Issues on Your Desktop or Laptop
-date: 2024-09-11T15:20:03.948Z
-updated: 2024-09-12T15:20:03.948Z
+date: 2024-12-21T21:29:19.695Z
+updated: 2024-12-22T16:37:15.095Z
 tags:
   - win11
   - win10
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
 
  If you ever run into the**laptop keys not working** on your HP laptop, don’t panic. It’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -35,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -51,13 +37,6 @@ Here’s how to reinstall the keyboard driver:
  1) Hover your mouse around**the Start button** (on the bottom left of your desktop screen), _right-click_  and then click on**Device Manager** to open Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
@@ -70,10 +49,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -100,6 +76,10 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -119,10 +99,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
@@ -132,10 +109,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -146,19 +120,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -175,6 +136,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -212,5 +177,24 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/solved-overcoming-the-obstacle-of-windows-11s-error-code-0xc1900208/"><u>[SOLVED] Overcoming the Obstacle of Windows 11'S Error Code: 0XC1900208</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-advice-on-enhancing-vhs-images-using-technology/"><u>2024 Approved Expert Advice on Enhancing VHS Images Using Technology</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-quick-fixes-for-seamless-phone-screencasting/"><u>2024 Approved Quick Fixes for Seamless Phone Screencasting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/astro-a40-audio-troubles-heres-how-you-can-make-your-mic-work-again/"><u>Astro A40 Audio Troubles? Here's How You Can Make Your Mic Work Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/compatibility-issue-display-does-not-recognize-hdcp-protocols/"><u>Compatibility Issue: Display Does Not Recognize HDCP Protocols</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-storytelling-abilities-with-strategic-chatgpt-implementation-tips/"><u>Enhance Your Storytelling Abilities with Strategic ChatGPT Implementation Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expertly-chosen-find-the-best-15-free-applications-to-efficiently-uninstall-software/"><u>Expertly Chosen: Find the Best 15 Free Applications to Efficiently Uninstall Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-windows-could-not-be-installed-error-with-code-80240020-on-your-pc/"><u>Guide to Fixing 'Windows Could Not Be Installed' Error with Code 80240020 on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-nvidia-share-not-responding-problems-effectively/"><u>How To Resolve NVIDIA Share Not Responding Problems Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-your-graphics-drivers-after-an-unexpected-reboot/"><u>How to Resolve Your Graphics Drivers After an Unexpected Reboot</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-realme-12-proplus-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Realme 12 Pro+ 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/repair-your-windows-10-with-sfc-and-dism-a-comprehensive-guide/"><u>Repair Your Windows 10 with SFC & DISM - A Comprehensive Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/simplicity-in-downloading-youtube-graphics-for-2024/"><u>Simplicity in Downloading YouTube Graphics for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-hacks-how-to-recharge-your-phone-using-alternative-methods/"><u>Tech Hacks: How to Recharge Your Phone Using Alternative Methods</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-infinix-gt-10-pro-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Infinix GT 10 Pro Phone Hassle-Free</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211779531-twitch-troubles-heres-how-you-can-resolve-error-4000-effectively/"><u>Twitch Troubles? Here's How You Can Resolve Error 4000 Effectively</u></a></li>
+</ul></div>
 

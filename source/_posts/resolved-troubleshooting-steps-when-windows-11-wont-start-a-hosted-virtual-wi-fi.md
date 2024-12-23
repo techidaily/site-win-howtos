@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Steps When Windows 11 Won't Start a Hosted Virtual Wi-Fi"
-date: 2024-12-10T16:50:40.919Z
-updated: 2024-12-13T18:58:58.822Z
+date: 2024-12-16T20:01:19.101Z
+updated: 2024-12-22T22:11:07.334Z
 tags:
   - win11
   - win10
@@ -45,19 +45,19 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
 1. Type **network**  in the search box from Start. Then click **Network status**  from the top. ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be292e88d6b9.jpg)
 2. Click **Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b201e6b5d28.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Reset the Stream Permissions on your Windows 10 computer
@@ -65,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
 1. Type **media**  in the search box from Start. Then click **Windows Media Player**  on the top.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Click **OK** .  
 
@@ -84,11 +80,11 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Close the Windows Media Player window.
@@ -111,11 +107,15 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
 3. Click the **Update** button next to all the flagged drivers to automatically download the correct version of this driver, then you can manually install it (you can do this with the **FREE** version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
 4. Reboot your Windows 10.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
 
@@ -140,22 +140,17 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/omplete-annihilation-of-youtube-shorts-accessibility/"><u>[New] Complete Annihilation of YouTube Shorts Accessibility</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/onquering-camera-angst-the-ultimate-list-of-video-blogging-phobias/"><u>[New] Conquering Camera Angst The Ultimate List of Video Blogging Phobias</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-economical-pc-screen-grab-utilities/"><u>2024 Approved Economical PC Screen Grab Utilities</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210910844-cant-print-your-pdf-these-simple-tips-will-help-you-succeed/"><u>Can't Print Your PDF? These Simple Tips Will Help You Succeed!</u></a></li>
-<li><a href="https://article-tips.techidaily.com/designing-multi-layered-photographic-illusions/"><u>Designing Multi-Layered Photographic Illusions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/device-not-detected-solve-code-24-mishap-on-windows-10-8-and-7-systems/"><u>Device Not Detected? Solve Code #24 Mishap on Windows 10, 8 & 7 Systems</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-mouse-cursor-on-windows-11-a-step-by-step-guide/"><u>How to Restore Your Mouse Cursor on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/improved-performance-addressing-high-cpu-demands-in-windows-driver-foundation/"><u>Improved Performance: Addressing High CPU Demands in Windows Driver Foundation</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-gaining-traction-on-youtube-the-successful-sponsorship-roadmap-by-famebit/"><u>In 2024, Gaining Traction on YouTube The Successful Sponsorship Roadmap by FameBit</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Honor X9a? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/installation-error-windows-10-v1607-feature-upgrade-failure/"><u>Installation Error: Windows 10 v1607 Feature Upgrade Failure</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-fixing-windows-audio-device-graphs-overuse-of-processor-resources/"><u>Step-by-Step Guide: Fixing Windows Audio Device Graph's Overuse of Processor Resources</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-complete-guide-to-correcting-the-unspecified-error-0x80004005-in-exchange-mail-systems/"><u>The Complete Guide to Correcting the Unspecified Error (0X8^_^0004005) in Exchange Mail Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-missteps-and-myths-surrounding-ai-messaging/"><u>The Missteps and Myths Surrounding AI Messaging</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlocking-device-security-with-windows-hello-solutions-for-devices-not-initially-supported-by-windows-11/"><u>Unlocking Device Security with Windows Hello: Solutions for Devices Not Initially Supported by Windows 11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-masterchefs-visual-guide-filming-kitchen-escapades/"><u>2024 Approved MasterChef's Visual Guide Filming Kitchen Escapades</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-step-by-step-guide-to-defining-your-aesthetic/"><u>2024 Approved Step-by-Step Guide to Defining Your Aesthetic</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-yuneec-typhoon-h-deep-dive-aerial-expert-review/"><u>2024 Approved Yuneec Typhoon H Deep Dive Aerial Expert Review</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-non-functional-aoc-monitors-in-windows-10-environments/"><u>Diagnosing and Repairing Non-Functional AOC Monitors in Windows 10 Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-failed-windows-1n-update-problems-on-your-pc/"><u>How to Resolve Failed Windows 1N Update Problems on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-windows-10-from-stuck-on-looping-system-recovery-mode-and-constant-restarts/"><u>How to Stop Windows 10 From Stuck on Looping System Recovery Mode and Constant Restarts</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/multilingual-mastery-made-easy-with-evidence-backed-music-techniques/"><u>Multilingual Mastery Made Easy with Evidence-Backed Music Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-remote-play-issue-in-windows/"><u>Resolving Remote Play Issue in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-of-defective-usb-ports-in-windows-11-systems/"><u>Solving the Issue of Defective USB Ports in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212125104-troubleshooting-audio-issues-on-windows-11-get-your-volume-back/"><u>Troubleshooting Audio Issues on Windows 11 - Get Your Volume Back</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/video-quality-clash-hero-black-vs-nikkor-km-170/"><u>Video Quality Clash HERO Black vs Nikkor KM-170</u></a></li>
 </ul></div>
 

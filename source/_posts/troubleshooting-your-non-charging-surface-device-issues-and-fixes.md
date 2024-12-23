@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Your Non-Charging Surface Device - Issues and Fixes
-date: 2024-09-11T15:23:32.505Z
-updated: 2024-09-12T15:23:32.505Z
+date: 2024-12-18T20:47:18.270Z
+updated: 2024-12-23T00:01:44.833Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/86eaf732ac0282547acec52c64c3976ebfde5c25b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea8007e966e.jpg)
 
 **Skype mic is not working** on your computer? Many users have reported the same. But don’t worry – it’s often quite easy to fix…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 fixes for **Skype mic is not working**
 
@@ -40,23 +44,22 @@ Here’s how:
 2. Under the**Allow apps to access your microphon** e section, make sure the toggle is**On** so that you can allow apps access to your microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf21ddde2a88.jpg)
 3. Scroll down to**Choose which apps can access your microphone** and make sure the toggle for Skype is**On** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276d2d207f.jpg)
 4. Check the mic on Skype and see if it works properly.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Adjust audio settings in Skype
@@ -66,8 +69,17 @@ Here’s how:
 1. In Skype, Click**the three-dot button** and click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf275aa63d91.png)
 2. Click**Audio & Video** and make sure the toggle for**Automatically adjust microphone settings** is turn**Off** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276685aa61.jpg)
 3. Close the window and check if your**Skype microphone not working** issue has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -84,25 +96,11 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27cb3d565f.jpg)
 3. Click the   **Update** button next to a flagged audio  driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of **_ALL_**  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27e508edd4.jpg)
 4. Restart your computer and check to see if **microphone on Skype not working** problem has been fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Tweak your audio settings
 
@@ -114,43 +112,15 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf2868dc7336.jpg)
 2. Click the **Recording**   tab, then click on **your microphone device**   and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286a2af01f.jpg)  
  If **no microphone devices shows up in the device list** , then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Click on **your microphone device**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286af0375c.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286b610643.png)
 5. Click **OK**   to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Now that with microphone set as default device and the volume turned up, test in Skype to see if your buddy on the other end of Skype can hear you.
 
@@ -180,5 +150,19 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-chuckle-and-cry-the-top-instagram-memes-that-make-you-giggle-for-2024/"><u>[New] Chuckle & Cry The Top Instagram Memes that Make You Giggle for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-ezvid-video-recorder-review/"><u>[New] In 2024, Ezvid Video Recorder Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-engaging-effectively-in-online-google-meet-talks/"><u>[Updated] 2024 Approved Engaging Effectively in Online Google Meet Talks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-masterclass-in-making-engaging-video-lessons-your-step-by-step-guide-for-youtube/"><u>[Updated] 2024 Approved Masterclass in Making Engaging Video Lessons Your Step-by-Step Guide for YouTube</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-update-your-tiktok-statement-and-visuals-effortlessly/"><u>[Updated] 2024 Approved Update Your TikTok Statement and Visuals Effortlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/connect-your-airpods-to-windows-11-successfully-latest-tips-and-tricks/"><u>Connect Your AirPods to Windows 11 Successfully - Latest Tips & Tricks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-future-shaped-by-quantum-hdr-tech/"><u>In 2024, The Future Shaped by Quantum HDR Tech</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-youtube-audio-rendering-issue-in-windows-10-a-step-by-step-guide/"><u>Resolving the YouTube Audio Rendering Issue in Windows 10 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-spotlights-showcasing-7-comedic-content-pieces-for-2024/"><u>Smirk Spotlights Showcasing 7 Comedic Content Pieces for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209552427-solving-keyboard-issues-how-to-repair-unresponsive-left-right-and-updown-arrows/"><u>Solving Keyboard Issues: How to Repair Unresponsive Left, Right and Up/Down Arrows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-parameter-is-incorrect-mistake-overcoming-loadlibrary-error-87/"><u>Troubleshooting the 'Parameter Is Incorrect' Mistake - Overcoming LoadLibrary Error 87</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-the-windows-error-code-0xc00000e9/"><u>Ultimate Guide: Resolving the Windows Error Code 0xC00000E9</u></a></li>
+</ul></div>
 

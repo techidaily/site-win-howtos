@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Solving Library Load Failures Caused By Erroneous Parameter (Error Code 87)"
-date: 2024-09-11T15:23:42.674Z
-updated: 2024-09-12T15:23:42.674Z
+date: 2024-12-18T18:08:18.590Z
+updated: 2024-12-22T21:41:36.235Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Continuously getting the error **“There is a problem with your games setup. Pl
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/featured-image-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Repair your game
 
  Missing or corrupt game files can cause a wide variety of issues. So you need to make sure they are intact. The feature, repairing games allows you to achieve that goal. It checks your game’s installation and then automatically downloads any replacement or missing files:
@@ -38,10 +42,7 @@ Continuously getting the error **“There is a problem with your games setup. Pl
 ![Origin error There is a problem with your game's setup. Please reinstall your game. ](https://images.drivereasy.com/wp-content/uploads/2021/05/repair-game.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This file check can take up to an hour to complete depending on your computer’s hardware. If there are any file issues or corrupt files, it will replace them or download them again.
@@ -59,9 +60,17 @@ If that didn’t help, try the next fix below.
 
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/10/open-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Under the**Processes** tab, look for**Origin, OriginClientService, and OriginWebHelperService** . If they’re on the list, make sure to right-click each and then select**End task** .  
 
 ![how to chear cache on Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/make-sure-Origin-is-fully-closed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
 
@@ -69,59 +78,19 @@ If that didn’t help, try the next fix below.
   
 ![how to clear Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/Origin-ProgramData.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Delete all the files and folders inside it**except for LocalContent** . Do not delete this folder.  
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/do-not-delete-LocalContent.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To delete these files and folders quickly, you can hold the**Windows + A keys** to select all of them. Then hold**Ctrl** and click on**LocalContent** to deselect it. Then you can right-click on the files and folders you selected and choose**Delete** .  
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/delete.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
 
  6) Type or paste**%AppData%** and press Enter.  
   
 ![open AppData using command](https://images.drivereasy.com/wp-content/uploads/2021/05/appdata.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Look for the**Origin** folder. Right-click it and select**Delete** .  
   
@@ -155,28 +124,18 @@ Here’s how to update drivers with Driver Easy:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-device-drivers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. Then resume your installation or launch your game from Origin to check if that error message still appears.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run Origin as an administrator
 
@@ -187,13 +146,6 @@ Here’s how to update drivers with Driver Easy:
 2) Right-click the Origin client icon on your desktop (or in the Origin directory if not on your desktop and click**Run As Administrator** .  
   
 ![Run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-administrator.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you want to make Origin always run as administrator, take these steps:
 
@@ -214,16 +166,7 @@ If you want to make Origin always run as administrator, take these steps:
 If that didn’t help, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Download Media Feature Pack for Windows 10 N
@@ -232,6 +175,10 @@ If that didn’t help, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/download-media-feature-pack-1200x715.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Not sure which Windows version you’re running? No worries! Follow the steps below to check it out:
 
  1) On your keyboard, press the**Windows + I keys** to open Settings.
@@ -239,28 +186,12 @@ If that didn’t help, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/how-to-check-my-Windows-version.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select**About** . Then in the**Windows specifications** section, you’ll find your edition.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/my-windows-version.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -279,5 +210,24 @@ If that didn’t help, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-perfecting-screen-capture-teams-meetings-on-pctablet/"><u>[Updated] 2024 Approved Perfecting Screen Capture Teams' Meetings on PC/Tablet</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-social-caricature-craft-design-your-distinctive-avatar/"><u>[Updated] In 2024, Social Caricature Craft Design Your Distinctive Avatar</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-on-screen-labels-and-descriptions-for-video-files-windows-11/"><u>[Updated] Mastering On-Screen Labels and Descriptions for Video Files (Windows 11)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-of-steady-phone-cinematography/"><u>[Updated] Mastering the Art of Steady Phone Cinematography</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressed-halt-error-of-print-driver-host-while-using-32-bit-application/"><u>Addressed: Halt Error of Print Driver Host While Using 32-Bit Application</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-conversion-of-pdfs-into-kindle-format-a-comprehensive-tutorial/"><u>Easy Conversion of PDFs Into Kindle Format: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-videoaudio-hardware-driver-not-installed-on-your-system-fixed/"><u>Essential Video/Audio Hardware Driver Not Installed on Your System, Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ghostly-screen-tech-paradox/"><u>Ghostly Screen: Tech Paradox</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-usb-terminal-voltage-problems-on-windows-11-devices/"><u>Guide to Fixing USB Terminal Voltage Problems on Windows 11 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-challenges-when-your-dhcp-server-is-not-responding-solution/"><u>How to Overcome Challenges When Your DHCP Server Is Not Responding (Solution)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/pocket-friendly-sound-extravaganza-oneplus-buds-review/"><u>Pocket-Friendly Sound Extravaganza - OnePlus Buds Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-science-of-deforestation-and-climate-interaction/"><u>The Science of Deforestation and Climate Interaction</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-waterproof-cellphone-protectors-2024-edition/"><u>Top-Rated Waterproof Cellphone Protectors - 2024 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-restoring-audio-on-your-acer-notebook/"><u>Troubleshooting Steps: Restoring Audio on Your Acer Notebook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-fallout-4-performance-tips-say-goodbye-to-lag/"><u>Ultimate Fallout 4 Performance Tips - Say Goodbye to Lag!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-taskbar-not-hiding-solved/"><u>Windows 10 Taskbar Not Hiding [Solved]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wma-movavi/"><u>WMA 아이콘을 비용 없이 웹상에서 바꾸기: Movavi 가이드</u></a></li>
+</ul></div>
 

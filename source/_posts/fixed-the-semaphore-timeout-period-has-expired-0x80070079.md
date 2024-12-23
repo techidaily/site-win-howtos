@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] The Semaphore Timeout Period Has Expired. (0X80070079)"
-date: 2024-09-11T15:19:35.558Z
-updated: 2024-09-12T15:19:35.558Z
+date: 2024-12-16T16:40:39.434Z
+updated: 2024-12-22T16:55:34.956Z
 tags:
   - win11
   - win10
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 
 **USB ports not working on HP laptop** ? You’re not alone. Many users have reported the same. But the good news is, you can fix it easily!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3 fixes for USB ports not working on HP laptop
 
  All the fixes below work in**Windows 10** ,**8** and**7** . Just work your way down the list until your USB ports work properly again.
@@ -37,16 +30,7 @@ thumbnail: https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd65
 ---
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Disconnect ALL USB devices and re-seat your battery
@@ -74,35 +58,27 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 2. Double-click on **Universal Serial Bus controllers**   \>  **the first**   item of **USB Root Hub** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
-4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
+4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
 5. Reconnect your USB devices to the USB ports, then**reboot your computer** and check to see if they’re working properly. If the problem has been fixed, then congrats! If it persists, you should try**Fix 3** , below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 3: Update the drivers for your USB devices
 
@@ -119,10 +95,7 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -156,5 +129,16 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-itel-a60-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-efficiency-boost-discover-the-top-5-youtube-shorteners/"><u>2024 Approved Efficiency Boost Discover the Top 5 YouTube Shorteners</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/d3d-device-disappearance-threatens-unreals-existence/"><u>D3D Device Disappearance Threatens Unreal's Existence</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-persistent-crashes-in-psychonauts-2-on-windows-a-step-by-step-guide/"><u>Fixing Persistent Crashes in Psychonauts 2 on Windows - A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-g54-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to G54 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-system-repair-in-windows-11-using-sfc-and-dism-command-line-options/"><u>Mastering System Repair in WINDOWS 11 Using SFC and DISM Command Line Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-hurdle-of-non-detected-bluetooth-accessories-in-microsofts-latest-os/"><u>Overcoming the Hurdle of Non-Detected Bluetooth Accessories in Microsoft's Latest OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-microsoft-telemetry-causing-high-disk-use-in-windows-10-systems/"><u>Resolving Microsoft Telemetry Causing High Disk Use in Windows 10 Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-honor-x50-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Honor X50 Phone Pattern Lock</u></a></li>
+</ul></div>
 

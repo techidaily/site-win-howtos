@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Issue: Fix Guide for Windows Update Error Code 0X8024401c on Windows 10 and 11"
-date: 2024-12-10T16:34:10.476Z
-updated: 2024-12-13T16:02:20.314Z
+date: 2024-12-15T22:34:17.300Z
+updated: 2024-12-22T16:28:54.682Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/c2522eefb8fbc96fa570f56849cfdf92d72e221bd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Reset your Windows Update components
 
  The Windows Update “0x8024002e” error code may occur because its components are corrupted. These components include the services and temporary files and folders associated with Windows Update. You can try resetting these components and see if this fixes your problem.
@@ -44,6 +40,10 @@ To reset these components:
 2. Type “cmd” in the Run box, then, on your keyboard, press the**Ctrl** ,**Shift** and**Enter** keys at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-884.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. If prompted, click**Yes** .
 4. In Command Prompt, type the following lines of command and press**Enter** on your keyboard after typing each:
@@ -84,10 +84,6 @@ net start cryptsvc
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-917.png)
 5. Select_a place to save your backup copy_ , then click**Save** to save the backup.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-918.png)
 6. Wait for the export process to be complete.
 7. Go to _HKEY\_LOCAL\_MACHINE\\Software\\Policies\\Microsoft\\Windows\\WindowsUpdate_ .  
@@ -95,21 +91,13 @@ net start cryptsvc
 8. Double click**DisableWindowsUpdateAccess** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-920.png)
 9. Change the**value data** to**0** , then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-923.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now try running Windows Update. If the steps above worked for you, you won’t see the “0x8024002e” error there.
 
@@ -123,8 +111,20 @@ To do so:
 2. Type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 3. Click the**Services** tab. Then check**Hide all Microsoft services** (**FIRST** ) and click**Disable all** . After that, click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
 6. Click**OK** .
@@ -136,10 +136,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 10. Click the**Services** tab. Check**Hide all Microsoft services** . Then**enable** **any** disabled service (by**selecting its checkbox** ) and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3b3ebfca4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 11. Click**Restart** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
@@ -150,19 +146,23 @@ To do so:
 14. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 16. Click**OK** and then click**Restart** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 17. Check to see if the error occurs. If it doesn’t, repeat step**13 to 16**  until you find out the startup item that causes the issue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If there’s any startup item that causes the 0x8024002e error, you should see what program is this item related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
 
@@ -187,24 +187,21 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/remier-10-decibel-boosters-macos-to-mobile-devices/"><u>[New] Premier 10 Decibel Boosters MacOS to Mobile Devices</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-perfect-phone-imaging-choose-the-best-camera-additions/"><u>[Updated] In 2024, Perfect Phone Imaging Choose the Best Camera Additions</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-apple-iphone-6-plus-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>4 Methods to Turn off Life 360 On Apple iPhone 6 Plus without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/apex-screenplay-creations-segmented-by-movie-type/"><u>Apex Screenplay Creations, Segmented By Movie Type</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/begin-with-no-cost-video-intro-tools-for-2024/"><u>Begin with No-Cost Video Intro Tools for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723204746170-bluetooth-troubles-in-windows-11-quick-tips-to-get-it-working-again/"><u>Bluetooth Troubles in Windows 11? Quick Tips to Get It Working Again!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1124207-9781619400306-clairvoyance-in-time-past-future/"><u>Clairvoyance in Time: Past & Future | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-revive-your-laptops-touchpad-in-windows-10-8-and-7-no-more-frustration/"><u>Effective Solutions to Revive Your Laptop's Touchpad in Windows 10, 8 and 7 – No More Frustration!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-24-explained-ensuring-your-device-appears-in-windows-systems-ws-11-8-or-7/"><u>Error Code 24 Explained: Ensuring Your Device Appears in Windows Systems WS 11, 8 or 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-back-on-track-fixes-for-when-the-windows-11-start-menu-fails/"><u>Getting Back on Track: Fixes for When the Windows 11 Start Menu Fails</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-correcting-windows-11-sign-in-issue-caused-by-user-profile-service-malfunction/"><u>Guide to Correcting Windows 11 Sign-In Issue Caused by User Profile Service Malfunction</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-overcome-windows-error-0x8024401c-on-windows-11-systems/"><u>Guide to Overcome Window's Error 0X8024401C on Windows 11 Systems</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ring-yt-video-tweaks-with-windows-movie-maker-for-2024/"><u>Mastering YT Video Tweaks with Windows Movie Maker for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/personal-settings-malfunction-solutions-to-not-resp-error/"><u>Personal Settings Malfunction – Solutions to 'Not Resp. Error'</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/quickest-and-most-effective-substitutes-for-handbrake-nightly-when-converting-dvds-seamlessly/"><u>Quickest & Most Effective Substitutes for Handbrake Nightly When Converting DVDs Seamlessly</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/step-by-step-guide-to-scripting-engaging-youtube-videos/"><u>Step-by-Step Guide to Scripting Engaging YouTube Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-corrupted-or-faulty-installer-package-on-windows/"><u>Step-by-Step Solution for Corrupted or Faulty Installer Package on Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-essential-guide-to-metaverse-brand-strategies/"><u>The Essential Guide to Metaverse Brand Strategies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-compatibility-how-to-resolve-unregistered-classes-error/"><u>Windows 11 Compatibility: How to Resolve Unregistered Classes Error</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-a-beginners-journey-to-enhanced-gopro-adventures-for-2024/"><u>[New] A Beginner's Journey to Enhanced GoPro Adventures for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-retro-revelry-on-snapchat-camera-roll-insights/"><u>[New] Retro Revelry on Snapchat Camera Roll Insights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-anonymous-sharing-simplified-blurring-techniques-for-videos/"><u>[Updated] 2024 Approved Anonymous Sharing Simplified Blurring Techniques for Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-10-premier-online-systems-for-screen-saving/"><u>[Updated] In 2024, 10 Premier Online Systems for Screen Saving</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-lightning-speed-seamless-transformation-from-srt-to-text-format/"><u>[Updated] Lightning Speed Seamless Transformation From SRT to Text Format</u></a></li>
+<li><a href="https://techtrends.techidaily.com/email-less-pathway-the-ultimate-guide-to-restoring-your-facebook-credentials/"><u>Email-Less Pathway: The Ultimate Guide to Restoring Your Facebook Credentials</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-persistent-windows-11-update-errors-a-step-by-step-guide/"><u>Fixing Persistent Windows 11 Update Errors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-prtscn-take-a-screenshot-with-the-print-screen-key/"><u>How to PrtScn? Take a Screenshot with the Print Screen Key</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14 Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issue-the-infamous-green-error-in-nba-2k21/"><u>Resolved Issue: The Infamous Green Error in NBA 2K21</u></a></li>
+<li><a href="https://win-help.techidaily.com/strategies-danalyse-pour-decrypter-votre-mot-de-passe-de-sauvegarde/"><u>Stratégies D'analyse Pour Décrypter Votre Mot De Passe De Sauvegarde</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-frozen-taskbar-in-windows-11-with-these-reliable-techniques/"><u>Troubleshoot & Fix Frozen Taskbar in Windows 11 with These Reliable Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211270590-troubleshoot-file-explorer-woes-in-windows-11-expert-tips-inside/"><u>Troubleshoot File Explorer Woes in Windows 11 - Expert Tips Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-overcoming-delayed-keystrokes-in-windows-10-environments/"><u>Troubleshooting and Overcoming Delayed Keystrokes in Windows 10 Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-freezing-issues-on-your-pc-or-laptop/"><u>Troubleshooting Guide: Resolving Freezing Issues on Your PC or Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-full-potential-expert-techniques-to-restore-your-galaxy-tab-pen-functionality/"><u>Unlock Full Potential: Expert Techniques to Restore Your Galaxy Tab Pen Functionality</u></a></li>
 </ul></div>
 

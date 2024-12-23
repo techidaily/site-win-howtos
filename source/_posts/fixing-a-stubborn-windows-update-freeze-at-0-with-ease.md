@@ -1,7 +1,7 @@
 ---
 title: Fixing a Stubborn Windows Update Freeze at 0%% with Ease
-date: 2024-09-05T10:11:07.797Z
-updated: 2024-09-06T10:11:07.797Z
+date: 2024-12-19T20:06:30.856Z
+updated: 2024-12-22T17:51:02.109Z
 tags:
   - win11
   - win10
@@ -13,28 +13,10 @@ excerpt: This Article Describes Fixing a Stubborn Windows Update Freeze at 0%% w
 thumbnail: https://thmb.techidaily.com/4729098ff75053594bc9af7963d84132dd5d779fe074b891a4ea943b993770f6.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 Effective Techniques to Unfreeze a Stubborn Windows 10 Taskbar
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Since Windows 10 is more and more widely used, more and more problems on the system occur as users reported.**Taskbar frozen** is one of the many issues on Windows 10\. If taskbar frozen, you just cannot use it at all, no start menu, no icon… And also when you use some shortcut like Windows + X or Windows + R, your Windows 10 won’t respond. It’s such an annoying problem though, you still can solve it with the tried-and-true fixes we’re going to show you.
 
 **Fix 1\. Restart Windows Explorer in Task Manager**
@@ -45,18 +27,6 @@ thumbnail: https://thmb.techidaily.com/4729098ff75053594bc9af7963d84132dd5d779fe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-10.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Now your Windows Explorer will start again. Try to access Taskbar on your Windows 10 now.
 
 **Fix 2\. Run System File Checker to repair Windows Files**
@@ -67,28 +37,10 @@ thumbnail: https://thmb.techidaily.com/4729098ff75053594bc9af7963d84132dd5d779fe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Now File Explorer is open. Head to **C: \\ Windows \\ System32** . Then scroll down on System32 folder to find and right-click on **cmd.exe** . Choose **Run as administrator**  and click **Yes**  when prompted by User Account Control.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Type **sfc /scannow**  on the command prompt window showing up to you.Then press **Enter** key to run it. Wait till Verification 100% complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-3.jpg)
@@ -104,18 +56,6 @@ thumbnail: https://thmb.techidaily.com/4729098ff75053594bc9af7963d84132dd5d779fe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-8.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  That’s it. Hope you can get your taskbar work again with the help of this post.  
  Please feel free to leave your comment below for any questions, thanks.
 
@@ -127,8 +67,6 @@ thumbnail: https://thmb.techidaily.com/4729098ff75053594bc9af7963d84132dd5d779fe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +74,27 @@ thumbnail: https://thmb.techidaily.com/4729098ff75053594bc9af7963d84132dd5d779fe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-frosty-frameworks-for-warm-video-productions/"><u>[New] 2024 Approved Frosty Frameworks for Warm Video Productions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-unveiling-audible-tweets-within-social-media-videos/"><u>[Updated] Unveiling Audible Tweets Within Social Media Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-how-to-add-music-to-powerpoint-tutorial-guide/"><u>2024 Approved How to Add Music to PowerPoint? [Tutorial Guide]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-walkthrough-solve-your-windows-11s-persistent-0x800705b4-update-problem/"><u>Complete Walkthrough: Solve Your Windows 11'S Persistent 0X800705B4 Update Problem</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-to-resolve-photoshop-scratch-disk-overflow-issues/"><u>Effective Strategies to Resolve Photoshop Scratch Disk Overflow Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevating-docker-performance-within-wsl-2-environment/"><u>Elevating Docker Performance Within WSL 2 Environment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-how-to-correctly-address-opengl-errors-in-minecraft/"><u>Expert Tips on How to Correctly Address OpenGL Errors in Minecraft</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-5-premier-photographers-and-videographers-mixing-tunes/"><u>Explore 5 Premier Photographers & Videographers Mixing Tunes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-persistent-usb-connection-loss-step-by-step-guide/"><u>Fixing Persistent USB Connection Loss - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ineteresourceerror-fixed-master-the-approach-to-rectify-missing-files/"><u>INET_E_RESOURCE_ERROR Fixed! Master the Approach to Rectify Missing Files</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/inside-apeaksofts-2023-recording-technology-breakthroughs-for-2024/"><u>Inside Apeaksoft's 2023 Recording Technology Breakthroughs for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/leveraging-engagement-for-higher-facebook-profile-visibility-for-2024/"><u>Leveraging Engagement for Higher Facebook Profile Visibility for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-unity-correcting-initialization-issues-related-to-graphics/"><u>Mastering Unity: Correcting Initialization Issues Related to Graphics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-winodwss-error-code-eb-step-by-step-instructions/"><u>Troubleshooting and Solving Winodws's Error Code Eb - Step-by-Step Instructions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/troubleshooting-steps-for-successfully-restarting-google-chrome/"><u>Troubleshooting Steps for Successfully Restarting Google Chrome</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/what-to-do-if-there-is-a-red-x-on-the-wireless-network-icon/"><u>What to Do if There Is a Red X on the Wireless Network Icon</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

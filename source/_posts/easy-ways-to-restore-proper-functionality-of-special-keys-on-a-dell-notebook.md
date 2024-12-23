@@ -1,7 +1,7 @@
 ---
 title: Easy Ways to Restore Proper Functionality of Special Keys on a Dell Notebook
-date: 2024-12-09T20:57:16.947Z
-updated: 2024-12-13T18:19:07.011Z
+date: 2024-12-19T17:03:48.188Z
+updated: 2024-12-22T20:25:14.477Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes For **SteelSeries Arctis 5 Mic Not Working**
 
@@ -50,20 +46,20 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -78,16 +74,16 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -102,16 +98,21 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
@@ -147,24 +148,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-attention-magnet-article-initiator-for-2024/"><u>[New] Attention Magnet Article Initiator for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-flash-moment-of-fame-analysis/"><u>[New] Flash Moment of Fame Analysis</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unveiling-the-hidden-gem-best-free-text-to-speech-macapps/"><u>[Updated] 2024 Approved Unveiling the Hidden Gem Best Free Text to Speech macApps</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-multimedia-designers-space/"><u>[Updated] Multimedia Designer's Space</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-navigating-the-depths-of-stardew-a-compreayer-guide-to-unveiling-ginger-islands-wonders-for-2024/"><u>[Updated] Navigating the Depths of Stardew A Compreayer Guide to Unveiling Ginger Island’s Wonders for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-periscope-demystified-features-pricing-and-account-creation-tips-for-2024/"><u>[Updated] Periscope Demystified Features, Pricing & Account Creation Tips for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-how-to-download-facebook-status-videos/"><u>2024 Approved How to Download Facebook Status Videos?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-to-fix-your-stuck-touchpad-scroll-wheel/"><u>Comprehensive Solutions to Fix Your Stuck Touchpad Scroll Wheel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210011861-expert-solutions-for-windows-users-with-unresponsive-usb-input-gear-mice-and-keyboards-made-functional-again/"><u>Expert Solutions for Windows ^Users with Unresponsive USB Input Gear – Mice and Keyboards Made Functional Again!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/geforce-experience-wont-open-issue-solved/"><u>GeForce Experience Won't Open Issue [Solved]</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-mac-mkv-players-compilation/"><u>In 2024, Top Mac MKV Players Compilation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-usb-dropout-effective-strategies-for-stable-connectivity-fixes/"><u>Overcoming USB Dropout: Effective Strategies for Stable Connectivity Fixes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/pioneering-unmicrophoned-audio-capturing-methods-for-2024/"><u>Pioneering Unmicrophoned Audio Capturing Methods for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/quality-at-cost-2024s-top-cams/"><u>Quality at Cost: 2024'S Top Cams</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-issues-with-vital-components-of-the-windows-update-system/"><u>Resolved Issues with Vital Components of the Windows Update System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/stop-the-popping-resolving-crackle-sound-problems-in-windows-operating-systems/"><u>Stop the Popping: Resolving Crackle Sound Problems in Windows Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/surpassing-hurdles-in-nvidia-installation-woes/"><u>Surpassing Hurdles in NVIDIA Installation Woes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-function-key-issues-on-your-asus-laptop/"><u>Troubleshooting Non-Functional Function Key Issues on Your ASUS Laptop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-dealing-with-unresponsive-numeric-keys/"><u>Troubleshooting Tips: Dealing with Unresponsive Numeric Keys</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-insightful-evaluation-androids-photography-tool-lightroom/"><u>[New] Insightful Evaluation Android's Photography Tool, Lightroom</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209839104-csgo-crash-woes-heres-how-you-can-achieve-a-smooth-gaming-experience/"><u>CS:GO Crash Woes? Here's How You Can Achieve a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-requirement-compatible-with-directx-11-gpus-only-to-enable-engine-usage/"><u>Essential Requirement: Compatible with DirectX 11 GPUs Only to Enable Engine Usage</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/fuhrungsfragen-und-losungen-einblick-in-die-winxvideo-ki-technologien/"><u>Führungsfragen Und Lösungen: Einblick in Die WinXVideo KI-Technologien</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/guia-paso-a-paso-como-combinar-archivos-de-video-mp4-eficientemente/"><u>Guía Paso a Paso: Cómo Combinar Archivos De Video MP4 Eficientemente</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-tecno-spark-go-2023-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Tecno Spark Go (2023) to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-successfully-shutting-down-a-frozen-computer-running-windows-11-fixed/"><u>Guide to Successfully Shutting Down a Frozen Computer Running Windows 11 [FIXED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-when-your-computer-is-frozen-during-windows-setup/"><u>How to Troubleshoot When Your Computer Is Frozen During Windows Setup</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-v27-pro-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo V27 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gaming-made-smooth-resolve-microsoft-flight-simulator-2020s-recurring-shutdown-problems/"><u>PC Gaming Made Smooth: Resolve Microsoft Flight Simulator 2020'S Recurring Shutdown Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reset-or-refresh-mastering-the-easy-ways-to-reboot-windows-10/"><u>Reset or Refresh? Mastering the Easy Ways to Reboot Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-elevated-cpu-consumption-troubleshooting-wudfhostexe-on-windows-11/"><u>Resolving Elevated CPU Consumption: Troubleshooting WUDFHost.exe on Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/second-lifes-potential-renaissance-as-we-navigate-the-metaverse/"><u>Second Life's Potential Renaissance as We Navigate The Metaverse</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ring-thumbnail-lengths-for-youtube-audience-focus-for-2024/"><u>Tailoring Thumbnail Lengths for YouTube Audience Focus for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcoming-windows-10-build-1803-upgrade-failures/"><u>Troubleshooting Guide: Overcoming Windows 10 Build 1803 Upgrade Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-how-to-troubleshoot-and-repair-your-ps4-microphone/"><u>Ultimate Guide: How to Troubleshoot and Repair Your PS4 Microphone</u></a></li>
 </ul></div>
 

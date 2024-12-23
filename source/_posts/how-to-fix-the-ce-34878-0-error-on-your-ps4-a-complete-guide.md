@@ -1,7 +1,7 @@
 ---
 title: "How to Fix the CE-34878-0 Error on Your PS4: A Complete Guide"
-date: 2024-09-05T10:12:51.634Z
-updated: 2024-09-06T10:12:51.634Z
+date: 2024-12-17T00:19:53.315Z
+updated: 2024-12-22T21:34:35.213Z
 tags:
   - win11
   - win10
@@ -17,24 +17,12 @@ thumbnail: https://thmb.techidaily.com/3d3919e525f4363ae8c9a19d25cba574e77e7ac05
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/Snap9-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you are playing the PS4 games, you may get stuck in the error**CE-34878-0** in PS4, which displays as the follow:
 
  **An error has occurred in the following application (CE-34878-0)**
 
  But don’t worry. You can fix the PS4 error code CE-34878-0 quickly and easily.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  There are solutions to this problem. This article guidelines**7 easy methods to fix the PS4 error code CE-34878-0** . You don’t need to try them all; just work your way down until your problem is solved.
@@ -55,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/3d3919e525f4363ae8c9a19d25cba574e77e7ac05
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Restart the PS4 firmware to fix the error CE-34878-0**
 
  This problem can be caused by the**hardware faulty** , so you can firstly try to restart your PS4 console and your PS4 controller to make it reconnect and work again.
@@ -68,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/3d3919e525f4363ae8c9a19d25cba574e77e7ac05
 4) Try to open that game that occurs the error and see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: Update the game software to fix the error CE-34878-0**
 
@@ -101,22 +97,10 @@ thumbnail: https://thmb.techidaily.com/3d3919e525f4363ae8c9a19d25cba574e77e7ac05
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57149ea1bbd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Select**Saved Data in System Storage** if you want to save it in your PS4 system, or you can select**Saved Data on USB Storage Device** in you have inserted the USB drive into your PS4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57150967e5e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Follow the instructions on your screen to finish.
 
 4) After that, go to PS4**Settings** \>**System Storage Management** \>**Applications** .
@@ -124,16 +108,18 @@ thumbnail: https://thmb.techidaily.com/3d3919e525f4363ae8c9a19d25cba574e77e7ac05
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57104ee3d61.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Find the game that occurs the problem and**highlight** it.
 
  3) Press the**Options** **button** and select**Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a570f4a2c0e8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) **Restart** your PS4.
 
@@ -156,11 +142,9 @@ This method works if you are playing games on the disc.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 3: Update the PS4 system software to fix the error CE-34878-0**
 
  As mentioned above, the error CE-34878-0 is probably due to the system crashes in your PlayStation, so you can try to update the system software to fix this problem. Follow the instructions below:
@@ -209,6 +193,10 @@ This method works if you are playing games on the disc.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 5: Initialize your PS4 to fix the error CE-34878-0**
 
  This method works for many PS4 users. If you are still getting the error CE-34878-0, you may try to initialize your PS4 to fix it. Initialization  deletes data saved on system storage and deletes all users and their data from the system.
@@ -221,28 +209,14 @@ This method works if you are playing games on the disc.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571f9eebce2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Select**Full** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571fc9dcd29.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Follow the instructions to complete.
 
 4) After finishing, restore all your backup data, and reinstall the games and applications.
@@ -260,39 +234,19 @@ This method works if you are playing games on the disc.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57223d14e7d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Select the camera to turn off. Then**power cycle** your PS4.
 
  3) Go to PS4**Settings** \>**User** \>**Login** **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57227821911.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Uncheck**Enable Face Recognition** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5722a8637ae.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Try your game/application again.
 
 ---
@@ -316,8 +270,6 @@ This method works if you are playing games on the disc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -325,4 +277,23 @@ This method works if you are playing games on the disc.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-5-best-no-cost-video-enhancement-platforms/"><u>[New] 2024 Approved 5 Best No-Cost Video Enhancement Platforms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-perfect-your-video-conferencing-optimal-filter-use-in-zoom/"><u>[New] In 2024, Perfect Your Video Conferencing Optimal Filter Use in Zoom</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-stream-like-a-champion-youtubes-ultimate-techniques/"><u>[New] In 2024, Stream Like a Champion YouTube's Ultimate Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-definitive-guide-to-avoiding-youtube-copyright-issues-for-2024/"><u>[Updated] The Definitive Guide to Avoiding YouTube Copyright Issues for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unique-images-unique-voice-podcast-graphic-principles/"><u>[Updated] Unique Images, Unique Voice Podcast Graphic Principles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211936718-complete-guide-fixing-windows-10-error-code-0xc1900208-successfully/"><u>Complete Guide: Fixing Windows 10 Error Code 0xC1900208 Successfully!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-drivers-get-the-latest-gigabyte-geforce-windforce-edition-wb867d/"><u>Download Drivers: Get the Latest Gigabyte GeForce WindForce Edition WB867D</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-handle-the-incorrect-parameter-error-87-during-library-loading-processes/"><u>How to Correctly Handle the Incorrect Parameter Error (87) During Library Loading Processes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-xp-pen-not-working-full-guide/"><u>How to Fix XP Pen Not Working [Full Guide]</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/learn-how-to-overcome-spelling-errors-with-these-6-tips-for-iphones-auto-correct-feature/"><u>Learn How to Overcome Spelling Errors with These 6 Tips for iPhone's Auto-Correct Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-through-error-code-80240020-a-comprehensive-solution-for-windows-11-users/"><u>Navigating Through Error Code 80240020: A Comprehensive Solution for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-windows-10-file-explorer-freezing-issues-a-complete-guide/"><u>Quick Fixes for Windows 10 File Explorer Freezing Issues: A Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/runtime-layer-mismatch-in-windows-api/"><u>Runtime Layer Mismatch in Windows API</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-lag-in-world-of-warcraft-gameplay/"><u>Step-by-Step Fixes for Lag in World of Warcraft Gameplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transform-your-videos-effortlessly-convert-flv-to-swf-using-moveaveys-web-tool-at-no-cost/"><u>Transform Your Videos Effortlessly: Convert FLV to SWF Using Moveavey's Web Tool at No Cost</u></a></li>
+</ul></div>
 

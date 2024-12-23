@@ -1,7 +1,7 @@
 ---
 title: Revive Broken HP Laptop Buttons with Easy Troubleshooting Steps
-date: 2024-09-11T15:22:51.118Z
-updated: 2024-09-12T15:22:51.118Z
+date: 2024-12-21T23:23:10.158Z
+updated: 2024-12-22T22:19:21.696Z
 tags:
   - win11
   - win10
@@ -19,19 +19,6 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
  Recently, many laptop users have reported that they have an issue with their battery. **When they view their battery information, they notice that their battery is not charging.** If you also run into this issue, don’t worry! we’ve put together some useful fixes to help you resolve this issue.
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Fixes to try:**
 
  You don’t have to try them all; just try each one in turn until your battery is charging again.
@@ -45,10 +32,7 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
@@ -84,19 +68,14 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you turn off the battery charge threshold feature, your battery should be charging.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Perform a power reset on your laptop
@@ -122,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Uninstall** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/2.jpg)
@@ -138,31 +121,18 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd073b6f72.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ii. Select**Batteries** . Click **Action** and select **Scan for hardware changes** . Wait several seconds and **Microsoft ACPI-Compliant Control Method Battery**  will be reinstalled on your laptop.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Update the driver for your battery management device
@@ -189,13 +159,6 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -205,13 +168,6 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 Your battery should then be charging.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully one of the fixes above resolved the laptop battery not charging issue for you. Please leave your comment below if you have any questions.
 
@@ -231,5 +187,21 @@ Your battery should then be charging.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-instructor-insights-choosing-the-prime-video-capturing-technology/"><u>[New] In 2024, Instructor Insights Choosing the Prime Video Capturing Technology</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-navigating-the-world-of-instagram-puzzles-for-peak-performance/"><u>[New] In 2024, Navigating the World of Instagram Puzzles for Peak Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-directx-encountered-an-unrecoverable-error/"><u>[Solved] DirectX Encountered an Unrecoverable Error</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-final-cut-pros-top-10-must-have-plug-ins-for-professionals/"><u>[Updated] Final Cut Pro’s Top 10 Must-Have Plug-Ins for Professionals</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-guide-to-excellent-powerpoint-recording-practices/"><u>2024 Approved Guide to Excellent PowerPoint Recording Practices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mpewma-movavi/"><u>迅速なMPEからWMAへのオンライン変換 – Movaviで役立つ無料ソリューション</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-acurite-pro-01036m-weather-station-analysis-effortless-installation-and-durable-build/"><u>Comprehensive AcuRite Pro 01036M Weather Station Analysis - Effortless Installation & Durable Build</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-nvidia-share-service-issues-a-step-by-step-solution/"><u>How To Fix Nvidia Share Service Issues: A Step-By-Step Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-lost-mouse-pointer-while-using-a-touchscreen-on-windows-11/"><u>How to Restore Your Lost Mouse Pointer While Using a Touchscreen on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-the-crimson-display-dilemma-on-windows-11/"><u>Resolved: The Crimson Display Dilemma on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-cwindowssystem32configsystemprofile-desktop-error-resolution/"><u>Troubleshooting Guide: C: Windows system32 config SystemProfile Desktop Error Resolution</u></a></li>
+</ul></div>
 

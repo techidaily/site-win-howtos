@@ -1,7 +1,7 @@
 ---
 title: Disable Touchpad When Connected to Mouse on Windows 10
-date: 2024-09-11T15:20:41.318Z
-updated: 2024-09-12T15:20:41.318Z
+date: 2024-12-17T18:11:29.292Z
+updated: 2024-12-22T20:06:48.383Z
 tags:
   - win11
   - win10
@@ -40,55 +40,34 @@ thumbnail: https://thmb.techidaily.com/172d2b5e16d3f59f8f3e9aeaa8db2d7a1dcd42c12
 
  If you don’t recall any recent changes made to your computer, the latest Windows update(s) and touchpad-related driver are always the first places you should be looking at. Here is how you can unmake the changes to see if it helps to bring back your touchpad cursor:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1.1 Uninstall Windows Update(s)
 
 1. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control panel** and hit **Enter.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-9.png)
 2. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
-![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
-3. Click **View installed updates** on the right pane.  
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
+3. Click **View installed updates** on the right pane.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-40.png)
 4. Click the **Uninstall**  button to remove the latest Windows update patch before the touchpad cursor disappears.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-41.png)
 5. Restart your computer afterward.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See if your touchpad cursor is back after uninstalling the last Windows update. If the problem remains, please move on.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1.2 Uninstall touchpad-related driver
 
@@ -103,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/172d2b5e16d3f59f8f3e9aeaa8db2d7a1dcd42c12
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Restart the touchpad with the function keys
 
  If the touchpad cursor disappears on your computer without you making any changes to your computer, you can try to re-enable the touchpad feature with the function keys.
@@ -118,28 +90,20 @@ thumbnail: https://thmb.techidaily.com/172d2b5e16d3f59f8f3e9aeaa8db2d7a1dcd42c12
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-78.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-79.png)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When the touchpad feature is turned off or on by the function key(s), there’s usually a notification that tells you such on your screen, like this:
@@ -151,10 +115,7 @@ thumbnail: https://thmb.techidaily.com/172d2b5e16d3f59f8f3e9aeaa8db2d7a1dcd42c12
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Uninstall conflicting software
@@ -170,6 +131,11 @@ To do so:
 3. Click your remote control or screen recording software, then **Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-77.png)
 4. Repeat the same until you uninstall all remote control and screen recording software programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Restart your computer afterward.
 
 Then see if your touchpad cursor still disappears. If so, please move on.
@@ -190,20 +156,10 @@ Then see if your touchpad cursor still disappears. If so, please move on.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
@@ -212,13 +168,6 @@ Then see if your touchpad cursor still disappears. If so, please move on.
  Check to see if your touchpad cursor still disappears. If so, please move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Make sure you can see touchpad in Settings
 
@@ -235,13 +184,6 @@ Then see if your touchpad cursor still disappears. If so, please move on.
  In that case, you’ll have to consider resetting or reinstalling your computer for the touchpad cursor disappearing problem to be fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Reset your computer
 
@@ -271,5 +213,20 @@ Then see if your touchpad cursor still disappears. If so, please move on.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-the-ultimate-list-of-mac-screen-capture-software/"><u>[Updated] The Ultimate List of Mac Screen Capture Software</u></a></li>
+<li><a href="https://win-help.techidaily.com/erstellen-sie-ihre-eigene-nichtstromkassette-unter-windows-schnell-und-einfach/"><u>Erstellen Sie Ihre Eigene Nichtstromkassette Unter Windows - Schnell Und Einfach!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-d3dx942dll-missing-or-not-found-errors/"><u>How to Fix d3dx9_42.dll Missing or Not Found Errors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-best-methods-to-try-for-changing-playback-speed-in-spotify/"><u>In 2024, Best Methods to Try for Changing Playback Speed in Spotify</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-new-languages-using-ai-discover-the-power-of-chatgpt-plus/"><u>Mastering New Languages Using AI: Discover the Power of ChatGPT Plus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-oculus-repair-strategies-to-tackle-errors-and-enhance-your-vr-experience/"><u>Mastering Oculus Repair Strategies to Tackle Errors and Enhance Your VR Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-shift-key-failure-expert-troubleshooting-tips/"><u>Solving 'Shift Key Failure': Expert Troubleshooting Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-installing-the-latest-feature-update-on-windows-10-build-1607/"><u>Trouble Installing the Latest Feature Update on Windows 10 Build 1607</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-microsoft-print-to-pdf-issues-on-windows-10-and-11/"><u>Troubleshooting Microsoft Print to PDF Issues on Windows 10 & 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-update-service-failures-quick-and-effective-fixes/"><u>Troubleshooting Windows Update Service Failures - Quick and Effective Fixes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-of-the-samsung-cf591-a-game-changer-in-monitor-technology/"><u>Unveiling the Power of the Samsung CF591: A Game Changer in Monitor Technology</u></a></li>
+</ul></div>
 

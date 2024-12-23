@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix the Obsidian Gaming Screen Problem"
-date: 2024-09-05T10:12:21.649Z
-updated: 2024-09-06T10:12:21.649Z
+date: 2024-12-18T17:52:14.425Z
+updated: 2024-12-22T22:31:02.127Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 
 If you opened Steam only to find**Store not loading** any more or even going all blank, don’t panic. It’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6 Fixes for Steam Store Not Loading
 
  Here’re 6 fixes that have helped other gamers resolve the Steam Store not loading problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,6 +31,10 @@ If you opened Steam only to find**Store not loading** any more or even going all
 4. **[Run Steam in Big Picture mode](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Launch Steam from shortcut](https://tools.techidaily.com/drivereasy/download/)** **[](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Want us to fix the problem for you?](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 1: Run flushconfig**
 
@@ -54,22 +62,10 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eb4c9008b0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) On your keyboard, press **the Windows logo key**  and **R**  at the same time, then copy & paste **C:\\Program Files (x86)\\Steam**  into the box and press **Enter**  .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eb7602a8e8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4)
 
 * Among the folders, delete all EXCEPT **Steamapps** , **Steamapps** and **Skins** .
@@ -77,38 +73,14 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eb897dafd2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Launch Steam and it’ll update on itself.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eb8b7cb600.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6) Log in Steam and see if Steam store loads fine this time.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Remove Steam compatibility
 
  Compatibility mode is usually not recommended for Steam to function smoothly. So we might have to turn off the mode to see if the**Store-not-loading** problem gets fixed:
@@ -121,22 +93,14 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eda2453493.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Compatibility** tab, un-check all**the boxes** and click**Change settings for all users** (or**Show settings for all users** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eda80003e6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Un-check all**the boxes** and click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4edbad49f8e.jpg)
@@ -146,11 +110,9 @@ If you opened Steam only to find**Store not loading** any more or even going all
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Run Steam in Big Picture mode
 
  Running Steam in Big Picture mode is a proven workaround for most users who have had a blank Steam Store problem. To do so:
@@ -160,17 +122,9 @@ If you opened Steam only to find**Store not loading** any more or even going all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ec27c142c2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 2) Hopefully your Steam store shows up fine now.
 
 ---
@@ -184,11 +138,9 @@ If you opened Steam only to find**Store not loading** any more or even going all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eb7602a8e8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Locate and right-click on **Steam.exe** and click**Create shortcut** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee2106c035.jpg)
@@ -197,22 +149,24 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee233441bd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Under the**Shortcut** tab, leave**a space** at the end of the **Target** box, then copy and paste **\-no-cef-sandbox** .
 
  Click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ebe97cff5c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Double-click on **Steam – Shortcut** to launch Steam. Hope Steam store runs properly this time.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Want us to fix the problem for you?
 
  If the fix above didn’t work, and you don’t have the time or confidence to troubleshoot the problem for yourself, get us to fix it for you. All you need to do is **[buy a 1-year subscription to Driver Easy](https://tools.techidaily.com/drivereasy/download/)**   (just $29.95) and you get free technical support as part of your purchase. This means you can contact our computer technicians directly and explain your problem, and they’ll investigate to see if they can resolve it remotely.
@@ -230,8 +184,6 @@ If you opened Steam only to find**Store not loading** any more or even going all
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +191,26 @@ If you opened Steam only to find**Store not loading** any more or even going all
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-laughs-the-ultimate-resource-for-free-templates/"><u>[New] Crafting Laughs The Ultimate Resource for Free Templates</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-premiere-pro-starter-kit-with-top-templates/"><u>[New] Free Premiere Pro Starter Kit with Top Templates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-dell-laptop-usb-problems-step-by-step-fixes-you-need-to-know/"><u>Dealing with Dell Laptop USB Problems: Step-by-Step Fixes You Need to Know</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-13c-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi 13C Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-persistent-werfaultexe-error-messages-on-your-computer/"><u>How to Fix the Persistent WerFault.exe Error Messages on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/identifying-and-fixing-unwanted-startups-in-windows-10-computers/"><u>Identifying and Fixing Unwanted Startups in Windows 10 Computers</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-standing-out-on-tiktok-masterful-pfp-techniques-and-concepts/"><u>In 2024, Standing Out on TikTok Masterful PFP Techniques and Concepts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-list-of-superior-real-time-streaming-networks/"><u>In 2024, The Ultimate List of Superior Real-Time Streaming Networks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagrams-top-25-leaders-in-digital-influence/"><u>Instagram's Top 25 Leaders in Digital Influence</u></a></li>
+<li><a href="https://games-able.techidaily.com/maintaining-talk-order-strategic-use-of-twitch-bansunbans/"><u>Maintaining Talk Order: Strategic Use of Twitch Bans/Unbans</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-touchscreen-problems-on-windows-11-exploring-five-reliable-fixes/"><u>Overcoming Touchscreen Problems on Windows 11: Exploring Five Reliable Fixes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/services-techno-supports-online-pour-le-logiciel-winx-dvd-ripper-et-outils-de-transformation-video/"><u>Services Techno-Supports Online Pour Le Logiciel WinX DVD Ripper Et Outils De Transformation Vidéo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-unresponsive-keyboard-arrows-top-troubleshooting-tips-and-fixes/"><u>Solve Unresponsive Keyboard Arrows: Top Troubleshooting Tips & Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-overcoming-error-code-80-on-your-steam-platform/"><u>Step-by-Step Troubleshooting: Overcoming Error Code 80 on Your Steam Platform</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-definitive-trick-to-stop-skyrims-never-ending-launch-screen-and-enjoy-gaming/"><u>The Definitive Trick to Stop Skyrim's Never-Ending Launch Screen and Enjoy Gaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-restore-touch-and-pen-input-on-your-device/"><u>Troubleshooting: How to Restore Touch & Pen Input on Your Device</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-innovative-approaches-to-minimize-audio-and-video-file-size/"><u>Updated Innovative Approaches to Minimize Audio and Video File Size</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/what-is-crossfade-for-2024/"><u>What Is Crossfade for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-might-netflix-be-down-diagnose-and-resolve-common-streaming-glitches/"><u>Why Might Netflix Be Down? Diagnose & Resolve Common Streaming Glitches</u></a></li>
+</ul></div>
 

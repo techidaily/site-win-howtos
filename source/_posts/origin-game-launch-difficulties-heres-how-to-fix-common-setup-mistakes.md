@@ -1,7 +1,7 @@
 ---
 title: Origin Game Launch Difficulties? Here's How to Fix Common Setup Mistakes
-date: 2024-09-11T15:22:57.482Z
-updated: 2024-09-12T15:22:57.482Z
+date: 2024-12-16T00:00:31.075Z
+updated: 2024-12-23T00:32:15.762Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Continuously getting the error **“There is a problem with your games setup. Pl
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/featured-image-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Repair your game
 
  Missing or corrupt game files can cause a wide variety of issues. So you need to make sure they are intact. The feature, repairing games allows you to achieve that goal. It checks your game’s installation and then automatically downloads any replacement or missing files:
@@ -37,22 +41,12 @@ Continuously getting the error **“There is a problem with your games setup. Pl
   
 ![Origin error There is a problem with your game's setup. Please reinstall your game. ](https://images.drivereasy.com/wp-content/uploads/2021/05/repair-game.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This file check can take up to an hour to complete depending on your computer’s hardware. If there are any file issues or corrupt files, it will replace them or download them again.
 
 If that didn’t help, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Clear Origin game cache
@@ -81,10 +75,7 @@ If that didn’t help, try the next fix below.
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/do-not-delete-LocalContent.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To delete these files and folders quickly, you can hold the**Windows + A keys** to select all of them. Then hold**Ctrl** and click on**LocalContent** to deselect it. Then you can right-click on the files and folders you selected and choose**Delete** .  
@@ -92,10 +83,7 @@ If that didn’t help, try the next fix below.
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/delete.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
@@ -105,16 +93,7 @@ If that didn’t help, try the next fix below.
 ![open AppData using command](https://images.drivereasy.com/wp-content/uploads/2021/05/appdata.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) Look for the**Origin** folder. Right-click it and select**Delete** .  
@@ -126,16 +105,7 @@ If that didn’t help, try the next fix below.
 ![delete Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/click-on-AppData.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  9) Open the**Local** folder and delete the**Origin** folder in here.  
@@ -145,13 +115,6 @@ If that didn’t help, try the next fix below.
 10) Restart your PC and log back into Origin.
 
 If this didn’t give you any luck, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Update your device drivers
 
@@ -169,34 +132,17 @@ Here’s how to update drivers with Driver Easy:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-device-drivers.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. Then resume your installation or launch your game from Origin to check if that error message still appears.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run Origin as an administrator
@@ -214,6 +160,10 @@ If you want to make Origin always run as administrator, take these steps:
 * Right-click the Origin client icon on your desktop (or in the Origin directory if not on your desktop and click**Properties** .  
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/always-run-Origin-as-an-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 
@@ -239,13 +189,6 @@ If that didn’t help, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/how-to-check-my-Windows-version.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select**About** . Then in the**Windows specifications** section, you’ll find your edition.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/my-windows-version.jpg)
@@ -267,5 +210,20 @@ If that didn’t help, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-shatter-the-status-quo-with-these-instagram-9-methods-for-stardom/"><u>[New] Shatter the Status Quo with These Instagram #9 Methods for Stardom</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-key-to-viral-instagram-posts/"><u>[Updated] 2024 Approved The Key to Viral Instagram Posts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-earning-mastery-executing-a-3-step-procedure-to-evaluate-your-youtube-income/"><u>[Updated] Earning Mastery Executing a 3-Step Procedure to Evaluate Your YouTube Income</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-fixing-the-cannotreplacethisfile-issue-in-windows-11-error-code-0x80072efd/"><u>Effective Solutions for Fixing the 'CAN_NOT_REPLACE_THIS_FILE' Issue in Windows 11 (Error Code 0X80072EFD)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-mouse-visibility-on-new-windows-os/"><u>Optimizing Mouse Visibility on New Windows OS</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-zte-axon-40-lite-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for ZTE Axon 40 Lite Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208325478-top-solutions-to-eliminate-pubg-slow-loading-issues-best-fixes-revealed/"><u>Top Solutions to Eliminate PUBG Slow Loading Issues: Best Fixes Revealed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-with-windows-10-version-1607s-new-features-heres-how-to-fix-it/"><u>Trouble with Windows 10 Version 1607'S New Features? Here's How to Fix It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcoming-directx-initialization-failures/"><u>Troubleshooting Guide: Overcoming DirectX Initialization Failures</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ng-music-and-media-with-precision-using-youtube-video-editor-for-2024/"><u>Uniting Music & Media with Precision Using YouTube Video Editor for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-success-with-microsoft-copilot-a-better-choice-over-chatgpt-explained-in-four-ways/"><u>Unlocking Success with Microsoft Copilot - A Better Choice Over ChatGPT Explained in Four Ways</u></a></li>
+</ul></div>
 

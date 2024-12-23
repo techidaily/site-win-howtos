@@ -1,7 +1,7 @@
 ---
 title: "Simplifying Device Communication: An Epson Printer/Scanner Guide"
-date: 2024-09-05T10:10:04.702Z
-updated: 2024-09-06T10:10:04.702Z
+date: 2024-12-15T17:39:42.519Z
+updated: 2024-12-22T18:46:51.146Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/4db6ae504f1bfc8456d6bcf83012c53d92e6a263d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae1531b10f45.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you see the**Print driver host for application error** , don’t panic. This is a common error and it can read either:
 
 * **Print driver host for 32bit applications has stopped working**
@@ -40,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/4db6ae504f1bfc8456d6bcf83012c53d92e6a263d
 
  Note: All the screenshots below come from Windows 10, but the fixes also work on Windows 7 & Windows 8.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1\. Reinstall your printer
 
  You can fix the**Print driver host for 323bit applications has stopped working** error by reinstalling the printer in your computer, and this helps you reconnect to the printer service. To do so, follow the steps below:
@@ -52,9 +50,17 @@ You should first uninstall the printer from your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae155061b9aa.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the**Printers** section, right click on your**printer** , and select**Remove device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae155dae8d27.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)**Confirm** to delete the printer.
 
@@ -79,43 +85,21 @@ Now you should reinstall your printer to your computer.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16cce058a8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Your computer will automatically connect to your printer and install it in your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16d03d720a.png)
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6) Try to have a test print to see if your error disappears.
 
  This should resolve the issue. If not, we have something else you can try.
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2\. Reinstall your printer driver
 
  You can also uninstall your printer driver and reinstall it to fix the error. To do so, follow the instructions below:
@@ -126,48 +110,22 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16dab47de2.png)
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Double click**Printers** to expand it, and right click on your printer (it may show as**Unknown device** ), and select**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae170cd9723f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Check the box next to**Delete the driver software for this device** if you’re prompted, and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae17154337fb.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) After uninstalling, restart your computer and Windows will reinstall the printer driver for you.
 
  Try your printer again and the error should be removed now. If the error still persists, you can try[Method 3](https://tools.techidaily.com/drivereasy/download/) to update your printer driver.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3\. Update your printer driver
 
  The missing or outdated printer driver can cause the Print driver host for 32bit applications has stopped working error, so you should make sure that your printer driver is up to date.
@@ -188,18 +146,6 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd74d18191.png)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update**   button next to the flagged printer device to automatically download the latest driver (you can do this with the **FREE**   version), then install it in your computer.
 
  Or click **Update**  **All**   to automatically download and install the all the latest correct drivers that is missing or outdated in your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click _**Update All**_ ).
@@ -218,8 +164,6 @@ Now you should reinstall your printer to your computer.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +171,16 @@ Now you should reinstall your printer to your computer.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-essential-cloud-hookups-for-android/"><u>[New] Essential Cloud Hookups for Android</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-budget-friendly-webinar-strategies-for-youtube/"><u>[Updated] In 2024, Budget-Friendly Webinar Strategies for YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-enhancing-classroom-learning-through-recorders/"><u>[Updated] In 2024, Enhancing Classroom Learning Through Recorders</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-poco-x6-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-6-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-synaptics-touchpad-not-responding-to-scroll-gestures-on-windows-11/"><u>Effective Solutions for Synaptics Touchpad Not Responding to Scroll Gestures on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-fixes-for-windows-11-users-with-unresponsive-airpods-latest-strategies/"><u>Essential Fixes for Windows 11 Users with Unresponsive AirPods - Latest Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/svchostexe-high-usage-problem-an-in-depth-look-at-netsvcs-services-and-effective-strategies-for-optimization/"><u>svchost.exe High Usage Problem: An In-Depth Look at Netsvcs Services & Effective Strategies for Optimization</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unveiling-the-mystery-of-msda80dll-essential-for-your-pc/"><u>Unveiling the Mystery of MSDA80.DLL - Essential for Your PC?</u></a></li>
+</ul></div>
 

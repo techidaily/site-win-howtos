@@ -1,7 +1,7 @@
 ---
 title: How to Address and Resolve a Non-Responsive Laptop Touchpad Quickly
-date: 2024-12-06T21:54:08.324Z
-updated: 2024-12-13T20:54:35.497Z
+date: 2024-12-18T22:35:36.895Z
+updated: 2024-12-22T20:04:28.850Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these tips
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -48,8 +44,16 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf297e71ab26.png)
 3. In the view of**Category** , click**Hardware and Sound** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf298111eba5.jpg)
 4. Under**Devices and Printers** , click**Mouse** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29836c37da.jpg)
 5. Select the last tab. (The last tab is usually for touchpad configuration if you have a touchpad. And its name varies with different models of computer.) Then you can select a checkbox or click a button to enable your touchpad.  
@@ -57,11 +61,11 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29c061bc83.jpg)
 6. Check if your touchpad problem is resolved. If not, move on to Tip 2, below.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Tip 2: Enable two-finger scrolling
 
@@ -72,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 3. Expand**MultiFinger Gestures** , and select the**Two-Finger Scrolling** box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29c98471f8.jpg)
 4. Click**Apply** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Check if your touchpad now works properly. If not, try Tip 3, below.
 
@@ -90,12 +90,16 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf298ab89d01.jpg)
 3. Click**Apply** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Check if your touchpad now works properly. If not, try Tip 4, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip 4: Update your touchpad driver
@@ -112,10 +116,6 @@ OR
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money-back guarantee.)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf22faf2a3c4.jpg)
 4. Restart your computer and check if your touchpad now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
@@ -143,24 +143,17 @@ Hopefully, this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-add-stickers-to-instagram/"><u>[New] 2024 Approved How to Add Stickers to Instagram?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-prime-facebook-extra-tools-secure-file-grabber-optimized-for-ff/"><u>[New] In 2024, Prime Facebook Extra Tools Secure File Grabber, Optimized For FF</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-superior-selections-pro-webcam-stabilizers/"><u>[New] In 2024, Superior Selections Pro Webcam Stabilizers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-depth-assessment-gopro-silver-hero4-sliver/"><u>[New] In-Depth Assessment GoPro Silver Hero4 Sliver</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-peak-craft-space-25-appraisal/"><u>[New] Peak Craft Space 25 Appraisal</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-compendium-of-affordable-rich-graphics-resources-online/"><u>2024 Approved The Essential Compendium of Affordable, Rich Graphics Resources Online</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boost-your-apple-watchs-endurance-with-these-essential-battery-saving-tweaks-expert-tips-from-zdnet/"><u>Boost Your Apple Watch's Endurance with These Essential Battery-Saving Tweaks - Expert Tips From ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conquering-failed-nvidia-setup-errors/"><u>Conquering Failed NVIDIA Setup Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-high-network-consumption-by-svchostexe-netsvcs-a-complete-guide-to-troubleshooting-and-resolution/"><u>Fixing High Network Consumption by svchost.exe (Netsvcs): A Complete Guide to Troubleshooting and Resolution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hearthstone-slowness-bypass-lag-issues-using-simple-fixes/"><u>Hearthstone Slowness? Bypass Lag Issues Using Simple Fixes!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-a-malfunctioning-corsair-keyboard-quickly-and-effectively/"><u>How to Resolve a Malfunctioning Corsair Keyboard Quickly and Effectively</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/invalid-path-heres-your-guide-to-fixing-the-wrong-directory-name-error/"><u>Invalid Path? Here's Your Guide to Fixing the Wrong Directory Name Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reactivate-your-windows-11-bluetooth-connection-quick-fixes-inside/"><u>Reactivate Your Windows 11 Bluetooth Connection - Quick Fixes Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-no-response-from-dns-server-issues-with-these-4-simple-fixes/"><u>Solve 'No Response From DNS Server' Issues with These 4 Simple Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-keyboards-that-arent-responding-to-inputs-in-windows-10-and-11/"><u>Step-by-Step Solution for Keyboards That Aren't Responding to Inputs in Windows 10 and 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-completed-how-to-correctly-install-battleye-anti-cheat-software/"><u>Troubleshooting Completed: How to Correctly Install BattlEye Anti-Cheat Software</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-a-complete-guide-of-top-7-video-language-translators/"><u>Updated A Complete Guide of Top 7 Video Language Translators</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-optimizing-mov-file-storage-in-windows-10-systems-for-2024/"><u>[New] Optimizing .mov File Storage in Windows 10 Systems for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-crops-and-cultivation-compilation/"><u>[New] The Ultimate Crops & Cultivation Compilation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-review-of-syma-x5c-the-ultimate-drone-guide-for-new-users/"><u>[Updated] Review of Syma X5C – The Ultimate Drone Guide for New Users</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-your-engagement-now-discover-these-key-youtube-shortcuts/"><u>Boost Your Engagement Now! - Discover These Key YouTube Shortcuts</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/daily-bulbarian-duo-study-and-play/"><u>Daily Bulbarian Duo: Study & Play</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-to-reinstate-the-bluetooth-icon-in-your-windows-10-interface/"><u>Easy Fixes to Reinstate the Bluetooth Icon in Your Windows 10 Interface</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-streamlight-solutions-best-for-video-illumination/"><u>In 2024, Streamlight Solutions Best for Video Illumination</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-upcoming-games-with-industry-experts/"><u>In 2024, Upcoming Games with Industry Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-learn-the-easy-reset-procedure-to-bring-your-keyboard-back-to-life/"><u>Quick Fix: Learn the Easy Reset Procedure to Bring Your Keyboard Back to Life</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-troubleshooting-and-fixing-oddworld-soulstorm-for-stable-pc-gaming-experience/"><u>Solved: Troubleshooting and Fixing Oddworld: Soulstorm for Stable PC Gaming Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210213584-windows-10-blue-screen-blues-heres-how-to-end-the-loop-of-unexpected-reboots/"><u>Windows 10 Blue Screen Blues? Here's How to End the Loop of Unexpected Reboots</u></a></li>
 </ul></div>
 

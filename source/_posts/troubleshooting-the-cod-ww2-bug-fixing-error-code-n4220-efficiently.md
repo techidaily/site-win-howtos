@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the COD WW2 Bug - Fixing Error Code N4220 Efficiently
-date: 2024-12-09T21:45:59.696Z
-updated: 2024-12-13T20:41:35.049Z
+date: 2024-12-19T20:02:29.790Z
+updated: 2024-12-22T19:14:16.018Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 2. [Check your wireless network adapter](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your WiFi driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1\. Enable Microsoft Hosted Network Virtual Adapter
 
  1)Press**Windows** key +**X** key together to open quick-access menu.  
@@ -45,18 +41,22 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)Click**View** icon and tick on**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595daff2127b9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3)Find and expand**Network adapters** dialog.  
  Then right-click on**Microsoft Hosted Network Virtual Adapter** to choose**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db07149d8a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4)Now set your WiFi hotspot again to see if the error has been fixed.
 
@@ -68,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
  Then right-click on your wireless network adapter to choose**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db5161c78b.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3)View on**Power Management** pane.  
  Make sure**Allow the comoputer to turn off this device to save power** is**unchecked** and click**OK** to save settings.
@@ -99,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/d072f3ff8286e2183bcf11f3041ab0808200f5d6d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db867abdfc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now Microsoft will detect the update for you automatically.
 
  However, for some reason, Microsoft cannot always find the update for you. If you receive the message:**The best driver software for your device is already installed** , please try the next method to update the driver.
@@ -117,7 +117,7 @@ Now Microsoft will detect the update for you automatically.
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -150,19 +150,16 @@ Now Microsoft will detect the update for you automatically.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-advanced-tutorial-embedding-srt-into-mp4-content/"><u>[New] 2024 Approved Advanced Tutorial Embedding SRT Into MP4 Content</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-views-and-subscribers-a-list-of-proven-youtube-techniques/"><u>[Updated] In 2024, Elevate Views and Subscribers A List of Proven YouTube Techniques</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-recovery-quickly-recover-photosvideos-for-2024/"><u>[Updated] Snapchat Recovery Quickly Recover Photos/Videos for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-streamline-your-youtube-experience-creating-custom-subscription-bar-with-filmora/"><u>[Updated] Streamline Your YouTube Experience Creating Custom Subscription Bar with Filmora</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-high-earning-video-visionaries/"><u>2024 Approved High Earning Video Visionaries</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-rectifying-unexpected-bootup-problems-with-windows-11-pcs/"><u>Diagnosing and Rectifying Unexpected Bootup Problems with Windows 11 PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-class-registration-issues-in-windows-10-a-step-by-step-guide/"><u>How to Fix Class Registration Issues in Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oppo-find-x7-ultra-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Oppo Find X7 Ultra Devices</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/lost-usb-data-rescue-four-methods-when-files-vanish-without-recycling/"><u>Lost USB Data Rescue: Four Methods When Files Vanish Without Recycling</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-windows-update-experience-with-easy-fixes-here/"><u>Seamless Windows Update Experience With Easy Fixes Here</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-steps-restoring-functionality-when-your-keyboard-fails-on-startup/"><u>Solution Steps: Restoring Functionality When Your Keyboard Fails on Startup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-crashes-of-shockwave-flash-plugin-on-chrome-browser/"><u>Troubleshooting and Fixing Crashes of Shockwave Flash Plugin on Chrome Browser</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-fixing-the-issue-of-windowsplusshiftpluss-malfunction-in-windows-11-and-10/"><u>Troubleshooting Steps: Fixing the Issue of Windows+Shift+S Malfunction in Windows 11 and 10</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-cheap-film-editing-software/"><u>Updated The Ultimate Guide to Cheap Film Editing Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bring-out-canons-best-enjoy-10-free-luts-and-beyond-selection/"><u>[Updated] Bring Out Canon's Best Enjoy 10 Free LUTs and Beyond Selection</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-stealthy-search-strategies-for-elusive-youtube-videos/"><u>[Updated] Stealthy Search Strategies for Elusive YouTube Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cursor-wont-stop-blinking-heres-how-to-fix-it-now/"><u>Cursor Won't Stop Blinking? Here’s How to Fix It Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-updated-microsoft-speaker-driver-software-for-windows-computers/"><u>Download Updated Microsoft Speaker Driver Software for Windows Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-your-dell-wireless-keyboard-troubleshooting-tips-and-solutions/"><u>Fixing Your Dell Wireless Keyboard: Troubleshooting Tips and Solutions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-y100i-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo Y100i FRP Locks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-error-code-0x800f081f-when-installing-net-framework-35/"><u>How to Fix Error Code 0X800F081F When Installing .NET Framework 3.5</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-realme-v30t-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme V30T Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unique-visuals-foreground-only-background-out/"><u>In 2024, Unique Visuals Foreground Only, Background Out</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-solutions-for-recovering-deleted-or-lost-steam-game-files/"><u>Successful Solutions for Recovering Deleted or Lost Steam Game Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210760530-undetected-hard-drives-find-out-why-and-how-you-can-fix-it/"><u>Undetected Hard Drives? Find Out Why and How You Can Fix It!</u></a></li>
 </ul></div>
 

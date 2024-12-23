@@ -1,7 +1,7 @@
 ---
 title: Unstuck From a White Screen on Your Laptop? Here Are the Ultimate Repair Tips
-date: 2024-12-11T18:24:02.444Z
-updated: 2024-12-13T18:55:14.508Z
+date: 2024-12-20T20:16:15.301Z
+updated: 2024-12-22T20:22:38.462Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Make sure your power icon is turned on
 
 1) Right-click on the blank area of taskbar and choose **Settings**.  
@@ -33,13 +37,17 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-1.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2）Click**Turn system icons on or off**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-6.png)
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Make sure **Power** is on.  
@@ -48,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Go back on the window of step 2). Click **Select which icons appear on the taskbar**.  
@@ -61,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-1.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
 
  This problem could be also caused by a wrong battery driver. You can solve it through reinstalling your battery driver.
@@ -75,23 +79,19 @@ Follow these:
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/8.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
   
@@ -125,22 +125,24 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-prime-fb-downloader-pack-for-ff-browsing-enthusiasts/"><u>[New] 2024 Approved Prime FB Downloader Pack for FF Browsing Enthusiasts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-quick-fixes-to-ensure-your-tiktok-accounts-corrected-age/"><u>[New] Quick Fixes to Ensure Your TikTok Account's Corrected Age</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-expert-methods-for-shushing-complaints-in-gmeet-sessions/"><u>[Updated] Expert Methods for Shushing Complaints in GMeet Sessions</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-unlocking-youtube-secrets-sharing-videos-in-google-wallet-for-2024/"><u>[Updated] Unlocking YouTube Secrets Sharing Videos in Google Wallet for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-prime-picks-the-best-in-bike-gaming/"><u>2024 Approved Prime Picks The Best in Bike Gaming</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/activation-interrupted/"><u>Activation Interrupted</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723203183938-deciphering-and-resolving-error-0x80070091-for-successful-system-restores-in-windows-11-expert-tips/"><u>Deciphering and Resolving Error 0X80070091 for Successful System Restores in Windows 11 - Expert Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-service-registration-is-missing-or-corrupt-error-on-windows-11/"><u>Fix Service Registration Is Missing or Corrupt Error on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-address-and-resolve-a-non-responsive-laptop-touchpad-quickly/"><u>How to Address and Resolve a Non-Responsive Laptop Touchpad Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-get-the-most-value-from-windows-11-product-codes/"><u>How to Get the Most Value From Windows 11 Product Codes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723201626581-mastering-file-explorer-on-windows-11-simplified-troubleshooting-and-tips/"><u>Mastering File Explorer on Windows 11: Simplified Troubleshooting & Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-windows-10-class-registration-errors-expert-tips-and-solutions/"><u>Overcome Windows 10 Class Registration Errors - Expert Tips & Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/remedies-for-a-broken-key-a-comprehensive-fix-guide/"><u>Remedies for a Broken '@' Key: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-road-less-filmed-journeying-into-the-heart-of-travel-vlogging-for-2024/"><u>The Road Less Filmed Journeying Into the Heart of Travel Vlogging for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-correcting-livekernelevent-code-144-issues/"><u>Troubleshooting and Correcting LiveKernelEvent Code 144 Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/webex-2024-mp4/"><u>WebEx 2024 動画変換：録画から MP4へのステップバイステップガイド</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-culinary-carousel-swirling-up-top-food-network-names/"><u>[New] 2024 Approved Culinary Carousel Swirling Up Top Food Network Names</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-ideal-choices-top-10-mac-video-recorders-for-2024/"><u>[New] Ideal Choices Top 10 Mac Video Recorders for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-discover-hidden-treasures-how-to-find-exquisite-instagram-tunes-and-create-noteworthy-chimes/"><u>[Updated] In 2024, Discover Hidden Treasures How to Find Exquisite Instagram Tunes & Create Noteworthy Chimes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-incessant-visual-capture-agencies/"><u>[Updated] Incessant Visual Capture Agencies</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avoiding-memory-integrity-risks-in-ftdibus-systems-with-compatible-device-drivers/"><u>Avoiding Memory Integrity Risks in Ftdibus Systems with Compatible Device Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/code-24-in-windows-overcoming-this-device-is-not-present-issues-across-versions-11-8-and-397/"><u>Code 24 in Windows: Overcoming 'This Device Is Not Present' Issues Across Versions 11, 8, & #39;7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-message-deciphered-solutions-for-installing-windows-11-with-error-80240020/"><u>Error Message Deciphered: Solutions for Installing Windows 11 with Error 80240020</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-gionee-f3-pro-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Gionee F3 Pro</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-meme-crafting-undead-androids/"><u>In 2024, Meme Crafting Undead Androids</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learn-urdu-swiftly-with-daily-10-minute-intervals/"><u>Learn Urdu Swiftly with Daily 10-Minute Intervals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-when-your-corsair-keyboard-stops-responding/"><u>Solutions for When Your Corsair Keyboard Stops Responding</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-mouse-cursor-visibility-problems-on-your-windows-11-laptop/"><u>Solve Mouse Cursor Visibility Problems on Your Windows 11 Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-overwatch-audio-solving-voice-chat-glitches-fast/"><u>Troubleshoot Your Overwatch Audio: Solving Voice Chat Glitches Fast!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-sound-issues-windows-11-lacks-an-input-device/"><u>Troubleshooting Sound Issues: Windows 11 Lacks an Input Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-overcoming-timeout-problems-when-downloading-content/"><u>Troubleshooting Tips: Overcoming 'Timeout' Problems When Downloading Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/turn-your-social-tweets-into-mp3-audio-files/"><u>Turn Your Social Tweets Into MP3 Audio Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-issues-with-your-lenovo-laptop-webcam/"><u>Ultimate Guide: Resolving Issues with Your Lenovo Laptop Webcam</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Successful: Overcoming Initial Boot Failures on PCs"
-date: 2024-09-11T15:21:26.105Z
-updated: 2024-09-12T15:21:26.105Z
+date: 2024-12-16T16:59:04.337Z
+updated: 2024-12-22T23:54:06.341Z
 tags:
   - win11
   - win10
@@ -39,10 +39,7 @@ thumbnail: https://thmb.techidaily.com/6631d02aad6297e4d6f700e032b5f1a6df7f0a482
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/cyber-security-1923446_1920-1024x655.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update the drivers on your computer  
@@ -65,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/6631d02aad6297e4d6f700e032b5f1a6df7f0a482
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-817.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it partly manual.
 
 ### Method 3: Remove any peripherals from your computer  
@@ -83,10 +73,11 @@ thumbnail: https://thmb.techidaily.com/6631d02aad6297e4d6f700e032b5f1a6df7f0a482
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-2786081_1920-1024x626.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Reset CMOS to the default settings  
@@ -111,18 +102,15 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-815.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After you enter the BIOS menu, refer to these steps to reset the settings:  
 
  1)**Find the option** to reset the BIOS settings. This option is probably called**Setup Defaults** . It also depends on the computer manufacturers. But you can expect it has the “Default” words.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-816.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) You can see a function key next to the option. Just press that key on your keyboard to bring up the edit dialog box.  
 
@@ -133,16 +121,7 @@ For example, many Dell PCs show this key like below at the first screen:
  5)**Restart your computer** and check to see if the problem is resolved.  
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Check PSU (Power Supply Unit)  
@@ -152,6 +131,10 @@ For example, many Dell PCs show this key like below at the first screen:
  For laptop, you can easily replace the PSU. But for desktop, you need to open the case. This could be technical and dangerous. If you know what you’re doing, that’s fine. But if not, we recommend you to take your computer to the repair store to have it checked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-1168203_1920-1024x681.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 6: Check the fan  
 
@@ -163,32 +146,11 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/motherboard-841487_1920-1024x678.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 7: Clean dust  
 
  Computer collects dust everyday, but we won’t notice this until too much dust causes some computer problems, like computer overheating. As we mentioned before, overheating could be the cause of the problem “computer repeatedly turns on and off”.  
 
  For desktops, you can open the case and use a soft cloth to wipe the dust. The much easier method is to use a[compressed gas cleaning duster](https://www.amazon.com/Falcon-Compressed-Disposable-Cleaning-DPSXL4T/dp/B002ZB6LZA/&tag=easeware-camillamo-20) to get rid of the dust. For laptops, you’ll need to consult the manual or get technical help there if you haven’t opened one before.  
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 8: Replace the motherboard  
 
@@ -213,5 +175,24 @@ For example, many Dell PCs show this key like below at the first screen:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-decadal-list-prime-meme-designs/"><u>[New] 2024 Approved Decadal List Prime Meme Designs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-foundations-of-effective-youtube-broadcasting/"><u>[New] 2024 Approved The Foundations of Effective YouTube Broadcasting</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tartups-guide-to-earnings-on-youtube-platform-for-2024/"><u>[New] Startups' Guide to Earnings on YouTube Platform for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/sites-to-buy-monetized-youtube-channels-for-beginners/"><u>Best Sites to Buy Monetized YouTube Channels for Beginners</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/clear-expert-tips-to-overcome-no-input-detected-screen-challenges/"><u>Clear Expert Tips to Overcome 'No Input Detected' Screen Challenges</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-strategies-to-resolve-oculus-hardware-issues/"><u>Comprehensive Strategies to Resolve Oculus Hardware Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-and-remedying-the-service-unavailable-a-guide-for-tackling-http-error-503/"><u>Decoding and Remedying the 'Service Unavailable' - A Guide for Tackling HTTP Error 503</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-resolving-windows-11-freezing-issues/"><u>Effective Solutions: Resolving Windows 11 Freezing Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-troubleshooting-guide-reviving-your-malfunctioning-usb-connectors/"><u>Effortless Troubleshooting Guide: Reviving Your Malfunctioning USB Connectors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-ethernet-network-errors-on-your-pc-tips-for-windows-10-and-7-operating-systems/"><u>Fixing Ethernet Network Errors on Your PC: Tips for Windows 10 & 7 Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-troubleshoot-and-solve-error-0x80n4005-a-step-by-step-guide/"><u>How to Correctly Troubleshoot and Solve Error 0X80n4005 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/mastering-nighttime-shots-iphone-photo-tactics-for-2024/"><u>Mastering Nighttime Shots IPhone Photo Tactics for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-windows-rapid-photo-displayer-for-2024/"><u>Prime Window's Rapid Photo Displayer for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-guide-fast-and-easy-ways-to-link-your-laptop-with-television-tips-from-zdnet/"><u>Simple Guide: Fast & Easy Ways to Link Your Laptop with Television - Tips From ZDNet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/subscriber-glory-the-play-button-and-accolades-for-maker-for-2024/"><u>Subscriber Glory The Play Button & Accolades for Maker for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-corsair-keyboards-that-wont-illuminate-properly/"><u>Troubleshooting Tips for Corsair Keyboards That Won't Illuminate Properly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unity-graphics-error-solved-overcome-the-failed-to-initialize-hurdle-easily/"><u>Unity Graphics Error Solved: Overcome the 'Failed to Initialize' Hurdle Easily</u></a></li>
+</ul></div>
 

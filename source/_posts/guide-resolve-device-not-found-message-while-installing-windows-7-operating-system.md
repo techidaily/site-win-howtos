@@ -1,7 +1,7 @@
 ---
 title: "Guide: Resolve 'Device Not Found' Message While Installing Windows 7 Operating System"
-date: 2024-09-11T15:24:21.072Z
-updated: 2024-09-12T15:24:21.072Z
+date: 2024-12-15T19:50:07.135Z
+updated: 2024-12-22T23:42:35.025Z
 tags:
   - win11
   - win10
@@ -40,6 +40,11 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Right-click on**speakers** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
@@ -47,10 +52,7 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -69,31 +71,18 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
@@ -104,32 +93,15 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
@@ -155,5 +127,20 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-efface-thin-borders-for-a-seamless-youtube-experience/"><u>[Updated] 2024 Approved Efface Thin Borders for a Seamless YouTube Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-to-repairing-a-non-responsive-wacom-digital-drawing-pad/"><u>Expert Guide to Repairing a Non-Responsive Wacom Digital Drawing Pad</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/finding-the-perfect-dj-template-video-download-for-your-events/"><u>Finding the Perfect DJ Template Video Download for Your Events</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/google-ar-decorations-and-their-competing-products/"><u>Google AR Decorations & Their Competing Products</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-avoid-and-reverse-strikes-on-your-youtube-account/"><u>How to Avoid and Reverse Strikes on Your YouTube Account</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-tearing-problems-on-your-valorant-display-comprehensive-fixes/"><u>How to Resolve Tearing Problems on Your Valorant Display – Comprehensive Fixes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-muzikalarinizla-uygulama-yapmak-icin-mac-managerlara-dogru-taliman/"><u>Movavi Müzikalarınızla Uygulama Yapmak Için Mac Managerlara Doğru Taliman</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-your-pdf-printing-blues-with-these-fast-fixes/"><u>Overcome Your PDF Printing Blues with These Fast Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-non-detected-accessories-in-windows-10-using-bluetooth-technology/"><u>The Ultimate Fix for Non-Detected Accessories in Windows 10 Using Bluetooth Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-get-your-windows-10-sound-back-on-track/"><u>Troubleshooting Steps to Get Your Windows 10 Sound Back on Track</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-cant-i-get-to-the-windows-smartscreen-right-now-solutions-for-temporary-glitches/"><u>Why Can't I Get to the Windows SmartScreen Right Now? Solutions for Temporary Glitches</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-7-10-11-guide-uninstalling-and-reinstalling-wacom-drivers/"><u>Win 7-10-11 Guide: Uninstalling & Reinstalling Wacom Drivers</u></a></li>
+</ul></div>
 

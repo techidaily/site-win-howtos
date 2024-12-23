@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Non-Responsive Backlight Buttons on Laptop Keyboards"
-date: 2024-12-07T21:56:23.706Z
-updated: 2024-12-13T21:56:13.786Z
+date: 2024-12-20T20:39:58.476Z
+updated: 2024-12-22T16:27:20.099Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Some keys stop working on your Toshiba laptop’s keyboard? That could be super 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -33,7 +33,7 @@ Some keys stop working on your Toshiba laptop’s keyboard? That could be super 
 3. **[Clean your keyboard with a compressed air duster](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Re-power your laptop
@@ -47,7 +47,7 @@ If somehow your Toshiba laptop keyboard gets stuck, the keys could stop working.
 Try to type using your laptop’s keyboard and check to see if those keys stop working before could work well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update your keyboard driver and HID driver
@@ -59,14 +59,14 @@ An old, corrupted or missing**keyboard driver**or**HID (Human interface device) 
 3. Click **Update**  next to the flagged keyboard or HID driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE** version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baef3772a4b2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After updating the drivers, try to type using your laptop’s keyboard and check to see if those keys stop working before could work well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Clean your keyboard with a compressed air duster
 
@@ -94,19 +94,19 @@ Hopefully this article helps. Feel free to comment below with your own experienc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-androidiphone-the-best-selection-of-free-overlays-for-image-enhancement/"><u>[New] Android/iPhone The Best Selection of Free Overlays for Image Enhancement</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-leading-cloud-capacity-options-reviewed/"><u>[New] In 2024, Leading Cloud Capacity Options Reviewed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-malfunction-heres-how-to-make-it-glow-again/"><u>Corsair Keyboard Malfunction? Here's How to Make It Glow Again!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-huion-pen-issues-quickly-top-5-troubleshooting-steps/"><u>Fix Your Huion Pen Issues Quickly: Top 5 Troubleshooting Steps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/fusing-live-streams-combining-cameras-plus-monitors-for-2024/"><u>Fusing Live Streams Combining Cameras + Monitors for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-responsive-touchpad-scroll-issue-a-step-by-step-guide/"><u>How to Fix a Non-Responsive Touchpad Scroll Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ignored-sd-card-find-the-cure/"><u>Ignored SD Card? Find the Cure!</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-masterful-podcast-descriptions-strategies-and-case-studies/"><u>In 2024, Masterful Podcast Descriptions Strategies and Case Studies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/lucidsound-ls30-dilemma-resolved-solutions-to-a-malfunctioning-mic/"><u>LucidSound LS30 Dilemma Resolved - Solutions to a Malfunctioning Mic</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-to-stop-cod-black-ops-4s-critical-failures-and-glitches/"><u>Solutions to Stop COD Black Ops 4'S Critical Failures and Glitches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-rdr2-errors-increase-pagefile-for-smoother-performance/"><u>Troubleshooting RDR2 Errors: Increase Pagefile for Smoother Performance</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-how-to-remove-audio-from-avi-2023-update/"><u>Updated In 2024, How to Remove Audio From AVI-2023 Update</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-front-seat-recreation-10-non-athletic-delights/"><u>[New] Front Seat Recreation 10 Non-Athletic Delights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-delete-youtube-comments-effortlessly-for-2024/"><u>[New] How to Delete YouTube Comments Effortlessly for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-cultivating-partnerships-for-commercial-success-on-youtube/"><u>[New] In 2024, Cultivating Partnerships for Commercial Success on Youtube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-djis-new-frontier-mavic-air-vs-spark-in-gamers-eyes/"><u>[New] In 2024, DJI’s New Frontier Mavic Air Vs. Spark in Gamer's Eyes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-funimate-masterclass-quick-video-access/"><u>2024 Approved Funimate Masterclass Quick Video Access</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-and-correcting-the-vibrant-red-screens-of-windows-11-computers/"><u>Addressing and Correcting the Vibrant Red Screens of Windows 11 Computers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/is-it-safe-to-remove-msdia80dll-comprehensive-guide-on-its-purpose-and-maintenance/"><u>Is It Safe to Remove msdia80.dll? Comprehensive Guide on Its Purpose and Maintenance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-game-crashes-in-modern-warfare-2-6-essential-fixes-for-a-smoother-pc-experience/"><u>Overcome Game Crashes in Modern Warfare 2: 6 Essential Fixes for a Smoother PC Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-missing-fixservice-registry-entry-issue-in-windows-10/"><u>Resolving 'Missing' FixService Registry Entry Issue in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-site-unreachable-issues-in-chrome/"><u>Resolving 'Site Unreachable' Issues in Chrome</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-overcoming-non-responsive-file-explorer-problems-on-windows-11-systems/"><u>Solved: Overcoming Non-Responsive File Explorer Problems on Windows 11 Systems</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-audio-splitter-on-mac-2024-update/"><u>Updated Top Audio Splitter on Mac - 2024 Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/what-is-xinput13dll-and-what-to-do-when-its-missing/"><u>What Is XINPUT1_3.dll (and What to Do When It's Missing)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: How To Troubleshoot Your PS4 Microphone Issues"
-date: 2024-09-11T15:20:38.735Z
-updated: 2024-09-12T15:20:38.735Z
+date: 2024-12-20T20:52:36.560Z
+updated: 2024-12-22T22:31:58.174Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/b9d202f17312addc4751b6c7718b8073b057f0ff7
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot hardware issues
 
  Before we make any changes, we might have to troubleshoot hardware issues. To do so:
@@ -42,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/b9d202f17312addc4751b6c7718b8073b057f0ff7
  Check if the microphone is still not working. If yes, then great. But if it’s not working, move on to **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Make sure the volume is audible
 
@@ -64,6 +61,10 @@ To make sure the volume is audible:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your audio settings
 
  Ideally when a new audio device is inserted, Windows will automatically set it as the default audio playback device. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -75,59 +76,26 @@ To do so:
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -146,6 +114,10 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -177,5 +149,19 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-innovative-strategies-for-flawless-screens-in-adobe-captivity-for-2024/"><u>[New] Innovative Strategies for Flawless Screens in Adobe Captivity for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/embracing-change-transition-to-windows-11-upgrade/"><u>Embracing Change Transition to Windows 11 Upgrade</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/from-instant-sharing-to-long-term-storage-snapshots-journey/"><u>From Instant Sharing to Long-Term Storage Snapshots' Journey</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-overcome-signal-loss-in-logitechs-g93-groove-headset/"><u>Guide to Overcome Signal Loss in Logitech's G93 Groove Headset</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-handle-the-error-code-0x80070643-during-windows-updatesinstallations/"><u>How to Correctly Handle the Error Code 0X80070643 During Windows Updates/Installations</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-xs-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone XS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/proper-techniques-for-addressing-msvcp140dll-lack/"><u>Proper Techniques for Addressing MSVCP140.dll Lack</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/reviving-your-device-how-apple-enables-certain-iphone-fixes-using-pre-owned-parts-digital-gadget-news/"><u>Reviving Your Device: How Apple Enables Certain iPhone Fixes Using Pre-Owned Parts – Digital Gadget News</u></a></li>
+<li><a href="https://win-dash.techidaily.com/steelseries-arctis-5-headset-software-setup-free-download-and-installation-guide/"><u>SteelSeries Arctis 5 Headset Software Setup - Free Download and Installation Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-fixing-total-war-rome-remastered-game-crashes/"><u>Ultimate Guide: Fixing Total War: Rome Remastered Game Crashes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ate-youtuber-wealth-wonders-for-2024/"><u>Ultimate Youtuber Wealth Wonders for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-blue-screen-blues-heres-how-to-end-the-loop-of-unexpected-reboots/"><u>Windows 10 Blue Screen Blues? Here's How to End the Loop of Unexpected Reboots!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solving Keyboard Issues: How to Repair Unresponsive Left, Right and Up/Down Arrows!"
-date: 2024-09-11T15:21:00.237Z
-updated: 2024-09-12T15:21:00.237Z
+date: 2024-12-18T20:21:26.335Z
+updated: 2024-12-22T21:47:53.621Z
 tags:
   - win11
   - win10
@@ -24,10 +24,7 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
  But no worries, it’s not at all a hard question to solve. Here are 4 options for you to try. You may not have to try them all; just work your way down until you find the one that works for you. Let’s get started!
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Table of contents
@@ -41,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
  If the sticking problem happens only under certain circumstances, for instance, you only notice it when typing in certain programs or web pages, your keyboard may not be at fault. The problem could be software bugs or poor network connection. Rule out this possibility first before you move on.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Check keyboard connection
 
  One of the first things you should check when something is off with your keyboard is the connection between it and your computer.
@@ -58,10 +48,7 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 * Also, make sure that the keyboard receiver is well-connected as well.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Check for possible viruses
@@ -71,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
  If you find any viruses or malware, remove them completely from your computer. If you don’t have a third-party anti-virus program, we recommend **[Malwarebytes](https://tools.techidaily.com/drivereasy/download/)**  – a power tool that can protect your device from threats like worms, trojans, rootkits, spyware, bots, and more.
 
 **IMPORTANT** : You should never disable Windows Defender, the built-in anti-virus program in Windows, especially in Windows 10 OS where it has become stronger and more comprehensive.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Install the correct keyboard driver
 
@@ -94,10 +74,7 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-50.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged keyboard to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -105,16 +82,11 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-45.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Clean the keyboard
@@ -142,5 +114,21 @@ If you haven’t cleaned your keyboard, in like forever, do it now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-absence-of-win-api-load-dll/"><u>[Fixed]: Absence of Win API Load Dll</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-firefoxvidrecorder-plugins/"><u>[New] In 2024, FirefoxVidRecorder Plugins</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-noskyshadowtool-premium-bg-elimination-software/"><u>[Updated] In 2024, NoSkyShadowTool Premium BG Elimination Software</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-essential-checklist-for-creating-stellar-titles/"><u>[Updated] In 2024, The Essential Checklist for Creating Stellar Titles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/combat-the-disappearing-cursor-problem-on-your-windows-11-touchpad-today/"><u>Combat the Disappearing Cursor Problem on Your Windows 11 Touchpad Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/crc-data-error-resolution-ensuring-accurate-information-exchange/"><u>CRC Data Error Resolution - Ensuring Accurate Information Exchange</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725289207969-dvd-dvd/"><u>DVDへのビデオ変換ガイド: DVDプレイヤー向け動画書き出し手順集紹介</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/enhance-your-reality-the-best-vr-accessories-for-2024/"><u>Enhance Your Reality The Best VR Accessories for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-oneplus-nord-ce-3-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change OnePlus Nord CE 3 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-manage-and-maintain-your-iphone-14s-battery-life/"><u>How to Manage and Maintain Your iPhone 14'S Battery Life</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-fresh-vlog-discussion-ideas-each-day/"><u>In 2024, Fresh Vlog Discussion Ideas Each Day</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/spacebar-malfunction-in-windows-11-causes-and-solutions/"><u>Spacebar Malfunction in Windows 11: Causes and Solutions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-5-reasons-why-acer-aspire-e-15-deserves-its-spot-as-a-top-tier-affordable-laptop/"><u>Top 5 Reasons Why Acer Aspire E 15 Deserves Its Spot as a Top-Tier Affordable Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-non-charging-laptop-battery-with-these-simple-fixes/"><u>Troubleshoot Your Non-Charging Laptop Battery with These Simple Fixes</u></a></li>
+</ul></div>
 

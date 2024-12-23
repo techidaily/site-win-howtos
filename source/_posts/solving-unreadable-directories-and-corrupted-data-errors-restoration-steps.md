@@ -1,7 +1,7 @@
 ---
 title: Solving Unreadable Directories & Corrupted Data Errors - Restoration Steps
-date: 2024-09-11T15:20:40.005Z
-updated: 2024-09-12T15:20:40.005Z
+date: 2024-12-21T19:22:45.873Z
+updated: 2024-12-22T17:11:26.851Z
 tags:
   - win11
   - win10
@@ -31,16 +31,7 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
   
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1) Run Troubleshooter
@@ -51,23 +42,9 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_597ff693eb337.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **b)**  In Troubleshooting window, select**Fix problems with Windows Update** under**System and Security** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_597ff84421654.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **c)**  In the windows popping up, click on**Next** , and then follow the instruction to troubleshoot Windows Update.
 
@@ -75,10 +52,7 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2) Reset Windows Update service
@@ -99,17 +73,7 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
   
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3) Update Windows Update Agent
@@ -124,16 +88,13 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5980037b59eb0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)**  Open the file you have just downloaded and follow the instruction of the program to install it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59801cbe34e35.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **d)** After the completion of installation, restart your computer and see if this method can fix your problem.  
   
@@ -145,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5980226d794bc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **b)**  Select**updates available** . Then a list of available updates that your system has detected will pop up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598023afb4dca.jpg)
@@ -153,27 +118,21 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598025fe09a03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **d)** Go to[**Windows Download Center**](https://www.microsoft.com/en-us/download/default.aspx) and search the code you have just noted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5980268a0d5db.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **e)**  Scroll down to find**Downloads** category in the search result. Click on the result you are going to download under this category.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59803ad03b1a3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **f)** **Download**  the update.
 
@@ -183,6 +142,10 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 
  ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598029687b2c4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Untick all these recommended downloads (recommended but unnecessary) and then click on**No thanks and continue** .
 
  **g)** Open the file you have just downloaded and follow the on-screen instructions to complete the installation of this update.
@@ -191,13 +154,6 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 
  You can install all your system updates one by one using the steps above. Though it can cost a lot of time, it is an effective way to update your Windows 7 when Windows Update is malfunctioning.  
   
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5) Perform a Clean Boot
 
@@ -212,13 +168,6 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
 **b)**  On**General** tab in System Configuration window, you can see the default setting is**Normal startup** . Now you need to select **Selective startup** and**untick Load startup items** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598030b608b16.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **c)**  Go to**Services** tab. Tick**Hide all Microsoft services** . Then click on**Disable all** . (You need to hide all Microsoft services first, or you will disable some secure services and bring about unexpected consequences.) After that click**OK** .
 
@@ -243,5 +192,24 @@ thumbnail: https://thmb.techidaily.com/dcfda18db33cd62e49e998a15226cf50935f63715
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-evaluating-screen-recording-software-obs-vs-bandicam/"><u>[New] 2024 Approved Evaluating Screen Recording Software OBS vs Bandicam</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-11-economical-cameras-for-professional-vloggers/"><u>[Updated] 2024 Approved Top 11 Economical Cameras for Professional Vloggers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-maximizing-video-game-channel-revenue/"><u>[Updated] In 2024, Maximizing Video Game Channel Revenue</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-building-a-following-with-stunning-unboxing-content/"><u>2024 Approved Building a Following with Stunning Unboxing Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/8-red-flags-before-factory-resetting-your-machine/"><u>8 Red Flags Before Factory Resetting Your Machine</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/brightening-edge-of-android-videos-easy-steps-unveiled-for-2024/"><u>Brightening Edge of Android Videos - Easy Steps Unveiled for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/definitive-solutions-for-fixing-the-perplexing-unknown-usb-and-failed-port-reset-challenges-on-windows-11-devices/"><u>Definitive Solutions for Fixing the Perplexing Unknown USB and Failed Port Reset Challenges on Windows 11 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210209964-fixing-windows-installation-failed-fast-solutions/"><u>Fixing 'Windows Installation Failed' – Fast Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-infinix-hot-30-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Infinix Hot 30 5G?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-xiaomi-redmi-note-12-4g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Xiaomi Redmi Note 12 4G to Roku | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-error-code-0x80072f8f-a-step-by-step-guide-for-windows-11-and-10-users/"><u>Resolving Error Code 0X80072F8F: A Step-by-Step Guide for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-for-correcting-steams-unavailable-file-rights-issue/"><u>Solution Guide for Correcting Steam's Unavailable File Rights Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-huion-tablet-issues-top-5-quick-solutions/"><u>Troubleshoot Huion Tablet Issues: Top 5 Quick Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-responsive-prtscn-shortcut-in-microsofts-latest-operating-systems/"><u>Troubleshooting Non-Responsive PrtScn Shortcut in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-correcting-the-monitor-has-no-video-output-error/"><u>Troubleshooting Tips: Correcting the 'Monitor Has No Video Output' Error</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-hardware-drivers-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to reinstall your hardware drivers in Windows 11/10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win-10-audio-issue-overcome-how-to-guide/"><u>Win 10 Audio Issue Overcome - How To Guide</u></a></li>
+</ul></div>
 

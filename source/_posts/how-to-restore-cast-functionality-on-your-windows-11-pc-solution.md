@@ -1,7 +1,7 @@
 ---
 title: How to Restore Cast Functionality on Your Windows 11 PC [Solution]
-date: 2024-09-05T10:10:59.714Z
-updated: 2024-09-06T10:10:59.714Z
+date: 2024-12-18T23:31:15.789Z
+updated: 2024-12-22T22:10:16.684Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes How to Restore Cast Functionality on Your Window
 thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add73d8ccbbc068b9cd2192911.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows 11 Copy-Paste Malfunction? Here's How to Restore It
 
  Some users reported that after they updated to Windows 11, copy and paste (mostly the keyboard shortcut) would suddenly stop working on their computers from time to time. It’s quite a common glitch, but not a hard one to fix. If you have encountered similar issues, you’ve come to the right place. In this post, we’ll show you how to fix this problem.
@@ -48,28 +42,14 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 1. Right-click the**Start button** on your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-07-27.png)
 2. Under the**Processes** tab, right-click the process you want to end, then click**End task** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-08-38.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 If this fix didn’t help, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Repair corrupted system files
 
  Broken Window Registry files may cause problems with the copy-and-paste keyboard shortcut. You can try to **run the System File Checker (sfc /scannow) to identify problematic Registry files** . Most of the time, this tool can fix minor issues for you.
@@ -82,21 +62,17 @@ If this fix didn’t help, try the next fix.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Clear clipboard history
 
@@ -108,18 +84,6 @@ If this fix didn’t help, try the next fix.
 
 If this fix didn’t help, try the next one.
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Restart the Windows Explorer process
 
  If the copy-paste bug occurs mostly when you’re sorting and moving your files, then the problem is likely caused by the Windows Explorer process. You can restart this process in Task Manager, here’s how:
@@ -128,7 +92,15 @@ If this fix didn’t help, try the next one.
 2. Under the**Process** tab, find**Windows Explorer** , right-click and**restart** the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-10-43.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If your problem persists, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Restart RDP Clipboard Monitor
 
@@ -139,11 +111,9 @@ If your problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-12-57.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bonus tip: Update your device drivers
 
  In general, keeping your device drivers up-to-date can help prevent and solve many random computer issues.
@@ -156,12 +126,6 @@ If your problem persists, try the next fix.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) For example, I want to update my graphics and network adapter driver here. Click the **Update**  button next to the flagged drivers to automatically download the correct version. Then you can manually install them (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
@@ -180,8 +144,6 @@ If your problem persists, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +151,24 @@ If your problem persists, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-windows-10-red-screen-issue/"><u>[Fixed] Windows 10 Red Screen Issue</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-sync-vimeo-videos-with-powerpoint-a-step-by-step-approach/"><u>[New] 2024 Approved Sync Vimeo Videos with PowerPoint A Step-by-Step Approach</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-smarter-storage-simpler-style-top-40-mobile-video-reducers-on-android/"><u>[New] Smarter Storage, Simpler Style Top 40 Mobile Video Reducers on Android</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-complete-screencast-process-methodical-instructional-video/"><u>[Updated] Complete Screencast Process Methodical Instructional Video</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-drive-traffic-and-growth-with-youtube-analytic-insights/"><u>[Updated] In 2024, Drive Traffic and Growth with YouTube Analytic Insights</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-rhythmic-resonance-harmony-for-visuals/"><u>2024 Approved Rhythmic Resonance Harmony for Visuals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ai-interpolation-of-frames-enhancing-fps-and-smooth-video-transitions/"><u>AI Interpolation of Frames: Enhancing FPS and Smooth Video Transitions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/code-fails-to-initiate/"><u>Code Fails to Initiate</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-the-problem-of-windows-10-failing-to-recognize-your-hdmi-connected-television/"><u>How to Solve the Problem of Windows 10 Failing to Recognize Your HDMI-Connected Television</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/real-time-updates-for-changing-websites-techniques-and-benefits-uncovered/"><u>Real-Time Updates for Changing Websites: Techniques & Benefits Uncovered</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-critical-errors-in-cxfreeze-with-minimal-hassle/"><u>Resolving Critical Errors in Cx_Freeze with Minimal Hassle</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-how-to-correcting-no-signal-detected-by-computermonitor-problems/"><u>The Ultimate How-To: Correcting No Signal Detected by Computer/Monitor Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-trick-to-recover-any-missing-window-from-the-edge-of-sight/"><u>The Ultimate Trick to Recover Any Missing Window From the Edge of Sight</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-spontaneous-computer-shutdowns-effective-methods-revealed/"><u>Troubleshooting Spontaneous Computer Shutdowns - Effective Methods Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstick-the-stuck-sims-4-launch-expert-ways-to-get-back-in-action/"><u>Unstick the Stuck Sims 4 Launch - Expert Ways to Get Back in Action</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-a-simple-way-to-get-kinemaster-on-your-mac-download-and-install/"><u>Updated 2024 Approved A Simple Way to Get KineMaster on Your Mac Download and Install</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/whats-new-july-2024s-latest-windows-system-enhancements-and-patches/"><u>What's New: July 2024'S Latest Windows System Enhancements & Patches</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solved: Fixing the Issue When Your App Won't Launch Due to Error Code 0xC000007B"
-date: 2024-09-11T15:21:14.625Z
-updated: 2024-09-12T15:21:14.625Z
+date: 2024-12-16T23:20:09.297Z
+updated: 2024-12-22T21:07:54.385Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/7a6d4afad02b673dd8fdf74213202fda14f2e9bab
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/usb-g6d352e3ca_640.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Try turning on your computer again.
 
  If your computer boots correctly, that means that one of the peripherals you removed is causing your problem. You should **reinstall each device** back into your computer and test them each time. Then, you’ll find the specific device that causes your problem. Replace the device once you’ve identified it. Or, consult the manufacturer of the device for assistance.
@@ -61,16 +65,7 @@ RAM looks like this:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Put your RAMs back into the slot one by one while trying to boot each time.
@@ -78,6 +73,10 @@ RAM looks like this:
  If your computer starts without one or more of the RAMs, then it could be an issue with your RAM modules. Or in some cases, it is possible that your RAM module is fine, but one or more memory slots on your motherboard are defective. You may want to try removing the modules and placing them in different slots to find if one of the slots is faulty.
 
  If your computer still can’t boot properly, don’t worry. Check the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 3: Reset BIOS Settings
 
@@ -96,10 +95,7 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Wait for 5 minutes, and then reinstall your CMOS battery.
@@ -118,22 +114,12 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-11-44.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Open System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-12-28.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Choose a different restore point** , and click**Next** to select a restore point before the issue occurs.
@@ -169,19 +155,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -191,34 +164,17 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-28-48.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type **SFC /Scannow** , and then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-29-41.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Type **DISM /Online /Cleanup-Image /RestoreHealth** , and then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_17-08-53.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 6: Perform a Fresh Install
 
@@ -239,5 +195,23 @@ The CMOS battery looks like this
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-elevating-visuals-the-most-inspiring-instagram-photos/"><u>[New] Elevating Visuals The Most Inspiring Instagram Photos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-utorrent-media-player-seamless-streaming/"><u>[New] In 2024, UTorrent Media Player Seamless Streaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-comprehensive-guide-to-acquiring-instagram-ringtones-and-creating-noteworthy-chimes/"><u>[New] The Comprehensive Guide to Acquiring Instagram Ringtones & Creating Noteworthy Chimes</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-expansive-movement-assessment-2023-for-2024/"><u>[Updated] Expansive Movement Assessment 2023 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-vs-paid-gaming-entrances-top-12-insights-for-youtube-gamers/"><u>[Updated] In 2024, Free vs Paid Gaming Entrances Top 12 Insights for YouTube Gamers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-premier-emulator-titles-simulating-playstation-2-on-ios-for-2024/"><u>[Updated] Premier Emulator Titles Simulating PlayStation 2 on iOS for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/warmup-needed-after-playing/"><u>[WARMUP] Needed After Playing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209144841-biomarker-testing-is-essential-for-identifying-patients-who-will-benefit-from-targeted-therapy/"><u>Biomarker Testing Is Essential for Identifying Patients Who Will Benefit From Targeted Therapy.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-applied-custom-setup-features-now-fully-functional-again/"><u>Fixes Applied: Custom Setup Features Now Fully Functional Again</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-for-resolving-the-gpu-not-detected-problem-with-msi-afterburner-on-windows-1011/"><u>Guide for Resolving the 'GPU Not Detected' Problem with MSI Afterburner on Windows 10/11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-samsung-galaxy-s23-ultra-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Samsung Galaxy S23 Ultra for Parents | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/initiating-a-unique-online-identity-image/"><u>Initiating a Unique Online Identity Image</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/network-initialization-issue-resolved-in-dragon-ball-fighterz/"><u>Network Initialization Issue Resolved in Dragon Ball FighterZ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-resolved-fixing-the-critical-setup-failure-error-1603/"><u>Successfully Resolved: Fixing the Critical Setup Failure - Error 1603</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-jumpy-scroll-bars-in-windows-10-file-explorer-solutions-that-work/"><u>Troubleshooting Jumpy Scroll Bars in Windows 10 File Explorer: Solutions That Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-update-why-cant-i-print-to-pdf-with-microsoft-heres-help/"><u>Windows 11 Update: Why Can't I Print to PDF with Microsoft? Here’s Help!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: DIY Solutions for Fixing Media Not Recognized in Windows Environment
-date: 2024-09-11T15:23:19.654Z
-updated: 2024-09-12T15:23:19.654Z
+date: 2024-12-20T16:28:59.377Z
+updated: 2024-12-22T16:08:24.100Z
 tags:
   - win11
   - win10
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/3c65f68799b4050edde66f042974df77982abdb35
 
  If you have something important to do with the USB device connected to your Windows computer, but you**keep getting the error saying USB device not recognized** . This could be super frustrating. But you’re certainly not the only one. Luckily, you can remove the error message through the following solutions. Read on and see how.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are a few easy-to-apply methods that have helped other users resolve the**USB device not recognized keeps popping up** problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -38,10 +31,7 @@ thumbnail: https://thmb.techidaily.com/3c65f68799b4050edde66f042974df77982abdb35
 6. **[Adjust your system settings](#m6)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Connect your USB device directly to your computer
@@ -56,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/3c65f68799b4050edde66f042974df77982abdb35
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Run the built-in Hardware and Devices troubleshooter
 
  The**built-in Hardware and Devices troubleshooter** can help you fix problems with devices connected to your computer. Run it to try to solve your USB device not recognized problem.
@@ -76,20 +59,10 @@ Here’s how you can do it:
 4. Select **Configure a device** under the**Hardware and sound** section.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c946c14d2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Next** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c97b74c34.jpg)
 
@@ -109,28 +82,8 @@ See how to do it:
 2. Click**Device Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99ca5f07100.jpg)
 3. Double-click**Universal Serial Bus controllers** . Proceed to click**View** , then select**Show hidden devices** .  
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99cadab69f6.jpg)
 4. **Right-click** on your first USB controller driver under the Universal Serial Bus controllers section to select**Uninstall device** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99cb4721f1b.jpg)
 5. **Repeat** the step 4 for all your**other USB controllers drivers** .
@@ -152,24 +105,19 @@ See how to do it:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d645eaf39.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)  
- Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99dd433fd12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99dd433fd12.jpg)
 
 Restart your computer to see if the error disappears.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Disable the USB selective suspend feature
@@ -184,34 +132,24 @@ Restart your computer to see if the error disappears.
 3. Click**Power Options** when**View by Large icons** are selected.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7437b4c8.jpg)
 4. Select **Change plan settings** of**Balanced(recommended)** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7c4b1d80.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click**Change advanced power settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7b2da294.jpg)
 6. Double-click**USB settings** \>**USB selective suspend setting** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d80c3c948.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click**Enabled** , then select**Disabled** from the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d845a8cb9.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** If you’re on a laptop, there might be two Enable options to change,**On battery** and**Plugged in** .  
  Be sure to**set both to Disabled** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99da409c8a5.jpg)
 8. Click**Apply** \>**OK** to save your settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99da698818c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Check if the error disappears.
 
@@ -220,10 +158,7 @@ Check if the error disappears.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 6: Adjust your system settings
@@ -240,10 +175,7 @@ See how to do it:
 3. Select USB, then un-check **Notify me if there are issues connecting to USB devices.** ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e3bbc5732.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **If you’re using Windows 7:**
@@ -253,6 +185,11 @@ See how to do it:
 3. Double-click**Universal Serial Bus Controllers** .
 4. Right-click on your first USB controller driver to select**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e45a3304f.jpg)
 5. Click **Advanced** , then tick on **Don’t tell me about USB errors** . Click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e4addd848.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Repeat Steps 4 & 5 for all your other USB controller drivers.
 
  The **USB device not recognized**  error message will not be shown any longer on your system.
@@ -277,5 +214,22 @@ See how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-going-viral-nine-techniques-to-cement-your-status-on-instagram/"><u>[New] Going Viral Nine Techniques to Cement Your Status on Instagram</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-top-5-youtube-promo-tactics-for-max-impact/"><u>[Updated] 2024 Approved Top 5 YouTube Promo Tactics for Max Impact</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-diving-into-the-depths-of-hdr-with-asus-pa32u/"><u>[Updated] Diving Into the Depths of HDR with ASUS PA32U</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-concealed-viewers-guide-to-instagram-live-broadcasting-without-attention/"><u>2024 Approved Concealed Viewers' Guide to Instagram Live Broadcasting Without Attention</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-frozen-updates-in-windows-10-a-comprehensive-fix-approach/"><u>Bypassing Frozen Updates in Windows 10 - A Comprehensive Fix Approach</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-workings-an-insight-into-chatgpts-shared-links/"><u>Decoding the Workings: An Insight Into ChatGPT’s Shared Links</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminating-lag-in-pubg-a-comprehensive-guide-to-addressing-connectivity-issues/"><u>Eliminating Lag in PUBG: A Comprehensive Guide to Addressing Connectivity Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/full-tutorial-on-reviving-the-functionality-of-a-non-responsive-dualshock-4-pad/"><u>Full Tutorial on Reviving the Functionality of a Non-Responsive DualShock 4 Pad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-crashes-and-enjoy-oddworld-soulstorm-on-your-personal-computer/"><u>How to Fix Crashes and Enjoy Oddworld: Soulstorm on Your Personal Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-windows-10-update-issue-0x80240034-error-solution-explained/"><u>How to Overcome the Windows 10 Update Issue – 0X80240034 Error Solution Explained</u></a></li>
+<li><a href="https://extra-information.techidaily.com/imagination-unleashed-building-engaging-animated-videos-in-windows-movie-maker/"><u>Imagination Unleashed Building Engaging Animated Videos in Windows Movie Maker</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-art-ranked-top-17-graphics-editors-and-programs/"><u>Mastering Art: Ranked Top 17 Graphics Editors and Programs</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-cast-it-how-to-stream-local-videos-from-your-device-to-chromecast-2023-update-for-2024/"><u>New Cast It! How to Stream Local Videos From Your Device to Chromecast (2023 Update) for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-crc-data-mismatches-solutions-for-flawless-transmission/"><u>Overcoming CRC Data Mismatches – Solutions for Flawless Transmission</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/speedy-and-straightforward-tricks-to-correct-malfunctioning-pc-drivers/"><u>Speedy and Straightforward Tricks to Correct Malfunctioning PC Drivers</u></a></li>
+</ul></div>
 

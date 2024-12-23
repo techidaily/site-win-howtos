@@ -1,7 +1,7 @@
 ---
 title: "Ensure Smooth Gaming: Overcoming Nier Automata PC Freezes and Crashes"
-date: 2024-12-06T16:54:49.784Z
-updated: 2024-12-13T17:15:43.364Z
+date: 2024-12-19T16:05:44.393Z
+updated: 2024-12-22T19:53:32.999Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Try these fixes**
 
@@ -68,10 +72,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 2: Install the latest game patch**
 
  The developers of**Nier Automata** will keep releasing game patches to fix bugs. You can install the latest patch which may have triggered this issue.
@@ -100,6 +100,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
  Or you can click the**Update** button next to the graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu-3.jpg)
 4. Restart your computer, and see if the problem is fixed or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Option 2–Manually**
 
 1. On your keyboard, press the**Windows logo key** and **R** together to invoke the Run box.
@@ -111,6 +115,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc-updatea.jpg)
 4. Follow the on-screen instructions to finish the process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Restart your computer, and see if the problem is fixed or not.
 
 #### B. Reinstall the previous driver
@@ -121,10 +129,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 2. Type “devmgmt.msc” and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
@@ -141,10 +145,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Change processor affinity
 
  According to practice and some users experiences, processor affinity can help users get rid of the crash. You can try this method, but if it works for you, you have to repeat it every time when you launch the game.
@@ -157,14 +157,14 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 4. Select only**Core 0** and**Core 2** then click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -188,22 +188,18 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-ultimate-companion-for-online-radio-preservationists/"><u>[New] In 2024, The Ultimate Companion for Online Radio Preservationists</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-gear-showdown-2022-hero5-vs-garmin-streaming-cameras-for-2024/"><u>[Updated] Gear Showdown 2022 Hero5 Vs. Garmin Streaming Cameras for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-redefining-schooling-with-virtual-reality-for-2024/"><u>[Updated] Redefining Schooling with Virtual Reality for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypass-chaos-with-these-three-windows-reset-methods/"><u>Bypass Chaos with These Three Windows Reset Methods</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/common-fixes-for-unsuccessful-windows-10-v1607-feature-installation/"><u>Common Fixes for Unsuccessful Windows 10 v1607 Feature Installation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effectively-managing-svchostexes-elevated-cpu-use-on-your-windows-10-device/"><u>Effectively Managing svchost.exe's Elevated CPU Use on Your Windows 10 Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-solution-steps-to-stop-endless-restart-cycles-in-windows-11/"><u>Effortless Solution Steps to Stop Endless Restart Cycles in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-solutions-for-the-evil-genius-2-unable-to-start-problem/"><u>Expert Solutions for the 'Evil Genius 2' Unable to Start Problem</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-from-zero-to-hero-master-lip-syncing-with-these-5-amazing-apps/"><u>In 2024, From Zero to Hero Master Lip Syncing with These 5 Amazing Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-user-profile-and-authentication-correcting-failures-in-windows-1011-logins/"><u>Mastering User Profile and Authentication: Correcting Failures in Windows 10/11 Logins</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-common-oculus-hardware-challenges/"><u>Overcoming Common Oculus Hardware Challenges</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-common-windows-11-hang-challenges-expert-advice/"><u>Overcoming Common Windows 11 Hang Challenges: Expert Advice</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-red-screen-glitch-with-easy-fixes-and-expert-advice/"><u>Overcoming the 'Red Screen' Glitch with Easy Fixes and Expert Advice</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-stop-your-computer-mouse-from-dropping-out/"><u>Step-by-Step Guide to Stop Your Computer Mouse From Dropping Out</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-lol-overcoming-initial-hurdles/"><u>Unlocking LoL: Overcoming Initial Hurdles</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/voice-assistants-faceoff-the-pros-and-cons-of-google-nest-audio-vs-apple-homepod/"><u>Voice Assistants Faceoff: The Pros and Cons of Google Nest Audio Vs. Apple HomePod</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-poco-c50-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/laughter-legends-reviewing-goofy-in-the-vhs-era-for-2024/"><u>'Laughter Legends' Reviewing Goofy in the VHS Era for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-enhancing-reels-with-harmonious-tunes/"><u>[Updated] The Ultimate Guide to Enhancing Reels with Harmonious Tunes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-kinemaster-potential-how-to-engage-and-top-alternatives-compared/"><u>[Updated] Unlocking KineMaster Potential How To Engage and Top Alternatives Compared</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024-rankings-top-comfort-enhancing-keyboard-wrist-rest-accessories/"><u>2024 Rankings: Top Comfort-Enhancing Keyboard Wrist Rest Accessories</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-audio-failures-on-netflix-quickly/"><u>Diagnosing and Repairing Audio Failures on Netflix Quickly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/experience-uninterrupted-updates-on-windows-11-solve-error-code-0x800f0922-using-our-top-fixes/"><u>Experience Uninterrupted Updates on Windows 11: Solve ERROR CODE 0X800F0922 Using Our Top Fixes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/full-tutorial-on-repairing-non-functional-xbox-one-controllers/"><u>Full Tutorial on Repairing Non-Functional Xbox One Controllers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-vcruntime140dll-error-and-resolve-windows-10-application-launch-issues/"><u>How to Fix VCRUNTIME140.dll Error and Resolve Windows 10 Application Launch Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-unknown-usb-device-errors-a-guide-to-port-reset-success-in-windows-10/"><u>Solving the Mystery of 'Unknown USB Device' Errors: A Guide to Port Reset Success in Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforming-kindle-azw3-books-for-universal-access-tips-for-reading-on-any-device/"><u>Transforming Kindle AZW3 Books for Universal Access: Tips for Reading on Any Device</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unbeatable-screen-grabbers-for-modern-windows-pcs/"><u>Unbeatable Screen Grabbers for Modern Windows PCs</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-unlock-your-chromebooks-potential-how-to-install-linux/"><u>Updated Unlock Your Chromebooks Potential How to Install Linux</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-update-stuck-at-100-solved/"><u>Windows Update Stuck at 100% [SOLVED]</u></a></li>
 </ul></div>
 

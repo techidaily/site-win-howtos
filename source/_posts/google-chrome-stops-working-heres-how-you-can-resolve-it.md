@@ -1,7 +1,7 @@
 ---
 title: Google Chrome Stops Working? Here's How You Can Resolve It
-date: 2024-09-05T10:10:58.395Z
-updated: 2024-09-06T10:10:58.395Z
+date: 2024-12-15T19:54:12.640Z
+updated: 2024-12-22T22:48:05.562Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/40d90e2c4b27120737f9ba85a0971ad5a38bc547d
 
 **Google Chrome not responding** ? You’re certainly not the only one. Although it’s quite frustrating, it’s often quite easy to fix…
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 fixes for Google Chrome not responding
 
  The screenshots below are from**Windows 10** , but the fixes also work in**Windows**   **8.1** and**7** .
@@ -43,23 +37,15 @@ thumbnail: https://thmb.techidaily.com/40d90e2c4b27120737f9ba85a0971ad5a38bc547d
 2. On the top right, click on **the three vertical dots** button > **More tools** \> **clear browsing data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df7b87cca5.jpg)
 3. In the drop-down menu, click to select **the time range** for the data cache clearing (Last 7 days in my example). Then click **CLEAR DATA** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df83c76d86.jpg)
 4. Run Chrome and hopefully the**Google Chrome not responding** problem has been sorted. If yes, then great! But if the issue persists, you should try**Fix 2** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Turn off Chrome add-ons
 
  Add-ons are extensions to Chrome that allow you to do more things in your browser, or which improve your  user experience. For example, the AdBlock add-on blocks ads. Extensions are sometimes added manually and sometimes added by other programs on your computer (hopefully with your permission).
@@ -70,20 +56,12 @@ thumbnail: https://thmb.techidaily.com/40d90e2c4b27120737f9ba85a0971ad5a38bc547d
 2. In the top right, click on **the three vertical dots** button > **More tools** \> **Extensions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b432bba1ea5a.jpg)
 3. Toggle off all the extensions on your Chrome.  
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e199b56ceb.png)
 4. **Restart**  your computer and check if**Google Chrome**  now works:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * If Google Chrome does respond after disabling all your add-ons, it’s likely one of your add-ons was the problem. Now you just need to figure out which one. To do this, enable the first add-on in the list, then see if Google Chrome still works. If it doesn’t, then you’ve found the cause of the problem. If Google Chrome works fine after enabling the first add-on, enable the second and test again. Continue testing each add-on in this way until you find the one that stops Internet Explorer from working. Once you find it, disable it again. If you need it, contact the vendor for support.
 * If disabling your add-ons doesn’t solve the **Chrome not responding**  issue, please try **Fix 3** , below.
@@ -103,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/40d90e2c4b27120737f9ba85a0971ad5a38bc547d
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b432efcb9088.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -125,11 +107,9 @@ thumbnail: https://thmb.techidaily.com/40d90e2c4b27120737f9ba85a0971ad5a38bc547d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4322c4421a9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click **Allow an app or feature through Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4323083c3e7.jpg)
@@ -138,22 +118,14 @@ thumbnail: https://thmb.techidaily.com/40d90e2c4b27120737f9ba85a0971ad5a38bc547d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4324732913f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Re-launch Google Chrome and check if the **Google Chrome not responding** issue has been fixed. If yes, then great! But if it’s still no joy, please move on to**Fix 5** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Update or reinstall Chrome
 
  If all else fails, then we might have to update Chrome to see if there’s any bugfix in it that will solve the Chrome not responding issue.
@@ -166,18 +138,11 @@ To do so:
 2. In the top right, click on **the three vertical dots** button > **help** \>**About Google Chrome** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b433a86ba999.jpg)
 3. Google Chrome automatically detects if there’s an update available:  
+
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
    * If yes, follow the on-screen instruction to finish the update.  
    * If no, delete Chrome and re-install it on Windows store or other trustworthy third-party website. (**NOTE** : This will erase your Chrome browser settings and data)
 4. Check if the**Google** **Chrome not responding** issue has been resolved.
@@ -196,8 +161,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +168,20 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-smile-slam-the-best-comedy-moments-on-social-media-for-2024/"><u>[New] Smile Slam The Best Comedy Moments on Social Media for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-professional-livestream-tools-outside-of-standard-obs/"><u>[Updated] 2024 Approved Professional Livestream Tools Outside of Standard OBS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-artistic-possibilities-premier-android-graphics-app-selection/"><u>[Updated] Explore Artistic Possibilities Premier Android Graphics App Selection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/computers-nightmare-staying-in-sleep-mode/"><u>Computer's Nightmare: Staying In Sleep Mode</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/crack-the-code-of-warframe-update-malfunctions-now-corrected/"><u>Crack the Code of Warframe Update Malfunctions - Now Corrected</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-windows-update-issue-error-code-80erase00-step-by-step-guide/"><u>Fix Windows Update Issue: Error Code 80Erase00 - Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-nokia-c22mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Nokia C22Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ase-video-traffic-key-youtube-seo-strategies/"><u>Increase Video Traffic Key YouTube SEO Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigate-files-easily-on-windows-11-a-comprehensive-help-for-file-explorer-users/"><u>Navigate Files Easily on Windows 11 - A Comprehensive Help for File Explorer Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-machine-learning-illusions-using-6-proven-prompt-techniques/"><u>Overcoming Machine Learning Illusions Using 6 Proven Prompt Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-the-problem-of-inactive-night-light-on-your-windows-10-or-11-device-easily/"><u>Solve the Problem of Inactive Night Light on Your Windows 10 or 11 Device Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-correcting-windows-error-31-quickly/"><u>Troubleshooting and Correcting Windows Error 31 Quickly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-is-hugging-face-insights-and-applications/"><u>What Is Hugging Face? Insights and Applications</u></a></li>
+</ul></div>
 

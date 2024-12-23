@@ -1,7 +1,7 @@
 ---
 title: Easy Solutions to Overcome 'Error Code 28' In Windows Device Manager
-date: 2024-09-05T10:10:44.061Z
-updated: 2024-09-06T10:10:44.061Z
+date: 2024-12-15T16:21:22.020Z
+updated: 2024-12-22T22:02:38.895Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Easy Solutions to Overcome 'Error Code 28' In Wi
 thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93e4be86849bf37896b7a66cb.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix 'Class Not Registered' Errors on Your Windows 10 Device - Solutions Inside
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90d415e22e7.jpg)
@@ -35,34 +29,20 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 4. [ Set Windows Photo Viewer as a default image viewer ](<https://www.drivereasy.com/knowledge/fix-class-not-registered-error-on-windows-10-solved/#Fix> 4. Set Windows Photo Viewer as a default image viewer)
 5. [ Disable iCloud](<https://www.drivereasy.com/knowledge/fix-class-not-registered-error-on-windows-10-solved/#Fix> 5. Disable iCloud) ``
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Fix DCOM(**Distributed Component Object Model)** errors
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ``
 
 ``
@@ -74,17 +54,9 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ``
 
 ``
@@ -94,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -112,11 +88,19 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -128,12 +112,6 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ``
 
 ``
@@ -142,12 +120,6 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
@@ -155,11 +127,9 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
@@ -177,24 +147,12 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ``
 
  2) Click **System** .
@@ -202,6 +160,10 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -221,12 +183,6 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Disable iCloud
 
  Some users reported that to disable iCloud in Task Manager fix the error for them. So make sure to try to disable icloud if you install one on Windows 10.
@@ -255,8 +211,6 @@ That’s it!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -264,4 +218,18 @@ That’s it!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-integrating-lut-technology-into-your-obs-setup/"><u>[New] Integrating LUT Technology Into Your OBS Setup</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-decoding-the-visual-language-of-live-videos-on-youtube-for-2024/"><u>[Updated] Decoding the Visual Language of Live Videos on YouTube for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-fixes-for-keyboard-malfunctions-in-your-hp-notebook-now/"><u>Effortless Fixes for Keyboard Malfunctions in Your HP Notebook – Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-malfunctioning-special-function-buttons-on-an-asus-notebook/"><u>Fixing Malfunctioning Special Function Buttons on an ASUS Notebook</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-motorola-moto-g-stylus-5g-2023-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Motorola Moto G Stylus 5G (2023) FRP Locks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-advanced-photo-manipulation-focus-on-content-not-backdrop/"><u>In 2024, Advanced Photo Manipulation Focus on Content, Not Backdrop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/modern-troubleshooting-tactics-overcoming-oculus-errors-in-the-new-age/"><u>Modern Troubleshooting Tactics: Overcoming Oculus Errors in the New Age</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-blue-screen-error-0x8007007e-in-windows-systems/"><u>Resolving Blue Screen Error 0X8007007E in Windows Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-business-expansion-via-chatgpt-and-whisper-apis/"><u>Strategic Business Expansion via ChatGPT and Whisper APIs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-repairing-code-28-faults-within-the-windows-device-manager/"><u>Understanding & Repairing 'Code 28' Faults Within the Windows Device Manager</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unlocking-the-secrets-to-professional-quality-instagram-videos-for-2024/"><u>Unlocking the Secrets to Professional-Quality Instagram Videos for 2024</u></a></li>
+</ul></div>
 

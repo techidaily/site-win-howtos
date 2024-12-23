@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Undetected Wi-Fi on Your Windows 11 Device"
-date: 2024-09-11T15:23:11.530Z
-updated: 2024-09-12T15:23:11.530Z
+date: 2024-12-17T20:06:25.467Z
+updated: 2024-12-22T23:45:30.689Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/b82cd99f90316be66a3cb4e32afffb71769b5f64e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf526e8ebcab-1024x552.jpg)
 
 If your desktop icons somehow disappear on your Windows 10 computer, don’t worry, you can try the tips below to fix the issue. Quickly and easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these tips
 
@@ -39,16 +43,7 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -59,46 +54,16 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
@@ -117,13 +82,6 @@ start explorer.exe
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tip 4: Perform a system restore
 
 If your desktop icons still don’t show up, you can perform a system restore to return your system to a date when the icons appeared normally on the desktop. Here’s how to perform a system restore to help fix your “desktop icons disappeared in Windows 10” issue:
@@ -133,13 +91,6 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
@@ -148,19 +99,6 @@ If your desktop icons still don’t show up, you can perform a system restore to
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tip 5: Reset your computer
 
 If the steps above didn’t work for you. Resetting your computer is worth a try. It fixed the desktop icon issue for some users.
@@ -168,10 +106,23 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 1. Click the **Start** button > the **Settings** icon.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -191,10 +142,7 @@ OR
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -218,5 +166,26 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-top-choice-android-sky-dumps-and-safes/"><u>[New] 2024 Approved Top Choice Android Sky Dumps & Safes</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/acer-laptop-dvd-troubleshooting-for-windows-11-users-with-and-without-built-in-drives/"><u>Acer Laptop DVD Troubleshooting for Windows 11 Users – With and Without Built-In Drives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-a-non-responsive-nvidia-share-platform/"><u>Diagnosing and Repairing a Non-Responsive Nvidia Share Platform</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-audio-capture-resolving-your-microphones-no-voice-problem/"><u>Enhancing Audio Capture: Resolving Your Microphone's No-Voice Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-handling-the-service-did-not-respond-issue-error-1053/"><u>Expert Tips for Handling 'The Service Did Not Respond' Issue (Error 1053)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-lenovo-computers-broken-fn-key-fast-and-effective-methods/"><u>Fix Your Lenovo Computer's Broken FN Key – Fast and Effective Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-pc-now-solving-windows-communication-failure-with-event-notification-service/"><u>Fix Your PC Now! Solving Windows Communication Failure With Event Notification Service</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-oneplus-ace-3-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your OnePlus Ace 3 Face Lock?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-windows-11-touchpad-working-perfectly-again/"><u>How To Get Your Windows 11 Touchpad Working Perfectly Again</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-a24-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy A24</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-tecno-spark-20-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Tecno Spark 20 Pro to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-start-download-your-samsung-m2020-driver-today/"><u>Quick Start: Download Your Samsung M2020 Driver Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-detailed-steps-to-fix-your-computers-inability-to-shut-down-under-windows-11/"><u>Resolved! Detailed Steps To Fix Your Computer's Inability to Shut Down Under Windows 11</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v10-file-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v1.0 File</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-minecraft-performance-issues-a-comprehensive-guide/"><u>Solving Minecraft Performance Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-when-one-of-your-airpods-fails-to-work/"><u>Solving the Issue When One of Your AirPods Fails to Work</u></a></li>
+<li><a href="https://facebook.techidaily.com/taking-back-your-privacy-from-facebooks-watchfulness/"><u>Taking Back Your Privacy From Facebook's Watchfulness</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-non-functional-asus-webcam-in-windows-10/"><u>Troubleshooting a Non-Functional ASUS Webcam in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-elevated-cpu-load-from-msmpengexe-on-windows-10-solved/"><u>Troubleshooting Elevated CPU Load From MsMpEng.exe on Windows 10 [SOLVED]</u></a></li>
+</ul></div>
 

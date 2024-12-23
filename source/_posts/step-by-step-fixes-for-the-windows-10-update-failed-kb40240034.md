@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Fixes for the 'Windows 10 Update Failed: KB40240034'"
-date: 2024-09-05T10:10:54.370Z
-updated: 2024-09-06T10:10:54.370Z
+date: 2024-12-15T18:06:45.353Z
+updated: 2024-12-22T18:00:56.467Z
 tags:
   - win11
   - win10
@@ -17,18 +17,6 @@ thumbnail: https://thmb.techidaily.com/943166f05e826acb5eb0097146d69c366fc0ed75a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d46a84135.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you find the volume control bar on your computer not working, don’t worry. Many users have reported the same.
 
 The good news is, you can fix it easily!
@@ -44,18 +32,6 @@ The good news is, you can fix it easily!
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Update your sound driver
 
  Your volume control not working issue is most likely caused by the outdated/corrupted sound driver, which might very well develop further issues like sound crackling/stuttering or no sound at all if unattended. So we should always make sure to**have the latest sound driver installed on our system** for the good health of our PC.
@@ -71,18 +47,6 @@ The good news is, you can fix it easily!
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
 
 ---
@@ -95,19 +59,12 @@ To do so:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Locate and double-click on**Windows Audio** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
@@ -124,26 +81,28 @@ To run SFC:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
- Click **Yes**   when prompted to confirm.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Click **Yes**   when prompted to confirm.
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Run the Playing Audio troubleshooter
 
  If all else fails, then you might have to run the built-in audio troubleshooter in our Windows to solve the problem.
@@ -152,25 +111,17 @@ Here’s how:
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
+
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
@@ -188,8 +139,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +146,20 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-harmonizing-hearts-and-hertz-music-on-the-vimeo-scene/"><u>[Updated] In 2024, Harmonizing Hearts and Hertz Music on the Vimeo Scene</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-get-hooked-easy-ways-to-loop-any-youtube-video/"><u>2024 Approved Get Hooked Easy Ways to Loop Any YouTube Video</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-troubleshooting-for-persistent-stop-errors-in-hamachi-connection-services/"><u>Essential Troubleshooting for Persistent Stop Errors in Hamachi Connection Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-for-non-responsive-custom-settings-in-account/"><u>Fixes for Non-Responsive Custom Settings in Account</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-call-of-duty-wwii-error-4220-heres-your-complete-troubleshooting-solution/"><u>Fixing Call of Duty WWII Error 4220? Here's Your Complete Troubleshooting Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-disk-read-error-issue-in-windows-11-a-step-by-step-guide/"><u>Fixing the 'Disk Read Error' Issue in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007380202-grand-theft-auto-5-performance-boost-prevent-and-correct-in-game-crashes-quickly/"><u>Grand Theft Auto 5 Performance Boost: Prevent & Correct In-Game Crashes Quickly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-easily-correct-the-windows-update-issue-error-80000e/"><u>How to Easily Correct the Windows Update Issue (Error 80^000E)</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-realme-12-proplus-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Realme 12 Pro+ 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/setting-up-smart-tech-auto-gpt-installation-guide/"><u>Setting Up Smart Tech: Auto-GPT Installation Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/soundless-speed-heres-how-to-get-the-audio-back-in-forza-horizon-4/"><u>Soundless Speed? Here's How to Get the Audio Back in Forza Horizon ⁩4!₭</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/superior-suggestions-top-websites-for-acquiring-snapalert-melodies-for-2024/"><u>Superior Suggestions Top Websites for Acquiring SnapAlert Melodies for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unleash-creativity-with-top-10-phone-apps-adding-stickers-to-images-for-2024/"><u>Unleash Creativity with Top 10 Phone Apps Adding Stickers to Images for 2024</u></a></li>
+</ul></div>
 

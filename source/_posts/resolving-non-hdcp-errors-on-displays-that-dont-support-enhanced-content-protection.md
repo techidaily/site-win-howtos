@@ -1,7 +1,7 @@
 ---
 title: Resolving Non-HDCP Errors on Displays That Don't Support Enhanced Content Protection
-date: 2024-09-05T10:11:40.935Z
-updated: 2024-09-06T10:11:40.935Z
+date: 2024-12-18T23:21:31.931Z
+updated: 2024-12-22T16:37:15.425Z
 tags:
   - win11
   - win10
@@ -13,28 +13,10 @@ excerpt: This Article Describes Resolving Non-HDCP Errors on Displays That Don't
 thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add73d8ccbbc068b9cd2192911.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing a Laptop That Won't Exit the Startup Display Issue - Solution Included
 
  Your computer gets stuck on the boot screen? This is very annoying – and quite scary. You’re probably thinking, I can’t even access the desktop! How am I supposed to fix it? But no worries, you can fix this. Here’s what you can do…
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix the PC Stuck on Boot Screen Issue
 
 * [Solution 1: Boot your PC without Peripherals](#h-solution-1-boot-your-pc-without-peripherals)
@@ -62,18 +44,6 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 
 If your computer still can’t boot correctly, try the fix below.
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 2: Check the RAM
 
  Your computer might be unresponsive during the startup process when your RAMs are not well installed, or in some cases, one or more of your RAM modules or RAM slots is faulty.
@@ -91,11 +61,9 @@ RAM looks like this:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Put your RAMs back into the slot one by one while trying to boot each time.
 
  If your computer starts without one or more of the RAMs, then it could be an issue with your RAM modules. Or in some cases, it is possible that your RAM module is fine, but one or more memory slots on your motherboard are defective. You may want to try removing the modules and placing them in different slots to find if one of the slots is faulty.
@@ -118,9 +86,17 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Wait for 5 minutes, and then reinstall your CMOS battery.
 
 5) Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 4: Restore your System to the Previous State
 
@@ -143,21 +119,13 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-13-05.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Follow the on-screen instructions to finish the restore.
 
  If you don’t have a restore point in System Restore, move on and try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 5: Repair Corrupted System Files
 
  Computer boot issues are likely to occur when certain system files get corrupted somehow. To see if there’s any broken or missing system files, there are two tool you can use：
@@ -184,11 +152,9 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -203,21 +169,13 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-29-41.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Type **DISM /Online /Cleanup-Image /RestoreHealth** , and then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_17-08-53.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 6: Perform a Fresh Install
 
  If none of the solutions works for you, you may have to[**do a clean reinstallation of Windows 10**](https://tools.techidaily.com/drivereasy/download/) . Note that this will wipe all files and data that you’ve stored on the computer.
@@ -230,8 +188,6 @@ The CMOS battery looks like this
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +195,23 @@ The CMOS battery looks like this
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-win10s-elite-screen-recording-and-capture-software-selection-for-2024/"><u>[Updated] Win10's Elite Screen Recording & Capture Software Selection for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210542399-9781473342781-a-relation-of-apparitions-of-spirits-in-the-county-of-monmouth-and-the-principality-of-wales/"><u>A Relation of Apparitions of Spirits in the County of Monmouth and the Principality of Wales | Free Book</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/copie-todas-as-partes-com-o-centralizado-do-aomei-opcoes-de-compra-simplificadas/"><u>Copie Todas as Partes Com O Centralizado Do AOMEI - Opções De Compra Simplificadas</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dive-into-devices-and-reads-laptops-mobile-marvels-and-must-read-books-galore/"><u>Dive Into Devices and Reads: Laptops, Mobile Marvels, and Must-Read Books Galore</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-repairing-unresponsive-functional-keys-on-lenovo-computers/"><u>Effective Solutions for Repairing Unresponsive Functional Keys on Lenovo Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-repairing-unresponsive-usb-devices-and-descriptor-request-issues-resolved/"><u>Expert Tips for Repairing Unresponsive USB Devices and Descriptor Request Issues [Resolved]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixes-for-returning-windows-setup-to-original-state/"><u>Fixes for Returning Windows Setup to Original State</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-scroll-wheel-issue-on-windows-10-laptop/"><u>How to Fix Unresponsive Scroll Wheel Issue on Windows 10 Laptop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-computer-performance-with-the-latest-ati-radeon-driver-update-for-windows-users/"><u>Improve Computer Performance with the Latest ATI Radeon Driver Update for Windows Users</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-y100i-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo Y100i for Free? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-windows-movie-maker-tutorial-from-beginner-to-pro/"><u>In 2024, Windows Movie Maker Tutorial From Beginner to Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211287030-innovative-solutions-stop-the-halt-on-your-hamachi-connection-now/"><u>Innovative Solutions: Stop the Halt on Your Hamachi Connection Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-1class-not-registered-hurdle-tips-and-tricks-successfully-implemented/"><u>Overcoming Windows 1#Class Not Registered Hurdle: Tips and Tricks Successfully Implemented</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-cropping-and-saving-your-favorite-youtube-footage/"><u>Step-by-Step Guide: Cropping & Saving Your Favorite YouTube Footage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-8-solutions-to-overcome-the-windows-11-update-error-code-0x800f0922/"><u>Top 8 Solutions to Overcome the Windows 11 Update Error CODE 0X800F0922</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-update-glitch-beat-error-8007000e-now-with-simple-fixes/"><u>Windows Update Glitch? Beat Error 8007000E Now with Simple Fixes!</u></a></li>
+</ul></div>
 

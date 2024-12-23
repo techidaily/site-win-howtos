@@ -1,7 +1,7 @@
 ---
 title: Unpredictable Shutdowns in W11
-date: 2024-09-05T10:10:10.427Z
-updated: 2024-09-06T10:10:10.427Z
+date: 2024-12-15T19:17:26.981Z
+updated: 2024-12-22T19:54:46.544Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Unpredictable Shutdowns in W11
 thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4e9a9bd97f972e7408a7d734.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Increase Efficiency: Solving Windows 11 Prolonged Shutdown Time Issue
 
 After a day’s work, you click**Shut down** and pack your stuff for leaving. But when you glance at your computer screen, it’s still on the loading screen. You stand and watch it impatiently. Usually, the shutdown process should be taken no more than a few seconds. But when it takes you a lot of time while shutting down, your computer has Windows 10 slow shutdown issue.  
@@ -55,22 +49,15 @@ The solution for this bug is very simple.
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-3.jpg)
 3. Choose**Troubleshoot** in the left pane. Then click**Power** and click**Run the troubleshooter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/power-1.jpg)
 4. Follow the on-screen instructions to finish the process.
 5. Reboot your computer to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Disable Fast Startup feature
 
  If your Fast Startup is enabled, when you shut down the computer, you may encounter slow shutdown or back to the Windows Lock Screen.  
@@ -80,33 +67,29 @@ The solution for this bug is very simple.
 1. Press the **Windows logo key + Pause** and click **Control Panel Home** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/0-1.jpg)
 2. Change **View by Large icons** and click **Power Options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-11.jpg)
 3. Click **Choose what the power button do** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-9.jpg)
 4. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-8.jpg)
 5. Make sure you uncheck **Turn on fast startup (recommended)** . Then click **Save Changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-7.jpg)
 6. Reboot your computer to apply the changes.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Repair system files
 
  The corrupted system file will let the system take more time to shut down your computer. To solve it, you can use System File Checker (SFC) to repair the broken system files.
@@ -115,12 +98,11 @@ The solution for this bug is very simple.
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
@@ -128,12 +110,6 @@ The solution for this bug is very simple.
  If the result indicates that there are broken files exists but SFC can’t fix it, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examine and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Registry fix
 
  If the above fixes can’t help, you can try this one. The corruption of registry files may the reason for the slow shut down issue. You can solve the issue by following the below steps:
@@ -146,29 +122,20 @@ The solution for this bug is very simple.
 4. Double-click**ClearPageFileAtShutdown** , change the value to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/shut.jpg)
 5. Copy and paste the text into the address bar and press Enter.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  “ **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control** “.
 6. Find**WaitToKillServiceTimeout** file in the right pane. Double click it and set the value between**1000 to 20000** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/shut1.jpg)
 7. Click**OK** .
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Reboot your computer to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: Update your driver
 
@@ -180,21 +147,14 @@ The solution for this bug is very simple.
 2. Run Driver Easy and click Scan Now button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your Windows 10 computer and check the issue.
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully, the above methods can help you to fix your problem. If you have any suggestions or questions, feel free to leave your comments below.
 
@@ -206,8 +166,6 @@ The solution for this bug is very simple.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +173,21 @@ The solution for this bug is very simple.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-revealing-hidden-pathways-understanding-facebooks-off-activity-tracking/"><u>[New] In 2024, Revealing Hidden Pathways Understanding Facebook's Off-Activity Tracking</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/irrorless-vs-dslr-in-the-realm-of-video-filmmaking/"><u>[New] Mirrorless vs DSLR in the Realm of Video Filmmaking</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-edu-favorites-best-learning-yt-channels/"><u>[Updated] Edu-Favorites Best Learning YT Channels</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-leading-edge-top-10-advanced-vimeo-video-extraction-sites/"><u>[Updated] In 2024, Leading Edge Top 10 Advanced Vimeo Video Extraction Sites</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/finding-drivers-dont-endorse-opengl/"><u>Finding: Drivers Don't Endorse OpenGL</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-resolve-windows-update-error-code-0x8007001f/"><u>Fixing the Issue: Resolve Windows Update Error Code 0X8007001F</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-problem-of-minecraft-not-starting-on-windows-operating-system/"><u>How To Fix The Problem of Minecraft Not Starting On Windows Operating System</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-tecno-spark-go-2024-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Tecno Spark Go (2024) Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remediation-for-the-token-access-issue-in-windows-1011/"><u>Remediation for the Token Access Issue in Windows 10/11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/reshape-your-video-content-with-these-5-no-cost-online-converters/"><u>Reshape Your Video Content with These 5 No-Cost, Online Converters!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issue-hub-port-overvoltage-event/"><u>Resolved Issue: Hub Port Overvoltage Event</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-for-resolving-screen-tearing-in-riot-games-valorant/"><u>Solution Steps for Resolving Screen Tearing in Riot Games' Valorant</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-unlock-your-secure-installation-disk-on-windows-10/"><u>Step-by-Step Guide to Unlock Your Secure Installation Disk on Windows 10</u></a></li>
+<li><a href="https://solve-news.techidaily.com/the-ultimate-tutorial-on-converting-and-uploading-dvd-files-onto-services-like-icloud-for-easy-access/"><u>The Ultimate Tutorial on Converting and Uploading DVD Files Onto Services Like iCloud for Easy Access</u></a></li>
+</ul></div>
 

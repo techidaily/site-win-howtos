@@ -1,7 +1,7 @@
 ---
 title: Fixing the Critical Red Screen Dilemma in Windows 11 Systems
-date: 2024-12-11T21:59:44.384Z
-updated: 2024-12-13T18:36:57.341Z
+date: 2024-12-18T18:55:38.818Z
+updated: 2024-12-22T19:59:19.767Z
 tags:
   - win11
   - win10
@@ -56,20 +56,21 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 4. Right-click System Event Notification Service again, this time select**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
 
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Reset your Winsock Catalog
 
@@ -81,6 +82,10 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**cmd** , then press**Shift + Ctrl + Enter** keys together.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c0804d3b9.jpg)
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **netsh winsock reset**
 
@@ -109,10 +114,6 @@ Follow these steps to reset your Winsock Catalog:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Uninstall the KB2952664 update
 
  According to many users’ report, this error could be due to the**KB2952664** Windows Update. If none of the methods above helps you, go with the following steps to**uninstall the KB2952664 update** on your computer:
@@ -126,19 +127,19 @@ Follow these steps to reset your Winsock Catalog:
 4. Click View installed updates.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
 5. Find and right-click the update with KB2952664, then Uninstall.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Restart your computer to see if the error has gone.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Remove klhkum.dll
 
@@ -156,7 +157,7 @@ Restart your computer to see if the error has gone.
 4. Restart your computer to see if the error has gone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
@@ -183,18 +184,18 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-following-scrutiny-unorthodox-ideas-for-2024/"><u>[New] Following Scrutiny Unorthodox Ideas for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snap-into-style-expert-tips-to-outshine-the-competition/"><u>[New] In 2024, Snap Into Style Expert Tips to Outshine the Competition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-crafting-visual-narratives-with-the-leading-frames/"><u>[Updated] Crafting Visual Narratives with the Leading Frames</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-fixes-for-nsp4rdll-not-detected-problems/"><u>Comprehensive Fixes for 'nsp4r.dll Not Detected' Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-excessive-cpu-consumption-by-msmpengine-in-windows-11-solution-found/"><u>How to Fix Excessive CPU Consumption by MsMpEngine in Windows 11 (Solution Found)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209053445-how-to-fix-the-device-is-not-ready-error/"><u>How to Fix The Device Is Not Ready Error</u></a></li>
-<li><a href="https://extra-support.techidaily.com/layer-audio-onto-video-clips-in-premiere-pro-for-2024/"><u>Layer Audio Onto Video Clips in Premiere Pro for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-fixes-for-critical-process-termination-expert-advice-on-handling-windows-error-code-0xc00000e9/"><u>Mastering Fixes for Critical Process Termination: Expert Advice on Handling Windows Error Code 0xC00000E9</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/origin-games-fixing-your-game-installation-error-quickly-and-easily/"><u>Origin Games - Fixing Your Game Installation Error Quickly and Easily</u></a></li>
-<li><a href="https://win-help.techidaily.com/surmonter-lobstacle-du-processus-dinstallation-bloque-a-99-dans-windows-nouveau-une-etude-des-trois-solutions-cles/"><u>Surmonter L'obstacle Du Processus D'installation Bloqué À 99% Dans Windows Nouveau: Une Étude Des Trois Solutions Clés</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-a-comprehensive-guide-by-toms-hardware/"><u>Tom's Tech Reviews: A Comprehensive Guide by Tom's Hardware</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-gadgets-with-toms-equipment-insights/"><u>Unveiling the Latest Gadgets with Tom's Equipment Insights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-update-error-0xc1900208-solved/"><u>Windows 10 Update Error 0Xc1900208 [SOLVED]</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-battlefield-brilliance-the-exclusive-selection-of-top-7-total-war-chronicles-for-2024/"><u>[Updated] Battlefield Brilliance The Exclusive Selection of Top 7 Total War Chronicles for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-churning-charts-todays-1-backdrop-music-for-youtube-shorts/"><u>[Updated] In 2024, Churning Charts Today's #1 Backdrop Music for YouTube Shorts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-filmmakers-guide-to-distorting-space-and-time/"><u>2024 Approved The Filmmaker's Guide to Distorting Space & Time</u></a></li>
+<li><a href="https://games-able.techidaily.com/child-protection-staying-vigilant-in-virtual-spaces/"><u>Child Protection: Staying Vigilant in Virtual Spaces</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decode-rumors-on-microsofts-vr-venture-for-xbox-estimated-price-point-release-date-and-device-specs-insight/"><u>Decode Rumors on Microsoft's VR Venture for Xbox – Estimated Price Point, Release Date & Device Specs Insight</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-how-to-save-and-play-gifs-on-an-iphone/"><u>In 2024, How to Save and Play GIFs on An iPhone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-mastering-the-art-of-personalizing-youtube-visuals/"><u>In 2024, Mastering the Art of Personalizing YouTube Visuals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastery-of-the-steam-write-protection-problem-an-effortless-approach/"><u>Mastery of the Steam Write Protection Problem: An Effortless Approach</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-ps4-nat-troubles-expert-step-by-step-strategies-that-work/"><u>Overcome PS4 NAT Troubles: Expert Step-by-Step Strategies That Work</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-most-reliable-zero-price-online-photo-editors-guide-for-2024/"><u>The Most Reliable Zero-Price Online Photo Editors Guide for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubled-by-error-0x80pressure0426-in-windows-11-heres-how-you-can-correct-it/"><u>Troubled by Error 0X80pressure0426 in Windows 11? Here’s How You Can Correct It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/updated-guide-solving-microsoft-windows-minecraft-crash-issues-related-to-graphic-driver-problems/"><u>Updated Guide: Solving Microsoft Windows Minecraft Crash Issues Related to Graphic Driver Problems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/which-stands-out-a-comprehensive-review-of-the-apple-watch-series-9-vs-fitbit-charge-6/"><u>Which Stands Out? A Comprehensive Review of the Apple Watch Series 9 vs Fitbit Charge 6</u></a></li>
 </ul></div>
 

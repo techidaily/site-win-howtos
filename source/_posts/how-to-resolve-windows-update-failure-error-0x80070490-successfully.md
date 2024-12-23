@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Windows Update Failure (Error 0X80070490) Successfully
-date: 2024-09-11T15:22:29.005Z
-updated: 2024-09-12T15:22:29.005Z
+date: 2024-12-21T21:07:31.373Z
+updated: 2024-12-22T21:24:57.300Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 5. [**Perform a Clean Boot then Install the Updates Again**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Update the Drivers](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 1: Run Windows Update Troubleshooter**
 
  Microsoft provides Windows Update troubleshooter which will detect the problem and fix it. Try using this method to fix the 0x800705b4 error and it may work for you.
@@ -50,35 +54,23 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58748718cdfdb.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Click**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745856da0c3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Click the **Next** button. Then the troubleshoot will detect the problems and fix them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874588bebf3f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8) Check to see if you see the 0x800705b4 error in Windows Update.
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 2: Change Windows Update Settings**
 
@@ -89,13 +81,6 @@ Follow these steps:
  1) Type**Windows Update** in Cortana and click**Check for updates** on the pop-up menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745a21077c1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click**Advanced options** .
 
@@ -114,16 +99,7 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587487b4f0856.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Re-select option   **Give me updates for other Microsoft products when I update Windows**  .
@@ -135,10 +111,7 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587487e7dd051.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 3: Delete Some Related Files**
@@ -149,27 +122,17 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58746e74d3054.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Right-click**Background Intelligent Transfer Service** then select**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58746f3a14981.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click **Windows Update**  then select**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58746fbb6d514.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Open **Windows Explorer** and navigate to “**C:\\Windows\\SoftwareDistribution** “.  
 
@@ -180,10 +143,7 @@ Follow these steps:
  6) Restart your PC and check to see if the error persists.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 4:** Repair system files
@@ -208,22 +168,13 @@ There are 2 ways to solve it. Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -236,50 +187,20 @@ There are 2 ways to solve it. Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap825.jpg)
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Type **sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart your computer to check the blue screen issue is fixed or not.
 
  If the result indicates there are broken files but SFC can’t fix them, you can turn to [Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 5: Perform a Clean Boot then Install the Updates Again
 
  If you are not sure how to perform a clean boot, see [How to Perform a Clean Boot in Windows 10](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 6: Update the Drivers
 
@@ -295,18 +216,15 @@ There are 2 ways to solve it. Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-440.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to one driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-441.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully methods here will help you resolve the 0x800705b4 error. If you have any questions, please feel free to leave your comments. I’d love to hear of any suggestions or ideas.
 
@@ -325,5 +243,26 @@ There are 2 ways to solve it. Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-optimizing-your-creative-process-windows-movie-maker-on-windows-8-unveiled/"><u>[New] 2024 Approved Optimizing Your Creative Process Windows Movie Maker on Windows 8 Unveiled</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-vlcs-screen-recording-capabilities-for-2024/"><u>[New] VLC's Screen Recording Capabilities for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-football-inscriptions-premier-fifa-youtube-insights/"><u>[Updated] 2024 Approved Football Inscriptions Premier FIFA YouTube Insights</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722971955790-download-latest-nvidia-drivers-compatible-with-windows-10-hassle-free/"><u>Download Latest NVIDIA Drivers Compatible with Windows 10 - Hassle-Free</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-solutions-for-correcting-windows-11-error-0x800f0922-during-updates/"><u>Essential Solutions for Correcting Windows 11 Error 0X800f0922 During Updates</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-tips-for-selecting-video-control-software/"><u>Expert Tips for Selecting Video Control Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-issues-with-dragon-age-origins-crashes-in-windows-10-solutions/"><u>Fixing Issues with Dragon Age: Origins Crashes in Windows 10 - Solutions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/funflicks-full-evaluation-and-instructions-24/"><u>FunFlicks Full Evaluation & Instructions '24</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-file-explorer-running-smoothly-again-overcome-windows-11-hiccups/"><u>Get Your File Explorer Running Smoothly Again - Overcome Windows 11 Hiccups!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/handling-webpage-visibility-challenges-with-ease/"><u>Handling Webpage Visibility Challenges with Ease</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-screen-mirroring-tips-to-fix-miracast-rejected-by-device/"><u>Mastering Screen Mirroring: Tips to Fix 'Miracast Rejected by Device'</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-imovie-basics-for-new-users-how-to-seamlessly-add-sounds-and-music/"><u>New 2024 Approved IMovie Basics for New Users How to Seamlessly Add Sounds and Music</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-sims-4-not-opening-a-comprehensive-guide/"><u>Overcoming the Challenge of Sims 4 Not Opening – A Comprehensive Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/resolving-an-alone-earpiece-dilemma/"><u>Resolving an Alone Earpiece Dilemma</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-connection-problems-with-the-microsoft-wireless-display-adapter-on-windows-10-computers/"><u>Resolving Connection Problems with the Microsoft Wireless Display Adapter on Windows 10 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-acers-speakers-a-guide-to-resolving-no-sound-problems/"><u>Revive Your Acer's Speakers: A Guide to Resolving No-Sound Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-common-issues-with-unresponsive-laptop-touchpads-step-by-step/"><u>Solving Common Issues with Unresponsive Laptop Touchpads Step by Step</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-1110-audio-glitches-successfully/"><u>Solving Windows 11/10 Audio Glitches Successfully</u></a></li>
+<li><a href="https://discover-data.techidaily.com/upcoming-feature-in-dex-311-introducing-shader-technology-for-enhanced-screen-graphics/"><u>Upcoming Feature in DEX 3.11: Introducing Shader Technology for Enhanced Screen Graphics</u></a></li>
+</ul></div>
 

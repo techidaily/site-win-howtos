@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot 'Device Not Recognized by ICUE': Expert Solutions to Common Issues"
-date: 2024-09-11T15:21:51.481Z
-updated: 2024-09-12T15:21:51.481Z
+date: 2024-12-19T00:26:16.618Z
+updated: 2024-12-22T19:34:57.397Z
 tags:
   - win11
   - win10
@@ -18,10 +18,7 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 Does the sound coming through**Logitect G930** keep cutting out? You’re certainly not the only one. While this can be a very frustrating issue, it’s often not hard to fix at all…
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5 Fixes for Logitech G930 Cutting Out
@@ -33,6 +30,10 @@ Does the sound coming through**Logitect G930** keep cutting out? You’re certai
 3. [**Edit the Device_Manifest file**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Turn off USB Root HUB Power Management**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Try another port**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your Logitech G930 driver
 
@@ -46,13 +47,6 @@ Does the sound coming through**Logitect G930** keep cutting out? You’re certai
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c5eed3e6d7.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c44f755e24.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
@@ -69,53 +63,28 @@ Does the sound coming through**Logitect G930** keep cutting out? You’re certai
 3. Click**Next** .  
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c74bc929c9.jpg)
 4. Make sure**the box** before**Front left and right** is**UN-TICKED** and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c7505abb33.jpg)
 5. Click**Finish** to complete the configuration.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c753f719c3.png)
 6. Back to the**Playback** tab, click on **Speakers** (Logitech G930 Headset) and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c75be9e5e5.jpg)
 7. Click the**Enhancements** tab, then**TICK the box** before**Disable all enhancements** and click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c765aad3c2.jpg)
 8. Check if the sound coming through your Logitech G930 is still cutting out. If the problem persists, move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Edit the **Device\_Manifest file**
 
@@ -130,67 +99,45 @@ C:\Program Files\Logitech Gaming Software\Resources\G930\Manifest
 3. **BACK UP** the **Device\_Manifest** file by creating a copy.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Right-click on the **Device\_Manifest** file and**edit with a text editor** (such as Notepad ++, Notepad, Evernote).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3d806766b61.jpg)
 5. On your keyboard, press**Ctrl** and**F** at the same time, then type**turnoffinterval** and click**Find Next** .  
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3d8159a4b7d.jpg)
 6. Modify**900** to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3d81b6b7a7d.jpg)
 7. Save the edit.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Check to see if your**Logitech G930 cutting out** problem has been resolved. If yes, then great! But if the issue is still not worked out, then delete the file you’ve just edited and**keep the original Device\_Manifest** file.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Turn off USB Root HUB Power Management
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **devmgmt.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3d8316d4a6d.png)
 2. Double-click on**Universal Serial Bus controllers** \>**USB Root Hub** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3d836de23be.jpg)
 3. Click the**Power Management** tab,_un-tick_ **the box** for**Allow the computer to turn off this device to save power** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3d83edc73ad.png)
 4. Check your Logitech G930 gaming headset and see if the sound cutting out issue has been fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -224,5 +171,22 @@ C:\Program Files\Logitech Gaming Software\Resources\G930\Manifest
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/resolved-intermittent-logitech-mouse-connection/"><u>[Resolved] Intermittent Logitech Mouse Connection</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-grasping-chroma-key-magic-a-complete-beginners-guide-to-green-screens-for-2024/"><u>[Updated] Grasping Chroma Key Magic A Complete Beginner's Guide to Green Screens for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-iphone-night-pics-101-enhancing-dark-images/"><u>[Updated] IPhone Night Pics 101 Enhancing Dark Images</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/5lqi5ooz5asw77yb5yan55sf5pmc44cb5yuv55s744gu44k144kk44k644gm5ywd44gu44kc44gu44gr5qplusu44g544gm5akx5yqg44gz44kl55cg55sx/"><u>予想外！再生時、動画のサイズが元のものに比べて増加する理由</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/curing-the-persistent-youtube-sound-renderer-malfunction-in-modern-windows-os/"><u>Curing the Persistent YouTube Sound Renderer Malfunction in Modern Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-excessive-cpu-load-by-svchostexe-in-windows-10-solutions-and-tips/"><u>Fixing Excessive CPU Load by svchost.exe in Windows 10 – Solutions and Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-y78t-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo Y78t Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-simplifying-media-files-with-xml-ssa-ttml-to-srt-process/"><u>In 2024, Simplifying Media Files with XML, SSA, TTML to SRT Process</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-unlocking-video-calls-with-zoom-in-gmail-platform/"><u>In 2024, Unlocking Video Calls with Zoom in Gmail Platform</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-airpods-audio-hiccups-a-list-of-top-10-fixes-for-clearer-sounds/"><u>Overcome AirPods Audio Hiccups: A List of Top 10 Fixes for Clearer Sounds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-problem-enable-and-fix-disabled-wireless-capabilities-easily/"><u>Overcoming the Problem: Enable and Fix Disabled Wireless Capabilities Easily</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-xiaomi-13-ultra-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Xiaomi 13 Ultra on Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-the-problem-night-light-feature-malfunction-in-recent-windows-os-versions/"><u>Solve the Problem: Night Light Feature Malfunction in Recent Windows OS Versions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-launch-minecraft-successfully-on-windows-systems/"><u>Troubleshooting Steps to Launch Minecraft Successfully on Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-touchpad-dealing-with-missing-cursor-on-windows-nx/"><u>Troubleshooting Your Touchpad: Dealing with Missing Cursor on Windows nX</u></a></li>
+</ul></div>
 

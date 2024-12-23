@@ -1,7 +1,7 @@
 ---
 title: "HP Spectre X360: Troubleshooting & Fixing Your Overheat Issues"
-date: 2024-09-11T15:22:17.502Z
-updated: 2024-09-12T15:22:17.502Z
+date: 2024-12-19T21:25:57.490Z
+updated: 2024-12-22T16:11:52.483Z
 tags:
   - win11
   - win10
@@ -27,10 +27,7 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Allow access to microphone
@@ -43,6 +40,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
@@ -51,16 +52,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -75,13 +73,6 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
@@ -89,16 +80,7 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
@@ -114,32 +96,15 @@ To do so:
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
@@ -176,5 +141,17 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-webcam-use-for-professional-meeting-records/"><u>[New] Mastering Webcam Use for Professional Meeting Records</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-guide-for-selecting-tiktok-wallpapers/"><u>2024 Approved Master Guide for Selecting TikTok Wallpapers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-stalling-problems-with-qbittorrent/"><u>How To Overcome Stalling Problems with qBittorrent</u></a></li>
+<li><a href="https://fox-http.techidaily.com/navigating-cross-track-dynamics-in-logic-pro-x/"><u>Navigating Cross-Track Dynamics in Logic Pro X</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-stuck-at-windows-setup-problem-for-smooth-operating-system-install/"><u>Overcome the 'Stuck at Windows Setup' Problem for Smooth Operating System Install</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-11-error-code-0x80072efd-effective-strategies-and-fixes/"><u>Overcoming Windows 11 Error Code 0X80072EFD: Effective Strategies and Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-mordhau-game-crashes-a-comprehensive-guide/"><u>Resolving Mordhau Game Crashes - A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/rotibox-bluetooth-beanie-cap-analysis-exceptional-wearability-meets-high-quality-audio-features/"><u>Rotibox Bluetooth Beanie Cap Analysis: Exceptional Wearability Meets High-Quality Audio Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-restoring-integrity-of-system-files-on-windows-11/"><u>Step-by-Step Tutorial: Restoring Integrity of System Files on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-invisible-bluetooth-connections-in-windows/"><u>Winning Against Invisible Bluetooth Connections in Windows #</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Xbox One Connected to Xbox Live? Here's the Comprehensive Guide
-date: 2024-09-05T10:11:01.116Z
-updated: 2024-09-06T10:11:01.116Z
+date: 2024-12-18T17:16:10.225Z
+updated: 2024-12-22T21:09:03.686Z
 tags:
   - win11
   - win10
@@ -13,22 +13,10 @@ excerpt: This Article Describes Xbox One Connected to Xbox Live? Here's the Comp
 thumbnail: https://thmb.techidaily.com/d31c6f93e50a0d4cef2f6b0259a76d22bb0769d4863c158949ea074f5d08572b.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Xbox One Connected to Xbox Live? Here's the Comprehensive Guide
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a52e7b935f21.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If your **Xbox One won’t connect to Xbox Live**, don’t worry. There’re**four**solutions for you to fix the**Xbox Connection problem**. Just try one at a time until your problem is resolved.
 
 1. **[Hard reset your Xbox One and modem](https://tools.techidaily.com/drivereasy/download/)**
@@ -37,17 +25,9 @@ If your **Xbox One won’t connect to Xbox Live**, don’t worry. There’re**fo
 4. **[Update your network adapter software and Xbox One controller software](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 1: Hard reset your Xbox One and modem
 
 Sometimes a hard-reset can help you fix some strange problems. A hard-reset of Xbox One controller and modem helps many users fix the Xbox One not connecting to Xbox Live error. So make sure to give it a shot.
@@ -58,6 +38,10 @@ Sometimes a hard-reset can help you fix some strange problems. A hard-reset of X
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fcebec23ca.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to hard reset your modem
 
 1) Use a pin or pen tip to hold the reset button of your modem for 30 seconds. Note: You should see the power light blinking.
@@ -66,28 +50,24 @@ Sometimes a hard-reset can help you fix some strange problems. A hard-reset of X
 
 2) Release your hands and wait till the power light is steady. Now try to see if your Xbox One could be connected to Xbox Live.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Change IP settings and DNS settings on Xbox Live
 
 The IP settings and DNS settings could also have an effect on the connection between your Xbox One and Xbox Live. Follow the steps here to correct it: 1) Click the Settings icon on left side of your Xbox Live. Then click**All settings**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd64c60dd4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) Click**Network**. Then select**Network settings**on the right pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd828a1cb4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Go on to click**Advanced settings**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd893e389f.png)
@@ -100,45 +80,33 @@ The IP settings and DNS settings could also have an effect on the connection bet
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd976db238.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now try to connect your Xbox one to Xbox Live.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Check the services related to Xbox Live
 
 1) On your keyboard, press the **Windows logo key** +**R**key together to invoke the Run box. 2) Enter**services.msc**in the box and click**OK**.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599f8eede7987.png)3) Scroll down on the open Services window. Find and right click on**Xbox Live Networking Service**. Then select**Properties**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdf18958ed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) On Gerenal pane, set its Startup type to **Automatic** from the drop-down menu. Then click**Apply**\>**OK**to save your settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdeb828a6c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Now it’s back on Services window, right-click on**Xbox Live Networking Service**again. This time select**Start**.**Note:**If the Start option grayed out, select**Restart**instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdf2f4ab34.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Go on to do the same settings for**Xbox Live Auth Manager**and**Xbox Live Game Save**via the same steps above. They’re ussually listed closed to Xbox Live Networking Service.
 
@@ -154,18 +122,6 @@ Your Xbox One won’t connect to Xbox Live could also being caused by driver iss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fe7ca890f7.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After updating the drivers, please restart your computer to make the new drivers take effect.
 
 * [Xbox](https://tools.techidaily.com/drivereasy/download/)
@@ -176,8 +132,6 @@ After updating the drivers, please restart your computer to make the new drivers
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +139,20 @@ After updating the drivers, please restart your computer to make the new drivers
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-capturing-your-lenovo-display-in-slow-motion/"><u>[Updated] 2024 Approved Capturing Your Lenovo Display in Slow Motion</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-prohero-gopro-vs-nikkor-keymission-camera-faceoff-for-2024/"><u>[Updated] ProHero GoPro VS Nikkor Keymission Camera Faceoff for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-orchestrating-peak-canon-temporal-scenes/"><u>2024 Approved Orchestrating Peak Canon Temporal Scenes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-transform-your-love-game-top-tips-for-irresistible-tinder-profiles/"><u>2024 Approved Transform Your Love Game Top Tips for Irresistible Tinder Profiles</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-m34-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-fixing-the-0x800705b4-issue-during-windows-10-updates/"><u>Comprehensive Guide: Fixing the 0X800705b4 Issue During Windows 10 Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-alerted-overcoming-invalid-directory-naming-problems-effortlessly/"><u>Error Alerted! Overcoming Invalid Directory Naming Problems Effortlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-stuck-windows-update-on-older-oss-like-win7-new-edition-tips-and-solutions-for-better-user-experience-in-the-current-decade-helpful-tips-and-guid137/"><u>How To Fix Stuck Windows Update on Older OSs Like Win7 - New Edition Tips and Solutions For Better User Experience in the Current Decade! (Helpful Tips & Guides.)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-excessive-voltage-spikes-in-your-devices-connection-point/"><u>Resolving the Issue of Excessive Voltage Spikes in Your Device's Connection Point</u></a></li>
+<li><a href="https://fox-place.techidaily.com/samsung-s9-to-pc-duplication-techniques-a-comprehensive-walkthrough-for-smooth-backup-and-restore/"><u>Samsung S9 to PC Duplication Techniques - A Comprehensive Walkthrough for Smooth Backup and Restore</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/solucao-de-problemas-eficazes-para-o-windows-1011-boot-issues/"><u>Solução De Problemas Eficazes Para O Windows 10/11 Boot Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-laptop-touchpad-issues-on-windows-1087-a-comprehensive-guide/"><u>Solving Laptop Touchpad Issues on Windows 10/8/7: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-xcover-6-pro-tactical-edition-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy XCover 6 Pro Tactical Edition? Tips, Tricks and Helpful Advice</u></a></li>
+</ul></div>
 

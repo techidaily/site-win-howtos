@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'Device Not Migrated' Issue on Microsoft Windows 10 Computers
-date: 2024-12-11T20:03:40.562Z
-updated: 2024-12-13T21:01:50.157Z
+date: 2024-12-17T00:35:31.244Z
+updated: 2024-12-22T20:57:34.210Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 1: Turn off Microsoft Print to PDF feature and turn it on again
 
  1) Type **windows feature**  in the search box from the Start menu, select the**Settings** tab. Then click **Turn Windows features on or off**  from the top result.
@@ -50,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-uncheck-Microsoft-Print-to-PDF.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Reboot your Windows.
@@ -59,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Check-Microsoft-Print-to-PDF.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now your print to PDF should work properly.
 
 ---
@@ -70,6 +62,10 @@ Now your print to PDF should work properly.
 ### Solution 2: Enable there are no comma in the file name you enter
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the file name of PDF you want to save contain commas, the file would be created with 0 bytes and you cannot find it at saving folder. As a result, it seems your Microsoft Print to PDF not working. In such case, please avoid use comma or any other specific notations in the file name.
   
@@ -99,7 +95,7 @@ Now your print to PDF should work properly.
 ![Windows 11 - how to open the Control Panel](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure you set**Category** as your view-by. Then find**View devices and printers** . Click on it.
@@ -114,6 +110,10 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-Microsoft-Print-to-PDF-1200x776.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click on the button**Set as default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Microsoft-Print-to-PDF-Set-as-default-1200x803.jpg)
@@ -121,7 +121,7 @@ Now your print to PDF should work properly.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Solution 4: Remove Microsoft Print to PDF and reinstall its driver**
@@ -135,19 +135,23 @@ Now your print to PDF should work properly.
 
 ![open the Control Panel using the command](https://images.drivereasy.com/wp-content/uploads/2021/05/open-the-Control-Panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure you set **Category**  as your view-by. Then find **View devices and printers** . Click on it.
 
  3) Find and right-click on Microsoft Print to PDF under Printers dialog. Then click **Remove device** . Click **Yes**  when asked to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right-click on the blank area on Devices and Printers window to choose **Add devices and printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click **The printer that I want isn’t listed** .
 
@@ -169,10 +173,6 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  10) Click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/15.jpg)
@@ -187,7 +187,7 @@ Now your print to PDF should work properly.
 ![Windows 11 - how to open the Control Panel](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure you set **Category**  as your view-by. Then find **View devices and printers** . Click on it.
@@ -198,6 +198,10 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-1200x827.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Find **Microsoft Print to PDF** and click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-Microsoft-Print-to-PDF-1200x776.jpg)
@@ -207,7 +211,7 @@ Now your print to PDF should work properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Microsoft-Print-to-PDF-Remove-1200x801.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Back to the Printers & scanners window, you should see the button**Add device** .
@@ -221,10 +225,6 @@ Now your print to PDF should work properly.
  8) Tick**Add a local printer or network printer with manual settings** , then click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Add-a-local-printer-or-network-printer-with-manual-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  9) Select**PORTPROMPT: (Local Port)** from the drop-down list, then click**Next** .
 
@@ -257,17 +257,24 @@ Now your print to PDF should work properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-isolating-photographs-within-windows-10-movie-files/"><u>2024 Approved Isolating Photographs Within Windows 10 Movie Files</u></a></li>
-<li><a href="https://extra-information.techidaily.com/advanced-shade-realist-app/"><u>Advanced Shade Realist App</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cinematic-basics-a-list-of-essential-camera-movements/"><u>Cinematic Basics A List of Essential Camera Movements</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-download-ultimate-collection-of-msi-sound-card-drivers-for-windows/"><u>Free Download: Ultimate Collection of MSi Sound Card Drivers for Windows</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-15-pro-max-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 15 Pro Max Lock Screen with Notifications?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-realme-v30t-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Realme V30T Android SIM Unlock APK</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10-version-1607-feature-update-installation-issues/"><u>Overcoming Windows 10 Version 1607 Feature Update Installation Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pubg-structural-glitches-corrected-enjoy-seamless-gaming-now/"><u>PUBG Structural Glitches Corrected, Enjoy Seamless Gaming Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-missing-volume-settings-icon-on-your-windows-11-pc-pictorial-evidence-included/"><u>The Ultimate Fix for Missing 'Volume' Settings Icon on Your Windows 11 PC [Pictorial Evidence Included]</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1727793090911-top-4-kid-friendly-ipad-models-comprehensive-review/"><u>Top 4 Kid-Friendly iPad Models - Comprehensive Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-correcting-code-28-error-in-windows-device-manager/"><u>Troubleshooting and Correcting Code 28 Error in Windows Device Manager</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-cpu-hogging-tame-msmpengexe-on-your-pc/"><u>Winning the Battle Against CPU Hogging: Tame MsMpEng.exe on Your PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-castevaluation-synopsis-for-2024/"><u>[New] CastEvaluation Synopsis for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-transformation-of-user-interaction-understanding-the-update/"><u>[New] In 2024, The Transformation of User Interaction Understanding the Update</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-discover-the-10-best-cookie-places-in-town-with-unbeatable-taste-for-2024/"><u>[Updated] Discover the 10 Best Cookie Places in Town with Unbeatable Taste for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-a-diy-approach-downloading-and-personalizing-your-whatsapp-ringtone/"><u>2024 Approved A DIY Approach Downloading & Personalizing Your WhatsApp Ringtone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/advanced-strategies-for-screen-recording-on-ipad-for-2024/"><u>Advanced Strategies for Screen Recording on iPad for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/emerging-from-the-darkness-a-guide-to-fixing-monster-hunter-worlds-boot-up-problems/"><u>Emerging From the Darkness: A Guide to Fixing Monster Hunter: World's Boot-Up Problems</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/explore-these-6-powerful-instagram-reel-tools-for-2024/"><u>Explore These 6 Powerful Instagram Reel Tools for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-disappearing-taskbar-and-desktop-icons-in-windows-10-now/"><u>Fix Your Disappearing Taskbar and Desktop Icons in Windows 10 Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-access-dealing-with-destiny-2-servers-down-issues/"><u>How to Restore Access: Dealing with 'Destiny 2 Servers Down' Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mac-users-handbook-easy-app-uninstallation-tips-and-tricks/"><u>Mac Users' Handbook: Easy App Uninstallation Tips and Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/maintaining-access-to-previously-saved-files-on-windows-10-restart/"><u>Maintaining Access to Previously Saved Files on Windows 10 Restart</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/new-tech-on-the-block-microsofts-windows-11-se-and-cost-effective-surface-laptop-se-for-schools-spotlighted-by-zdnet/"><u>New Tech on the Block: Microsoft's Windows 11 SE and Cost-Effective Surface Laptop SE for Schools, Spotlighted by ZDNet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/utionize-your-intellect-with-these-15-yt-channels-for-2024/"><u>Revolutionize Your Intellect with These 15 YT Channels for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-document-conversion-errors-print-to-pdf-on-windows-10-and-11/"><u>Solving Document Conversion Errors: Print to PDF on Windows 10 & 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-solutions-to-resolve-audio-services-unresponsive-on-windows-10/"><u>Top Solutions to Resolve 'Audio Services Unresponsive' On Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-missing-volume-icon-in-windows-11-a-visual-guide/"><u>Troubleshooting the Missing Volume Icon in Windows 11: A Visual Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-copier-stumbling-block/"><u>Windows 11 Copier Stumbling Block</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ymu709-used-in-creative-labs-sound-blaster-audigy-advx-series-sound-cards-it-lacks-the-external-audio-interface-functions-found-on-most-other-chips-but-adds53/"><u>YMU709 - Used in Creative Labs Sound Blaster Audigy ADVx Series Sound Cards. It Lacks the External Audio Interface Functions Found on Most Other Chips, but Adds a Second MIDI Synthesizer (with No Sample Storage) for 64 Channels of Total Polyphony</u></a></li>
 </ul></div>
 

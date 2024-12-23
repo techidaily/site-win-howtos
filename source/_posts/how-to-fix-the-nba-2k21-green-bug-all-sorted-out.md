@@ -1,7 +1,7 @@
 ---
 title: How to Fix the NBA 2K21 Green Bug - All Sorted Out
-date: 2024-12-10T17:19:02.446Z
-updated: 2024-12-13T20:22:20.446Z
+date: 2024-12-17T22:47:05.530Z
+updated: 2024-12-22T21:58:46.050Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/ec661044f40b96dbce0a66b5f469594edc1639062
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all; simply work your way down the list until you find the one works for you.
@@ -39,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/ec661044f40b96dbce0a66b5f469594edc1639062
    * [PlayStation](https://tools.techidaily.com/drivereasy/download/)  
    * [Steam](https://tools.techidaily.com/drivereasy/download/)  
    * [Xbox One](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Make sure your PC meets the specs
 
@@ -69,7 +69,7 @@ Recommended System Requirements
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Turn off Shot Feedback
@@ -87,6 +87,10 @@ Recommended System Requirements
  After applying the changes, relaunch your game and check if the problem is fixed. If not, try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update your graphics drivers
 
@@ -119,6 +123,10 @@ Here’s how to update drivers with Driver Easy:
 [Steam](https://tools.techidaily.com/drivereasy/download/)
 [Xbox One](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### PlayStation: download files from MyCAREER
 
  1) Go to **Settings > Application Saved Data Management > Saved Data in System Storage** .
@@ -126,26 +134,22 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Upload to Online Storage** and upload all your data for 2K21 to the cloud.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-2-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) After uploading your data, go back to**Saved Data in Online Storage** and click**Download to System Storage** . Then download everything from**MyCAREER** (Only from**MyCAREER** files and nothing else).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-3-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you’ve done all of these, you need to load back to your game. If it says**high school** when you load it, then you wouldn’t have the green glitch.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steam
 
@@ -156,6 +160,10 @@ Here’s how to update drivers with Driver Easy:
  1) Click on the**LIBRARY** tab, right-click on your game**NBA 2K21,** and select Properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Under the**GENERAL** section, uncheck**Enable the Steam Overlay while in-game** .
 
@@ -173,19 +181,11 @@ To do this, simply follow the instructions below:
 
 ![verify game files NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) When the window pops up, click**LOCAL FILES** \>**VERIFY INTEGRITY OF GAME FILES** . Till then, the verification process will be starting.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-your-game-files-Steam-4.png)
 
  3) When the process is completed, restart Steam and launch your game again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Xbox One: make sure the language is set to English
 
@@ -221,20 +221,21 @@ To do this, simply follow the instructions below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-brand-makeover-made-easy-revel-in-our-array-of-over-50-free-online-promotional-artwork/"><u>[New] In 2024, Brand Makeover Made Easy Revel in Our Array of over 50 Free Online Promotional Artwork</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-prime-10-gif-maker-services-transforming-jpgs-at-no-cost/"><u>[New] Prime 10 GIF Maker Services Transforming JPGs at No Cost</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-digital-artisans-guide-mastering-screen-recordings-in-macos-for-2024/"><u>[New] The Digital Artisan's Guide Mastering Screen Recordings in macOS for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-invisible-recorder-how-to-save-online-music-streams/"><u>[Updated] The Invisible Recorder How to Save Online Music Streams</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/computer-freeze-no-more-strategies-for-smooth-operations-and-prevention/"><u>Computer Freeze No More: Strategies for Smooth Operations and Prevention</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-content-conversations-connecting-with-subscribers-for-2024/"><u>Crafting Content Conversations Connecting With Subscribers for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-0x80004005-explained-your-ultimate-solution-for-the-unexplained-glitch/"><u>Error 0X80004005 Explained: Your Ultimate Solution for the Unexplained Glitch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-solving-tips-for-when-windows-cant-find-the-specified-file-or-disk/"><u>Error Solving Tips for When Windows Can’t Find the Specified File or Disk</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/harnessing-the-full-potential-of-video-enhancer-22-for-your-work/"><u>Harnessing the Full Potential of Video Enhancer 2.2 for Your Work</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correctly-type-without-typing-wrong-characters-solutions-explored/"><u>How to Correctly Type Without Typing Wrong Characters: Solutions Explored</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oneplus-open-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From OnePlus Open to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-outage-at-networking-interface/"><u>Resolved: Outage at Networking Interface</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-non-responsive-microphone-issues-in-windows-11/"><u>Troubleshooting: Fixing Non-Responsive Microphone Issues in Windows 11</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-unlock-minitool-movie-makers-full-potential-tips-tricks-and-alternatives/"><u>Updated 2024 Approved Unlock Minitool Movie Makers Full Potential Tips, Tricks, and Alternatives</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-your-pc-stops-working-unexpectedly-and-how-to-fix-it/"><u>Why Your PC Stops Working Unexpectedly & How To Fix It</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-innovate-transforming-raw-footage-into-youtube-thumbnails-via-smartphones/"><u>[New] In 2024, How to Innovate Transforming Raw Footage Into YouTube Thumbnails via Smartphones</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unselect-recommended-podcasts-efficiently-on-spotify-for-2024/"><u>[Updated] Unselect Recommended Podcasts Efficiently on Spotify for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-best-multiple-webcams-recording-app-manycams-features-and-online-streaming-capabilities/"><u>1. Best Multiple-Webcams Recording App: ManyCam's Features and Online Streaming Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-adding-emulators-to-playnite-on-pc/"><u>A Step-by-Step Guide: Adding Emulators to Playnite on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ace-the-fix-troubleshooting-and-repairing-0x80070643-error-during-windows-updates/"><u>Ace the Fix: Troubleshooting and Repairing 0X80070643 Error During Windows Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204227541-breeze-through-high-wmi-cpu-usage-woes-on-win11/"><u>Breeze Through High WMI CPU Usage Woes on Win11!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-nokia-c210-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Nokia C210 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavi-sehr-leichtes-videokonvertierungsprogramm-fur-stazen-und-formatubergang/"><u>Movavi - Sehr Leichtes Videokonvertierungsprogramm Für StaZen Und Formatübergang</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamlessly-switch-between-windows-and-steamos-on-deck/"><u>Seamlessly Switch Between Windows & SteamOS on Deck</u></a></li>
+<li><a href="https://article-tips.techidaily.com/set-a-unique-tiktok-sound-as-your-cellphone-alarm-or-ringtone-for-2024/"><u>Set a Unique TikTok Sound as Your Cellphone Alarm or Ringtone for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/shockwave-flash-and-google-chrome-collision-solutions-to-get-them-running-smoothly/"><u>Shockwave Flash and Google Chrome Collision – Solutions to Get Them Running Smoothly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fix-scrolling-issue-on-synaptics-touchpad-under-windows-ten/"><u>Step-by-Step Guide to Fix Scrolling Issue on Synaptics Touchpad Under Windows # Ten</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-techniques-to-eliminate-screen-stuttering-on-windows-11-devices/"><u>Troubleshooting Techniques to Eliminate Screen Stuttering on Windows 11 Devices</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unmarked-and-unbeatable-top-free-video-editing-software/"><u>Updated 2024 Approved Unmarked and Unbeatable Top Free Video Editing Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-does-my-windows-11-computer-activate-alone-and-how-to-fix-it/"><u>Why Does My Windows 11 Computer Activate Alone and How to Fix It?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-update-issue-overcome-the-0x800705b4-setup-failure-with-easy-fixes/"><u>Windows 11 Update Issue? Overcome the 0X800705b4 Setup Failure with Easy Fixes</u></a></li>
 </ul></div>
 

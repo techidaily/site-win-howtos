@@ -1,7 +1,7 @@
 ---
 title: Cannot Apply Feature Updates for Windows 10 Build 1607? Let Us Help You Resolve That!
-date: 2024-12-09T20:24:26.525Z
-updated: 2024-12-13T19:48:50.486Z
+date: 2024-12-18T20:13:07.378Z
+updated: 2024-12-22T21:15:21.948Z
 tags:
   - win11
   - win10
@@ -32,25 +32,29 @@ Microsoft has released an update installation tool named**Windows 10 Update Assi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a002c98764a3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Open the program you’ve just downloaded. Then click**Update Now**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a002e5ecc61b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Follow the instructions to download and install the latest update.**5)** When the process finishes, your operating system will be updated to the latest version, and the update failed issue will be fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Reset the Windows Update components
 
 You may fail to install the 1607 update because the**Windows Update components**on your computer are corrupted. These components include the services and temporary files required by or related to Windows Update. You can try resetting these components and see if this can fix your problem. To reset the Windows Update components:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right click**Command Prompt**and select**Run as administrator**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** In Command Prompt, type the following lines of command and press**Enter**on your keyboard after typing each:
 
@@ -68,25 +72,21 @@ You may fail to install the 1607 update because the**Windows Update components**
 * _**net start cryptsvc**_
 **5)**Run Windows Update and check to see if your computer can install the 1607 update.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 3: Run the DISM utility
 
 Your system may fail to install the 1607 update because something corrupts your Windows image, which is necessary for the important system features like Windows Update. You can try running the**DISM**(Deployment Image Servicing and Management) utility to repair your Windows image. To run DISM:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right click**Command Prompt**and select**Run as administrator**.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png) **2)** In Command Prompt, type “_**DISM.exe /Online /Cleanup-image /Restorehealth**_” and press**Enter**on your keyboard.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0150723fc23.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Wait for the utility to complete repairing your Windows image. Then restart your computer and check to see if this fixes your update problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Temporarily disable your antivirus software
 
@@ -110,18 +110,14 @@ Sometimes your system can’t install new updates due to the interference from y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ecoding-the-science-of-hash-optimization-for-game-streaming/"><u>[New] Decoding the Science of Hash Optimization for Game Streaming</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-revamping-imagery-leading-insta-edits-explored/"><u>[Updated] Revamping Imagery Leading Insta Edits Explored</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-reimagining-ppts-with-todays-webcam-capabilities/"><u>2024 Approved Reimagining PPTs with Today's Webcam Capabilities</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-tiktok-bgs-exploring-affordable-eye-catching-visuals/"><u>2024 Approved TikTok BGs Exploring Affordable, Eye-Catching Visuals</u></a></li>
-<li><a href="https://games-able.techidaily.com/bidding-adieu-to-ea-new-price-prohibitive-for-gaming/"><u>Bidding Adieu to EA: New Price Prohibitive for Gaming</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/comprehensive-guide-to-free-premium-video-callers/"><u>Comprehensive Guide to Free, Premium Video Callers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/deciphering-and-eliminating-livekernelevent-error-144-challenge/"><u>Deciphering & Eliminating 'LiveKernelEvent Error #144' Challenge</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-video-game-best-free-online-video-enhancement-software/"><u>Elevate Your Video Game Best Free Online Video Enhancement Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-missing-sound-in-anthem-for-windows-11-users-a-step-by-step-guide/"><u>Fix Missing Sound in Anthem for Windows 11 Users: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207641604-keyboard-dilemma-heres-how-to-get-your-backspace-working-again/"><u>Keyboard Dilemma? Here's How to Get Your Backspace Working Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-to-address-missing-binkw32dll-error-on-your-computer/"><u>Quick Fixes to Address Missing binkw32.dll Error on Your Computer</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-guide-for-hd-dvd-ripping-and-converting-to-wmv-using-windows-tools/"><u>Step-by-Step Guide for HD DVD Ripping and Converting to WMV Using Windows Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-a-non-functional-dell-laptop-keyboard/"><u>Troubleshooting Tips: Fixing a Non-Functional Dell Laptop Keyboard</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-bring-footage-together-ken-burns-technique-for-camtasa-users/"><u>[New] 2024 Approved Bring Footage Together Ken Burns Technique for Camtasa Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-restore-your-windows-computers-embedded-webcam-functionality/"><u>Expert Tips to Restore Your Windows Computer's Embedded Webcam Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-registry-mismatch-error-blocking-photo-viewing-on-windows-11/"><u>How to Fix the Registry Mismatch Error Blocking Photo Viewing on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-install-dolby-atmos-in-windows-11-pro/"><u>How to Install Dolby Atmos in Windows 11 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-error-code-1603-and-complete-your-software-setup-successfully/"><u>How to Resolve Error Code 1603 and Complete Your Software Setup Successfully</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-a23-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy A23 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-path-to-affordable-streaming-student-discounts-on-youtube-premium-explained/"><u>Navigating the Path to Affordable Streaming: Student Discounts on YouTube Premium Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-copy-and-paste-problems-in-windows-11-a-step-by-step-guide/"><u>Overcoming Copy & Paste Problems in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-simplify-video-editing-on-mac-mkvtoolnix-2023-guide-for-2024/"><u>Updated Simplify Video Editing on Mac MKVtoolnix 2023 Guide for 2024</u></a></li>
 </ul></div>
 

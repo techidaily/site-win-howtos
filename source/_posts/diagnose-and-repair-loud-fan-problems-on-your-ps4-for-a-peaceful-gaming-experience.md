@@ -1,7 +1,7 @@
 ---
 title: Diagnose and Repair Loud Fan Problems on Your PS4 for a Peaceful Gaming Experience
-date: 2024-12-12T17:16:08.245Z
-updated: 2024-12-13T21:37:12.968Z
+date: 2024-12-22T00:20:53.726Z
+updated: 2024-12-23T00:39:08.706Z
 tags:
   - win11
   - win10
@@ -34,25 +34,13 @@ If you have previously installed the same program (or its earlier version), the 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9bf012d25.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Find and open**Programs and Features**;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9c81105c5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then you can check if the application is listed here. If it is, uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9d00544d7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3) Start and re-register Microsoft Installer service
 
@@ -64,21 +52,33 @@ There may be something going wrong with**Microsoft Installer service**and theref
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca70c399c1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **c)** Hit**Start**button under**Service status**and hit**OK**. (If its service status is**running**, you should click on**Stop**first and then hit**Start**.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca7cbbdf36.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**msiexec /unregister**_” and hit**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9370d810.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **b)** Press**Win + R** again and enter “ _**msiexec /regserve** **r**_ “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9952ad21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4) Acquire full permissions on the drive for installation
 
@@ -98,20 +98,20 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb3cf25a0c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **e)** Click on**Change Permissions**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb5c235c54.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **f)** On**Permissions**tab, double click on**Administrators**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb67382950.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **g)** Select**This folder, subfolders and files**for**Applies to**field and**tick** **all the available basic permissions**. After that hit**OK**.
@@ -119,7 +119,7 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb7074c180.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **h)** Do the same operation above for**SYSTEM**.
@@ -145,19 +145,20 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-expertly-merge-vimeo-footage-with-ppts-using-modern-tools/"><u>[New] 2024 Approved Expertly Merge Vimeo Footage with PPTs Using Modern Tools</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-simplest-scan-capture-app-on-windows-10/"><u>[New] 2024 Approved Simplest Scan-Capture App on Windows 10</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-resolve-instagram-video-glitches-today-for-2024/"><u>[Updated] Resolve Instagram Video Glitches Today for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/google-chrome-blackout-heres-how-to-restore-your-browsers-display/"><u>Google Chrome Blackout? Here's How to Restore Your Browser's Display</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-comparing-leading-names-in-4k-yt-video-to-mp3-tools/"><u>In 2024, Comparing Leading Names in 4K YT Video to MP3 Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-compiled-lists-best-online-stores-for-youtube-tones-and-videos/"><u>In 2024, Compiled Lists Best Online Stores for Youtube Tones and Videos</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-realme-gt-5-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Realme GT 5 Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-the-endless-restart-loop-on-windows-11-or-10-a-step-by-step-guide/"><u>Overcome the Endless Restart Loop on Windows 11 or 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-and-repairing-crackling-audio-on-your-pcs-built-in-speakers-windows-107/"><u>Resolved: Troubleshooting and Repairing Crackling Audio on Your PC's Built-In Speakers (Windows 10/7)</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-s23-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Samsung Galaxy S23 won’t play HEVC H.265 media, how to fix? </u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-continuous-boot-issues-in-the-elder-scrolls-v-skyrim/"><u>Solving Continuous Boot Issues in The Elder Scrolls V: Skyrim</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-solution-for-windows-cannot-find-entry-point-errors/"><u>The Ultimate Solution for 'Windows Cannot Find Entry Point' Errors</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-review-why-apples-iphone-xs-max-is-the-ultimate-choice-despite-its-high-price/"><u>Top Review: Why Apple's iPhone XS Max Is the Ultimate Choice - Despite Its High Price</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-cheat-protection-glitches-in-apex-legends/"><u>Troubleshooting and Fixing Cheat Protection Glitches in Apex Legends</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-kodi-buffering-issue/"><u>[FIXED] Kodi Buffering Issue</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-inside-the-new-windows-11-innovations/"><u>[Updated] In 2024, Inside the New Windows 11 Innovations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigate-with-ease-mastering-ifunnys-meme-app/"><u>2024 Approved Navigate with Ease Mastering iFunny's Meme App</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/aoc-screen-issues-on-windows-10-heres-your-step-by-step-solution/"><u>AOC Screen Issues on Windows 10? Here's Your Step-by-Step Solution!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-your-dragon-ball-journey-a-comprehensive-watching-order/"><u>Complete Your Dragon Ball Journey - A Comprehensive Watching Order</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/from-incomplete-to-complete-wow-mastered-3d-visualization/"><u>From Incomplete to Complete: WoW Mastered 3D Visualization</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ftdi-bus-error-driver-mismatch-causes-memory-integrity-issue/"><u>FTDI Bus Error: Driver Mismatch Causes Memory Integrity Issue</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210418512-9781637675830-i-want-you-to-know-my-glory/"><u>I Want You To Know My Glory | Free Book</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-nokia-150-2023-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Nokia 150 (2023)? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203188320-laptop-battery-woes-discover-easy-methods-to-restore-charging-power-today/"><u>Laptop Battery Woes? Discover Easy Methods to Restore Charging Power Today</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125125687-modded-marvels-astonishingly-swift-completion-of-speed-benchy-by-an-enhanced-3d-printer-in-merely-2-minutes/"><u>Modded Marvels: Astonishingly Swift Completion of ‘Speed Benchy’ by an Enhanced 3D Printer in Merely 2 Minutes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-your-non-functioning-mac-webcam-simple-solutions/"><u>Quick Fixes for Your Non-Functioning Mac Webcam – Simple Solutions!</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/transitioning-from-bios-a-step-by-step-guide-to-upgrading-to-unified-extensible-firmware-interface-uefi/"><u>Transitioning From BIOS: A Step-by-Step Guide to Upgrading to Unified Extensible Firmware Interface (UEFI)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-with-tom-expert-hardware-reviews/"><u>Unveiling Gadgets with Tom - Expert Hardware Reviews</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wireless-internet-sharing-made-simple-with-usb-tethering-on-windows-11/"><u>Wireless Internet Sharing Made Simple with USB Tethering on Windows 11</u></a></li>
 </ul></div>
 

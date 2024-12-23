@@ -1,7 +1,7 @@
 ---
 title: "Unstick Your PC: Effective Tips for Handling the 'Configuring Windows' Hang-Up"
-date: 2024-12-06T22:32:04.023Z
-updated: 2024-12-13T19:49:55.160Z
+date: 2024-12-17T23:58:53.429Z
+updated: 2024-12-22T22:21:56.123Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
    2. If you **can**  print your PDF file in your browser, you need to [**troubleshoot problems with your Acrobat Reader** .](#reader)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 4. **[Troubleshoot problems with your Acrobat Reader](#reader)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot problems with your printer
 
@@ -59,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 3. Click**Devices and Printers** in**Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0355fe9f37.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Make sure there is a green ✔ mark with your printer, which means it’s set to default.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0361852b11.jpg)  
@@ -105,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03f2e27b7d.png)
 3. Click**Advanced** , then tick on **Print As Image** .  Go on to click**OK** \>**Print** to see if your PDF file can be printed.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f046ecc9c75.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2\. Recreate a new PDF file
 
 1. Choose a way to recreate a new PDF file:  
@@ -116,7 +124,7 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 2. Double-click the new PDF file on your hard drive and then try to print it to see if successful.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -146,10 +154,6 @@ thumbnail: https://thmb.techidaily.com/ea5e8021512da560143621a6e45ed4b3d646d8580
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Option 2 – Manually
 
  To check and restore your system file might take time and computer skills. You will need to run numerous commands, wait for the process to complete, or risk your personal data.
@@ -173,7 +177,7 @@ sfc /scannow
 ![Windows 11 - System File Checker](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-sfc-scannow.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
@@ -211,7 +215,7 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
  Restart your PC after repairing the corrupt files and test your printer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot problems with your Acrobat Reader
@@ -222,10 +226,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 2. Open your PDF file in Acrobat Reader and try to print it to see if successful. If a simple restart cannot solve your problem, reinstall your Acrobat Reader with the latest version with the following steps.
 3. Type features in the search box from Start. Then click Apps & features.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03ff1ce57c.png)
 4. Find your Acrobat Reader, then Uninstall.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f040401a2b4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Go to the official Adobe website, download, and the latest version of Acrobat Reader on your computer.
 
@@ -252,17 +252,21 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-navigating-the-world-of-pc-screencasters-with-ease-for-2024/"><u>[New] Navigating the World of PC Screencasters with Ease for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/identifying-suitable-cameras-for-windows-hello/"><u>Identifying Suitable Cameras for Windows Hello</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-master-classroom-titling-software/"><u>In 2024, Master Classroom Titling Software</u></a></li>
-<li><a href="https://fox-http.techidaily.com/laugh-o-matic-crafting-gags-on-the-house-rate/"><u>Laugh-O-Matic Crafting Gags on the House Rate</u></a></li>
-<li><a href="https://win-dash.techidaily.com/mastering-the-setup-seamless-integration-of-wacom-intuos-3-drivers-into-your-microsoft-based-pc-workstation-a-comprehensive-guide/"><u>Mastering the Setup: Seamless Integration of Wacom Intuos 3 Drivers Into Your Microsoft-Based PC Workstation – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-connection-problems-making-your-usb-mouse-work-again-on-pclaptop/"><u>Overcoming Connection Problems: Making Your USB Mouse Work Again on PC/Laptop</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premium-selection-top-8-tripods-for-clear-4k-videos/"><u>Premium Selection Top 8 Tripods for Clear 4K Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-problems-with-windows-sound-enhancements-tips-and-solutions/"><u>Resolving Problems with Windows Sound Enhancements - Tips and Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/sd-card-unseen-solutions-await/"><u>SD Card Unseen? Solutions Await!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-non-functional-mic-on-your-steelseries-arctis-5-headset-issue-resolved/"><u>Troubleshooting a Non-Functional Mic on Your SteelSeries Arctis 5 Headset (ISSUE RESOLVED)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-guide-top-pick-screen-capture-software-for-windows-users-pc-laptop-and-more/"><u>Ultimate Guide: Top Pick Screen Capture Software for Windows Users (PC, Laptop & More)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-green-grounds-a-selection-of-free-downloadable-videography-sets/"><u>[New] Green Grounds A Selection of Free, Downloadable Videography Sets</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-m1-chip-wins-smoothness-in-every-edit-every-time/"><u>[New] M1 Chip Wins Smoothness in Every Edit, Every Time</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sound-innovation-at-hand-dive-into-free-easy-voice-overhaul-tools/"><u>[Updated] Sound Innovation at Hand Dive Into Free, Easy Voice Overhaul Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-understanding-fps-making-a-choice-between-30-and-60-hertz-for-2024/"><u>[Updated] Understanding FPS Making a Choice Between 30 & 60 Hertz for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-malfunctioning-dell-usb-connection-solutions-and-tips/"><u>Fixing a Malfunctioning Dell USB Connection: Solutions & Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-keyboard-slow-response-easily/"><u>How To Fix Keyboard Slow Response Easily</u></a></li>
+<li><a href="https://win-help.techidaily.com/maximize-pc-speed-with-effective-disk-space-management-yl-software-strategies/"><u>Maximize PC Speed with Effective Disk Space Management - YL Software Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-resetting-issues-on-windows-11-a-step-by-step-fix-guide/"><u>Overcoming Resetting Issues on Windows 11 - A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/script-refusal-to-run/"><u>Script Refusal to Run</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/sharex-examined-evaluations-and-alternatives/"><u>ShareX Examined Evaluations & Alternatives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-auto-start-issues-discovering-reasons-behind-self-booting-windows-10-systems/"><u>Solve Auto-Start Issues: Discovering Reasons Behind Self-Booting Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/system-resource-shortage-issue-addressed-improved-performance-assured/"><u>System Resource Shortage Issue Addressed – Improved Performance Assured</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-strategies-fixing-rust-applications-when-they-freeze-expert-advice/"><u>Top Strategies: Fixing Rust Applications When They Freeze - Expert Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-windows-11-compatibility-issues-with-airpods/"><u>Troubleshooting Guide: Resolving Windows 11 Compatibility Issues with AirPods</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-hidden-details-roblox-closeup-secrets/"><u>Unlocking Hidden Details Roblox Closeup Secrets</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-did-my-imessage-turn-into-a-text-on-iphone/"><u>Why Did My iMessage Turn Into a Text on iPhone?</u></a></li>
 </ul></div>
 

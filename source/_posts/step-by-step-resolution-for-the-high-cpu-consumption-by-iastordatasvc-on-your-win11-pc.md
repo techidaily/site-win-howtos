@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Resolution for the High CPU Consumption by IAstorDataSvc on Your Win11 PC
-date: 2024-12-10T19:12:09.351Z
-updated: 2024-12-13T17:50:17.921Z
+date: 2024-12-17T00:36:27.698Z
+updated: 2024-12-22T18:41:15.787Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ Continuously getting the error **“There is a problem with your games setup. Pl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Repair your game
@@ -49,6 +49,10 @@ Continuously getting the error **“There is a problem with your games setup. Pl
  This file check can take up to an hour to complete depending on your computer’s hardware. If there are any file issues or corrupt files, it will replace them or download them again.
 
 If that didn’t help, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Clear Origin game cache
 
@@ -71,13 +75,13 @@ If that didn’t help, try the next fix below.
   
 ![how to clear Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/Origin-ProgramData.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Delete all the files and folders inside it**except for LocalContent** . Do not delete this folder.  
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/do-not-delete-LocalContent.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To delete these files and folders quickly, you can hold the**Windows + A keys** to select all of them. Then hold**Ctrl** and click on**LocalContent** to deselect it. Then you can right-click on the files and folders you selected and choose**Delete** .  
   
@@ -93,6 +97,10 @@ If that didn’t help, try the next fix below.
   
 ![delete the Origin folder](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) In the address bar, click on**AppData** .  
   
 ![delete Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/click-on-AppData.jpg)
@@ -100,6 +108,10 @@ If that didn’t help, try the next fix below.
  9) Open the**Local** folder and delete the**Origin** folder in here.  
   
 ![delete Origin folder inside LocalData](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder-inside-LocalData.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 10) Restart your PC and log back into Origin.
 
@@ -121,21 +133,21 @@ Here’s how to update drivers with Driver Easy:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-device-drivers.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. Then resume your installation or launch your game from Origin to check if that error message still appears.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run Origin as an administrator
@@ -147,10 +159,6 @@ Here’s how to update drivers with Driver Easy:
 2) Right-click the Origin client icon on your desktop (or in the Origin directory if not on your desktop and click**Run As Administrator** .  
   
 ![Run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-administrator.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you want to make Origin always run as administrator, take these steps:
 
@@ -165,7 +173,7 @@ If you want to make Origin always run as administrator, take these steps:
  Resume your installation and check if it helped you fix the issue. If your problem persists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Install the latest visual C++ redistributable pack
@@ -173,10 +181,6 @@ If you want to make Origin always run as administrator, take these steps:
  Microsoft Visual C++ Redistributable is a standard distributable package of shared code that comes as part of your Windows and enables apps to run on your PC. If it’s missing or your current one is out-of-date, some apps that rely on the redistributable will fail to start or run and it will result in a total mess. Therefore, we would suggest you install the latest Visual C++ from[Microsoft](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) , both the x64 and x86 versions (you’ll find them in the**Visual Studio 2015, 2017 and 2019** section. )
 
 If that didn’t help, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Download Media Feature Pack for Windows 10 N
 
@@ -193,10 +197,6 @@ If that didn’t help, move on to the next fix.
  2) Select**About** . Then in the**Windows specifications** section, you’ll find your edition.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/my-windows-version.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -217,22 +217,18 @@ If that didn’t help, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-comparative-study-youtube-app-on-smartphone-platforms/"><u>[New] 2024 Approved Comparative Study YouTube App on Smartphone Platforms</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-anticipated-shifts-in-social-media-marketing-fb-ad-trends-of-24/"><u>[New] 2024 Approved The Anticipated Shifts in Social Media Marketing FB Ad Trends of '24</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-how-can-i-use-twitter-archive/"><u>[Updated] 2024 Approved How Can I Use Twitter Archive?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capturing-on-win10-the-leading-apps-to-check-out/"><u>[Updated] Capturing on Win10 The Leading Apps to Check Out</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-list-of-the-top-50-cyber-monday-gaming-bargains-latest-console-pc-laptop-and-game-deals-now-live-digital-trends/"><u>Exclusive List of the Top 50 Cyber Monday Gaming Bargains: Latest Console, PC, Laptop, and Game Deals Now Live | Digital Trends</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-correcting-ethernet-malfunctions-in-windows-10windows-7-systems/"><u>Expert Tips for Correcting Ethernet Malfunctions in Windows 10/Windows 7 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/exploring-sfc-and-dism-tools-for-effective-windows-11-system-restoration/"><u>Exploring SFC & DISM Tools for Effective Windows 11 System Restoration</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-comparing-picku-vs-androids-leading-photo-editor/"><u>In 2024, Comparing PickU Vs. Android's Leading Photo Editor</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-12-mini-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 12 mini with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-v29-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo V29 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209309001-livekernelevent-117-trouble-heres-how-you-can-fix-it/"><u>LiveKernelEvent 117 Trouble? Here's How You Can Fix It</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastery-over-kernel32-faults/"><u>Mastery over Kernel32 Faults</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-ce-34878-0-issue-on-your-playstation-4-step-by-step-fix-guide/"><u>Resolving the CE-34878-0 Issue on Your PlayStation 4: Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://win-latest.techidaily.com/revive-your-iphones-address-book-tips-for-retrieving-data-from-itunes-sync/"><u>Revive Your iPhone's Address Book - Tips for Retrieving Data From iTunes Sync</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-for-malfunctioning-keys-preceding-user-logon/"><u>Solution for Malfunctioning Keys Preceding User Logon</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-repair-tips-for-lenovo-laptop-fn-key-defects-get-back-to-productivity/"><u>Step-by-Step Repair Tips for Lenovo Laptop FN Key Defects - Get Back to Productivity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-no-hardware-recognized-when-installing-windows-7/"><u>Troubleshooting: No Hardware Recognized When Installing Windows 7</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-prime-focus-systems-ultimate-4k-dslr-rig-guide-for-2024/"><u>[Updated] Prime Focus Systems Ultimate 4K DSLR Rig Guide for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/creative-tims-pro-argon-ui-framework-ultimate-design-system-integrating-bootstrap-angular/"><u>Creative Tim's Pro Argon UI Framework: Ultimate Design System Integrating Bootstrap ➡️ Angular</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/defeating-windows-update-hurdles-expert-strategies-to-address-error-0x8024a105/"><u>Defeating Windows Update Hurdles: Expert Strategies to Address Error 0X8024a105</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-smooth-connectivity-lenovo-bluetooth-driver-download-and-update-for-windows-710-risk-free/"><u>Ensure Smooth Connectivity: Lenovo Bluetooth Driver Download & Update for Windows 7/10 (Risk-Free)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-dealing-with-the-invalid-directory-problem/"><u>Expert Tips for Dealing with the 'Invalid Directory' Problem</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-nokia-devices-by-drfone-android/"><u>How to Reset Gmail Password on Nokia Devices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-launch-film-studio-windows-xp-edition-essentials/"><u>In 2024, Launch Film Studio Windows XP Edition Essentials</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211374264-stop-worrying-about-your-huion-device-discover-these-5-quick-pen-repair-tips/"><u>Stop Worrying About Your Huion Device; Discover These 5 Quick Pen Repair Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/top-2-reproductores-video-h265-hevc-uhd-libres-y-optimizados-para-windows-11mac-en-2023/"><u>Top 2 Reproductores Vídeo H.265 HEVC UHD Libres Y Optimizados Para Windows 11/Mac en 2023</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-ps4-network-issues-a-detailed-walkthrough/"><u>Troubleshooting and Fixing PS4 Network Issues: A Detailed Walkthrough</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-resolve-the-dx11-feature-level-100-issue-in-wwe-2k-battlegrounds/"><u>Troubleshooting Steps to Resolve the DX11 Feature Level 10.0 Issue in WWE 2K Battlegrounds</u></a></li>
 </ul></div>
 

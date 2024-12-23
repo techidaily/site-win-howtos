@@ -1,7 +1,7 @@
 ---
 title: "Winning the Battle Against Missing Desktop Shortcuts on Windows 11: Solutions and Tips"
-date: 2024-12-06T19:14:04.267Z
-updated: 2024-12-13T16:38:29.860Z
+date: 2024-12-18T16:30:57.646Z
+updated: 2024-12-22T21:17:29.677Z
 tags:
   - win11
   - win10
@@ -33,14 +33,15 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 >
 
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Try another installer
 
  If you see this error when you try to install a program, it is possible the installer or installation package is corrupted. In this case, you should download a correct installer to set up the program. You can download its latest version from the program’s official website. Then try installing it on your computer. If the error came from the original installer, you won’t see the error now.  
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Reinstall the problem program
 
@@ -49,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 **1)** On your keyboard, press the**Windows logo**   **key![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)**  and**R** at the same time to invoke the Run box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Type “_**control**_ ” and press**Enter** to open Control Panel.
@@ -69,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b650d50f878.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)**  Download the latest version of your program from the its official website and install it on your computer.
@@ -83,33 +84,33 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 
 **1)** On your keyboard, press the**Windows logo**   **key![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)**  and**R** at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Type “_**control**_ ” and press**Enter** to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b609e2cee18.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select**Large icons** in the View by drop-down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a8beffe8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click **Programs and Features** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60b6ea986e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Delete every Visual C++ Redistributable (right-click on each of the programs with the name of “**Microsoft Visual C++ XXXX Redistributable** ” and then select**Uninstall** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b6556f6ddfc.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)**  Go to the[**Microsoft Visual C++ downloads website**](https://support.microsoft.com/help/2977003/the-latest-supported-visual-c-downloads) to download the programs you have just uninstalled. Then install them on your computer.
 
@@ -132,6 +133,10 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b74672c10aa.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Wait for the scan to complete. Then check to see if the error is gone.
 
 **5)**  If the problem persists, go back to Command Prompt, and then type “_**DISM.exe /Online /Cleanup-image /Restorehealth**_ ” and press**Enter** .
@@ -153,21 +158,17 @@ To reset your Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b74c521d0cb.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click **Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b74c8d75b01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select**Remove everything** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b74e3feb5d0.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Wait for the system to complete the resetting process.
 
@@ -190,18 +191,18 @@ To reset your Windows 10:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-mastering-selection-of-top-free-srt-translators-key-insights-revealed/"><u>[New] In 2024, Mastering Selection of Top Free SRT Translators – Key Insights Revealed</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-perfecting-pics-with-practicality-top-5-pc-snipping-tools/"><u>[New] In 2024, Perfecting Pics with Practicality - Top 5 PC Snipping Tools</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-maximize-your-mobile-experience-with-these-7-blockers/"><u>[Updated] In 2024, Maximize Your Mobile Experience with These 7 Blockers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-snapshot-survival-guide-top-recorders-evaluated/"><u>2024 Approved SnapShot Survival Guide Top Recorders Evaluated</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-ip-landscape-of-instagram-music/"><u>2024 Approved The IP Landscape of Instagram Music</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/constraint-b-each-historical-event-chosen-for-the-footnotes-should-not-have-been-commonly-referenced-in-mainstream-media/"><u>Constraint B: Each Historical Event Chosen for the Footnotes Should Not Have Been Commonly Referenced in Mainstream Media.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/defeating-the-dilemma-of-a-dead-stylus-in-depth-strategies-for-xperia-and-tab-pro-users/"><u>Defeating the Dilemma of a Dead Stylus: In-Depth Strategies for Xperia and Tab Pro Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnose-and-repair-broken-arrow-keys-on-your-keyboard-proven-methods/"><u>Diagnose and Repair Broken Arrow Keys on Your Keyboard - Proven Methods</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/improve-your-pcs-graphics-efficiency-tackling-dwm-related-gpu-overuse-in-windows-11/"><u>Improve Your PC's Graphics Efficiency: Tackling DWM-Related GPU Overuse in Windows 11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210363175-9780760371848-living-lunarly/"><u>Living Lunarly | Free Book</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/revamping-lg-monitor-performance-correct-drivers-installation-for-windows-platforms/"><u>Revamping LG Monitor Performance: Correct Drivers Installation for Windows Platforms</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/techniques-eprouvees-pour-la-recuperation-de-fichiers-windowsold-strategies-dexperts-expliquees/"><u>Techniques Eprouvées Pour La Recuperation De Fichiers Windows.Old: Stratégies D'Experts Expliquées</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/usb-mouse-not-working-on-laptop-try-these-fixes/"><u>USB Mouse Not Working on Laptop? Try These Fixes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-prime-time-the-top-10-windows-webcam-recorders/"><u>[New] Prime Time The Top 10 Windows Webcam Recorders</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unlocking-the-secrets-to-flawless-ppt-video-production-for-2024/"><u>[New] Unlocking the Secrets to Flawless PPT Video Production for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209123405-diagnosing-and-correcting-the-frequent-disconnection-problem-in-your-personal-computer-mouse/"><u>Diagnosing and Correcting the Frequent Disconnection Problem in Your Personal Computer Mouse.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-to-correct-ieframedll-malfunctions/"><u>Effective Solutions to Correct Ieframe.dll Malfunctions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-41-in-windows-kernel-resolution-found/"><u>Error 41 in Windows Kernel - Resolution Found</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hp-laptop-key-issues-fixed-simple-solutions-in-minutes/"><u>HP Laptop Key Issues Fixed - Simple Solutions in Minutes!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-x50-gt-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor X50 GT FRP</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-honor-magic-5-lite-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Honor Magic 5 Lite and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/nar-du-kan-finne-horer-pa-nettet-easy-to-use-audio-extractor-fra-video/"><u>Når Du Kan Finne Hører På Nettet: Easy-to-Use Audio Extractor Fra Video</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211756961-overcome-pdf-printing-issues-effective-remedies-in-minutes/"><u>Overcome PDF Printing Issues: Effective Remedies in Minutes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/e-steps-adding-comprehensive-captions-to-youtube-videos-for-2024/"><u>Simple Steps Adding Comprehensive Captions to YouTube Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transform-your-webm-files-to-ogv-at-no-cost-use-our-step-by-step-guide-online/"><u>Transform Your WebM Files to OGV at No Cost - Use Our Step-by-Step Guide Online!</u></a></li>
 </ul></div>
 

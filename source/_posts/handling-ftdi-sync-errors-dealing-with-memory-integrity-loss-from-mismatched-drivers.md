@@ -1,7 +1,7 @@
 ---
 title: "Handling FTDI Sync Errors: Dealing with Memory Integrity Loss From Mismatched Drivers"
-date: 2024-09-05T10:11:22.262Z
-updated: 2024-09-06T10:11:22.262Z
+date: 2024-12-18T22:36:17.746Z
+updated: 2024-12-23T00:01:30.310Z
 tags:
   - win11
   - win10
@@ -13,44 +13,18 @@ excerpt: "This Article Describes Handling FTDI Sync Errors: Dealing with Memory 
 thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabdceffdbe6557dc25c31661ee.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unveiling Remedies: Overcoming the Chrome Screen Turned Pitch Black
 
 You might be frightened when your Google Chrome screen suddenly turns black without any error message or warning. Especially when you haven’t saved the changes you’ve done on the web page.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/0.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  I believe you’ve tried the most common fixes: wait for it or close the program and reboot it. But if these efforts can’t help you solve the**Google Chrome black screen** problem, you can try the methods below.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these methods
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -71,17 +45,9 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-06_11-08-49.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You should see the webpage again. Then you can adjust the edge of the window as you like. It’s a temporary fix, you might meet the issue again.
 
 ### Method 2: Remove browser extensions
@@ -95,12 +61,6 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 4. Restart Chrome to check whether the issue is solved or not.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. If the issue is solved, you’ll know there is something wrong with at least one extension.
 6. Enable your installed extensions one by one to find which one is causing the problem. Then disable or remove it.
 
@@ -114,24 +74,22 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 
 1. Right-click on Chrome click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom0.jpg)
 2. On the Shortcuts tab, find Target. Add “`--disable-gpu` ” at the end of the text in the Target box. It should now read: …chrome.exe”`--disable-gpu` .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : There’s a space after**exe”** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom01.jpg)
 3. Click**OK** and then run Google Chrome.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Hit the three dots button in the upper right corner, then click**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom3.jpg)
 5. Click**Advanced** at the bottom.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Deselect “**Use hardware acceleration when available** .”![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom4.jpg)
 7. Run Google Chrome to check whether the issue is solved or not.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -142,11 +100,9 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 1. Right-click on Chrome click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom0.jpg)
 2. In the Compatibility tab, click Run this program in compatibility mode for. Then choose the system in the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome8.jpg)
 3. Click**OK** then run Google Chrome to check.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -157,44 +113,18 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 5: Reinstall your Google Chrome
 
  The error could be caused by corrupted installation. So you can reinstall the program to solve this problem.
 
 1. Press the**Windows logo key** \+ **Pause** together then click **Control Panel** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome5.jpg)
 2. Set Control Panel view by**Category** . Then click **Uninstall a program** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Right-click on Google Chrome and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome7.jpg)
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Use another browser to download the latest version of Google Chrome from the[Google Chrome official website](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMI0sLo0YH%5F4QIVksJkCh1jiw8SEAAYASAAEgIDF%5FD%5FBwE&gclsrc=aw.ds) .
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Install it manually and then check the issue is solved or not.
 
 ---
@@ -227,8 +157,17 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -245,8 +184,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -254,4 +191,17 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-embrace-evolution-from-paper-originals-to-digital-archives/"><u>[Updated] 2024 Approved Embrace Evolution From Paper Originals to Digital Archives</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-connect-with-serenity-explore-these-10-exceptional-yogis-videos/"><u>[Updated] Connect With Serenity Explore These 10 Exceptional Yogis' Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pioneering-techniques-in-the-world-of-gif-animation/"><u>[Updated] Pioneering Techniques in the World of GIF Animation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-divide-between-traditional-cable-and-modern-streaming-services/"><u>Exploring the Divide Between Traditional Cable and Modern Streaming Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-problem-with-creating-a-directx-rendering-context/"><u>Fixed: Problem with Creating a DirectX Rendering Context</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-14-pro-max-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone 14 Pro Max to SIM? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-dysfunction-fixes-for-windows-1078-users-facing-typing-issues/"><u>Keyboard Dysfunction Fixes for Windows 10/7/8 Users Facing Typing Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubg-resolved-issue-buildings-now-load-correctly/"><u>PUBG: Resolved Issue - Buildings Now Load Correctly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-steps-to-overcome-the-frustrating-windows-update-error-at-0/"><u>Simple Steps to Overcome the Frustrating Windows Update Error at 0%</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/understanding-the-initial-clashes-of-1839-unraveling-the-first-opium-wars-impact-on-sino-british-relations/"><u>Understanding The Initial Clashes of 1839: Unraveling the First Opium War's Impact on Sino-British Relations</u></a></li>
+</ul></div>
 

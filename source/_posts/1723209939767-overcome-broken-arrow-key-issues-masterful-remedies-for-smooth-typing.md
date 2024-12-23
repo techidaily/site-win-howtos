@@ -1,7 +1,7 @@
 ---
 title: "Overcome Broken Arrow Key Issues: Masterful Remedies for Smooth Typing"
-date: 2024-12-09T16:02:22.642Z
-updated: 2024-12-13T16:06:42.482Z
+date: 2024-12-20T00:05:17.569Z
+updated: 2024-12-22T21:26:07.470Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 4. **[Update your keyboard driver](#Fix4)**
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Clean your keyboard
 
@@ -65,20 +69,28 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
@@ -91,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
@@ -127,19 +135,15 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### on Windows 11
 
@@ -150,10 +154,6 @@ If this method didn’t work for you, check out the last fix.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -176,16 +176,22 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-where-to-buy-a-monetized-youtube-channel-a-complete-guide/"><u>[New] Where to Buy a Monetized YouTube Channel A Complete Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-ai-powered-image-processing-hub-for-2024/"><u>[Updated] AI-Powered Image Processing Hub for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-leading-ios-emulators-virtual-ps2-world/"><u>[Updated] In 2024, Leading iOS Emulators Virtual PS2 World</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-editing-skills-switch-to-our-pro-grade-video-converter-for-advanced-features/"><u>Elevate Your Editing Skills: Switch to Our Pro-Grade Video Converter for Advanced Features</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/essential-printing-downloading-the-right-drivers-for-ricoh-mp-c3003/"><u>Essential Printing: Downloading the Right Drivers for Ricoh MP C3003</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-tips-overcoming-the-error-code-28-challenge-in-windows-device-manager/"><u>Essential Tips: Overcoming the 'Error Code 28' Challenge in Windows Device Manager</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-overcoming-directx-encountered-an-unrecoverable-error-on-your-pc/"><u>Expert Advice: Overcoming 'DirectX Encountered an Unrecoverable Error' On Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-the-red-exclusion-mark-on-network-symbols/"><u>Troubleshooting Guide for the Red Exclusion Mark on Network Symbols</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-ps4-noise-issues-identifying-causes-and-solutions/"><u>Troubleshooting PS4 Noise Issues: Identifying Causes and Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-windows-11-update-hurdle-error-0x800f0922-fixes/"><u>Ultimate Guide: Resolving the Windows 11 Update Hurdle – Error 0X800f0922 Fixes</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/why-mondly-is-perfect-for-your-first-steps-into-afrikaans/"><u>Why Mondly Is Perfect for Your First Steps Into Afrikaans</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-edits-best-8-tools-for-linux-users/"><u>[New] In 2024, Essential Edits Best 8 Tools for Linux Users</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-from-footage-to-frames-screen-and-webcam-capturing-with-vimeo-for-2024/"><u>[Updated] From Footage to Frames Screen & Webcam Capturing with Vimeo for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-perfecting-pixels-how-to-choose-the-right-borders-on-ig-images-for-2024/"><u>[Updated] Perfecting Pixels How to Choose the Right Borders on IG Images for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-redirect-mac-images-to-custom-folder/"><u>[Updated] Redirect Mac Images to Custom Folder</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-simplify-your-multitasking-using-shortcut-keys-for-macs-screen-capture/"><u>2024 Approved Simplify Your Multitasking Using Shortcut Keys for Mac's Screen Capture</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-unified-media-playback-on-youtube-flv-files-tutorial/"><u>2024 Approved Unified Media Playback on YouTube FLV Files Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-svchostexe-netsvcs-how-to-fix-excessive-bandwidth-usage-and-improve-your-pcs-efficiency/"><u>Decoding svchost.exe (NETsvcs) - How to Fix Excessive Bandwidth Usage & Improve Your PC's Efficiency</u></a></li>
+<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/end-crackling-audio-from-computer-speakers-effective-techniques-for-windows-users/"><u>End Crackling Audio From Computer Speakers: Effective Techniques for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-track-guide-to-fixing-errors-in-directx-setup-processes-effortlessly/"><u>Fast Track Guide to Fixing Errors in DirectX Setup Processes Effortlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/file-explorer-tricks-for-windows-11-users-quick-help-and-easy-fixes/"><u>File Explorer Tricks for Windows 11 Users - Quick Help & Easy Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-applicationexe-has-stopped-error-a-complete-guide/"><u>Fixing 'Application.exe Has Stopped' Error – A Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-when-your-hp-laptops-mouse-pad-wont-work/"><u>How to Fix When Your HP Laptop's Mouse Pad Won't Work</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/iphoneandroids-leading-vr-experiences-ranked/"><u>IPhone/Android's Leading VR Experiences Ranked</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-game-dev-challenges-fixing-pixel-format-not-accelerated-in-lwjgl-environment/"><u>Mastering Game Dev Challenges: Fixing 'Pixel Format Not Accelerated' In LWjGL Environment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-trackpad-effective-fixes-for-windows-11-8-and-7-not-working-scenarios/"><u>Revive Your Trackpad: Effective Fixes for Windows 11, 8 & 7 Not Working Scenarios</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-how-to-on-keeping-your-airpods-germ-free-a-comprehveguide-to-sanitization-and-maintenance/"><u>The Ultimate How-To on Keeping Your AirPods Germ-Free: A Comprehveguide to Sanitization and Maintenance</u></a></li>
 </ul></div>
 

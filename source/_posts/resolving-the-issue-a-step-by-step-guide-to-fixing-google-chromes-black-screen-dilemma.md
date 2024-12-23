@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Issue: A Step-by-Step Guide to Fixing Google Chrome's Black Screen Dilemma"
-date: 2024-09-11T15:21:31.159Z
-updated: 2024-09-12T15:21:31.159Z
+date: 2024-12-15T20:29:07.075Z
+updated: 2024-12-22T20:32:24.348Z
 tags:
   - win11
   - win10
@@ -20,16 +20,7 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/featured-image-7.png)
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -80,27 +71,21 @@ Recommended System Requirements
 
 ![turn off Shot Feedback NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-shot-feedback-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Scroll down and switch**Shot Feedback** to**Off** .
 
 ![turn off Shot Feedback NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-shot-feedback-2-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After applying the changes, relaunch your game and check if the problem is fixed. If not, try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update your graphics drivers
 
@@ -116,35 +101,13 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -165,42 +128,19 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Upload to Online Storage** and upload all your data for 2K21 to the cloud.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-2-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) After uploading your data, go back to**Saved Data in Online Storage** and click**Download to System Storage** . Then download everything from**MyCAREER** (Only from**MyCAREER** files and nothing else).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-3-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After you’ve done all of these, you need to load back to your game. If it says**high school** when you load it, then you wouldn’t have the green glitch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steam
 
@@ -216,13 +156,6 @@ Here’s how to update drivers with Driver Easy:
 
 ![disable steam overlay NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After applying the change, exit Steam and play your game again to see if the issue is fixed. If not, try verifying your game files.
 
 #### Verify your game files
@@ -236,10 +169,7 @@ To do this, simply follow the instructions below:
 ![verify game files NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) When the window pops up, click**LOCAL FILES** \>**VERIFY INTEGRITY OF GAME FILES** . Till then, the verification process will be starting.
@@ -255,6 +185,10 @@ To do this, simply follow the instructions below:
  1) Go to**FEATURES** in 2K.
 
 ![set the language into English NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/set-the-language-into-English-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**SETTINGS** and scroll down to**Menu Language** and make sure the language is set to**English** .
 
@@ -280,5 +214,26 @@ To do this, simply follow the instructions below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-alert-the-active-input-timing-specification-is-ignored-by-the-display-unit/"><u>[FIXED] Alert! The Active Input Timing Specification Is Ignored by the Display Unit</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-share-screen-on-zoom-meeting-guide/"><u>[New] 2024 Approved Share Screen on Zoom Meeting Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premier-editing-software-perfect-for-dev-screens/"><u>[New] Premier Editing Software Perfect for Dev Screens</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-smooth-path-from-instagram-visuals-to-mp3-sound-for-2024/"><u>[New] Smooth Path From Instagram Visuals to Mp3 Sound for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-direction-and-intensity-in-video-lighting/"><u>[Updated] In 2024, Direction and Intensity in Video Lighting</u></a></li>
+<li><a href="https://fox-http.techidaily.com/artistic-arenas-of-2022s-olympians-for-2024/"><u>Artistic Arenas of 2022'S Olympians for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-corsair-hs50-users-with-unresponsive-microphones/"><u>Effective Solutions for Corsair HS50 Users with Unresponsive Microphones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-unfollow-practices-for-past-connections-on-what-was-once-x/"><u>Effective Unfollow Practices For Past Connections On What Was Once 'X'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-ensure-your-hardware-is-synced-with-world-of-warcraft-driver-update-solutions/"><u>How to Ensure Your Hardware Is Synced with World of Warcraft - Driver Update Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-device-drivers-not-installed-on-windows-7/"><u>How to Resolve 'Device Drivers Not Installed' On Windows 7</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-efficient-expeditions-to-extinct-reddit-threads/"><u>In 2024, Efficient Expeditions to Extinct Reddit Threads</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-exploring-the-ultimate-selection-of-gratis-vst-enhancers-updated/"><u>New In 2024, Exploring the Ultimate Selection of Gratis VST Enhancers, Updated</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-troublesome-0x80240017-windows-update-issue-proven-solutions/"><u>Resolving the Troublesome 0X80240017 Windows Update Issue: Proven Solutions!</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/scopri-i-tre-metodi-per-ripristinare-file-cancellati-in-windows-server-2008-r2-guida-completa/"><u>Scopri I Tre Metodi per Ripristinare File Cancellati in Windows Server 2008 R2: Guida Completa</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-unknown-usb-device-detected-error-port-reset-failure-on-windows-10/"><u>Solving the 'Unknown USB Device Detected' Error: Port Reset Failure on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-stabilizing-your-battle-royale-gaming-experience/"><u>Step-by-Step Guide: Stabilizing Your Battle Royale Gaming Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/surface-pen-malfunctions-heres-how-to-restore-its-functionality/"><u>Surface Pen Malfunctions? Here's How to Restore Its Functionality</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-7-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 7 With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210885957-winning-the-battle-against-failed-feature-updates-in-windows-10-v1803-now-solved/"><u>Winning the Battle Against Failed Feature Updates in Windows 10 v1803 - Now Solved!</u></a></li>
+</ul></div>
 

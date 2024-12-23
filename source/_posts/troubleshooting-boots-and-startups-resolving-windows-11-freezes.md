@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Boots and Startups: Resolving Windows 11 Freezes"
-date: 2024-09-11T15:19:09.791Z
-updated: 2024-09-12T15:19:09.791Z
+date: 2024-12-15T18:54:16.998Z
+updated: 2024-12-22T16:50:10.139Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/6c0361031673718dd65b08f3b6f24eb590de40f0c
 
  Read on and find out how to fix the**Cast to Device stops working** problem…  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 3 solutions you can try to fix this problem. You may not have to try them all; just work your way down the list until you find the one that works.
@@ -34,10 +38,7 @@ thumbnail: https://thmb.techidaily.com/6c0361031673718dd65b08f3b6f24eb590de40f0c
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure the network sharing feature is enabled on your computer
@@ -47,24 +48,20 @@ thumbnail: https://thmb.techidaily.com/6c0361031673718dd65b08f3b6f24eb590de40f0c
 1. Type **network**  in the search box from Start. Then click **Network status**  from the top. ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be292e88d6b9.jpg)
 2. Click **Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b201e6b5d28.png)
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Try the Cast to Device feature again to see if it succeeds.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Reset the Stream Permissions on your Windows 10 computer
 
@@ -72,30 +69,13 @@ thumbnail: https://thmb.techidaily.com/6c0361031673718dd65b08f3b6f24eb590de40f0c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
@@ -105,32 +85,10 @@ thumbnail: https://thmb.techidaily.com/6c0361031673718dd65b08f3b6f24eb590de40f0c
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Close the Windows Media Player window.
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. Try the Cast to Device feature again to see if it succeeds.
 
@@ -171,5 +129,24 @@ thumbnail: https://thmb.techidaily.com/6c0361031673718dd65b08f3b6f24eb590de40f0c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-beginners-bane-the-top-8-youtube-errors-you-shouldnt-commit/"><u>[New] In 2024, Beginner's Bane The Top 8 Youtube Errors You Shouldn't Commit</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-snap-it-all-top-5-windows-11-recording-strategies-for-gamers/"><u>[New] Snap It All! Top 5 Windows 11 Recording Strategies for Gamers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-high-tech-5-live-screen-recorders/"><u>[Updated] 2024 Approved High-Tech 5 Live Screen Recorders</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-surviving-the-block-top-houses/"><u>[Updated] In 2024, Surviving the Block Top Houses</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/definitive-fixes-overcoming-windows-media-player-server-error-woes-on-windows-os/"><u>Definitive Fixes: Overcoming Windows Media Player Server Error Woes on Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-intermittent-sounds-in-your-logitech-g930-headset/"><u>Effective Fixes for Intermittent Sounds in Your Logitech G930 Headset</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-overcome-the-0x80070490-hurdle-during-system-updates-on-windows/"><u>Effective Solutions to Overcome the 0X80070490 Hurdle During System Updates on Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/efficiently-record-your-screen-with-io-screen-recorder-for-2024/"><u>Efficiently Record Your Screen with IO Screen Recorder for 2024</u></a></li>
+<li><a href="https://discover-best.techidaily.com/effiziente-workaround-und-substitute-fur-ein-nicht-funktionierendes-handbrake-auf-windows-11-erfahrbare-anleitung/"><u>Effiziente Workaround Und Substitute Für Ein Nicht Funktionierendes HandBrake Auf Windows 11 - Erfahrbare Anleitung</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-repair-a-malfunctioning-lenovo-keyboard/"><u>How To Troubleshoot and Repair A Malfunctioning Lenovo Keyboard</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-honor-magic-vs-2-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Honor Magic Vs 2 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210755231-9791028523701-mon-eveil-galactique/"><u>Mon éveil galactique | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-typing-issues-on-keyboard-no-longer-a-problem/"><u>Resolved: Typing Issues on Keyboard No Longer a Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-windows-update-issue-code-0x8024402c-explained-and-solved/"><u>Resolving the Windows Update Issue: Code 0X8024402C Explained and Solved</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-ultimate-checklist-for-a-premium-4k-lens-buy/"><u>The Ultimate Checklist for a Premium 4K Lens Buy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-solving-windows-camera-not-working-error-0xa00febec6-issue/"><u>Troubleshooting Guide: Solving Windows Camera Not Working (Error 0xA00Febec6) Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-win32-exception-not-handled-error-0xc0000005-in-windows/"><u>Ultimate Guide: Resolving Win32 Exception Not Handled (Error 0xC0000005) in Windows</u></a></li>
+</ul></div>
 

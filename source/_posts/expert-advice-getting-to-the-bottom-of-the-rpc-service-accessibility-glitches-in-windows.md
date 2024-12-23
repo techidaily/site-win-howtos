@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Getting to the Bottom of the RPC Service Accessibility Glitches in Windows"
-date: 2024-12-12T16:52:11.902Z
-updated: 2024-12-13T22:11:30.658Z
+date: 2024-12-15T23:26:41.949Z
+updated: 2024-12-22T21:48:38.930Z
 tags:
   - win11
   - win10
@@ -48,7 +48,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -67,24 +67,28 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 3: Change boot order in BIOS
 
@@ -97,16 +101,8 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -115,6 +111,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 9. Hopefully your**computer won’t shut down** problem has been sorted. But if it doesn’t, don’t worry. There’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
 
@@ -125,7 +125,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
@@ -154,18 +154,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-path-to-youtube-prosperity-unlocking-monetization-with-500plus-views/"><u>[New] 2024 Approved Path to YouTube Prosperity Unlocking Monetization with 500+ Views</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-engaging-followers-on-instagram-with-youtube-video-links-in-stories-for-2024/"><u>[Updated] Engaging Followers on Instagram with YouTube Video Links in Stories for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dota-2-graphics-glitch-error-2024-fix-without-hacking/"><u>Dota 2 Graphics Glitch: Error 2024 Fix Without Hacking</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-handle-undefined-classes-on-windows-10-systems-guide/"><u>How to Handle Undefined Classes on Windows 10 Systems [Guide]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-illumination-to-your-faulty-corsair-board/"><u>How to Restore Illumination to Your Faulty Corsair Board</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-pc-video-magic-discovering-apowersofts-recorder/"><u>In 2024, PC Video Magic Discovering Apowersoft’s Recorder</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-top-video-highlight-editors-for-desktop-and-mobile/"><u>New In 2024, Top Video Highlight Editors for Desktop and Mobile</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/photo-your-display-windows-781011-style/"><u>Photo Your Display Windows 7/8/10/11 Style</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/quick-guide-shrinking-and-changing-iphone-video-dimensions-for-2024/"><u>Quick Guide Shrinking & Changing iPhone Video Dimensions for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-your-pubg-launch-problems-expert-tips-for-the-2024-update/"><u>Resolve Your PUBG Launch Problems - Expert Tips for the 2024 Update</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-your-steam-games-missing-files-and-privileges-problem/"><u>Solving Your Steam Game's Missing Files and Privileges Problem</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-making-your-computers-fn-buttons-work-again/"><u>Step-by-Step Guide: Making Your Computer’s Fn Buttons Work Again</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Ultimate guide to get the meltan box pokemon go For Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-inside-out-the-explanation-for-youtubes-unlisted-media/"><u>[New] 2024 Approved Inside Out The Explanation for YouTube's Unlisted Media</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebooks-essential-steps-smoothly-uploading-videos-via-pc-iosandroid-for-2024/"><u>[Updated] Facebook's Essential Steps Smoothly Uploading Videos via PC, iOS/Android for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battlefield-n4-launch-problems-and-solutions-for-windows-users/"><u>Battlefield N4 Launch Problems and Solutions for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/continuous-playback-made-easy-resolving-kodis-buffering-for-flawless-streaming/"><u>Continuous Playback Made Easy: Resolving Kodi's Buffering for Flawless Streaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/defeat-browser-trickery-tactics-for-removing-the-false-alarm-known-as-google-chromes-critical-error/"><u>Defeat Browser Trickery: Tactics for Removing the False Alarm Known as Google Chrome's Critical Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-solutions-stop-your-laptop-from-falling-asleep-unexpectedly/"><u>Effortless Solutions: Stop Your Laptop From Falling Asleep Unexpectedly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-pc-errors-with-ease-solving-the-d3dx939dll-file-not-found-issue/"><u>Fix Your PC Errors with Ease: Solving The d3dx9_39.dll File Not Found Issue</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-realme-c67-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Realme C67 5G Phone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-verticalhorizontal-monitor-alignment-problems-on-your-desktop-easy-fixes-and-tips/"><u>Resolving Vertical/Horizontal Monitor Alignment Problems on Your Desktop - Easy Fixes and Tips!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simplified-guide-mastering-file-explorer-on-windows-10/"><u>Simplified Guide: Mastering File Explorer on Windows 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/slow-fade-to-action-for-2024/"><u>Slow Fade to Action for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-impact-of-unmatched-ftdi-drivers-on-maintaining-memory-system-reliability-and-integrity/"><u>The Impact of Unmatched FTDI Drivers on Maintaining Memory System Reliability and Integrity</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-mouse-reset-a-step-by-step-tutorial/"><u>Windows Mouse Reset: A Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

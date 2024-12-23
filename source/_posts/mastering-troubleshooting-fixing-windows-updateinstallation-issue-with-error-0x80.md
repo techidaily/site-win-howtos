@@ -1,7 +1,7 @@
 ---
 title: "Mastering Troubleshooting: Fixing Windows Update/Installation Issue with Error 0X80"
-date: 2024-12-07T20:54:15.004Z
-updated: 2024-12-13T16:17:31.600Z
+date: 2024-12-17T20:47:30.739Z
+updated: 2024-12-22T21:16:25.569Z
 tags:
   - win11
   - win10
@@ -37,17 +37,9 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2)Click**View** icon and tick on**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595daff2127b9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3)Find and expand**Network adapters** dialog.  
  Then right-click on**Microsoft Hosted Network Virtual Adapter** to choose**Enable device** .
@@ -55,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db07149d8a.jpg)
 
 4)Now set your WiFi hotspot again to see if the error has been fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2\. Check your wireless network adapter
 
@@ -65,16 +61,20 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db5161c78b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)View on**Power Management** pane.  
  Make sure**Allow the comoputer to turn off this device to save power** is**unchecked** and click**OK** to save settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db64b2e5ab.png)
 
- If unluckily, neither method 1 nor method 2 helps you fix the error, it’s advise that update your WiFi driver with Method 3.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If unluckily, neither method 1 nor method 2 helps you fix the error, it’s advise that update your WiFi driver with Method 3.
 
 ## Method 3\. Update your WiFi driver
 
@@ -92,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db84f55cbc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Search automatically for updated driver software** .
@@ -120,7 +120,7 @@ Now Microsoft will detect the update for you automatically.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-wireless-network-adapter-driver.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -150,19 +150,24 @@ Now Microsoft will detect the update for you automatically.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-elite-collection-the-best-11-streamers/"><u>[New] In 2024, Elite Collection The Best 11 Streamers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-art-of-blending-digital-canvases/"><u>[Updated] 2024 Approved The Art of Blending Digital Canvases</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-professional-gamers-guide-top-video-cards-on-youtube/"><u>[Updated] Professional Gamer's Guide Top Video Cards on YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-portable-visual-tinkering-a-lut-enthusiasts-guide/"><u>2024 Approved Portable Visual Tinkering A LUT Enthusiast's Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficient-techniques-to-dodge-windows-11-security/"><u>Efficient Techniques to Dodge Windows 11 Security</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-stuck-or-unresponsive-fn-keys-on-an-asus-computer-system/"><u>Fixing Stuck or Unresponsive Fn Keys on an ASUS Computer System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-your-speakers-back-reactivating-disabled-audio-functionality-on-windows-7/"><u>Getting Your Speakers Back: Reactivating Disabled Audio Functionality on Windows 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-address-high-resource-usage-from-microsoft-telemetry-on-windows-11-devices/"><u>Guide to Address High Resource Usage From Microsoft Telemetry on Windows 11 Devices</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-motorola-edge-40-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Motorola Edge 40 Phone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-a-step-by-step-journey-through-high-impact-youtube-banner-designs/"><u>In 2024, A Step-by-Step Journey Through High-Impact YouTube Banner Designs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-unavailable-desktop-error-on-windows-system-profile-directory/"><u>Overcoming the Unavailable Desktop Error on Windows System Profile Directory</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-8-youtube-ranks-tracker-essentials-guide-for-2024/"><u>Top 8 YouTube Ranks Tracker Essentials Guide for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-notch-assistance-highest-rated-iphone-ringtone-makers-for-2024/"><u>Top-Notch Assistance Highest Rated iPhone Ringtone Makers for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-update-fails-fixed/"><u>Windows Update Fails [FIXED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/alert-msvcr120dll-absent-in-win1110/"><u>[ALERT] MSVCR120.dll Absent in Win11/10</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-from-shadowy-fringe-to-front-row-action-gaining-popularity-in-tiktok-unboxings/"><u>[New] In 2024, From Shadowy Fringe to Front Row Action Gaining Popularity in TikTok Unboxings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-ultimate-guide-to-supercharge-your-facebook-video-speed/"><u>[New] The Ultimate Guide to Supercharge Your Facebook Video Speed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-a-guide-to-elevating-your-obs-video-projects/"><u>[Updated] 2024 Approved A Guide to Elevating Your OBS Video Projects</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-playtime-to-profits-ryan-kajis-youtube-cash-crusade/"><u>[Updated] From Playtime to Profits Ryan Kaji's YouTube Cash Crusade</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-nokia-130-music-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-huion-pen-problems-instantly-the-ultimate-5-step-guide-to-restoration/"><u>Bypass Huion Pen Problems Instantly: The Ultimate 5-Step Guide to Restoration</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-xiaomi-redmi-13c-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-the-stanley-j5c09-portable-planer-sturdy-and-spacious/"><u>Comprehensive Analysis of the Stanley J5C09 Portable Planer - Sturdy and Spacious</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-resolving-the-life-threatening-videodxgkrnl-error-on-pcs-running-windows/"><u>Easy Fixes for Resolving the Life-Threatening Video_Dxgkrnl Error on PCs Running Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x80071ac3-volume-is-dirty/"><u>Error 0X80071AC3: Volume Is Dirty</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-vcruntime1dle140dll-cannot-find-error-on-windows-step-by-step-solutions/"><u>Fixing the 'VCRUNTIME1ˈdle'140.dll Cannot Find Error on Windows: Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-intel-realsense-technology-not-active-on-windows-10/"><u>Fixing the Issue: Intel RealSense Technology Not Active on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reactivate-the-illumination-feature-on-a-malfunctioning-corsair-keyboard/"><u>How to Reactivate the Illumination Feature on a Malfunctioning Corsair Keyboard</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-poco-c55-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Poco C55? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lenovo-pad-not-responding-get-it-up-and-running-on-your-pc-again/"><u>Lenovo Pad Not Responding? Get It Up & Running on Your PC Again!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Planning to Use a Pokemon Go Joystick on Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-the-mystery-behind-access-denied-to-device-path-or-file-in-windows-os/"><u>Unlocking the Mystery Behind 'Access Denied to Device Path or File' In Windows OS</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/windows-10sfc/"><u>Windows 10でSFCスキャンのための詳細ガイド</u></a></li>
 </ul></div>
 

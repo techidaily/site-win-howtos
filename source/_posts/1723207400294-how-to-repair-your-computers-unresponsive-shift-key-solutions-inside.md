@@ -1,7 +1,7 @@
 ---
 title: How to Repair Your Computer's Unresponsive Shift Key - Solutions Inside
-date: 2024-12-19T19:07:47.404Z
-updated: 2024-12-22T20:20:13.857Z
+date: 2024-12-25T07:07:32.839Z
+updated: 2024-12-28T07:30:25.655Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix Shift key not working?
 
 A quick check before we start:
@@ -47,6 +51,10 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -58,7 +66,7 @@ Follow these:
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Ease of Access** .
@@ -66,16 +74,12 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
 
@@ -86,10 +90,6 @@ Follow these:
  2) From the left navigation panel, select**Accessibility** , then click**Keyboard** from the right.
 
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
@@ -142,16 +142,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-fine-tune-your-videos-mood-with-custom-sound-design-for-2024/"><u>[New] Fine-Tune Your Video's Mood with Custom Sound Design for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-finding-the-right-angle-for-your-fb-videos/"><u>[Updated] Finding the Right Angle for Your FB Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-elite-10-hash-trackers-for-major-social-networks-fb-twt-and-ig/"><u>[Updated] In 2024, Elite 10 Hash Trackers for Major Social Networks FB, Twt & IG</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/battleye-service-installation-issues-resolved-quick-fix-guide/"><u>BattlEye Service Installation Issues Resolved - Quick Fix Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-equipment-testing-by-toms-electronic-hub/"><u>Comprehensive Equipment Testing by Tom's Electronic Hub</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209350112-effective-fixes-when-your-laptops-keyboard-stops-working-on-windows-versions-11-8-and-ve-been-there-before-let-me-help-you/"><u>Effective Fixes When Your Laptop's Keyboard Stops Working on Windows Versions: 11, 8, and Ve Been There Before! Let Me Help You</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-improved-video-card-drivers-can-fix-your-windows-based-minecraft-gaming-glitches/"><u>How Improved Video Card Drivers Can Fix Your Windows-Based Minecraft Gaming Glitches</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-motorola-g54-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Motorola G54 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/msda80dll-file-essentials-to-retain-or-not-to-retain/"><u>MSDA80DLL File Essentials: To Retain or Not to Retain?</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-top-6-online-audio-archives-for-high-quality-whoosh-sounds-for-2024/"><u>New Top 6 Online Audio Archives for High-Quality Whoosh Sounds for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-list-10-free-video-rotators-for-any-device/"><u>Updated The Ultimate List 10 Free Video Rotators for Any Device</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-hacking-the-meme-game-master-kinemaster-skills/"><u>[New] 2024 Approved Hacking the Meme Game Master KineMaster Skills</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-the-art-of-canvas-with-these-top-10-secrets/"><u>[New] Master the Art of Canvas with These Top 10 Secrets</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-what-is-vimeo-a-peek-at-innovative-content-sharing/"><u>[Updated] What Is Vimeo? A Peek at Innovative Content Sharing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-powerdirector-24-review-a-comprehensive-dive/"><u>2024 Approved The Ultimate PowerDirector '24 Review A Comprehensive Dive</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/designing-revolutionary-conversations-via-gpt-crafted-chatgpts/"><u>Designing Revolutionary Conversations via GPT-Crafted ChatGPTs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminating-the-fatal-error-bug-from-your-halo-4-ue4-experience/"><u>Eliminating the 'Fatal Error' Bug From Your Halo 4 UE4 Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-to-stop-crusader-kings-3-from-crashing-on-your-desktop/"><u>Expert Tips to Stop Crusader Kings 3 From Crashing on Your Desktop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208022699-how-i-fixed-my-non-booting-pc-after-a-windows-10-update-learn-the-easy-methods/"><u>How I Fixed My Non-Booting PC After a Windows 10 Update – Learn the Easy Methods</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-oppo-a79-5g-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Oppo A79 5G.</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-entrepreneurs-handbook-quick-channel-creation-on-the-go-with-mobile-devices/"><u>In 2024, The Entrepreneur's Handbook Quick Channel Creation on the Go with Mobile Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/proven-remedies-and-advice-for-resolving-ps4-headset-connection-failures/"><u>Proven Remedies and Advice for Resolving PS4 Headset Connection Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fix-guide-for-windows-11-update-error-code-0x8024401c/"><u>Resolved: Fix Guide for Windows 11 Update Error Code 0X8024401C</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-icue-no-device-found-error-with-easy-troubleshooting-steps/"><u>Resolving the 'ICUE - No Device Found' Error with Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/scheduling-zoom-conferences-for-android-users/"><u>Scheduling Zoom Conferences for Android Users</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/screen-lock-ups-and-their-origins-expert-advice-from-yl-software-solutions/"><u>Screen Lock-Ups and Their Origins: Expert Advice From YL Software Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-when-your-dell-device-ignores-the-usb/"><u>Step-by-Step Solutions for When Your Dell Device Ignores the USB</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fixes-for-monitor-errors-without-video-output/"><u>The Ultimate Fixes for Monitor Errors Without Video Output</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcoming-application-startup-failure-error-code-0xc000007b/"><u>Troubleshooting Guide: Overcoming Application Startup Failure (Error Code 0XC000007B)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-your-intermittent-mouse-connection-woes/"><u>Ultimate Guide: Solving Your Intermittent Mouse Connection Woes</u></a></li>
 </ul></div>
 

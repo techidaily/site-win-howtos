@@ -1,7 +1,7 @@
 ---
 title: "Curing Infinite Loading Woes in The Elder Scrolls V: Skyrim Explained"
-date: 2024-09-05T10:08:02.689Z
-updated: 2024-09-06T10:08:02.689Z
+date: 2024-12-25T13:04:28.981Z
+updated: 2024-12-28T07:55:45.465Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Curing Infinite Loading Woes in The Elder Scrol
 thumbnail: https://thmb.techidaily.com/5bf39f94c554a82a4d105671b92aeedfbf496d47a60fe2c90aaed3563884eba7.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Unending Load Screens in Skyrim - Now Solved
 
  When you’re trying to play Skyrim,**if you get an infinite loading screen, don’t worry** . Many Skyrim players have encountered this problem. You can fix it with one of the solutions below, which has helped many Skyrim players resolve this problem.  
@@ -33,12 +27,6 @@ thumbnail: https://thmb.techidaily.com/5bf39f94c554a82a4d105671b92aeedfbf496d47a
 
 [**Method 4: Reinstall Skyrim**](#method4)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 1: Change memory allocation  
 
  The “Skyrim infinite loading screen” error probably can be caused by memory shortage. So you can configure the SafetyLoad config file to set Safy Load to work while on the loading screen. The default setting allows it to run all of the time, and this can cause infinite loading screen issues or crashing issues.  
@@ -52,17 +40,9 @@ thumbnail: https://thmb.techidaily.com/5bf39f94c554a82a4d105671b92aeedfbf496d47a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-102.png)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2)**Change the value** of**EnableOnlyLoading** from false to**true** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-103.png)
@@ -72,11 +52,9 @@ thumbnail: https://thmb.techidaily.com/5bf39f94c554a82a4d105671b92aeedfbf496d47a
  4) Play Skyrim and see if the infinite loading screen issue is resolved.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 2: Update the drivers  
 
  Faulty drivers can cause infinite loading screen errors. To fix the problem, you can try to update the drivers. Updated drivers can improve game performance.  
@@ -94,33 +72,21 @@ thumbnail: https://thmb.techidaily.com/5bf39f94c554a82a4d105671b92aeedfbf496d47a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-100.png)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3: Uninstall mods
 
  Many mods or mod conflicts can be the cause of infinite loading screen errors. If you don’t have any mods, try Method 3\. But **if you’ve installed multiple mods, you can uninstall them one by one** .  
@@ -157,8 +123,6 @@ thumbnail: https://thmb.techidaily.com/5bf39f94c554a82a4d105671b92aeedfbf496d47a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +130,20 @@ thumbnail: https://thmb.techidaily.com/5bf39f94c554a82a4d105671b92aeedfbf496d47a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-boost-engagement-top-8-youtube-video-trackers-unveiled-for-2024/"><u>[New] Boost Engagement - Top 8 YouTube Video Trackers Unveiled for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-investigating-the-innovation-in-burst-mode-filming-techniques/"><u>[New] In 2024, Investigating the Innovation in Burst Mode Filming Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-microsoft-store-issue-x80073d26-on-win11/"><u>Correcting Microsoft Store Issue X:80073d26 on Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeating-pubgs-launch-error-a-step-by-step-tutorial/"><u>Defeating PUBG's Launch Error : A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-windows-11-rebooting-and-rejuvenation-techniques-explained/"><u>Effortless Windows 11 Rebooting and Rejuvenation Techniques Explained</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-xs-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and Apple iPhone XS The Right Way</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a14-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy A14 5G Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-enabling-bluetooth-on-windows-7-systems/"><u>Master the Art of Enabling Bluetooth on Windows 7 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211293145-quick-fixes-for-missing-bluetooth-in-windows-10-a-step-by-step-guide/"><u>Quick Fixes for Missing Bluetooth in Windows 10 – A Step-by-Step Guide!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-typical-issues-with-your-iphones-visual-output-the-7-key-troubleshooting-steps/"><u>Resolving Typical Issues with Your iPhone's Visual Output - The 7 Key Troubleshooting Steps</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-audio-component-overuse-of-processor-resources-in-windows-os/"><u>Troubleshooting Audio Component Overuse of Processor Resources in Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functional-hdmi-sounds-on-your-windows-7-pc-solutions-unveiled/"><u>Troubleshooting Non-Functional HDMI Sounds on Your Windows 7 PC: Solutions Unveiled</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Windows Reverts to Boot by Default
-date: 2024-09-05T10:07:21.854Z
-updated: 2024-09-06T10:07:21.854Z
+date: 2024-12-21T09:39:19.408Z
+updated: 2024-12-27T23:15:56.820Z
 tags:
   - win11
   - win10
@@ -13,25 +13,17 @@ excerpt: This Article Describes Windows Reverts to Boot by Default
 thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0bfe904b409f7e84863affb55.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows 10 Touchpad Not Scrolling? Here’s How to Solve It
 
 Touchpad scroll gives you much convenience to drag content on desktop without using mouse. But how if you found it not working? That must annoys you too much.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59648fd6c4402.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  No panic any more. Here in this post, we will be showing you the tried-and-true **methods to fix touchpad scroll not working issue on Windows 10** . Actually, the methods also suits for other Windows operating system. Go on with the methods and make sure to try next if the only one didn’t help you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1\. Roll back your touchpad driver to an earlier version
 
@@ -44,6 +36,10 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)  
 
  Find and expand**Mice and other pointing devices** dialog.  
@@ -52,11 +48,9 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3)  
 
  Choose to view on**Driver** pane.  
@@ -65,35 +59,15 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2\. Update your touchpad driver
 
  To update driver, you also can go to the manufacturer’s website to download the latest driver for your touchpad. If you are not a computer savvy, we advise you use driver tools to help you.
@@ -114,6 +88,10 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
 
  That’s all there is to it. Any questions please feel free to let us know by leaving comments below, thanks.
@@ -127,8 +105,6 @@ Then click **Device Manager**  to open it.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +112,18 @@ Then click **Device Manager**  to open it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-audiovisual-debut-breakdown/"><u>[Updated] Audiovisual Debut Breakdown</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-engaging-dialogues-for-your-vlog-showcase/"><u>[Updated] Crafting Engaging Dialogues for Your Vlog Showcase</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtube-skills-essential-insights-unveiled/"><u>[Updated] In 2024, YouTube Skills Essential Insights Unveiled</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-exploring-the-economic-value-of-a-million-youtube-followers/"><u>2024 Approved Exploring the Economic Value of a Million YouTube Followers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-resolving-crackling-audio-issues-on-pcs-with-windows-107/"><u>Easy Solutions for Resolving Crackling Audio Issues on PCs with Windows 10/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-your-lenovos-fingerprint-sensor-issues-in-no-time/"><u>Fixing Your Lenovo's Fingerprint Sensor Issues in No Time</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-responsiveness-improved-solutions-for-windows-11-lags/"><u>Keyboard Responsiveness Improved – Solutions for Windows 11 Lags</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kodi-not-working-issues-solved/"><u>Kodi Not Working Issues [SOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/shift-key-malfunction-heres-how-you-can-resolve-it/"><u>Shift Key Malfunction? Here’s How You Can Resolve It</u></a></li>
+</ul></div>
 

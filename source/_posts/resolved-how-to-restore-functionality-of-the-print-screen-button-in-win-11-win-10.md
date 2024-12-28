@@ -1,7 +1,7 @@
 ---
 title: Resolved! How To Restore Functionality Of The Print Screen Button In Win 11 / Win 10
-date: 2024-09-05T10:03:58.367Z
-updated: 2024-09-06T10:03:58.367Z
+date: 2024-12-27T06:14:44.941Z
+updated: 2024-12-28T01:57:03.038Z
 tags:
   - win11
   - win10
@@ -31,11 +31,9 @@ thumbnail: https://thmb.techidaily.com/d470a8543a2f89f5d2f298ef8b2cf16fd1cc9e453
  The above questions walked you through a few simple steps for troubleshooting. However, they may not have covered all possible aspects, so we strongly suggest you look into the user manual of the Huion pen (or tablet) for more essential details.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5 fixes for the Huion pen not working issue
 
  Now let’s cut to the chase. Here you’ll have 5 fixes that have proved useful for the Huion pen not working issue. You don’t need to try them all; just work your way down the list until you find the one that works for you.
@@ -59,17 +57,9 @@ thumbnail: https://thmb.techidaily.com/d470a8543a2f89f5d2f298ef8b2cf16fd1cc9e453
 ---
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Disable Sleep Mode
 
  If you have this problem right after waking up your PC from Sleep Mode, you should consider disabling the mode. The reason is similar to that of Fix 1 – your device driver may temporarily stop working when the computer swaps from Sleep Mode to the normal working state.
@@ -82,29 +72,29 @@ thumbnail: https://thmb.techidaily.com/d470a8543a2f89f5d2f298ef8b2cf16fd1cc9e453
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-634.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the**Power & sleep** tab, in the results pane, under**Related settings** , click**Additional power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-636.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) In the next window, click**Change plan settings** next to your preferred plan.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-637.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Expand**Put the computer to sleep:** and select**Never** . Then click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-639.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that you’ve disabled Sleep Mode, restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
@@ -120,22 +110,10 @@ thumbnail: https://thmb.techidaily.com/d470a8543a2f89f5d2f298ef8b2cf16fd1cc9e453
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-When-plugged-in-put-my-device-to-sleep-after-Never-When-plugged-in-turn-off-my-screen-after-Never-1200x771.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Tick the “Support TabletPC” option
 
  As mentioned in the user manual of the Huion pen, you should check the**Support TabletPC** box to enable the pressure sensitivity function in a variety of drawing programs. Here’s how:
@@ -150,12 +128,6 @@ thumbnail: https://thmb.techidaily.com/d470a8543a2f89f5d2f298ef8b2cf16fd1cc9e453
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your tablet driver
 
  Another culprit for the Huion pen not working issue is an outdated or corrupt tablet driver. So literally it’s not your pen but rather the tablet that is dysfunctional due to driver failures.
@@ -184,6 +156,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Huion tablet driver for now, simply click the **Update**  button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-650.png)
@@ -211,23 +187,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-657.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The folder name can be different based on your tablet model.
 
  4) Double-click the extracted folder you get and then double-click the**.exe file** in that folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-660.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Follow the on-screen wizard to install the driver.
 
 6) When everything’s done, reboot your computer for the changes to take effect.
@@ -237,17 +205,9 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Uncheck “Enable Windows Ink”
 
  This fix should work if you’re experiencing brush lags or other similar issues in Photoshop, with a Huion pen/tablet. Here’s how to do it:
@@ -256,12 +216,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-663.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) When Notepad is opened, type in**UseSystemStylus 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-662.png)
@@ -292,8 +246,6 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -301,4 +253,19 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-boost-your-e-commerce-strategy-with-these-top-15-fb-analyzers/"><u>[New] 2024 Approved Boost Your E-Commerce Strategy with These Top 15 FB Analyzers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-loom-downloader-how-to-loom-screen-record-for-2024/"><u>[New] Loom Downloader - How to Loom Screen Record for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-unveiling-video-sharing-secrets-examining-igtv-and-youtube-in-depth/"><u>[Updated] Unveiling Video Sharing Secrets Examining IGTV & YouTube in Depth</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/101-words-and-phrases-to-sound-like-an-aussie/"><u>101 Words and Phrases to Sound Like an Aussie</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207222250-accelerate-your-league-of-legends-installations-no-more-sluggish-downloads/"><u>Accelerate Your League of Legends Installations: No More Sluggish Downloads!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-setting-up-your-microsoft-wireless-display-adapter-for-optimal-performance-on-windows-10-devices/"><u>Expert Advice on Setting Up Your Microsoft Wireless Display Adapter for Optimal Performance on Windows 10 Devices</u></a></li>
+<li><a href="https://win-updates.techidaily.com/finding-your-pcs-graphics-card-information-on-a-windows-machine-tips-by-yl-computing/"><u>Finding Your PC's Graphics Card Information on a Windows Machine - Tips by YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hit-compliant-resolution-enhanced-missing-touch-sensitivity/"><u>HIT Compliant Resolution - Enhanced Missing Touch Sensitivity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-tech-trends-with-precision-at-toms-hardware-reviews/"><u>Navigating Tech Trends with Precision at Tom's Hardware Reviews</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-errors-resolving-failed-to-load-in-hardware-monitor-drivers/"><u>Troubleshooting Errors: Resolving 'Failed to Load' In Hardware Monitor Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-logitech-keyboard-wont-connect-with-windows-10/"><u>Troubleshooting Steps When Logitech Keyboard Won’t Connect with Windows 10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-vivo-s17e-by-drfone-android/"><u>Universal Unlock Pattern for Vivo S17e</u></a></li>
+</ul></div>
 

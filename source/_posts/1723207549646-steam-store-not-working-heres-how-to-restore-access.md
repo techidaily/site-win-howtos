@@ -1,7 +1,7 @@
 ---
 title: Steam Store Not Working? Here’s How to Restore Access
-date: 2024-09-05T10:09:15.920Z
-updated: 2024-09-06T10:09:15.920Z
+date: 2024-12-23T08:58:56.922Z
+updated: 2024-12-27T23:30:43.018Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Steam Store Not Working? Here’s How to Restore
 thumbnail: https://thmb.techidaily.com/d3b9fa260885ec727c421c1f7392781651fabce3da6c8f310b1d694d013fd73d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Steam Store Not Working? Here’s How to Restore Access
 
 If you opened Steam only to find**Store not loading** any more or even going all blank, don’t panic. It’s often not hard to fix at all…
@@ -34,12 +28,6 @@ If you opened Steam only to find**Store not loading** any more or even going all
 5. **[Launch Steam from shortcut](https://tools.techidaily.com/drivereasy/download/)** **[](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Want us to fix the problem for you?](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 1: Run flushconfig**
 
  By running flushconfig, we can clear download cache and hopefully solve our problem. To do so:
@@ -56,6 +44,10 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 2: Update Steam**
 
  Updating steam is another effective way to fix game bugs. And rest assured all your game data will be safe if done correctly. To do so:
@@ -71,11 +63,9 @@ If you opened Steam only to find**Store not loading** any more or even going all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eb7602a8e8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4)
 
 * Among the folders, delete all EXCEPT **Steamapps** , **Steamapps** and **Skins** .
@@ -84,37 +74,21 @@ If you opened Steam only to find**Store not loading** any more or even going all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eb897dafd2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5) Launch Steam and it’ll update on itself.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eb8b7cb600.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6) Log in Steam and see if Steam store loads fine this time.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Remove Steam compatibility
 
  Compatibility mode is usually not recommended for Steam to function smoothly. So we might have to turn off the mode to see if the**Store-not-loading** problem gets fixed:
@@ -123,18 +97,6 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eb7602a8e8.png)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Right-click on**Steam.exe** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eda2453493.jpg)
@@ -143,26 +105,22 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eda80003e6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Un-check all**the boxes** and click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4edbad49f8e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5) Run Steam again and check if Steam store opens properly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Run Steam in Big Picture mode
 
  Running Steam in Big Picture mode is a proven workaround for most users who have had a blank Steam Store problem. To do so:
@@ -171,15 +129,13 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ec27c142c2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) Hopefully your Steam store shows up fine now.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Launch Steam from shortcut
 
@@ -197,18 +153,16 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee233441bd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Under the**Shortcut** tab, leave**a space** at the end of the **Target** box, then copy and paste **\-no-cef-sandbox** .
 
  Click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ebe97cff5c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Double-click on **Steam – Shortcut** to launch Steam. Hope Steam store runs properly this time.
 
 ---
@@ -230,8 +184,6 @@ If you opened Steam only to find**Store not loading** any more or even going all
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +191,23 @@ If you opened Steam only to find**Store not loading** any more or even going all
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-snapscreen-scrutiny-a-deep-dive-into-recorders/"><u>[Updated] 2024 Approved SnapScreen Scrutiny A Deep Dive Into Recorders</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unlocking-verified-status-essential-strategies-for-increasing-instagram-popularity/"><u>[Updated] In 2024, Unlocking Verified Status Essential Strategies for Increasing Instagram Popularity</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/complete-2024-video-show-review-compendium/"><u>Complete 2024 Video Show Review Compendium</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/core-library-loader-dll-deficiency-noted/"><u>Core Library Loader Dll Deficiency Noted</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-current-release-of-microsoft-office-which-version-are-you-using/"><u>Discover the Current Release of Microsoft Office: Which Version Are You Using?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easily-concealreveal-data-columns-in-your-microsoft-excel-spreadsheets/"><u>Easily Conceal/Reveal Data Columns in Your Microsoft Excel Spreadsheets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-steps-to-detect-repeating-values-in-your-excel-spreadsheet/"><u>Effortless Steps to Detect Repeating Values in Your Excel Spreadsheet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminating-launch-splash-pages-in-microsoft-office-suite-word-excel-and-powerpoint-solutions/"><u>Eliminating Launch Splash Pages in Microsoft Office Suite: Word, Excel & PowerPoint Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/experts-pathway-navigating-fullscreen-realms-in-premiere-pro/"><u>Expert's Pathway Navigating Fullscreen Realms in Premiere Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-printer-offline-with-error-code-30-a-comprehensive-guide/"><u>How to Fix Printer Offline with Error Code -30: A Comprehensive Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-audiophiles-guide-to-text-to-speech-on-discord/"><u>In 2024, Audiophile's Guide to Text-to-Speech on Discord</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-plus-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s Plus Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722968990466-judicious-use-of-antibiotics-involves-prescribing-the-right-drug-dose-and-duration-to-minimize-resistance-development/"><u>Judicious Use of Antibiotics Involves Prescribing the Right Drug, Dose, and Duration to Minimize Resistance Development</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-non-functional-volume-buttons-on-windows-10-detailed-tutorial-with-screenshots/"><u>Resolving Issues With Non-Functional Volume Buttons on Windows 10 [Detailed Tutorial with Screenshots]</u></a></li>
+<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-14-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 14 takes time in scanning my iPhone? | Stellar</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-sticking-with-my-iphone-14-beats-the-hype-a-closer-look-at-four-key-points-against-upgrading-to-an-iphone-16-pro-insights-from-a-tech-expert/"><u>Why Sticking with My iPhone 14 Beats the Hype: A Closer Look at Four Key Points Against Upgrading to an iPhone 16 Pro - Insights From a Tech Expert</u></a></li>
+</ul></div>
 

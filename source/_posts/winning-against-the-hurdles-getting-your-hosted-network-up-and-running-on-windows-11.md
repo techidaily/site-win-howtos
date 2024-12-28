@@ -1,7 +1,7 @@
 ---
 title: "Winning Against the Hurdles: Getting Your Hosted Network Up and Running on Windows 11"
-date: 2024-12-20T16:04:16.157Z
-updated: 2024-12-22T16:49:48.902Z
+date: 2024-12-27T13:52:38.971Z
+updated: 2024-12-28T09:10:03.847Z
 tags:
   - win11
   - win10
@@ -38,17 +38,9 @@ Windows Update Troubleshooter is a tool released by Microsoft that can help you 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7c046d056cc.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Method 2: Reset the Windows Update related components
 
 Your Windows Update may fail to update your Windows because its components are corrupted. These components include the services and temporary files and folders associated with Windows Update. You can try resetting these components and see if this can fix your problem. To reset these components:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right-click**Command Prompt**and select**Run as administrator**.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png) **2)** In Command Prompt, type the following lines of command and press**Enter**on your keyboard after typing each:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * _**net stop bits**_
 * _**net stop wuauserv**_
@@ -64,10 +56,6 @@ Your Windows Update may fail to update your Windows because its components are c
 * _**net start cryptsvc**_
 **5)**Check your Windows Update to see if it works fine.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 3: Manually download and install updates
 
 If Windows Update can’t help you download certain system updates, you can try doing so on your own. Microsoft has put all its system updates online, and you can download these updates and install them on your computer without the help of Windows Update. To manually download and install updates:**1)**Click the**Start**button in the lower left corner of your screen. Then type “_**information**_“. In the list of results, click**System Information**.
@@ -80,31 +68,51 @@ If Windows Update can’t help you download certain system updates, you can try 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7c104b5d2ee.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** On Windows Update, note down the system updates that failed to install. (You may need to get the information from the update history.)
 
  Note down the codes of these updates that start with “**KB** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fafbba7758.png)
 
+![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb0182b995.png)
+
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb0182b995.png)
 
 **4)**Go to **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)** . Then search for the updates you have failed to install.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb3a1da130.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** In the search results, find the update that matches your**operating system**and**system type**(_x86-,_ _x64- or ARM64-based_). Then click**Download**next to the update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb49473bae.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Click the link on the new window to download the update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb79898ae2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)**Open the file you’ve just downloaded and follow the on-screen instructions to install the update.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Run DISM and System File Checker
 
@@ -116,29 +124,21 @@ It’s also possible that your Windows Update can’t work because of the corrup
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fbe8bbd499.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**To run DISM, type “_**dism /online /cleanup-image /restorehealth**_“. and press**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fbeb602fef.png)
 
-**4)**Wait for the process to complete, then restart your computer. After that, check to see if your Windows Update recovers.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**4)**Wait for the process to complete, then restart your computer. After that, check to see if your Windows Update recovers.
 
 ## Method 5: Disable your antivirus
 
 Sometimes your system can’t install new updates due to the interference from your antivirus software. You can temporarily disable your antivirus and check if the problem persists. (Consult your antivirus program documentation for instructions on disabling it.) If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or install a different solution.
 
 **IMPORTANT:** Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 6: Update your drivers
 
@@ -155,7 +155,7 @@ Perhaps the issues with your Windows come from some changes you’ve made to you
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fc6fa8971e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Follow the on-screen instructions to choose a system restore point and restore your Windows.
@@ -182,17 +182,22 @@ Perhaps the issues with your Windows come from some changes you’ve made to you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-future-of-editing-decoded-powerdirector-app-24-reviewed-and-explained/"><u>[New] The Future of Editing Decoded PowerDirector App '24 Reviewed & Explained</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-guide-on-downloading-processing-and-saving-twitter-vids-as-mp3s-for-2024/"><u>[Updated] Guide on Downloading, Processing, and Saving Twitter Vids as MP3s for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pc-transfer-protocols-effective-five-ways-to-send-your-files/"><u>[Updated] PC Transfer Protocols Effective Five Ways to Send Your Files</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-make-excel-2013-hyperlinks-working-by-stellar-guide/"><u>Easy Steps to Make Excel 2013 Hyperlinks Working</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-and-tips-for-total-war-rome-remastered-game-crashes/"><u>Effective Fixes & Tips for Total War: Rome Remastered Game Crashes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/elevated-privileges-needed-resolving-operation-requires-elevation-errors-in-windows-11-10-and-7/"><u>Elevated Privileges Needed: Resolving 'Operation Requires Elevation' Errors in Windows 11, 10 & 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/emergency-fixes-for-players-dealing-with-sims-4-launch-failures/"><u>Emergency Fixes for Players Dealing with Sims 4 Launch Failures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-persistent-windows-update-issue-error-code-0x802n401c-on-win11-systems/"><u>How to Overcome the Persistent Windows Update Issue (Error Code 0X802n401c) on Win11 Systems</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-14-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 14 Pro Max After Forgetting the Passcode?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-6s-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 6s Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reactivate-your-locked-iphoneipad-a-comprehensive-guide/"><u>Reactivate Your Locked iPhone/iPad - A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-ultimate-fix-for-non-functional-laptop-mousepad-in-microsofts-operating-systems/"><u>Solved: Ultimate Fix for Non-Functional Laptop Mousepad in Microsoft's Operating Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-your-audio-cues-with-ease-windows-and-os-x-guide-to-srt/"><u>[New] Unlock Your Audio Cues with Ease Windows & OS X Guide to SRT</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-broadcasting-to-the-household-watching-facebook-videos-in-2024/"><u>[Updated] Broadcasting to the Household Watching Facebook Videos, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-present-vr-innovations/"><u>[Updated] Exploring Present VR Innovations</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-mastering-the-location-of-youtubes-creator-dashboard/"><u>[Updated] In 2024, Mastering the Location of YouTube's Creator Dashboard</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unlock-smooth-video-flow-from-your-photobooth-app-for-2024/"><u>[Updated] Unlock Smooth Video Flow From Your Photobooth App for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc4k/"><u>「PC上での4K解像度動画記録術 - 最新トップレコーダー推薦ガイド」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/iuwlleeuuplusobqplusmthewkmplusockus4juobioociplusodleocoplusodqplusocvplusodvowkueaendrml6xmnkzoqp7niyjjgrxjgqtjg4jjgafjgyrjgznjgznjgohjgi0i/"><u>動画に魅力を与えるフィルター効果:日本語版サイトでおすすめ」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/isomkv/"><u>簡単な手順でISOファイルからMKVへの変換方法を学ぶ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-bulk-extract-audio-from-videos-on-windows-11-top-tips-and-tools/"><u>How to Bulk Extract Audio From Videos on Windows 11: Top Tips and Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-effortlessly-change-your-dvd-music-into-mp3-format-a-4-step-guide/"><u>How to Effortlessly Change Your DVD Music Into MP3 Format: A 4-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-0xc10100be-video-playback-issue/"><u>How to Resolve the 0xC10100BE Video Playback Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/m2ts-and-mkv/"><u>M2TS & MKVファイル間の最高品質無傷変換</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/microsoft-surface-go-review-an-affordable-tablet-with-a-puzzling-identity-crisis/"><u>Microsoft Surface Go Review: An Affordable Tablet With a Puzzling Identity Crisis</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mr-beasts-economic-impact-analysis/"><u>Mr. Beast's Economic Impact Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/oggmp36/"><u>Oggファイルを無料でMP3に変換するためのトップソフトウェア6選</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stop-the-frustration-9-effective-troubleshooting-steps-for-unresponsive-airpods-battery/"><u>Stop the Frustration: 9 Effective Troubleshooting Steps for Unresponsive AirPods Battery</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-top-10-free-whiteboard-animation-tools-for-windows-and-mac-for-2024/"><u>Updated Top 10 Free Whiteboard Animation Tools for Windows and Mac for 2024</u></a></li>
 </ul></div>
 

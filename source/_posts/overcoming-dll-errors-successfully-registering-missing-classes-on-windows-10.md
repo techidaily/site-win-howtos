@@ -1,7 +1,7 @@
 ---
 title: "Overcoming DLL Errors: Successfully Registering Missing Classes on Windows 10"
-date: 2024-12-16T17:53:54.406Z
-updated: 2024-12-22T21:51:08.840Z
+date: 2024-12-23T19:43:11.439Z
+updated: 2024-12-28T01:10:44.054Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1\. Roll back your touchpad driver to an earlier version
 
  Many users fix their touchpad not scrolling issue by rolling back the driver. Follow the steps below.
@@ -37,16 +41,16 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)  
 
  Find and expand**Mice and other pointing devices** dialog.  
  Then right-click on you touchpad driver to choose**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3)  
 
@@ -55,19 +59,15 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
-**Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
 
@@ -82,7 +82,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) After scanning, you have 2 options.
@@ -94,7 +94,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
@@ -119,15 +119,21 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-the-complete-pathway-to-personalized-ios-ringtones-for-2024/"><u>[Updated] The Complete Pathway to Personalized iOS Ringtones for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/acer-quiet-mode-dilemma-solved-bring-back-the-boom-with-easy-fixes/"><u>Acer Quiet Mode Dilemma Solved: Bring Back the Boom with Easy Fixes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhance-your-wi-fi-management-with-win-11-tips/"><u>Enhance Your Wi-Fi Management with Win 11 Tips</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-8-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-unregistered-class-errors-in-windows-11-efficiently/"><u>How to Fix Unregistered Class Errors in Windows 11 Efficiently</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oneplus-ace-2v-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from OnePlus Ace 2V to New Android? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/identifying-and-resolving-high-sound-levels-in-your-ps4-system/"><u>Identifying & Resolving High Sound Levels in Your PS4 System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/immediate-solutions-stop-counter-strike-go-from-crashing-now/"><u>Immediate Solutions: Stop Counter-Strike Go From Crashing Now!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/teleconference-recordings-for-2024/"><u>Teleconference Recordings for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-ultrawide-uhd-dilemranc-which-monitor-wins/"><u>[New] 2024 Approved The Ultrawide-UHD Dilemranc Which Monitor Wins?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-best-windows-video-communicators-list-1-8-for-2024/"><u>[New] Best Windows Video Communicators List #1-8 for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-key-tips-for-attracting-brands-as-youtubers-sponsors/"><u>[New] In 2024, Key Tips for Attracting Brands as Youtubers' Sponsors</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-streaming-software-showdown-the-verdict-on-wirecast-vs-obs/"><u>[New] Streaming Software Showdown The Verdict on Wirecast Vs. OBS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beginners-choices-superior-gopro-accessories/"><u>Beginner’s Choices Superior GoPro Accessories</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fixing-and-improving-touchpad-scroll-response-on-windows-11-systems/"><u>Guide to Fixing and Improving Touchpad Scroll Response on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-persistent-problem-of-windows-update-error-0x8024401c-in-recent-windows-versions/"><u>How to Overcome the Persistent Problem of Windows Update Error 0X8024401c in Recent Windows Versions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-valorants-screen-tearing-issue-effectively/"><u>How To Resolve Valorant's Screen Tearing Issue Effectively</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-quadro-rtx-6000-software-update/"><u>NVIDIA Quadro RTX 6000 Software Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-disk-usage-for-microsoft-telemetry-services-under-windows-11/"><u>Optimizing Disk Usage for Microsoft Telemetry Services Under Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-splitgates-lag-issues-a-comprehensive-guide/"><u>Solving Splitgate's Lag Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210645024-9781645677826-the-cottage-witchs-guide-to-magic/"><u>The Cottage Witch's Guide to Magic | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-correcting-the-missing-d3dx9nn-dll-error-message/"><u>Troubleshooting Steps for Correcting the Missing D3dx9_nN Dll Error Message</u></a></li>
+<li><a href="https://discover-great.techidaily.com/troubleshooting-video-playback-hevc-windows-10-and-windows-nix/"><u>Troubleshooting, Video Playback, HEVC, Windows 10 and Windows Nix.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-for-connecting-airpods-to-windows-1011-latest-tips/"><u>Ultimate Fixes for Connecting AirPods to Windows 10/11 - Latest Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unreal-engine-under-threat-the-d3d-device-crisis/"><u>Unreal Engine Under Threat: The D3D Device Crisis</u></a></li>
 </ul></div>
 

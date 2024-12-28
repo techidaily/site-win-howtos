@@ -1,7 +1,7 @@
 ---
 title: Bypassing Error 0X887A0006 Easily & Swiftly with Our Proven Fixes
-date: 2024-12-16T17:48:06.650Z
-updated: 2024-12-22T17:28:20.741Z
+date: 2024-12-27T11:31:20.185Z
+updated: 2024-12-28T09:40:11.666Z
 tags:
   - win11
   - win10
@@ -73,7 +73,7 @@ If this issue persists, don’t worry. Try the next fix, below.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Modify your graphics card settings
@@ -90,23 +90,11 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
@@ -119,12 +107,12 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Modify Intel graphics card
 
@@ -132,8 +120,16 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
@@ -148,6 +144,10 @@ If this issue persists, don’t worry. Try the next fix, below.
 7. Click **Apply** to save the settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch the application that crashed with Error 0x887A0006 to see if this fix works. If not, try the next fix, below.
 
@@ -175,15 +175,11 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/save-as-fix-reg.png)
 5. **Double-click** the .reg file you saved. Click**Yes** when the UAC prompts. Then a prompt from Registry Editor will pop up. Click**Yes** to continue.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/reg-editor.png)
 6. Click**OK** when Windows tells you the keys and values have been successfully added to the registry.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/reg-editor-2.png)
@@ -196,15 +192,11 @@ If this issue persists, don’t worry. Try the next fix, below.
 2. Go to **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\GraphicsDrivers** and locate a key called**TdrDelay** . Right-click on it and select**Delete** to delete it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit-tdrdelay.png)
 3. Restart your PC to save the change.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If this fix doesn’t work for you, try the next fix, below.
 
@@ -220,6 +212,10 @@ If this fix doesn’t work for you, try the next fix, below.
 
  See if Error 0x887A0006 reappears after you installed the latest Windows update. If this issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Change the power plan of your PC
 
  Most PCs are configured as **Balanced** , which may limit the operating capacity of your graphics card and CPU. If the power plan of your PC is a **Power saver**  or **Balanced** , the game may not run properly due to limited performance, and it may even crash with Error 0x887A0006.
@@ -230,11 +226,11 @@ If this fix doesn’t work for you, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 ### Fix 7: Adjust your Windows system for the best performance
 
@@ -248,6 +244,10 @@ If this fix doesn’t work for you, try the next fix, below.
 3. Select **Adjust for best performance**  and click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/adjust-for-best-performance.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run the game or application that crashed with Error 0x887A0006 again to see if this issue persists. If not, congratulations! You’ve fixed this issue. If this issue remains, try reinstalling the game or the problematic application.
 
@@ -274,18 +274,15 @@ If this fix doesn’t work for you, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-comprerant-hashtags-with-leading-trackers-for-fb-twt-and-ig/"><u>[New] 2024 Approved Compreran't Hashtags with Leading Trackers for FB, Twt and IG</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-gamble-for-peace-10-chill-out-choices/"><u>[New] Gamble for Peace 10 Chill-Out Choices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-taringaid-profile-image-details-pixel-count-codec-time-span-for-2024/"><u>[New] TaringaID Profile Image Details Pixel Count, Codec, Time Span for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-essential-guide-to-tracking-your-youtube-progress/"><u>[New] The Essential Guide to Tracking Your YouTube Progress</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-6-devices-for-global-video-communication/"><u>[Updated] Top 6 Devices for Global Video Communication</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnose-and-rectify-resolving-issues-with-compromised-filesystems-in-windows-11/"><u>Diagnose & Rectify: Resolving Issues with Compromised Filesystems in Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-pads-a-gamers-dream-selection/"><u>Elite Pads: A Gamer's Dream Selection</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-guide-responding-to-hanging-windows-10-issues-quickly-and-effectively/"><u>Expert Guide: Responding to Hanging Windows 10 Issues Quickly and Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-recover-the-hidden-or-missing-wi-fi-features-in-windows-11/"><u>How to Recover the Hidden or Missing Wi-Fi Features in Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-y100i-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo Y100i</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-languages-after-40-unveil-4-advantages/"><u>Mastering Languages After 40: Unveil 4 Advantages</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reactivating-the-windows-update-feature-efficiently/"><u>Reactivating the Windows Update Feature Efficiently</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-persistent-restarts-in-windows-11-made-easy/"><u>Troubleshooting Persistent Restarts in Windows 11 Made Easy</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boosting-traffic-with-smart-youtube-title-and-tag-use/"><u>[New] 2024 Approved Boosting Traffic with Smart YouTube Title & Tag Use</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-drone-showdown-dji-vs-gopro-hero/"><u>[Updated] 2024 Approved Drone Showdown DJI vs GoPro Hero</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-steps-for-deleting-discord-on-computermobile/"><u>2024 Approved Steps for Deleting Discord on Computer/Mobile</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/youtubeflac/"><u>圧縮フリーダウンロード: YouTube上のFLAC音楽バッチ操作方法</u></a></li>
+<li><a href="https://extra-information.techidaily.com/achieving-vibrant-colors-srgb-techniques-for-2024/"><u>Achieving Vibrant Colors Srgb Techniques for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-guidance-to-youtube-music-mix/"><u>In 2024, Guidance to YouTube Music Mix</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionizing-adventure-recording-with-garmin-ultra-30/"><u>In 2024, Revolutionizing Adventure Recording with Garmin Ultra 30</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10dvd/"><u>Windows 10上のDVD再生 - 使いやすいガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11flv3-flv/"><u>Windows 11専用のFLV再生ガイド:最新の方法トップ3選択肢をご紹介 - FLV 再生</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/xmedia-recode/"><u>XMedia Recodeでビデオアスペクト比を変更するシンプル方法 - チュートリアル</u></a></li>
 </ul></div>
 

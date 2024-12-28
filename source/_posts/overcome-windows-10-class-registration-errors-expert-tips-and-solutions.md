@@ -1,7 +1,7 @@
 ---
 title: Overcome Windows 10 Class Registration Errors - Expert Tips & Solutions
-date: 2024-12-15T22:09:05.682Z
-updated: 2024-12-22T23:40:47.695Z
+date: 2024-12-24T06:41:48.946Z
+updated: 2024-12-28T14:05:06.893Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
 ``
@@ -49,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -72,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -79,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 `` 4) Reboot your Windows 10 and open the app again to see if it goes fine.
 
 ``
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
@@ -93,19 +89,11 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -116,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -132,7 +124,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
@@ -141,16 +133,16 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
  3) Find and right-click on **Internet** **Explorer ETW Collector Service** . Then click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Open the app again to see if it goes fine.
 
@@ -161,6 +153,10 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -179,6 +175,10 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -225,20 +225,22 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-streamline-vlogging-titles-top-11-affordable-generators/"><u>[New] In 2024, Streamline Vlogging Titles - Top 11 Affordable Generators</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-revolutionary-methods-for-ipad-audio-logging/"><u>[New] Revolutionary Methods for iPad Audio Logging</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-ranking-the-very-best-10-free-online-artists-on-youtube/"><u>2024 Approved Ranking the Very Best 10 Free Online Artists on YouTube</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-realme-v30-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Realme V30 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/device-unavailable-error-fix-for-windows-1187-understanding-and-solving-code-24/"><u>Device Unavailable Error Fix for Windows 11/8/7 - Understanding and Solving Code 24</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-fixing-error-3-0x0001000b-on-rainbow-six-siege-a-step-by-step-approach/"><u>Expert Tips for Fixing Error 3-0X0001000B on Rainbow Six Siege: A Step-by-Step Approach</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-resolving-no-audio-in-google-chrome/"><u>Fixing the Issue: Resolving 'No Audio' In Google Chrome</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/historical-contextualization/"><u>Historical Contextualization</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-6-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Honor Magic 6 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-iphone-15-plus-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From iPhone 15 Plus</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-mouse-pad-connectivity-fix-lenovos-unresponsive-pad-on-windows-1187/"><u>Mastering Mouse Pad Connectivity: Fix Lenovo's Unresponsive Pad on Windows 11/8/7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-a-nonfunctional-corsair-hs50-headset-mic-how-to-restore-audio-quality/"><u>Step-by-Step Solutions for a Nonfunctional Corsair HS50 Headset Mic - How to Restore Audio Quality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-non-functional-microphone-on-windows-11-systems/"><u>Troubleshooting a Non-Functional Microphone on Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-the-issue-of-steam-store-wont-load/"><u>Ultimate Guide: Solving the Issue of 'Steam Store Won't Load'</u></a></li>
-<li><a href="https://win-blog.techidaily.com/zombie-army-n-fortress-tactics-troubleshooting-and-fixes-for-pc-instability/"><u>Zombie Army N' Fortress Tactics: Troubleshooting and Fixes for PC Instability</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-iphone-sky-photography-essential-tips-and-tricks/"><u>[New] In 2024, Mastering iPhone Sky Photography Essential Tips & Tricks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-secrets-to-crafting-winning-freefire-videos/"><u>[New] In 2024, Secrets to Crafting Winning FreeFire Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-explore-the-top-5-resources-for-innovative-text-designs-for-2024/"><u>[Updated] Explore the Top 5 Resources for Innovative Text Designs for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44cm5pig5yop44o76zplusz5qw944gu5bcc6zaa55so6kqe6l6e5yw444cn/"><u>「映像・音楽の専門用語辞典」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030045799-isovob/"><u>高画質なままISOからVOB変換：最適な方法とコツ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028801534-usbdvd/"><u>記憶の永遠の保存 – USBメモリへのライブDVD複製方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028255517-android/"><u>Androidでの音楽再生がうまくいかない時、その理由と解決策を詳しく見てみよう</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/atracmp3atracmp3/"><u>ATRAC形式からMP3への効率的な変換テクニック「大量ATRACファイルをMP3にする方法」</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-inoperative-sound-hardware-in-windows-11-systems/"><u>Diagnose and Repair Inoperative Sound Hardware in Windows 11 Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-from-stillness-to-streamline-adding-blurring-beauty-to-illustrator-photos/"><u>In 2024, From Stillness to Streamline Adding Blurring Beauty to Illustrator Photos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-7-best-mac-video-viewing-tools/"><u>In 2024, Top 7 Best Mac Video Viewing Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/shoppers-guide-to-the-best-deals-on-amazon-prime-day-of-oct-24-limited-time-only-zdnet/"><u>Shoppers' Guide to the Best Deals on Amazon Prime Day of Oct '24 – Limited Time Only | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028571800-5/"><u>ビデオ撮影者が選ぶ5つのおすすめ動画文字化シーンアプリ - 見やすく、使い勝手良し！</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029612744-and/"><u>ビデオトリミング・カットエディティング - 冗長セクション排除&編集技術</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026739742-dailymotion/"><u>ブラウザでDailymotion動画を安全に保存するためのテクニック</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solution for Windows Update Issue 0X8024401C on Windows 11 Systems
-date: 2024-12-19T17:33:23.642Z
-updated: 2024-12-23T00:56:05.268Z
+date: 2024-12-22T03:11:54.857Z
+updated: 2024-12-28T05:19:03.752Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 
  Note: the screenshots below com from Windows 10, and fixes apply to Windows 11, 8 and 7.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Run Windows Update Troubleshooter
 
  Windows Update Troubleshooter is a helpful tool built in Windows system, and you can use it to scan and fix the Windows Update error 0x80240017.
@@ -49,25 +45,21 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04da616dafa.jpg)
 2. Click**Troubleshoot** on the left. Click**Windows Update** \>**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
 3. Windows will start detecting problems, which will take several minutes. Once done, follow the on-screen instructions to complete the process.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dae7e3360.png)
 4. Restart your computer and try Windows Update again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the Windows Update error persists, move on to the second method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Reset Windows Update Components
 
@@ -76,10 +68,6 @@ If the Windows Update error persists, move on to the second method.
 1. Type**cmd** in the search box on your desktop, right click on**Command Prompt** and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04db671de3d.jpg)
 2. Copy and paste the following commands one by one in Command Prompt, and press**Enter** on your keyboard.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **net stop wuauserv**  
 **net stop cryptSvc**  
@@ -112,6 +100,10 @@ If the Windows Update error persists, move on to the second method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
@@ -129,7 +121,15 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ddb7ef0b3.jpg)
 3. Once the process is 100% complete, exit Command Prompt and restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Try to update Windows again and see if it fixes your error 0x80240017\. Still no luck? There’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update available drivers
 
@@ -148,13 +148,13 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/driver-easy-scan.jpg)
 3. Click the**Update** button next to the flagged device(s) to automatically download the driver (you can do that with the FREE version), then install it in your computer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install all the correct drivers for problem drivers (you can do this with the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you’ll be prompted to upgrade when your click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Open Windows Update to download and install updates and it should working now.
 
@@ -178,24 +178,24 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-executing-a-successful-facebook-live-from-previous-recordings-for-2024/"><u>[New] Executing a Successful Facebook Live From Previous Recordings for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-ethical-ambiance-music-streams/"><u>[New] In 2024, Ethical Ambiance Music Streams</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-flawless-approach-securing-gotomeeting-recordings/"><u>[New] In 2024, Flawless Approach Securing GoToMeeting Recordings</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-framed-facets-guide-to-the-best-apps-and-websites-for-image-framing/"><u>[New] In 2024, Framed Facets Guide to the Best Apps and Websites for Image Framing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/call-of-duty-world-war-ii-error-4220-solutions-and-steps-to-correct-the-problem/"><u>Call of Duty World War II Error 4220: Solutions and Steps to Correct the Problem</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-prevent-and-fix-yakuza-nthe-song-of-life-pc-game-crashes/"><u>Expert Tips to Prevent and Fix Yakuza nThe Song of Life PC Game Crashes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-airpods-pairing-woes-in-windows-11-updated-strategies-for-smooth-audio-playback/"><u>Fix AirPods Pairing Woes in Windows 11 – Updated Strategies for Smooth Audio Playback</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/google-pixel-tab-arrives-check-out-the-release-timeline-and-feature-list-now/"><u>Google Pixel Tab Arrives: Check Out the Release Timeline & Feature List Now</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/harmonious-hues-recording-with-a-mac-for-2024/"><u>Harmonious Hues Recording with a Mac for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-crackling-sound-from-speakers-on-pc-windows-10-and-7/"><u>How To Resolve Crackling Sound From Speakers on PC (Windows 10 & 7)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-nokia-g22-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-resolving-steams-disk-write-error/"><u>Quick Solutions for Resolving Steam's Disk Write Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-connection-errors-overcoming-the-challenge-of-an-unreachable-dhcp-server/"><u>Resolving Connection Errors: Overcoming the Challenge of an Unreachable DHCP Server</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-safari-woes-instant-fixes-when-webpages-dont-load/"><u>Solve Your Safari Woes: Instant Fixes When Webpages Don't Load</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-hidden-usb-problems-how-to-repair-a-failure-in-device-descriptor-requests/"><u>Troubleshooting Hidden USB Problems: How to Repair a Failure in Device Descriptor Requests</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-restoring-hidden-or-missing-icons-on-windows-10/"><u>Troubleshooting Tips: Restoring Hidden or Missing Icons on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208333454-unstick-your-windows-update-from-100-with-these-proven-fixes/"><u>Unstick Your Windows Update From 100% with These Proven Fixes!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-best-youtube-video-reverser-online/"><u>[New] Best YouTube Video Reverser Online</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-best-budget-friendly-video-stock-sites/"><u>[New] In 2024, Best Budget-Friendly Video Stock Sites</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unlocking-your-hp-laptops-full-screen-capture-capabilities/"><u>[Updated] 2024 Approved Unlocking Your HP Laptop's Full Screen Capture Capabilities</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-dark-realm-explorations-dos-and-donts-of-nocturnal-shooting-for-2024/"><u>[Updated] Dark Realm Explorations Do's & Don'ts of Nocturnal Shooting for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726027955099-fc2/"><u>無料で安全に保存! FC2動画のダウンロードテクニックを学ぶ</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-m34-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Samsung Galaxy M34 5G has native HEVC support?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-skies-with-dji-mavic-c-review-breaking-boundaries-in-aerial-capture-tech/"><u>Exploring the Skies with DJI Mavic C Review: Breaking Boundaries in Aerial Capture Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-cure-the-missing-msvcr110dll-problem/"><u>How to Cure the Missing msvcr110.dll Problem</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-camon-20-premier-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Camon 20 Premier 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/netflix-party-how-to-start-a-shared-viewing-experience/"><u>Netflix Party: How to Start a Shared Viewing Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-no-cost-xvid-to-mp4-converter-software-simple-steps-for-windows-users/"><u>Top Rated No-Cost Xvid to Mp4 Converter Software - Simple Steps for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-strategies-for-downloading-high-quality-flac-songs/"><u>Top Strategies for Downloading High-Quality FLAC Songs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-video-format-transformer-convert-dvds-to-avi-and-more-on-windows-1011/"><u>Top-Rated Video Format Transformer: Convert DVDs to Avi & More on Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-eliminate-lag-in-vlc-subtitles-seamlessly/"><u>Troubleshooting Steps to Eliminate Lag in VLC Subtitles Seamlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-list-of-myspace-video-extractors-find-the-best-free-tools-for-mp4mp3-conversion/"><u>Ultimate List of MySpace Video Extractors: Find the Best FREE Tools for MP4/MP3 Conversion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-hd-video-conversion-with-factory-pros-exclusive-one-week-promo-now-closed/"><u>Unlock HD Video Conversion with Factory Pro's Exclusive One-Week Promo – Now Closed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11vob/"><u>Windows 11のVOBファイルプレーヤーとして機能する手順</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028256705-pc/"><u>ビデオ会議を撮影するための手っ取り早いPCとスマートフォン向けガイド</u></a></li>
 </ul></div>
 

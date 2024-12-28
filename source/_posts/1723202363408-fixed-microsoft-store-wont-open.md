@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Microsoft Store Won’t Open"
-date: 2024-09-05T10:08:08.157Z
-updated: 2024-09-06T10:08:08.157Z
+date: 2024-12-27T04:59:16.686Z
+updated: 2024-12-27T21:43:45.393Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes [Fixed] Microsoft Store Won’t Open
 thumbnail: https://thmb.techidaily.com/695183b6a6b4d76d103065d6006616fe1a028ff3df2b027aa653bee8bfb31d22.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unstuck the Infinite Waiting Screen of Valorant with Proven Fixes
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-loading-pic.jpg)
@@ -26,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/695183b6a6b4d76d103065d6006616fe1a028ff3d
  With its unique visual style, great graphics quality and gameplay, Valorant has gained an increasing number of game players in the PC gaming community. However, more and more reports about**Valorant stuck on the loading screen** came out. If you are a Valorant player experiencing such an issue, you’re not alone. The good news is, we have found some solutions for you to troubleshoot this problem! Now, let’s get started to try the methods below.
 
  Before you set out to try the fixes below, please check on the**game server status** first. Because if the Valorant is in the middle of server maintenance, you won’t be able to load into the game. For your Valorant server maintenance information, head to **[Riot Games Service Status](https://status.riotgames.com/)**  or **[Twitter of Riot Games Support](https://twitter.com/riotsupport?lang=en)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Here’re the fixes to try
 
@@ -38,11 +36,9 @@ thumbnail: https://thmb.techidaily.com/695183b6a6b4d76d103065d6006616fe1a028ff3d
 5. **[Delete Manifest txt files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Check for network connection
 
  A poor network connection would certainly hold you back from loading into the game. Having a quick and simple check on your network connection should be your first fix to try.
@@ -52,12 +48,6 @@ thumbnail: https://thmb.techidaily.com/695183b6a6b4d76d103065d6006616fe1a028ff3d
 
  If network connection is not where the problem is, try the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Run your game as administrator
 
  In some cases, the game can’t be opened properly because it lacks higher permission from your PC, so try running Valorant as administrator is a possible method to solve the infinite loading problem.
@@ -65,27 +55,14 @@ thumbnail: https://thmb.techidaily.com/695183b6a6b4d76d103065d6006616fe1a028ff3d
 1. Right-click the**VALORANT icon** and select**Properties** at the button of the pop-up menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-open-file-location.jpg)
 2. Under the**Compatibility** tab, tick the box**Run this program as an administrator** and then click**Apply** \>**OK**  
-![](https://images.drivereasy.com/wp-content/uploads/2022/04/VALORANT-run-as-ad.jpg)
-3. Now try to open the game again. If this method doesn’t work, navigate to the next below.
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/04/VALORANT-run-as-ad.jpg)
+3. Now try to open the game again. If this method doesn’t work, navigate to the next below.
+
 ## Fix 3: Update your graphics driver
 
  An up-to-date graphics driver enables your graphics card to correctly do its job in graphics capabilities and to better enhance your gaming experience. If you are having an outdated or faulty graphics driver, it may also cause Valorant to get stuck in the loading status. Therefore, having your graphics driver updated is one of the solution. Here are two ways you can update your graphics drivers:
@@ -118,9 +95,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-graphics.jpg)
 4. Restart your PC for the new graphics driver to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at <support@drivereasy.com>.
 
 If this doesn’t solve your problem, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Reinstall Valorant
 
@@ -135,21 +120,9 @@ If this doesn’t solve your problem, move on to the next fix.
 4. Click**Uninstall** again in the pop-up window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/app-uninstall.jpg)
 5. After the Valorant application is successfully uninstalled. Reinstall it from the[**Valorant download page**](https://playvalorant.com/zh-tw/download/) .
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this reinstalling process still doesn’t work for you, you may give the last fix a try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Delete Manifest txt files
 
  Manifest files usually contain info about resources stored as well as settings for loading those resources. In this sense, the Manifest txt files in the Valorant install file may have something to do with the loading trouble. So we could try to delete those Manifest txt files to see if it helps with the problem.
@@ -158,12 +131,6 @@ If this doesn’t solve your problem, move on to the next fix.
 2. Right-click the**Manifest\_DebugFiles\_Win64** and**Manifest\_NonUFSFiles\_Win64** and select**Delete** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/delete-manifest1-3.jpg)
 3. Open Valorant to see if this fix helps you load in the game successfully.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -178,8 +145,6 @@ If this doesn’t solve your problem, move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +152,21 @@ If this doesn’t solve your problem, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-creating-compelling-podcast-openings-for-2024/"><u>[New] Creating Compelling Podcast Openings for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-discarding-virtual-gatherings-on-fb-pcsmartphones/"><u>[New] In 2024, Discarding Virtual Gatherings on FB, PC/Smartphones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-camera-error-code-0xa00f4292/"><u>[SOLVED] Windows Camera Error Code 0Xa00f4292</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-find-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bring-life-back-to-your-non-charging-laptop-battery-in-no-time/"><u>Bring Life Back to Your Non-Charging Laptop Battery in No Time</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/comment-synchroniser-en-toute-securite-les-donnees-de-votre-nas-synology-avec-des-solutions-de-stockage-cloud/"><u>Comment Synchroniser en Toute Sécurité Les Données De Votre NAS Synology Avec Des Solutions De Stockage Cloud</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-non-responsive-task-manager-quickly-and-easily/"><u>Fixing a Non-Responsive Task Manager Quickly and Easily</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-magic-5-lite-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-broken-ethernet-connections-in-windows-10-and-windows-7/"><u>How to Repair Broken Ethernet Connections in Windows 10 and Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-moto-g24-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Moto G24 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-motorola-moto-g84-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Motorola Moto G84 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pasting-trouble-in-windows-11-os/"><u>Pasting Trouble in Windows 11 OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-overcoming-werfaultexe-errors-on-your-microsoft-windows-system/"><u>Ultimate Guide to Overcoming werFault.exe Errors on Your Microsoft Windows System</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-z-flip-5-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy Z Flip 5 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 

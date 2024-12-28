@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Repair 'Internet Explorer Has Stopped Working'
-date: 2024-12-17T20:13:44.114Z
-updated: 2024-12-22T16:47:29.932Z
+date: 2024-12-27T13:55:08.049Z
+updated: 2024-12-27T16:21:27.116Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -58,7 +54,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -79,19 +75,11 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -117,6 +105,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -126,13 +118,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -142,9 +134,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -184,24 +184,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-stand-out-as-an-elite-gamer-on-youtube/"><u>[New] 2024 Approved Stand Out as an Elite Gamer on Youtube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-video-capture-bandicams-edge-over-camtasia/"><u>[New] Mastering Video Capture Bandicam’s Edge Over Camtasia</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/remium-10-volume-enhancers-windows-apple-android-for-2024/"><u>[New] Premium 10 Volume Enhancers Windows, Apple, Android for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-print-screen-not-working-in-windows-1110/"><u>[SOLVED] Print Screen Not Working in Windows 11/10</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-confirming-youtube-pro-rated-earnings-for-2024/"><u>[Updated] Confirming YouTube Pro-Rated Earnings for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-open-srt-soundtrack-on-windowsmacos-for-2024/"><u>[Updated] Open SRT Soundtrack on Windows/macOS for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/prehensive-look-at-youtubes-adsense-mechanisms-for-2024/"><u>A Comprehensive Look at YouTube's AdSense Mechanisms for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/common-wacom-device-malfunctions-and-how-to-resolve-them-quickly/"><u>Common Wacom Device Malfunctions and How to Resolve Them Quickly</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-spacebar-issue-solutions-for-unresponsive-keyboard-keys-in-windows-10/"><u>Fixing the Spacebar Issue: Solutions for Unresponsive Keyboard Keys in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-print-to-pdf-not-working-in-windows-1011-by-microsoft/"><u>How to Fix 'Print to PDF Not Working' In Windows 10/11 by Microsoft</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-windows-10-not-booting-due-to-recent-updates/"><u>How to Overcome Windows 10 Not Booting Due to Recent Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-elevated-permission-error-in-windows-11-10-and-7/"><u>How to Resolve the 'Elevated Permission' Error in Windows 11, 10 and 7</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-poco-m6-pro-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Poco M6 Pro 5G for Parents | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-honor-magic-6-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Honor Magic 6 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-engagement-game-changers-the-top-25-hashtags-you-need/"><u>Instagram Engagement Game-Changers The Top 25 Hashtags You Need</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/shadowy-sheen-visual-puzzle/"><u>Shadowy Sheen: Visual Puzzle</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-auto-boot-puzzle-for-windows-10-systems/"><u>Solving the Auto-Boot Puzzle for Windows 10 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-solutions-overcome-the-windows-10-error-0x800f0922-during-updates/"><u>Top Solutions: Overcome the Windows 10 Error 0X800F0922 During Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-when-the-key-fails-to-respond/"><u>Troubleshooting Tips: When the '@' Key Fails to Respond</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-channel-growth-on-a-dime-attracting-sponsors-with-simplicity/"><u>[New] 2024 Approved Channel Growth on a Dime Attracting Sponsors with Simplicity</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-tactics-to-determine-igtv-viewership-success/"><u>[New] 2024 Approved Tactics to Determine IGTV Viewership Success</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-from-bland-to-brilliant-elevate-your-images-in-canva/"><u>[New] From Bland to Brilliant Elevate Your Images in Canva</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cprm-dvd/"><u>簡単な手順でCPRM DVDのコピー＆リッピングを始めましょう</u></a></li>
+<li><a href="https://win-dash.techidaily.com/a-comprehensive-guide-on-acquiring-and-setting-up-your-epson-xp-830-printer-drivers/"><u>A Comprehensive Guide on Acquiring and Setting Up Your Epson XP-830 Printer Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-converting-your-pcm-audio-files-into-mp3-format/"><u>Comprehensive Tutorial: Converting Your PCM Audio Files Into MP3 Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-to-use-dvd-ripper-convert-your-dvds-into-digital-files-instantly/"><u>Easy-to-Use DVD Ripper: Convert Your DVDs Into Digital Files Instantly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/most-efficient-software-solutions-convert-dvds-to-mp3-on-windows-operating-systems-10-and-11/"><u>Most Efficient Software Solutions: Convert DVDs to MP3 on Windows Operating Systems (10 & 11)</u></a></li>
+<li><a href="https://win-unique.techidaily.com/reconfigure-print-devices-with-ease-the-ultimate-yl-software-tutorial/"><u>Reconfigure Print Devices with Ease - The Ultimate YL Software Tutorial</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/thorough-summary-googles-podcast-platform-demystified/"><u>Thorough Summary Google's Podcast Platform Demystified</u></a></li>
 </ul></div>
 

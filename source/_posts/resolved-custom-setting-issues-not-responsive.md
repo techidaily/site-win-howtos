@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Custom Setting Issues - Not Responsive"
-date: 2024-09-05T10:03:29.292Z
-updated: 2024-09-06T10:03:29.292Z
+date: 2024-12-22T03:29:43.648Z
+updated: 2024-12-28T13:15:16.588Z
 tags:
   - win11
   - win10
@@ -17,19 +17,11 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/kb1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can’t type anything with your keyboard? That’s really bothersome and frustrating. But don’t worry, you certainly aren’t the only one. We’ve seen many Windows users reporting this**Keyboard won’t type** issue. But the good news is, you can fix it. We’ve put together 6 solutions you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for my keyboard won’t type
 
@@ -44,12 +36,6 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Restart your computer
 
  Your keyboard won’t type issue could happen just because your keyboard or the system that your computer is running gets stuck somehow. Once your keyboard is not working, you can restart your computer first. A simple restart can always solve computer woes.
@@ -67,11 +53,9 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7664a26b24c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
 ### Method 2: Adjust your keyboard settings
@@ -85,67 +69,30 @@ If your computer is running Windows 10:
 1. On the taskbar of your desktop, click the**Start** button. Then click the**Settings icon** to bring up the Settings window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7665088706c.jpg)
 2. Click**Ease of Access** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76653d6e392.jpg)
-3. Click**Keyboard.** Then look at the status of**Use Sticky Keys** ,**Use Toggle Keys** ,**Use Filter Keys** . If any of them is On, switch to Off. Then move on to the next step. If all of them stay Off, move on to the next method.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7665bdbd9d8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76653d6e392.jpg)
+3. Click**Keyboard.** Then look at the status of**Use Sticky Keys** ,**Use Toggle Keys** ,**Use Filter Keys** . If any of them is On, switch to Off. Then move on to the next step. If all of them stay Off, move on to the next method.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7665bdbd9d8.jpg)
+
 If your computer is running Windows 11:
 
 1. On your keyboard, press the **Windows logo + I keys**  simultaneously to open Settings.
 2. From the left navigation panel, select **Accessibility** , then click **Keyboard**  from the right.  
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 3. Toggle **Off**  Sticky keys, Filter keys, and Toggle keys.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If your computer is running Windows 7:
 
 1. On the taskbar of your desktop, click the **Start button** , then select**Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76673c8c257.jpg)
 2. Click **Ease of Access** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766794641a7.jpg)
 3. Click **Change how your keyboard works** .  
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766866a67e4.jpg)
 4. Make sure the three items **Turn on Sticky Keys** , **Turn on Toggle Keys** , and **Turn on Filter Keys**  are unchecked.
 
@@ -165,18 +112,16 @@ See how to do it:
 2. Type**devmgmt.msc** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. Double-click**Keyboards** , then right-click on your keyboard driver software to select**Uninstall device** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7669dd744ff.jpg)
 4. Once you do, restart your computer. Windows should then reinstall the driver for your keyboard automatically.
 
  Try to type some words using your keyboard to see if it works. If you type successfully, great! If you still aren’t able to type on your keyboard, don’t feel frustrated, move on to the next method.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Update your keyboard driver
 
@@ -192,22 +137,23 @@ See how to do it:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766c7750279.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766e1dcd420.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Try this fix if you’re using a USB keyboard
 
@@ -243,8 +189,6 @@ Try to type some words using your keyboard to see if it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,4 +196,20 @@ Try to type some words using your keyboard to see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-the-art-of-iphone-landscapes-pro-techniques-you-must-know-for-2024/"><u>[New] The Art of iPhone Landscapes Pro Techniques You Must Know for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-mastering-youtube-money-policy-overhaul-details/"><u>[Updated] 2024 Approved Mastering YouTube Money Policy Overhaul Details</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-central-luts-in-post-production-filmmaking-revolution/"><u>[Updated] Central Luts in Post-Production Filmmaking Revolution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-a-frozen-windows-10-update-dilemma/"><u>Expert Tips for Fixing a Frozen Windows 10 Update Dilemma</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-device-path-not-found-issues-in-your-windows-os/"><u>Fixing ‘Device Path Not Found’ Issues In Your Windows OS</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-app-stop-applicationexe-from-hanging/"><u>How To Restore Your App: Stop 'Application.exe' From Hanging</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pixel-perfect-viewing-comparing-worlds-top-8k-televisions/"><u>In 2024, Pixel-Perfect Viewing Comparing World's Top 8K Televisions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-the-hp-officejet-pro-8740-driver-on-windows-11-10-or-8-step-by-step-guide/"><u>Install the HP OfficeJet Pro 8740 Driver on Windows 11, 10 or 8 – Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/netflix-service-outage-is-it-down-heres-how-you-can-check-and-resolve-issues/"><u>Netflix Service Outage - Is It Down? Here's How You Can Check & Resolve Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-cpu-drain-in-wmis/"><u>Quick Fixes for CPU Drain in WMIs</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/quick-solutions-for-when-your-windows-explorer-search-fails/"><u>Quick Solutions for When Your Windows Explorer Search Fails</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-windows-update-error-code-0x80402c-your-ultimate-solution/"><u>Troubleshooting and Fixing Windows Update Error Code 0X80^402C: Your Ultimate Solution</u></a></li>
+</ul></div>
 

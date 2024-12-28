@@ -1,7 +1,7 @@
 ---
 title: DIY Repair Tips for Fixing Malfunctioning Function Keys
-date: 2024-09-05T10:03:52.804Z
-updated: 2024-09-06T10:03:52.804Z
+date: 2024-12-23T12:02:20.036Z
+updated: 2024-12-28T04:33:06.183Z
 tags:
   - win11
   - win10
@@ -13,22 +13,10 @@ excerpt: This Article Describes DIY Repair Tips for Fixing Malfunctioning Functi
 thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574e90e43d1175905f19a4b239.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Definitive Guide to Repairing Red Screen Malfunctions: Solutions That Work
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/rsod-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You may familiar with the Blue Screen of Death if you’re a Windows user. But when your PC crashed and turned into a scary weird red screen, you might be confused. Don’t panic–it can be fixed.
 
 ## Step 1: Enter your Windows system
@@ -38,11 +26,9 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
 Otherwise, you need to take a few minutes to read this part.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Way 1: Hard reset your computer
 
  This is the first thing you can try when your computer didn’t restart or couldn’t enter the Windows system normally.  
@@ -66,11 +52,9 @@ Otherwise, you need to take a few minutes to read this part.
 2. **[Revert your system from a restore point](#f7)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 2: Try these fixes
 
  When you enter the Windows system, you can try these fixes. The aim of fixes is to prevent RSOD from happening again. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -115,18 +99,6 @@ There are a few things you should do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-502.png)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-503.png)
 4. Rub the **golden contact** of your memory with an eraser. (This can clean the golden contact of your memory.)
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Install the memory back to your computer.
 6. Place the cover back to your computer.
 7. Connect the power cable and the battery back to your computer.
@@ -137,11 +109,9 @@ Hopefully, this fix could help you get rid of this issue.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your device drivers
 
  The RSOD issue could also relate to wrong and outdated device drivers. If that’s the case for you, you should update your device drivers on your computer. It’s no harm to try.
@@ -170,18 +140,11 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -190,12 +153,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your BIOS
 
 **BIOS** (**Basic Input/Output System** ) performs the hardware initialization and jumpstarts the processes during the booting process of your computer. In some cases, the red screen on Windows 10 may be related to it.
@@ -209,6 +166,11 @@ OR
 1. On your keyboard, press **the Windows logo key** and **R** at the same time, then copy & paste **msinfo32**  into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714e5d73e95.png)
 2. In **the information** in **BIOS Version/Date**  and go to the manufacturer’s official website.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Check out the **Support** (or **Download** ) section and search for the latest BIOS update.
 4. Download the file and install it properly.
 5. Restart your computer and check if this **red screen error** appears or not.
@@ -216,17 +178,9 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Repair system files
 
  When the system files were broken or corrupted, it may cause the RSOD issue. Here’s how to solve it:
@@ -246,14 +200,13 @@ OR
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -268,23 +221,15 @@ OR
 3. Type**sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Restart your computer to check whether the blue screen issue is fixed or not.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the result indicates there are broken files but SFC can’t fix them, you can turn to[Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Revert your system from a restore point
 
  You can also fix your red screen issue by reverting your Windows system to a previous state. You do this with System Restore. Here’s how:
@@ -317,8 +262,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -326,4 +269,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/monster-hunter-world-how-to-prevent-unwanted-crashes-when-playing-on-your-computer/"><u>'Monster Hunter: World' - How to Prevent Unwanted Crashes When Playing on Your Computer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-ultimate-guide-to-scheduling-zoom-events-for-2024/"><u>[New] The Ultimate Guide to Scheduling Zoom Events for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-edgy-escapes-tips-on-avoiding-edgenuity-videos-quickly/"><u>[Updated] 2024 Approved Edgy Escapes Tips on Avoiding Edgenuity Videos Quickly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-definitive-steps-for-online-streaming-audio-archiving/"><u>[Updated] 2024 Approved The Definitive Steps for Online Streaming Audio Archiving</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-accelerate-engagement-through-vimeo-linking/"><u>2024 Approved Accelerate Engagement Through Vimeo Linking</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easily-repair-lenovos-unresponsive-fn-key-with-these-quick-tips/"><u>Easily Repair Lenovo's Unresponsive Fn Key with These Quick Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-the-best-java-gaming-elements/"><u>Examining the Best Java Gaming Elements</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-a-non-responsive-huion-pen-instantly-top-5-remedies-you-can-try-today/"><u>Fix a Non-Responsive Huion Pen Instantly: Top 5 Remedies You Can Try Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-completing-user-level-requests-requiring-elevation-in-windows-operating-systems-111t7/"><u>Guide: Completing User-Level Requests Requiring Elevation in Windows Operating Systems (11/1T/7)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-y100i-power-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo Y100i Power 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-streamlining-webcam-recording-on-macbook-pro/"><u>In 2024, Streamlining Webcam Recording on MacBook Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/nier-automata-pc-troubleshooting-steps-to-avoid-in-game-crashes/"><u>Nier Automata PC Troubleshooting: Steps to Avoid In-Game Crashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/secure-your-firefox-browsing-overcoming-connection-security-issues/"><u>Secure Your Firefox Browsing: Overcoming Connection Security Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-into-windows-11-a-comprehensive-guide-to-discovering-the-modernized-start-menu/"><u>Step Into Windows 11: A Comprehensive Guide to Discovering the Modernized Start Menu</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fix-incorrect-side-by-side-assembly-settings-in-windows-11/"><u>Step-by-Step Guide to Fix Incorrect Side-by-Side Assembly Settings in Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oneplus-ace-2v-frp-by-drfone-android/"><u>The Updated Method to Bypass OnePlus Ace 2V FRP</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transforming-the-future-of-interaction-with-xr-and-digital-twins-in-business-a-comprehensive-guide-by-zdnet/"><u>Transforming the Future of Interaction with XR & Digital Twins in Business - A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-low-on-memory-warning-in-windows-11-systems/"><u>Troubleshooting the 'Low on Memory' Warning in Windows 11 Systems</u></a></li>
+</ul></div>
 

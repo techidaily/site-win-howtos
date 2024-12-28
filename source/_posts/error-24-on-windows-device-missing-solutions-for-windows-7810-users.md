@@ -1,7 +1,7 @@
 ---
 title: Error 24 on Windows (Device Missing) – Solutions for Windows 7/8/10 Users
-date: 2024-12-15T17:13:29.440Z
-updated: 2024-12-22T21:51:26.096Z
+date: 2024-12-24T21:53:02.048Z
+updated: 2024-12-28T10:14:54.366Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -89,16 +85,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-576.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Restart your computer.
 
  If your problem still exists after you update your computer, read on and try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Scan for malware on your computer
 
@@ -135,6 +127,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-116.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Uncheck the box next to**Load startup items** . Then click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-119.png)
@@ -142,10 +138,6 @@ OR
 **4)** Click the**Services tab,** and then check the box next to**Hide all Microsoft services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-110.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Click**Disable all** .
 
@@ -179,17 +171,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-87.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Type**msconfig** . Then, on your keyboard, press the**Enter, Shift** and**Ctrl** keys at the same time to run System configuration as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-88.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Uncheck the box next to**Load startup items** . Then click**Apply** .
 
@@ -200,7 +184,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-90.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Click**Disable all** .
@@ -212,12 +196,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-115.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)** Click the**Startup tab** , then click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-94.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)** Right-click the program you want to prevent it from auto-launching and select **Disable** .
 
@@ -241,13 +229,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-132.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the button next to**Normal startup,** and then click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-148.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click the**Services tab** .
 
@@ -257,15 +245,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-145.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-146.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Your computer will start normally after you finish this step. If the clean reboot didn’t fix your problem, try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Run the Command Prompt
 
@@ -285,9 +277,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-166.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Type **dism.exe /online /cleanup-image /startcomponentcleanup** , then press the **Enter**  key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-164.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Type **dism.exe /online /cleanup-image /restorehealth** , then press the **Enter** key on your keyboard.
 
@@ -317,18 +317,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-seamless-speech-to-text-translation-in-microsoft-office-suite-word/"><u>[New] Seamless Speech-to-Text Translation in Microsoft Office Suite (Word)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-perfect-your-channel-info-a-template-approach-for-2024/"><u>[Updated] Perfect Your Channel Info A Template Approach for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-msmpengexe-high-cpu-usage-in-windows-11-complete-solution/"><u>How to Fix MsMpEng.exe High CPU Usage in Windows 11: Complete Solution</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-overcoming-sync-issues-ensuring-smooth-video-sharing-on-mobile-messengers/"><u>In 2024, Overcoming Sync Issues Ensuring Smooth Video Sharing on Mobile Messengers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-13-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 13</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/lenovo-webcam-troubleshooting-quick-fixes-to-get-you-back-on-camera/"><u>Lenovo Webcam Troubleshooting: Quick Fixes to Get You Back on Camera</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726223412963-mp4avi-movavi/"><u>MP4到AVI的免費線上變換 – Movavi高效工具解答</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-lockup-solving-initialization-issues-in-destiny-2/"><u>Overcoming the Lockup: Solving Initialization Issues in Destiny 2</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/perfect-editor/"><u>PixelPerfect Editor</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-common-issues-with-initializing-smartaudio/"><u>Resolved: Common Issues with Initializing SmartAudio</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138543384-9781633535367-rituals-for-magic-and-meaning/"><u>Rituals for Magic and Meaning | Free Book</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/screen-scribes-a-critical-look-at-modern-recorders-for-2024/"><u>Screen Scribes A Critical Look at Modern Recorders for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-xr-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone XR</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-video-marketing-how-to-plan-your-strategy-with-ideas-for-2024/"><u>[New] Instagram Video Marketing How to Plan Your Strategy with Ideas for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-smart-strategies-for-buying-economical-gopros/"><u>[New] Smart Strategies for Buying Economical GoPros</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-top-10-global-youtube-personalities-peak-of-viewership/"><u>[Updated] 2024 Approved Top 10 Global YouTube Personalities Peak of Viewership</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-capturing-mov-files-effortlessly-in-windows-10/"><u>[Updated] Capturing MOV Files Effortlessly in Windows 10</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-unlock-smooth-video-flow-from-your-photobooth-app/"><u>[Updated] Unlock Smooth Video Flow From Your Photobooth App</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-downloads-of-premium-ulozto-content-secrets-to-speed-and-full-hd-retrievals-unveiled/"><u>Free Downloads of Premium Ulozto Content - Secrets to Speed and Full HD Retrievals Unveiled</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/from-sound-to-storage-logging-online-broadcasts-efficiently/"><u>From Sound to Storage Logging Online Broadcasts Efficiently</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-prime-landscapes-for-streaming-success/"><u>In 2024, Prime Landscapes for Streaming Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/iphoneandroiddvd-seo/"><u>IPhoneやAndroidでライブDVDのコンテンツを簡単に移行する手順 - SEO</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/m4awav-itunes/"><u>M4AファイルからWAVへの変換ガイド - iTunes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/meet-the-new-sharp-will-revolutionary-naked-eye-3d-features-in-an-android-device/"><u>Meet the New Sharp Will: Revolutionary Naked Eye-3D Features in an Android Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/page-not-found-all-is-well-with-wonderfox-access-restored/"><u>Page Not Found? All Is Well with WonderFox - Access Restored!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc-and-smartphone-mp3-recording-techniques/"><u>PC & Smartphone MP3 Recording Techniques</u></a></li>
+<li><a href="https://win-lab.techidaily.com/troubleshooting-windows-detecting-and-resolving-audio-hardware-glitches/"><u>Troubleshooting Windows: Detecting & Resolving Audio Hardware Glitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp3avi-202cuarto/"><u>これがトップ【MP3へのAVI変換】: 『202Cuarto』で最強リスト・オブ・フリーソフトを発表！</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Improve League of Legends Performance: Tackling the Slow Downloader Issue"
-date: 2024-12-20T17:45:43.539Z
-updated: 2024-12-22T17:43:03.188Z
+date: 2024-12-23T17:43:12.972Z
+updated: 2024-12-28T04:29:24.961Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ League of Legends is a world popular game, but the slow download speed can easil
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -47,10 +47,6 @@ League of Legends is a world popular game, but the slow download speed can easil
 **[Bonus: Update your drivers](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Launch as administrator
 
@@ -75,17 +71,13 @@ Downloading again to see if it works.
 2. Click**Turn Windows Defender Firewall on or off** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Re-download to check.
 
@@ -103,7 +95,7 @@ Re-download to check.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Bonus: Update your drivers
@@ -135,8 +127,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -164,18 +164,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-apple-podcast-listing-essentials/"><u>[New] Apple Podcast Listing Essentials</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-precision-in-every-frame-top-9-tips-for-vr-filmmaking/"><u>2024 Approved Precision in Every Frame Top 9 Tips for VR Filmmaking</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/black-hero-4-or-ghost-s-choosing-the-best-motorsport-camera/"><u>Black Hero 4 or Ghost-S Choosing the Best Motorsport Camera</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/compatibility-success-updating-device-drivers-for-optimal-performance-in-wow/"><u>Compatibility Success: Updating Device Drivers for Optimal Performance in WoW</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decoding-and-solving-windows-camera-failure-tackle-error-0xa00f4292-successfully/"><u>Decoding and Solving Windows Camera Failure - Tackle Error 0Xa00f4292 Successfully</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-review-how-reliable-is-the-fintite-protective-case-for-your-macbook-pro-13/"><u>Expert Review: How Reliable Is the Fintite Protective Case for Your MacBook Pro 13?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/forza-horizon-asterisk-4-noise-solutions-eliminate-silence-and-enjoy-the-race-again/"><u>Forza Horizon Asterisk 4 Noise Solutions - Eliminate Silence and Enjoy the Race Again</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/highpoint-masterpiece-suite-for-2024/"><u>Highpoint Masterpiece Suite for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-unable-to-connect-to-the-remote-server/"><u>How to Fix Unable to Connect to the Remote Server</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/techniques-to-pull-facebook-videos-easily-for-2024/"><u>Techniques to Pull Facebook Videos Easily for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-fixing-right-click-not-working-on-a-mouse-with-windows-11/"><u>The Ultimate Guide to Fixing 'Right Click Not Working' On a Mouse with Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-repair-a-non-functional-microphone-in-a-laptop/"><u>Troubleshooting: How to Repair a Non-Functional Microphone in a Laptop</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-11-latency-issue-addressed-for-laptop-gpu/"><u>Windows 11 Latency Issue Addressed for Laptop GPU</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-imaginative-inspirations-for-virtual-explorers-the-best-metaverse-moments/"><u>[New] Imaginative Inspirations for Virtual Explorers The Best Metaverse Moments</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-ultimate-guide-to-internet-based-image-trimming/"><u>[Updated] 2024 Approved The Ultimate Guide to Internet-Based Image Trimming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-vlc-sound-wave-graphics-tutorial-activating-and-customizing-audio-visuals/"><u>Comprehensive VLC Sound Wave Graphics Tutorial: Activating & Customizing Audio Visuals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-m2ts-to-mp4-reduce-file-size-while-preserving-hd-clarity/"><u>Convert M2Ts to MP4: Reduce File Size While Preserving HD Clarity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-artifice-intelligence-conversational-agents-debunking-the-top-9-misunderstandings/"><u>Demystifying Artifice Intelligence Conversational Agents: Debunking the Top 9 Misunderstandings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-four-exceptional-techniques-for-easily-downloading-your-bandcamp-tunes-as-high-quality-mp3-or-more-free-guide-inside/"><u>Discover Four Exceptional Techniques for Easily Downloading Your Bandcamp Tunes as High-Quality MP3 or More - Free Guide Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-best-live-tv-addons-compatible-with-kodi-versions-1918-updated-and-free-to-use-now/"><u>Discover the Best Live TV Addons Compatible with Kodi Versions 19/18, Updated and Free to Use Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-conversion-techniques-for-changing-mp4-video-formats-to-mpeg-1/"><u>Easy Conversion Techniques for Changing MP4 Video Formats to MPEG-1</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-to-use-video-converter-transform-your-content-fromto-240p-with-simple-steps/"><u>Easy-to-Use Video Converter: Transform Your Content From/To 240P with Simple Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-conversion-of-youtube-footage-to-ogg-discover-two-superior-strategies/"><u>Effortless Conversion of YouTube Footage to OGG: Discover Two Superior Strategies</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/from-video-to-gif-seamless-process-for-vimeo-content/"><u>From Video to GIF Seamless Process for Vimeo Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-to-incorited-visuals-in-text-without-cost/"><u>Guide to Incorited Visuals in Text Without Cost</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-red-magic-9-pro-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Red Magic 9 Pro.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/transitioning-video-content-into-stills-with-windows-11/"><u>Transitioning Video Content Into Stills with Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-selection-premier-iphone-16pro-skins-and-shields-for-2eplus24-scooped-by-zdnet-experts/"><u>Ultimate Selection: Premier iPhone 16/Pro Skins and Shields for 2E+24 Scooped by ZDNET Experts</u></a></li>
 </ul></div>
 

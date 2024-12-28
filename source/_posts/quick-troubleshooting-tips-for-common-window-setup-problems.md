@@ -1,7 +1,7 @@
 ---
 title: Quick Troubleshooting Tips for Common Window Setup Problems
-date: 2024-09-05T10:09:11.809Z
-updated: 2024-09-06T10:09:11.809Z
+date: 2024-12-22T06:21:19.774Z
+updated: 2024-12-28T05:52:12.002Z
 tags:
   - win11
   - win10
@@ -13,30 +13,12 @@ excerpt: This Article Describes Quick Troubleshooting Tips for Common Window Set
 thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d7588b0ef8db354da07eb1bf.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Quick Fixes for Common AirDrop Problems – Now Resolved
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a460ab747749.jpg)
 
  You must be familiar with AirDrop if you are a fan of Apple. If**AirDrop is not working** on your iOS devices and Mac, it would be very disappointing because your can’t transfer wirelessly between Apple devices. But don’t be upset! This guideline summarizes the**top fixes for AirDrop not working** .
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How do I fix Airdrop not working?
 
 1. [**Check if your device is discoverable**](https://tools.techidaily.com/drivereasy/download/)
@@ -47,12 +29,6 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 6. **[Check the WiFi network](https://tools.techidaily.com/drivereasy/download/)**
 7. [**Check Firewall on Mac**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **What is AirDrop?**
 
  AiDrop is a super cool feature AirDrop that enables you to wirelessly transfer**pictures** ,**videos** ,**files** and**more** between**iPhone** /**iPad** /**iPod** **Touch** /**Mac** nearby. With iOS 10 and later, you can also share links to apps with AirDrop. It makes our life and work much more convenient.
@@ -77,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a45fe3b17fd2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) You will see a popup list to configure your settings. It’s recommended to choose**Everyone** , so that your device can be discovered by whom is not your contact.
 
 **Receiving Off** : You won’t receive AirDrop requests.  
@@ -86,11 +66,9 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a45fe56bb738.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **On Mac OS** :
 
  1) On your Mac, go to**Finder** \>**Menu** **Bar** .
@@ -102,22 +80,18 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 ![airdrop on mac](https://www.tenorshare.com/images/topics/os-x/airdrop-on-mac.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Step 2: Make sure all the devices are within detected range**
 
  As mentioned, AirDrop works based on WiFi and Bluetooth, so your devices must be within the WiFi and Bluetooth range to be able to detected. You can’t AirDrop to users who are out of the defined range.
 
  It’s recommended to be as**closer** as possible when using AirDrop, and do not beyond**20 feet** (**6 meters** ), which may make your device undiscoverable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Step 3: Turn off your AirPlane mode**
 
@@ -143,12 +117,6 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 2: Resign in your iCloud account**
 
  The AirDrop not working issue can be caused by the iCloud issue.**Signing out and Signing in again** can solve the problem.
@@ -163,6 +131,10 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a46017f87be0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Back in the**Settings** screen, tap**Apple ID** to sign in.
 
  4) Enter your**account** and**password** to sign in.
@@ -171,12 +143,6 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 3: Check the Bluetooth and WiFi**
 
  As mentioned above, AirDrop can work properly when both the WiFi and Bluetooth perform well. If there is something wrong with your WiFi or Bluetooth, AirDrop may not work.
@@ -190,11 +156,9 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a460846969db.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Back to**Settings** \>**Bluetooth** .
 
  4) Tap**Bluetooth** button to turn it off, and tap again to turn it on.
@@ -202,11 +166,9 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4607f0c3ee9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5) Try AirDrop again.
 
 **Tips** : Please make sure your WiFi connection works well. Sometimes if your WiFi doesn’t work, your AirDrop can’t transfer items.
@@ -224,21 +186,13 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a4608a486d7a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Reopen your AirDrop and try it again.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 5: Check Do Not Disturb Mode**
 
  The Do Not Disturb mode helps you to silence calls, alerts and notifications that you receive on your iOS devices. If you are in the Do Not Disturb mode, your AirDrop will not be working. You can try to temporarily disable the Do Not Disturb mode.
@@ -249,48 +203,32 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a46095c8d5a6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Try AirDrop again to see if it works.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Method 6: Check the WiFi network**
 
  WiFi network is an important factor to have AirDrop to be working. Check your WiFi network by these steps:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Step 1: Make sure your WiFi works properly**
 
  If your WiFi is not working properly, it may prevent AirDrop from working properly. You can**check your WiFi network on other device** , or**search something on your browser** to see if it works normally.
 
 If it doesn’t work well, try another WiFi then.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Step 2: Make sure the devices are in the same network**
 
  Please make sure that your iOS devices and Mac that are using AirDrop are in the**same WiFi network** , and that can help solve the problem, too.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Step 3: Reset network settings**
 
 You can try to reset your network to fix AirDrop not working.
@@ -301,12 +239,6 @@ You can try to reset your network to fix AirDrop not working.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0ea3391f22f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Choose**Reset Network Settings** , then enter your**Passcode** to finish.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d694399482.jpg)
@@ -348,8 +280,6 @@ You can try to reset your network to fix AirDrop not working.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -357,4 +287,19 @@ You can try to reset your network to fix AirDrop not working.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-premium-automotive-traffic-cam-exploration/"><u>[New] Premium Automotive Traffic Cam Exploration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-venture-into-virtual-worlds-a-close-look-at-lgs-360-tech/"><u>[New] Venture Into Virtual Worlds A Close Look at LG's 360 Tech</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-elite-methodology-for-unrivaled-mobile-screen-recording-using-mobizen/"><u>[Updated] 2024 Approved Elite Methodology for Unrivaled Mobile Screen Recording Using Mobizen</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-expediting-video-aggregation-from-tiktok-in-a-flash/"><u>[Updated] In 2024, Expediting Video Aggregation From TikTok in a Flash</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-selective-choice-top-cards-for-4k-videos-for-2024/"><u>[Updated] Selective Choice Top Cards for 4K Videos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-mastering-spreadsheet-management-a-step-by-step-guide-to-addingremoving-columns-and-rows-in-excel/"><u>1. Mastering Spreadsheet Management: A Step-by-Step Guide to Adding/Removing Columns & Rows in Excel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-seamless-steps-embedding-pdf-documents-into-microsoft-excel/"><u>1. Seamless Steps: Embedding PDF Documents Into Microsoft Excel</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/choosing-your-ideal-digital-currency-wallet-insights-by-yl-computing-and-yl-software-experts/"><u>Choosing Your Ideal Digital Currency Wallet: Insights by YL Computing and YL Software Experts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-eliminating-links-from-your-ms-excel-spreadsheet/"><u>Step-by-Step Guide: Eliminating Links From Your MS Excel Spreadsheet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-removing-an-excel-workbooks-locked-password/"><u>Step-by-Step Guide: Removing an Excel Workbook's Locked Password</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-tutorial-on-implementing-the-if-formula-successfully-in-excel-spreadsheets/"><u>Ultimate Tutorial on Implementing the IF Formula Successfully in Excel Spreadsheets</u></a></li>
+</ul></div>
 

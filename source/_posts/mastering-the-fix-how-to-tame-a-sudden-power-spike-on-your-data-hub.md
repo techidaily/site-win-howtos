@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Fix: How to Tame a Sudden Power Spike on Your Data Hub"
-date: 2024-09-05T10:06:24.993Z
-updated: 2024-09-06T10:06:24.993Z
+date: 2024-12-21T13:48:27.096Z
+updated: 2024-12-27T23:55:54.129Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 
 **CS:GO crashes on your computer** ? Don’t worry. While this can be a very frustrating issue, it’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix CS:GO crashing in Windows
 
  All the screenshots below are from**Windows 10** , but the fixes also work in**Windows 8.1** and**7** . Make sure you have at least**4GB of RAM** installed in your computer.
@@ -31,11 +35,9 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 6. **[Change fastprox.dll to fastprox.dllold](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  This problem may occur if you’re using a wrong or outdated graphics driver. So you should update your graphics driver to see if it fixes the issue. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -55,11 +57,9 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b594602cca14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -67,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 5) Launch CS:GO to see if it ever crashes again. If it does not, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Stop overclocking your GPU
 
@@ -77,12 +81,6 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Verify integrity of game files
 
  You may have this**CSGO crashing** issue if some files of your game installation are corrupt or have been deleted as a false positive by antivirus programs. So you can verify the integrity of game files to see if it fixes the issue.
@@ -95,22 +93,10 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-180.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**LOCAL FILES** \>**VERIFY INTEGRITY OF GAME FILES..** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-177.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Wait until the game cache verification finishes.
 
 5) Close the windows in Steam and exit Steam.
@@ -141,12 +127,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-181.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Remove**ANY** launch options currently shown.
 
  5) Type**\-autoconfig** and click**OK** .  
@@ -165,33 +145,29 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-179.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**SET LAUNCH OPTIONS…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-181.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Remove**ANY** launch options currently shown.
 
  5) Type**\-safe** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/safe.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6) Exit Steam.
 
 7) Re-launch CS:GO and check if the CSGO crashing issue has been resolved. If yes, then congrats! But if you still haven’t had any success, move on to**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reacquire all CSGO game files
 
@@ -212,41 +188,27 @@ To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Change fastprox.dll to fastprox.dllold
 
 1. On your keyboard, press**the Windows logo key** and**E** at the same time, then click**View** \>**Options** \>**Change folder and search options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4b228da5a.jpg)
 2. Click the**View** tab and uncheck**the box** before**Hide extensions for known file types** . Then click**Apply** \>**OK** .  
+
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4c03820bb.jpg)
 3. On your keyboard, press**the Windows logo key** and**E** at the same time, then copy & paste **C:\\Windows\\SysWOW64\\wbem** into the address bar and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4db541a75.jpg)
 4. Locate**fastprox.dll** and rename it to **fastprox.dllold** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4e5f2211c.jpg)
 5. Re-launch your game and hope you’re enjoying your game right now.
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -260,8 +222,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -269,4 +229,17 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/omparing-youtube-video-downloader-apps-on-android/"><u>[New] Comparing YouTube Video Downloader Apps on Android</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-wmp-cd-extraction-and-bursting-techniques/"><u>[Updated] Mastering WMP CD Extraction & Bursting Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-oculus-top-grossing-virtual-reality-titles-list/"><u>[Updated] Oculus Top Grossing Virtual Reality Titles List</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-x-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone X to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-saving-as-pdf-fix-microsofts-print-feature-on-latest-windows-versions/"><u>Mastering the Art of Saving as PDF: Fix Microsoft's Print Feature on Latest Windows Versions!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restore-your-rides-roar-eliminating-sound-problems-in-forza-horizon-4-easily/"><u>Restore Your Ride's Roar - Eliminating Sound Problems in Forza Horizon 4 Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-pubg-launch-failures-top-strategies-and-fixes-for-gamers/"><u>Tackling PUBG Launch Failures: Top Strategies and Fixes for Gamers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/valorant-troubleshooting-dealing-with-screen-distortion-and-tearing/"><u>Valorant Troubleshooting: Dealing with Screen Distortion and Tearing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/yl-computings-realistic-rainshowers-hd-live-wallpaper-for-dynamic-desktop-experience/"><u>YL Computing's Realistic Rainshowers HD Live Wallpaper for Dynamic Desktop Experience</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Win 10 Update Issues? Clear the Corrupted Store Cache - Solved!
-date: 2024-09-05T10:02:31.421Z
-updated: 2024-09-06T10:02:31.421Z
+date: 2024-12-25T14:24:49.824Z
+updated: 2024-12-28T13:56:13.192Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Win 10 Update Issues? Clear the Corrupted Store 
 thumbnail: https://thmb.techidaily.com/51ce8e2d4e344c8b82645f25a39faba4287a1c5da16a59ee967932588d09ef10.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Win 10 Update Issues? Clear the Corrupted Store Cache - Solved
 
 Your**Windows Store** has been acting up recently.
@@ -35,12 +29,6 @@ Your**Windows Store** has been acting up recently.
 2. **[Create a new Windows Store cache folder](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Microsoft store](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Reset the Windows Store cache
 
  As the error message suggests, the problem often happens when the  Windows Store cache  is damaged. By**resetting the Windows Store cache** , we can clear the cache of the apps and hopefully solve the problem.
@@ -49,22 +37,14 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Wait until the whole Windows store cache reset process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-128.png)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Once completed, Windows Store will pop open.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-129-1024x796.png)
@@ -76,17 +56,9 @@ Your**Windows Store** has been acting up recently.
 ---
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Create a new Windows Store cache folder
 
  Sometimes the error occurs just because your Windows Store is unable to read the error-ridden cache folder. If that’s true, we’ll need to**create a new Windows** **Store cache folder** .
@@ -108,6 +80,10 @@ Your**Windows Store** has been acting up recently.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Reinstall Microsoft Store
 
  If the problem still persists, then you might have to**reinstall Windows Store** to give it a clean slate.
@@ -123,41 +99,25 @@ Your**Windows Store** has been acting up recently.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aeaacc5c8df4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Reset** , and you’ll receive a confirmation button. Click **Reset** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aeace26d970e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Restart your computer and check if the problem has been sorted out.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Want us to fix the problem for you?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Free-Tech-Support.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If none of the fixes above worked, or you just don’t have the time or confidence to troubleshoot the problem for yourself, get us to fix it for you. All you need to do is **[buy a 1-year subscription to Driver Easy](https://tools.techidaily.com/drivereasy/download/) (just $29.95) and you get free technical support as part of your purchase** . Then you can contact our computer technicians directly, explain your problem, and they’ll investigate to see if they can resolve it remotely.
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -168,8 +128,6 @@ Your**Windows Store** has been acting up recently.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +135,22 @@ Your**Windows Store** has been acting up recently.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-optimize-chromes-voice-the-best-web-based-vocal-modification-apps/"><u>[New] 2024 Approved Optimize Chrome's Voice The Best Web-Based Vocal Modification Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-11-taskbar-frozen-top-effective-ways/"><u>[Solved] Windows 11 Taskbar Frozen - Top Effective Ways</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-profit-in-the-space-time-continuum-the-art-of-creating-earning-rich-content/"><u>[Updated] In 2024, Profit in the Space-Time Continuum The Art of Creating Earning-Rich Content</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-key-to-youtube-success-25-effective-promotion-methods/"><u>[Updated] The Key to YouTube Success 25 Effective Promotion Methods</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-z-flip-5-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy Z Flip 5 Fingerprint Lock</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210280692-9781615195855-breathe-empower-achieve/"><u>Breathe, Empower, Achieve | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-fix-broken-usb-ports-on-a-computer-running-windows-11/"><u>Diagnose and Fix Broken USB Ports on a Computer Running Windows 11</u></a></li>
+<li><a href="https://win-special.techidaily.com/effective-solutions-for-diagnosing-and-resolving-printer-issues-a-guide-by-yl-computing/"><u>Effective Solutions for Diagnosing and Resolving Printer Issues: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-to-correct-error-message-31-on-your-pc-running-windows/"><u>Expert Solutions to Correct Error Message 31 on Your PC Running Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oppo-reno-10-pro-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Oppo Reno 10 Pro 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-essential-media-driver-now-detected-on-your-pc/"><u>Resolved: Essential Media Driver Now Detected on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-strategies-to-tackle-werfaultexe-application-problems-under-windows/"><u>Top Strategies to Tackle werFault.exe Application Problems Under Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-sound-output-errors-in-microsoft-windows-what-to-do-next/"><u>Troubleshooting Sound Output Errors in Microsoft Windows - What to Do Next?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-tips-for-reducing-long-load-durations-in-fallout-4/"><u>Ultimate Troubleshooting Tips for Reducing Long Load Durations in Fallout 4</u></a></li>
+<li><a href="https://win-premium.techidaily.com/understanding-io-device-errors-in-windows-causes-and-solutions/"><u>Understanding I/O Device Errors in Windows: Causes & Solutions</u></a></li>
+</ul></div>
 

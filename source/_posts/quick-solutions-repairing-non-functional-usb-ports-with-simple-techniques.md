@@ -1,7 +1,7 @@
 ---
 title: "Quick Solutions: Repairing Non-Functional USB Ports with Simple Techniques"
-date: 2024-09-05T10:03:31.999Z
-updated: 2024-09-06T10:03:31.999Z
+date: 2024-12-20T20:56:55.231Z
+updated: 2024-12-28T06:26:16.196Z
 tags:
   - win11
   - win10
@@ -17,17 +17,15 @@ thumbnail: https://thmb.techidaily.com/d8a8986ffc64f5b9f1ed82907df05cfbb6ea0430e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fd4e4c17cd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Oops… The **Shift key on your keyboard stops working** . Neither the left shift key, nor the right one. How could that happen? You may be very annoyed now.
 
  Don’t worry. You’re not alone. It’s a common keyboard issue. Many Windows users’re experiencing this issue as you do. More importantly, you CAN fix it by yourself.
 
  This small guide will be showing you how to fix the Shift key bot working issue step by step. Read on and go on with the steps to troubleshoot your problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I fix Shift key not working?
 
@@ -62,22 +60,10 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Press the Shift key on your keyboard to see if it works.
 
 #### on Windows 11
@@ -89,16 +75,22 @@ Follow these:
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -116,12 +108,6 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -129,11 +115,9 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Restart your computer and try to press the Shift key to see if it works.
 
 * [keyboard](https://bellelily.pxf.io/m5azgm)
@@ -144,8 +128,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +135,20 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/1716069705013-new-embedded-recorder-usage-in-huaweis-mate-series-and-the-p-lineup-for-2024/"><u>[New] Embedded Recorder Usage in Huawei's Mate Series and the P Lineup. For 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-content-for-success-a-step-by-step-channel-guide/"><u>[Updated] 2024 Approved Crafting Content for Success A Step-by-Step Channel Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-social-media-ingenuity-how-to-develop-captivating-facebook-slideshows/"><u>[Updated] Social Media Ingenuity How to Develop Captivating Facebook SlideShows</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtubes-top-tools-studio-vs-latest-beta-features-for-2024/"><u>[Updated] YouTube's Top Tools Studio Vs. Latest Beta Features for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/daily-dose-of-latvian-mastering-in-under-an-hour/"><u>Daily Dose of Latvian: Mastering in Under an Hour</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dimming-mystery-device-dilemma/"><u>Dimming Mystery: Device Dilemma</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-techniques-to-rectify-connectivity-issues-with-an-aoc-monitor-for-a-smooth-windows-11-experience/"><u>Effective Techniques to Rectify Connectivity Issues with an AOC Monitor for a Smooth Windows 11 Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-ethernet-not-working-issues-on-windows-10-and-7/"><u>How to Fix Ethernet Not Working Issues on Windows 10 & 7</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-zero-30-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Infinix Zero 30 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202901163-league-of-legends-boost-trick-get-your-game-running-faster-now/"><u>League of Legends Boost Trick - Get Your Game Running Faster Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-diagnosing-and-correcting-pc-issue-code-31-with-these-simple-steps/"><u>Master the Art of Diagnosing & Correcting PC Issue Code 31 with These Simple Steps</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolving-low-quality-cctv-videos/"><u>Resolving Low-Quality CCTV Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-downloading-steam-software-updates-efficiently/"><u>Troubleshooting Non-Downloading Steam Software Updates Efficiently</u></a></li>
+</ul></div>
 

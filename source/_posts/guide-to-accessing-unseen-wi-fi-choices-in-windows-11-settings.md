@@ -1,7 +1,7 @@
 ---
 title: Guide to Accessing Unseen Wi-Fi Choices in Windows 11 Settings
-date: 2024-12-16T20:29:05.092Z
-updated: 2024-12-22T16:15:40.665Z
+date: 2024-12-24T06:37:25.602Z
+updated: 2024-12-28T09:52:43.957Z
 tags:
   - win11
   - win10
@@ -44,21 +44,29 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Repair your computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687ec975fbb.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Select**Troubleshoot** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687f253bcd5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Select **Startup Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968810c5917f.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)**  Select**Windows 10** .
 
@@ -76,13 +84,13 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Repair your computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687ec975fbb.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Select**Troubleshoot** .
 
@@ -91,10 +99,6 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 **5)**  Select**Command Prompt** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596884143a289.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)**  Type the following lines in Command Prompt and press **Enter** on your computer after each.
 
@@ -123,16 +127,12 @@ _**bootrec /scanos**_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Boot your computer from your Windows 10 installation media. After selecting the language and region, click on**Install now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968970ab6012.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Follow the on-screen instructions to complete the reinstallation of your system.
@@ -154,21 +154,24 @@ _**bootrec /scanos**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-free-easy-tag-extraction-compilation-of-7-best-no-cost-online-tools/"><u>[Updated] Free, Easy Tag Extraction Compilation of 7 Best No-Cost Online Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beaten-black-box-blues-correcting-your-obs-video-snapshots-issue/"><u>Beaten Black Box Blues: Correcting Your OBS Video Snapshots Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-the-barrier-of-error-0x8024200d-expert-tips-for-a-smooth-windows-update-process-fixed/"><u>Bypassing the Barrier of Error 0X8024200D - Expert Tips for a Smooth Windows Update Process [FIXED]</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/enhance-your-photography-journey-adding-music-and-filters-in-windows-10-photos/"><u>Enhance Your Photography Journey Adding Music and Filters in Windows 10 Photos</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-magic-v2-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor Magic V2 Devices | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guida-rapido-e-facile-trasformare-un-file-iso-immagine-in-formato-mp4-in-meno-di-5-minuti/"><u>Guida Rapido E Facile: Trasformare Un File ISO Immagine in Formato MP4 in Meno Di 5 Minuti</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-11-by-drivereasy-guide/"><u>How to install device drivers manually on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210867618-lenovo-keyboard-malfunction-heres-what-you-can-do-to-fix-it/"><u>Lenovo Keyboard Malfunction? Here’s What You Can Do to Fix It!</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-popularity-of-intimate-gaming-styles/"><u>Navigating the Popularity of Intimate Gaming Styles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-a-usb-flash-drive-that-wont-connect/"><u>Quick Fixes for a USB Flash Drive That Won’t Connect</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-personalization-feature-non-responsiveness-errors/"><u>Resolving Personalization Feature Non-Responsiveness Errors</u></a></li>
-<li><a href="https://win-unique.techidaily.com/secure-your-files-with-ease-using-onedrives-free-automatic-backup-tool/"><u>Secure Your Files with Ease Using OneDrive's Free, Automatic Backup Tool</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/svchostexe-and-windows-11-overcoming-high-cpu-usage-problems-easily/"><u>svchost.exe and Windows 11: Overcoming High CPU Usage Problems Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-secured-connection-not-established-in-mozilla-firefox/"><u>Troubleshooting Steps: Resolving 'Secured Connection Not Established' In Mozilla Firefox</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-selection-of-iphone-12pro-skins-reviewed-and-ranked/"><u>Ultimate Selection of iPhone 12/Pro Skins Reviewed and Ranked</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oneplus-open-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your OnePlus Open Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-new-age-smartphone-a-review-of-huawei-p10s-innovations/"><u>[New] 2024 Approved The New Age Smartphone? A Review of Huawei P10's Innovations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-apex-screen-capture-tools-the-elite-line-up-for-2024/"><u>[New] Apex Screen Capture Tools The Elite Line-Up for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-visual-voyage-from-vimeo-footage-to-animated-artistry/"><u>[New] In 2024, Visual Voyage From Vimeo Footage to Animated Artistry</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-quick-tips-for-setting-up-zoom-on-your-android-phonetablet-for-2024/"><u>[New] Quick Tips for Setting Up Zoom on Your Android Phone/Tablet for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-rated-free-tools-to-extract-youtube-text-tracks/"><u>2024 Approved Top-Rated Free Tools to Extract YouTube Text Tracks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fandango-and-you-a-simple-tutorial-for-watching-3d-movies-at-home/"><u>Fandango and You: A Simple Tutorial for Watching 3D Movies at Home</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-ideas-to-epics-leveraging-chatgpt-for-unparalleled-story-crafting-skills/"><u>From Ideas to Epics: Leveraging ChatGPT for Unparalleled Story Crafting Skills</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-visual-storytelling-instaslides/"><u>In 2024, Visual Storytelling InstaSlides</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resurrecting-search-bar-performance-in-windows-11/"><u>Resurrecting Search Bar Performance in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-acquiring-e-copies-for-movies-in-your-library/"><u>Step-by-Step Tutorial on Acquiring E-Copies for Movies in Your Library</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-guide-enjoying-mkv-files-on-ps4-best-setup-tips/"><u>Successful Guide: Enjoying MKV Files on PS4 – Best Setup Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-rated-dvd-to-avi-converter-software-for-windows-10-and-11/"><u>Top-Rated DVD to AVI Converter Software for Windows 10 & 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transcode-dvds-effortlessly-how-to-turn-them-into-mp4mkvmov-files/"><u>Transcode DVDs Effortlessly - How to Turn Them Into MP4/MKV/MOV Files!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-common-issues-resolving-youtube-not-responding-on-your-android-device/"><u>Troubleshooting Common Issues: Resolving 'YouTube Not Responding' On Your Android Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-successfully-viewing-your-downloaded-youtube-content/"><u>Troubleshooting Guide: Successfully Viewing Your Downloaded YouTube Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-silent-playback-resolving-the-no-audio-issue-on-media-player-windows-10/"><u>Troubleshooting Silent Playback: Resolving the No Audio Issue on Media Player Windows 10</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/turn-the-screws-right-youtube-video-rotation-for-all-angles-for-2024/"><u>Turn the Screws Right YouTube Video Rotation for All Angles for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/two-effective-methods-for-capturing-your-dota-2-matches-in-windows/"><u>Two Effective Methods for Capturing Your Dota 2 Matches in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-steps-to-successfully-remove-audio-from-videos/"><u>Ultimate Guide: Steps to Successfully Remove Audio From Videos</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New Solutions for Renderer Setup Failures in 2Eighty-One Technology Fixes
-date: 2024-09-05T10:05:44.288Z
-updated: 2024-09-06T10:05:44.288Z
+date: 2024-12-24T21:37:01.506Z
+updated: 2024-12-28T12:40:42.579Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes New Solutions for Renderer Setup Failures in 2Ei
 thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3ba69f4885da8723ba49d2002.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step-by-Step Solutions to Resolve Origin Games Configuration Errors
 
 Continuously getting the error **“There is a problem with your games setup. Please reinstall your game”** while trying to start or install a game from Origin? You’re definitely not alone! Players from Madden 21, FIFA 21, Mass Effect Legendary Edition and even the new title**Battlefield 2042** have reported having this issue. Although it sounds a little tricky to handle, it’s actually fixable. Below are some fixes for you to try:
@@ -33,18 +27,6 @@ Continuously getting the error **“There is a problem with your games setup. Pl
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/featured-image-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Repair your game
 
  Missing or corrupt game files can cause a wide variety of issues. So you need to make sure they are intact. The feature, repairing games allows you to achieve that goal. It checks your game’s installation and then automatically downloads any replacement or missing files:
@@ -55,9 +37,17 @@ Continuously getting the error **“There is a problem with your games setup. Pl
   
 ![Origin error There is a problem with your game's setup. Please reinstall your game. ](https://images.drivereasy.com/wp-content/uploads/2021/05/repair-game.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This file check can take up to an hour to complete depending on your computer’s hardware. If there are any file issues or corrupt files, it will replace them or download them again.
 
 If that didn’t help, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Clear Origin game cache
 
@@ -70,42 +60,36 @@ If that didn’t help, try the next fix below.
 
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/10/open-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Under the**Processes** tab, look for**Origin, OriginClientService, and OriginWebHelperService** . If they’re on the list, make sure to right-click each and then select**End task** .  
 
 ![how to chear cache on Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/make-sure-Origin-is-fully-closed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
 
  3) Type or paste**%ProgramData%/Origin** and press Enter.  
   
 ![how to clear Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/Origin-ProgramData.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Delete all the files and folders inside it**except for LocalContent** . Do not delete this folder.  
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/do-not-delete-LocalContent.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To delete these files and folders quickly, you can hold the**Windows + A keys** to select all of them. Then hold**Ctrl** and click on**LocalContent** to deselect it. Then you can right-click on the files and folders you selected and choose**Delete** .  
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/delete.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
 
  6) Type or paste**%AppData%** and press Enter.  
@@ -120,12 +104,6 @@ If that didn’t help, try the next fix below.
   
 ![delete Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/click-on-AppData.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  9) Open the**Local** folder and delete the**Origin** folder in here.  
   
 ![delete Origin folder inside LocalData](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder-inside-LocalData.jpg)
@@ -133,6 +111,10 @@ If that didn’t help, try the next fix below.
 10) Restart your PC and log back into Origin.
 
 If this didn’t give you any luck, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update your device drivers
 
@@ -155,22 +137,10 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-device-drivers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. Then resume your installation or launch your game from Origin to check if that error message still appears.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Run Origin as an administrator
 
  There are some situations that your game can’t be installed because your Origin client lacks the administrative privileges. Therefore, you may need to run Origin as an administrator:
@@ -182,23 +152,15 @@ Here’s how to update drivers with Driver Easy:
 ![Run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 If you want to make Origin always run as administrator, take these steps:
 
 * Right-click the Origin client icon on your desktop (or in the Origin directory if not on your desktop and click**Properties** .  
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/always-run-Origin-as-an-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-Origin-as-administrator.jpg)
@@ -217,12 +179,6 @@ If that didn’t help, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/download-media-feature-pack-1200x715.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Not sure which Windows version you’re running? No worries! Follow the steps below to check it out:
 
  1) On your keyboard, press the**Windows + I keys** to open Settings.
@@ -232,6 +188,10 @@ If that didn’t help, move on to the next fix.
  2) Select**About** . Then in the**Windows specifications** section, you’ll find your edition.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/my-windows-version.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -243,8 +203,6 @@ If that didn’t help, move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,4 +210,24 @@ If that didn’t help, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unveiling-the-essentials-of-ios-screen-capture-capabilities/"><u>[New] In 2024, Unveiling the Essentials of Io's Screen Capture Capabilities</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-massive-igtv-audience-engagement-essential-steps/"><u>[Updated] 2024 Approved Mastering Massive IGTV Audience Engagement Essential Steps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-modify-youtube-video-visibility-with-ease/"><u>2024 Approved Modify YouTube Video Visibility with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-common-setbacks-in-the-windows-10-april-2019-version-1903-system-upgrade-process/"><u>Addressing Common Setbacks in the Windows 10 April 2019 (Version 1903) System Upgrade Process</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210889467-dealing-with-unsuccessful-rpcs-learn-how-to-correct-them-here/"><u>Dealing With Unsuccessful RPCs? Learn How To Correct Them Here!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-google-chromes-serious-bug-steps-to-beat-the-scam-alert/"><u>Fixing Google Chrome's Serious Bug: Steps to Beat the Scam Alert</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-football-manager-2n21-game-crashes-on-your-computer-pc/"><u>How to Fix Football Manager 2N21 Game Crashes on Your Computer (PC)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oneplus-ace-2-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 OnePlus Ace 2 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-how-to-get-royalty-free-music-for-your-youtube-videos/"><u>In 2024, How To Get Royalty Free Music for Your YouTube Videos</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/pro-vs-express-which-video-editing-software-reigns-supreme/"><u>Pro Vs. Express Which Video Editing Software Reigns Supreme?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-0x802n200d-windows-update-issue-a-comprehensive-guide/"><u>Resolving the 0X802n200D Windows Update Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-communication-how-ios-18-allows-phone-calls-to-be-recorded-in-app-expert-analysis/"><u>Revolutionizing Communication: How iOS 18 Allows Phone Calls to Be Recorded In-App | Expert Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/swift-fixes-for-windows-installation-troubleshooting/"><u>Swift Fixes for Windows Installation Troubleshooting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-reactivating-a-stuck-keyboard-at-login-window/"><u>Troubleshooting Tips: Reactivating a Stuck Keyboard at Login Window</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-isnt-my-pc-upgrading-to-windows-11-version-1607-troubleshooting-tips/"><u>Why Isn't My PC Upgrading to Windows 11 Version 1607? Troubleshooting Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-typing-woes-repairing-a-malfunctioning-spacebar/"><u>Windows 11 Typing Woes: Repairing a Malfunctioning Spacebar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/xbox-one-controller-and-pc-compatibility-reconciled/"><u>Xbox One Controller & PC Compatibility Reconciled</u></a></li>
+</ul></div>
 

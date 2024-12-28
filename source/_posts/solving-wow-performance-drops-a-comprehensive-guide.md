@@ -1,7 +1,7 @@
 ---
 title: "Solving 'WoW' Performance Drops: A Comprehensive Guide"
-date: 2024-12-20T19:32:11.370Z
-updated: 2024-12-22T22:16:41.437Z
+date: 2024-12-25T12:42:01.525Z
+updated: 2024-12-27T22:43:05.117Z
 tags:
   - win11
   - win10
@@ -51,6 +51,10 @@ There are 3 types of NAT in your PS4:
 
  The PS4 NAT type failed issue can be caused by the incorrect network setting in your PS4, so you can check if your PS4 IP address changed or not. Furthermore, you can manually configure the network settings in your PS4 to make it correct.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **How to check your PS4 IP address?**
 
  If you don’t know your PS4 IP address, and you want to check your PS4 IP address, follow this steps:
@@ -63,9 +67,17 @@ There are 3 types of NAT in your PS4:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a54896526c3a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) You will see the information about the network your PS4 are connecting, including the**IP address** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5489d31cef4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **How to manually configure PS4 network settings?**
 
@@ -91,6 +103,10 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548ba2959d7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Select**Custom** , then**enter the network information** you just noted down.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548bcb007ed.jpg)
@@ -99,21 +115,17 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548c2978106.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  9) Wait for it to update. When you see**Internet settings updated** , select**Test Internet Connection** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548c550a4cb.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  10) You’ll see your PS4 Internet connection and know the**NAT Type** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5488dd7df5a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 2: Enable UPnP for your router**
 
@@ -148,7 +160,7 @@ ipconfig/all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5488dd7df5a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 3: Make your PS4 the DMZ server**
@@ -162,7 +174,7 @@ ipconfig/all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548ca181e7d.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Open your**browser** on PC or mobile phone, then type the**IP address** in your browser, and press**Enter** .
@@ -172,7 +184,7 @@ ipconfig/all
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e42f8c2f134.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Go to**Advanced** \>**Forwarding** , and you’ll see**DMZ** on the left. (Or you can find the DMZ section in other tab according to the different routers.)
@@ -181,17 +193,9 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548e4dac329.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Change the**IP address** to match with the IP address in your PS4\. (If you don’t know your PS4 IP address, click[**here**](#Step1) to know how to check.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548e65a013a.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) If you are using routers that has the**NAT Filtering** option, such as NETGEAR router, you can also click to**open NAT filtering** . (You can skip to the next step if you don’t have this option.)
 
@@ -202,10 +206,6 @@ ipconfig/all
  10) Go to PS4**Settings** \>**Network** \>**Test Internet Connection** , and check if your**NAT Type** is on (you’ll see the Type 1 or Type 2 if it works).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5488dd7df5a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This may get all the network traffic to your PS4 and reduce the network restrictions when using your PS4.
 
@@ -220,7 +220,7 @@ ipconfig/all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548ca181e7d.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Open your**browser** on PC or mobile phone, then type the**IP address** in your browser, and press**Enter** .
@@ -228,6 +228,10 @@ ipconfig/all
  3) Type your**Username** and**Password** , then**login** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e42f8c2f134.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Go to the**forward ports section** (or**ports forwarding** ,**Virtual Server** ,**Applications**  according to different routers).
 
@@ -242,10 +246,6 @@ ipconfig/all
  7) Go to PS4**Settings** \>**Network** \>**Test Internet Connection** , and check your**NAT Type** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5488dd7df5a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  These are the 4 easy methods to solve PS4 NAT type failed. Feel free to comment below to share your ideas. If you have any further questions, please let us know and we’ll see what more we can do to help.
 
@@ -267,22 +267,16 @@ ipconfig/all
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/1723206909000-solved-wmi-provider-host-high-cpu-usage-on-windows-1111-quickly-and-easily/"><u>[Solved] WMI Provider Host: High CPU Usage on Windows 11/11 | Quickly & Easily</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-the-top-10-capture-cards-for-youtube-you-should-know/"><u>[Updated] The Top 10 Capture Cards for YouTube You Should Know</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-oppo-f25-pro-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Oppo F25 Pro 5G</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-iphone-15-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On iPhone 15? Find the Best Solution Here</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/audio-glitch-solutions-eliminating-crackling-sounds-from-computers-speakers-under-windows-os/"><u>Audio Glitch Solutions: Eliminating Crackling Sounds From Computers' Speakers Under Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-changed-network-environment-warning-in-windows-10-easy-guide/"><u>Fix Changed Network Environment Warning in Windows 10 Easy Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-logitechs-unresponsive-vertical-scroll-on-your-device/"><u>How to Repair Logitech's Unresponsive Vertical Scroll on Your Device</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-iphone-6s-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on iPhone 6s Safe and Legal</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-flavorful-frames-principles-of-food-filmmaking/"><u>In 2024, Flavorful Frames Principles of Food Filmmaking</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-play-40c-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Honor Play 40C Lock Screen Password?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-secrets-to-writing-compelling-vlog-dialogues/"><u>In 2024, Secrets to Writing Compelling Vlog Dialogues</u></a></li>
-<li><a href="https://driver-install.techidaily.com/intel-driver-boost-for-win-10781/"><u>Intel Driver Boost for WIN 10/7/8.1</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigate-through-the-0xc000012f-dilemma-quick-fixes-for-a-smooth-windows-experience/"><u>Navigate Through the 0xC000012F Dilemma: Quick Fixes for a Smooth Windows Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-the-problem-of-an-unresponsive-microphone-on-your-pc-or-macbook/"><u>Solve the Problem of an Unresponsive Microphone on Your PC or MacBook</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steelseries-arctis-5-microphone-not-working-heres-how-you-can-fix-it/"><u>SteelSeries Arctis 5 Microphone Not Working? Here's How You Can Fix It!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unblocked-horizons-wows-breakthrough-in-full-spectrum-3d-graphics/"><u>Unblocked Horizons: WoW's Breakthrough in Full-Spectrum 3D Graphics</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-meizu-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Meizu Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-instant-screen-capture-pro-chrome/"><u>[Updated] 2024 Approved Instant Screen Capture Pro (Chrome)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gopro-film-perfection-best-15-lut-list-unveiled/"><u>[Updated] GoPro Film Perfection Best 15 LUT List Unveiled</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/building-your-dream-gaming-rig-expert-tips-and-essential-components/"><u>Building Your Dream Gaming Rig: Expert Tips & Essential Components</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-the-unavailable-remote-procedure-call-error-in-windows-environments/"><u>Diagnosing and Repairing the Unavailable Remote Procedure Call Error in Windows Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-your-current-security-settings-do-not-allow-this-file-to-be-downloaded/"><u>Fixed: Your Current Security Settings Do Not Allow This File to Be Downloaded</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-guide-unraveling-google-podcasts-app/"><u>In 2024, Comprehensive Guide Unraveling Google Podcasts App</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-a2-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi A2 Phone with Broken Screen</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-proven-methods-to-elevate-patient-testimonial-videos/"><u>In 2024, Proven Methods to Elevate Patient Testimonial Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-text-messaging-issues-here-are-10-proven-remedies-for-you/"><u>IPhone Text Messaging Issues? Here Are 10 Proven Remedies for You</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-update-troubles-heres-how-to-fix-installation-errors-effortlessly/"><u>Steam Update Troubles? Here's How to Fix Installation Errors Effortlessly!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-windows-update-problems-for-smooth-operations/"><u>Troubleshoot Windows Update Problems for Smooth Operations</u></a></li>
 </ul></div>
 

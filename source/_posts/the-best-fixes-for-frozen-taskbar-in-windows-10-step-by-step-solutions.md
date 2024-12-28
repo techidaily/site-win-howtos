@@ -1,7 +1,7 @@
 ---
 title: "The Best Fixes for Frozen Taskbar in Windows 10: Step-by-Step Solutions"
-date: 2024-09-05T10:03:00.366Z
-updated: 2024-09-06T10:03:00.366Z
+date: 2024-12-23T15:01:00.064Z
+updated: 2024-12-27T20:39:42.982Z
 tags:
   - win11
   - win10
@@ -13,62 +13,26 @@ excerpt: "This Article Describes The Best Fixes for Frozen Taskbar in Windows 10
 thumbnail: https://thmb.techidaily.com/f55f35329f28573e49eb2c54e3ad586424ba4a61048c3f39de5943b637615a77.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Expert Tips for Resolving the 'Windows 10 Couldn't Be Installed (Error Eb80240020)' Dilemma – Step-by-Step Solutions Included
 
 The**80240020** error happens usually when the Windows 10 files that you downloaded was not complete and the setup process still tried to do the upgrade to Windows 10\. Or it could be that your Windows 10 installation folder is unfinished or corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/error-code-80240020.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Luckily, this is an easy question to solve. Please follow the steps below to get this problem fixed. **Step One**1) Navigate to**C:\\$Windows.\~BT**folder. If you cannot see this folder, please make sure that you have checked the hidden items.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/windows-bt-600x427.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Delete as many files in this folder as you can. You might not be able to delete all the files due to permission issues. 2) Navigate to**C:\\Windows\\SoftwareDistribution\\Download** and delete all the files in this folder. Please note that you don’t have to delete**Download**folder, but rather, you need to delete the content in it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/softwaredistributiondownload.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Type**cmd.exe**in the search box in**Start**panel and right click the option**cmd**and choose**Run as administrator**. ![](https://images.drivereasy.com/wp-content/uploads/2016/08/run-as-administrator.jpg)Click**Yes**at this prompt.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/uac-command-processor.jpg)
 
 4) Type**wuauclt.exe/updatenow**and hit**Enter**key. ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5394edbd33.png) **Step Two** **Warning**: Before you proceed with this step, please make sure that you have back up your registry first just in case any irreversible errors happen. Refer to this post to see[**how to backup and restore your registry**](https://tools.techidaily.com/drivereasy/download/). 1) Press**Windows key**and**R**at the same time, then type in**regedit**and hit**Enter**. When prompted for administrator permission, click**Yes** to continue.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/regedit.png)
 
 2) Then follow the path:   **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate\\OSUpgrade**
@@ -79,12 +43,6 @@ Delete as many files in this folder as you can. You might not be able to delete 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/new-dword-32-bit-value-600x396.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Rename the value to**AllowOSUpgrade**. Then double click the value and set the**Value data**to**1**. Then click**OK**to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58140207aba43-600x394.jpg)
@@ -99,8 +57,6 @@ The steps above also work if you are having a**80080080** or **8024600A**  error
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +64,22 @@ The steps above also work if you are having a**80080080** or **8024600A**  error
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-step-by-step-to-creating-an-unbeatable-biz-youtube-channel/"><u>[New] 2024 Approved Step-by-Step to Creating an Unbeatable Biz YouTube Channel</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-swiveling-screens-mastering-video-rotation-on-instagram/"><u>[New] 2024 Approved Swiveling Screens Mastering Video Rotation on Instagram</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-innovative-approaches-to-ppt-video-captures/"><u>[Updated] In 2024, Innovative Approaches to PPT Video Captures</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/arrayally-master-raid-reconstruction-tool/"><u>ArrayAlly: Master RAID Reconstruction Tool</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-curbing-high-disk-space-usage-from-windows-10-compatibility-telemetry/"><u>Guide: Curbing High Disk Space Usage From Windows 10 Compatibility Telemetry</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-code-24-issue-in-windows-operating-systems-win11-win8-and-win7/"><u>Resolving Code 24 Issue in Windows Operating Systems (Win11, Win8 & Win7)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-repairing-broken-windows-11-operating-system-components/"><u>Step-by-Step Solutions for Repairing Broken Windows 11 Operating System Components</u></a></li>
+<li><a href="https://network-issues.techidaily.com/steps-to-eliminate-black-screen-complications/"><u>Steps to Eliminate Black Screen Complications</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-windows-10-0x80240034-error-during-updates/"><u>Ultimate Guide: Resolving Windows 10 0X80240034 Error During Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlock-the-potential-of-system-file-checker-sfc-and-deployment-image-servicing-dism-for-seamless-windows-10-recovery/"><u>Unlock the Potential of System File Checker (SFC) and Deployment Image Servicing (DISM) for Seamless Windows 10 Recovery</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

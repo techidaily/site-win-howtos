@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Intel Rapid Storage Technology When It Stops Working in Windows 11
-date: 2024-09-05T10:08:50.342Z
-updated: 2024-09-06T10:08:50.342Z
+date: 2024-12-21T08:13:16.374Z
+updated: 2024-12-28T01:43:28.831Z
 tags:
   - win11
   - win10
@@ -34,24 +34,12 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Unmake recent changes
 
  If your touchpad cursor disappears all of a sudden, you’ll first need to recall if any recent changes to your computer caused the problem. For instance, recent Windows updates, touchpad-related driver updates, new software programs added, new hardware devices added, etc.
 
  If you don’t recall any recent changes made to your computer, the latest Windows update(s) and touchpad-related driver are always the first places you should be looking at. Here is how you can unmake the changes to see if it helps to bring back your touchpad cursor:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1.1 Uninstall Windows Update(s)
 
 1. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control panel** and hit **Enter.**  
@@ -59,38 +47,34 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
 2. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
 3. Click **View installed updates** on the right pane.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-40.png)
 4. Click the **Uninstall**  button to remove the latest Windows update patch before the touchpad cursor disappears.  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-41.png)
 5. Restart your computer afterward.
 
  See if your touchpad cursor is back after uninstalling the last Windows update. If the problem remains, please move on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.2 Uninstall touchpad-related driver
 
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Mice and other pointing devices** category, then right-click your touchpad device and select**Uninstall device** .  
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-77.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your computer for the older touchpad driver to be installed by Microsoft automatically.
 
  Then see if your touchpad cursor still disappears. If so, please move further.
@@ -98,11 +82,9 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Restart the touchpad with the function keys
 
  If the touchpad cursor disappears on your computer without you making any changes to your computer, you can try to re-enable the touchpad feature with the function keys.
@@ -111,26 +93,8 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-78.png)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-79.png)
 
  When the touchpad feature is turned off or on by the function key(s), there’s usually a notification that tells you such on your screen, like this:
@@ -138,17 +102,9 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-81.png)
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you don’t see such a message on your computer, and your touchpad cursor remains missing, please move on.
 
 ---
@@ -162,14 +118,18 @@ To do so:
 1. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control panel** and hit **Enter.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-9.png)
 2. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
 3. Click your remote control or screen recording software, then **Uninstall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-77.png)
 4. Repeat the same until you uninstall all remote control and screen recording software programs.
 5. Restart your computer afterward.
@@ -178,12 +138,6 @@ Then see if your touchpad cursor still disappears. If so, please move on.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Update touchpad driver
 
  An outdated or incorrect touchpad driver could also be the reason why your touchpad cursor disappears, so if the above methods don’t help to restore your touchpad cursor back, it’s likely that you have a corrupted or outdated touchpad driver. So you should update your drivers to see if it helps.
@@ -205,18 +159,6 @@ Then see if your touchpad cursor still disappears. If so, please move on.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Make sure you can see touchpad in Settings
 
  If you’ve done the above, but your touchpad cursor remains disappeared, it’s possible that the touchpad device itself is gone from your computer. In other words, it’s possible more a hardware issue than a software problem.
@@ -227,11 +169,19 @@ Then see if your touchpad cursor still disappears. If so, please move on.
 2. Select**Bluetooth & devices** , and see if you can find a**Touchpad** card on the right side pane:  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-82.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don’t see a Touchpad tab here, it’s possible that your touchpad hardware is currently not recognized by your computer, which is also why none of the above troubleshooting helps to bring its cursor back.
 
  In that case, you’ll have to consider resetting or reinstalling your computer for the touchpad cursor disappearing problem to be fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset your computer
 
@@ -254,8 +204,6 @@ Then see if your touchpad cursor still disappears. If so, please move on.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -263,4 +211,19 @@ Then see if your touchpad cursor still disappears. If so, please move on.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-comedy-codex-a-practical-tutorial-for-gif-creation/"><u>[New] 2024 Approved The Comedy Codex A Practical Tutorial for GIF Creation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-the-possibilities-with-dual-screen-watching-on-netflix/"><u>[New] Explore the Possibilities with Dual-Screen Watching on Netflix</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-comprehensive-look-at-youtuber-snippets/"><u>[Updated] In 2024, A Comprehensive Look at Youtuber Snippets</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-shifting-paradigms-non-youtube-video-hosts/"><u>2024 Approved Shifting Paradigms Non-Youtube Video Hosts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/detailed-tutorial-fixing-driverpowerstatefailure-complications-on-your-pc/"><u>Detailed Tutorial: Fixing DRIVER_POWER_STATE_FAILURE Complications on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-resolution-correcting-the-no-entry-point-found-warning-in-windows/"><u>Error Resolution: Correcting the 'No Entry Point Found' Warning in Windows</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/explizite-hard-und-softwareanforderungen-von-winxvideo-ai-originaltechnische-dokumentation/"><u>Explizite Hard- Und Softwareanforderungen Von WinXVideo AI: Originaltechnische Dokumentation</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/mastering-windows-registry-maintenance-tips-and-techniques-for-optimal-performance-yl-computings-guide/"><u>Mastering Windows Registry Maintenance: Tips & Techniques for Optimal Performance - YL Computing's Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/redeem-space-increase-your-games-performance-on-pc-with-larger-pagefile-settings/"><u>Redeem Space: Increase Your Game's Performance on PC with Larger Pagefile Settings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionize-your-workflow-the-top-7-digital-tokens-makers-for-2024/"><u>Revolutionize Your Workflow - The Top 7 Digital Tokens Makers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-non-responsive-brightness-settings-on-windows-11/"><u>Troubleshooting: Fixing Non-Responsive Brightness Settings on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-fixing-window-10-touchpad-scrolling-problems/"><u>Ultimate Guide: Fixing Window 10 Touchpad Scrolling Problems</u></a></li>
+</ul></div>
 

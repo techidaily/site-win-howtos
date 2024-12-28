@@ -1,7 +1,7 @@
 ---
 title: "Master the Fix for Windows 11 Update Error: Understanding and Solving 0X80240034"
-date: 2024-12-18T17:54:33.944Z
-updated: 2024-12-22T20:18:06.304Z
+date: 2024-12-24T00:33:59.634Z
+updated: 2024-12-28T09:55:41.517Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ Please click the solution according to your Windows operating system.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## For Windows 8 users: Restore AUInstallAgent directory in the Windows Folder
 
  0x80073cf9 could be probably caused by the missing AUInstallAgent directory in your Windows 8\.
@@ -46,16 +50,12 @@ To restore it:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af9ed488157.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click on the blank area to click **New** , then **Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af9f67c0fe4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click**Yes**  when prompted by User Account Control.
 
@@ -65,10 +65,6 @@ To restore it:
 
  6) Reboot your Windows 8\. Then go to the Windows App Store to install the app again to see if it’s successful.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## For Windows 10/8.1 users: Restore AppReadiness directory in the Windows Folder
 
  0x80073cf9 could be probably caused by the missing AppReadiness directory in your Windows 10 or 8.1\.
@@ -77,17 +73,21 @@ To restore it:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **E** at the same time to invoke the File Explorer window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Go to **This PC**  \> **Local Disk (C:)**  \> **Windows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af9ed488157.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **3) Right-click on the blank area to click New, then Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af9f67c0fe4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**Yes**  when prompted by User Account Control.
 
@@ -96,7 +96,7 @@ To restore it:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afa57cdd600.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Reboot your Windows 10/8.1\. Then go to the Windows App Store to install the app again to see if it’s successful.
@@ -118,24 +118,22 @@ To restore it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-taming-figmas-backgrounds-a-comprehensive-guide-for-2024/"><u>[New] Taming Figma's Backgrounds A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-night-light-not-working-on-windows-1011/"><u>[SOLVED] Night Light Not Working on Windows 10/11</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-iphones-leading-selfie-aids-8-edition/"><u>[Updated] 2024 Approved Iphone's Leading Selfie Aids - #8 Edition</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-surge-in-subscribers-effective-youtube-campaigns/"><u>[Updated] 2024 Approved Surge in Subscribers Effective YouTube Campaigns</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-beyond-the-hype-facebooks-most-critical-24-trends/"><u>[Updated] In 2024, Beyond the Hype – Facebook's Most Critical '24 Trends</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-the-ultimate-compilation-of-top-7-android-adblocking-apps/"><u>2024 Approved The Ultimate Compilation of Top 7 Android AdBlocking Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conquering-the-blue-screen-of-death-fix-your-windows-0xc0000098-error-today/"><u>Conquering the Blue Screen of Death: Fix Your Windows 0xC0000098 Error Today!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-microsofts-wireless-display-not-connecting-issue-on-pcs-with-windows-10/"><u>Effective Solutions to Microsoft's Wireless Display Not Connecting Issue on PCs with Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-to-repair-serious-bugs-in-call-of-duty-black-ops-4/"><u>Expert Tips to Repair Serious Bugs in Call of Duty: Black Ops 4</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-no-battery-found-problem-fast-and-simple-solutions/"><u>Fix 'No Battery Found' Problem: Fast and Simple Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-get-your-lenovo-mouse-pad-up-and-running-again-on-windows-systems-windows-10-8-7/"><u>How to Get Your Lenovo Mouse Pad Up & Running Again on Windows Systems (Windows 10, 8, 7)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-for-unable-to-start-application-correctly-0xc000007b-expert-tips-and-tricks/"><u>Mastering the Fix for 'Unable to Start Application Correctly (0xC000007B)': Expert Tips & Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-when-file-explorer-freezes-on-windows-10/"><u>Quick Fixes for When File Explorer Freezes on Windows 10</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722531478279-review-of-7-days-to-die-revolutionizing-zombie-lore-with-endless-challenges-and-sandbox-fun/"><u>Review of '7 Days to Die' - Revolutionizing Zombie Lore with Endless Challenges & Sandbox Fun!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-computers-the-game-changing-intel-ai-processor-with-amazing-perks-for-your-future-laptop/"><u>Revolutionizing Computers: The Game-Changing Intel AI Processor with Amazing Perks for Your Future Laptop</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-guide-booting-windows-8-into-safe-mode-and-removing-graphics-drivers/"><u>Step-by-Step Guide: Booting Windows 8 Into Safe Mode & Removing Graphics Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tackle-stubborn-valorant-errors-with-system-reset/"><u>Tackle Stubborn Valorant Errors with System Reset</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/unlock-your-potential-dominant-tiktok-campaigns-and-techniques/"><u>Unlock Your Potential Dominant TikTok Campaigns and Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-securing-your-youtube-footage-a-quick-walkthrough/"><u>[New] Securing Your YouTube Footage A Quick Walkthrough</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win-info.techidaily.com/data-restoration-solutions-compatible-with-windows-781011/"><u>Data Restoration Solutions: Compatible with Windows 7/8/10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-and-fixing-the-red-alert-on-your-device-a-step-by-step-guide/"><u>Decoding and Fixing the Red Alert on Your Device - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-long-shutdown-times-in-windows-10/"><u>Diagnosing and Repairing Long Shutdown Times in Windows 10</u></a></li>
+<li><a href="https://fox-http.techidaily.com/expert-tips-for-smooth-cross-sounding-with-audacity/"><u>Expert Tips for Smooth Cross-Sounding with Audacity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-wifi-not-working-easy-guide/"><u>How to Fix WiFi Not Working [Easy Guide]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-when-your-igfxem-functionality-halted-unexpectedly/"><u>How to Repair When Your 'IgfxEM' Functionality Halted Unexpectedly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-player-cannot-load-content-issue-on-windows-systems/"><u>How to Resolve the 'Player Cannot Load Content' Issue on Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-overcome-the-windows-update-error-0x8024402c-effective-fixes-inside/"><u>How To Successfully Overcome the Windows Update Error 0X8024402c: Effective Fixes Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/icue-gadget-recognition-failure-diagnosis-and-repair-techniques-revealed/"><u>ICUE Gadget Recognition Failure: Diagnosis and Repair Techniques Revealed</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-meizu-21-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Meizu 21 for Parents | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-choices-a-comprehensive-guide-to-ipad-pro-and-macbook-air-features/"><u>Navigating the Choices: A Comprehensive Guide to IPad Pro and MacBook Air Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-reviving-the-lights-on-your-corsair-keyboard/"><u>Solved: Reviving the Lights on Your Corsair Keyboard</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/spanish-for-beginners-easy-to-learn-10-basic-salutations-and-greetings/"><u>Spanish For Beginners: Easy-To-Learn 10 Basic Salutations And Greetings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tuneful-timelines-music-in-imovie-editing-journey/"><u>Tuneful Timelines Music in iMovie Editing Journey</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo T2 5G? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "DIY Fix: How to Restore Functionality of Your Unresponsive Corsair HS50 Microphone"
-date: 2024-12-17T17:46:39.666Z
-updated: 2024-12-23T00:29:53.294Z
+date: 2024-12-21T08:13:11.662Z
+updated: 2024-12-28T13:49:06.228Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I fix Xbox One Headset Not Working?
 
  This article covers 5 tired-and-true methods for you to try. You may not need to try them all. Just start from the top and work your way down. You Xbox One headset may work fine again.
@@ -39,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 5. [Try using a different controller or headset](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1\. Make sure the headset is not muted
@@ -49,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
  Please check the mute button on the headset adapter or the one in the middle of headset cable. You can try to press the mute button to see if there is sound.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5991543d8fdf2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2\. Update Xbox One controller to make sure you have the latest software
 
@@ -80,6 +72,10 @@ Follow the steps here to update your Xbox One controller software.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915bfa7e24c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now Windows will detect the update for your controller automatically.
 
  For some reasons, Microsoft cannot find the update for you. In order not to missing the update, you can try**Driver Easy** .
@@ -95,20 +91,24 @@ With Pro version: Click **Update All**  to automatically download and install th
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915e0fb9762.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3\. Check your device’s connection
 
  If the connection between your devices, it will also cause the issue. Please check the connection between your headset adapter and the controller, and also the connection between your headset adapter and headset cable. Make sure the connections are firm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 4\. Make sure your controller has fresh batteries
 
  When the batteries of your controller become weak, your headset could not work properly, either. In such case, you can try replace with new batters for you controller to see if the headset works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 5\. Try using a different controller
 
@@ -131,15 +131,16 @@ With Pro version: Click **Update All**  to automatically download and install th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/revised-effective-solutions-for-combatting-minecrafts-slowdown-problems/"><u>[REVISED] Effective Solutions For Combatting Minecraft's Slowdown Problems</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-streamlining-video-playback-with-safaris-pip/"><u>[Updated] 2024 Approved Streamlining Video Playback with Safari's PIP</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-dive-into-periscope-no-cost-entry-and-user-account-setup-steps-for-2024/"><u>[Updated] Dive Into Periscope No Cost Entry & User Account Setup Steps for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypass-and-repair-addressing-the-lenovo-function-key-issues-effectively/"><u>Bypass and Repair: Addressing the Lenovo Function Key Issues Effectively</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/coding-aide-comparison-github-copilot-and-chatgpt-face-off/"><u>Coding Aide Comparison: GitHub Copilot and ChatGPT Face-Off</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-guide-to-downloading-updated-drivers-for-hp-officejet-pro-e8610-on-windows-operating-systems-1087xpvista/"><u>Complete Guide to Downloading Updated Drivers for HP OfficeJet Pro E8610 on Windows Operating Systems (10/8/7/XP/Vista)</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211372484-9781921878848-crystals/"><u>Crystals | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-rectifying-yellow-screen-disruptions-on-windows/"><u>Mastering the Art of Rectifying Yellow Screen Disruptions on Windows ☠️</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-challenges-in-teredo-tunneling-protocol-implementation/"><u>Overcoming Challenges in Teredo Tunneling Protocol Implementation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-you-should-think-twice-before-asking-chatgpt-medical-questions-key-issues-uncovered/"><u>Why You Should Think Twice Before Asking ChatGPT Medical Questions - Key Issues Uncovered</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-prime-cinematic-creator-a-symphony-of-sights-and-sounds/"><u>[New] 2024 Approved Prime Cinematic Creator A Symphony of Sights & Sounds</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-desktop-recording-head-to-head-obs-vs-shadowplay/"><u>[Updated] In 2024, Desktop Recording Head-to-Head OBS Vs. ShadowPlay</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harnessing-the-power-of-post-production-colors/"><u>2024 Approved Harnessing the Power of Post-Production Colors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-dilemma-decoded-restoring-connection-between-your-keyboard-and-pc/"><u>Bluetooth Dilemma Decoded: Restoring Connection Between Your Keyboard & PC</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-youtubes-video-editor-integrating-tracks-into-your-videos/"><u>In 2024, Mastering YouTube's Video Editor Integrating Tracks Into Your Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-lava-blaze-2-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Lava Blaze 2 FRP Bypass</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203811582-regain-bluetooth-connectivity-in-windows-10-fast-and-straightforward-methods/"><u>Regain Bluetooth Connectivity in Windows 10: Fast & Straightforward Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-crackling-sound-problems-with-speakers-in-windows-operating-systems/"><u>Troubleshooting and Fixing Crackling Sound Problems with Speakers in Windows Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-the-0xc19e0208-error-during-windows-10-updates-tips-and-tricks/"><u>Troubleshooting and Resolving the 0xC19e0208 Error During Windows 10 Updates: Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-when-your-internet-explorer-isnt-working/"><u>Troubleshooting: When Your Internet Explorer Isn't Working</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-online-seminar-title-crafter-for-2024/"><u>Ultimate Online Seminar Title Crafter for 2024</u></a></li>
 </ul></div>
 

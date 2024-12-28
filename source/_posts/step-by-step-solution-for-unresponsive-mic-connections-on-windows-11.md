@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Unresponsive Mic Connections on Windows 11
-date: 2024-12-20T18:40:53.604Z
-updated: 2024-12-22T17:09:23.092Z
+date: 2024-12-23T13:30:03.833Z
+updated: 2024-12-27T17:49:05.742Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/a6e5c2635593081e4b6078ab257c66dc8d161f27c
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
 
@@ -43,6 +47,10 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
@@ -52,10 +60,6 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -71,13 +75,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -103,11 +107,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -122,10 +134,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -134,17 +142,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -184,16 +184,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-masterful-mac-livestream-tech-best-of-the-best-ranked-1-to-5/"><u>[Updated] 2024 Approved Masterful Mac Livestream Tech Best of the Best, Ranked 1 to 5</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-your-steelseries-arctis-5-headset-microphone-expert-advice/"><u>Diagnosing and Repairing Your SteelSeries Arctis 5 Headset Microphone: Expert Advice</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/essential-list-7-cost-free-video-tags-extractors-on-youtube-for-2024/"><u>Essential List 7 Cost-Free Video Tags Extractors on YouTube for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-why-copy-paste-functionality-isnt-working-on-windows-11/"><u>Fixing the Issue: Why Copy-Paste Functionality Isn't Working on Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-your-android-a-guide-to-navigating-quick-settings/"><u>Mastering Your Android: A Guide to Navigating Quick Settings</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-how-can-you-change-your-voice/"><u>New In 2024, How Can You Change Your Voice?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722971718561-potential-challenges-in-domesticating-this-fungus-outside-its-natural-habitat-and-strategies-for-overcoming-these-difficulties/"><u>Potential Challenges in Domesticating This Fungus Outside Its Natural Habitat and Strategies for Overcoming These Difficulties.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-steps-for-applicationexe-has-stopped-working-issue-on-your-computer/"><u>Solution Steps for 'Application.exe Has Stopped Working' Issue on Your Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/touch-deficit-on-hid-certified-device-rectified/"><u>Touch Deficit on HID-Certified Device Rectified</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-when-your-printscreen-key-fails-on-win10win11-systems/"><u>Troubleshooting Tips for When Your PrintScreen Key Fails on Win10/Win11 Systems</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-avs-video-editor-2023-review-a-beginners-guide-to-video-editing-software/"><u>Updated In 2024, AVS Video Editor 2023 Review A Beginners Guide to Video Editing Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-quickguide-optimizingyoucamrecord/"><u>[Updated] 2024 Approved QuickGuide OptimizingYouCamRecord</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-how-to-achieve-complete-volume-on-fb-media-shows/"><u>2024 Approved How to Achieve Complete Volume on Fb Media Shows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-optimize-your-communication-scheduling-and-planning-with-ease-google/"><u>2024 Approved Optimize Your Communication Scheduling & Planning with Ease (Google)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-oppo-a1-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/audience-engagement-on-demand-top-5-mac-streaming-tools-for-2024/"><u>Audience Engagement On Demand Top 5 Mac Streaming Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/demystifying-cinavia-anti-piracy-measures-methods-for-removing-cinavy-restrictions-safely/"><u>Demystifying Cinavia Anti-Piracy Measures: Methods for Removing Cinavy Restrictions Safely</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-windows-11-bluetooth-pairing-glitches-with-these-expert-tips/"><u>Fix Your Windows 11 Bluetooth Pairing Glitches with These Expert Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/improved-performance-fixing-windows-drivers-to-curb-cpu-overuse-issues/"><u>Improved Performance: Fixing Window's Drivers to Curb CPU Overuse Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-msmpengexe-high-cpu-usage-in-windows-11/"><u>Resolved! MsMpEng.exe High CPU Usage in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-complete-cheat-sheet-for-overcoming-the-notorious-steam-black-screen-glitch/"><u>The Complete Cheat Sheet for Overcoming the Notorious Steam Black Screen Glitch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-windows-10-update-error-0x80240034/"><u>Troubleshooting Guide for Windows 10 Update Error - 0X80240034</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/what-to-do-when-itunes-ends-expert-guides-to-shifting-your-ios-content-without-issues/"><u>What To Do When iTunes Ends: Expert Guides to Shifting Your iOS Content Without Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209469688-windows-10-touchpad-not-scrolling-heres-how-to-solve-it/"><u>Windows 10 Touchpad Not Scrolling? Here’s How to Solve It</u></a></li>
 </ul></div>
 

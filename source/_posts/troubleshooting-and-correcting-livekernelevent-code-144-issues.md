@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Correcting LiveKernelEvent Code 144 Issues
-date: 2024-12-19T21:36:50.780Z
-updated: 2024-12-22T22:20:46.590Z
+date: 2024-12-21T02:42:34.647Z
+updated: 2024-12-27T16:26:07.951Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 3. **[Turn off USB selective suspend](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Change power management settings for USB Root Hubs](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Do some basic troubleshooting
 
  You may encounter this problem because of physical issues. It can be that your USB device happens to be faulty or the USB port you’re plugging your devices into are failing.
@@ -56,23 +60,19 @@ To rule out this as a possibility:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and check if the**USB keeps disconnecting** issue has been resolved. If yes, then congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Turn off USB selective suspend
 
@@ -88,13 +88,13 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
 
@@ -112,25 +112,25 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
@@ -156,19 +156,14 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-cash-flow-estimator-apps-for-2024/"><u>[New] Free Cash Flow Estimator Apps for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-10-open-source-video-player-for-linux-windows-and-mac/"><u>[Updated] 10 Open Source Video Player for Linux, Windows and Mac</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-leverage-seo-power-secrets-of-effective-youtube-backlink-building/"><u>[Updated] Leverage SEO Power Secrets of Effective YouTube Backlink Building</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-mastering-tiktok-step-by-step-caption-techniques/"><u>[Updated] Mastering TikTok Step-by-Step Caption Techniques</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-nord-n30-se-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus Nord N30 SE Activity | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-spontaneous-bootups-in-windows-11-computers/"><u>Diagnosing and Fixing Spontaneous Bootups in Windows 11 Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-speed-up-your-pcs-shut-down-process-in-windows-10/"><u>How to Speed Up Your PC's Shut Down Process in Windows # 10</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-audiovisual-alchemy-transform-your-footage-with-these-5-vimeo-editing-methods/"><u>In 2024, Audiovisual Alchemy Transform Your Footage with These 5 Vimeo Editing Methods</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-essential-tactics-for-elevating-your-facebook-profile-ranks/"><u>In 2024, Essential Tactics for Elevating Your Facebook Profile Ranks</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-z-flip-5-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy Z Flip 5 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211749623-sd-card-unseen-solutions-await/"><u>SD Card Unseen? Solutions Await</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-unrecognized-hardware-error-code-24-in-windows-operating-systems/"><u>Troubleshooting: Unrecognized Hardware (Error Code 24) in Windows Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unstick-the-infinite-load-screen-in-valorant-using-proven-strategies/"><u>Unstick the Infinite Load Screen in Valorant Using Proven Strategies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210052370-win-10-update-issues-clear-the-corrupted-store-cache-solved/"><u>Win 10 Update Issues? Clear the Corrupted Store Cache - Solved</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-assessing-free2x-recording-software-quality/"><u>2024 Approved Assessing Free2X Recording Software Quality</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-simplest-route-to-podcast-broadcasts/"><u>2024 Approved The Simplest Route to Podcast Broadcasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026703106-720p1080p/"><u>高解像度への移行 - 720Pビデオを1080pにアップコンバートする手順</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026518358-wonderfox/"><u>現在ある限り、WonderFoxで受けられるオンライン上の専門知識と最新ニュース</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/weband/"><u>最新のWeb動画ダウンロード&保存ツール、無料オンラインリファレンスガイド</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-8-plus-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 8 Plus</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-ultimate-slomo-app-assessment-insights/"><u>In 2024, Ultimate SloMo App Assessment - Insights</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-tecno-camon-20-premier-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Tecno Camon 20 Premier 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/xbox-one-disc-error-troubleshooting-latest-solutions-for-reading-problems-as-of-april-2024/"><u>Xbox One Disc Error Troubleshooting - Latest Solutions for Reading Problems as of April 2024</u></a></li>
 </ul></div>
 

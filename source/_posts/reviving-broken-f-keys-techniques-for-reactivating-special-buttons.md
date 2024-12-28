@@ -1,7 +1,7 @@
 ---
 title: "Reviving Broken F-Keys: Techniques for Reactivating Special Buttons"
-date: 2024-09-05T10:04:34.168Z
-updated: 2024-09-06T10:04:34.168Z
+date: 2024-12-21T12:36:06.662Z
+updated: 2024-12-28T12:16:44.741Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Reviving Broken F-Keys: Techniques for Reactiva
 thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75aedffe72b83d7d3b1179de6.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Overcoming Frequent Device Disconnection: A Comprehensive Approach to Troubleshooting USB Connectivity
 
 **USB keeps disconnecting** on your computer? Don’t worry, it’s actually quite easy to fix…
@@ -33,17 +27,9 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 4. **[Change power management settings for USB Root Hubs](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Do some basic troubleshooting
 
  You may encounter this problem because of physical issues. It can be that your USB device happens to be faulty or the USB port you’re plugging your devices into are failing.
@@ -74,11 +60,9 @@ To rule out this as a possibility:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also click Update to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and check if the**USB keeps disconnecting** issue has been resolved. If yes, then congrats! If the issue persists, please move on to**Fix 3** , below.
@@ -95,16 +79,14 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
@@ -113,12 +95,6 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
 ---
@@ -132,21 +108,17 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
@@ -155,12 +127,6 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
 ---
@@ -176,8 +142,6 @@ To make sure you’ve this setting disabled:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +149,26 @@ To make sure you’ve this setting disabled:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-ultimate-guide-to-creating-click-enticing-youtube-thumbnails/"><u>[Updated] In 2024, The Ultimate Guide to Creating Click-Enticing YouTube Thumbnails</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-breathing-life-into-images-mastering-face-motion-blur-in-picsart/"><u>2024 Approved Breathing Life Into Images Mastering Face Motion Blur in Picsart</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/elevating-your-podcasts-online-presence-via-seo-for-2024/"><u>Elevating Your Podcast's Online Presence via SEO for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ending-the-headache-correcting-minecrafts-unexpected-shutdowns-by-improving-your-graphics-drivers-in-windows/"><u>Ending the Headache: Correcting Minecraft's Unexpected Shutdowns by Improving Your Graphics Drivers in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-restoring-functionality-to-a-broken-dell-laptop-keyboard/"><u>Expert Advice: Restoring Functionality to a Broken Dell Laptop Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-non-functional-laptop-mic-solutions-and-tips/"><u>Fixing a Non-Functional Laptop Mic: Solutions and Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-excessive-msmpengineexe-cpu-consumption-in-windows-10/"><u>How to Fix Excessive MsMpEngine.exe CPU Consumption in Windows 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-repair-inaccessible-facebook-playback-icon/"><u>In 2024, Repair Inaccessible Facebook Playback Icon</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/skyrim-load-screen-never-ending-problem-solutions-that-work/"><u>Skyrim Load Screen Never-Ending Problem? Solutions That Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-internet-explorer-stopped-responding-a-step-by-step-guide/"><u>Solving 'Internet Explorer Stopped Responding' - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-installing-and-keeping-up-with-microsoft-drivers-on-windows-11-8-or-7/"><u>Step-by-Step: Installing & Keeping Up with Microsoft Drivers on Windows 11, 8 or 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tips-for-eliminating-flickering-image-issues-in-windows-10/"><u>Tips for Eliminating Flickering Image Issues in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-user-profile-service-sign-in-issues-in-windows-11-versions/"><u>Troubleshooting User Profile Service Sign-In Issues in Windows 11 Versions</u></a></li>
+<li><a href="https://common-error.techidaily.com/what-is-runtime-broker-and-fix-its-high-cpu-error-on-windows-11-solved/"><u>What Is Runtime Broker and Fix Its High CPU Error on Windows 11 [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-frozen-windows-update-jump-past-0/"><u>Winning the Battle Against Frozen Windows Update: Jump Past 0%</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/yl-software-insights-how-to-fix-and-prevent-blank-page-printouts-effectively/"><u>YL Software Insights: How to Fix and Prevent Blank Page Printouts Effectively</u></a></li>
+</ul></div>
 

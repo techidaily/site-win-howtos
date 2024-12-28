@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting 'No Playable Sources Detected' Error in Windows - Solutions Guide
-date: 2024-09-05T10:05:36.317Z
-updated: 2024-09-06T10:05:36.317Z
+date: 2024-12-25T01:06:20.810Z
+updated: 2024-12-27T22:04:11.421Z
 tags:
   - win11
   - win10
@@ -13,23 +13,15 @@ excerpt: This Article Describes Troubleshooting 'No Playable Sources Detected' E
 thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac79f6588ee6f56110294810a.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshooting Undetected External Monitors in Windows 7 - Solved
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a7fe337d87.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There’re many reasons that you connect your Windows 7 computer with two monitors, like creating a more immersive gaming experience. So if**Windows 7 doesn’t detect your second monitor** , that would be super bothersome. But don’t worry. In this post, you’ll be relieved to know it’s easy to fix. Read on and find how…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for Second monitor not detected in Windows 7
 
@@ -40,12 +32,6 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Adjust your display settings
 
  When Windows 7 doesn’t detect your second monitor, probably it’s simply because your**second monitor is not enabled in the display settings** . Follow to adjust your display settings:
@@ -56,15 +42,13 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a812a6c131.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Display** when choose to View by**Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a817eeda01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**Adjust resolution** .
 
@@ -75,16 +59,18 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8387d8ba7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  See if your second monitor is displaying. If your second monitor is detected, great! If it’s still not detected, there’re something else you can try…
 
  This problem could be due to an old, corrupted or missing video driver on your Windows 7 computer. You can try to roll back your video driver to the previous version as **[Method 2](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) shown, or directly update your video driver to the latest version as **[Method 3](https://tools.techidaily.com/drivereasy/download/)**  shown.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Roll back your video driver to the previous version
 
@@ -94,12 +80,6 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a85011b67d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Double-click**Display adapters** . Then**right-click** on your video driver to select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a863c479f5.jpg)
@@ -119,11 +99,9 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Update your video driver to the latest version
 
  If the both methods above fails to help you, you can try to update your video driver to the latest version.
@@ -140,12 +118,6 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5add9a418221e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5add9bc0d1470.jpg)
@@ -156,18 +128,16 @@ Restart your computer to see if your second monitor is displaying.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4: Check if you have the right cable
 
  You should use the right cable for the cable ports of your monitors and computers. Here are the common connection types:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8cceab7ac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  **Make sure you have the right cable connected with your computer and monitors.**
 
 ---
@@ -183,8 +153,6 @@ Restart your computer to see if your second monitor is displaying.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +160,18 @@ Restart your computer to see if your second monitor is displaying.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-innovative-classroom-techniques-utilizing-youtube-effectively/"><u>[New] 2024 Approved Innovative Classroom Techniques Utilizing YouTube Effectively</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-top-ten-cost-free-virtual-chat-solutions-for-teams/"><u>[Updated] In 2024, Top Ten Cost-Free Virtual Chat Solutions for Teams</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-action-to-archive-top-screen-recording-tools-assessed/"><u>2024 Approved Action to Archive Top Screen Recording Tools Assessed</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/a-guide-to-gathering-gold-from-guided-goods-gazes-online/"><u>A Guide to Gathering Gold From Guided Goods' Gazes Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ios-ipados-and-macos-integration-apple-collaborates-with-openai-for-chatgpt-availability/"><u>IOS, iPadOS & MacOS Integration: Apple Collaborates with OpenAI for ChatGPT Availability</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-fixes-for-your-computers-io-error-problems/"><u>Master Fixes for Your Computer's I/O Error Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/professional-maintenance-regularly-scheduled-maintenance-as-recommended-by-the-car-manufacturer-can-help-identify-and-address-any-potential-issues-with-the-36/"><u>Professional Maintenance: Regularly Scheduled Maintenance, as Recommended by the Car Manufacturer, Can Help Identify and Address Any Potential Issues with the Suspension Before They Become Serious Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-microsoft-wireless-display-adapter-problems-on-windows-11/"><u>Step-by-Step Solutions for Microsoft Wireless Display Adapter Problems on Windows 11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/streamlined-approach-upload-your-videos-from-youtube-to-dailymotion/"><u>Streamlined Approach Upload Your Videos From YouTube to Dailymotion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202064045-troubleshooting-steps-resolving-aoc-monitor-compatibility-issues-with-windows-11/"><u>Troubleshooting Steps: Resolving AOC Monitor Compatibility Issues with Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/you-dont-have-permission-to-access-solved/"><u>You Don’t Have Permission to Access [SOLVED]</u></a></li>
+</ul></div>
 

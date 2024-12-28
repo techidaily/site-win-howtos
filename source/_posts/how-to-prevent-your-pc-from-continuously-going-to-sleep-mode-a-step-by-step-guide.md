@@ -1,7 +1,7 @@
 ---
 title: "How to Prevent Your PC From Continuously Going to Sleep Mode: A Step-by-Step Guide"
-date: 2024-12-18T19:56:58.878Z
-updated: 2024-12-22T20:32:38.417Z
+date: 2024-12-25T07:05:14.594Z
+updated: 2024-12-28T14:44:03.694Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 1: Check the power settings
@@ -46,19 +46,15 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 ![Windows 11 - how to open the Control Panel](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 3. **View by** **Large icons** , and click **Power Options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1370b5c7879.jpg)
 4. Click**Change when the computer sleeps** in the left pane.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13709ea5614.jpg)
 5. Choose the sleep and display settings that you want your computer to use.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4a) Change the**Turn off the display** setting to whatever value you desire. You don’t have to set it to Never if you don’t want to.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137143ae4bb.jpg)  
@@ -84,12 +80,16 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13724b1f8d6.jpg)
 3. Click the**Update** button next to a flagged graphics card driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -107,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1372f5918cd.jpg)
 3. Click**Screen saver settings** at the bottom of the window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
@@ -123,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373fd30172.jpg)
 3. Click the**Change screen saver** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
 4. Set**Screen saver** to**None** .  
 
@@ -134,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 5. Check to see if your computer keeps going to sleep.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 4: Change the System unattended sleep timeout to a longer time
 
@@ -148,6 +144,10 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137510499e6.png)  
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
 2. Navigate to the following directory:  
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\238C9FA8-0AAD-41ED-83F4-97BE242C8F20\7bc4a2f9-d8fc-4469-b07b-33eb785aaca0]  
@@ -156,10 +156,6 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
 5. Click the**OK** button.
@@ -177,13 +173,17 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Expand the entry**Sleep** , then expand the entry**System unattended sleep timeout** . The value for this setting will probably be set to 2 minutes –**change it to a longer time** , for example, 30 minutes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376fc0269a.jpg)
 6. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Check to see if the computer keeps going to sleep.
@@ -209,24 +209,22 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-transforming-android-devices-into-broadcast-powerhouses-with-obs/"><u>[New] 2024 Approved Transforming Android Devices Into Broadcast Powerhouses with OBS</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unlocking-the-power-of-pixel-mastery-over-aspect-ratios-and-dimensions-on-facebook-for-2024/"><u>[New] Unlocking the Power of Pixel Mastery over Aspect Ratios & Dimensions on Facebook for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-expert-audacity-tricks-for-premium-audio/"><u>[Updated] Expert Audacity Tricks for Premium Audio</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-improve-instagram-video-loading-times-effectively/"><u>2024 Approved Improve Instagram Video Loading Times Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypass-and-repair-windows-10-youtube-audio-renderer-error-for-smooth-viewing/"><u>Bypass and Repair Windows 10 YouTube Audio Renderer Error for Smooth Viewing</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-samsung-galaxy-m14-4g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Samsung Galaxy M14 4G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-15-pro-to-ipad-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 15 Pro to iPad? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-fixes-effortless-solutions-to-clear-windows-error-code-31/"><u>Mastering Fixes: Effortless Solutions to Clear Windows Error Code 31</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-voicechanger-your-guide-to-tailoring-communication-on-skype-platforms-for-2024/"><u>New VoiceChanger Your Guide to Tailoring Communication on Skype Platforms for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723201792480-pdf-printing-issues-uncover-easy-and-fast-remedies-here/"><u>PDF Printing Issues? Uncover Easy and Fast Remedies Here</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-expert-advice-on-handling-and-resetting-your-computers-video-driver-error/"><u>Resolved! Expert Advice on Handling and Resetting Your Computer's Video Driver Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209201603-resolving-high-cpu-usage-by-msmpengexe-on-windows-10-solved/"><u>Resolving High CPU Usage by MsMpEng.exe on Windows 10 - Solved!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-audio-expert-tips-for-fixing-an-acer-laptop-without-sound-output/"><u>Reviving Audio: Expert Tips for Fixing an Acer Laptop Without Sound Output</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successful-recovery-from-0x8024200d-boosting-windows-update-functionality/"><u>Successful Recovery From 0X8024200d - Boosting Windows Update Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-guide-for-overcoming-error-1068-in-windows-expert-advice-included/"><u>The Ultimate Fix Guide for Overcoming Error 1068 in Windows – Expert Advice Included</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-y17s-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo Y17s Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-resolve-errcachemiss-issues-in-google-chrome/"><u>Troubleshooting Guide: How to Resolve 'ERR_CACHE_MISS' Issues in Google Chrome</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-the-dbghelpdll-not-found-error-on-your-computer/"><u>Troubleshooting the 'dBghelp.dll Not Found' Error on Your Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-defender-smartscreen-temporarily-unavailable/"><u>Troubleshooting: Windows Defender SmartScreen Temporarily Unavailable</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-hot-tunes-essential-background-scores-for-viral-yt-shorts/"><u>[New] 2024 Approved Hot Tunes Essential Background Scores For Viral YT Shorts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-elevate-your-social-storytelling-with-added-musicality/"><u>[New] Elevate Your Social Storytelling with Added Musicality</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-firefox-screen-recorders-and-add-ons-for-2024/"><u>[Updated] Firefox Screen Recorders and Add-Ons for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/156-pixel-photo-wonders-from-100-instants-2024/"><u>156-Pixel Photo Wonders From $100 Instants, 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-apple-watch-se-evaluation/"><u>Budget-Friendly Apple Watch SE Evaluation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-error-8007000e-easy-solutions-for-windows-users-needing-updates-now/"><u>Bypassing Error 8007000E: Easy Solutions for Windows Users Needing Updates Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-no-more-a-comprehensive-fix-for-monitor-input-errors/"><u>Error No More: A Comprehensive Fix for Monitor Input Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-usb-mouse-working-again-on-your-laptop-expert-advice/"><u>How to Get Your USB Mouse Working Again on Your Laptop – Expert Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-problems-with-windows-resource-protection-not-performing-operations/"><u>How to Overcome Problems with Windows Resource Protection Not Performing Operations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-icue-undetected-hardware-problems-successfully/"><u>How to Resolve ICUE Undetected Hardware Problems Successfully</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-m14-4g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy M14 4G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/magix-vpx-the-ultimate-software-showdown-for-2024/"><u>Magix VPX The Ultimate Software Showdown for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/metal-linings-such-as-copper-alloys-can-form-tight-seals-and-offer-strength-making-them-suitable-for-a-variety-of-applications/"><u>Metal Linings Such as Copper Alloys Can Form Tight Seals and Offer Strength, Making Them Suitable for a Variety of Applications.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-sound-in-steam-games-quick-troubleshooting-techniques-will-help/"><u>No Sound in Steam Games? Quick Troubleshooting Techniques Will Help</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-laptops-speaker-pop-and-crackle-problem-in-windows-107-effortlessly/"><u>Resolve Your Laptop's Speaker Pop & Crackle Problem in Windows 10/7 Effortlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-repairing-hp-laptop-camera-issues-on-windows-11/"><u>Step-by-Step Tutorial for Repairing HP Laptop Camera Issues on Windows 11</u></a></li>
 </ul></div>
 

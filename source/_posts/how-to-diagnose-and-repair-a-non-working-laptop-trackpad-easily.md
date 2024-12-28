@@ -1,7 +1,7 @@
 ---
 title: How to Diagnose and Repair a Non-Working Laptop Trackpad Easily
-date: 2024-09-05T10:02:24.783Z
-updated: 2024-09-06T10:02:24.783Z
+date: 2024-12-22T09:02:27.588Z
+updated: 2024-12-27T23:10:49.654Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes How to Diagnose and Repair a Non-Working Laptop 
 thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8ba9bd42eb42d2b4118536e73.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Cracking the Code to Successfully Register Classes on Windows 10 - Detailed Fixes Revealed
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90d415e22e7.jpg)
@@ -35,15 +29,13 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 4. [ Set Windows Photo Viewer as a default image viewer ](<https://www.drivereasy.com/knowledge/fix-class-not-registered-error-on-windows-10-solved/#Fix> 4. Set Windows Photo Viewer as a default image viewer)
 5. [ Disable iCloud](<https://www.drivereasy.com/knowledge/fix-class-not-registered-error-on-windows-10-solved/#Fix> 5. Disable iCloud) ``
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Fix DCOM(**Distributed Component Object Model)** errors
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
@@ -61,12 +53,6 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ``
 
 ``
@@ -78,11 +64,9 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ``
 
 ``
@@ -90,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 `` 4) Reboot your Windows 10 and open the app again to see if it goes fine.
 
 ``
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
@@ -100,24 +88,16 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ``
 
 ``
@@ -128,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -137,29 +121,15 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 ``
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
@@ -174,11 +144,9 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Open the app again to see if it goes fine.
 
 ``
@@ -207,12 +175,6 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ``
 
 ``
@@ -231,12 +193,6 @@ thumbnail: https://thmb.techidaily.com/fef81675146c2cf9b1921c414fc91aab36a574a8b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Open the app again to see if it goes fine.
 
 That’s it!
@@ -255,8 +211,6 @@ That’s it!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -264,4 +218,24 @@ That’s it!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-enhance-live-footage-overcoming-blurry-video-issues-in-chrome-for-2024/"><u>[New] Enhance Live Footage Overcoming Blurry Video Issues in Chrome for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-how-to-check-if-your-youtube-channel-is-monetized-correctly/"><u>[Updated] In 2024, How to Check If Your YouTube Channel Is Monetized Correctly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazing-value-alert-top-sony-bravia-selection-undercuts-competitors-frequently-discounted-techradar/"><u>Amazing Value Alert: Top Sony Bravia Selection Undercuts Competitors, Frequently Discounted! | TechRadar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-windows-10-bluetooth-malfunctions-avoid-delays/"><u>Comprehensive Fixes for Windows 10 Bluetooth Malfunctions – Avoid Delays</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-to-overcome-error-code-28-in-windows-device-manager/"><u>Easy Solutions to Overcome 'Error Code 28' In Windows Device Manager</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209493947-effortless-fixes-for-keyboard-malfunctions-in-your-hp-notebook-now/"><u>Effortless Fixes for Keyboard Malfunctions in Your HP Notebook – Now!</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-dampen-explore-tabs-in-windows-11-os/"><u>How to Dampen Explore Tabs in Windows 11 OS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-bring-the-beat-home-add-songs-to-your-inshot-app/"><u>In 2024, Bring the Beat Home Add Songs to Your InShot App</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-xiaomi-redmi-note-12-4g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Xiaomi Redmi Note 12 4G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-depth-strategies-to-combat-lag-issues-in-minecraft/"><u>In-Depth Strategies to Combat Lag Issues in Minecraft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-typing-hurdles-a-users-manual-to-reactivate-the-at-sign/"><u>Overcoming Typing Hurdles: A User's Manual to Reactivate the 'At Sign'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restoring-night-mode-solutions-for-windows-11-users-facing-display-issues/"><u>Restoring Night Mode: Solutions for Windows 11 Users Facing Display Issues</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/soviet-era-influences-on-uk-and-rus-speech/"><u>Soviet-Era Influences on Uk & Rus Speech</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-tv-a-step-by-step-guide-to-restoring-netflix-sounds/"><u>Troubleshoot Your TV: A Step-by-Step Guide to Restoring Netflix Sounds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-a-faulty-astro-a40-microphone-simple-fixes-to-try-first/"><u>Troubleshooting Guide for a Faulty Astro A40 Microphone - Simple Fixes to Try First</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ways-to-switch-off-windows-10s-built-in-speaker-amplification-settings/"><u>Ways to Switch Off Windows 10'S Built-In Speaker Amplification Settings</u></a></li>
+</ul></div>
 

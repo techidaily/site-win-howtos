@@ -1,7 +1,7 @@
 ---
 title: Mastering the Fix for Failed Remote Procedure Calls - Expert Tips Inside
-date: 2024-09-05T10:03:48.953Z
-updated: 2024-09-06T10:03:48.953Z
+date: 2024-12-26T02:41:23.143Z
+updated: 2024-12-27T21:29:13.712Z
 tags:
   - win11
   - win10
@@ -19,12 +19,6 @@ Windows 10 renamed the original Windows Explorer (from Windows 8) to**File Explo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/file-explorer-in-window-s10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [**How to launch File Explorer in Windows 10 quickly?**](https://tools.techidaily.com/drivereasy/download/) [**How to customize Quick access items?**](https://tools.techidaily.com/drivereasy/download/) [**Windows 10 File Explorer not responding when right clicks?**](https://tools.techidaily.com/drivereasy/download/)   **How to launch File Explorer in Windows 10 quickly?** Usually, you can launch File Explorer by just typing**explorer**or**file explorer**in the search bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584913472d50a-600x522.jpg)
@@ -33,28 +27,10 @@ Windows 10 renamed the original Windows Explorer (from Windows 8) to**File Explo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584913edbf2bf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you are more relied on your keyboard, here are some more shortcuts on keyboard that allows you to use**File Explorer** quickly: **Windows key + E**: open File Explorer **Ctrl + E**: activate the search bar in File Explorer**Alt + left arrow key**: go back to one folder in history**Alt + right arrow key**: go forward to one folder in history **Ctrl + mouse wheel Up or Down**: increase or decrease the size of icons in File Explorer **Ctrl + Shift + N**: create a new folder   **How to customize Quick access items?** If you want to add new quick access to the list on the left pane of File Explorer, here is how you can do it easily. Right click the desired folder and choose**Pin to Quick access**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/pin-to-quick-access.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to remove an item from Quick access menu, just right click this item and select**Unpin from Quick access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/unpin-from-quick-access.jpg)
@@ -67,12 +43,6 @@ Windows 10 renamed the original Windows Explorer (from Windows 8) to**File Explo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491c14e6750.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You can restart your computer when this operation is completed. 3) Follow the path:**Start button > Settings > Update & security**. Then one the left pane, choose**Windows Update**, and on the right pane, choose**Update history**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491d95611c0-600x476.jpg)
@@ -81,22 +51,10 @@ You can restart your computer when this operation is completed. 3) Follow the pa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491d7901b10-600x462.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) If you can see update**KB3081449**or**KB3081448**, right click it and choose**Uninstall**. Then restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491df2251f5-600x330.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -105,8 +63,6 @@ You can restart your computer when this operation is completed. 3) Follow the pa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +70,24 @@ You can restart your computer when this operation is completed. 3) Follow the pa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-discover-6-premier-nft-services-boosting-artist-imagination/"><u>[New] In 2024, Discover 6 Premier NFT Services Boosting Artist Imagination</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/win11-20/"><u>解決 Win11 無法複製或粘貼的全新方法：20多選項</u></a></li>
+<li><a href="https://video-capture.techidaily.com/cam-protection-the-ultimate-10-guide/"><u>Cam Protection The Ultimate 10 Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205236406-computer-continuously-loading-at-initial-boot-solutions-inside/"><u>Computer Continuously Loading at Initial Boot? Solutions Inside</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/craft-images-with-orbital-soft-edge-psx-tech/"><u>Craft Images with Orbital Soft Edge PSX Tech</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/explore-best-10-websites-for-professional-vectors-for-2024/"><u>Explore Best 10 Websites for Professional Vectors for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/garuda/"><u>Garuda -</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restoring-integrity-a-step-by-step-guide-to-repairing-damaged-windows-11-file-systems/"><u>Restoring Integrity: A Step-by-Step Guide to Repairing Damaged Windows 11 File Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-windows-ethernet-connectivity-problems-in-windows-11-and-7/"><u>Solving Windows Ethernet Connectivity Problems in Windows 11 and 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-restore-ethernet-functionality-in-windows-operating-systems-11-and-7/"><u>Step-by-Step Guide to Restore Ethernet Functionality in Windows Operating Systems (11 and 7)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-enabling-bluetooth-connectivity-on-windows-7/"><u>Step-by-Step Guide: Enabling Bluetooth Connectivity on Windows 7</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-realme-narzo-60-pro-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Realme Narzo 60 Pro 5G Screen | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

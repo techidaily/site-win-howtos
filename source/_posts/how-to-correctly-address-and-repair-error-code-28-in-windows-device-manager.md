@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Repair 'Error Code 28' In Windows Device Manager
-date: 2024-12-17T01:14:33.613Z
-updated: 2024-12-22T23:47:41.841Z
+date: 2024-12-22T20:13:40.864Z
+updated: 2024-12-28T03:04:15.030Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/368cd26d3749cfcc0c9a3f4f17a7f654d421407ed
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Fix 1\. Enable Automatic Detect Settings**
 
  If your computer is not sure how it should connect to the Internet, it would cause Windows Update Error 0x8024402c. In this case, enable Automatic Detect Settings could fix it.
@@ -36,23 +32,23 @@ thumbnail: https://thmb.techidaily.com/368cd26d3749cfcc0c9a3f4f17a7f654d421407ed
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **LAN settings**  under**Connection** pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Check on Automatically detect settings
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now try to install Windows Updates now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
 
@@ -71,7 +67,7 @@ Now try to install Windows Updates now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Exit Internet Explorer and run Command Prompt.
@@ -119,13 +115,13 @@ Double-click on your active Network Adapter.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4\. Configure Updates Client
@@ -140,19 +136,23 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
 
  Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
 
@@ -195,20 +195,18 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevating-your-channel-maximizing-adsense-on-youtube/"><u>[New] In 2024, Elevating Your Channel Maximizing AdSense on YouTube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-investigating-best-fps-for-outstanding-slow-motion-cinematography/"><u>[New] Investigating Best FPS for Outstanding Slow-Motion Cinematography</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-top-cricket-ultimate-guide-to-live-streaming-selection/"><u>[New] Top Cricket Ultimate Guide to Live Streaming Selection</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-indoor-android-games-you-can-play-without-a-network-for-2024/"><u>[Updated] Indoor Android Games You Can Play Without a Network for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-applying-the-cartoon-face-filter-in-snapchat/"><u>[Updated] Step-by-Step Applying the Cartoon Face Filter in Snapchat</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/advanced-handling-of-insufficient-resources-service-errors/"><u>Advanced Handling of 'Insufficient Resources' Service Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-when-your-lenovo-laptop-camera-stops-functioning/"><u>Effective Solutions for When Your Lenovo Laptop Camera Stops Functioning</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correct-a-bad-image-error-on-your-windows-11windows-10-device/"><u>How to Correct a Bad Image Error on Your Windows 11/Windows 10 Device</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-instagrams-vertical-vortex-sideways-media-mystery/"><u>In 2024, Instagram's Vertical Vortex Sideways Media Mystery</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/resolving-blue-screen-problems-stemming-from-hardware-failures-expert-advice-from-yl-software/"><u>Resolving 'Blue Screen' Problems Stemming From Hardware Failures: Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-svchostexes-excessive-cpu-consumption-in-windows-10-a-complete-guide/"><u>Resolving svchost.exe's Excessive CPU Consumption in Windows 10 - A Complete Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/seamless-repair-tips-for-resolving-stubborn-usb-port-issues-effectively/"><u>Seamless Repair Tips for Resolving Stubborn USB Port Issues Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/svchostexe-using-too-much-power-optimize-your-pc-with-these-windows-10-tips/"><u>Svchost.exe Using Too Much Power? Optimize Your PC with These Windows 10 Tips!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/1716464698258-top-recruiter-shorts-find-your-motivation/"><u>Top Recruiter Shorts Find Your Motivation!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-crackling-sounds-from-speakers-on-microsoft-operating-systems/"><u>Troubleshooting Crackling Sounds From Speakers on Microsoft Operating Systems</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-premier-service-guide-exclusive-local-channels-plus-live-streaming/"><u>[New] 2024 Approved Premier Service Guide Exclusive Local Channels + Live Streaming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-make-your-screenshots-stand-out-the-ultimate-ios-and-android-app-list/"><u>[New] Make Your Screenshots Stand Out The Ultimate iOS & Android App List</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-buyers-best-guide-to-virtual-reality-cameras/"><u>[Updated] Buyer's Best Guide to Virtual Reality Cameras</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-guide-to-non-time-restricted-recorders/"><u>[Updated] Ultimate Guide to Non-Time Restricted Recorders</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-assessment-of-the-fintie-macbook-pro-13-case-robust-construction-meets-great-value/"><u>In-Depth Assessment of the Fintie MacBook Pro 13 Case - Robust Construction Meets Great Value</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-dilemma-solved-resolving-stuck-or-dead-letters-on-win-1011-systems/"><u>Keyboard Dilemma Solved: Resolving Stuck or Dead Letters on Win 10/11 Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723011759060-lost-connection-woes-in-terraria-master-these-6-fixes-to-get-back-on-track/"><u>Lost Connection Woes in Terraria? Master These 6 Fixes to Get Back on Track</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-long-lasting-window-11-power-down-delays/"><u>Quick Fixes for Long-Lasting Window 11 Power Down Delays</u></a></li>
+<li><a href="https://win11.techidaily.com/the-importance-of-microsofts-decision-to-extend-windows-11-support/"><u>The Importance of Microsoft's Decision to Extend Windows 11 Support</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-solve-overwatchs-lost-device-issue-easily/"><u>Troubleshoot and Solve Overwatch's 'Lost Device' Issue Easily!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-the-missing-binkw32dll-error-message/"><u>Troubleshooting Tips for The Missing binkw32.dll Error Message</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-your-creative-potential-without-spending-for-2024/"><u>Unlocking Your Creative Potential Without Spending for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1726026458143-5/"><u>ベスト総合エクサーカラープログラム：有料なし・最新5選</u></a></li>
 </ul></div>
 

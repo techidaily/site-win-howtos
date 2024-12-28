@@ -1,7 +1,7 @@
 ---
 title: "How To Restore Your App: Stop 'Application.exe' From Hanging"
-date: 2024-09-05T10:03:30.672Z
-updated: 2024-09-06T10:03:30.672Z
+date: 2024-12-27T11:31:25.970Z
+updated: 2024-12-27T20:18:45.502Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap4-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Recently, many laptop users have reported that they have an issue with their battery. **When they view their battery information, they notice that their battery is not charging.** If you also run into this issue, don’t worry! we’ve put together some useful fixes to help you resolve this issue.
 
 ## **Fixes to try:**
@@ -38,11 +32,9 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot hardware issues
 
  When you find your battery is not charging, you need to troubleshoot hardware issues first. Follow the steps below to troubleshoot hardware issues:
@@ -58,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
  4) If possible,**use your current AC adapter to charge a new battery** . If the battery is charging, it indicates your battery is bad. If the new battery is not charging, perhaps it is the AC adapter that triggers this issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Turn off the battery charge threshold
 
  Some laptops have**the battery charge threshold feature** . This feature allows laptop users to customize the battery charge threshold so that when the battery reaches that threshold, the battery won’t charge.
@@ -72,24 +68,20 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)**Turn off** the toggle under **Battery Charge Threshold** if it is turned on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you turn off the battery charge threshold feature, your battery should be charging.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Perform a power reset on your laptop
 
 **Try performing a power reset on your laptop** to see if the battery not charging issue persists. Here is how to do it:
@@ -101,12 +93,6 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
  See if the battery is charging. If so, you’ve fixed this issue. If the issue reappears, don’t worry. Try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Reinstall Microsoft ACPI-Compliant Control Method Battery
 
  You can try reinstalling **Microsoft ACPI-Compliant Control Method Battery**  to see if this annoying issue persists. Here is how to do it:
@@ -115,12 +101,6 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Double-click**Batteries** . Right-click **Microsoft ACPI-Compliant Control Method Battery**  and select **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/1-1.jpg)
@@ -130,11 +110,9 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Shut down your laptop and **disconnect the AC adapter** .
 
  5) Remove your laptop battery, **press and hold the power button for 30 seconds** and then release the power button.
@@ -151,20 +129,8 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Update the driver for your battery management device
 
  This issue is also probably caused by a missing or outdated**driver for your battery management device** . Try updating the driver for your battery management device to see if this issue can be fixed.
@@ -185,18 +151,6 @@ thumbnail: https://thmb.techidaily.com/6d6cac7e56858e74f7b2bccf55f62023ebda6695c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap437.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Update** next to your battery management device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-6.jpg)
@@ -211,6 +165,10 @@ Your battery should then be charging.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hopefully one of the fixes above resolved the laptop battery not charging issue for you. Please leave your comment below if you have any questions.
 
 * [laptop](https://tools.techidaily.com/drivereasy/download/)
@@ -222,8 +180,6 @@ Your battery should then be charging.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -231,4 +187,26 @@ Your battery should then be charging.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-google-meet-zoom-tips-maximizing-participant-visibility/"><u>[New] 2024 Approved Google Meet Zoom Tips Maximizing Participant Visibility</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-a-compreenas-guide-to-leveraging-ps-background-erasure-for-professional-results/"><u>[New] In 2024, A Compreenas Guide to Leveraging PS Background Erasure for Professional Results</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-ultimate-handbook-for-youtube-video-creation-for-2024/"><u>[New] The Ultimate Handbook for YouTube Video Creation for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-enhance-your-photography-with-photoshops-motion-blur-effect/"><u>[Updated] 2024 Approved Enhance Your Photography with Photoshop's Motion Blur Effect</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-master-the-art-of-pc-game-memories-with-these-6-steps-for-2024/"><u>[Updated] Master the Art of PC Game Memories with These 6 Steps for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-straightforward-strategies-accessing-appreciated-comments-on-youtube/"><u>[Updated] Straightforward Strategies Accessing Appreciated Comments on YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210012684-fix-x3daudio17dll-error-play-games-smoothly/"><u>Fix X3DAudio1_7.dll Error, Play Games Smoothly!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-malfunctioning-start-menu-on-your-windows-11-pc/"><u>How to Repair a Malfunctioning Start Menu on Your Windows 11 PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-bandicam-vs-camtasia-which-one-is-better/"><u>In 2024, Bandicam vs Camtasia, Which One Is Better?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-oppo-reno-8t-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Oppo Reno 8T 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/introducing-mondlys-dynamic-comprehensive-phrase-list/"><u>Introducing Mondly's Dynamic, Comprehensive Phrase List</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-overcoming-steam-game-installation-errors/"><u>Quick Fix Guide: Overcoming Steam Game Installation Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-repairing-non-functional-usb-ports-with-simple-techniques/"><u>Quick Solutions: Repairing Non-Functional USB Ports with Simple Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-custom-setting-issues-not-responsive/"><u>Resolved: Custom Setting Issues - Not Responsive</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-overcome-windows-11-installation-error-80240020/"><u>Step-by-Step Guide to Overcome Windows 11 Installation Error 80240020</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-oneplus-ace-2-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent OnePlus Ace 2 Pro Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-what-to-do-if-windows-10-crashes-or-hangs/"><u>Troubleshooting Guide: What To Do If Windows 10 Crashes or Hangs?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-logitech-mouse-scrolling-issues/"><u>Troubleshooting Steps: Resolving Logitech Mouse Scrolling Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-version-1607-overcoming-update-implementation-issues/"><u>Windows 10 Version 1607 - Overcoming Update Implementation Issues</u></a></li>
+</ul></div>
 

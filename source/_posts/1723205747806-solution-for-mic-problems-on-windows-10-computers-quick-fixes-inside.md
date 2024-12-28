@@ -1,7 +1,7 @@
 ---
 title: Solution for Mic Problems on Windows 10 Computers - Quick Fixes Inside
-date: 2024-09-05T10:04:36.767Z
-updated: 2024-09-06T10:04:36.767Z
+date: 2024-12-26T18:04:39.447Z
+updated: 2024-12-27T21:14:31.156Z
 tags:
   - win11
   - win10
@@ -45,11 +45,19 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-07-15_14-27-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to all flagged devices to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** If you have any problems using**Driver Easy Pro** to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
@@ -61,40 +69,16 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
  1) Click the speaker icon ![](https://images.drivereasy.com/wp-content/uploads/2016/01/2020-05-18_15-02-50.jpg) in the notification area of your taskbar. Then click **Open Volume mixer** .
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-3.png)
 
  2) Select**System Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Go to the **Recording** tab, right-click an empty area inside the devices’ display list, and then tick **Show Disabled Devices** to ensure that your mic device shows up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click to highlight your microphone, then click**Set Default > Default Device** .
 
 **Note:** Your mic device may not be listed as “Microphone” and the icon thereof may not even resemble a microphone. You should be able to recognize it yourself.
@@ -108,21 +92,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6) On the **Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-116.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  7) Click**OK** to save all the changes you’ve made.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-117.png)
@@ -131,18 +107,6 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Re-enable microphone in Device Manager
 
  This is a quick yet useful solution when your internal microphone ran into glitches. Just follow the steps below to disable and then re-enable the mic device from Windows Device Manager:
@@ -156,28 +120,28 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Right-click your mic and select**Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now check to see your mic is back on track.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Modify privacy settings
 
@@ -193,28 +157,14 @@ Now check to see your mic is back on track.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 If this fix doesn’t work, please proceed to the next one.
 
 ---
@@ -229,8 +179,6 @@ If this fix doesn’t work, please proceed to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -238,4 +186,26 @@ If this fix doesn’t work, please proceed to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-mastering-your-fb-profile-picture-update/"><u>[New] In 2024, Mastering Your FB Profile Picture Update</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-boosting-zoom-screen-sharpness-essential-tips/"><u>[Updated] In 2024, Boosting Zoom Screen Sharpness Essential Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-polarr-photo-editor-features-in-detail/"><u>2024 Approved Explore Polarr Photo Editor Features in Detail</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-premier-moba-experiences-on-your-android-device/"><u>2024 Approved Premier MOBA Experiences on Your Android Device</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/como-mover-tu-fototeca-del-iphone-a-tu-pc-tres-soluciones-simples/"><u>Cómo Mover Tu Fototeca Del iPhone a Tu PC: Tres Soluciones Simples</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-6-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 6</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-honor-x50iplus-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Honor X50i+ FRP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-woes-solved-ensuring-seamless-bluetooth-integration-with-your-desktop/"><u>Keyboard Woes Solved: Ensuring Seamless Bluetooth Integration with Your Desktop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-dark-screens-resolving-your-netflix-display-issues/"><u>No More Dark Screens - Resolving Your Netflix Display Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/say-goodbye-to-errors-expert-strategies-to-tackle-the-0x80072efd-problem-in-windows-11/"><u>Say Goodbye to Errors: Expert Strategies to Tackle the 0X80072EFD Problem in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-handling-unexpected-setbacks-in-steam-game-download-and-update-operations/"><u>Solutions for Handling Unexpected Setbacks in Steam Game Download & Update Operations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-addressing-power-connection-issues-when-your-computer-shows-plugged-in-but-not-charging-on-windows-systems/"><u>Step-by-Step Guide: Addressing Power Connection Issues When Your Computer Shows 'Plugged In but Not Charging' On Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-resolve-wi-fi-adapter-malfunctions-on-pc-windows-10-and-7/"><u>Steps to Resolve Wi-Fi Adapter Malfunctions on PC (Windows 10 & 7)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-tier-ergonomic-keyboards-for-optimal-typing/"><u>Top-Tier Ergonomic Keyboards for Optimal Typing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-overuse-of-storage-by-compatibility-telemetry-in-windows-10/"><u>Troubleshooting the Overuse of Storage By Compatibility Telemetry in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-for-audio-service-malfunctions-on-windows-11-devices/"><u>Ultimate Fixes for Audio Service Malfunctions on Windows 11 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unleashing-full-potential-the-ultimate-guide-to-upgrading-gameplay-on-your-windows-11-system/"><u>Unleashing Full Potential: The Ultimate Guide to Upgrading Gameplay on Your Windows 11 System</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unveiling-simple-sync-obs-plus-zoom-journey/"><u>Unveiling Simple Sync OBS + Zoom Journey</u></a></li>
+</ul></div>
 

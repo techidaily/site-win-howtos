@@ -1,7 +1,7 @@
 ---
 title: Windows Defender SmartScreen Temporarily Unavailable - Troubleshooting Steps
-date: 2024-09-05T10:07:58.754Z
-updated: 2024-09-06T10:07:58.754Z
+date: 2024-12-24T14:18:51.589Z
+updated: 2024-12-28T12:28:34.885Z
 tags:
   - win11
   - win10
@@ -13,22 +13,10 @@ excerpt: This Article Describes Windows Defender SmartScreen Temporarily Unavail
 thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734ca57b3143f21e9c629c5f8e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshooting Persistent Loops in Windows 10 Automatic Repairs - Solved
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58afe2f523108.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 When you met boot error with Windows 10, you hoped that automatic repair will help fix the problem. But it got you more troubles. The worse thing is that repair process seems never end. Then what to do to end the loop? Read on to find the solutions.  
 
  Since the Windows keeps restarting, it is impossible for you access Advanced Options, that you can fix the problem there. In this case, you can boot from a USB or DVD.
@@ -65,12 +53,6 @@ When you met boot error with Windows 10, you hoped that automatic repair will he
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58afef50c004c.png)
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6\. In Advanced Options screen, select**Command Prompt** . Then a new screen will be displayed with and open command prompt. If you are prompted to enter password, enter your Windows password.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58aff028a30cf.png)
@@ -83,12 +65,6 @@ When you met boot error with Windows 10, you hoped that automatic repair will he
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b004f363cc4.png)
   
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2\. If prompted to overwrite existing files, type**All** and hit **Enter** .  
   
  3\. Type exit and hit**Enter** to close the Command Prompt window.  
@@ -101,12 +77,6 @@ When you met boot error with Windows 10, you hoped that automatic repair will he
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58aff3f6500f3.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2\. Type **bcdedit /set GUID recoveryenabled No** and hit**Enter** . Replace GUID with the number that you noted in last step. (For example, if the number is 7ce0dd34-d277-11e4-8263-68f7286346fb, the full command will be “bcdedit /set 7ce0dd34-d277-11e4-8263-68f7286346fb recoveryenabled No”)  
   
  3\. Reboot your PC and Windows should start without no problem.
@@ -127,12 +97,6 @@ When you met boot error with Windows 10, you hoped that automatic repair will he
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58affd826668f.png)
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Run a system file check**
   
  Follow steps below:  
@@ -153,8 +117,6 @@ When you met boot error with Windows 10, you hoped that automatic repair will he
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +124,28 @@ When you met boot error with Windows 10, you hoped that automatic repair will he
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-dial-up-beats-easy-audio-posting-to-youtubes/"><u>[New] 2024 Approved Dial-Up Beats Easy Audio Posting to YouTubes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-step-by-step-techniques-for-google-meet-coordination/"><u>[Updated] Step-by-Step Techniques for Google Meet Coordination</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-windows-update-trouble-clearing-code-8007000e-with-ease/"><u>Bypass Windows Update Trouble: Clearing Code 8007000E with Ease!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/device-demise-system-error-out-of-control/"><u>Device Demise: System Error Out of Control</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-issue-reinstate-protection-for-localized-credential-handling-processes/"><u>Fixed Issue: Reinstate Protection for Localized Credential Handling Processes</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-overcome-directx-graphic-device-initialization-issues/"><u>How to Successfully Overcome DirectX Graphic Device Initialization Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-and-updated-drivers-for-epson-v500-free-download-now/"><u>Latest and Updated Drivers for Epson V500 - Free Download Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-11-v1803-update-issues-a-step-by-step-guide/"><u>Overcoming Windows 11 v1803 Update Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-and-easy-tutorial-on-safeguarding-photographs-from-your-samsung-phone/"><u>Quick & Easy Tutorial on Safeguarding Photographs From Your Samsung Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-remedies-how-to-resolve-continuous-restarting-on-windows-11/"><u>Quick Remedies: How to Resolve Continuous Restarting on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issue-fixing-the-driver-failed-mistake-by-adjusting-user-preferences/"><u>Resolved Issue: Fixing the 'Driver Failed' Mistake by Adjusting User Preferences</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-dying-light-cooperative-first-person-and-parkour-action-in-a-zombie-apocalypse/"><u>Review of Dying Light - Cooperative, First-Person, and Parkour Action in a Zombie Apocalypse</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-how-to-resolve-your-computer-stuck-during-windows-setup/"><u>Solutions: How to Resolve Your Computer Stuck During Windows Setup</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/stop-motion-mastery-the-top-5-online-tools/"><u>Stop Motion Mastery The Top 5 Online Tools</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/troubleshooting-a-non-charging-laptop-expert-tips-from-yl-computing/"><u>Troubleshooting a Non-Charging Laptop: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-snap-share-repeat-the-ultimate-ps4-screenshot-sharing-guide/"><u>Updated Snap, Share, Repeat The Ultimate PS4 Screenshot Sharing Guide</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

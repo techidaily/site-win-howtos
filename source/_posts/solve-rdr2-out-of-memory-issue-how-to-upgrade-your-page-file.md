@@ -1,7 +1,7 @@
 ---
 title: "Solve 'RDR2 Out Of Memory' Issue: How To Upgrade Your Page File"
-date: 2024-09-05T10:02:28.746Z
-updated: 2024-09-06T10:02:28.746Z
+date: 2024-12-27T03:30:33.512Z
+updated: 2024-12-28T05:58:54.743Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Solve 'RDR2 Out Of Memory' Issue: How To Upgrad
 thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445d25a553d85696ff0b2a85a2.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Speed Up Your League of Legends Game Files: Fixed Download Issues Revealed
 
 League of Legends is a world popular game, but the slow download speed can easily drive you crazy. Don’t worry, you’re not alone. Fortunately, there are some ways to improve the slow downloads.
@@ -32,17 +26,9 @@ League of Legends is a world popular game, but the slow download speed can easil
  Before you try the following fixes, you need to make sure this slow speed issue only happened on League of Legends, which means it’s nothing to do with your internet speed. Otherwise, you may need to check your internet connection first.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -57,6 +43,10 @@ League of Legends is a world popular game, but the slow download speed can easil
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Launch as administrator
 
  The privilege issue and compatibility mode might be the reason for this problem. With high integrity access, League of Legends can make full use of its features, running its function properly. So run it as an administrator to see if this fixes the slow download issue.
@@ -65,23 +55,15 @@ League of Legends is a world popular game, but the slow download speed can easil
 2. Find League of Legends program. Right-click on it and click**Open file location** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/file.jpg)
 3. In the file, find the**LOL Launcher.exe** .
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Right-click on it and click**Run as administrator** .
 
 Downloading again to see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Turn off Windows Firewall
 
@@ -92,12 +74,11 @@ Downloading again to see if it works.
 2. Click**Turn Windows Defender Firewall on or off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
 
 Re-download to check.
@@ -108,11 +89,9 @@ Re-download to check.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Manually install .NET framework 3.5
 
  .NET Framework is a software that runs on Microsoft Windows. It is one of the key software which League of Legends relies on. If nothing wrong with the game, the issue might be related to Microsoft .NET Framework.
@@ -149,12 +128,6 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
 
@@ -175,8 +148,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +155,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-theta-s-unveiled-a-thorough-assessment-for-2024/"><u>[New] Theta S Unveiled A Thorough Assessment for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-premier-10plus-free-video-intro-creators/"><u>[Updated] 2024 Approved Premier 10+ Free Video Intro Creators</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-image-innovation-unveiling-secrets-of-photo-enhancement/"><u>[Updated] Image Innovation Unveiling Secrets of Photo Enhancement</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-optimal-video-techniques-to-dominate-freefire-vlogs/"><u>[Updated] Optimal Video Techniques to Dominate FreeFire Vlogs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-investors-edge-tapping-into-youtube-creators-earnings/"><u>2024 Approved The Investor’s Edge Tapping Into YouTube Creators' Earnings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-not-registered-errors-for-windows-10-applications-effective-solutions/"><u>Fixing 'Not Registered' Errors for Windows 10 Applications: Effective Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-cyclic-redundancy-check-errors-in-your-system-a-comprehensive-guide/"><u>How to Fix Cyclic Redundancy Check Errors in Your System: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-launch-your-hosted-network-on-windows-10-solved/"><u>How to Successfully Launch Your Hosted Network on Windows 10 - Solved!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-digital-broadcasting-battle-comparing-facebook-live-youtube-live-and-twitter-spaces/"><u>In 2024, Digital Broadcasting Battle Comparing Facebook LIVE, YouTube Live, & Twitter Spaces</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-xiaomi-redmi-note-12-pro-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Xiaomi Redmi Note 12 Pro 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-windows-11s-unresponsive-hdmi-tv-detection-with-these-easy-fixes/"><u>Resolve Windows 11'S Unresponsive HDMI TV Detection with These Easy Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-windows-11-blue-screen-problem/"><u>Solving the Windows 11 Blue Screen Problem</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-streamers-crossroad-navigating-between-vimeo-youtube-dailymotion/"><u>The Streamer's Crossroad Navigating Between Vimeo, YouTube, Dailymotion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-issues-with-your-corsair-hs50-headset-microphone/"><u>Troubleshooting Guide: Fixing Issues with Your Corsair HS50 Headset Microphone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unpredictable-shutdowns-in-w11/"><u>Unpredictable Shutdowns in W11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-hidden-steps-to-fullscreen-integrity/"><u>Unveiling Hidden Steps to Fullscreen Integrity</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing and Repairing Unexpected Turn-Offs in Computers: A Comprehve Solution"
-date: 2024-12-18T17:53:14.521Z
-updated: 2024-12-22T17:50:43.663Z
+date: 2024-12-25T23:06:06.438Z
+updated: 2024-12-28T03:52:44.802Z
 tags:
   - win11
   - win10
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/cyber-security-1923446_1920-1024x655.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Update the drivers on your computer
 
  The problem “computer repeatedly turns and off” can be caused by faulty drivers. To fix the problem, you can try to update the drivers on your computer.  
@@ -59,15 +63,15 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-813.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-817.png)
 
  You can do it for free if you like, but it partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Remove any peripherals from your computer
 
@@ -78,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-2786081_1920-1024x626.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Reset CMOS to the default settings
@@ -104,7 +108,7 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-815.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you enter the BIOS menu, refer to these steps to reset the settings:  
@@ -130,7 +134,7 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-1168203_1920-1024x681.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 6: Check the fan
@@ -143,19 +147,15 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/motherboard-841487_1920-1024x678.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 7: Clean dust
 
  Computer collects dust everyday, but we won’t notice this until too much dust causes some computer problems, like computer overheating. As we mentioned before, overheating could be the cause of the problem “computer repeatedly turns on and off”.  
 
  For desktops, you can open the case and use a soft cloth to wipe the dust. The much easier method is to use a[compressed gas cleaning duster](https://www.amazon.com/Falcon-Compressed-Disposable-Cleaning-DPSXL4T/dp/B002ZB6LZA/&tag=easeware-camillamo-20) to get rid of the dust. For laptops, you’ll need to consult the manual or get technical help there if you haven’t opened one before.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 8: Replace the motherboard
 
@@ -182,22 +182,18 @@ For example, many Dell PCs show this key like below at the first screen:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/complete-guide-to-addressing-windows-10s-red-screen-malfunction-successfully/"><u>Complete Guide to Addressing Windows 10'S Red Screen Malfunction Successfully</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-fixing-hps-built-in-camera-issues-when-running-on-windows-11/"><u>Comprehensive Guide to Fixing HP's Built-In Camera Issues When Running on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-on-solving-xbox-wireless-pen-problems-for-optimal-gaming-performance/"><u>Comprehensive Tutorial on Solving Xbox Wireless Pen Problems for Optimal Gaming Performance</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-svchostexe-causing-high-system-load-on-windows-10-effective-solutions/"><u>How to Fix svchost.exe Causing High System Load on Windows 10: Effective Solutions</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-huawei-nova-y71-frp-bypass-by-drfone-android/"><u>In 2024, About Huawei Nova Y71 FRP Bypass</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-vivo-s18-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Vivo S18 Pro Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-13-pro-max-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 13 Pro Max Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-world-of-advanced-ai-insights-into-using-claude/"><u>Navigating the World of Advanced AI: Insights Into Using Claude</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/secrets-to-perfecting-snapchats-playback-speed-settings/"><u>Secrets to Perfecting Snapchat's Playback Speed Settings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-puzzle-fix-xerox-update-error-0x800f020b-on-your-pc-a-step-by-step-guide/"><u>Solving the Puzzle: Fix Xerox Update Error 0X800F020B on Your PC - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-addressed-troubleshooting-directx-hardware-setup-problems/"><u>Successfully Addressed: Troubleshooting DirectX Hardware Setup Problems</u></a></li>
-<li><a href="https://win-guides.techidaily.com/the-ultimate-guide-eliminate-persistent-files-on-windows-10-once-and-for-all/"><u>The Ultimate Guide: Eliminate Persistent Files on Windows 10 Once and For All!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-10-essential-chatgpt-conversations-for-cryptocurrency-enthusiasts/"><u>Top 10 Essential ChatGPT Conversations for Cryptocurrency Enthusiasts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-errorcachemiss-on-google-chrome-tips-and-solutions/"><u>Troubleshooting ERROR_CACHE_MISS on Google Chrome: Tips and Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlocking-fortnites-start-up-success/"><u>Unlocking Fortnite's Start-Up Success</u></a></li>
-<li><a href="https://techidaily.com/update-your-hardware-drivers-with-device-manager-in-windows-10-by-drivereasy-guide/"><u>Update your hardware drivers with Device Manager in Windows 10</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discover-youtubes-frame-advantage-five-free-tools/"><u>[New] In 2024, Discover YouTube's Frame Advantage - Five Free Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ideo-journey-mastery-10-leading-apps-to-up-your-youtube-short-game-for-2024/"><u>[New] Video Journey Mastery 10 Leading Apps to Up Your Youtube Short Game for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-generate-10-official-travel-ready-passport-images-no-money-down/"><u>[Updated] 2024 Approved Generate 10 Official Travel-Ready Passport Images, No Money Down</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-live-engagement-on-fb-how-to-get-started-for-2024/"><u>[Updated] Live Engagement on FB How to Get Started for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unleashing-the-power-of-hashtags-for-instagram-success-for-2024/"><u>[Updated] Unleashing the Power of Hashtags for Instagram Success for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/connect-your-microsoft-wireless-adapter-with-ease-overcoming-challenges-on-windows-10-platforms/"><u>Connect Your Microsoft Wireless Adapter with Ease: Overcoming Challenges on Windows 10 Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-risk-of-gpt-in-banking-and-pc-security-breaches/"><u>Decoding the Risk of GPT in Banking & PC Security Breaches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-wacom-tablet-drivers-missing-error-in-windows-11/"><u>How to Fix Wacom Tablet Drivers Missing Error in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-instagram-how-to-boost-your-following/"><u>Mastering the Art of Instagram: How to Boost Your Following</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rescue-your-gaming-experience-reinstating-dlls/"><u>Rescue Your Gaming Experience: Reinstating DLLs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-insufficient-system-resources-error-message/"><u>Resolved: Fixing 'Insufficient System Resources' Error Message</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-why-applicationexe-keeps-crashing-and-how-to-resolve-it/"><u>Solution Guide: Why Application.exe Keeps Crashing and How to Resolve It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-the-windows-10-error-code-0x800f0922/"><u>Troubleshooting and Repairing the Windows 10 Error Code 0X800F0922</u></a></li>
 </ul></div>
 

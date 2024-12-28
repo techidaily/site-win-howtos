@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Fix Desktop Window Manager High GPU Usage in Windows 10/11
-date: 2024-09-05T10:01:55.673Z
-updated: 2024-09-06T10:01:55.673Z
+date: 2024-12-23T21:56:57.004Z
+updated: 2024-12-27T19:49:29.507Z
 tags:
   - win11
   - win10
@@ -26,17 +26,9 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 [5:**Check your USB ports**](#5)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Method 1: Check if the device itself is faulty**
 
  If the USB device was working before you upgraded to Windows 10, it’s unlikely to be faulty. But coincidences do occur. It’s certainly_possible_ that your device just happened to die right at the same time that you upgraded Windows. So it’s best to rule that possibility out for sure before spending time on more complex troubleshooting.
@@ -44,11 +36,9 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
  To check if the USB device is faulty, simply unplug it (‘Eject’ it if it’s a USB storage device) and plug it into another computer. If it works, the device is fine. If it doesn’t, then you’ve isolated the problem! You just need to buy a replacement.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Method 2: Check your power supply (laptop only)**
 
  Your laptop’s power supply delivers power to your USB ports. If, for some reason, it fails to do this properly, the devices plugged into those USB ports may stop working. Sometimes, this can be fixed quite simply:
@@ -61,12 +51,6 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
 4) Plug the power supply back in
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 3: Check your power management settings**
 
  In order to save power, by default, Windows switches your USB controllers off when they’re not in use, and switches them back on again when they’re needed. Unfortunately, sometimes this approach doesn’t work as intended, and Windows fails to switch your USB controllers on again.
@@ -76,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
  1) Open Device Manager (type “Device Manager” in the Windows search field)
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Expand the**Universal Serial Bus controllers** branch
 
@@ -89,31 +77,17 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342d99c355a.png)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Un-check the **Allow the computer to turn off this device to save power**  checkbox, and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342dd22bb58.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Repeat steps 3-5 for each  USB Root Hub device in your list of Universal Serial Bus controllers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 4: Check your USB device drivers**
 
@@ -130,11 +104,9 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594841d4c15c1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -144,12 +116,6 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 5: Check your USB ports**
 
  If none of the above methods resolve your problem, your USB ports might be damaged. To find out, you can take your PC to a repair store and ask them to check. If your USB ports are damaged, the repairer should be able to replace them fairly inexpensively.
@@ -162,8 +128,6 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +135,22 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-transforming-visual-narratives-with-creative-use-of-luts-in-pro/"><u>[New] 2024 Approved Transforming Visual Narratives with Creative Use of LUTs in Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-calm-clicks-the-ideal-screen-free-puzzles/"><u>[Updated] 2024 Approved Calm Clicks The Ideal Screen-Free Puzzles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/common-problems-and-fixes-for-windows-11-update-failure-in-version-1607/"><u>Common Problems and Fixes for Windows 11 Update Failure in Version 1607</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/compact-studio-kit-for-affordable-illumination/"><u>Compact Studio Kit for Affordable Illumination</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-paperwork-with-chatgpt-aid/"><u>Crafting Paperwork with ChatGPT Aid</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-time-lapse-tutorial-from-start-to-finish-for-2024/"><u>Final Cut Pro Time Lapse Tutorial From Start to Finish for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/nebula-accounting-data-salvation/"><u>Nebula Accounting Data Salvation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-detection-problems-with-your-wd-my-passport-ultra-on-windows-computers/"><u>Overcoming Detection Problems with Your WD My Passport Ultra on Windows Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-your-windows-11-slow-shutdown-problem-a-step-by-step-guide/"><u>Resolving Your Windows 11 Slow Shutdown Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/silent-speakers-now-harmonious-with-their-laptop/"><u>Silent Speakers, Now Harmonious with Their Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simplify-your-experience-essential-tips-for-using-file-explorer-on-windows-10/"><u>Simplify Your Experience: Essential Tips for Using File Explorer on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211458713-sims-4-loading-woes-heres-how-you-can-fix-it/"><u>Sims 4 Loading Woes? Here's How You Can Fix It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-how-to-fix-a-monitor-without-video-output-problem/"><u>Troubleshooting Tips: How to Fix a Monitor Without Video Output Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unstick-your-adventure-resolving-sea-of-thieves-loading-screen-issues/"><u>Unstick Your Adventure: Resolving Sea of Thieves Loading Screen Issues</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unknown USB Device Error with Successful Device Descriptor Retrieval Method
-date: 2024-09-05T10:07:53.251Z
-updated: 2024-09-06T10:07:53.251Z
+date: 2024-12-27T11:22:33.952Z
+updated: 2024-12-27T18:17:54.508Z
 tags:
   - win11
   - win10
@@ -13,18 +13,6 @@ excerpt: This Article Describes How to Fix Unknown USB Device Error with Success
 thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4213c58165eb8b500d82b1f1.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Error 0Xc000007b Strikes Again? Here's How to Successfully Launch Your App
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594a19ecde6db.png)
@@ -52,16 +40,18 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Reboot your computer
 
  There can be something tiny that goes wrong in your system when you see a “The application was unable to start correctly” error. A simple reboot of your computer can fix your 0xc000007b error.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Run your application as administrator
 
@@ -79,12 +69,6 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Reinstall your application
 
  Sometimes the application you want to run may contain something that has corrupted. In this case, you should uninstall your application completely and then reinstall it. After that run the program and see if your problem resolves.
@@ -105,25 +89,17 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594a344e9b548.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **c)**  Single click on every item starts with “**Microsoft .NET** “. Click on**Uninstall/Change** and follow the instructions to**uninstal** l these items.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594a353a420f2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **d)** Go to **[Microsoft .NET Framework download website](https://www.microsoft.com/net/download/framework)**  to download and install the framework.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Reinstall Microsoft Visual C++ Redistributable Packages
 
@@ -135,21 +111,23 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594a39723c10f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **c)**  Go to [**Microsoft**](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) to download and install Visual C++ Redistributable Packages.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Update your Windows
 
  Updating your operating system can fix the bugs that cause trouble. In addition, some features and programs built-in Windows, such as**DirectX** and**.NET Framework** , can also be updated during the process. It is recommended that you update your operating system and see if this can help you fix your 0xc000007b error.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Run check disk
 
@@ -159,40 +137,20 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/cmd123.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **b)**  Enter “_**chkdsk c: /f /r**_ “. (This means you are going to check and repair the**C** drive. If you want to check another drive, replace “_**c**_ ” with the corresponding letter of that drive.) Follow the instructions to complete the process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594a40cc79594.png)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **c)** After that check and see if the problem is solved.
 
 ## Fix 8: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
  Now that we have the internet, fast connection speeds, free cloud storage, and endless web apps (like Gmail, Google Docs, Slack, Facebook, Dropbox and Spotify), the entire Windows way of doing things – with locally installed programs and local file storage – is totally outdated.
@@ -223,8 +181,6 @@ And that’s just the start of the benefits…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -232,4 +188,20 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-securing-a-slot-in-youtube-finding-your-market/"><u>[Updated] 2024 Approved Securing a Slot in YouTube Finding Your Market</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/clean-cut-windows-10-screen-logger/"><u>Clean-Cut Windows 10 Screen Logger</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dells-guide-to-restoring-usb-port-functionality-solved/"><u>Dell's Guide to Restoring USB Port Functionality - Solved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-repair-methods-for-handling-the-0x887a0006-error-flawlessly/"><u>Easy Repair Methods for Handling the 0X887A0006 Error Flawlessly</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/epic-showdown-my-take-on-the-new-season-of-fortnite-battle-royale/"><u>Epic Showdown: My Take on the New Season of Fortnite Battle Royale</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-identified-potential-flaw-in-windows-11s-update-mechanism-a-comprehensive-guide/"><u>Fixing the Identified Potential Flaw in Windows 11'S Update Mechanism - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-troublesome-windows-update-issue-overcoming-error-0x8024402c/"><u>Fixing the Troublesome Windows Update Issue - Overcoming Error 0X8024402c</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-cheapest-entry-level-4k-systems/"><u>In 2024, Cheapest Entry-Level 4K Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/miracast-troubles-start-here-correcting-graphics-driver-incompatibilities/"><u>Miracast Troubles? Start Here: Correcting Graphics Driver Incompatibilities</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-samsung-galaxy-s23-tactical-edition-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Samsung Galaxy S23 Tactical Edition has been deleted.</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-oneplus-open-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of OnePlus Open on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-continuous-usb-disconnection-problems-effectively/"><u>Troubleshooting Continuous USB Disconnection Problems Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-steam-download-failures-during-updates/"><u>Troubleshooting Guide: Resolving Steam Download Failures During Updates</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing the Sluggish Closure Problem on Windows 10
-date: 2024-09-05T10:01:43.379Z
-updated: 2024-09-06T10:01:43.379Z
+date: 2024-12-24T05:56:16.686Z
+updated: 2024-12-28T02:31:05.617Z
 tags:
   - win11
   - win10
@@ -37,30 +37,12 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2)  
 
  Click **Troubleshoot**  \>**Advanced options**  \> **Command Prompt** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-18.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3)  
 
  Select your administrator account and then enter the password if you set one before.  
@@ -68,12 +50,6 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-20.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-14.jpg)
 
  4)  
@@ -112,12 +88,6 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3)  
 
  Click **Next** .  
@@ -132,12 +102,6 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5)  
 
  Click **Create** .
@@ -158,12 +122,6 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/14-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Go on to follow the on-screen instructions to complete the reinstalling.
 
  That’s all there is to it. Hope the solution here can help you fix the error.  
@@ -177,8 +135,6 @@ Go on to follow the on-screen instructions to complete the reinstalling.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +142,24 @@ Go on to follow the on-screen instructions to complete the reinstalling.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigating-retro-facebook-stories-pcmobile-guide/"><u>[Updated] Navigating Retro Facebook Stories PC/Mobile Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/130-handheld-display-transforms-pricey-1000-dell-desktop-into-a-relic-insights-from-zdnet/"><u>$130 Handheld Display Transforms Pricey $1,000 Dell Desktop Into a Relic: Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-crafting-the-perfect-close-youtubes-free-end-screen-tools/"><u>2024 Approved Crafting the Perfect Close YouTube's Free End Screen Tools</u></a></li>
+<li><a href="https://fox-search.techidaily.com/discover-the-latest-additions-in-itunes-version-121/"><u>Discover the Latest Additions in iTunes Version 12.1</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-way-to-get-the-latest-updates-for-your-dell-monitors-software/"><u>Effortless Way to Get the Latest Updates for Your Dell Monitor's Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/enthralling-eyesight-yet-plagued-by-tech-trials-pimax-crystal-reviewed/"><u>Enthralling Eyesight, Yet Plagued by Tech Trials: Pimax Crystal Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-break-free-from-the-restart-cycle-in-windows-1011-a-comprehensive-guide/"><u>How to Break Free From the Restart Cycle in Windows 10/11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-m54-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy M54 5G Phone FRP Lock</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-hand-trackings-evolution-and-practice/"><u>In 2024, Unveiling Hand Tracking's Evolution and Practice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-brightness-settings-not-working-problem-in-windows-10/"><u>Resolving the 'Brightness Settings Not Working' Problem in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-connection-woes-heres-how-you-can-restore-access-to-game-content-servers/"><u>Steam Connection Woes? Here’s How You Can Restore Access to Game Content Servers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-reduce-excessive-cpu-usage-by-msmpengexe-in-windows-11-step-by-step-fix/"><u>Troubleshoot and Reduce Excessive CPU Usage by MsMpEng.exe in Windows 11 - Step-by-Step Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-non-charging-surface-device-issues-and-fixes/"><u>Troubleshooting Your Non-Charging Surface Device - Issues and Fixes</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

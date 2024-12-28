@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide for Resolving Boot Issues on Laptops and Desktops
-date: 2024-12-18T17:01:42.254Z
-updated: 2024-12-22T17:03:33.909Z
+date: 2024-12-24T14:40:08.518Z
+updated: 2024-12-28T11:52:24.032Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/ba76116c91cec15f733719364aa6184afdfb3d250
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -44,12 +48,16 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -71,10 +79,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -84,10 +88,6 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -122,13 +122,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -138,13 +138,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -184,22 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-turn-your-twitter-videos-into-listenable-mp3s/"><u>[Updated] In 2024, Turn Your Twitter Videos Into Listenable MP3s</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-az-record-pro-detailed-app-analyses-and-backup-choices/"><u>2024 Approved AZ Record Pro Detailed App Analyses & Backup Choices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/device-silence-amidst-configuration-success/"><u>Device Silence Amidst Configuration Success</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-microsoft-wi-fi-dock-connection-issues-in-windows-10-a-comprehensive-guide/"><u>Fixing Microsoft Wi-Fi Dock Connection Issues in Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-0x80070490-faulty-update-issue-on-your-pc-solved/"><u>How to Resolve 0X80070490 Faulty Update Issue on Your PC (Solved!)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-touchscreen-troubleshooting-in-windows-10-a-comprehensive-5-way-approach/"><u>Mastering Touchscreen Troubleshooting in Windows 10: A Comprehensive 5-Way Approach</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/maximizing-video-reach-sharing-twitters-content-on-facebooks-for-2024/"><u>Maximizing Video Reach Sharing Twitters' Content on Facebooks for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-complete-manual-of-sound-control-enhancing-your-live-stream-with-obs-ducking/"><u>New 2024 Approved The Complete Manual of Sound Control Enhancing Your Live Stream with OBS Ducking</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/next-gen-title-genius-for-online-content-creators-for-2024/"><u>Next-Gen Title Genius for Online Content Creators for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-x3daudio17dll-non-existence-issues/"><u>Overcome X3DAudio1_7.dll Non-Existence Issues</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfect-whatsapp-ringtones-for-iphone-and-android-users-for-2024/"><u>Perfect WhatsApp Ringtones for iPhone & Android Users for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/peripheral-vision-audit/"><u>Peripheral Vision Audit</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reactivate-keyboard-glow-essential-fixes-for-non-functioning-backlight-on-your-macpc/"><u>Reactivate Keyboard Glow: Essential Fixes for Non-Functioning Backlight on Your Mac/PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-pop-8-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Pop 8</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-skype-mic-issues-on-windows-11/"><u>Troubleshooting Guide: How to Fix Skype Mic Issues on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-login-issues-in-windows-1011-with-user-profile-service-errors/"><u>Troubleshooting Login Issues in Windows 10/11 with User Profile Service Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-x3daudio17dll-play-games-effortlessly/"><u>Troubleshooting X3DAudio1_7.dll, Play Games Effortlessly</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-mastered-listings-top-8-free-uhd-video-players-cross-platform-for-windows-pcandmac/"><u>[New] In 2024, Mastered Listings - Top 8 FREE UHD Video Players (Cross-Platform) for Windows PC&Mac</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-premium-after-effects-essentials-compact-no-cost-bundle/"><u>[New] Premium After Effects Essentials Compact, No-Cost Bundle</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-pulse-of-persuasion-adding-dynamic-text-to-insta-stories/"><u>[New] Pulse of Persuasion Adding Dynamic Text to Insta Stories</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-expert-guide-to-screen-zooming-on-microsoft-teams/"><u>[Updated] 2024 Approved Expert Guide to Screen Zooming on Microsoft Teams</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/windows-server2012022/"><u>详细指导：如何将Windows Server版本从201지转换为2022</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cell-proliferation/"><u>Cell Proliferation</u></a></li>
+<li><a href="https://discover-great.techidaily.com/discover-the-premier-video-editors-for-aspiring-vloggers-a-comprehensive-ranking/"><u>Discover the Premier Video Editors for Aspiring Vloggers – A Comprehensive Ranking</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-and-simple-solutions-to-the-battery-not-found-error/"><u>Fast and Simple Solutions to the 'Battery Not Found' Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-optimize-and-lower-high-cpu-usage-by-svchostexe-on-windows-11/"><u>How to Optimize and Lower High CPU Usage by svchost.exe on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-audio-renderer-malfunctions-when-watching-youtube-on-windows-11/"><u>How to Resolve Audio Renderer Malfunctions When Watching YouTube on Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a59-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A59 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-achieving-professional-colors-with-central-luts/"><u>In 2024, Achieving Professional Colors with Central Luts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mememorph-machine-20-for-2024/"><u>MemeMorph Machine 2.0 for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restore-explorer-application-on-windows/"><u>Restore: Explorer Application on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixes-why-are-function-fn-keys-unresponsive-on-asus-laptops/"><u>Troubleshooting Fixes: Why Are Function (Fn) Keys Unresponsive on Asus Laptops?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-intense-directx-malfunctions-for-smooth-performance/"><u>Troubleshooting Intense DirectX Malfunctions for Smooth Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-self-booting-phenomenon-causes-and-solutions/"><u>Windows 11 Self-Booting Phenomenon - Causes & Solutions</u></a></li>
 </ul></div>
 

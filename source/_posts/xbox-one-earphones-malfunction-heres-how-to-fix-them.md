@@ -1,7 +1,7 @@
 ---
 title: Xbox One Earphones Malfunction? Here's How to Fix Them!
-date: 2024-09-05T10:09:17.218Z
-updated: 2024-09-06T10:09:17.218Z
+date: 2024-12-27T08:41:42.765Z
+updated: 2024-12-27T18:16:52.350Z
 tags:
   - win11
   - win10
@@ -13,18 +13,6 @@ excerpt: This Article Describes Xbox One Earphones Malfunction? Here's How to Fi
 thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0db935514f90e93325010d261.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Keyboard Malfunction in Windows 11? Here's the Solution to Unresponsive Characters
 
  Did you find that some keys on your keyboard don’t work? Are you typing but the letters are not appearing on the screen? Well don’t worry, you’re not alone. This post could help you fix this vexing issue.
@@ -71,6 +59,10 @@ If you’re a laptop user, you could follow these steps:
  Now check to see if this works for you.  
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check for hardware issues
 
  If a hard reset is not working for you, you need to identify whether it’s a hardware issue or a software issue. Follow the steps below:
@@ -82,11 +74,9 @@ If you’re a laptop user, you could follow these steps:
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your keyboard driver
 
  Your letter keys may not be working properly because you’re using the wrong keyboard driver or it’s out of date. You should update your keyboard driver to see if this fixes your keyboard.
@@ -116,20 +106,17 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
@@ -147,23 +134,15 @@ OR
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Tips: Keyboard maintenance
 
 1. Try not to eat, smoke or drink on top of the keyboard to keep it clean.
@@ -182,8 +161,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +168,19 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-creating-low-volume-effects-a-guide-for-fading-out-audio-in-logic-pro-for-2024/"><u>[Updated] Creating Low Volume Effects A Guide for Fading Out Audio in Logic Pro for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unveiling-the-role-of-emotions-in-executive-choices-a-neuroscientific-perspective-for-2024/"><u>[Updated] Unveiling the Role of Emotions in Executive Choices A Neuroscientific Perspective for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/5-essential-techniques-to-capture-roblox-gaming-experienenas-macos-devices/"><u>5 Essential Techniques to Capture Roblox Gaming Experienenas macOS Devices</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/estrategias-faciles-y-eficaces-para-restaurar-una-imagen-de-respaldo-en-windows-server-aturdad-asegurando-un-arranque-seguro/"><u>Estrategias Fáciles Y Eficaces Para Restaurar Una Imagen De Respaldo en Windows Server Aturdad, Asegurando Un Arranque Seguro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-unable-to-activate-hosted-wifi-on-windows-10/"><u>Fixing the Issue: Unable to Activate Hosted WiFi on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204109263-how-to-get-your-laptops-usb-mouse-working-again-step-by-step-fixes/"><u>How to Get Your Laptop's USB Mouse Working Again – Step by Step Fixes!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-oppo-reno-10-pro-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Oppo Reno 10 Pro 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-retrieving-and-repositioning-hidden-system-windows/"><u>Master the Art of Retrieving and Repositioning Hidden System Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-vivo-t2-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Vivo T2 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-unresponsive-mousepad-problems-on-windows-systems-windows-7810/"><u>Resolving Unresponsive Mousepad Problems on Windows Systems (Windows 7/8/10)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seeking-a-perfect-match-cameras-and-windows-hello/"><u>Seeking a Perfect Match: Cameras & Windows Hello</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/techniques-to-salvage-and-fix-video-data-errors/"><u>Techniques to Salvage and Fix VIDEO Data Errors</u></a></li>
+</ul></div>
 

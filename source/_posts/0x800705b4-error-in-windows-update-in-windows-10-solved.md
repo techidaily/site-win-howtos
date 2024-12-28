@@ -1,7 +1,7 @@
 ---
 title: 0X800705b4 Error in Windows Update in Windows 10 [Solved]
-date: 2024-09-05T10:09:14.474Z
-updated: 2024-09-06T10:09:14.474Z
+date: 2024-12-21T16:52:01.941Z
+updated: 2024-12-27T19:02:58.677Z
 tags:
   - win11
   - win10
@@ -17,22 +17,14 @@ thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d46a84135.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you find the volume control bar on your computer not working, don’t worry. Many users have reported the same.
 
 The good news is, you can fix it easily!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  All the fixes below work in**Windows 10** . And just work your way down the list until your volume control not working issue is resolved.
@@ -43,6 +35,10 @@ The good news is, you can fix it easily!
 4. [**Run the Playing Audio troubleshooter**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your sound driver
 
@@ -57,36 +53,12 @@ The good news is, you can fix it easily!
 1. **Download**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
 
  Another reason for this volume control not responding problem is the glitches with the Windows Audio and Windows Audio Endpoint Builder services. If that’s the case, we can re-enable them to see if it works.
@@ -95,27 +67,25 @@ To do so:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Locate and double-click on**Windows Audio** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Run SFC
 
  Another fix you can try is to run the SFC(a built-in Windows file check & repair tool) scan since the missing/corrupted system files can be the culprit for the volume control not working problem.
@@ -124,28 +94,20 @@ To run SFC:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click **Yes**   when prompted to confirm.
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
@@ -176,8 +138,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +145,24 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-drive-engagement-with-instagram-top-10-video-marketing-ideas-unveiled/"><u>[New] Drive Engagement with Instagram Top 10 Video Marketing Ideas Unveiled</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-getting-involved-in-the-global-village-facebook/"><u>[Updated] 2024 Approved Getting Involved in the Global Village (Facebook)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-metamorphic-mentations-vr-enhanced-metaphysical-reflections/"><u>[Updated] In 2024, Metamorphic Mentations VR-Enhanced Metaphysical Reflections</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-write-podcast-magic-a-comprehensive-guide-with-sample-chapters/"><u>2024 Approved Write Podcast Magic A Comprehensive Guide with Sample Chapters</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/chilling-celebrations-beijings-winter-sports-spectacle-for-2024/"><u>Chilling Celebrations Beijing's Winter Sports Spectacle for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/enhancing-your-powerpoint-slides-a-step-by-step-guide-to-incornporating-audio/"><u>Enhancing Your PowerPoint Slides: A Step-by-Step Guide to Incornporating Audio</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-tools-everyone-needs-on-the-6-quick-access-toolbar-for-excel-efficiency/"><u>Essential Tools Everyone Needs on the 6 Quick Access Toolbar for Excel Efficiency</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/excel-2013-guide-tweaking-auto-summation-and-multithreading-capabilities-for-maximum-efficiency/"><u>Excel 2013 Guide: Tweaking Auto-Summation and Multithreading Capabilities for Maximum Efficiency</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-in-touch-with-digital-artistry-your-guide-to-connecting/"><u>Get in Touch with Digital Artistry: Your Guide to Connecting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/identifying-your-microsoft-office-edition-and-determining-bit-depth/"><u>Identifying Your Microsoft Office Edition & Determining Bit Depth</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On OnePlus Ace 2? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-date-formatting-the-ultimate-guide-to-inserting-periods-in-excel/"><u>Mastering Date Formatting: The Ultimate Guide to Inserting Periods in Excel</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-the-challenge-of-bootmgr-error-on-windows-computers/"><u>Overcoming the Challenge of Bootmgr Error on Windows Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/perfect-your-spreadsheets-a-step-by-step-tutorial-on-period-placement-for-dates-in-excel/"><u>Perfect Your Spreadsheets: A Step-by-Step Tutorial on Period Placement for Dates in Excel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-activating-autocomplete-feature-using-slashes-in-excel-spreadsheets/"><u>Step-by-Step Tutorial for Activating Autocomplete Feature Using Slashes in Excel Spreadsheets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-6-essentials-to-add-to-your-quick-access-toolbar-in-microsoft-excel-for-faster-workflows/"><u>Top 6 Essentials to Add to Your Quick Access Toolbar in Microsoft Excel for Faster Workflows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-applying-dollar-sign-notation-in-excel-worksheets/"><u>Understanding and Applying Dollar Sign Notation in Excel Worksheets</u></a></li>
+</ul></div>
 

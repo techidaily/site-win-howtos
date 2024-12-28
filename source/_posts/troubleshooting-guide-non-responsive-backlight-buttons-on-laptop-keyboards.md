@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Non-Responsive Backlight Buttons on Laptop Keyboards"
-date: 2024-12-20T20:39:58.476Z
-updated: 2024-12-22T16:27:20.099Z
+date: 2024-12-27T08:33:44.418Z
+updated: 2024-12-28T09:53:35.594Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Some keys stop working on your Toshiba laptop’s keyboard? That could be super 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -33,7 +33,7 @@ Some keys stop working on your Toshiba laptop’s keyboard? That could be super 
 3. **[Clean your keyboard with a compressed air duster](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Re-power your laptop
@@ -47,7 +47,7 @@ If somehow your Toshiba laptop keyboard gets stuck, the keys could stop working.
 Try to type using your laptop’s keyboard and check to see if those keys stop working before could work well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update your keyboard driver and HID driver
@@ -59,14 +59,14 @@ An old, corrupted or missing**keyboard driver**or**HID (Human interface device) 
 3. Click **Update**  next to the flagged keyboard or HID driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE** version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baef3772a4b2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After updating the drivers, try to type using your laptop’s keyboard and check to see if those keys stop working before could work well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Clean your keyboard with a compressed air duster
 
@@ -94,19 +94,18 @@ Hopefully this article helps. Feel free to comment below with your own experienc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-front-seat-recreation-10-non-athletic-delights/"><u>[New] Front Seat Recreation 10 Non-Athletic Delights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-delete-youtube-comments-effortlessly-for-2024/"><u>[New] How to Delete YouTube Comments Effortlessly for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-cultivating-partnerships-for-commercial-success-on-youtube/"><u>[New] In 2024, Cultivating Partnerships for Commercial Success on Youtube</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-djis-new-frontier-mavic-air-vs-spark-in-gamers-eyes/"><u>[New] In 2024, DJI’s New Frontier Mavic Air Vs. Spark in Gamer's Eyes</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-funimate-masterclass-quick-video-access/"><u>2024 Approved Funimate Masterclass Quick Video Access</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/addressing-and-correcting-the-vibrant-red-screens-of-windows-11-computers/"><u>Addressing and Correcting the Vibrant Red Screens of Windows 11 Computers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/is-it-safe-to-remove-msdia80dll-comprehensive-guide-on-its-purpose-and-maintenance/"><u>Is It Safe to Remove msdia80.dll? Comprehensive Guide on Its Purpose and Maintenance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-game-crashes-in-modern-warfare-2-6-essential-fixes-for-a-smoother-pc-experience/"><u>Overcome Game Crashes in Modern Warfare 2: 6 Essential Fixes for a Smoother PC Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-missing-fixservice-registry-entry-issue-in-windows-10/"><u>Resolving 'Missing' FixService Registry Entry Issue in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-site-unreachable-issues-in-chrome/"><u>Resolving 'Site Unreachable' Issues in Chrome</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-overcoming-non-responsive-file-explorer-problems-on-windows-11-systems/"><u>Solved: Overcoming Non-Responsive File Explorer Problems on Windows 11 Systems</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-top-audio-splitter-on-mac-2024-update/"><u>Updated Top Audio Splitter on Mac - 2024 Update</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/what-is-xinput13dll-and-what-to-do-when-its-missing/"><u>What Is XINPUT1_3.dll (and What to Do When It's Missing)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-easygoing-sounds-scores-of-country-music-to-dance-and-relax-on-tiktok/"><u>[New] In 2024, Easygoing Sounds Scores of Country Music to Dance and Relax On (TikTok)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-professional-shootings-optimal-lenses-for-youtube-videographers/"><u>[Updated] Professional Shootings Optimal Lenses for YouTube Videographers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-best-sources-to-discover-authentic-unscripted-japanese-programs/"><u>1. Best Sources to Discover Authentic Unscripted Japanese Programs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1-easy-guide-transforming-your-mp4-files-into-high-quality-xvid-video-format-using-windows/"><u>1. Easy Guide: Transforming Your MP4 Files Into High-Quality Xvid Video Format Using Windows</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-free-fires-pitch-perfect-playbook/"><u>2024 Approved Free Fire's Pitch Perfect Playbook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726027323528-xmedia-recode/"><u>効率的にXMedia Recodeを使った動画結合ガイド</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-kurtzpel-downfall-errors-once-and-for-all-effective-troubleshooting-steps-unveiled/"><u>Banish KurtzPel Downfall Errors Once and For All - Effective Troubleshooting Steps Unveiled</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-15-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From Apple iPhone 15?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ating-youtubes-economy-a-guide-to-video-revenue-generation/"><u>Navigating YouTube's Economy A Guide to Video Revenue Generation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-mac-user-writers-guide-to-dynamic-srt-adjustment-for-2024/"><u>The Mac User’ Writers Guide to Dynamic SRT Adjustment for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-efficiently-combining-mp3-tracks-on-windows-1011/"><u>Ultimate Guide: Efficiently Combining MP3 Tracks on Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-transforming-your-videos-into-itunes-compatible-format-with-youtube-conversion-masterclass/"><u>Ultimate Guide: Transforming Your Videos Into iTunes Compatible Format with YouTube Conversion Masterclass</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/youtube-video-instagram/"><u>YouTube Video 公開経由 Instagramへのアップロード方法</u></a></li>
 </ul></div>
 

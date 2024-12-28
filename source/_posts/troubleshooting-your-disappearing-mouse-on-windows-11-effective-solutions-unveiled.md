@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Your Disappearing Mouse on Windows 11: Effective Solutions Unveiled"
-date: 2024-09-05T10:08:37.085Z
-updated: 2024-09-06T10:08:37.085Z
+date: 2024-12-26T06:57:39.394Z
+updated: 2024-12-28T13:57:34.226Z
 tags:
   - win11
   - win10
@@ -30,18 +30,6 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 7. [Clean dust](https://tools.techidaily.com/drivereasy/download/)
 8. [Replace the motherboard](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Check if your computer has a virus  
 
  Virus can cause your computer to work strangely. They can change the computer settings without your knowledge. And they can cause your computer to turn on and off repeatedly.  
@@ -50,12 +38,6 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/cyber-security-1923446_1920-1024x655.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Update the drivers on your computer  
 
  The problem “computer repeatedly turns and off” can be caused by faulty drivers. To fix the problem, you can try to update the drivers on your computer.  
@@ -72,24 +54,20 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-813.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-817.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Remove any peripherals from your computer  
 
  If the problem was caused around the time you connected peripherals to your computer, it’s probably a hardware conflict issue. You can remove the peripherals easily. If you have connected multiple peripherals to your computer, just remove the peripherals one by one.  
@@ -98,18 +76,6 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-2786081_1920-1024x626.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Reset CMOS to the default settings  
 
  Corrupted CMOS can cause booting errors, such as the error “computer repeatedly turns on and off”. To fix the problem, you can try to reset CMOS to the default settings.
@@ -146,6 +112,10 @@ For example, many Dell PCs show this key like below at the first screen:
 
  5)**Restart your computer** and check to see if the problem is resolved.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 5: Check PSU (Power Supply Unit)  
 
  If the PSU short circuits, the computer will shut down automatically for hardware safety. So check the PSU is working properly. You can replace the PSU with a good PSU and see if the problem is resolved. With the new PSU, if the problem is not resolved, it means the problem is not caused by the PSU.  
@@ -154,12 +124,6 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-1168203_1920-1024x681.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 6: Check the fan  
 
  The fan is one of the key components that makes computer to run properly. If it doesn’t work, the computer can overheat easily. Computer overheating can cause serious problems. So the system will try to prevent computer overheating. If the fan doesn’t work, the computer can shut down automatically to prevent the internal heating damaging the computer.
@@ -171,29 +135,19 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/motherboard-841487_1920-1024x678.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 7: Clean dust  
 
  Computer collects dust everyday, but we won’t notice this until too much dust causes some computer problems, like computer overheating. As we mentioned before, overheating could be the cause of the problem “computer repeatedly turns on and off”.  
 
  For desktops, you can open the case and use a soft cloth to wipe the dust. The much easier method is to use a[compressed gas cleaning duster](https://www.amazon.com/Falcon-Compressed-Disposable-Cleaning-DPSXL4T/dp/B002ZB6LZA/&tag=easeware-camillamo-20) to get rid of the dust. For laptops, you’ll need to consult the manual or get technical help there if you haven’t opened one before.  
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 8: Replace the motherboard  
 
  The last method to fix the problem is replace the motherboard. Replacing motherboard is a little technical and pricey. We recommend you to take your computer to the repair store for technical help.
@@ -201,11 +155,9 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/technology-1396677_1280-1024x768.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Hopefully you find the tips above helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.  
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -216,8 +168,6 @@ For example, many Dell PCs show this key like below at the first screen:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -225,4 +175,26 @@ For example, many Dell PCs show this key like below at the first screen:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-pubg-not-launching-2024-guide/"><u>[FIXED] PUBG Not Launching 2024 Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchats-trendsetting-boomerangs-explained-for-2024/"><u>[Updated] SnapChat's Trendsetting Boomerangs Explained for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-unlock-the-secrets-of-larger-head-visuals-on-tiktok-videos-3-methods/"><u>2024 Approved Unlock the Secrets of Larger Head Visuals on TikTok Videos (3 Methods)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-startup-problems-effective-fixes-for-windows-10-frozen-screen-scenarios/"><u>Bypassing Startup Problems: Effective Fixes for Windows 10 Frozen Screen Scenarios</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-and-remedying-error-message-windows-update-error-code-0x8024401c-on-win-dos-based-desktops/"><u>Decoding and Remedying Error Message: 'Windows Update Error Code 0X8024401c' On Win DOS-Based Desktops.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-resolution-incompatible-data-entry-showing-up-on-screen/"><u>Error Resolution: Incompatible Data Entry Showing Up on Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-connection-issues-with-a-malfunctioning-dell-keyboard/"><u>Fixing Connection Issues with a Malfunctioning Dell Keyboard</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-path-to-ethical-expansion-youtube-traffic-enhancement/"><u>In 2024, The Path to Ethical Expansion YouTube Traffic Enhancement</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-10-sound-issues-a-comprehensive-guide-to-reviving-your-volume-controls/"><u>Mastering Windows 10 Sound Issues: A Comprehensive Guide to Reviving Your Volume Controls</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-mouse-interruption-woes-strategies-for-reliable-connection-solutions/"><u>Overcoming Mouse Interruption Woes: Strategies for Reliable Connection Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/personalization-controls-restored-previous-glitch-cleared-up/"><u>Personalization Controls Restored - Previous Glitch Cleared Up</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/probleme-mit-der-installation-von-windows-nicht-bootfahigem-usb-tipps-zur-fehlerbehebung-und-wiederherstellung/"><u>Probleme Mit Der Installation Von Windows Nicht Bootfähigem USB: Tipps Zur Fehlerbehebung Und Wiederherstellung</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-default-settings-in-your-pubg-gameplay-win-1011/"><u>Restoring Default Settings in Your PUBG Gameplay (Win 10/11)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/save-money-and-enhance-productivity-with-these-6-free-options-similar-to-openais-sora/"><u>Save Money & Enhance Productivity with These 6 FREE Options Similar to OpenAI’s Sora</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-no-audio-output-device-problem-on-windows-11-a-step-by-step-guide/"><u>Solving the 'No Audio Output Device' Problem on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-t2x-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo T2x 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-frozen-windows-update-with-precision/"><u>Tackling Frozen Windows Update With Precision</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-functionalities-of-fn-keys-on-windows-11-devices/"><u>Tailoring Functionalities of FN Keys on Windows 11 Devices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/ultimate-insights-assessing-lgs-widescreen-monitor-capabilities/"><u>Ultimate Insights Assessing LG's Widescreen Monitor Capabilities</u></a></li>
+</ul></div>
 

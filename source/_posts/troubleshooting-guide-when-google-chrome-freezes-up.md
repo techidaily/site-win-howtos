@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: When Google Chrome Freezes Up"
-date: 2024-09-05T10:08:41.152Z
-updated: 2024-09-06T10:08:41.152Z
+date: 2024-12-26T22:48:42.515Z
+updated: 2024-12-27T18:21:05.225Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
 **Google Chrome not responding** ? You’re certainly not the only one. Although it’s quite frustrating, it’s often quite easy to fix…
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 fixes for Google Chrome not responding
 
  The screenshots below are from**Windows 10** , but the fixes also work in**Windows**   **8.1** and**7** .
@@ -35,12 +29,6 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 4. **[Allow Chrome through Windows Defender Firewall](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Update or re-install Chrome](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Clear cache and cookies
 
  Cache and cookies are some temporary data that help speed up webpage loading. But too much of them may overload Chrome and cause this**Google** **Chrome not responding** problem. So in order to **clear cache and cookies** :
@@ -51,11 +39,9 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 3. In the drop-down menu, click to select **the time range** for the data cache clearing (Last 7 days in my example). Then click **CLEAR DATA** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df83c76d86.jpg)
 4. Run Chrome and hopefully the**Google Chrome not responding** problem has been sorted. If yes, then great! But if the issue persists, you should try**Fix 2** , below.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -73,17 +59,15 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e199b56ceb.png)
 4. **Restart**  your computer and check if**Google Chrome**  now works:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * If Google Chrome does respond after disabling all your add-ons, it’s likely one of your add-ons was the problem. Now you just need to figure out which one. To do this, enable the first add-on in the list, then see if Google Chrome still works. If it doesn’t, then you’ve found the cause of the problem. If Google Chrome works fine after enabling the first add-on, enable the second and test again. Continue testing each add-on in this way until you find the one that stops Internet Explorer from working. Once you find it, disable it again. If you need it, contact the vendor for support.
 * If disabling your add-ons doesn’t solve the **Chrome not responding**  issue, please try **Fix 3** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your drivers
 
  This problem may occur if you are using the wrong or outdated device drivers. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -98,15 +82,13 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b432efcb9088.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3b1daa19ee7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -115,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 5) Open Chrome and see if the not responding issue has been resolved. If yes, then congrats! If the issue remains, you should try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Allow Chrome**through Windows Defender Firewall**
 
@@ -128,31 +114,21 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4323083c3e7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Change settings** . Then make sure the 4 boxes for Google Chrome are ALL ticked and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4324732913f.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Re-launch Google Chrome and check if the **Google Chrome not responding** issue has been fixed. If yes, then great! But if it’s still no joy, please move on to**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Update or reinstall Chrome
 
@@ -166,12 +142,6 @@ To do so:
 2. In the top right, click on **the three vertical dots** button > **help** \>**About Google Chrome** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b433a86ba999.jpg)
 3. Google Chrome automatically detects if there’s an update available:  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    * If yes, follow the on-screen instruction to finish the update.  
    * If no, delete Chrome and re-install it on Windows store or other trustworthy third-party website. (**NOTE** : This will erase your Chrome browser settings and data)
 4. Check if the**Google** **Chrome not responding** issue has been resolved.
@@ -190,8 +160,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +167,26 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-creative-process-with-instagrams-audio-features/"><u>[New] Streamline Your Creative Process with Instagram's Audio Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-dealing-with-igfx-module-failure-problems-effectively/"><u>Comprehensive Solution: Dealing with iGFX Module Failure Problems Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212343458-expert-tips-to-restore-your-microsoft-surface-pro-4s-touchscreen-functionality-no-more-frustration/"><u>Expert Tips to Restore Your Microsoft Surface Pro 4'S Touchscreen Functionality - No More Frustration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-stuck-peripheral-devices-after-upgrading-to-windows-11/"><u>Fixing Stuck Peripheral Devices After Upgrading to Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-auto-boot-phenomenon-in-your-windows-1-pc-tips-and-tricks/"><u>Fixing the Auto-Boot Phenomenon in Your Windows 1# PC - Tips & Tricks</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/how-to-delete-inactive-printers-in-windows-easy-way/"><u>How To Delete Inactive Printers in Windows Easy Way</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-honor-magic-6-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Honor Magic 6</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oppo-reno-8t-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Oppo Reno 8T Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-80s-effects-compendium-for-professional-editors/"><u>In 2024, Top 80S Effects Compendium for Professional Editors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-hurdles-activating-windows-10-hosted-network-feature-successfully/"><u>Overcoming Hurdles: Activating Windows 10 Hosted Network Feature Successfully</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-xs-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone XS Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-server-downtime-understanding-the-cause-and-solution/"><u>Steam Server Downtime - Understanding the Cause and Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-overcoming-audio-playback-glitches-in-youtube-on-windows-10-computers/"><u>Step-by-Step Solution: Overcoming Audio Playback Glitches in YouTube on Windows 10 Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-experience-with-emoji-15-in-windows-11/"><u>Streamline Your Experience with Emoji 15 in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-issues-with-football-manager-2020-malfunctions/"><u>Troubleshooting Steps: Resolving Issues with Football Manager 2020 Malfunctions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-resolved-incompatibility-issue-with-your-devices-drivers-on-world-of-warcraft/"><u>Troubleshooting: Resolved - Incompatibility Issue with Your Device's Drivers on World of Warcraft</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-the-mystery-behind-large-language-models-llms-and-their-operations/"><u>Unraveling the Mystery Behind Large Language Models (LLMs) and Their Operations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win-10-volume-dysfunction-heres-how-you-can-get-it-working-again/"><u>Win 10 Volume Dysfunction? Here's How You Can Get It Working Again!</u></a></li>
+</ul></div>
 

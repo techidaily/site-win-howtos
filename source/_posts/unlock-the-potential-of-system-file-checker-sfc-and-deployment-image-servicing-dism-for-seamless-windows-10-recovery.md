@@ -1,7 +1,7 @@
 ---
 title: Unlock the Potential of System File Checker (SFC) and Deployment Image Servicing (DISM) for Seamless Windows 10 Recovery
-date: 2024-09-05T10:06:38.906Z
-updated: 2024-09-06T10:06:38.906Z
+date: 2024-12-25T12:22:36.723Z
+updated: 2024-12-28T01:10:36.009Z
 tags:
   - win11
   - win10
@@ -44,12 +44,6 @@ and etc.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) In the Command Prompt window, type in the following command:
 
 sfc /scannow
@@ -58,40 +52,16 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca221df44e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Leave the Command Prompt window on until the command completes.
 
  3) If you see the message saying that   **Windows Resource Protection did not find any integrity violations** , then everything is fine with your system.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca520c7e49.png)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) If you see a message saying   **Windows Resource Protection found corrupt files but was unable to fix some of them** , then you need to go to[**safe mode**](https://tools.techidaily.com/drivereasy/download/) and run the system file checker again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca59f1f21f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the SFC command doesn’t work well, please mve on to the next section to run the DISM command to fix the SFC command problem and then run SFC command again.
 
 **Run the DISM Command to Fix SFC Problems**
@@ -102,12 +72,6 @@ Leave the Command Prompt window on until the command completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca149cf04d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When prompted with the UAC, hit**Yes** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg)
@@ -120,12 +84,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca8464439b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Wait for a while for the whole process to finishes.
 
  3) When the whole process finishes, restart your computer. Then run SFC command again so it will help you replace any corrupted files with the correct ones.
@@ -160,8 +118,6 @@ For more detailed information, please go to the posts below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +125,27 @@ For more detailed information, please go to the posts below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-file-funneling-features-5-techniques-to-desktops/"><u>[New] File Funneling Features 5 Techniques to Desktops</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-optimal-steadicams-for-professional-grade-dslr-shoots/"><u>[New] In 2024, Optimal Steadicams for Professional-Grade DSLR Shoots</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-professional-gopro-footage-in-3-simple-steps/"><u>[New] Professional Gopro Footage in 3 Simple Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/definitive-solutions-to-error-0x80224200d-successfully-update-your-windows-system-now/"><u>Definitive Solutions to Error 0X802^24200D – Successfully Update Your Windows System Now!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/effective-strategies-to-mute-unwanted-voices-in-gomeet-for-2024/"><u>Effective Strategies to Mute Unwanted Voices in GoMeet for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-white-screen-of-death-on-your-laptop-a-comprehensive-guide/"><u>Fixing the White Screen of Death on Your Laptop – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-11-start-menu-issues-quickly-and-easily/"><u>How to Fix Windows 11 Start Menu Issues Quickly and Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-device-incompatible-with-miracast-error-comprehensive-guide/"><u>How to Resolve Device Incompatible with Miracast Error : Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ion-audios-tailgater-plus-uninterrupted-playback-and-accentuated-bass-control-at-button-press/"><u>ION Audio's Tailgater Plus: Uninterrupted Playback & Accentuated Bass Control at Button Press</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Mastering the Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-a-non-functional-huion-drawing-tablet-top-5-solutions/"><u>Quick Fixes for a Non-Functional Huion Drawing Tablet: Top 5 Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-fixes-for-the-persistent-windows-10-restart-loop/"><u>Simple Fixes for the Persistent Windows 10 Restart Loop</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/simplycapture-windows-screens-in-minutes-for-2024/"><u>SimplyCapture - Windows Screens in Minutes for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/think-twice-on-buying-a-dvr-essential-insights/"><u>Think Twice on Buying a DVR: Essential Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-cwindowssystem32configsystemprofiledesktop-error-explained/"><u>Troubleshooting: C: Windows System32 Config SystemProfile Desktop Error Explained</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

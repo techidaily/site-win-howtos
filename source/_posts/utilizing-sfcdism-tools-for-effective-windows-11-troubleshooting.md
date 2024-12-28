@@ -1,7 +1,7 @@
 ---
 title: Utilizing SFC/DISM Tools for Effective Windows 11 Troubleshooting
-date: 2024-09-05T10:05:18.538Z
-updated: 2024-09-06T10:05:18.538Z
+date: 2024-12-25T16:53:19.127Z
+updated: 2024-12-28T04:45:36.148Z
 tags:
   - win11
   - win10
@@ -17,18 +17,6 @@ thumbnail: https://thmb.techidaily.com/367ee4c24820f3014ce079b27a52261c1491c40b5
 
 If you’re getting so frustrated that you have to type and then wait awfully long for your keyboard to slowly spit words out, don’t worry. Here’re 4 fixes that have helped other users resolve this**keyboard lag** problem, check them out…
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Fixes for Keyboard Lag
 
  All the fixes below work in**Windows 10** . You may not have to try all of them; just work your way down the list until the**keyboard lag** issue has been resolved.
@@ -50,11 +38,9 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Run Hardware and Devices troubleshooter
 
 **Windows Hardware and Devices Troubleshooter**  is a useful tool that helps us solve problems with our hardware and devices (keyboard in this case). Here’s how to**run Troubleshooter** :
@@ -69,12 +55,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your keyboard driver
 
  This**keyboard lag** issue may also occur if you have the wrong or corrupt keyboard driver. So you should update these drivers to to see if it fixes the problem. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -89,22 +69,14 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer, test your keyboard and hopefully it can catch up unfailingly this time. If yes, then congrats and enjoy typing! But if it’s still no joy, please move on to**Fix 4** , below.
@@ -112,11 +84,9 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Run DISM
 
  Sometimes this keyboard delay problem happens because of corruption and misconfigurations on your computer. If that’s the case, you’ll have to**run**   **DISM** to check and fix the error.
@@ -124,20 +94,17 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
+
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
@@ -158,8 +125,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +132,19 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-best-action-gear-selecting-the-top-15-cameras/"><u>[New] 2024 Approved Best Action Gear Selecting the Top 15 Cameras</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-dive-deep-into-youtube-shorts-essentials/"><u>[Updated] In 2024, Dive Deep Into YouTube Shorts Essentials</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-shortcuts-swiftly-sculpting-windows-11-directories/"><u>Expert Shortcuts: Swiftly Sculpting Windows 11 Directories</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-se-2020-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From iPhone SE (2020)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212100379-keyboard-malfunctions-on-windows-1011-heres-how-to-get-it-working-again/"><u>Keyboard Malfunctions on Windows 10/11? Here's How to Get It Working Again</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/navigating-through-youtubes-challenging-green-screen/"><u>Navigating Through YouTube's Challenging Green Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207280096-overcome-voice-communication-glitches-in-overwatch-steps-for-swift-repair/"><u>Overcome Voice Communication Glitches in Overwatch - Steps for Swift Repair</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-connection-woes-successfully-attaching-a-microsoft-wireless-display-adapter-to-your-pc-with-windows-problem-fixed/"><u>Overcoming Connection Woes: Successfully Attaching a Microsoft Wireless Display Adapter to Your PC with Windows ([Problem] Fixed)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-clipboard-malfunctions-for-efficient-copyingpasting/"><u>Resolving Windows 11 Clipboard Malfunctions for Efficient Copying/Pasting</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-game-changer-gear-on-youtube-for-2024/"><u>The Ultimate Game Changer - Gear on YouTube for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-correcting-system-restore-failure-on-windows-11-with-error-code-0x80070091/"><u>Troubleshooting and Correcting System Restore Failure on Windows 11 with Error Code 0X80070091</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unfreezing-frozen-obs-stream-input/"><u>Unfreezing Frozen OBS Stream Input</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Dormant Device Dilemma: Stubborn Systems on Windows"
-date: 2024-12-22T00:16:07.142Z
-updated: 2024-12-22T22:41:15.484Z
+date: 2024-12-23T23:12:00.747Z
+updated: 2024-12-28T13:12:35.939Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6 fixes for Windows 11 or 10 won’t wake up from sleep issue
 
 **Before troubleshooting** , you might have to**LONG PRESS** the power button for your computer to completely shut down, then press the power button again for it to boot up. Be sure to always**shut down your PC the normal way** .
@@ -37,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Allow your keyboard and mouse to wake up your PC
 
  Sometimes your computer will not wake up from sleep mode simply because your keyboard or mouse has been prevented from doing so. To allow your keyboard and mouse to wake up your PC:
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0dfaa5c648.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Double-click on**Keyboards** \>**your keyboard device** .  
@@ -59,6 +59,11 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0e19bdf16d.png)
 4. Repeat this fix with your other keyboard devices
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Then expand the category**Mice and other pointing devices** , and repeat the same with all your mouse devices there, including your touchpad.
 6. If you have any Bluetooth devices, please repeat the same so they don’t turn your computer off.
 
@@ -78,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
@@ -87,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
  Put your machine to sleep and wake it up again to check if the issue is resolved. If yes, then congrats! If the problem persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Turn off fast startup
 
@@ -103,8 +104,16 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure **the box** before **Turn on fast startup (Recommended)** is **unchecked** , then click **Save changes** and close the window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Check to see if the computer wakes up issue is solved.
@@ -125,11 +134,11 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/power.png)
 3. Again, try to put your PC to sleep and wake it up to see if it functions properly. If yes, then you’ve resolved the issue! If it’s still not waking up, you should try**Fix 5** , below.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ## Fix 5: Tweak power settings
 
@@ -140,19 +149,11 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba0e616c565c.jpg)
 4. Double-click on**Sleep** , then set**Allow hybrid sleep** in**Off** and set**Allow wake timers** to**Enable** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/computer-wake-up-1.png)
 5. Click**Apply** \>**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Restart your computer, test on your machine again and see if it wakes up without fail.
 
@@ -170,7 +171,7 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
@@ -198,22 +199,19 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-audio-flow-streamlining-sound-segments/"><u>[New] Audio Flow Streamlining Sound Segments</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-capture-studio-high-fidelity-screen-record/"><u>[New] Capture Studio High Fidelity Screen Record</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-guide-to-macro-videography-techniques/"><u>[New] Ultimate Guide to Macro Videography Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-essential-insights-for-youtube-content-protection/"><u>[Updated] 2024 Approved Essential Insights for YouTube Content Protection</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-artisans-path-to-gratuitous-text-animation/"><u>[Updated] The Artisan's Path to Gratuitous Text Animation</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-netgear-nighthawk-ax8-wi-fi-6-range-extender-is-it-your-key-to-a-faster-tomorrow/"><u>Comprehensive Analysis of the Netgear Nighthawk AX8 Wi-Fi 6 Range Extender - Is It Your Key to a Faster Tomorrow?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/covid-19-response-and-strategy-an-exclusive-briefing-by-abbyy-groups-ulf-persson-chief-executive-officer-press-release/"><u>COVID-19 Response and Strategy: An Exclusive Briefing by ABBYY Group's Ulf Persson, Chief Executive Officer - Press Release</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-techniques-to-resolve-network-communication-breakdown-in-windows-error-code-0x800704cf/"><u>Effective Techniques to Resolve Network Communication Breakdown in Windows (Error Code 0X800704CF)</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/efficient-techniques-for-unwrapping-backgrounds-in-affinity-photo-for-2024/"><u>Efficient Techniques for Unwrapping Backgrounds in Affinity Photo for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-dealing-with-unreachable-dhcp-server-situations-in-your-network/"><u>Expert Tips for Dealing with 'Unreachable DHCP Server' Situations in Your Network</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-oddworld-soulstorm-troubleshooting-pc-launch-issues/"><u>Fixing Oddworld: Soulstorm - Troubleshooting PC Launch Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hardware-breakdown-unrecoverable-issue/"><u>Hardware Breakdown: Unrecoverable Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-user-profile-service-failures-and-sign-in-issues-on-windows-11/"><u>Resolving 'User Profile Service' Failures and Sign-In Issues on Windows 11</u></a></li>
-<li><a href="https://fox-access.techidaily.com/symphony-of-sights-picture-plus-sound-videography/"><u>Symphony of Sights Picture + Sound Videography</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212093686-troubleshooting-guide-for-windows-7-10-understanding-event-id-1among-various-operating-systems/"><u>Troubleshooting Guide for Windows 7-10: Understanding Event ID 1Among Various Operating Systems.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-issues-with-your-non-responsive-laptop-trackpad/"><u>Troubleshooting Guide: Fixing Issues with Your Non-Responsive Laptop Trackpad</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-fixing-your-laptops-malfunctioning-keyboard-light/"><u>Troubleshooting Steps: Fixing Your Laptop's Malfunctioning Keyboard Light</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-erasing-extra-borders-for-smooth-youtube-playback/"><u>[New] 2024 Approved Erasing Extra Borders for Smooth YouTube Playback</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-conversion-tutorial-turning-your-mp4-video-into-a-vp8-encoded-webm-format/"><u>Easy Conversion Tutorial: Turning Your MP4 Video Into a VP8 Encoded WebM Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-guide-watching-dvds-on-your-windows-11-pc/"><u>Effortless Guide: Watching DVDs on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-ways-to-address-cinavia-warning-code-3-swiftly/"><u>Effortless Ways to Address Cinavia Warning Code 3 Swiftly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enable-high-quality-music-the-ultimate-walkthrough-for-integrating-flac-into-your-itunes-library/"><u>Enable High-Quality Music: The Ultimate Walkthrough for Integrating FLAC Into Your iTunes Library</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/epc/"><u>EアニメストアからPCへの動画取り込み手順：一流の戦略</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-video-editing-issues-seamlessly-implementing-hevc-media-into-adobe-after-effects/"><u>Fix Your Video Editing Issues: Seamlessly Implementing HEVC Media Into Adobe After Effects</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-for-optimal-performance-corsair-k70-driverssoftware-pack/"><u>Free Download for Optimal Performance: Corsair K70 Drivers/Software Pack</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-asus-monitor-up-and-running-seamless-driver-installation/"><u>Get Your ASUS Monitor Up and Running: Seamless Driver Installation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-gionee-f3-pro-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Gionee F3 Pro using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-install-intels-advanced-wireless-ac-7260-network-driver-on-your-device/"><u>How to Seamlessly Install Intel's Advanced Wireless-AC 7260 Network Driver on Your Device!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-samsung-galaxy-a14-4g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Samsung Galaxy A14 4G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-beginners-blueprint-to-building-top-10-easy-to-create-biz-youtubes/"><u>In 2024, The Beginner's Blueprint to Building Top 10 Easy-to-Create Biz YouTubes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-selection-of-computers-for-classroom-success-a-comprehensive-guide/"><u>Mastering the Selection of Computers for Classroom Success: A Comprehensive Guide</u></a></li>
 </ul></div>
 

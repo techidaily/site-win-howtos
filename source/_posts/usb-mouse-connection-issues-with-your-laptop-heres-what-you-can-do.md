@@ -1,7 +1,7 @@
 ---
 title: USB Mouse Connection Issues with Your Laptop? Here's What You Can Do
-date: 2024-12-16T23:13:42.868Z
-updated: 2024-12-22T16:40:31.503Z
+date: 2024-12-23T10:20:43.178Z
+updated: 2024-12-28T07:03:08.721Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Make sure your power icon is turned on
@@ -38,13 +38,17 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2）Click**Turn system icons on or off**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-6.png)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Make sure **Power** is on.  
   
@@ -61,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-1.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
 
  This problem could be also caused by a wrong battery driver. You can solve it through reinstalling your battery driver.
@@ -74,10 +74,6 @@ Follow these:
  \[Alternatively, you can update your AC adapter driver automatically via **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  \]  
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
@@ -90,13 +86,17 @@ Follow these:
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/9.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
 
@@ -125,14 +125,16 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-tips-to-quicken-instagram-content-engagement/"><u>[New] 2024 Approved Tips to Quicken Instagram Content Engagement</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-aspect-ratios-decoded-youtube-edition-a-quick-reference-guide-for-2024/"><u>[New] Aspect Ratios Decoded YouTube Edition – A Quick Reference Guide for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-ways-to-fix-broken-usb-interface-on-windows-11-pcs/"><u>Effective Ways to Fix Broken USB Interface on Windows 11 PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-non-responsive-fn-key-issues-on-your-computer/"><u>How to Fix Non-Responsive Fn Key Issues on Your Computer</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-htc-u23-pro-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your HTC U23 Pro</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/mastering-the-game-against-delayed-launches-in-fortnite-easy-steps-inside/"><u>Mastering the Game Against Delayed Launches in Fortnite | Easy Steps Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202776326-shift-key-issues-heres-how-you-can-get-it-working-again/"><u>Shift Key Issues? Here's How You Can Get It Working Again!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-6-solutions-when-family-sharing-subscription-links-fail/"><u>Top 6 Solutions When Family Sharing Subscription Links Fail</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-the-net-framework-35-installation-hurdle-overcoming-error-code-0x800f081f/"><u>Troubleshooting Guide: Resolving the .NET Framework 3.5 Installation Hurdle - Overcoming Error Code 0X800F081F</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-unleash-creative-potential-tips-and-tricks-for-filming-with-logitech-cam/"><u>[Updated] In 2024, Unleash Creative Potential Tips and Tricks for Filming with Logitech Cam</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gif-mov/"><u>「効果的な GIFから MOVへのアニメ変換ガイド」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-guide-on-bulk-changing-m4a-audio-into-mp3-format/"><u>Effortless Guide on Bulk Changing M4A Audio Into MP3 Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-guide-removing-movavi-branding-from-your-videography/"><u>Effortless Guide: Removing Movavi Branding From Your Videography</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-conversion-of-alaw-audio-files-to-mp3-movavi/"><u>Free Online Conversion of Alaw Audio Files to MP3 - Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-sky-high-savings-lock-in-lower-airfare-prices-with-the-exclusive-deals-from-dollar-flight-club-secure-your-passage-now/"><u>Get Sky-High Savings: Lock in Lower Airfare Prices with the Exclusive Deals From Dollar Flight Club - Secure Your Passage Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/goprolrvmp4/"><u>GoProレコーディングされたLRV映像を圧縮してMP4にするテクニック</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-s24plus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Samsung Galaxy S24+ to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4-mov/"><u>MP4へ変換! MOVファイルの最適化ガイド</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-how-to-stream-on-twitch-the-ultimate-guide/"><u>New In 2024, How to Stream on Twitch The Ultimate Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/vn-video-editor-pro-does-it-deliver-on-its-promises-for-2024/"><u>VN Video Editor Pro Does It Deliver on Its Promises for 2024</u></a></li>
 </ul></div>
 

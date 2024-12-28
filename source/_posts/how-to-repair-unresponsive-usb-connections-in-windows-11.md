@@ -1,7 +1,7 @@
 ---
 title: How to Repair Unresponsive USB Connections in Windows 11
-date: 2024-09-05T10:08:29.193Z
-updated: 2024-09-06T10:08:29.193Z
+date: 2024-12-23T03:23:03.122Z
+updated: 2024-12-28T02:40:48.428Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 
 If you’re getting so frustrated that you have to type and then wait awfully long for your keyboard to slowly spit words out, don’t worry. Here’re 4 fixes that have helped other users resolve this**keyboard lag** problem, check them out…
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Fixes for Keyboard Lag
 
  All the fixes below work in**Windows 10** . You may not have to try all of them; just work your way down the list until the**keyboard lag** issue has been resolved.
@@ -31,6 +25,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 2. **[Run Hardware and Devices troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 3. [**Update your keyboard driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Run DISM](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware issues
 
@@ -42,6 +40,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 2. Try a different (and functioning) keyboard on your computer. Test if the delay still happens. If the issue disappears, then it’s probably that the first keyboard is faulty. If the delay issue still occurs, then move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run Hardware and Devices troubleshooter
 
@@ -57,12 +59,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your keyboard driver
 
  This**keyboard lag** issue may also occur if you have the wrong or corrupt keyboard driver. So you should update these drivers to to see if it fixes the problem. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -77,28 +73,20 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer, test your keyboard and hopefully it can catch up unfailingly this time. If yes, then congrats and enjoy typing! But if it’s still no joy, please move on to**Fix 4** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Run DISM
 
  Sometimes this keyboard delay problem happens because of corruption and misconfigurations on your computer. If that’s the case, you’ll have to**run**   **DISM** to check and fix the error.
@@ -106,27 +94,18 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
+
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
 4. Restart your computer, type a few words and see if it registers as expected.
@@ -146,8 +125,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +132,18 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-advanced.techidaily.com/critiquing-the-newest-microsoft-os-has-windows-11-earned-its-unpopular-status-too-quickly/"><u>Critiquing the Newest Microsoft OS: Has Windows 11 Earned Its Unpopular Status Too Quickly?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-overcome-windows-camera-error-0xa00f4292/"><u>Fixing the Issue: How to Overcome Windows Camera Error 0xA00F4292</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-bringing-an-hidden-or-missing-window-back-onto-the-screen/"><u>Guide: Bringing an Hidden or Missing Window Back Onto the Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s with a Mask On</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/keep-the-curiosity-alive-with-these-6-viewer-friendly-types/"><u>Keep the Curiosity Alive with These 6 Viewer-Friendly Types</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/step-by-step-guide-creating-new-user-profiles-in-yl-computing-systems-tips-from-yl-software/"><u>Step-by-Step Guide: Creating New User Profiles in YL Computing Systems - Tips From YL Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/superior-graphics-processors-in-4k-territory/"><u>Superior Graphics Processors in 4K Territory</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-0x80070490-error-during-windows-update-process/"><u>Troubleshooting and Fixing 0X80070490 Error During Windows Update Process</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-how-to-repair-an-unresponsive-aoc-monitor-on-windows-11/"><u>Troubleshooting Steps: How to Repair an Unresponsive AOC Monitor on Windows 11</u></a></li>
+</ul></div>
 

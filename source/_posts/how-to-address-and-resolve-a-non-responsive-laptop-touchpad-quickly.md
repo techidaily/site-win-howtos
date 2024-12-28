@@ -1,7 +1,7 @@
 ---
 title: How to Address and Resolve a Non-Responsive Laptop Touchpad Quickly
-date: 2024-12-18T22:35:36.895Z
-updated: 2024-12-22T20:04:28.850Z
+date: 2024-12-27T08:45:42.342Z
+updated: 2024-12-28T08:55:33.751Z
 tags:
   - win11
   - win10
@@ -44,26 +44,14 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf297e71ab26.png)
 3. In the view of**Category** , click**Hardware and Sound** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf298111eba5.jpg)
 4. Under**Devices and Printers** , click**Mouse** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29836c37da.jpg)
 5. Select the last tab. (The last tab is usually for touchpad configuration if you have a touchpad. And its name varies with different models of computer.) Then you can select a checkbox or click a button to enable your touchpad.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29c061bc83.jpg)
 6. Check if your touchpad problem is resolved. If not, move on to Tip 2, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -81,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 3: Change your mouse pointer
 
  To fix scrolling on touchpad not working, you can also try changing your mouse pointer. It worked for some users.
@@ -91,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 3. Click**Apply** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Check if your touchpad now works properly. If not, try Tip 4, below.
@@ -99,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip 4: Update your touchpad driver
@@ -117,8 +109,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money-back guarantee.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf22faf2a3c4.jpg)
 4. Restart your computer and check if your touchpad now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -143,17 +143,24 @@ Hopefully, this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-optimizing-mov-file-storage-in-windows-10-systems-for-2024/"><u>[New] Optimizing .mov File Storage in Windows 10 Systems for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-crops-and-cultivation-compilation/"><u>[New] The Ultimate Crops & Cultivation Compilation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-review-of-syma-x5c-the-ultimate-drone-guide-for-new-users/"><u>[Updated] Review of Syma X5C – The Ultimate Drone Guide for New Users</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-your-engagement-now-discover-these-key-youtube-shortcuts/"><u>Boost Your Engagement Now! - Discover These Key YouTube Shortcuts</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/daily-bulbarian-duo-study-and-play/"><u>Daily Bulbarian Duo: Study & Play</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-to-reinstate-the-bluetooth-icon-in-your-windows-10-interface/"><u>Easy Fixes to Reinstate the Bluetooth Icon in Your Windows 10 Interface</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-streamlight-solutions-best-for-video-illumination/"><u>In 2024, Streamlight Solutions Best for Video Illumination</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-upcoming-games-with-industry-experts/"><u>In 2024, Upcoming Games with Industry Experts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fix-learn-the-easy-reset-procedure-to-bring-your-keyboard-back-to-life/"><u>Quick Fix: Learn the Easy Reset Procedure to Bring Your Keyboard Back to Life</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-troubleshooting-and-fixing-oddworld-soulstorm-for-stable-pc-gaming-experience/"><u>Solved: Troubleshooting and Fixing Oddworld: Soulstorm for Stable PC Gaming Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210213584-windows-10-blue-screen-blues-heres-how-to-end-the-loop-of-unexpected-reboots/"><u>Windows 10 Blue Screen Blues? Here's How to End the Loop of Unexpected Reboots</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-deep-dive-into-the-core-functionalities-of-zdsoft-for-2024/"><u>[New] Deep Dive Into the Core Functionalities of ZDSoft for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-high-definition-flight-testing-xiaomi-mi-drone-probe-for-2024/"><u>[New] High-Definition Flight Testing - Xiaomi Mi Drone Probe for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-enhance-your-videos-call-to-action-a-step-by-step-filmora-guide/"><u>[Updated] Enhance Your Video's Call-to-Action A Step-by-Step Filmora Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-essential-skills-for-efficient-teamsnap-photo-taking/"><u>[Updated] Essential Skills for Efficient TeamSnap Photo Taking</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-exploring-non-google-ar-visual-interactions-for-2024/"><u>[Updated] Exploring Non-Google Ar Visual Interactions for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-uncover-ustream-plus-alternatives/"><u>[Updated] In 2024, Uncover Ustream Plus Alternatives</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a34-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A34 5G Phone FRP Lock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-quickly-converting-your-mp3-tracks-to-m4a-format/"><u>Step-by-Step Tutorial on Quickly Converting Your MP3 Tracks to M4A Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-steps-for-setting-up-titanium-kodi-fridge-on-latest-kodi-versions-including-leia-18/"><u>Successful Steps for Setting Up Titanium Kodi Fridge on Latest Kodi Versions Including Leia 18.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-step-by-step-tutorial-on-integrating-subtitles-in-handbrake/"><u>The Ultimate Step-by-Step Tutorial on Integrating Subtitles in HandBrake</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-12-free-software-convert-wmv-files-into-mp4-format-with-ease/"><u>Top 12 Free Software: Convert WMV Files Into MP4 Format with Ease</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/top-snapchat-content-strategies-to-stand-out/"><u>Top Snapchat Content Strategies to Stand Out</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-techniques-for-effortlessly-downloading-videos-from-firefox/"><u>Top Techniques for Effortlessly Downloading Videos From Firefox</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/topo-das-melhores-cinefilos-online-gratis-substitutas-para-o-windows/"><u>Topo Das Melhores Cinéfilos Online Grátis - Substitutas Para O Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-top-10-free-media-player-apps-compatible-with-all-platforms-windows-macos-android-and-ios/"><u>Ultimate Guide: Top 10 Free Media Player Apps Compatible with All Platforms (Windows, macOS, Android & iOS)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-step-by-step-tutorial-discreetly-capturing-screenshots-on-bereal-no-notifications-required-updated/"><u>Ultimate Step-by-Step Tutorial: Discreetly Capturing Screenshots on BeReal (No Notifications Required) - Updated !</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/watching-avi-files-with-chromecast-three-easy-techniques/"><u>Watching AVI Files with Chromecast: Three Easy Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/surfacehddssddvd/"><u>スパッと解決! Surface上で外付けHDD/SSDを用いたDVD視聴不能問題に対するツール</u></a></li>
 </ul></div>
 

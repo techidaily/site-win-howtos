@@ -1,7 +1,7 @@
 ---
 title: Resolving Stalled Windows 11 Installation and Update Problems
-date: 2024-12-17T21:23:32.162Z
-updated: 2024-12-22T22:12:57.501Z
+date: 2024-12-23T02:08:12.518Z
+updated: 2024-12-28T14:16:16.891Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ You will be very annoyed when you get this update error. Your Windows Update kee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Install the update with Windows 10 Update Assistant
 
 Microsoft has released an update installation tool named**Windows 10 Update Assistant**for Windows 10 users. It can help you update your Windows 10 to the latest version. If you get stuck in installing the 1607 update, you can try updating your system with this tool instead of Windows Update. To download and run Windows 10 Update Assistant:**1)**Go to the[**Microsoft software download website**](https://www.microsoft.com/en-us/software-download/windows10).**2)** Click the**Update Now**button. This will download Windows 10 Update Assistant.
@@ -41,20 +37,20 @@ Microsoft has released an update installation tool named**Windows 10 Update Assi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a002e5ecc61b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Follow the instructions to download and install the latest update.**5)** When the process finishes, your operating system will be updated to the latest version, and the update failed issue will be fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Reset the Windows Update components
 
 You may fail to install the 1607 update because the**Windows Update components**on your computer are corrupted. These components include the services and temporary files required by or related to Windows Update. You can try resetting these components and see if this can fix your problem. To reset the Windows Update components:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right click**Command Prompt**and select**Run as administrator**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** In Command Prompt, type the following lines of command and press**Enter**on your keyboard after typing each:
 
@@ -72,21 +68,25 @@ You may fail to install the 1607 update because the**Windows Update components**
 * _**net start cryptsvc**_
 **5)**Run Windows Update and check to see if your computer can install the 1607 update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3: Run the DISM utility
 
 Your system may fail to install the 1607 update because something corrupts your Windows image, which is necessary for the important system features like Windows Update. You can try running the**DISM**(Deployment Image Servicing and Management) utility to repair your Windows image. To run DISM:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right click**Command Prompt**and select**Run as administrator**.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png) **2)** In Command Prompt, type “_**DISM.exe /Online /Cleanup-image /Restorehealth**_” and press**Enter**on your keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0150723fc23.png)
 
-**3)** Wait for the utility to complete repairing your Windows image. Then restart your computer and check to see if this fixes your update problem.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**3)** Wait for the utility to complete repairing your Windows image. Then restart your computer and check to see if this fixes your update problem.
 
 ## Method 4: Temporarily disable your antivirus software
 
@@ -110,20 +110,24 @@ Sometimes your system can’t install new updates due to the interference from y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-navigating-the-m1-space-apples-lightest-or-heaviest-model-in-2024/"><u>[New] Navigating the M1 Space Apple's Lightest or Heaviest Model, In 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fast-forward-features-unveiled-the-editors-guidebook/"><u>[Updated] Fast-Forward Features Unveiled The Editor's Guidebook</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-windows-10-users-guide-saving-mov-files-flawlessly/"><u>2024 Approved Windows 10 Users' Guide Saving .mov Files Flawlessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-remedying-the-culprit-behind-cpu-spikes-svchostexe-on-windows-10/"><u>Diagnosing and Remedying the Culprit Behind CPU Spikes: svchost.exe on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-windows-11-users-struggling-with-broken-hp-laptop-cameras-your-ultimate-resource/"><u>Effective Fixes for Windows 11 Users Struggling with Broken HP Laptop Cameras: Your Ultimate Resource</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-pdf-understanding-via-chatgpts-4-tools/"><u>Enhance PDF Understanding via ChatGPT's 4 Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-fixes-for-when-your-computer-says-it-has-too-few-resources/"><u>Essential Fixes for When Your Computer Says It Has Too Few Resources</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/spotlight-on-speeding-up-your-pcs-outlook/"><u>Spotlight on Speeding Up Your PC's Outlook</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streamlined-techniques-for-discovering-highly-engaged-youtube-remarks-for-2024/"><u>Streamlined Techniques for Discovering Highly Engaged YouTube Remarks for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/troubleshooting-and-solutions-for-hevc-compatibility-issues-on-windows-systems/"><u>Troubleshooting and Solutions for HEVC Compatibility Issues on Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-repair-for-malfunctioning-intel-graphics-memory-modules/"><u>Troubleshooting Guide: Repair for Malfunctioning Intel Graphics Memory Modules</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-a-smoother-cs2-experience-tackling-lag-and-high-ping-issues-in-counter-strike-2/"><u>Ultimate Fixes for a Smoother CS2 Experience: Tackling Lag and High Ping Issues in Counter-Strike 2</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-crc-fixing-the-common-data-verification-error/"><u>Understanding CRC - Fixing the Common Data Verification Error</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/unlock-audio-content-in-vimeo-using-mp3-technology-for-2024/"><u>Unlock Audio Content in Vimeo Using MP3 Technology for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unsupported-screen-input-issue-resolved-monitor-fix-guide/"><u>Unsupported Screen Input Issue Resolved: Monitor Fix Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-decoding-the-revised-youtube-earnings-criteria/"><u>[New] 2024 Approved Decoding the Revised YouTube Earnings Criteria</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-enhancing-call-clarity-silencing-distractions/"><u>[New] Enhancing Call Clarity Silencing Distractions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-history-handling-top-4-extensions-for-gpt-3/"><u>Effortless History Handling - Top 4 Extensions for GPT-3</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-printer-driver-downloads-get-them-now/"><u>HP Printer Driver Downloads - Get Them Now!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-oppo-a78-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Oppo A78 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/offline-viewing-simple-steps-to-downloading-your-favorite-films-series-tunes/"><u>Offline Viewing: Simple Steps to Downloading Your Favorite Films, Series, Tunes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc-windows-11/"><u>PC画面動画キャプチャツールをお勧めする - Windows 11で使う方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-how-to-transform-avchd-videos-into-mp4-with-simple-tools/"><u>Quick Guide: How to Transform AVCHD Videos Into MP4 with Simple Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rapid-and-simple-mts-file-consolidation-made-easy-discover-leading-merger-solutions-today/"><u>Rapid & Simple MTS File Consolidation Made Easy: Discover Leading Merger Solutions Today</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revamp-your-computers-clock-display-top-5-tools-for-animated-windows-screensaver-creation/"><u>Revamp Your Computer's Clock Display: Top 5 Tools for Animated Windows Screensaver Creation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rotate-your-videos-like-a-pro-with-these-easy-tips-for-adobe-premiere-pro-users/"><u>Rotate Your Videos Like a Pro with These Easy Tips for Adobe Premiere Pro Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-steps-converting-your-dvds-into-mkv-format-with-windows-11-and-10/"><u>Simple Steps: Converting Your DVDs Into MKV Format with Windows 11 & 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721452345211-speeding-up-a-slow-iphone-here-are-6-reasons-and-fixes-you-cant-miss/"><u>Speeding Up a Slow iPhone? Here Are 6 Reasons & Fixes You Can't Miss</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-converting-mp4-files-to-3gp-format-online-and-offline/"><u>Step-by-Step Guide: Converting MP4 Files to 3GP Format Online and Offline</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-mastering-video-editing-techniques-in-windows-11/"><u>Step-by-Step Guide: Mastering Video Editing Techniques in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-enable-offline-accessibility-on-your-youtube-content/"><u>Step-by-Step Tutorial: Enable Offline Accessibility on Your YouTube Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/trailblaze-your-way-to-success-insights-on-youtube-metrics-with-social-blade-for-2024/"><u>Trailblaze Your Way to Success Insights on YouTube Metrics with Social Blade for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeo-earnings-unlocked-strategies-for-content-creators/"><u>Vimeo Earnings Unlocked Strategies for Content Creators</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/wie-man-emails-sicher-exportiert-masterclass-fur-den-transfer-von-mails-vom-postfach-auf-macos/"><u>Wie Man Emails Sicher Exportiert: Masterclass Für Den Transfer Von Mails Vom Postfach Auf macOS</u></a></li>
 </ul></div>
 

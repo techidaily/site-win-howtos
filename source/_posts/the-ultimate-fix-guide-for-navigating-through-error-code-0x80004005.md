@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Fix Guide for Navigating Through 'Error Code: 0X80004005'"
-date: 2024-09-05T10:08:59.181Z
-updated: 2024-09-06T10:08:59.181Z
+date: 2024-12-23T00:53:58.274Z
+updated: 2024-12-27T19:54:08.974Z
 tags:
   - win11
   - win10
@@ -27,18 +27,6 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/0xc0000098.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  _Error Code**0xc0000098**_  o_n Windows 10, 8, 8.1_
 
 ## Try these fixes
@@ -66,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/download-win-10-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Download the installation media and save it on your computer.
 
 3) Double-click the Media Creation Tool to launch the tool.
@@ -91,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 **Note:** The key to access BIOS can vary from**Esc** ,**Delete** to**F2** ,**F8** ,**F12** , depending on your manufacturer and computer model.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/keyboard-bios-keys.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Once in BIOS, go to the**Boot** sector and set**Removable Devices** or**CD-Rom Drive** as the first boot device.
 
  4) Save the changes and exit.
@@ -107,12 +103,6 @@ thumbnail: https://thmb.techidaily.com/b4422105d5b201d3b53a4eb264e1f06b970718d58
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/command-prompt.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) In Command Prompt, type the following command lines and hit Enter after each command. (There’s a space between**bootrec** and**/** .)
 
 bootrec /scanos
@@ -129,6 +119,10 @@ bootrec /rebuildbcd
 
  The 0xc0000098 error should now be fixed as your PC begins to load. If not, try the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Startup Repair
 
  Startup Repair is a built-in tool to diagnose and repair some common problems on Windows. You may need to run Startup Repair (even 2 or 3 times).
@@ -139,28 +133,10 @@ bootrec /rebuildbcd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-repair.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Startup Repair will begin scanning your installation for known issues and will attempt a repair if it finds any.
 
  4) If it fails, you can run Startup Repair again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: CHKDSK
 
  CHKDSK, short for “check disk”, aims to check disk and verify system files for any errors.
@@ -179,6 +155,10 @@ chkdsk C: /f /r /x
 
 4) Close Command Prompt and restart your device to check if the Windows system can load up again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: System File Checker
 
  The error 0xc0000098 can also be caused by missing or corrupt system files. System File Checker (SFC) can help you to restore the missing files and repair any problematic ones.
@@ -191,12 +171,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 2) Wait for the scan to finish.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Use a Windows Fortect Tool
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  Windows repair works by replacing system files automatically. It’s like a clean Windows reinstallation in one hour, without losing any programs, settings, or user data. It can fix the 0xc0000098 error code without a computer restart.
@@ -207,36 +181,16 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Start Repair** to restore any corrupted files. You will need to purchase a license key to do so and don’t have pressure on it, for it has a 60-day money-back guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Enter your license key and the restoration will begin automatically. Reimage handles all.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Perform a clean install of Windows
 
  If neither of the fixes above did the trick, then you need to do a clean reinstall of Windows to fix your issues and return your PC to a cleaner state.
@@ -265,11 +219,19 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Windows-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Type**Check for updates** in the Search box and press**Enter** .
 
 ##### 2\. Device Manager
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In Device Manager, right-click your device and select**Update Driver** then choose search automatically.
 
@@ -293,22 +255,10 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of all essential and peripheral drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get**full support** and a no-questions-asked**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Note: You can do it for free if you like, but it’s partly manual.
 
  If you need assistance or have any questions, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
@@ -324,8 +274,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -333,4 +281,26 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/a-comprehensive-approach-to-mastering-the-art-of-instagram-reels/"><u>A Comprehensive Approach to Mastering the Art of Instagram Reels</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/alexa-or-google-assistant-an-in-depth-comparison-to-help-you-decide-which-is-better-for-your-needs/"><u>Alexa or Google Assistant? An In-Depth Comparison to Help You Decide Which Is Better for Your Needs</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/comprehensive-tutorial-on-creating-direct-vm-and-host-system-images-in-vmware-esxi/"><u>Comprehensive Tutorial on Creating Direct VM and Host System Images in VMware ESXi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discovering-the-spreadsheet-span-mastering-excels-range-detection/"><u>Discovering the Spreadsheet Span: Mastering Excel's Range Detection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dynamic-emoji-insertion-in-excel-a-step-by-step-guide-to-enhance-your-spreadsheets/"><u>Dynamic Emoji Insertion in Excel: A Step-by-Step Guide to Enhance Your Spreadsheets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/edit-and-share-office-files-with-facebook-contacts-via-docscom-seamless-collaboration-solutions/"><u>Edit and Share Office Files with Facebook Contacts via Docs.com - Seamless Collaboration Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-techniques-for-cell-counting-in-microsoft-excel/"><u>Effective Techniques for Cell Counting in Microsoft Excel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-techniques-for-identifying-linked-workbooks-in-excel-spreadsheets/"><u>Effective Techniques for Identifying Linked Workbooks in Excel Spreadsheets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminating-redundancy-a-step-by-step-guide-to-removing-duplicate-rows-in-microsoft-excel/"><u>Eliminating Redundancy: A Step-by-Step Guide to Removing DUPLICATE Rows in Microsoft Excel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enable-oscuro-modo-comprehensive-tutorial-for-dark-settings-on-windows/"><u>Enable Oscuro Modo: Comprehensive Tutorial for Dark Settings on Windows</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/exploring-the-impact-of-the-manchus-on-chinese-heritage-a-comprehensive-analysis-by-yl-computing-solutions/"><u>Exploring the Impact of the Manchus on Chinese Heritage: A Comprehensive Analysis by YL Computing Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-detecting-and-correcting-data-discrepancies-in-ms-excel-workbooks/"><u>Guide: Detecting and Correcting Data Discrepancies in MS Excel Workbooks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-removing-or-masking-erroneous-data-points-and-warnings-in-microsoft-excel-tables/"><u>Guide: Removing or Masking Erroneous Data Points and Warnings in Microsoft Excel Tables</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-google-pixel-fold-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Google Pixel Fold to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transform-avchd-video-files-into-mp4-format-at-no-cost-on-windows-11/"><u>How to Transform AVCHD Video Files Into MP4 Format at No Cost on Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/optimal-social-media-practice-pros-and-cons-of-fb-event-management/"><u>Optimal Social Media Practice: Pros & Cons of FB Event Management</u></a></li>
+<li><a href="https://article-helps.techidaily.com/top-20-free-unlicensed-pubg-screenshot-compilations-for-2024/"><u>Top 20 Free Unlicensed PUBG Screenshot Compilations for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-picks-best-free-cross-platform-video-communication-tools-for-2024/"><u>Top Picks Best Free Cross-Platform Video Communication Tools for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transforming-memories-the-ultimate-method-for-transferring-vcr-footage-onto-high-definition-dvds/"><u>Transforming Memories: The Ultimate Method for Transferring VCR Footage Onto High-Definition DVDs</u></a></li>
+</ul></div>
 

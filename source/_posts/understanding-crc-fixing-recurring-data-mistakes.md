@@ -1,7 +1,7 @@
 ---
 title: "Understanding CRC: Fixing Recurring Data Mistakes"
-date: 2024-09-05T10:09:22.573Z
-updated: 2024-09-06T10:09:22.573Z
+date: 2024-12-21T16:14:36.644Z
+updated: 2024-12-28T10:54:17.255Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Understanding CRC: Fixing Recurring Data Mistak
 thumbnail: https://thmb.techidaily.com/ce80644caee7b986767dc148a3626afb6dedcf8d303ed5814c688bdf2e6498bb.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Ultimate Guide: Fixing and Preventing Critical Errors in Google Chrome - Stay Protected
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/google-red-screen-1024x671.jpg)
@@ -50,6 +44,10 @@ the picture was taken by: Article\_86
 4. [**Clear Google Chrome cache**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Get an ad-block extension
 
  Because this scam is a fraud page, technically it won’t do severe harm to your computer. The working mechanism of this scam is like an ad. Screening fraudulent users to defraud money. So an ad-block extension can help.
@@ -57,11 +55,9 @@ the picture was taken by: Article\_86
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Run a virus scan
 
  Do a clean virus scan is important after you met the scam. In case your computer gets infected by it, it’s no harm to do so. You can use the antivirus software on your computer or run Windows Defender. Just make sure the software has updated to the latest version.  
@@ -79,22 +75,14 @@ the picture was taken by: Article\_86
 1. Double click the Google Chrome shortcut.
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Relaunch Chrome to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Clear Google Chrome cache
 
  When the**Google Chrome Critical ERROR** was loaded by Chrome it created a small cache file. Although it would be detected by antivirus software, it’s recommended to clear your cache to prevent it appears again.
@@ -105,29 +93,15 @@ the picture was taken by: Article\_86
 3. In the open window, click **Clear browsing data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Reset Google Chrome to default settings
 
  If you don’t remember which extension or change you’ve made before you met the scam, you can simply reset Google Chrome to default settings. This function won’t affect your saved bookmarks or passwords. It will make Chrome back to default configurations and remove all the settings that might cause this unresponsive error.
@@ -136,31 +110,22 @@ the picture was taken by: Article\_86
 2. Hit the three dots button in the upper right corner, then click **Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/5.10-2.jpg)
 3. Scroll down to the bottom and click **Advanced** .
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TIPS: Avoid Google Chrome Critical Error
 
@@ -188,8 +153,6 @@ Spam emails may carry the form of download links or a file attachment.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +160,26 @@ Spam emails may carry the form of download links or a file attachment.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-youtube-movie-maker-unveiled-your-path-to-video-mastery/"><u>[New] 2024 Approved YouTube Movie Maker Unveiled Your Path to Video Mastery</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ideal-mac-voice-storage-tools-the-most-reliable-5-for-2024/"><u>[New] Ideal Mac Voice Storage Tools The Most Reliable 5 for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-essential-youtube-movie-binge-guides/"><u>[Updated] In 2024, Essential YouTube Movie Binge Guides</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-tutorial-to-create-engaging-valorant-videos-with-thumbnails/"><u>[Updated] Step-by-Step Tutorial to Create Engaging Valorant Videos with Thumbnails</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-apowersoft-reviewed-a-guide-to-pc-screen-capture/"><u>2024 Approved Apowersoft Reviewed A Guide to PC Screen Capture</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-film-finishing-finesse-download-personalized-epilogues-no-money/"><u>2024 Approved Film Finishing Finesse Download Personalized Epilogues, No Money</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-transforming-business-with-metaverse-ideas/"><u>2024 Approved Transforming Business with Metaverse Ideas</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-no-device-drivers-detected-error-when-installing-windows-7/"><u>Easy Fixes for 'No Device Drivers Detected' Error When Installing Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-back-on-track-troubleshooting-my-minecraft-servers-lan-issues/"><u>Getting Back on Track: Troubleshooting My Minecraft Server’s LAN Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205381280-how-to-fix-windows-7-update-stuck-2024-tips/"><u>How to Fix Windows 7 Update Stuck - 2024 Tips</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-poco-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Poco Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/logitechs-leap-forward-wireless-woes-end/"><u>Logitech's Leap Forward: Wireless Woes End</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-bluetooth-pairing-expert-advice-for-windows-7-users/"><u>Mastering Bluetooth Pairing: Expert Advice for Windows 7 Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-y02t-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo Y02T Phone? Unlock It Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-reactivate-intrinsic-local-security-functionality/"><u>Resolved: Reactivate Intrinsic Local Security Functionality</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/streamline-your-gameplay-with-the-newest-amd-vega-graphics-driver-downloads/"><u>Streamline Your Gameplay with the Newest AMD Vega Graphics Driver Downloads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205981019-success-story-how-i-fixed-a-continuous-steam-update-glitch-easily/"><u>Success Story: How I Fixed a Continuous Steam Update Glitch Easily!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restore-windows-11-touchscreen-functionality-with-these-5-techniques/"><u>Troubleshooting Guide: Restore Windows 11 Touchscreen Functionality with These 5 Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unveiling-remedies-overcoming-the-chrome-screen-turned-pitch-black/"><u>Unveiling Remedies: Overcoming the Chrome Screen Turned Pitch Black</u></a></li>
+</ul></div>
 

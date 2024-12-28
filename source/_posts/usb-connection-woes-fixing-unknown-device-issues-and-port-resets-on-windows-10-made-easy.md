@@ -1,7 +1,7 @@
 ---
 title: USB Connection Woes? Fixing Unknown Device Issues & Port Resets on Windows 10 Made Easy
-date: 2024-09-05T10:02:45.128Z
-updated: 2024-09-06T10:02:45.128Z
+date: 2024-12-22T00:19:02.669Z
+updated: 2024-12-28T07:29:48.498Z
 tags:
   - win11
   - win10
@@ -37,12 +37,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58008bc046cc6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. After finishing the uninstallation, restart your PC then Windows will reinstall the device automatically.
 
 **Solution 2: Update the Generic USB Hub Drivers**
@@ -53,28 +47,10 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5800917567e49.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2\. Select**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba30bb3336f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. Select**Let me pick from a list of device drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba30ea9e511.png)
@@ -87,12 +63,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba314393778.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5\. Repeat the steps above to update driver software for every Generic USB Hub until the problem is resolved.
 
  If the problem persists, go to your PC manufacturer’s website to download the latest USB driver according to the PC model and the operating system that you are using.
@@ -114,29 +84,15 @@ Follow below steps.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba31da19f02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2\. Turn off the **Allow the computer to turn off this device to save power** option, and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba31b753d11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -145,4 +101,30 @@ Follow below steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-innovate-iconoclastic-images-using-giphy/"><u>[New] Innovate Iconoclastic Images Using Giphy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ultimate-choice-5-sound-devices-for-streamers/"><u>[New] Ultimate Choice 5 Sound Devices for Streamers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-content-calendar-for-successful-instagram-filmmaking/"><u>[Updated] Content Calendar for Successful Instagram Filmmaking</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-essential-ae-techniques-for-memorable-heads-ups-for-2024/"><u>[Updated] Essential AE Techniques for Memorable Heads-Ups for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-android-3d-player-showcase/"><u>[Updated] Ultimate Android 3D Player Showcase</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-unleash-retro-game-delights-with-the-leading-android-tools-for-ps2-titles/"><u>2024 Approved Unleash Retro Game Delights with the Leading Android Tools for PS2 Titles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-steelseries-arctis-5-headset-microphone-malfunction-resolved/"><u>Fixing the Issue: SteelSeries Arctis 5 Headset Microphone Malfunction Resolved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-unavailable-desktop-error-in-windows-system-configuration-directory/"><u>How to Overcome the Unavailable Desktop Error in Windows System Configuration Directory</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-efficient-obs-usage-live-skype-capture-tips/"><u>In 2024, Efficient OBS Usage Live Skype Capture Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-stepwise-adjustment-fins-speech-on-win-os-devices/"><u>In 2024, Stepwise Adjustment Fins Speech on Win-OS Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/incompatibility-errors-with-windows-10-update-build-1607/"><u>Incompatibility Errors with Windows 10 Update (Build 1607)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-challenge-of-intense-dwm-gpu-utilization-on-windows-10-and-11-with-these-five-fixes/"><u>Overcome the Challenge of Intense DWM GPU Utilization on Windows 10 and 11 with These Five Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211820093-resolved-starting-a-hosted-wi-fi-connection-issues-in-windows-11-fixed/"><u>Resolved: Starting a Hosted Wi-Fi Connection Issues in Windows 11 - Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-d3dxt939dll-file-not-found-issue-a-comprehensive-guide/"><u>Resolving the d3dxt9_39.dll File Not Found Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/smooth-sailing-through-blocky-worlds-overcoming-minecraft-lag-issues/"><u>Smooth Sailing Through Blocky Worlds: Overcoming Minecraft Lag Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/time-reverse-footage-on-your-phone/"><u>Time-Reverse Footage on Your Phone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-6-iphone-security-software-the-ultimate-protection-guide/"><u>Top 6 iPhone Security Software: The Ultimate Protection Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-invisible-mouse-problem-in-windows-11/"><u>Troubleshooting the Invisible Mouse Problem in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-isnt-my-laptop-keyboard-working-tips-for-diagnosis-and-repair/"><u>Why Isn't My Laptop Keyboard Working? Tips for Diagnosis and Repair</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

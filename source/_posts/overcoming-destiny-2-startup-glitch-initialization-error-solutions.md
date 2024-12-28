@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Destiny 2 Startup Glitch: Initialization Error Solutions"
-date: 2024-09-05T10:07:00.752Z
-updated: 2024-09-06T10:07:00.752Z
+date: 2024-12-22T12:51:56.686Z
+updated: 2024-12-27T18:36:00.280Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Overcoming Destiny 2 Startup Glitch: Initializa
 thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea776763c2dea469f5e646eb4f7.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshooting Stuck Personalization Features: Solutions Found
 
 If you’re greeted with a dark screen with this **Personalized Settings (Not Responding)** box in the upper left after**Windows Update** , don’t panic. Many users have reported the same. But luckily they’ve solved this woe with the fixes below. So read on and check them out…
@@ -47,37 +41,13 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Switch the network connection
 
 1. On your keyboard, press**Ctrl** ,**Alt** and**Del** keys at the same time.
 2. In the bottom right of your screen, click **the airplane mode icon![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a54a1f6ef.png)**  
  (or**the computer network icon** ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d23f72604.png) ). T hen click **Airplane mode** whether it’s On or Off to switch the network connection.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d2934707d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. In the middle of your computer screen, click**Sign out** .
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Log in your computer and see if you get your desktop back this time. If the**Personalized Settings (Not Responding)** still lingers on, you should try **Fix 3** , below.
 
 ---
@@ -88,26 +58,32 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 2. Right-click on**Windows Explorer** and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a86cad1b3.jpg)
 3. Click**File** \>**Run new task** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a8edaee0c.jpg)
 4. Type**explorer** into the box, tick**the box** before**Create this task with administrative privileges** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a9de42ba1.png)  
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now you should have your desktop back.
 5. Restart your computer and login again to see if this**Personalized Settings (Not Responding)** issue has been solved.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run SFC Command
 
@@ -115,30 +91,25 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click**Yes** when prompted to confirm.
 2. In the command prompt window, type**sfc /scannow** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient. 🙂
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Restart your computer and see if your desktop loads properly. If the **Personalized Settings (Not Responding)** issue still persists, continue with**Fix 5** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Delete a file in regedit
 
@@ -147,18 +118,6 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 1. On your keyboard, press the **Windows logo key**  and type**regedit** , then right-click on**regedit** and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b3d238270.png)  
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click**Yes** when prompted to confirm.
 2. Locate and double-click on **HKEY\_LOCAL\_MACHINE** \> **SOFTWARE** \> **Microsoft** \> **Active Setup** \> **Installed Components** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b61a4971d.jpg)
@@ -170,12 +129,6 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Want us to fix the problem for you?
 
  If the fix above didn’t work, and you don’t have the time or confidence to troubleshoot the problem for yourself, get us to fix it for you. All you need to do is **[buy a 1-year subscription to Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  (just $29.95) and you get free technical support as part of your purchase. This means you can contact our computer technicians directly and explain your problem, and they’ll investigate to see if they can resolve it remotely.
@@ -192,8 +145,6 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +152,26 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-architecting-an-inspiring-tiktok-conclusion/"><u>[Updated] 2024 Approved Architecting an Inspiring TikTok Conclusion</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-cam-crossover-showdown-sj6-power-meets-yis-four-k-kickstart-for-2024/"><u>[Updated] Cam Crossover Showdown SJ6 Power Meets Yi’s Four-K Kickstart for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ginger-islet-simplified-for-stardew-gamers/"><u>[Updated] Ginger Islet Simplified for Stardew Gamers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726222316516-gifwmv-movavi/"><u>免費在線GIF轉WMV工具 - 利用 Movavi 轉換器服務</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/all-in-one-webcam-suite-with-manycam-integration-upgrade-your-camstumble-experience/"><u>All-in-One Webcam Suite with ManyCam Integration: Upgrade Your Camstumble Experience!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-x-flip-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo X Flip</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-to-eliminate-keyboard-response-delay-in-windows-11/"><u>Comprehensive Fixes to Eliminate Keyboard Response Delay in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-repair-your-dota-2-game-bug-change-rendering-api-error-solved-swiftly/"><u>Diagnose & Repair Your Dota 2 Game Bug: Change Rendering API Error Solved Swiftly!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-diagnosing-and-fixing-the-windows-10-error-code-0x80solved-how-to-fix-the-0x80072efd-error-in-windows-10-into-a-smoothly-running-system/"><u>Expert Tips for Diagnosing and Fixing the Windows 10 Error Code 0X80([Solved] How to Fix the 0X80072EFD Error in Windows 10 Into a Smoothly Running System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-for-failed-attempts-at-updating-to-the-windows-version-1903/"><u>Fixes for Failed Attempts at Updating to the Windows Version 1903</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/google-chrome-stops-working-heres-the-solution/"><u>Google Chrome Stops Working? Here's the Solution</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-screen-recording-google-meets-on-mobile-devices/"><u>In 2024, Screen Recording Google Meets on Mobile Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimize-windows-11-for-better-gaming-results/"><u>Optimize Windows 11 for Better Gaming Results</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/cket-to-1000-subscribers-in-days-for-2024/"><u>Skyrocket to 1,000 Subscribers in Days for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restoring-lighting-on-faulty-corsair-keyboards/"><u>Troubleshooting Guide: Restoring Lighting on Faulty Corsair Keyboards</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/untangling-the-mystery-of-error-0x800705b4-a-definitive-fix-guide-for-windows-10-users/"><u>Untangling The Mystery of Error 0X800705B4: A Definitive Fix Guide for Windows 10 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wacom-malfunction-heres-how-to-repair-your-graphics-tablet/"><u>Wacom Malfunction? Here's How to Repair Your Graphics Tablet</u></a></li>
+</ul></div>
 

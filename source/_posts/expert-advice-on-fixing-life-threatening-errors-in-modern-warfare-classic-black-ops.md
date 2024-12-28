@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Fixing Life-Threatening Errors in Modern Warfare Classic - Black Ops
-date: 2024-09-05T10:05:41.600Z
-updated: 2024-09-06T10:05:41.600Z
+date: 2024-12-26T23:43:37.381Z
+updated: 2024-12-27T23:57:09.646Z
 tags:
   - win11
   - win10
@@ -68,11 +68,9 @@ Recommended System Requirements
 ![turn off Shot Feedback NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-shot-feedback-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Scroll down and switch**Shot Feedback** to**Off** .
 
 ![turn off Shot Feedback NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-shot-feedback-2-3.png)
@@ -80,6 +78,10 @@ Recommended System Requirements
  After applying the changes, relaunch your game and check if the problem is fixed. If not, try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update your graphics drivers
 
@@ -95,16 +97,14 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -124,12 +124,6 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click**Upload to Online Storage** and upload all your data for 2K21 to the cloud.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-2-2.png)
@@ -138,32 +132,12 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-3-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After you’ve done all of these, you need to load back to your game. If it says**high school** when you load it, then you wouldn’t have the green glitch.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Steam
 
  If you play NBA 2K21 on Steam and got the green glitch, you’re supposed to**disable the Steam overlay** and**verify your game files** .
@@ -175,33 +149,13 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-6.png)
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Under the**GENERAL** section, uncheck**Enable the Steam Overlay while in-game** .
 
 ![disable steam overlay NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-3.png)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After applying the change, exit Steam and play your game again to see if the issue is fixed. If not, try verifying your game files.
 
 #### Verify your game files
@@ -214,12 +168,6 @@ To do this, simply follow the instructions below:
 
 ![verify game files NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) When the window pops up, click**LOCAL FILES** \>**VERIFY INTEGRITY OF GAME FILES** . Till then, the verification process will be starting.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-your-game-files-Steam-4.png)
@@ -227,11 +175,9 @@ To do this, simply follow the instructions below:
  3) When the process is completed, restart Steam and launch your game again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Xbox One: make sure the language is set to English
 
  If you don’t set the language to English, then it’s one of the reasons you got the green glitch.
@@ -240,22 +186,14 @@ To do this, simply follow the instructions below:
 
 ![set the language into English NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/set-the-language-into-English-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click**SETTINGS** and scroll down to**Menu Language** and make sure the language is set to**English** .
 
 ![set the language into English NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/language-set-to-English-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
  So these are the fixes that have been tested working for many gamers. If none of them work for you, then you’re supposed to uninstall and reinstall your game. Also, if you have any ideas or questions, do not hesitate to leave us a comment below.
@@ -269,8 +207,6 @@ To do this, simply follow the instructions below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -278,4 +214,19 @@ To do this, simply follow the instructions below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-innovative-photo-tips-for-exquisite-iphone-close-ups-and-macros/"><u>[New] In 2024, Innovative Photo Tips for Exquisite iPhone Close-Ups & Macros</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hero5-review-capturing-extreme-sports/"><u>2024 Approved Hero5 Review Capturing Extreme Sports</u></a></li>
+<li><a href="https://win-net.techidaily.com/1728484045873-sharepoint/"><u>簡併手冊：如何在 SharePoint 中復原非回收桶已刪除文件</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ning-a-blogging-journey-profit-from-your-passion-for-2024/"><u>Beginning a Blogging Journey Profit From Your Passion for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-the-broken-right-click-in-windows-11-systems/"><u>Comprehensive Fixes for the Broken Right-Click in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-overcome-the-unable-to-find-starting-point-problem-on-windows/"><u>Expert Tips to Overcome the 'Unable to Find Starting Point' Problem on Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Nubia Z50S Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-v30-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo V30 Phone Without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-htc-u23-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock HTC U23 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-wireless-mouse-issues-steps-for-windows-11-and-windows-10-users/"><u>Resolving Wireless Mouse Issues: Steps for Windows 11 and Windows 10 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-spiked-cpu-usage-from-audio-drivers-on-your-pc/"><u>Troubleshooting Spiked CPU Usage From Audio Drivers on Your PC</u></a></li>
+</ul></div>
 

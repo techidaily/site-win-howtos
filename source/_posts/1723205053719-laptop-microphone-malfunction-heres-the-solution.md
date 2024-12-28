@@ -1,7 +1,7 @@
 ---
 title: Laptop Microphone Malfunction? Here's the Solution!
-date: 2024-12-18T19:33:21.504Z
-updated: 2024-12-23T00:32:34.458Z
+date: 2024-12-24T18:59:07.069Z
+updated: 2024-12-28T09:22:21.376Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ Read on this small guide and follow to solve the problem on your Windows.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is Diagnostics Policy Service?
 
  The Diagnostic Policy Service enables problem detection, troubleshooting and resolution for Windows components on your Windows operating system. If this service is not running, diagnostics will no longer function.
@@ -45,6 +41,10 @@ Read on this small guide and follow to solve the problem on your Windows.
 1. [Check the Diagnostics Policy Service in the Services window](#solution1)
 2. [Give the network service and local service administrator privilege on your Windows](#solution2)
 3. [Reinstall your all network adapters](#solution3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 1: Check the Diagnostics Policy Service in the Services window
 
@@ -58,16 +58,12 @@ Follow these steps：
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f28bd6d2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Locate**Diagnostics Policy Service** , right-click on it to select**Start** , if Start grayed out, click**Restart** instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f6a9233d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Right-click on**Diagnostics Policy Service** again and this time select**Properties** .
@@ -77,10 +73,6 @@ Follow these steps：
  5) Set its Startup type to**Automatic** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5fb52fb20.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Run the Network Diagnostics and see if it goes well.
 
@@ -106,6 +98,10 @@ net localgroup Administrators /add localservice
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d606b83cd1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Close the Command Prompt window, and run the Network Diagnostics to see if it goes well.
 
 ### Solution 3: Reinstall your network adapters
@@ -121,6 +117,10 @@ net localgroup Administrators /add localservice
  3) Double-click**Network adapters** and right-click on your network adapters one by one(if there’re more than one) to select**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d60d018c06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4） Click**Action** \>**Scan for hardware changes** . Microsoft should then reload the network adapter driver automatically.
 
@@ -141,7 +141,7 @@ net localgroup Administrators /add localservice
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad30f1e3ff8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the **FREE** version).
@@ -169,18 +169,21 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/days-gone-when-and-where-to-play-the-fps-adventure-on-pc/"><u>'Days Gone': When and Where to Play the FPS Adventure on PC</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-a-vloggers-guide-to-camera-lenses/"><u>[New] 2024 Approved A Vlogger's Guide To Camera Lenses</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-future-at-your-fingertips-mycams-video-recorder-examined/"><u>[New] 2024 Approved The Future at Your Fingertips – MyCam's Video Recorder Examined</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-victory-lane-best-of-the-top-10-royales/"><u>[New] 2024 Approved Victory Lane Best of the Top 10 Royales</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/asus-laptop-how-to-fix-unresponsive-fn-keys-problems/"><u>ASUS Laptop: How to Fix Unresponsive Fn Keys Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enable-detecting-of-bluetooth-gadgets-on-your-pc-running-windows-10/"><u>Enable Detecting of Bluetooth Gadgets on Your PC Running Windows 10</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-motorola-moto-g34-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Motorola Moto G34 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10s-failure-to-shutdown-a-comprehensive-guide/"><u>Overcoming Windows 10'S Failure to Shutdown - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/pioneering-the-use-of-film-in-educational-methodologies-for-2024/"><u>Pioneering the Use of Film in Educational Methodologies for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-11-update-issues-fixes-and-tips/"><u>Resolving Windows 11 Update Issues: Fixes and Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210723266-skype-microphone-not-working-follow-these-steps-for-a-quick-and-easy-resolution/"><u>Skype Microphone Not Working? Follow These Steps for a Quick and Easy Resolution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-files-for-games-and-streamers-on-windows-systems-solved/"><u>Troubleshooting Missing Files for Games and Streamers on Windows Systems [Solved]</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-lol-skirting-startup-snags-and-stalls/"><u>Win: LOL – Skirting Startup Snags and Stalls</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-enigmatic-eye-slick-camera-tech/"><u>[New] The Enigmatic Eye Slick Camera Tech</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unleash-your-social-media-potential-with-insta-post-magic/"><u>[New] Unleash Your Social Media Potential with Insta Post Magic</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2024asf/"><u>「2024年に開発された最新ASF形式ファイルのプレイバックガイド」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030013254-table/"><u>/Table</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029866480-youtube/"><u>上達すべき YouTube ビデオ素材化のベスト３方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030273612-4k/"><u>最新技術で4K動画からクリアな静止画への変換方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029704987-android/"><u>Android向けビデオフォーマットの再生とスマートフォンへの変換技術</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/demons-souls-remastered-evaluation-enhanced-visuals-retain-classic-gaming-excellence/"><u>Demon's Souls Remastered Evaluation: Enhanced Visuals Retain Classic Gaming Excellence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029709538-flac/"><u>FLACファイルをうまく再生する方法と、問題が起きた時のサポート手順</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-find-and-install-the-best-audio-drivers-for-windows-7/"><u>How to Find and Install the Best Audio Drivers for Windows 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oneplus-12-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from OnePlus 12 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-elevate-editing-by-adding-sounds-into-premiere-pro/"><u>In 2024, Elevate Editing by Adding Sounds Into Premiere Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/pixeled-play-log-audit/"><u>Pixeled Play Log Audit</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-woes-in-windows-11-help-needed/"><u>Printer Woes in Windows 11 - Help Needed!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/your-pathway-to-profit-the-most-straightforward-top-10-business-channels-on-youtube-for-2024/"><u>Your Pathway to Profit The Most Straightforward Top 10 Business Channels on YouTube for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029812328-premiere-pro/"><u>プロフェッショナルな動画昇格：Premiere Proによる品質向上と出力方法</u></a></li>
 </ul></div>
 

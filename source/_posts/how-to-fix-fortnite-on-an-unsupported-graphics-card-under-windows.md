@@ -1,7 +1,7 @@
 ---
 title: How to Fix Fortnite on an Unsupported Graphics Card Under Windows
-date: 2024-09-05T10:09:28.048Z
-updated: 2024-09-06T10:09:28.048Z
+date: 2024-12-26T05:52:37.996Z
+updated: 2024-12-27T23:29:45.669Z
 tags:
   - win11
   - win10
@@ -31,11 +31,9 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 ``
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1\. Turn off “Get tips, tricks, and suggestions as you use Windows” option  
   
  Many Windows 10 users reported that disabling Windows tips immediately drops CPU Usage. So be sure to take it a try.  
@@ -47,52 +45,32 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 ``
 `` ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-1.png)
 ``
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `` 2)  
 `` Click **System** .  
 ``
 `` ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-9.png)
 ``
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 `` 3)  
 `` Click **Notifications & actions**  on the left pane.  
 `` Then scroll down to uncheck **Get tips, tricks, and suggestions as you use Windows**  on the right pane.  
 ``
 `` ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-6.png)
 ``
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 `` You will get rid of the error by this error. If the issue still occur, try next fix.  
 ``
 ``
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2\. Disable background apps  
   
  1)  
@@ -104,18 +82,22 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 ``
 `` ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-2.png)
 ``
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 `` 3)
 `` Scroll down on left pane to choose **Background apps** .  
 `` And uncheck the on-run apps.  
 ``
 `` ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-2.png)
 ``
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 `` That’s all there is to it.  
 ``
@@ -133,8 +115,6 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +122,21 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-best-free-webm-players-how-to-play-webm-video-files/"><u>[New] Best Free WebM Players How to Play WebM Video Files?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-pros-choices-top-4-fullscreen-recording-software-for-pcmac/"><u>[Updated] In 2024, Pros' Choices Top 4 Fullscreen Recording Software for PC/Mac</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-visual-vault-visitor/"><u>[Updated] In 2024, Visual Vault Visitor</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capture-stunning-imagesfilms-using-easy-shifts/"><u>Capture Stunning Images/Films Using Easy Shifts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-diagnosing-and-repairing-driverpowerstatefailure-errors/"><u>Comprehensive Guide to Diagnosing and Repairing DRIVER_POWER_STATE_FAILURE Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dell-laptop-troubleshooting-repairing-non-responsive-fn-key-issues-step-by-step/"><u>Dell Laptop Troubleshooting: Repairing Non-Responsive FN Key Issues Step by Step</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-file-explorer-freezing-on-windows-10-solution-guide/"><u>How to Fix File Explorer Freezing on Windows 10 - Solution Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-oneplus-ace-3-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your OnePlus Ace 3 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-dynamic-expression-techniques-for-animated-text-in-ig-stories/"><u>In 2024, Dynamic Expression Techniques for Animated Text in IG Stories</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-nokia-105-classic-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Nokia 105 Classic</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-windows-10-bluetooth-connection-problems-fast-and-simple/"><u>Solve Your Windows 10 Bluetooth Connection Problems Fast and Simple</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-resolved-windows-no-longer-able-to-find-updates/"><u>Successfully Resolved: Windows No Longer Able To Find Updates?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/g-your-filmed-artistry-on-a-journey-with-imovie-and-youtube/"><u>Taking Your Filmed Artistry on a Journey with iMovie & YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-guide-to-never-ending-snapstreaks/"><u>The Ultimate Guide to Never-Ending Snapstreaks</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcome Windows 11'S Bluetooth Connectivity Glitches: Expert Advice"
-date: 2024-09-05T10:05:29.480Z
-updated: 2024-09-06T10:05:29.480Z
+date: 2024-12-27T06:04:43.307Z
+updated: 2024-12-28T01:58:38.516Z
 tags:
   - win11
   - win10
@@ -27,11 +27,9 @@ thumbnail: https://thmb.techidaily.com/2efc75770914ae3db1b269aa438526aea2b37f029
  **Method 4: [Troubleshoot the hardware issues](#d)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 1: Completely reboot your laptop
 
  The simplest fix to your keyboard issue is to reboot your Acer laptop completely. To do so:
@@ -42,18 +40,6 @@ thumbnail: https://thmb.techidaily.com/2efc75770914ae3db1b269aa438526aea2b37f029
 4. Plug the power cable and the battery back into your laptop.
 5. Power on your computer. Then check to see if this fixes your keyboard.
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Disable Filter Keys
 
 **Filter Keys** is a feature that makes your keyboard ignore brief or repeated keystrokes. It sometimes leads to the issue of the laptop keyboard not working. You can try**disabling Filter Keys** to sort this issue out.
@@ -65,58 +51,30 @@ thumbnail: https://thmb.techidaily.com/2efc75770914ae3db1b269aa438526aea2b37f029
 2. Click **Ease of Access** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a118a26bf.png)
 3. Click **Keyboard** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a1f8bb7c8.png)
-4. Disable the Filter Keys function (switch off**Filter Keys** or uncheck**Turn on Filter Keys** ).  
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a38f0341d.png)
-5. Try your keyboard and see if disabling Filter Keys can restore your keyboard.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a1f8bb7c8.png)
+4. Disable the Filter Keys function (switch off**Filter Keys** or uncheck**Turn on Filter Keys** ).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a38f0341d.png)
+5. Try your keyboard and see if disabling Filter Keys can restore your keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Windows 11
 
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
 2. Go to**Accessibility > Keyboard** .![Windows 11 - disable filter keys via Settings](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 3. Toggle**Off** Filter keys.  
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Filter-keys-Off.jpg)
 4. Now try using your keyboard and see if disabling Filter Keys can restore your keyboard.
 
@@ -130,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/2efc75770914ae3db1b269aa438526aea2b37f029
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/hid-keyboard-device.png)
@@ -155,8 +117,6 @@ thumbnail: https://thmb.techidaily.com/2efc75770914ae3db1b269aa438526aea2b37f029
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +124,23 @@ thumbnail: https://thmb.techidaily.com/2efc75770914ae3db1b269aa438526aea2b37f029
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-5-tricks-for-instantly-boosting-youtube-subscribers/"><u>[New] 2024 Approved 5 Tricks for Instantly Boosting YouTube Subscribers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-4k-visionary-review-blades-spectrum-expansion/"><u>[New] 4K Visionary Review Blade's Spectrum Expansion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-ace-your-adventures-with-gopro-tips/"><u>[New] Ace Your Adventures with GoPro Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-exploring-nextgen-videostreaming-platforms-for-2024/"><u>[New] Exploring NextGen Videostreaming Platforms for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ow-to-watch-deleted-youtube-videos-online-in-2-ways-ultimate-guide/"><u>[New] How to Watch Deleted YouTube Videos Online in 2 Ways | Ultimate Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cutting-edge-camera-and-recording-apps-for-smartphones-most-reliable-sources/"><u>[New] In 2024, Cutting-Edge Camera & Recording Apps for Smartphones' Most Reliable Sources</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ultimate-indoor-adventures-select-escapade-venues/"><u>[New] In 2024, Ultimate Indoor Adventures Select Escapade Venues</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tap-into-tagging-techniques-for-6kplus-youtube-vistas/"><u>[New] Tap Into #Tagging Techniques for $6K+ YouTube Vistas</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207468610-arctis-5-gaming-headset-mic-not-working-heres-how-to-fix-it/"><u>Arctis 5 Gaming Headset Mic Not Working? Here's How to Fix It!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-xs-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211855603-easy-steps-to-resolve-your-cs-go-game-crashes-fast/"><u>Easy Steps to Resolve Your CS: GO Game Crashes Fast!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-cwindowssystem32configsystemprofiledesktop-unavailable-problems/"><u>How to Resolve C: Windows system32 config systemprofile Desktop Unavailable Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-and-fixing-opengl-errors-for-a-smooth-minecraft-experience/"><u>Navigating and Fixing OpenGL Errors for a Smooth Minecraft Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-system-performance-how-to-tackle-high-cpu-utilization-by-svchostexe-in-windows-11/"><u>Optimizing System Performance: How to Tackle High CPU Utilization by svchost.exe in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-steam-api-file-discrepancy/"><u>Resolving Steam API File Discrepancy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210417752-usb-to-hdmi-connection-issues-heres-how-you-can-resolve-them/"><u>USB to HDMI Connection Issues? Here's How You Can Resolve Them!</u></a></li>
+</ul></div>
 

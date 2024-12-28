@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Assistance: Streamlining the Use of File Explorer in Windows 10"
-date: 2024-12-21T22:02:02.997Z
-updated: 2024-12-22T22:48:06.419Z
+date: 2024-12-22T07:00:33.112Z
+updated: 2024-12-28T08:21:31.949Z
 tags:
   - win11
   - win10
@@ -48,9 +48,17 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507a17971f4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iii.** Click the **Advanced** tab. Click the**Settings** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507b4b00aa2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **iv.** Click the **Data Execution Prevention** tab. Select **Turn on DEP for all programs and services except those I select** . Then click**Add** .
 
@@ -70,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad3756980a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In this case, you should**completely cut off the power** of your computer, and then**remove** the RAM(s) from your computer or**replace** them with other RAMs.
 
  (RAM is a hardware component inserted**inside** your computer. You need to**disassemble** your computer to remove or replace it. You can ask a specialist to do it for you, or consult your product manufacturer for assistance.)
@@ -85,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59508823f05fa.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To resolve this error, you can try the methods below.
@@ -103,16 +107,12 @@ To resolve this error, you can try the methods below.
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click on**Update** button next to any device to download its driver. Or you can hit**Update All** button at the bottom to download and install all the drivers (this requires upgrading to**Pro version** ).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/01/Driver-Easy-Update-mouse-driver.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In fact, Driver Easy Pro has also other advanced features like**driver removal or restore** . Plus upgrading to Pro version can get you its**experienced technical support** and**30-day money back guarantee** .
 
@@ -136,21 +136,17 @@ To resolve this error, you can try the methods below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And then in the dialog popping up, click the**System Restore** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **iii.**  In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **e)** You may also get this error because your**BCD (Boot Configuration Data)** file is corrupted. You can try repairing it and see if you can fix this error.
 
@@ -168,10 +164,6 @@ To repair BCD:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3a019b37dab.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **iii.** In Command Prompt, type the following lines and press**Enter** on your keyboard after each (press the**Y** key followed by**Enter** after you enter the final line):
 
 del d:\windows\system32\xntkrnl.exe
@@ -188,11 +180,19 @@ bootrec /rebuildbcd
 
 **iv.** Close the Command Prompt window and restart your computer. Then check to see if you get rid of the error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3) Windows installation error
 
  The third type of 0xc0000005 error is an error you can get when you are installing your Windows. The error message tells you that**Windows installation encountered an unexpected error** . At this point you cannot continue your installation.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5950b581b5f1e.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The reason of this error can be that the operating system you are installing is not compatible with the partition. You need to**delete all partitions** and**create new ones** (this will**remove** **all** your files and data on your hard drive).
 
@@ -215,19 +215,20 @@ bootrec /rebuildbcd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-innovating-entertainment-the-updated-sony-blu-ray-s6500/"><u>[New] Innovating Entertainment The Updated Sony Blu-Ray S6500</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-unlocking-the-full-screen-potential-of-premiere-pro-for-2024/"><u>[New] Unlocking the Full Screen Potential of Premiere Pro for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-beat-the-norm-with-mac-audio-guide/"><u>2024 Approved Beat the Norm with Mac Audio Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-game-installations-fast-avoid-steam-disk-write-errors-with-these-tips/"><u>Fix Your Game Installations Fast: Avoid Steam Disk Write Errors with These Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-scroll-functionality-on-your-windows-10-laptops-touchpad/"><u>How to Restore Scroll Functionality on Your Windows 10 Laptop's Touchpad</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-parallel-screen-data-replay/"><u>In 2024, Parallel Screen Data Replay</u></a></li>
-<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-nokia-130-music-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nokia 130 Music – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/pinpointing-video-picks-s-social-landscape-facebook-for-2024/"><u>Pinpointing Video Picks 'S Social Landscape (Facebook) for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-common-minecraft-opengl-glitches-a-step-by-step-guide/"><u>Solving Common Minecraft OpenGL Glitches: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-overcoming-user-profile-service-sign-in-errors/"><u>Troubleshooting Windows 11: Overcoming 'User Profile Service' Sign-In Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-mysteries-of-sam-errors-windows-edition/"><u>Unraveling the Mysteries of SAM Errors, Windows Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/what-to-do-when-you-cant-get-torrent-downloads-to-work-properly/"><u>What To Do When You Can’t Get Torrent Downloads to Work Properly?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-n7-screen-detection-fix-successfully-configuring-multiple-displays-problem-solved/"><u>Windows N7 Screen Detection Fix: Successfully Configuring Multiple Displays (PROBLEM SOLVED)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-zoom-in-navigating-the-nearby-landscapes-of-roblox/"><u>[New] 2024 Approved Zoom In Navigating the Nearby Landscapes of Roblox</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-arcane-acoustics-how-legit-is-the-vocal-transformation-application-look-elsewhere/"><u>2024 Approved Arcane Acoustics How Legit Is the Vocal Transformation Application? Look Elsewhere</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-proven-methods-to-elevate-patient-testimonial-videos/"><u>2024 Approved Proven Methods to Elevate Patient Testimonial Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/access-all-english-movies-for-free-with-simple-steps-on-youtube-and-safe-downloads/"><u>Access All English Movies for Free with Simple Steps on YouTube and Safe Downloads</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-make-win11s-canvas-come-alive-the-guide-to-creating-intriguing-ai-images-via-paint-tool-sai/"><u>How to Make Win11's Canvas Come Alive: The Guide to Creating Intriguing AI Images via Paint Tool SAI</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a59-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026795913-nhk/"><u>NHK 歌謡スクランブル レコード作成ガイドの簡単な手引き</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfecting-your-audio-file-for-apples-review-boards/"><u>Perfecting Your Audio File for Apple’s Review Boards</u></a></li>
+<li><a href="https://win-trending.techidaily.com/pick-and-choose-your-hues-a-comprehensive-tutorial-on-copy-colors-with-powertoys-color-picker-feature-zdnet-insights/"><u>Pick and Choose Your Hues: A Comprehensive Tutorial on Copy Colors with PowerToys' Color Picker Feature | ZDNET Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-zero-error-absence-of-hypervisor-on-sandbox/"><u>Solutions for Zero Error - Absence of Hypervisor on Sandbox</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transform-multiple-pdfs-into-interactive-flash-books-for-free/"><u>Transform Multiple PDFs Into Interactive Flash Books for Free!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726030248120-youtube-3/"><u>YouTubeで動画音量強化レシピ ベスト3</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028110366-5/"><u>スピットライフ無料音楽ダウンロード！5つの最優秀録音ソフトブックメーカー</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028239801-pc/"><u>パーソナライズドデスクのためのPCプログラム：動的な壁紙設定ツール「無料・有料」選び方ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726027833388-powerdirector/"><u>ビデオの音量調整:PowerDirectorで見つけた効果的なテクニック</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Overcome the Unavailable Desktop Error in Windows System Configuration Directory
-date: 2024-09-05T10:08:21.511Z
-updated: 2024-09-06T10:08:21.511Z
+date: 2024-12-22T00:39:03.719Z
+updated: 2024-12-27T19:35:34.768Z
 tags:
   - win11
   - win10
@@ -36,11 +36,9 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 [**Method 5: Change the USB Selective Suspend Settings**](#method5)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Method 1: Remove the Power Supply**
 
  This method will fix the problem magically if the problem is caused by Power Supply.
@@ -61,14 +59,12 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdbac0739e5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. After finishing the uninstallation, restart your PC then Windows will reinstall the device automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 3 : Update the USB Driver**
 
  The problem can be caused by a faulty USB driver. In this case, updating the driver would fix the problem.
@@ -89,18 +85,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d31484e2f.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 4: Disable Fast Startup**
 
  If Windows is booting quickly, the external device may not be detected before the boot is completed, then the problem will occur. In this case, disabling the fast boot option in Power Options can resolve the problem.
@@ -115,12 +99,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde31f1a636.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4\. Select**Choose what the power buttons do** in the left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde37b21df1.jpg)
@@ -130,22 +108,18 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde3ce2afe1.png)
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6\. Under**Shutdown settings** , uncheck the box next to**Turn on fast startup (recommended)** . Then click on the**Save changes** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde41b1e60a.png)
 
  7\. Restart your PC and see if the problem resolves. Note your PC will boot a little slower.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 5: Change the USB Selective Suspend Settings**
 
@@ -155,46 +129,30 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde8af2b766.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. Click**Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb15c69d9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. Select **High performance** and click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb69c7e9e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4\. Click on**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde9507f19b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5\. Click on**Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb95133af.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6\. Locate**USB settings** and expand it.
 
  7\. Expand**USB selective suspend setting** . Disable both**On battery** and**Plugged in** settings.
@@ -202,11 +160,9 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdec39ba7fd.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  8\. Click the**Apply** button and restart your computer.
 
  After using the methods in this post, you must resolve the Device Descriptor Request Failed error for Windows 10.
@@ -217,8 +173,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -226,4 +180,20 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-unique-themes-redesign-your-youtube-presence/"><u>[New] 2024 Approved Unique Themes Redesign Your YouTube Presence</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-learn-to-edit-the-ultimate-guide-for-igtv-titles/"><u>[New] Learn to Edit The Ultimate Guide for IGTV Titles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-memorable-images-top-10-best-meme-blueprints/"><u>[Updated] Memorable Images TOP 10 Best Meme Blueprints</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-live-streaming-made-easy-discover-the-versatility-of-manycam-the-ultimate-virtual-camera-solution/"><u>1. Live Streaming Made Easy: Discover the Versatility of ManyCam - The Ultimate Virtual Camera Solution!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-navigating-twitch-recording-a-users-playbook/"><u>2024 Approved Navigating Twitch Recording A User's Playbook</u></a></li>
+<li><a href="https://solve-help.techidaily.com/bonne-souscription-telechargement-de-winx-hd-video-converter-pour-macos-avec-offre-speciale-de-reductions-vacances/"><u>Bonne Souscription! Téléchargement De WinX HD Video Converter Pour macOS Avec Offre Spéciale De Réductions Vacances</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-hs50-mic-malfunction-solutions-and-troubleshooting-tips/"><u>Corsair HS50 Mic Malfunction: Solutions and Troubleshooting Tips</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/how-to-detect-approaching-ram-problems-expert-tips-by-yl-software-team/"><u>How to Detect Approaching RAM Problems: Expert Tips by YL Software Team</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-diagnostics-policy-service-failure-issue/"><u>How to Fix 'Diagnostics Policy Service' Failure Issue</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-errors-for-building-directx-3d-graphics-device/"><u>Resolved Errors for Building DirectX 3D Graphics Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-windows-cannot-reach-specified-file-location-error/"><u>Step-by-Step Solution for 'Windows Cannot Reach Specified File Location Error'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win-11-and-10-steps-to-overcome-constant-reboot-problems/"><u>Win 11 & 10: Steps to Overcome Constant Reboot Problems</u></a></li>
+</ul></div>
 

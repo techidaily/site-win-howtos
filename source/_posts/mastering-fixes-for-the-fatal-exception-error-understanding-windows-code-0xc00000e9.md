@@ -1,7 +1,7 @@
 ---
 title: "Mastering Fixes for the Fatal Exception Error: Understanding Windows Code 0Xc00000e9"
-date: 2024-09-05T10:03:50.264Z
-updated: 2024-09-06T10:03:50.264Z
+date: 2024-12-21T23:26:26.639Z
+updated: 2024-12-28T04:23:42.384Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Mastering Fixes for the Fatal Exception Error: 
 thumbnail: https://thmb.techidaily.com/ff4b473fea2e89c79aee76abe0eab2251a21420b8834da223e912daed0885bd1.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Overcome the 0X80073712 Error in Windows 10: Tips and Tricks for a Smooth Operating Experience
 
 If you got a **0x80073712** error code in the midst of a Windows update, don’t panic. Here’re 5 fixes that have helped other users resolve the error. So read on and check them out…
@@ -36,28 +30,24 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Windows Update Troubleshooter
 
 **Windows Update Troubleshooter**   is a useful troubleshooting tool that helps us solve common Windows update issues. Here’s how to run Troubleshooter:
 
  1) On your keyboard, press   **the Windows logo key  ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click **Windows Update**   \> **Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a523037e9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Follow the on-screen instructions to troubleshoot.
 
@@ -65,38 +55,18 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Run the SFC scan
 
 **System File Checker** (**SFC** ) is a handy feature in Windows that helps scan your system files and repair missing or corrupted system files(including those related to **error 0x80073712** ). To **run the SFC scan** :
 
 1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click **Yes**   when prompted to confirm.
 
 2) In the command prompt window, type **sfc /scannow**   and press **Enter** .
@@ -104,11 +74,9 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient. ?  
  3) Restart your computer and see if the error**0x80073712**   has been solved.
 
@@ -120,20 +88,8 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Type **the following command**   and press **Enter** :
 
 **DISM.exe /Online /Cleanup-image /Restorehealth**
@@ -141,11 +97,9 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Wait for a while for the whole process to finishes.
   
  3) Restart your computer and **run the SFC** (see**Fix 2** ) again so it will help you replace any corrupted files with the correct ones.
@@ -154,32 +108,32 @@ Wait for a while for the whole process to finishes.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Delete Windows Update Cache
 
  Deleting Windows Update Cache is another useful method to help us fix the **0x80073712** error code. Here’s how:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time. Then copy & paste **services.msc**   into the box and click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b220b691f96a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Scroll down to the bottom, right-click on **Windows Update**  . Then click**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a89c68a29.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time, then copy & paste **C:\\Windows\\SoftwareDistribution\\Download** into the box and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a92deb7fc.png)
 
  4) Press**Ctrl** and**A** at the same time, then right-click to pop up a menu and click**Delete** .
@@ -190,12 +144,6 @@ Wait for a while for the whole process to finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ab04cd2f7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Back to the**Services** window, right-click on**Windows Update** and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ac06c5a8a.jpg)
@@ -226,8 +174,6 @@ Wait for a while for the whole process to finishes.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -235,4 +181,22 @@ Wait for a while for the whole process to finishes.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-combining-youtube-and-imovie-for-professional-results/"><u>[New] In 2024, Combining YouTube and iMovie for Professional Results</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-restoring-macos-sierra-to-os-x-10101-environment/"><u>[New] Restoring MacOS Sierra to OS X 10.10.1 Environment</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-foremost-8-titans-of-4k-blu-ray-technology/"><u>2024 Approved Foremost 8 Titans of 4K Blu-Ray Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-non-functioning-screen-saver-on-windows-10-easily/"><u>How to Resolve Non-Functioning Screen Saver on Windows 10 Easily</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-ranking-action-cameras-seventh-to-leading-wet-proof/"><u>In 2024, Ranking Action Cameras, Seventh to Leading Wet-Proof</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-tecno-spark-10-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Tecno Spark 10 5G FRP Bypass</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-microsoft-exchange-server-not-reachable-outlook-issue/"><u>Resolved: Fixing the 'Microsoft Exchange Server Not Reachable' Outlook Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-steps-how-to-quickly-restart-your-windows-10-system/"><u>Simple Steps: How to Quickly Restart Your Windows 10 System</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/step-by-step-guide-removing-your-icloud-music-library-from-iphone-and-pc/"><u>Step-by-Step Guide: Removing Your iCloud Music Library From iPhone and PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-complete-guide-to-macbook-webcam-recording/"><u>The Complete Guide to MacBook Webcam Recording</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-tutorial-ensuring-compatibility-by-refreshing-your-windows-10-camera-driver/"><u>The Ultimate Tutorial: Ensuring Compatibility by Refreshing Your Windows 10 Camera Driver</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-resolve-dell-webcam-failure-problems-on-windows-machines/"><u>Troubleshoot and Resolve Dell Webcam Failure Problems on Windows Machines</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-repair-laptop-mic-issues-successfully/"><u>Troubleshooting Guide: How to Repair Laptop Mic Issues Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wave-goodbye-to-flicker-effective-solutions-for-stable-screens-on-windows-11/"><u>Wave Goodbye to Flicker: Effective Solutions for Stable Screens on Windows 11</u></a></li>
+</ul></div>
 

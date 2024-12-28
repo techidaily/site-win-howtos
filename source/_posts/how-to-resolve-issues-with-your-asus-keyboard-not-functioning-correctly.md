@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Issues with Your ASUS Keyboard Not Functioning Correctly
-date: 2024-12-21T17:11:04.755Z
-updated: 2024-12-22T16:12:11.479Z
+date: 2024-12-25T21:31:08.030Z
+updated: 2024-12-28T09:59:13.716Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 5 fixes that have helped other users get their keyboard numbers working again. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 3. **[Update your keyboard driver](#f3)**
 4. **[Use a different user profile](#f4)**
 5. **[Check hardware issues](#f5)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Turn off Mouse Keys
 
@@ -47,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee1e422d4.jpg)
@@ -56,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### On Windows 11
@@ -65,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 2. Click**Accessibility** on the left penal, then click**Mouse** in the Interaction section on the right.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-accessibility-mouse.jpg)
 3. Check if the Mouse keys toggle is On. If it is, switch it to Off.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-mouse-keys.jpg)
 
@@ -80,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
  Look on your keyboard for a key that says **NumLock** and make sure to enable the key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2eecb19e08.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the**NumLock** key is disabled, the number keys on the right side of your keyboard will not work.
 
@@ -112,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ec4831bd8.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 ### Fix 4: Use a different user profile
@@ -127,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
  When you’ve logged in to Windows with the new account, open Word or Notepad to test your keyboard numbers.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Check hardware issues
 
@@ -153,18 +153,19 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/address-and-correct-the-network-connection-error-0x800704cf-a-detailed-walkthrough-for-windows-users/"><u>Address and Correct the Network Connection Error 0X800704cf: A Detailed Walkthrough for Windows Users</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/how-to-fix-a-scanner-that-wont-read-your-files-solutions-from-yl-computing/"><u>How To Fix a Scanner That Won't Read Your Files - Solutions From YL Computing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-file-explorer-issues-in-windows-11-quickly-and-efficiently/"><u>How to Fix Unresponsive File Explorer Issues in Windows 11 Quickly & Efficiently</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-gt-10-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Infinix GT 10 Pro Lock Screen Password?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-jumpstart-your-social-media-success-instagrams-top-9-hacks/"><u>In 2024, Jumpstart Your Social Media Success Instagram's Top 9 Hacks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-leveraging-cost-free-text-animation-techniques/"><u>In 2024, Leveraging Cost-Free Text Animation Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-shockwave-flash-on-google-chrome-overcome-the-compatibility-hurdle-today/"><u>No More Shockwave Flash on Google Chrome: Overcome the Compatibility Hurdle Today</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-not-delivered-messages-on-iphone-a-step-by-step-guide/"><u>Resolving 'Not Delivered' Messages on iPhone - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steam-store-not-working-heres-how-to-restore-access/"><u>Steam Store Not Working? Here’s How to Restore Access!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-resolution-reconnecting-your-airpods-to-windows-11-systems-updated-tips/"><u>Step-by-Step Resolution: Reconnecting Your AirPods to Windows 11 Systems (Updated Tips)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-when-your-bluetooth-mouse-wont-connect-with-windows/"><u>Step-by-Step Solutions: When Your Bluetooth Mouse Won't Connect with Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/the-ultimate-how-to-for-keeping-your-windows-computers-motherboard-drivers-current-and-efficient/"><u>The Ultimate How-To for Keeping Your Windows Computer's Motherboard Drivers Current and Efficient</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-discovering-potential-youtubes-role-in-modern-education-strategies/"><u>[New] 2024 Approved Discovering Potential YouTube's Role in Modern Education Strategies</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-gain-currency-with-500-youtube-followers/"><u>[New] 2024 Approved Gain Currency with 500 YouTube Followers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-navigating-facebooks-medical-and-wellness-campaigning/"><u>[New] 2024 Approved Navigating Facebook's Medical and Wellness Campaigning</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-conquering-common-challenges-easy-steps-for-your-ipad-capture-process/"><u>[New] Conquering Common Challenges Easy Steps for Your iPad Capture Process</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-8-strategies-for-digital-sound-recording/"><u>2024 Approved Essential 8 Strategies for Digital Sound Recording</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-assessment-lightroom-app-android-edition/"><u>2024 Approved In-Depth Assessment Lightroom App, Android Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avi-to-h2n64/"><u>AVI to H2n64コンバート - 劣化なしで最適な手順</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-5-web-based-tools-for-creating-animation-gifs/"><u>Best 5 Web-Based Tools for Creating Animation GIFs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-how-to-edit-gif-images-with-text-on-various-platforms-including-windows-macos-mobile-devices-and-online-tools/"><u>Comprehensive Tutorial: How to Edit GIF Images with Text on Various Platforms Including Windows, macOS, Mobile Devices, and Online Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-xvid-files-to-avi-format-for-free-simple-steps-for-pc-mac-and-online-methods/"><u>Convert Xvid Files to AVI Format for Free: Simple Steps for PC, Mac & Online Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/download-tiktoks-like-a-pro-the-5-best-software-picks-for-pc-and-web-usage/"><u>Download TikToks Like a Pro: The 5 Best Software Picks for PC & Web Usage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-countdown-charm-top-android-and-ios-timers-for-weddings/"><u>In 2024, Countdown Charm Top Android & iOS Timers for Weddings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/online-vrije-hervorming-van-mp3-naar-avi-met-moovavi-kostenloos/"><u>Online Vrije Hervorming Van MP3 Naar AVI Met Moovavi - Kostenloos!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-splitting-videos-in-full-hd-keeping-quality-and-resolution-intact/"><u>Ultimate Guide to Splitting Videos in Full HD - Keeping Quality and Resolution Intact</u></a></li>
 </ul></div>
 

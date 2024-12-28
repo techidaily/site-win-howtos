@@ -1,7 +1,7 @@
 ---
 title: How to Enhance Typing Speed by Fixing a Lazy Keyboard Quickly
-date: 2024-12-21T20:20:44.764Z
-updated: 2024-12-22T20:04:04.194Z
+date: 2024-12-27T10:21:35.999Z
+updated: 2024-12-27T21:49:02.011Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 4. [**Reseat your laptop battery**](#F4)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
 
@@ -48,12 +48,16 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -74,6 +78,10 @@ Here’s how to reinstall the keyboard driver:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
@@ -103,19 +111,11 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -125,6 +125,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -145,10 +149,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,22 +184,14 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-examining-the-income-mechanics-of-tseries-on-youtube/"><u>[New] 2024 Approved Examining the Income Mechanics of TSeries on YouTube</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-soundtrack-of-successful-snapchat-stories/"><u>[New] The Soundtrack of Successful Snapchat Stories</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-overcoming-windows-10-unshutting-problems-on-your-computer/"><u>Expert Tips: Overcoming Windows 10 Unshutting Problems on Your Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-error-code-0x8024200d-comprehensive-guide-to-resolve-windows-update-issues/"><u>Fixing Error Code 0X8024200D: Comprehensive Guide to Resolve Windows Update Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-ruby-tinted-display-anomaly-of-windows-11-computers/"><u>Fixing the Ruby-Tinted Display Anomaly of Windows 11 Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-the-unresponsive-mic-on-your-arctis-5-by-steelseries-solution-explained/"><u>How to Repair the Unresponsive Mic on Your Arctis 5 by SteelSeries (Solution Explained)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-connect-your-devices-with-cast-on-windows-10/"><u>How to Successfully Connect Your Devices with Cast on Windows 10</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone SE (2022)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-your-apple-iphone-se-2022-display-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror your Apple iPhone SE (2022) Display? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-live-broadcast-precision-introducing-an-effective-timer/"><u>In 2024, Live Broadcast Precision Introducing an Effective Timer</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-motorola-moto-g84-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Motorola Moto G84 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-stop-the-stop-start-prevent-freezing-on-photo-booth/"><u>In 2024, Stop the Stop-Start Prevent Freezing on Photo Booth</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/merge-skype-and-zoom-easy-techniques-for-effective-communication-for-2024/"><u>Merge Skype and Zoom Easy Techniques for Effective Communication for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-initial-set-up-hurdle-for-age-of-empires-iii-gamers/"><u>Resolving the Initial Set-Up Hurdle for Age of Empires III Gamers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-acer-laptop-why-isnt-it-holding-a-charge/"><u>Troubleshooting Acer Laptop: Why Isn't It Holding a Charge?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-screen-mirroring-problems-in-windows-11-solutions-and-tips/"><u>Troubleshooting Screen Mirroring Problems in Windows 11 - Solutions and Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-photography-for-the-masses-the-best-12-sites-offering-accessible-stock-images/"><u>[New] Photography for the Masses - The Best 12 Sites Offering Accessible Stock Images</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-reno-11f-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Oppo Reno 11F 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/review-of-the-compact-and-powerful-cherry-kw-9200-mini-keyboard/"><u>Review of the Compact & Powerful Cherry KW 9200 Mini Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-adjusting-your-youtube-videos-aspect-ratio-perfectly/"><u>Step-by-Step Guide: Adjusting Your YouTube Videos' Aspect Ratio Perfectly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-setting-up-the-fastest-video-extension-fenne4k-on-your-kodi-platform-neckles-and-matrix/"><u>Step-by-Step Guide: Setting up the Fastest Video Extension, Fenne4k, on Your Kodi Platform - Neckles and Matrix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-for-watching-dts-soundtracks-with-your-samsung-tv-setup/"><u>Step-by-Step Instructions for Watching DTS Soundtracks with Your Samsung TV Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-changing-opus-audio-to-lossless-flac-and-vice-verse/"><u>Step-by-Step Tutorial for Changing Opus Audio to Lossless FLAC and Vice Verse</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-rotated-video-conundrum-in-instagrams-feed/"><u>The Rotated Video Conundrum in Instagram's Feed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-viewership-archive-youtube-visionaries-for-2024/"><u>Top Viewership Archive YouTube Visionaries for 2024</u></a></li>
 </ul></div>
 

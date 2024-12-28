@@ -1,7 +1,7 @@
 ---
 title: Resolving Adobe Flash Player Crashes on Google Chrome - Solved!
-date: 2024-09-05T10:06:59.474Z
-updated: 2024-09-06T10:06:59.474Z
+date: 2024-12-21T03:39:10.947Z
+updated: 2024-12-27T17:17:59.339Z
 tags:
   - win11
   - win10
@@ -20,17 +20,9 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
  If you get this **Shockwave Flash has crashed** error when trying to stream some video on Chrome, don’t panic. Here’re 4 fixes that have helped other users resolve the problem. So read on and check them out…
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  All the fixes below work in**Windows 10** ,**8** and**7** . You may not have to try all of them; just work your way down the list until the problem is resolved.
@@ -52,30 +44,12 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
 2. In the top right, click on **the three vertical dots** button > **More tools** \> **Extensions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b432bba1ea5a.jpg)
 3. Toggle off all the extensions on your Chrome.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e199b56ceb.png)
 4. Re-launch Chrome, play the same content and see if it works smoothly.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If yes, you can try to enable the extensions one by one until you find out the one responsible. But if it doesn’t help with the situation, you might want to turn on the extensions and move on to **Fix 2** .
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Disable hardware acceleration
 
 **Hardware Acceleration**  is a feature in  browsers  that tasks GPU with all the graphics and text rendering, hence giving us a better video playing and watching experience.
@@ -85,43 +59,26 @@ thumbnail: https://thmb.techidaily.com/6658e9df1d38e14ee675787c7264985ccf523b4b4
 1. In Chrome, in the top right corner, click on  the **three vertical dots**  button >   **Settings**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581a513db47.jpg)
 2. Scroll down to the bottom and click **Advanced** .  
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582452d2feb.png)
 3. Scroll down to the bottom and in **System**  and **DISABLE** the toggle next to **Use hardware acceleration when available** .  
+
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
 4. Re-launch Chrome and test if the video content loads without fail this time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
 This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics  driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .
@@ -154,6 +111,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b433a86ba999.jpg)
 3. Google Chrome automatically detects if there’s an update available:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * If yes, follow the on-screen instruction to finish the update.
 * If no, delete Chrome and re-install it on Windows store or other trustworthy third-party website. (**NOTE** : This will erase your Chrome browser settings and data).
 
@@ -172,8 +133,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +140,22 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-ace-3-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-watch-unseen-selective-tools-for-insta-enthusiasts/"><u>2024 Approved Watch Unseen Selective Tools for Insta Enthusiasts</u></a></li>
+<li><a href="https://win-latest.techidaily.com/5pya6ygp562w55wl77ya5pc25pwr6kkr56e76zmk55qe5pah5lu26iih5b2x5yop/"><u>最適策略：搶救被移除的文件與影像</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-when-your-diagnostic-policy-service-wont-start/"><u>Effective Solutions for When Your Diagnostic Policy Service Won’t Start</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-the-user-friendly-mods-revolutionary-sidecar-ebike-design/"><u>Experience the User-Friendly Mod's Revolutionary Sidecar eBike Design</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/exploring-distinct-features-a-deep-dive-into-how-android-ios-windows-and-mac-devices-vary-from-each-other/"><u>Exploring Distinct Features: A Deep Dive Into How Android, iOS, Windows, and Mac Devices Vary From Each Other</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-eliminate-stuttering-distortion-and-sound-irregularities-in-windows-operating-systems-guide/"><u>How to Eliminate Stuttering, Distortion & Sound Irregularities in Windows Operating Systems [Guide]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-prevent-your-touchpad-from-activating-with-a-mouse-in-windows-11/"><u>How to Prevent Your Touchpad From Activating with a Mouse in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solution-guide-resolving-the-80072ee2-microsoft-windows-update-issue/"><u>Quick Solution Guide: Resolving the 80072EE2 Microsoft Windows Update Issue</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-sound-problems-no-more-crackling-in-your-speakers-on-win107/"><u>Resolving Sound Problems - No More Crackling in Your Speakers on Win10/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-overwatch-voice-communication-without-hassle/"><u>Revive Your Overwatch Voice Communication Without Hassle</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-no-dns-response-issue-top-4-fixes/"><u>Solving the 'No DNS Response' Issue: Top 4 Fixes</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/unlock-accelerated-graphic-processing-with-windows-10-and-11-a-comprehensive-tutorial/"><u>Unlock Accelerated Graphic Processing with Windows 10 & 11: A Comprehensive Tutorial</u></a></li>
+</ul></div>
 

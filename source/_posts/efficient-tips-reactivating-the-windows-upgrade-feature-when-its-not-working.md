@@ -1,7 +1,7 @@
 ---
 title: "Efficient Tips: Reactivating the Windows Upgrade Feature When It's Not Working"
-date: 2024-12-16T16:07:51.431Z
-updated: 2024-12-22T22:30:45.196Z
+date: 2024-12-21T19:23:34.554Z
+updated: 2024-12-28T00:04:46.358Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ If you see an error message saying “**No Pen or Touch Input is available for t
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 Here are some solutions that have helped people resolve the same error. You don’t need to try them all; just work your way down the list until everything’s working again.
@@ -41,10 +37,6 @@ Here are some solutions that have helped people resolve the same error. You don�
 
 As many people have resolved the “**No Pen or Touch Input is available for this Display**” error on their computer by forcing a shutdown, it never hurts to perform a force shutdown and restart your computer to fix it. As the steps to force a shutdown vary from brand to brand, you can consult your computer manufacturer to do that. For example, if you’re using a Surface Pro 4, you can press and hold the**power button**for**10 seconds**, then your screen turns off and shuts down. Then press and release the power button to turn on your Surface Pro 4\. After restart, try again and see if touch screen works now. If this method doesn’t work for you, don’t worry. There are something else to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run troubleshooter in your computer
 
 The troubleshooter in your computer helps troubleshoot the hardware problems and repair it. So here’s what you need to do:
@@ -54,22 +46,18 @@ The troubleshooter in your computer helps troubleshoot the hardware problems and
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb109d3bc02.jpg)
 3. Click**Hardware** **and** **Sound** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb10c799b9d.jpg)
 4. Click**Hardware and Devices** . This will find and fix problems with devices and hardware.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb10e9a82be.jpg)
 5. Click**Next** to process. Then follow the on-screen instructions to finish the process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb1108d468d.jpg)
 6. Restart your computer and see if it fixes the error.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Re-enable touch screen
 
@@ -83,7 +71,7 @@ You can also re-enable touch screen and its driver to fix the “No Pen or Touch
 3. Double click**Human Interface Devices** to expand the category.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb11cb8b5a8.jpg)
@@ -92,8 +80,16 @@ You can also re-enable touch screen and its driver to fix the “No Pen or Touch
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb12007e8f1.jpg)
 5. If you see a popup message to confirm, click**Yes** to confirm.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb123fd7728.jpg)
 6. Right click on**HID-compliant touch screen** , then select**Enable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb128e37a69.jpg)  
  Note: there may be more than one HID compliant touch screen listed there. If that’s the case, complete steps 4) -6) for each device.
@@ -101,7 +97,7 @@ You can also re-enable touch screen and its driver to fix the “No Pen or Touch
 Try touch screen and see if it works now. The error still persists? Okay, there’s one more thing to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update touch screen driver
@@ -112,6 +108,10 @@ A missing or outdated touch screen driver can also result in the “No Pen or To
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb12d9418f6.jpg)
 3. Click the**Update** button next to the flagged touch screen to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_**Update All**_ ).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb1405c2875.jpg)
 4. Restart your computer to take effect.
@@ -136,19 +136,19 @@ Now check and see if the “**No Pen or Touch Input is available for this Displa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-selective-recommendations-for-advanced-voice-alteration-tools/"><u>[New] 2024 Approved Selective Recommendations for Advanced Voice Alteration Tools</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-a-comprehensive-guide-to-penning-appealing-vlog-narratives/"><u>[Updated] In 2024, A Comprehensive Guide to Penning Appealing Vlog Narratives</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprerancing-the-cutting-edge-tech-in-b550-xt/"><u>Comprerancing The Cutting-Edge Tech in B550-XT</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-correcting-ethernet-connectivity-troubles-in-windows-107/"><u>Diagnosing and Correcting Ethernet Connectivity Troubles in Windows 10/7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-overcome-the-error-code-0x80240034-during-windows-10-update-process/"><u>Effective Solutions to Overcome the Error Code 0X80240034 During Windows 10 Update Process</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-a-broken-right-click-on-windows-10-systems/"><u>Expert Tips for Fixing a Broken Right Click on Windows 10 Systems</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-unparalleled-streaming-experience/"><u>In 2024, The Ultimate Guide to Unparalleled Streaming Experience</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-storyboard-designers-den/"><u>In 2024, Ultimate Storyboard Designer's Den</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-compatibility-problems-with-shockwave-flash-on-google-chrome/"><u>Overcoming Compatibility Problems with Shockwave Flash on Google Chrome</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/recording-rivals-meet/"><u>Recording Rivals, Meet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-addressing-high-graphics-power-usage-stemming-from-the-desktop-window-manager-in-windows-11/"><u>Step-by-Step Guide: Addressing High Graphics Power Usage Stemming From the Desktop Window Manager in Windows 11</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-tutorial-on-downloading-michael-jackson-music-collections-as-high-quality-audio-files/"><u>Step-by-Step Tutorial on Downloading Michael Jackson Music Collections as High-Quality Audio Files</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/surface-pro-4-pen-problem-heres-how-you-can-get-it-working-again/"><u>Surface Pro 4 Pen Problem? Here’s How You Can Get It Working Again</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unraveling-the-mystery-of-classic-usb-composite-devices-resolved/"><u>Unraveling the Mystery of Classic USB Composite Devices - Resolved</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-melody-matters-device-reviews/"><u>[New] In 2024, Melody Matters Device Reviews</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outube-channels-for-filmmakers-to-learn-filmmaking-tips/"><u>[New] YouTube Channels for Filmmakers to Learn Filmmaking Tips</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-avoiding-obscurity-tips-for-staff-picked-videos-at-vimeo-for-2024/"><u>[Updated] Avoiding Obscurity Tips for Staff-Picked Videos at Vimeo for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-brighten-up-your-gameplay-tips-to-fix-a-black-screen-on-obs-for-2024/"><u>[Updated] Brighten Up Your Gameplay Tips to Fix a Black Screen on OBS for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-yuneec-typhoon-h-examined-an-extensive-review/"><u>[Updated] Yuneec Typhoon H Examined An Extensive Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dvd-and7/"><u>「最新ベストセラーDVD取り込みソフト 無料&有料版7選手配リスト」</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cda-to-wav/"><u>初心者にもわかるCDA to WAV変換テクニックガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-ultimate-sources-top-5-instrumental-music-portals-to-enhance-your-playlist/"><u>Discover the Ultimate Sources: Top 5 Instrumental Music Portals to Enhance Your Playlist</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-and-effective-ways-to-convert-wmv-files-into-imovie-with-these-top-free-tools/"><u>Easy and Effective Ways to Convert WMV Files Into iMovie with These Top FREE Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-to-convert-your-mp4-files-into-mpeg-for-producing-high-quality-vcds-and-dvds/"><u>Easy Steps to Convert Your MP4 Files Into MPEG for Producing High-Quality VCDs and DVDs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-engaging-content-10-leading-animated-text-generator-options/"><u>In 2024, Create Engaging Content 10 Leading Animated Text Generator Options</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-meizu-21-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Meizu 21</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-battle-of-the-console-generation-a-deep-dive-into-ps5-slim-vs-regular-ps5/"><u>The Battle of the Console Generation: A Deep Dive Into PS5 Slim Vs. Regular PS5</u></a></li>
+<li><a href="https://windows11.techidaily.com/tweak-right-menu-options-for-optimal-software-use/"><u>Tweak Right-Menu Options for Optimal Software Use</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Malfunctioning Touchpad Scroll on Your Windows 11 Device
-date: 2024-09-05T10:07:20.700Z
-updated: 2024-09-06T10:07:20.700Z
+date: 2024-12-25T20:20:13.635Z
+updated: 2024-12-28T12:31:50.392Z
 tags:
   - win11
   - win10
@@ -13,22 +13,10 @@ excerpt: This Article Describes How to Fix a Malfunctioning Touchpad Scroll on Y
 thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23c97d33e5069a1776373f52c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Keyboard Malfunctions on Windows 10/11? Here's How to Get It Working Again
 
  Did you find that some keys on your keyboard don’t work? Are you typing but the letters are not appearing on the screen? Well don’t worry, you’re not alone. This post could help you fix this vexing issue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -39,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/865974c7bb05387b6277d30c79ecdc49aad19ee23
 4. **[Repair system files](#repair-system-files)**
 
 * [**Tips: Keyboard maintenance**](#tips)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Hard reset your keyboard
 
@@ -71,12 +63,6 @@ If you’re a laptop user, you could follow these steps:
  Now check to see if this works for you.  
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Check for hardware issues
 
  If a hard reset is not working for you, you need to identify whether it’s a hardware issue or a software issue. Follow the steps below:
@@ -116,30 +102,16 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -151,25 +123,26 @@ OR
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Tips: Keyboard maintenance
 
 1. Try not to eat, smoke or drink on top of the keyboard to keep it clean.
@@ -188,8 +161,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +168,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-optimize-your-storage-without-spending-a-penny-best-30-clouds-with-1tb-included/"><u>[New] In 2024, Optimize Your Storage Without Spending a Penny Best 30 Clouds with 1TB Included</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tep-up-your-visual-effects-game-with-free-lessons-from-4-innovative-youtube-channels/"><u>[New] Step Up Your Visual Effects Game with Free Lessons From 4 Innovative YouTube Channels</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-art-of-color-in-online-beauty-content/"><u>[New] The Art of Color in Online Beauty Content</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-visualize-and-create-with-top-7-innovative-animation-suites/"><u>[Updated] 2024 Approved Visualize & Create with Top 7 Innovative Animation Suites</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-radiant-tone-refactoring-pro/"><u>[Updated] In 2024, Radiant Tone Refactoring Pro</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-xsplit-replacements-a-guide-to-streaming/"><u>[Updated] Prime Xsplit Replacements A Guide to Streaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-techniques-for-restoring-default-keyboard-functions/"><u>Expert Techniques for Restoring Default Keyboard Functions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-unresponsive-keyboard-arrows-a-step-by-step-guide/"><u>Fixing Unresponsive Keyboard Arrows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-mouse-scroll-issue-in-windows-11/"><u>How to Fix Unresponsive Mouse Scroll Issue in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-and-understand-event-id-1000-on-different-windows-platforms-7-8-10/"><u>How to Resolve and Understand Event ID 1000 on Different Windows Platforms: 7, 8, 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-comedy-kings-and-queens-whos-tops/"><u>In 2024, Comedy Kings and Queens Who's Tops?</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do I Stop Someone From Tracking My Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-zte-blade-a73-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from ZTE Blade A73 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-issues-with-hosted-wifi-setup-in-windows-10-a-step-by-step-fix/"><u>Overcoming Issues with Hosted WiFi Setup in Windows 10 - A Step-by-Step Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-solutions-to-resolve-error-code-0x800f0831-through-windows-updates/"><u>Simple Solutions to Resolve Error Code 0X800f0831 Through Windows Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-a-broken-symbol-functionality-in-typing-devices/"><u>Solutions for a Broken '@' Symbol Functionality in Typing Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-failed-geforce-experience-opens-effectively/"><u>Troubleshooting and Resolving Failed GeForce Experience Opens Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212015705-windows-7-wont-respond-to-your-clicks-fix-your-broken-mouse-and-keyboard-connections-now/"><u>Windows 7 Won't Respond to Your Clicks? Fix Your Broken Mouse and Keyboard Connections Now!</u></a></li>
+</ul></div>
 

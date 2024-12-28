@@ -1,7 +1,7 @@
 ---
 title: Resolving 'Server DNS Unresponsive' – Discover 4 Simple Fixes
-date: 2024-09-05T10:05:56.982Z
-updated: 2024-09-06T10:05:56.982Z
+date: 2024-12-21T04:16:32.749Z
+updated: 2024-12-28T00:00:14.874Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/23e9b5bbeb00439d9f7feb49ea3cc9ef3c324a1be
 3. **[Update your mouse and/or keyboard driver](#c)**
 4. **[Check for Windows Updates](#d)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run the keyboard troubleshooter
 
  The keyboard troubleshooter is a built-in utility in Windows designed to identify and automatically rectify common keyboard or mouse errors. To use this troubleshooter, follow these steps:
@@ -40,22 +44,14 @@ thumbnail: https://thmb.techidaily.com/23e9b5bbeb00439d9f7feb49ea3cc9ef3c324a1be
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-535.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Wait for Windows to detect and fix your issue automatically.
 
  If Windows fails to detect your problem, don’t worry. Move on to the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Adjust your pointer speed
 
  The issue with the blinking cursor may happen when the pointer speed is set too high. If that’s the problem for you, you should adjust your pointer speed. Follow the instructions below to see how to do it:
@@ -68,12 +64,6 @@ thumbnail: https://thmb.techidaily.com/23e9b5bbeb00439d9f7feb49ea3cc9ef3c324a1be
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-531.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click**Mouse** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-532-1024x753.png)
@@ -82,28 +72,10 @@ thumbnail: https://thmb.techidaily.com/23e9b5bbeb00439d9f7feb49ea3cc9ef3c324a1be
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-533.png)
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Check to see if your mouse can work properly now.
 
 If your problem persists, try the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your mouse and/or mouse driver
 
  This issue might occur when you’re using a faulty keyboard or mouse driver, or the driver is outdated. To keep your mouse working smoothly, it’s essential that you have the latest correct driver at all times.
@@ -137,25 +109,25 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)**  Click **Update All** to automatically download and install the correct version of_all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-229.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Check for Windows Updates
 
  If none of the fixes above worked, updating your system is very likely the solution to your issue. In most cases, Windows updates can address bugs related to both hardware and software. Here is how to do it:
@@ -168,12 +140,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Restart your computer after the update is complete.
 
  Hopefully, this article helped in resolving your issue. If you have any questions or suggestions, please feel free to leave a comment below.
@@ -191,8 +157,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +164,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-androids-top-12-virtual-creature-experiences-for-2024/"><u>[New] Android's Top 12 Virtual Creature Experiences for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-guide-to-share-youtube-link-on-instagram-story-for-2024/"><u>[New] Guide to Share YouTube Link on Instagram Story for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-best-practices-for-embedding-facebook-video-streams/"><u>[Updated] Best Practices for Embedding Facebook Video Streams</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-efficient-broadcast-techniques-incorporating-youtube-loops-on-tv-for-2024/"><u>[Updated] Efficient Broadcast Techniques Incorporating YouTube Loops on TV for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-visionary-graphics-best-cards-in-4k-space/"><u>2024 Approved Visionary Graphics Best Cards in 4K Space</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-ai-for-chatting-clashing-titans-chatgpt-and-google-bard-face-off/"><u>Best AI for Chatting? Clashing Titans - ChatGPT and Google Bard Face-Off</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dynamic-typography-for-effects-top-10-picks/"><u>Dynamic Typography for Effects Top 10 Picks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-repairing-non-detectable-bluetooth-hardware-on-your-windows-10-computer/"><u>Expert Advice: Repairing Non-Detectable Bluetooth Hardware on Your Windows 10 Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-freezing-window-11-system-a-step-by-step-guide/"><u>How to Fix a Freezing Window 11 System: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-jovial-graphics-via-adobe-tools/"><u>In 2024, Jovial Graphics via Adobe Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubg-update-how-to-fix-crashes-causing-building-assets-not-to-load-resolved/"><u>PUBG Update: How To Fix Crashes Causing Building Assets Not To Load [RESOLVED]</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-essentials-of-making-professional-level-facebook-reels-for-2024/"><u>The Essentials of Making Professional-Level Facebook Reels for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-v1607-installer-glitches-preventing-successful-updates/"><u>Windows 10 (v1607) Installer Glitches Preventing Successful Updates</u></a></li>
+</ul></div>
 

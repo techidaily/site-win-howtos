@@ -1,7 +1,7 @@
 ---
 title: "How to Fix the Invalid Registry Setting Making Photos Not Open in Windows [Continue] <http://t4.spec.cx/resolve-invalid-registry-errors-on-windows-10/>"
-date: 2024-09-05T10:04:17.222Z
-updated: 2024-09-06T10:04:17.222Z
+date: 2024-12-21T03:21:09.419Z
+updated: 2024-12-27T19:53:02.049Z
 tags:
   - win11
   - win10
@@ -13,28 +13,10 @@ excerpt: "This Article Describes How to Fix the Invalid Registry Setting Making 
 thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d2804f8cd2447f9f7cced35cd22.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix the Invalid Registry Setting Making Photos Not Open in Windows [Continue] <http://t4.spec.cx/resolve-invalid-registry-errors-on-windows-10/>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/unnamed-file.jpg)
   
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Many Windows 10 users complained that, they cannot open their photo due to the error **“Invalid value for registry”** . What an annoying problem that you cannot view your pictures. Luckily, we’ve got the answer for you. Here in this article, we will be showing you how to fix “Invalid value for registry” error when opening photos on Windows 10\. Please take a few minutes on the easy steps below.
   
 **Step 1.**
@@ -50,12 +32,6 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-22.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3.**
  Scroll down on Families dialog, find and expand **Microsoft.Windows.Photos** ….. folder.  
  In this folder you might find 8 Microsoft.Windows.Photos entries, it means that the outdated registry keys have been left.  
@@ -73,12 +49,6 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-16.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2)  
 
  Click **Advanced** .  
@@ -93,12 +63,6 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-10.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4)  
 
  It will be back on the previous window.  
@@ -107,12 +71,6 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-11.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5)  
 
  Highlight the account you add just before.  
@@ -136,8 +94,6 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +101,25 @@ thumbnail: https://thmb.techidaily.com/255abe49d787e06c0ed6c6f504e1d68fdfd70d280
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-cutting-edge-video-recording-for-windows-users-for-2024/"><u>[New] Cutting-Edge Video Recording for Windows Users for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-leveraging-windows-11-for-professional-grade-video-crafting/"><u>[Updated] In 2024, Leveraging Windows 11 for Professional-Grade Video Crafting</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-transferring-photos-and-videos-from-one-idevice-to-another/"><u>[Updated] In 2024, Transferring Photos & Videos From One iDevice to Another</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/3-ways-to-use-chatgpts-wolfram-plugin/"><u>3 Ways to Use ChatGPT'S Wolfram Plugin</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-to-fix-d3dx943dll-missing-on-windows/"><u>Easy to Fix d3dx9_43.dll Missing on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-overcome-a-failed-group-policy-client-authentication-process/"><u>How to Successfully Overcome a Failed Group Policy Client Authentication Process</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro Max without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-vivo-y17s-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Vivo Y17s Phones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-hardware-choices-with-the-toms-comprehensive-tech-analysis/"><u>Mastering Hardware Choices with The Tom's Comprehensive Tech Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-fixing-a-non-functional-microphone-on-your-computer/"><u>Solved: Fixing a Non-Functional Microphone on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-how-to-fix-the-non-functioning-aoc-monitor-issue-on-windows-11/"><u>Troubleshooting Steps: How to Fix the Non-Functioning AOC Monitor Issue on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-audio-enhancer-features-for-improved-performance/"><u>Troubleshooting Windows' Audio Enhancer Features for Improved Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-wrp-error-solutions-for-windows-resource-protection-failed-issues/"><u>Troubleshooting WRP Error: Solutions for 'Windows Resource Protection Failed' Issues</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210440314-9780008520427-virgo-2023-your-personal-horoscope/"><u>Virgo 2023: Your Personal Horoscope | Free Book</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

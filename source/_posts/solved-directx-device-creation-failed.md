@@ -1,7 +1,7 @@
 ---
 title: "SOLVED: DirectX Device Creation Failed"
-date: 2024-09-05T10:06:09.121Z
-updated: 2024-09-06T10:06:09.121Z
+date: 2024-12-22T23:43:17.865Z
+updated: 2024-12-27T18:22:35.869Z
 tags:
   - win11
   - win10
@@ -29,17 +29,9 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 ---
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Update your audio driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -52,12 +44,11 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04aae3578ee.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04deab93532.jpg)  
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
@@ -77,46 +68,25 @@ Here’s how to do it:
 3. In the **Playback**  tab, right-click on**the speakers/headphones you’re to use in Overwatch** and  click **Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
 5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
 7. Click**OK** .
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Launch Overwatch, join a voice chat and see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Disable Exclusive Mode
 
  Third party apps can prevent Blizzard games from accessing your microphone, speakers, or headset. Disabling Exclusive Mode of your hardware may fix sound or voice-chat not working issues.
@@ -126,6 +96,11 @@ Here’s how:
 1. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **mmsys.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 2. In the**Playback** tab, right-click on**your default device** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cc544ea24.jpg)
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
@@ -133,12 +108,6 @@ Here’s how:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Check your in-game audio settings
 
  If the fixes above didn’t help, then you might want to adjust your in-game audio settings to see if it works. To do so:
@@ -148,12 +117,11 @@ Here’s how:
 3. Make sure**GROUP VOICE CHAT** and**TEAM VOICE CHAT** are set to**AUTO JOIN, the right device selected** for**VOICE CHAT DEVICES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04c7f097042.jpg)  
  If your voice chat is set to**Push To Talk** , try changing the keybind for Voice Chat:**Push To Talk** to a different key in the Controls menu.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Join in the team chat, test to see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---
@@ -170,8 +138,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +145,20 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-detailed-guidance-on-crafting-dynamic-yt-profiles/"><u>[New] In 2024, Detailed Guidance on Crafting Dynamic YT Profiles</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-essential-guide-to-making-youtube-thumbnails-for-mobile-storytellers-for-2024/"><u>[New] The Essential Guide to Making YouTube Thumbnails for Mobile Storytellers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-blocked-pages-expert-tips-for-overcoming-http-403-barriers/"><u>Bypassing Blocked Pages: Expert Tips for Overcoming HTTP 403 Barriers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-surface-tablet-wont-charge-solved/"><u>How to Fix: Surface Tablet Won't Charge – Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-a-safe-and-stable-connection-on-firefox-platform/"><u>How to Restore a Safe and Stable Connection on Firefox Platform</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-vivo-y100i-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Vivo Y100i? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-nintendo-switch-prime-capture-experience/"><u>In 2024, Nintendo Switch Prime Capture Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208340234-instant-fix-for-electronic-gadgets-when-they-cant-find-a-charge/"><u>Instant Fix for Electronic Gadgets - When They Can't Find a Charge</u></a></li>
+<li><a href="https://fox-access.techidaily.com/melodic-matchmaking-complementary-soundtracks-for-boxings-for-2024/"><u>Melodic Matchmaking Complementary Soundtracks for Boxings for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-top-picks-for-high-quality-outdoor-audio-archives/"><u>New In 2024, Top Picks for High-Quality Outdoor Audio Archives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tech-fix-windows-1011-malfunctioning-acer-inputs/"><u>Tech Fix: Windows 10/11, Malfunctioning Acer Inputs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-guide-to-simple-driver-upgrades-on-your-pc/"><u>Ultimate Guide to Simple Driver Upgrades on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-users-heres-how-to-overcome-the-port-reset-failed-error-with-your-usb-device/"><u>Windows 10 Users, Here's How to Overcome the 'Port Reset Failed' Error with Your USB Device</u></a></li>
+</ul></div>
 

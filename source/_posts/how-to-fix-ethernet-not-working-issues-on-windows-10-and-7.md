@@ -1,7 +1,7 @@
 ---
 title: How to Fix Ethernet Not Working Issues on Windows 10 & 7
-date: 2024-09-05T10:03:22.770Z
-updated: 2024-09-06T10:03:22.770Z
+date: 2024-12-21T08:12:19.190Z
+updated: 2024-12-27T23:21:53.296Z
 tags:
   - win11
   - win10
@@ -13,22 +13,10 @@ excerpt: This Article Describes How to Fix Ethernet Not Working Issues on Window
 thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f0746613af42a2c779a9073e228.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Hosted Network Not Working? Fix Your Connection Issues in Windows 10
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595da421ab523.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  “**The hosted network couldn’t be started** ” error may occur when you set up WiFi hotspot via command prompt. The issue is very likely due to your WiFi network adapter. But no worry! We’ve got the answer for you. In this post, we will be showing you the tried-and-true methods to fix “The hosted network couldn’t be started” error on Windows 10\. Read along please.
 
 ## Try these fixes
@@ -37,12 +25,6 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
 2. [Check your wireless network adapter](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your WiFi driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 1\. Enable Microsoft Hosted Network Virtual Adapter
 
  1)Press**Windows** key +**X** key together to open quick-access menu.  
@@ -50,28 +32,24 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2)Click**View** icon and tick on**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595daff2127b9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3)Find and expand**Network adapters** dialog.  
  Then right-click on**Microsoft Hosted Network Virtual Adapter** to choose**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db07149d8a.jpg)
 
 4)Now set your WiFi hotspot again to see if the error has been fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2\. Check your wireless network adapter
 
@@ -83,17 +61,19 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db5161c78b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3)View on**Power Management** pane.  
  Make sure**Allow the comoputer to turn off this device to save power** is**unchecked** and click**OK** to save settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db64b2e5ab.png)
 
  If unluckily, neither method 1 nor method 2 helps you fix the error, it’s advise that update your WiFi driver with Method 3.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3\. Update your WiFi driver
 
@@ -110,21 +90,13 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db84f55cbc.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db867abdfc.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now Microsoft will detect the update for you automatically.
 
@@ -163,8 +135,6 @@ Now Microsoft will detect the update for you automatically.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +142,24 @@ Now Microsoft will detect the update for you automatically.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-direct-video-tweet-to-twitter-apps-no-retweets-involved-for-2024/"><u>[Updated] Direct Video Tweet to Twitter Apps, No Retweets Involved for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-essential-audio-tuning-tech-mobile-and-pc-companions-for-2024/"><u>[Updated] Essential Audio Tuning Tech Mobile & PC Companions for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-breaking-down-the-basics-of-effective-timelapse-creation-using-gopro-studio/"><u>2024 Approved Breaking Down the Basics of Effective Timelapse Creation Using GoPro Studio</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-how-to-fix-livekernelevent-code-144-errors/"><u>Comprehensive Guide: How to Fix LiveKernelEvent Code 144 Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-a-broken-spacebar-on-a-windows-10-machine/"><u>Effective Solutions for a Broken Spacebar on a Windows 10 Machine</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-our-selection-of-top-6-editable-journal-apps-for-creative-writing-and-planning/"><u>Explore Our Selection of Top 6 Editable Journal Apps for Creative Writing & Planning</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-hp-spectre-x360-heat-issue-comprehensive-solutions/"><u>Fixing the HP Spectre X360 Heat Issue: Comprehensive Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-honor-play-8t-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Honor Play 8T Face Lock?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-samsung-galaxy-a34-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Samsung Galaxy A34 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-stability-problems-in-total-war-rome-remastered-expert-advice/"><u>How to Resolve Stability Problems in Total War: Rome Remastered - Expert Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-solve-this-device-is-not-present-error-code-24-on-various-windows-versions/"><u>How to Troubleshoot and Solve 'This Device Is Not Present' Error (Code 24) on Various Windows Versions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-free-windows-software-perfect-tv-recording-techniques/"><u>In 2024, Free Windows Software Perfect TV Recording Techniques</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-google-assessment-of-wireless-nest-doorbells-with-batteries/"><u>Top Google Assessment of Wireless Nest Doorbells with Batteries</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-the-black-screen-at-startup-issue-in-monster-hunter-world/"><u>Troubleshooting Steps for the 'Black Screen at Startup' Issue in Monster Hunter World</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-strategies-for-superior-gaming-on-windows-11-improve-speed-and-responsiveness/"><u>Ultimate Strategies for Superior Gaming on Windows 11 - Improve Speed and Responsiveness</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/virtual-cam-studio-pro-best-multi-camera-recording-and-online-broadcasting-tool/"><u>Virtual Cam Studio Pro - Best Multi-Camera Recording and Online Broadcasting Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win10-cpu-usage-prevention-and-control-tips/"><u>Win10 CPU Usage: Prevention and Control Tips</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mouse Skills to Boost Efficiency
-date: 2024-09-05T10:06:19.506Z
-updated: 2024-09-06T10:06:19.506Z
+date: 2024-12-25T16:02:31.011Z
+updated: 2024-12-28T03:48:47.248Z
 tags:
   - win11
   - win10
@@ -37,12 +37,6 @@ Continuously getting the error **“There is a problem with your games setup. Pl
   
 ![Origin error There is a problem with your game's setup. Please reinstall your game. ](https://images.drivereasy.com/wp-content/uploads/2021/05/repair-game.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This file check can take up to an hour to complete depending on your computer’s hardware. If there are any file issues or corrupt files, it will replace them or download them again.
 
 If that didn’t help, try the next fix below.
@@ -59,59 +53,31 @@ If that didn’t help, try the next fix below.
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/10/open-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * Under the**Processes** tab, look for**Origin, OriginClientService, and OriginWebHelperService** . If they’re on the list, make sure to right-click each and then select**End task** .  
 
 ![how to chear cache on Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/make-sure-Origin-is-fully-closed.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
 
  3) Type or paste**%ProgramData%/Origin** and press Enter.  
   
 ![how to clear Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/Origin-ProgramData.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Delete all the files and folders inside it**except for LocalContent** . Do not delete this folder.  
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/do-not-delete-LocalContent.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To delete these files and folders quickly, you can hold the**Windows + A keys** to select all of them. Then hold**Ctrl** and click on**LocalContent** to deselect it. Then you can right-click on the files and folders you selected and choose**Delete** .  
   
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/delete.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
 
  6) Type or paste**%AppData%** and press Enter.  
@@ -122,25 +88,17 @@ If that didn’t help, try the next fix below.
   
 ![delete the Origin folder](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  8) In the address bar, click on**AppData** .  
   
 ![delete Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/click-on-AppData.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  9) Open the**Local** folder and delete the**Origin** folder in here.  
   
 ![delete Origin folder inside LocalData](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder-inside-LocalData.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 10) Restart your PC and log back into Origin.
 
@@ -168,27 +126,17 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-device-drivers.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. Then resume your installation or launch your game from Origin to check if that error message still appears.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run Origin as an administrator
 
  There are some situations that your game can’t be installed because your Origin client lacks the administrative privileges. Therefore, you may need to run Origin as an administrator:
@@ -198,6 +146,10 @@ Here’s how to update drivers with Driver Easy:
 2) Right-click the Origin client icon on your desktop (or in the Origin directory if not on your desktop and click**Run As Administrator** .  
   
 ![Run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you want to make Origin always run as administrator, take these steps:
 
@@ -218,34 +170,24 @@ If you want to make Origin always run as administrator, take these steps:
 If that didn’t help, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Download Media Feature Pack for Windows 10 N
 
  For users who are running Windows N versions, you need to download the Media Feature Pack from Microsoft, which helped many players get rid of the error.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/download-media-feature-pack-1200x715.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Not sure which Windows version you’re running? No worries! Follow the steps below to check it out:
 
  1) On your keyboard, press the**Windows + I keys** to open Settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/how-to-check-my-Windows-version.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Select**About** . Then in the**Windows specifications** section, you’ll find your edition.
 
@@ -261,8 +203,6 @@ If that didn’t help, move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -270,4 +210,23 @@ If that didn’t help, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-zeroes-to-heroes-amplifying-your-youtube-following/"><u>[New] 2024 Approved From Zeroes to Heroes Amplifying Your Youtube Following</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-enhance-your-audio-experience-with-windows-11-recording-tips/"><u>[New] Enhance Your Audio Experience with Windows 11 Recording Tips</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-mobile-guide-kickstarting-your-youtube-entrepreneurial-venture/"><u>[Updated] In 2024, Mobile Guide Kickstarting Your YouTube Entrepreneurial Venture</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-role-and-significance-of-blue-icons-in-fb-chats/"><u>[Updated] The Role and Significance of Blue Icons in FB Chats</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-strategies-in-tagging-and-titling-videos-for-success/"><u>2024 Approved Strategies in Tagging and Titling Videos for Success</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-highlights-artificial-intelligence-and-machine-learning-innovations-at-yearly-tech-conference/"><u>ABBYY Highlights Artificial Intelligence & Machine Learning Innovations at Yearly Tech Conference</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-your-livekernelevent-complication-error-117/"><u>Comprehensive Fixes for Your LiveKernelEvent Complication: Error #117</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/criteria-for-choosing-windows-hello-friendly-camera/"><u>Criteria for Choosing Windows Hello-Friendly Camera</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-eliminating-game-crashes-for-total-war-rome-remastered/"><u>Expert Advice on Eliminating Game Crashes for Total War: Rome Remastered</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-crisis-management-for-pcs-comprehensive-strategies-to-repair-windows-error-code-0xc00000e9/"><u>Mastering Crisis Management for PCs: Comprehensive Strategies to Repair Windows Error Code 0xC00000E9</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-system-lockups-expert-advice-for-defrosting-frozen-computers/"><u>Overcoming System Lockups: Expert Advice for Defrosting Frozen Computers</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/1728507756467-sd3/"><u>SD卡失图像求生細述：瞭解3种功能性的修复手段</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/skapa-en-konkurrensfylld-fotokampanj-med-movavi-2024-rabattkuponger-and-koper-din-passion-for-fotografi-nar-den-nu-ar-mest-gynekologisk/"><u>Skapa En Konkurrensfylld Fotokampanj Med Movavi 2024 Rabattkuponger & Köper Din Passion För Fotografi När Den Nu Är Mest Gynekologisk!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211333816-9781803413143-the-science-of-sound/"><u>The Science of Sound | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-correcting-the-missing-entry-point-error-on-windows/"><u>Troubleshooting and Correcting the Missing Entry Point Error on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-system-error-5-has-occurred-in-windows-operating-systems-windows-10-7-and-8/"><u>Troubleshooting and Repairing 'System Error 5 Has Occurred' In Windows Operating Systems (Windows 10, 7 & 8)</u></a></li>
+</ul></div>
 

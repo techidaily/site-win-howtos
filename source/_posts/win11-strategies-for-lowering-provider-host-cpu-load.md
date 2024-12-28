@@ -1,7 +1,7 @@
 ---
 title: "Win11: Strategies for Lowering Provider Host CPU Load"
-date: 2024-12-16T22:53:20.218Z
-updated: 2024-12-22T18:08:11.769Z
+date: 2024-12-25T14:30:46.168Z
+updated: 2024-12-27T18:52:31.973Z
 tags:
   - win11
   - win10
@@ -30,23 +30,19 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Method 1: Check the hardware**
 
  If others can’t hear you in the party chat, but you can hear them clearly, please check these possibilities below to troubleshoot your problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Check your headset**
 
  First of all, you need to check your headset’s cables and ports to see if they are working properly.
 
  Make sure that you**correctly plug the cables into the appropriate ports** . Make sure there are **no dust or obstacles** inside the ports that may prevent your device from working properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Check your mic boom**
 
@@ -65,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 2) Unplug your microphone halfway out from your controller, and plug it back in. Repeat this more than twice until you hear a sound like a buzz.
 
 3) Try your PS4 mic again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 2: Update your sound card driver**
 
@@ -92,14 +84,14 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Driver-Easy-Update-audio-driver.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  4) After updating the driver, restart your computer, then try your PS4 mic and see if your problem is solved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 3: Check the PS4 settings**
 
@@ -114,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a85ab2cba5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Output Device** and select **Headset Connected to Controller** .
@@ -135,15 +127,15 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 
 If your mic can be detected on the   **Adjust Microphone Level**   screen, then the headset and mic are working with the PS4 properly. If your mic was not detected on the  **Adjust Microphone Level**  screen, continue to  [**Method 4**](#Method3) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Method 4: Check the audio settings on your PC**
 
  To check your microphone,**plug your microphone into another computer** that works properly, and see if your microphone works or not. If your mic still doesn’t work, then it should be a problem with your mic, and you should replace it with a new one; if your mic works on the new computer, it should be a problem with your audio settings, then check the following settings:
 
 ### in Windows 10
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Step 1**
 
@@ -153,13 +145,13 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2de909d7185.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) On the**Sound** pane, click the **Recording**   tab, and check if your microphone is set as default (there will be a green check mark next to it and the Set Default button is grayed out).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e28617ceab.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your mic is not the default device, click the **Set Default**   button to set it as default.
 
@@ -179,12 +171,16 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2def1c97882.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** :  If the volume is muted, you will see the sound icon display on your desktop like this: [](https://images.drivereasy.com/wp-content/uploads/2016/01/62.png)
 
  4) Click **OK** to save your settings. Then try your PS4 mic to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### in Windows 11
@@ -195,12 +191,16 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/win11-System-Sound-1200x797.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down and click**More sound settings** .
 
 ![Windows11 - More sound settings](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-More-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Select the**Recording** tab. Right-click your microphone and select**Set as default** **device** . Then click on the**Properties** button. Select the**Levels** tab and slide the slider of**Microphone** and**Microphone Boost** to medium or higher to unmute your microphone.
@@ -231,20 +231,19 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-discover-the-latest-innovations-in-vr-hands-on-devices/"><u>[New] Discover the Latest Innovations in VR Hands-On Devices</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-unleashing-creativity-top-30-video-plans-for-2024/"><u>[New] Unleashing Creativity Top 30 Video Plans for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-core-libraries-api-dll-not-located/"><u>[Resolved] Core Libraries: API DLL Not Located</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-the-hosted-network-couldnt-be-started-on-windows-11/"><u>[SOLVED] The Hosted Network Couldn't Be Started on Windows 11</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-capture-live-conversations-google-meet-on-phones-for-2024/"><u>[Updated] Capture Live Conversations Google Meet on Phones for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-no-spend-high-repeat-leading-apps-for-your-pinterest-vids/"><u>[Updated] No Spend, High Repeat! Leading Apps for Your Pinterest Vids</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/detecting-memory-malfunctions-on-your-pc-expert-tips-from-yl-softwares-experts/"><u>Detecting Memory Malfunctions on Your PC: Expert Tips From YL Software's Experts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-ways-to-resolve-when-your-internet-explorer-stops-functioning-properly/"><u>Easy Ways to Resolve When Your Internet Explorer Stops Functioning Properly</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/effortless-film-logging-how-to-use-devices-like-pros-for-2024/"><u>Effortless Film Logging How to Use Devices Like Pros for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-moto-g34-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Moto G34 5G ?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-iphone-14-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen iPhone 14 In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-failed-to-initialize-network-error-in-dragon-ball-fighterz-game/"><u>Overcoming 'Failed to Initialize Network' Error in Dragon Ball FighterZ Game</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-guide-master-usb-tethering-on-your-windows-10-device/"><u>Simple Guide: Master USB Tethering on Your Windows 10 Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-issue-of-vanishing-touchpad-pointers-in-windows-11/"><u>Solving the Issue of Vanishing Touchpad Pointers in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wireless-trouble-heres-how-to-turn-on-wlan-capability-easily/"><u>Wireless Trouble? Here's How to Turn On WLAN Capability Easily</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-free-top-6-best-apps-for-making-photo-slideshow-with-music-on-iphone-for-2024/"><u>[New] FREE Top 6 Best Apps for Making Photo Slideshow With Music on iPhone for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-perfect-youtube-music-sets/"><u>[New] In 2024, Crafting Perfect YouTube Music Sets</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ncrease-clicks-and-watch-time-with-best-in-class-thumbnails-for-youtube/"><u>[New] Increase Clicks and Watch Time with Best-in-Class Thumbnails for YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/5-upgrades-to-shine-your-digital-clips/"><u>5 Upgrades to Shine Your Digital Clips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-proportional-adjustments-online/"><u>Mastering Proportional Adjustments Online</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-12-pro-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://win-bits.techidaily.com/step-by-step-guide-customizing-your-screen-saver-on-windows-11-tips-and-tricks-from-yl-computing/"><u>Step-by-Step Guide: Customizing Your Screen Saver on Windows 11 - Tips & Tricks From YL Computing</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-restoring-scanning-device-driver-on-your-computer-tech-tips-by-yl/"><u>Step-by-Step Guide: Restoring Scanning Device Driver on Your Computer - Tech Tips by YL</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-5-free-ogg-vorbis-audio-editors-easy-and-powerful-options/"><u>Top 5 Free Ogg Vorbis Audio Editors - Easy and Powerful Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-why-cant-my-mov-files-load-on-plex/"><u>Troubleshooting Steps: Why Can't My Mov Files Load on Plex?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-discover-the-finest-60fps-video-capture-applications-for-crystal-clear-quality/"><u>Ultimate Guide: Discover the Finest 60FPS Video Capture Applications for Crystal Clear Quality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-how-to-choose-the-most-effective-video-grabber-apps-featuring-flowplayer-technology/"><u>Ultimate Guide: How to Choose the Most Effective Video Grabber Apps Featuring Flowplayer Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-list-of-trusted-sites-for-stress-free-mp3s-movies-and-more-downloads/"><u>Ultimate List of Trusted Sites for Stress-Free MP3s, Movies, and More Downloads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/updated-ultimate-guide-to-choosing-the-13-finest-mkv-file-conversion-tools-online/"><u>Updated Ultimate Guide to Choosing the 13 Finest MKV File Conversion Tools Online</u></a></li>
 </ul></div>
 

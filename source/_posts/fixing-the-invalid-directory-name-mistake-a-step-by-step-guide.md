@@ -1,7 +1,7 @@
 ---
 title: Fixing the 'Invalid Directory Name' Mistake – A Step-by-Step Guide
-date: 2024-12-18T19:53:28.582Z
-updated: 2024-12-22T18:32:23.761Z
+date: 2024-12-24T06:39:29.519Z
+updated: 2024-12-28T13:07:30.884Z
 tags:
   - win11
   - win10
@@ -49,11 +49,23 @@ No game can be immune to bugs and glitches, and this is particularly true with**
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Launch Apex Legends and check to see if the error has been fixed. If yes, then great! If the issue persists, please try**Fix 2** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Repair Apex Legends in Origin
 
@@ -68,10 +80,6 @@ Here are the steps to repair Apex Legends in Origin:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-5.png)
 4. Once done, run Apex Legends and see if the Easy Anti-Cheat error has been resolved. If it’s no joy, please continue with**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Run Apex Legends and Origin as Administrator
 
@@ -91,7 +99,7 @@ Here are the steps to repair Apex Legends in Origin:
 **If you’re not presented with the message** , then something is blocking your Internet connection. You can move on to**Fix 5** to check if your firewall is the culprit, if not, you should contact your Internet Service Provider to locate the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Add Easy Anti-Cheat and Apex Legends to your firewall exceptions list
@@ -107,20 +115,12 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-13.png)
 3. Browse through the list of Allowed apps and features to see if Easy Anti-Cheat and Apex Legends are included. If not, click**Change settings** , click**Allow another app…** , then follow the on-screen instructions to add the apps.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Snap5.png)
 4. Once completed, click**OK** .
 
 5. Check to see if the error still occurs. If it doesn’t, then congrats! If it’s still happening, please move on to**Fix 6** , below.
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. While the role of an anti-virus program is hardly questionable, it’s known to conflict with other programs, rendering games unplayble.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Install the latest patch
 
@@ -130,10 +130,6 @@ Here are the steps to repair Apex Legends in Origin:
 2. Navigate to**My Game Library** , then **right-click** on **Apex Legends** and select **Update Game** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.png)
 3. Wait until you see the following message. Then click **Close** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-2.png)
 4. Open Apex Legends and hopefully the error is resolved. If not, please try**Fix 7** .
@@ -149,6 +145,10 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6-3.png)
 3. Download and reinstall Apex Legends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Launch the game to see if you can play without error.
 
 **Here’s how to reinstall Origin:**
@@ -157,18 +157,18 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-15.png)
 2. View Control Panel by **Category** , and then click **Uninstall a program** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-14.png)
 3. Double-click **Origin** to uninstall it.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-6.png)
 4. Restart your Windows system when it is completed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. **[Download](https://www.dm.origin.com/download)**  the latest version of Origin and then double-click the file you downloaded to reinstall it.
@@ -195,24 +195,19 @@ Here are the steps to repair Apex Legends in Origin:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-boost-your-igtv-views-top-5-tactics-for-increased-engagement/"><u>[New] 2024 Approved Boost Your IGTV Views Top 5 Tactics for Increased Engagement</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-run-a-sports-youtube-chain-on-macos/"><u>[Updated] 2024 Approved How to Run a Sports YouTube Chain on MacOS</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/best-video-to-live-photos-apps/"><u>Best Video to Live Photos Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/deciphering-the-hurdles-in-teredos-network-connection-process/"><u>Deciphering the Hurdles in Teredo's Network Connection Process</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/effektive-strategien-fur-die-systemwiederherstellung-unter-windows-11-expertenrat-und-tipps/"><u>Effektive Strategien Für Die Systemwiederherstellung Unter Windows 11 - Expertenrat Und Tipps</u></a></li>
-<li><a href="https://article-files.techidaily.com/global-debut-of-asrocks-ryzen-powered-mini-desktop-deskmini-x600-on-may-24th-overseas-launch/"><u>Global Debut of ASRock’s Ryzen-Powered Mini Desktop, DeskMini X600 on May 24Th Overseas Launch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-number-keys-on-your-keyboard/"><u>How to Fix Unresponsive Number Keys on Your Keyboard</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-draw-eyes-to-your-subject-iphone-photo-tips-with-leading-lines/"><u>In 2024, Draw Eyes to Your Subject IPhone Photo Tips with Leading Lines</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/kinemaster-elevating-your-game-play-experience-on-android-devices-for-2024/"><u>KineMaster Elevating Your Game Play Experience on Android Devices for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-hurdle-of-the-troublesome-windows-error-understanding-and-fixing-0x8000ffff/"><u>Overcoming the Hurdle of the Troublesome Windows Error: Understanding and Fixing 0X8000FFFF</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/playing-fortnite-without-support-workaround-for-older-graphic-cards-on-windows/"><u>Playing Fortnite Without Support: Workaround for Older Graphic Cards on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/securing-your-software-properly-handling-missing-dlls/"><u>Securing Your Software: Properly Handling Missing DLLs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-restoring-volume-control-on-windows-11-systems/"><u>Solution Guide: Restoring Volume Control on Windows 11 Systems</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96321063-9781401933876-there-are-no-goodbyes/"><u>There Are No Goodbyes | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-restoring-a-laptop-screen-that-turned-upside-down/"><u>Troubleshooting Tips for Restoring a Laptop Screen That Turned Upside Down</u></a></li>
-<li><a href="https://discover-data.techidaily.com/tutoriel-detaille-activation-des-snapshots-rapides-sur-windows-server-2019/"><u>Tutoriel Détaillé : Activation Des Snapshots Rapides Sur Windows Server 2019</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/what-to-do-if-your-display-device-does-not-recognize-hdcp/"><u>What to Do If Your Display Device Does Not Recognize HDCP?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-perturber-a-la-migration-de-lappareil-solutions-pour-le-probleme-survenu-apres-une-mise-a-jour/"><u>Windows Perturber À La Migration De L'appareil: Solutions Pour Le Problème Survenu Après Une Mise À Jour</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-apples-m1-max-attachments-a-detailed-guide/"><u>[Updated] Apple’s M1 Max Attachments A Detailed Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fullscreen-partnership-how-to-choose-an-mcn/"><u>[Updated] In 2024, Fullscreen Partnership How to Choose An MCN</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-importance-of-b-roll-diversity-in-filmmaking/"><u>[Updated] In 2024, The Importance of B-Roll Diversity in Filmmaking</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-laughlinelab-picchuckleworkshop/"><u>[Updated] LaughLineLab PicChuckleWorkshop</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-an-in-depth-guide-to-every-element-of-srt/"><u>2024 Approved An In-Depth Guide to Every Element of SRT</u></a></li>
+<li><a href="https://article-tips.techidaily.com/digital-stretching-mastering-mobile-horizon-panos-for-2024/"><u>Digital Stretching Mastering Mobile Horizon Panos for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-logitechs-wireless-mouse-on-windows-with-official-driver-downloads/"><u>Install Logitech's Wireless Mouse on Windows with Official Driver Downloads</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-dvd-to-computer-the-easy-way-to-convert-your-movie-collection/"><u>New 2024 Approved DVD to Computer The Easy Way to Convert Your Movie Collection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-opening-and-watching-mkv-movies-on-your-apple-device/"><u>Step-by-Step Guide: Opening & Watching MKV Movies on Your Apple Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-transferring-your-dvd-content-to-an-external-hard-drive/"><u>Step-by-Step Guide: Transferring Your DVD Content to an External Hard Drive</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-when-your-steam-in-game-vc-is-down/"><u>Step-by-Step Solutions When Your Steam In-Game VC Is Down</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-bulk-transformation-of-m2p-footage-to-high-quality-mp4-files/"><u>Step-by-Step Tutorial on Bulk Transformation of M2P Footage to High-Quality MP4 Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-file-importation-techniques-for-optimal-performance/"><u>Step-by-Step Tutorial on File Importation Techniques for Optimal Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-how-to-transform-blu-rays-to-mp4-without-costs/"><u>Step-by-Step Tutorial on How to Transform Blu-Rays to MP4 Without Costs</u></a></li>
 </ul></div>
 

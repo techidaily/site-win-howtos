@@ -1,7 +1,7 @@
 ---
 title: Computer Continuously Loading at Initial Boot? Solutions Inside
-date: 2024-09-05T10:01:35.192Z
-updated: 2024-09-06T10:01:35.192Z
+date: 2024-12-26T10:12:48.145Z
+updated: 2024-12-27T16:10:29.428Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 
  Your computer gets stuck on the boot screen? This is very annoying – and quite scary. You’re probably thinking, I can’t even access the desktop! How am I supposed to fix it? But no worries, you can fix this. Here’s what you can do…
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix the PC Stuck on Boot Screen Issue
 
 * [Solution 1: Boot your PC without Peripherals](#h-solution-1-boot-your-pc-without-peripherals)
@@ -35,17 +29,9 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
  You may not have to try them all; just work your way down the list until you find the one that works for you.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Solution 1: Boot your PC without Peripherals
 
  External peripherals can sometimes conflict with your system and trigger errors of all sorts. So before we dive into anything deeper, let’s start with the easiest solution: restarting your PC without peripherals.
@@ -56,17 +42,15 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/usb-g6d352e3ca_640.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Try turning on your computer again.
 
  If your computer boots correctly, that means that one of the peripherals you removed is causing your problem. You should **reinstall each device** back into your computer and test them each time. Then, you’ll find the specific device that causes your problem. Replace the device once you’ve identified it. Or, consult the manufacturer of the device for assistance.
 
 If your computer still can’t boot correctly, try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 2: Check the RAM
 
@@ -84,24 +68,12 @@ RAM looks like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Put your RAMs back into the slot one by one while trying to boot each time.
 
  If your computer starts without one or more of the RAMs, then it could be an issue with your RAM modules. Or in some cases, it is possible that your RAM module is fine, but one or more memory slots on your motherboard are defective. You may want to try removing the modules and placing them in different slots to find if one of the slots is faulty.
 
  If your computer still can’t boot properly, don’t worry. Check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 3: Reset BIOS Settings
 
  When you’re booting up your computer, BIOS instructs it on how to boot up the operating system. And improper BIOS settings can cause computer boot issues.
@@ -118,22 +90,10 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Wait for 5 minutes, and then reinstall your CMOS battery.
 
 5) Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 4: Restore your System to the Previous State
 
  If the issue happened because of a bad piece of software, say an app your installed or a driver that went wrong, you can use the windows build-in System Recovery feature to fix it. System Recovery allows you to roll your Windows installation back to its last working state.
@@ -146,12 +106,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-11-44.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click **Open System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-12-28.jpg)
@@ -159,6 +113,10 @@ The CMOS battery looks like this
  3) Click **Choose a different restore point** , and click**Next** to select a restore point before the issue occurs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-13-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Follow the on-screen instructions to finish the restore.
 
@@ -189,6 +147,10 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -199,14 +161,16 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-28-48.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Type **SFC /Scannow** , and then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-29-41.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Type **DISM /Online /Cleanup-Image /RestoreHealth** , and then press **Enter** .
 
@@ -224,8 +188,6 @@ The CMOS battery looks like this
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -233,4 +195,21 @@ The CMOS battery looks like this
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-create-animated-bouncing-text-2-ways/"><u>[New] 2024 Approved How to Create Animated Bouncing Text [2 Ways]</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-profit-maximizers-collection-8-must-have-tools-that-can-skyro-written-by-jesse-fawcett-edited-by-gpt-3/"><u>[New] 2024 Approved Profit Maximizers Collection 8 Must-Have Tools That Can Skyro Written by Jesse Fawcett, Edited by GPT-3</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-exploring-the-void-of-originality-in-vr-content/"><u>[Updated] Exploring the Void of Originality in VR Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/common-fixes-when-windows-10-version-1607-wont-install-properly/"><u>Common Fixes When Windows 10 Version 1607 Won't Install Properly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/freely-enhance-your-photos-iosandroids-best-overlay-apps-for-2024/"><u>Freely Enhance Your Photos IOS/Android's Best Overlay Apps for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-nokia-xr21-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Nokia XR21</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-erratic-screen-behavior-in-your-windows-11-machine/"><u>How to Stop Erratic Screen Behavior in Your Windows 11 Machine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-resolve-microsofts-print-to-pdf-problems-in-windows-10-and-11/"><u>How to Troubleshoot and Resolve Microsoft's Print to PDF Problems in Windows 10 & 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-easy-entry-into-cinematography-choosing-film-cameras-35mm-to-pands/"><u>In 2024, Easy Entry Into Cinematography Choosing Film Cameras (35Mm to P&S)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-enlarge-your-feed-footprint-with-full-screen-videos/"><u>In 2024, Enlarge Your Feed Footprint with Full-Screen Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-for-inactive-windows-update-functionality-on-pcs/"><u>Solution for Inactive Windows Update Functionality on PCs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-complete-user-manual-to-harnessing-openais-cutting-edge-api-capabilities/"><u>The Complete User Manual to Harnessing OpenAI's Cutting-Edge API Capabilities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-bluetooth-appears-invisible-on-pcs-device-list/"><u>Troubleshooting Guide: Bluetooth Appears Invisible on PC's Device List</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-story-behind-netflixs-previous-dvd-rental-business-model/"><u>Unveiling the Story Behind Netflix's Previous DVD Rental Business Model</u></a></li>
+</ul></div>
 

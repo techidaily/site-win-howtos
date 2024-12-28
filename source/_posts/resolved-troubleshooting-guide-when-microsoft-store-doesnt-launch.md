@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Guide When Microsoft Store Doesn't Launch"
-date: 2024-12-16T01:16:08.450Z
-updated: 2024-12-23T00:26:01.527Z
+date: 2024-12-26T04:43:31.334Z
+updated: 2024-12-28T10:53:37.176Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 fixes for **Fortnite not launching** in Windows
 
  Here are 5 fixes that have helped other players resolve the**Fortnite not launching** issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 3. [**Repair EasyAntiCheat**](#F3)
 4. [**Install the latest patch**](#F4)
 5. **[Repair corrupted system files](https://coinrule.sjv.io/rqzonv)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your device drivers
 
@@ -50,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a**7-day free trial** which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged until the trial ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/DE-update-all-AMD.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Restart your computer for the changes to take effect.
 
  5) Open Fortnite and see if it launches properly. If yes, then congrats! But if it still won’t launch, please move on to**Fix 2** , below.
@@ -61,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify your Fortnite files
@@ -75,6 +79,10 @@ Here’s how to do it:
 2. Click**Verify** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c11d917b99e3.jpg)
 3. As soon as the verification is ready, the**SETTINGS** option will switch to **LAUNCH** . Click**LAUNCH** to see if Fortnite opens smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -91,6 +99,10 @@ Here’s how to do it:
 5. Click**Finish** once the uninstall and the install processes finish.
 
 6. Re-launch Fortnite and hopefully the Fortnite not launching problem has been solved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest patch
 
@@ -121,10 +133,6 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact[](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
 
 5) Restart your computer for the changes to take effect.
@@ -139,19 +147,11 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -185,14 +185,24 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-subtitles-that-shine-discover-the-best-free-online-tools/"><u>[New] In 2024, Subtitles That Shine - Discover the Best Free Online Tools</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-how-to-make-every-discord-livestree-a-timeless-treasure-for-2024/"><u>[Updated] How to Make Every Discord Livestree a Timeless Treasure for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/arctis-5-wireless-headset-mic-repair-guide-tips-and-tricks-for-optimal-performance/"><u>Arctis 5 Wireless Headset Mic Repair Guide: Tips and Tricks for Optimal Performance</u></a></li>
-<li><a href="https://fox-links.techidaily.com/elevating-your-channel-with-strategic-picture-posts-for-2024/"><u>Elevating Your Channel with Strategic Picture Posts for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-a25-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy A25 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-streamline-learning-processes-with-detailed-chaptering-for-educational-youtube-videos/"><u>In 2024, Streamline Learning Processes with Detailed Chaptering for Educational YouTube Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210991538-overcoming-voice-chat-hurdles-in-overwatch-simple-solutions-inside/"><u>Overcoming Voice Chat Hurdles in Overwatch - Simple Solutions Inside!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-access-denied-how-to-overcome-error-5-when-trying-to-run-files/"><u>Solving 'Access Denied': How to Overcome Error 5 When Trying to Run Files</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-unresponsive-file-explorer-on-your-pc-windows-solutions-for-a-smooth-experience/"><u>Troubleshooting Unresponsive File Explorer on Your PC: Windows # Solutions for a Smooth Experience</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-snappy-and-simple-steps-for-posting-short-videos-online/"><u>[New] In 2024, Snappy and Simple Steps for Posting Short Videos Online</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-to-your-own-custom-arranged-music-library-on-youtube/"><u>[New] Navigating to Your Own Custom-Arranged Music Library on Youtube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-shut-down-instagram-suggestions-for-2024/"><u>[New] Shut Down Instagram Suggestions for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-exploring-the-realm-of-physical-interaction-tech/"><u>[Updated] Exploring the Realm of Physical Interaction Tech</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-beyond-the-numbers-narrative-the-impact-of-fake-likes/"><u>[Updated] In 2024, Beyond the Numbers Narrative The Impact of Fake Likes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-discover-your-preferred-music-experience-top-6-android-music-video-apps/"><u>2024 Approved Discover Your Preferred Music Experience - Top 6 Android Music Video Apps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/can-asus-ac88u-live-up-to-its-promises-in-a-real-world-test-game-on/"><u>Can Asus AC88U Live Up To Its Promises In A Real World Test - Game On</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/display-unit-issues-non-acceptable-input-flagged/"><u>Display Unit Issues: Non-Acceptable Input Flagged</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-when-teredo-router-functionality-fails-to-initialize/"><u>Effective Fixes for When Teredo Router Functionality Fails to Initialize</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-31-decoded-easy-strategies-for-troubleshooting-windows-issues/"><u>Error 31 Decoded: Easy Strategies for Troubleshooting Windows Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-when-your-surface-wont-charge-a-step-by-step-guide/"><u>How to Resolve When Your Surface Won't Charge: A Step-by-Step Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-from-beginner-to-maestro-a-comprehensive-gif-tutorial-for-snapchat/"><u>In 2024, From Beginner to Maestro A Comprehensive Gif Tutorial for Snapchat</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-fn-key-failure-a-guide-for-asus-notebook-users/"><u>Overcoming Fn Key Failure: A Guide for ASUS Notebook Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-mystery-of-gone-desktop-icons-on-windows-10-effective-methods-to-get-them-back/"><u>Resolving the Mystery of Gone Desktop Icons on Windows 10 - Effective Methods to Get Them Back!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974833537-speedy-download-of-pioneer-djs-ddj-sx2-controller-software-awaits-you/"><u>Speedy Download of Pioneer DJ's DDJ-SX2 Controller Software Awaits You!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-non-responsive-mouse-clicks-in-win10/"><u>Step-by-Step Solution for Non-Responsive Mouse Clicks in Win10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212267703-troubled-by-logitech-g930-mic-disconnections-heres-the-solution/"><u>Troubled by Logitech G930 Mic Disconnections? Here's the Solution!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-your-dell-laptop-keys-arent-responding/"><u>Troubleshooting Steps When Your Dell Laptop Keys Aren't Responding</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Infinix Smart 7 HD? | Dr.fone</u></a></li>
 </ul></div>
 

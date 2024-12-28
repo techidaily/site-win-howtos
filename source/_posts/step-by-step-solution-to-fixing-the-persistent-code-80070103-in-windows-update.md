@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution to Fixing the Persistent Code 80070103 in Windows Update
-date: 2024-12-18T00:13:33.376Z
-updated: 2024-12-22T17:15:28.891Z
+date: 2024-12-21T08:18:54.936Z
+updated: 2024-12-27T17:14:05.035Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ When you fail to access another computer of the same network, or when you cannot
 
  The screenshot below comes from Windows 10, but the fixes also apply to Windows 7/8/11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Change adapter options
 
  The network adapter enables your computer to transmit and receive data on a local area network. If you’re having the 0x800704cf error, try changing the adapter settings to see if that resolves the problem.
@@ -49,10 +53,6 @@ When you fail to access another computer of the same network, or when you cannot
 **1)** Right-click the**network icon** in the notification area.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-1-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Click**Open Network & Internet settings** .
 
@@ -63,7 +63,7 @@ When you fail to access another computer of the same network, or when you cannot
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-3-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Right-click the network you’re currently using, and click**Properties** .
@@ -74,17 +74,9 @@ When you fail to access another computer of the same network, or when you cannot
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart your device and check if the 0x800704cf goes away. If not, continue with the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Reset TCP/IP
 
@@ -93,6 +85,10 @@ When you fail to access another computer of the same network, or when you cannot
 **1)** Type**cmd** in the search box. Then, right-click**Command Prompt** and click**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-1-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click**Yes** when you’re prompted to continue.
 
@@ -134,10 +130,6 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-5-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-4-3.jpg)
@@ -158,10 +150,6 @@ netsh int ip reset
 2. **[Run the Windows troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reset the Microsoft Store](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Sign in with Microsoft account
 
  The 0x800704cf error can arise when you’re logged in using a local account. Try signing in to your Microsoft account and see if the issue is resolved.
@@ -173,6 +161,10 @@ netsh int ip reset
 **2)** Click**Accounts** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-2-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select**Your info** in the left pane. Then, click**Sign in with a Microsoft account instead** .
 
@@ -187,10 +179,6 @@ netsh int ip reset
  Follow the on-screen instruction to verify your identity. Then, open your Microsoft Store and see whether the 0x800704cf code still pops up or not. If this method isn’t helpful, don’t despair. Have a look at more fixes below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Run the Windows troubleshooter
 
@@ -208,15 +196,27 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-3-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Wait for the troubleshooting process to complete, and close the troubleshooter.
 
 **5)** Click**troubleshoot** in the search box and click**Troubleshooting settings** to open the troubleshoot menu again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Scroll down to click**Windows Store Apps** and click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-4-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Follow the on-screen instruction to fix any detected issues. Then, launch the Microsoft Store and check if it works without error. If not, please try the Fix 3 below.
 
@@ -231,12 +231,16 @@ netsh int ip reset
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Click**Apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select**Apps & features** . Then, scroll down to click**Microsoft Store** , and click**Advanced options** .
 
@@ -250,15 +254,15 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-5-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Open your Microsoft Store, and the 0x800704cf error won’t be disturbing you anymore.
 
  Network issue like 0x800704cf error is a common PC problem but it’s insufferable. There’s so much you can’t do without the Internet, and even worse, you can’t search a solution to fix it. If you’ve frequently run into this kind of issues such as no or slow Internet access, be sure to check our bonus tips below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus tips: Update your network driver
 
@@ -275,10 +279,6 @@ netsh int ip reset
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-1-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click the**Update** button next to the flagged network driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).
 
@@ -315,16 +315,18 @@ netsh int ip reset
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-customizing-ae-title-designs-for-2024/"><u>[Updated] Customizing AE Title Designs for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-reels-to-new-heights-with-top-6-innovative-apps-for-2024/"><u>[Updated] Elevate Your Reels to New Heights with Top 6 Innovative Apps for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-transforming-team-conversation-windows-pre-and-post-calls/"><u>[Updated] Transforming Team Conversation Windows Pre & Post-Calls</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-google-pixel-7a-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Google Pixel 7a ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/master-brother-printer-print-issues-a-win1011-fix-guide/"><u>Master Brother Printer Print Issues: A Win10/11 Fix Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/proven-strategies-for-masterful-fisheye-photography-for-2024/"><u>Proven Strategies for Masterful Fisheye Photography for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-user-permission-errors-how-to-fix-operation-requires-elevation-in-windows-11-10-and-7/"><u>Resolving User Permission Errors: How to Fix 'Operation Requires Elevation' In Windows 11, 10 & 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-unresponsive-function-buttons-on-dell-machines/"><u>Step-by-Step Solutions for Unresponsive Function Buttons on Dell Machines</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-comprehensive-guide-to-choosing-your-ideal-cable-modem-2024-rankings/"><u>The Comprehensive Guide to Choosing Your Ideal Cable Modem - 2024 Rankings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restoring-functionality-of-hp-laptop-webcam-on-windows-11/"><u>Troubleshooting Guide: Restoring Functionality of HP Laptop Webcam on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-culprit-of-heavy-resource-use-by-wudfhostexe-on-windows-11-systems/"><u>Troubleshooting the Culprit of Heavy Resource Use by WUDFHost.exe on Windows 11 Systems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-effortlessly-capture-and-archive-your-favorite-fb-story-moments/"><u>[Updated] Effortlessly Capture and Archive Your Favorite FB Story Moments</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://fox-info.techidaily.com/dji-spark-and-you-a-comprehensive-review-of-portable-aerial-tech/"><u>DJI Spark and You A Comprehensive Review of Portable Aerial Tech</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-adjusting-high-speed-footage-from-120-fps-down-to-standard-24-fps-without-introducing-slow-motion-distortions/"><u>Guide to Adjusting High-Speed Footage From 120 FPS Down to Standard 24 FPS Without Introducing Slow Motion Distortions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-boost-your-spreadsheets-integrate-chatgpt-with-excel-confidently-and-effortlessly/"><u>How to Boost Your Spreadsheets: Integrate ChatGPT with Excel Confidently and Effortlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-separate-audio-from-video-streaming-top-5-techniques-explained/"><u>How To Separate Audio From Video Streaming: Top 5 Techniques Explained</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-and-resolve-directx-issues-in-fifa-20/"><u>How to Troubleshoot and Resolve DirectX Issues in FIFA 20</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-zero-cost-text-animation-guide-for-videos/"><u>In 2024, Zero-Cost Text Animation Guide for Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-depth-analysis-of-ezzermacs-spell-program-suite-reviews-and-tutorial-steps-with-active-url-access/"><u>In-Depth Analysis of EzzerMacs Spell Program Suite: Reviews & Tutorial Steps with Active URL Access</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-dvd-to-wmv-upgrades-secrets-to-achieving-top-notch-resolution-on-a-windows-pc/"><u>Mastering DVD to WMV Upgrades: Secrets to Achieving Top-Notch Resolution on a Windows PC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/rhythmic-explorations-the-essential-15-videos-for-musicians-for-2024/"><u>Rhythmic Explorations The Essential 15 Videos for Musicians for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-secrets-of-the-apple-iphone-15-pro-in-depth-hands-on-testing-and-review/"><u>Unveiling the Secrets of the Apple iPhone 15 Pro: In-Depth Hands-On Testing and Review</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-mac-vlc-video-cutter-trim-cut-and-edit-videos-without-quality-degradation-for-2024/"><u>Updated Mac VLC Video Cutter Trim, Cut, and Edit Videos Without Quality Degradation for 2024</u></a></li>
 </ul></div>
 

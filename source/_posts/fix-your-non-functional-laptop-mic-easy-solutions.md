@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Non-Functional Laptop Mic: Easy Solutions"
-date: 2024-12-17T01:01:45.621Z
-updated: 2024-12-22T21:38:00.024Z
+date: 2024-12-24T19:21:41.650Z
+updated: 2024-12-27T20:12:42.713Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Enable the Windows Management Instrumentation (WMI) Service
 
  LogMeIn Hamachi is a certain type of application that needs the Windows Management Instrumentation service (WMI)’s help to run properly in the Windows system.  
@@ -49,21 +53,17 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap54.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click on**Windows Management Instrumentation** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap55.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click the**Start** button to start it if it’s not running and set the Startup type to**Automatic** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap58.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click the**Apply** \>**OK** .  
 
@@ -94,30 +94,26 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap50.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Open the**File Explorer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap62.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) In the address box, type “C:\\Program Files (x86)\\LogMeIn Hamachi”.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap51.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  8) Right-click on**hamachi-2-ui.exe** and open**Properties** .
 
  9) Under the**Security** tab, ensure the Users group permissions are set to “Read & execute”. If it’s not, you can click**Edit** to change permissions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap60.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  10) Click**OK** to finish settings.
 
@@ -147,18 +143,22 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap66.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the open window, choose to view by**Catalog** , then click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap67-1-1024x593.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click on**LogMeIn Hamachi** and click**Uninstall** .  
  Follow the on-screen instructions to finish the process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap68.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Download the program from LogMeln Hamachi official website.
 
@@ -177,7 +177,7 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap70.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Copy and paste below lines into Notepad.
@@ -206,11 +206,19 @@ exit
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap81.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Under the**General** tab, set a name for the task.  
  Then go down to Security options to check it’s**Run only when the user is logged on** .  
  Third, change the Configure into**Windows 10** . After that, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap77.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Click the**Triggers** tab, and click the**New…** button.
 
@@ -235,10 +243,6 @@ exit
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bonus: Update your drivers by 2 clicks
 
  In order to improve your VPN work performance, it’s important to keep your network adapter drivers up-to-date.  
@@ -249,6 +253,10 @@ exit
 OR
 
 **[Option 2 – Automatically (Recommended)](https://tools.techidaily.com/drivereasy/download/)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 1 –** **Download and install the driver manually**
 
@@ -266,16 +274,8 @@ OR
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/04/network1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/04/network.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -298,20 +298,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-revolutionizing-content-breakthroughs-in-youtube-editing/"><u>[New] 2024 Approved Revolutionizing Content Breakthroughs in YouTube Editing</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-iphones-audio-advantages-for-podcast-lovers-for-2024/"><u>[New] IPhone's Audio Advantages for Podcast Lovers for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-clearsnapzoommax-7-professional-photo-scaling/"><u>[Updated] In 2024, ClearSnapZoomMax 7 Professional Photo Scaling</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-infinix-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Infinix Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/clearing-upset-user-settings-failure-with-efficient-driver-fixes/"><u>Clearing Upset User Settings Failure with Efficient Driver Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208745879-complete-fix-for-n64-controllers-that-arent-responding-expert-advice-inside/"><u>Complete Fix for N64 Controllers That Aren't Responding - Expert Advice Inside!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/easy-and-secure-methods-for-full-iphone-system-reset-while-preserving-all-personal-information/"><u>Easy and Secure Methods for Full iPhone System Reset While Preserving All Personal Information</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-to-resolve-windows-11-update-issue-error-code-0x800f0922/"><u>Effective Fixes to Resolve Windows 11 Update Issue (Error Code 0X800F0922)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-ultimate-dvd-ripping-tool-winx-for-windows-nk-11-quick-and-simple-dvd-to-mp4-conversion-utility/"><u>Free Ultimate DVD Ripping Tool WinX for Windows Nk-11: Quick and Simple DVD to MP4 Conversion Utility</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-screen-mirroring-glitches-in-windows-10-environments/"><u>How to Resolve Screen Mirroring Glitches in Windows 10 Environments</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-restoring-bluetooth-on-your-computers-system-manager/"><u>Step-by-Step Solution: Restoring Bluetooth on Your Computer's System Manager</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-mobvois-ticwatch-pro-nv3-advanced-gps-tracking-meets-extended-battery-life-with-dual-display-innovation/"><u>The Ultimate Guide to Mobvoi's TicWatch Pro Nv3: Advanced GPS Tracking Meets Extended Battery Life with Dual Display Innovation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-bluetooth-connectivity-issues-in-windows-10/"><u>Troubleshooting Bluetooth Connectivity Issues in Windows 10</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-and-accessing-pc-specifications-in-windows-11-without-third-party-software/"><u>Understanding and Accessing PC Specifications in Windows 11 without Third-Party Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-against-unknown-usb-device-port-reset-failed-in-windows-11-a-comprehensive-fix-guide/"><u>Winning Against 'Unknown USB Device (Port Reset Failed)' In Windows 11: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-achieving-professional-screen-record-quality-on-your-hp-notebook/"><u>[New] In 2024, Achieving Professional Screen Record Quality on Your HP Notebook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-elite-selection-top-9-free-youtube-channel-branding-apps/"><u>[New] In 2024, Elite Selection Top 9 Free YouTube Channel Branding Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-ultimate-list-of-apples-best-photo-watermark-applications/"><u>[New] In 2024, Ultimate List of Apple's Best Photo Watermark Applications</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-srgb-encoding-versus-rgb-basics-for-2024/"><u>[New] Srgb Encoding Versus Rgb Basics for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/audiovisual-alchemy-infusing-your-vimeo-clips-with-soundtracks/"><u>Audiovisual Alchemy Infusing Your Vimeo Clips with Soundtracks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-high-cpu-load-in-windows-fixing-the-desktop-window-manager-glitch-with-5-simple-tricks/"><u>Beat High CPU Load in Windows: Fixing the Desktop Window Manager Glitch with 5 Simple Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-handling-system-error-code-1000-in-windows-os-from-vista-through-10/"><u>Comprehensive Fixes: Handling System Error Code 1000 in Windows OS From Vista Through 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209509763-corsair-hs50-headset-mic-errors-learn-how-to-fix-it-and-restore-sound/"><u>Corsair HS50 Headset Mic Errors? Learn How to Fix It and Restore Sound!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-download-asus-atk0100-acpi-drivers/"><u>How to Download ASUS ATK0100 ACPI Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-frustrating-windows-error-0x800704cf-with-ease/"><u>How to Overcome the Frustrating Windows Error 0X800704CF with Ease</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-analysis-of-ipad-pro-m4-versus-macbook-air-which-one-wins-out/"><u>In-Depth Analysis of IPad Pro (M4) Versus MacBook Air: Which One Wins Out?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-mousepad-not-working-in-windows-1087-solved/"><u>Laptop Mousepad Not Working in Windows 10/8/7 [SOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-persistent-usb-recognition-issues-on-your-computer-step-by-step-guide/"><u>Resolving Persistent USB Recognition Issues on Your Computer – Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restore-missing-taskbar-elements-on-windows-10-essential-guide-to-reappearing-icons-and-tools/"><u>Restore Missing Taskbar Elements on Windows 10 – Essential Guide to Reappearing Icons & Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-tutorial-configuring-adb-for-your-windows-machine/"><u>Simple Tutorial: Configuring ADB for Your Windows Machine</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/spy-on-fb-chronicles-unseen/"><u>Spy on FB Chronicles, Unseen</u></a></li>
+<li><a href="https://ai-video.techidaily.com/toms-tech-review-in-depth-guides-and-gear-insights/"><u>Tom's Tech Review: In-Depth Guides & Gear Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205730238-touchpad-not-scrolling-heres-how-to-get-it-working-again/"><u>Touchpad Not Scrolling? Here's How to Get It Working Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-restoring-integrity-of-windows-1011-os-files/"><u>Troubleshooting Tips: Restoring Integrity of Windows 10/11 OS Files</u></a></li>
 </ul></div>
 

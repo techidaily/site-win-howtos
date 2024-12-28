@@ -1,7 +1,7 @@
 ---
 title: "Razer Keyboard Not Glowing: Common Issues and Fixes Discovered"
-date: 2024-12-19T19:35:50.057Z
-updated: 2024-12-22T19:45:46.388Z
+date: 2024-12-22T07:05:56.466Z
+updated: 2024-12-28T00:13:10.129Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -32,17 +32,13 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 2. [**Uninstall and reinstall Razer Synapse**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Plug your keyboard in another USB port
 
  It’s probably caused by the poor connection. Plug your keyboard into another USB port and check if it does light up. If it does and everything works well, it’s your USB port that has the issue.  
  If it doesn’t light up, move to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Uninstall and reinstall Razer Synapse
@@ -57,12 +53,20 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/services.jpg)
 5. Go to C:\\Users\\Your user name\\AppData and delete any Razer folders.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Go to C:\\Program Files (x86)… or wherever you installed Synapse and delete the Razer folders.
 7. Reboot your computer.
 8. Go to the[Razer official website](https://www.razer.com/synapse-3) to download the latest version of Synapse.
 9. Follow the on-screen instructions to install Synapse.
 10. Launch Synapse.
 11. Plug your keyboard and check the lightening.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your driver
 
@@ -80,15 +84,11 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)  
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. After updating the drivers, check to see the issue is resolved or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That’s it! Hopefully, these methods can help you resolve the issue. If you have any questions or suggestions, please let us know by commenting below.
@@ -110,20 +110,20 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-ideal-strategies-for-noiseless-filming/"><u>[Updated] Ideal Strategies for Noiseless Filming</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-f15-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy F15 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ce-34878-0-error-on-ps4-step-by-step-repair-instructions-fixed/"><u>CE-34878-0 Error on PS4: Step-by-Step Repair Instructions [FIXED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-fix-windows-error-0x80071ac3-overcoming-a-dirty-disk-problem/"><u>Guide to Fix Windows Error 0X80071AC3: Overcoming a 'Dirty' Disk Problem</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-requesting-trustedinstallers-approval-to-edit-system-files/"><u>Guide: Requesting TrustedInstaller's Approval to Edit System Files</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-curate-christian-chimes-for-devotion-for-2024/"><u>How to Curate Christian Chimes for Devotion for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-15-plus-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 15 Plus?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-get-your-microsoft-wireless-display-adapter-working-on-windows-11-without-a-hitch/"><u>How to Get Your Microsoft Wireless Display Adapter Working on Windows 11 Without a Hitch</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-essentials-of-writing-attractive-vlog-narratives/"><u>In 2024, The Essentials of Writing Attractive Vlog Narratives</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/personal-experience-with-apple-series-9-and-fitbit-charge-6-a-detailed-comparison/"><u>Personal Experience with Apple Series 9 & Fitbit Charge 6 - A Detailed Comparison</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pubg-2024-startup-problems-heres-your-complete-solution-guide/"><u>PUBG 2024 Startup Problems? Here’s Your Complete Solution Guide</u></a></li>
-<li><a href="https://win-popular.techidaily.com/simple-mp3-finder-easy-online-music-search-and-download/"><u>Simple MP3 Finder: Easy Online Music Search & Download</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-stop-your-mouse-from-dropping-out/"><u>Step-by-Step Troubleshooting: Stop Your Mouse From Dropping Out</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-against-wifi-fix-your-bluetooth-pairing-woes-on-windows-11-tips-and-tricks/"><u>Winning Against WiFi: Fix Your Bluetooth Pairing Woes on Windows 11 - Tips & Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wolcen-lords-of-mayhem-reasons-behind-the-delayed-release/"><u>Wolcen: Lords of Mayhem - Reasons Behind the Delayed Release</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-a-closer-look-at-the-vegaspro-19-makeover/"><u>[New] 2024 Approved A Closer Look at the VegasPro '19 Makeover</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-free-online-video-capture-leaders-top-10-edition/"><u>[New] In 2024, Free Online Video Capture Leaders – Top 10 Edition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-full-review-capturing-every-angle-in-one-device-samsung/"><u>[Updated] Full Review Capturing Every Angle in One Device - Samsung</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-navigating-facebook-live-a-comprehensive-tutorial/"><u>[Updated] In 2024, Navigating Facebook Live A Comprehensive Tutorial</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-final-showdown-is-obs-studio-superior-to-bandicam/"><u>[Updated] The Final Showdown Is OBS Studio Superior to Bandicam?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-guide-on-integrating-mp3-sound-with-mp4-footage/"><u>Effortless Guide on Integrating MP3 Sound with MP4 Footage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-guide-sharing-videos-on-twitter-mastering-the-art-of-tweeting-movies-and-clips/"><u>Effortless Guide: Sharing Videos on Twitter - Mastering the Art of Tweeting Movies and Clips</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-remedies-for-microsofts-error-code-0x800f0831-via-windows-update-options/"><u>Effortless Remedies for Microsoft's Error Code 0X800f0831 via Windows Update Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortlessly-shorten-your-youtube-videos-discover-three-easy-techniques/"><u>Effortlessly Shorten Your YouTube Videos: Discover Three Easy Techniques!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/elite-hd-video-preservation-devices-for-2024/"><u>Elite HD Video Preservation Devices for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/explore-the-golden-age-of-cinema-with-these-11-free-streaming-services-for-iconic-classic-movies-online/"><u>Explore the Golden Age of Cinema with These 11 Free Streaming Services for Iconic Classic Movies Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-methods-how-to-easily-change-your-3gpp-recordings-into-mp3-format/"><u>Free Methods: How To Easily Change Your 3GPP Recordings Into MP3 Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-solutions-for-transforming-your-avi-audio-clips-into-high-quality-wav-files/"><u>Free Solutions for Transforming Your AVI Audio Clips Into High-Quality WAV Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-downloading-private-vimeo-content-onto-your-computer/"><u>Guide: Downloading Private Vimeo Content Onto Your Computer</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unveiling-the-lg-bp350-a-detailed-performance-and-design-study-for-2024/"><u>Unveiling the LG BP350 A Detailed Performance & Design Study for 2024</u></a></li>
 </ul></div>
 

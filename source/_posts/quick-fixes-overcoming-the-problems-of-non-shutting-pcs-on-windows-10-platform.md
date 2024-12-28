@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes: Overcoming the Problems of Non-Shutting PCs on Windows 10 Platform"
-date: 2024-12-15T17:17:50.963Z
-updated: 2024-12-22T20:09:12.755Z
+date: 2024-12-21T00:27:32.629Z
+updated: 2024-12-28T15:00:34.150Z
 tags:
   - win11
   - win10
@@ -51,13 +51,21 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 3. Click **Apply this fix**   to continue.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap790.png)
 4. Follow the on-screen instructions to troubleshoot this issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Perform a Windows update again to see if you can install the update. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: Restarting Windows Update service**
 
@@ -69,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap792.png)
 3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** .  Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **`C:\Windows\SoftwareDistribution\DataStore`**  
 
@@ -88,22 +100,10 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap797.png)  
  When all the files are deleted, you shall see “This folder is empty”.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. In the Services window, right-click **Windows Update** and select **Start**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap798.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Check Windows Update again to see whether you can install the update. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 3: Setting the TrustedInstaller service to auto start**
 
@@ -114,12 +114,16 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 2. In Command Prompt, type the command line below and press enter:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **SC config trustedinstaller start=auto**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap800.png)
 3. Close Command Prompt and restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Perform Windows Update again after your restart your PC. See if you can install the update KB4056892\. If you can install it, congratulations! You’ve fixed this issue.
 
@@ -131,21 +135,17 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap799.png)
 2. In Command Prompt, type the following command and press **Enter**  .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **sfc /scannow**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap801.png)  
  It may take some time for the command operation to be completed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. When this command operation is completed, close Command Prompt.
 
 Run Windows Update  again to check whether this fix works or not. If you still fail to install the update KB4056892 for your Windows system, try downloading it from Microsoft Update Catalog manually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 5: Downloading the update KB4056892 from Microsoft Update Catalog manually**
 
@@ -163,16 +163,16 @@ Run Windows Update  again to check whether this fix works or not. If you still f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap803.png)
 4. In the list of search results, select right update for your operating system and click **Download**  .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your **Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap806.png)
 5. In the pop-up window, click the link to start downloading the updates.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap807.png)
 6. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 See if you can install the update. If not, try the next fix, below.
 
@@ -204,20 +204,18 @@ See if you can install the update. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-leading-tag-tracker-software-on-major-platforms-like-fb-tweet-and-insta/"><u>[New] Leading Tag Tracker Software on Major Platforms Like FB, Tweet & Insta</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-windows-driver-energy-management-problems-quickly-and-easily/"><u>Fix Windows Driver Energy Management Problems Quickly and Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gameplay-initiates-pc-reboot/"><u>Gameplay Initiates PC Reboot</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-v-purse-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Honor V Purse to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-vivo-s18-pro-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Vivo S18 Pro Phone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mystery-of-missing-movies-a6400s-quandary/"><u>In 2024, Mystery of Missing Movies A6400's Quandary</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/masterful-marketing-top-strategies-to-thrive-in-fb-video-space/"><u>Masterful Marketing Top Strategies to Thrive in FB Video Space</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-fixes-how-to-seamlessly-update-scansnap-ix500-software-in-windows/"><u>Quick Fixes: How to Seamlessly Update ScanSnap iX500 Software in Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-installation-of-microsoft-ergo-keyboard-easily-driver-downloads-available-now/"><u>Quick Installation of Microsoft Ergo Keyboard Easily - Driver Downloads Available Now!</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/schnelle-zollerleichterungen-ermoglichen-den-schnellen-austausch-von-gutern-zwischen-grossbritannien-und-der-eu-fertigung-in-nur-5-minuten/"><u>Schnelle Zollerleichterungen Ermöglichen Den Schnellen Austausch Von Gütern Zwischen Großbritannien Und Der EU – Fertigung in Nur 5 Minuten</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-issue-windows-cant-find-appropriate-printer-drivers/"><u>Solving the Issue: Windows Can't Find Appropriate Printer Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-troubleshooting-ethernet-in-windows-operating-systems/"><u>Step-by-Step Solutions for Troubleshooting Ethernet in Windows Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-repeatedly-encountered-usb-device-not-recognized-tips-and-techniques-that-work/"><u>The Ultimate Fix for Repeatedly Encountered 'USB Device Not Recognized': Tips & Techniques That Work</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-wudfhostexe-cpu-load-in-windows-10-systems/"><u>Troubleshooting High wudfhost.exe CPU Load in Windows 10 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/what-causes-the-parameter-is-incorrect-solve-your-loadlibrary-error-87-now/"><u>What Causes 'The Parameter Is Incorrect?' Solve Your LoadLibrary Error 87 Now!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-insights-on-asmr-videos/"><u>[Updated] 2024 Approved Essential Insights on ASMR Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-captivating-images-with-intentional-leading-lines-iphone/"><u>[Updated] Captivating Images with Intentional Leading Lines (iPhone)</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-tutorial-triumphant-skyrocketing-your-youtube-presence/"><u>[Updated] In 2024, Tutorial Triumphant Skyrocketing Your YouTube Presence</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-dichotomy-of-youtube-rights-and-cc-licenses/"><u>[Updated] The Dichotomy of YouTube Rights and CC Licenses</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-enjoy-dvd-movie-playback-on-your-nintendo-wii-a-guide-to-the-best-compatible-discs/"><u>How to Enjoy DVD Movie Playback on Your Nintendo Wii: A Guide to the Best Compatible Discs</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-max-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro Max To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-poco-f5-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Poco F5 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-xiaomi-redmi-12-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Xiaomi Redmi 12 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/in-depth-walkthrough-recording-footage-with-chrome-browser/"><u>In-Depth Walkthrough: Recording Footage with Chrome Browser</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/iphoneipadfc2/"><u>IPhone/iPadでのFC2動画の安全なダウンロード・セキュリティ対策つき保存方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-seamless-mov-to-flv-file-changes-for-enhanced-video-playback/"><u>Master the Art of Seamless MOV to FLV File Changes for Enhanced Video Playback</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-mastering-the-art-of-using-blackberry-video-converter-no-cost/"><u>Step-by-Step Guide: Mastering the Art of Using BlackBerry Video Converter - No Cost</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-youtube-presentations-with-captions-for-2024/"><u>Streamline Your YouTube Presentations with Captions for 2024</u></a></li>
 </ul></div>
 

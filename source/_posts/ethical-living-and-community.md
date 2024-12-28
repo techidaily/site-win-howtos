@@ -1,7 +1,7 @@
 ---
 title: Ethical Living and Community
-date: 2024-12-19T21:55:17.310Z
-updated: 2024-12-22T18:00:08.296Z
+date: 2024-12-24T10:12:25.631Z
+updated: 2024-12-27T22:04:05.619Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ the picture was taken by: Article\_86
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## End the process
 
  Yes, clicking the “**X** ” button to close the page is the first reaction for most people. But the page like this scam uses our reaction to get permission to infect our devices. So they could let the page pop up again.  
@@ -37,7 +41,15 @@ the picture was taken by: Article\_86
 2. Choose**Google Chrome** and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/task-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -54,10 +66,6 @@ the picture was taken by: Article\_86
  Because this scam is a fraud page, technically it won’t do severe harm to your computer. The working mechanism of this scam is like an ad. Screening fraudulent users to defraud money. So an ad-block extension can help.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run a virus scan
 
@@ -78,16 +86,12 @@ the picture was taken by: Article\_86
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Relaunch Chrome to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Clear Google Chrome cache
 
@@ -98,25 +102,21 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reset Google Chrome to default settings
 
@@ -171,17 +171,14 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-fine-tuning-your-videos-for-viral-instagram-moments/"><u>[New] 2024 Approved Fine-Tuning Your Videos for Viral Instagram Moments</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-expanding-social-footprint-tying-igtv-and-facebook-together/"><u>[New] In 2024, Expanding Social Footprint Tying IGTV & Facebook Together</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-polishing-resilience-for-online-criticism/"><u>[Updated] In 2024, Polishing Resilience for Online Criticism</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-secrets-in-watching-the-instagram-story-narrative/"><u>2024 Approved Secrets in Watching The Instagram Story Narrative</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ace-your-installation-correcting-setup-hiccups-in-origin-games/"><u>Ace Your Installation: Correcting Setup Hiccups in Origin Games</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/boost-your-pcs-performance-effective-strategies-for-accelerating-your-computer/"><u>Boost Your PC's Performance: Effective Strategies for Accelerating Your Computer</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-ensuring-continuous-functionality-for-windows-updates/"><u>Resolved! Ensuring Continuous Functionality for Windows Updates</u></a></li>
-<li><a href="https://article-tips.techidaily.com/step-by-step-guide-to-iphones-dynamic-images/"><u>Step-by-Step Guide to iPhone's Dynamic Images</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-overwatch-voice-chatting-fast-and-effective-solutions/"><u>Troubleshoot Overwatch Voice Chatting: Fast & Effective Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208077072-ultimate-strategy-eradicate-your-livekernelevent-144-issues-today/"><u>Ultimate Strategy: Eradicate Your LiveKernelEvent 144 Issues Today!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/zooming-in-on-clarity-an-essential-guide-to-professional-quality-audio-recordings-for-2024/"><u>Zooming In On Clarity An Essential Guide to Professional-Quality Audio Recordings for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-innovative-10-ideas-thatll-boost-your-brand-on-igtv/"><u>[New] 2024 Approved Innovative 10 Ideas That'll Boost Your Brand on IGTV</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unveiling-secrets-top-strategies-for-advanced-srt-tweaks-on-apple-for-2024/"><u>[New] Unveiling Secrets Top Strategies for Advanced SRT Tweaks on Apple for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-ultimate-guide-to-turning-insta-vids-into-songs/"><u>[Updated] The Ultimate Guide to Turning Insta Vids Into Songs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-solutions-to-get-your-hp-laptops-webcam-working-again-on-windows-11/"><u>Essential Solutions to Get Your HP Laptop's Webcam Working Again on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-when-your-computer-gets-caught-during-windows-installation/"><u>How to Troubleshoot When Your Computer Gets Caught During Windows Installation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/into-new-realms-the-5-pivotal-points-of-gpt-4/"><u>Into New Realms: The 5 Pivotal Points of GPT-4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-system-performance-stop-svchostexe-from-consuming-too-much-cpu-in-windows-10/"><u>Optimizing System Performance: Stop svchost.exe From Consuming Too Much CPU in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/post-subsys-strategies-for-upgraded-android-integration/"><u>Post-Subsys: Strategies for Upgraded Android Integration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/surface-typing-snafu-resolved/"><u>Surface Typing Snafu, Resolved!</u></a></li>
 </ul></div>
 

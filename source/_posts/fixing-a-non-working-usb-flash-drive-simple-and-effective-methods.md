@@ -1,7 +1,7 @@
 ---
 title: "Fixing a Non-Working USB Flash Drive: Simple and Effective Methods"
-date: 2024-12-21T00:39:12.849Z
-updated: 2024-12-22T23:51:52.999Z
+date: 2024-12-24T12:55:43.926Z
+updated: 2024-12-27T16:40:37.131Z
 tags:
   - win11
   - win10
@@ -38,7 +38,7 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/task-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
@@ -53,6 +53,10 @@ the picture was taken by: Article\_86
 4. [**Clear Google Chrome cache**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Get an ad-block extension
 
  Because this scam is a fraud page, technically it won’t do severe harm to your computer. The working mechanism of this scam is like an ad. Screening fraudulent users to defraud money. So an ad-block extension can help.
@@ -60,7 +64,7 @@ the picture was taken by: Article\_86
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run a virus scan
@@ -82,7 +86,7 @@ the picture was taken by: Article\_86
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Relaunch Chrome to take effect.
@@ -97,10 +101,6 @@ the picture was taken by: Article\_86
 2. Hit the three dots button in the upper right corner, then click **History** \> **History** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
@@ -119,22 +119,22 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/5.10-2.jpg)
 3. Scroll down to the bottom and click **Advanced** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TIPS: Avoid Google Chrome Critical Error
 
@@ -171,24 +171,18 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-best-10-tools-for-stunning-insta-grid-designs-for-2024/"><u>[New] Best 10 Tools for Stunning Insta Grid Designs for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-instagrams-copyright-and-sharing-guide/"><u>[New] Instagram's Copyright & Sharing Guide</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-art-of-crafting-a-one-of-a-kind-tiktok-marker/"><u>[Updated] The Art of Crafting a One-of-a-Kind TikTok Marker</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unlock-the-full-potential-of-instagram-stories-for-2024/"><u>[Updated] Unlock the Full Potential of Instagram Stories for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/comprehensive-guide-to-digiarty-winxdvd-eulas-for-consumers/"><u>Comprehensive Guide to Digiarty WinXDVD EULAs for Consumers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-hdmi-connectivity-problems-on-your-windows-10-pc/"><u>Diagnosing and Repairing HDMI Connectivity Problems on Your Windows 10 PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/laptop-keyboard-malfunction-heres-what-you-can-do-to-fix-it/"><u>Laptop Keyboard Malfunction? Here's What You Can Do To Fix It</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-xiaomi-redmi-note-13-proplus-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Xiaomi Redmi Note 13 Pro+ 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-pairing-process-how-to-successfully-link-airpods-with-windows-11/"><u>Mastering the Pairing Process: How to Successfully Link AirPods with Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/nokia-105-classic-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Nokia 105 Classic support - Forgotten screen lock.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-issues-with-initiating-the-hosted-network-feature-in-windows-11/"><u>Resolved: Issues with Initiating the Hosted Network Feature in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-wacom-tablet-problems-on-the-latest-windows-systems/"><u>Step-by-Step Fixes for Wacom Tablet Problems on the Latest Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-a-broken-or-unresponsive-apple-mouse/"><u>Step-by-Step Solution for a Broken or Unresponsive Apple Mouse</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-horizontal-or-vertical-line-distortions-on-your-monitor/"><u>Troubleshooting and Resolving Horizontal or Vertical Line Distortions on Your Monitor</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-if-your-torrent-download-fails/"><u>Troubleshooting Steps if Your Torrent Download Fails</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-managed-system-preferences-in-windows-environments/"><u>Understanding Managed System Preferences in Windows Environments</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-in-2024-exploring-ai-face-generators/"><u>Updated In 2024, Exploring AI Face Generators</u></a></li>
-<li><a href="https://win-trending.techidaily.com/yl-software-solutions-do-you-need-to-set-up-our-app-before-using-it/"><u>YL Software Solutions: Do You Need To Set Up Our App Before Using It?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-how-to-hit-the-airwaves-with-instagram-lives/"><u>[New] In 2024, How to Hit the Airwaves with Instagram Lives</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-camouflaged-commentary-on-yt-content/"><u>[New] Unveiling Camouflaged Commentary on YT Content</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-pushing-boundaries-the-complete-breakdown-of-vce-22/"><u>[Updated] 2024 Approved Pushing Boundaries The Complete Breakdown of VCE 2.2</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/aump3/"><u>一度に複数のAUデータを高品質MP3に変換するコツ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/access-soundcloud-music-legally-uncomplicated-no-cost-download-solutions/"><u>Access SoundCloud Music Legally - Uncomplicated, No-Cost Download Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-free-movie-format-converter-tools-of-2024-windows-mac-and-online-options/"><u>Best Free Movie Format Converter Tools of 2024: Windows, Mac & Online Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-on-transforming-hd-footage-for-dvd-format-compatibility/"><u>Comprehensive Tutorial on Transforming HD Footage for DVD Format Compatibility</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-1603-unravelled-diagnosing-and-correcting-installation-faults-successfully/"><u>Error 1603 Unravelled: Diagnosing & Correcting Installation Faults Successfully</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ssing-youtube-content-for-engaging-animation-gifs-for-2024/"><u>Harnessing YouTube Content for Engaging Animation GIFs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-camouflaging-search-on-11/"><u>The Ultimate Guide to Camouflaging Search on 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-the-effect-of-removing-windows-11-taskbar-chat-on-users/"><u>Understanding the Effect of Removing Windows 11 Taskbar Chat on Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726028989661-dvd/"><u>スマートフォンで動画鑑賞可能なDVDの変換手法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44og44os44kw44op44og44gn44gu44k544kv44oq44o844oz6yyy55s75oml5byv44gn/"><u>テレグラムでのスクリーン録画手引き</u></a></li>
 </ul></div>
 

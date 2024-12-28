@@ -1,7 +1,7 @@
 ---
 title: Easily Repair Lenovo's Unresponsive Fn Key with These Quick Tips
-date: 2024-09-05T10:01:17.599Z
-updated: 2024-09-06T10:01:17.599Z
+date: 2024-12-26T20:36:19.313Z
+updated: 2024-12-27T21:45:49.919Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06
 
  The Fn keys play an important role in saving both time and energy, especially for those who often work with Excel, PowerPoint and suchlike. That’s why it can drive you nuts when you find the**Fn keys not working** on your**Lenovo** computer. But rest assured that you’re not alone – in this post, you’ll be greeted with 3 useful methods that have helped many Windows users solve their problems.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3 fixes for Lenovo Fn key not working
 
  Here are the 3 fixes provided for you to solve the issue. You don’t need to try them all; just work your way down the list until you find the one that works for you.
@@ -81,18 +75,6 @@ In another version of BIOS, the procedure may go like this:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Roll back Lenovo PM Driver
 
  As many Windows 7 users reported, their Fn keys stop working right after a Windows update. If that’s the case for you, you should try to roll back your Lenovo PM (Power Management) driver. Here’s how:
@@ -102,14 +84,16 @@ In another version of BIOS, the procedure may go like this:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-06-17_14-24-52.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In Device Manager, double-click on the**System devices** node to expand its drop-down list. Next, locate**Lenovo PM Device** and right-click on it. From the context menu, select**Properties** .
 
 ![This image has an empty alt attribute; its file name is image-128.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-140.png)
 
@@ -150,21 +134,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-06-17_14-24-52-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In the pop-up Device Manager window, double-click on the**Keyboards** node to expand its drop-down list. Then right-click on your keyboard device and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-122.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-126.png)
@@ -175,36 +155,22 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-127.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) After updating your keyboard drivers, you should now make similar changes to the chipset drivers. In Device Manager, double-click**System devices** to expand its drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Scroll through the list to locate the items related to your motherboard chipsets, as illustrated below. (Your devices may not be exactly the same as those shown in the following screenshot. In this case, simply update the items of similar titles.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-129.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  7) Right-click on each of these devices and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-130.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  8) Repeat**Step3 through Step 4** to update your chipset driver.
 
  9) Make sure all of the chipset drivers are up-to-date. Now check to see if your Fn keys are functioning well.
@@ -227,22 +193,14 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-06-10_14-52-48-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-388.png)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your drivers, please feel free to drop us an email at**<support@drivereasy.com>** . We are always here if we can help.
@@ -259,8 +217,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -268,4 +224,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-streamline-your-videos-crop-and-export-tutorial-for-instagram/"><u>[New] Streamline Your Videos Crop & Export Tutorial for Instagram</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-mastering-zoom-on-windows-10-a-step-by-step-guide/"><u>[Updated] In 2024, Mastering Zoom on Windows 10 A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x800705b4-the-ultimate-solutions-for-windows-1n-update-issues/"><u>Error 0X800705B4: The Ultimate Solutions for Windows 1N Update Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-resolving-failed-updates-in-your-favorite-game-warframe/"><u>Expert Advice on Resolving Failed Updates in Your Favorite Game, Warframe</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-online-content-finding-the-ideal-website-pages/"><u>Exploring Online Content: Finding the Ideal Website Pages</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-vivo-y56-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo Y56 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-instant-guide-obtaining-safe-free-vlc-media-player-on-a-mac/"><u>In 2024, Instant Guide Obtaining Safe, Free VLC Media Player on a Mac</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/is-windows-media-player-compatible-with-hevc-video-format/"><u>Is Windows Media Player Compatible with HEVC Video Format?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-11-setup-issues-overcoming-initialization-errors-guide/"><u>Mastering Windows 11 Setup Issues: Overcoming Initialization Errors [Guide]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-tips-navigating-and-using-file-explorer-on-windows-11-seamlessly/"><u>Quick Tips: Navigating and Using File Explorer on Windows 11 Seamlessly</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-inserting-text-over-your-instagram-videos/"><u>Step-by-Step Guide: Inserting Text Over Your Instagram Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-cache-miss-error-errcachemiss-in-google-chrome-easily/"><u>Troubleshooting the Cache Miss Error (ERR_CACHE_MISS) in Google Chrome Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-does-my-computer-freeze-with-windows-11-learn-the-fixes/"><u>Why Does My Computer Freeze with Windows 11? Learn the Fixes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-performance-boost-tackling-high-cpu-drain-by-svchostexe-guide/"><u>Windows 10 Performance Boost: Tackling High CPU Drain by svchost.exe [Guide]</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ensure Smooth Gaming: Overcoming Nier Automata PC Freezes and Crashes"
-date: 2024-12-19T16:05:44.393Z
-updated: 2024-12-22T19:53:32.999Z
+date: 2024-12-21T07:55:49.576Z
+updated: 2024-12-28T05:08:00.911Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Try these fixes**
 
@@ -72,6 +68,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 2: Install the latest game patch**
 
  The developers of**Nier Automata** will keep releasing game patches to fix bugs. You can install the latest patch which may have triggered this issue.
@@ -97,12 +97,12 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or you can click the**Update** button next to the graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu-3.jpg)
 4. Restart your computer, and see if the problem is fixed or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Option 2–Manually**
 
@@ -115,10 +115,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc-updatea.jpg)
 4. Follow the on-screen instructions to finish the process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Restart your computer, and see if the problem is fixed or not.
 
 #### B. Reinstall the previous driver
@@ -130,12 +126,20 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
 
 5. Restart your computer, and see if the problem is fixed or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 4: Close FAR(Fix Automata Resolution) Mod**
 
@@ -144,6 +148,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
  If you have already enabled FAR mod, you can disable it and restore the game settings to default to solve the problem. Then restart your computer to check whether it solves the problem or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Change processor affinity
 
@@ -156,16 +164,8 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
 4. Select only**Core 0** and**Core 2** then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -188,18 +188,19 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/laughter-legends-reviewing-goofy-in-the-vhs-era-for-2024/"><u>'Laughter Legends' Reviewing Goofy in the VHS Era for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-enhancing-reels-with-harmonious-tunes/"><u>[Updated] The Ultimate Guide to Enhancing Reels with Harmonious Tunes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-kinemaster-potential-how-to-engage-and-top-alternatives-compared/"><u>[Updated] Unlocking KineMaster Potential How To Engage and Top Alternatives Compared</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/2024-rankings-top-comfort-enhancing-keyboard-wrist-rest-accessories/"><u>2024 Rankings: Top Comfort-Enhancing Keyboard Wrist Rest Accessories</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-audio-failures-on-netflix-quickly/"><u>Diagnosing and Repairing Audio Failures on Netflix Quickly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/experience-uninterrupted-updates-on-windows-11-solve-error-code-0x800f0922-using-our-top-fixes/"><u>Experience Uninterrupted Updates on Windows 11: Solve ERROR CODE 0X800F0922 Using Our Top Fixes!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/full-tutorial-on-repairing-non-functional-xbox-one-controllers/"><u>Full Tutorial on Repairing Non-Functional Xbox One Controllers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-vcruntime140dll-error-and-resolve-windows-10-application-launch-issues/"><u>How to Fix VCRUNTIME140.dll Error and Resolve Windows 10 Application Launch Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-unknown-usb-device-errors-a-guide-to-port-reset-success-in-windows-10/"><u>Solving the Mystery of 'Unknown USB Device' Errors: A Guide to Port Reset Success in Windows 10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transforming-kindle-azw3-books-for-universal-access-tips-for-reading-on-any-device/"><u>Transforming Kindle AZW3 Books for Universal Access: Tips for Reading on Any Device</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unbeatable-screen-grabbers-for-modern-windows-pcs/"><u>Unbeatable Screen Grabbers for Modern Windows PCs</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-unlock-your-chromebooks-potential-how-to-install-linux/"><u>Updated Unlock Your Chromebooks Potential How to Install Linux</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-update-stuck-at-100-solved/"><u>Windows Update Stuck at 100% [SOLVED]</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-remedies-for-lack-of-display-in-youtube-screens/"><u>[New] 2024 Approved Remedies for Lack of Display in YouTube Screens</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-enhance-your-contents-visibility-peak-days/"><u>[New] In 2024, Enhance Your Content's Visibility - Peak Days</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-tutorial-implementing-a-clean-color-separation/"><u>[New] In 2024, Instagram Tutorial Implementing a Clean Color Separation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-phones-at-odds-dissecting-iphone-x-vs-galaxy-face-recognition/"><u>[Updated] In 2024, Phones at Odds Dissecting iPhone X Vs. Galaxy Face Recognition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/adobe-premiere-promovmp4/"><u>Adobe Premiere Proを使用したMOVファイルからMP4への変換ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/associated-hyperlinks-uncover-related-content-connections/"><u>Associated Hyperlinks: Uncover Related Content Connections</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avchd-mp4windows-1011/"><u>AVCHDへの変換: MP4ファイルをWindows 10/11環境下でオンラインツールと無料ソフトウェアを使用してどうやったらいいか</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/buy-the-ultimate-document-management-system-wonderfox/"><u>Buy the Ultimate Document Management System: WonderFox</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comparing-calcium-ion-caplus-and-potassium-ion-kplus/"><u>Comparing Calcium Ion (Ca+) and Potassium Ion (K+):</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-walkthrough-for-installing-the-kodi-magic-content-extension-by-no-limits-quick-and-easy-steps-inside/"><u>Comprehensive Walkthrough for Installing the Kodi Magic Content Extension by No Limits - Quick & Easy Steps Inside!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-critique-of-the-apple-imac-215-display-a-blend-of-elegance-and-performance/"><u>In-Depth Critique of the Apple iMac 21.5 Display - A Blend of Elegance and Performance</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/mavericks-video-editors-handbook-a-step-by-step-guide-for-2024/"><u>Mavericks Video Editors Handbook A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mouse-clicks-made-simple-three-ways-to-boost-speed/"><u>Mouse Clicks Made Simple: Three Ways to Boost Speed</u></a></li>
 </ul></div>
 

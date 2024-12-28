@@ -1,7 +1,7 @@
 ---
 title: "Resolved: No Typing From Keyboard Issue"
-date: 2024-09-05T10:05:06.240Z
-updated: 2024-09-06T10:05:06.240Z
+date: 2024-12-26T00:13:34.720Z
+updated: 2024-12-28T08:20:48.891Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
 ## Troubleshooting Keyboard Latency on Your Windows 11 PC: Solved
 
 If you’re getting so frustrated that you have to type and then wait awfully long for your keyboard to slowly spit words out, don’t worry. Here’re 4 fixes that have helped other users resolve this**keyboard lag** problem, check them out…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Fixes for Keyboard Lag
 
@@ -44,24 +48,16 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press **the Windows logo key**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -77,16 +73,14 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer, test your keyboard and hopefully it can catch up unfailingly this time. If yes, then congrats and enjoy typing! But if it’s still no joy, please move on to**Fix 4** , below.
@@ -94,11 +88,9 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Run DISM
 
  Sometimes this keyboard delay problem happens because of corruption and misconfigurations on your computer. If that’s the case, you’ll have to**run**   **DISM** to check and fix the error.
@@ -106,21 +98,13 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
 4. Restart your computer, type a few words and see if it registers as expected.
@@ -140,8 +124,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +131,21 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-quick-captioning-method-for-enhanced-youtube-video-quality/"><u>[New] 2024 Approved Quick Captioning Method for Enhanced YouTube Video Quality</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-essential-sites-for-watching-vr-media/"><u>[Updated] 2024 Approved Essential Sites for Watching VR Media</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hack-the-problems-and-get-into-fortnite/"><u>Hack the Problems and Get Into Fortnite</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-enable-safe-mode-in-microsoft-outlook-for-windows-10-a-visual-guide/"><u>How To Enable Safe Mode In Microsoft Outlook For Windows 10: A Visual Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-update-error-code-0x80240017-a-comprehensive-guide/"><u>How to Fix Windows Update Error Code 0X80240017: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-install-battleye-anti-cheat-tips-and-tricks/"><u>How To Successfully Install BattlEye Anti-Cheat: Tips & Tricks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-nokia-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Nokia Lock Screen Password</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210877151-9781601639615-learning-from-the-light/"><u>Learning from the Light | Free Book</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leverage-the-strength-of-cookiebot-to-boost-your-websites-performance/"><u>Leverage the Strength of Cookiebot to Boost Your Website's Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-windows-appearance-with-popular-photographs/"><u>Personalize Windows' Appearance with Popular Photographs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-unknown-usb-device-error-a-step-by-step-guide-on-port-reset-solutions-for-windows-10/"><u>Resolving the 'Unknown USB Device' Error: A Step-by-Step Guide on Port Reset Solutions for Windows 10</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-guide-to-sharing-audio-with-youtube-for-2024/"><u>The Ultimate Guide to Sharing Audio with YouTube for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/titre-seo-guide-complet-pour-corriger-le-balbutiement-et-les-delais-de-lecture-mkv-sous-windows-and-macos/"><u>Titre SEO: Guide Complet Pour Corriger Le Balbutiement Et Les Délais De Lecture MKV Sous Windows & macOS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-guide-resolving-your-pcs-persistent-freeze-problems/"><u>Ultimate Troubleshooting Guide: Resolving Your PC's Persistent Freeze Problems</u></a></li>
+</ul></div>
 

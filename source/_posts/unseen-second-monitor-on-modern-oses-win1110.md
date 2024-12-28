@@ -1,7 +1,7 @@
 ---
 title: Unseen Second Monitor on Modern OSes (Win11/10)
-date: 2024-12-20T16:04:52.744Z
-updated: 2024-12-22T18:27:07.197Z
+date: 2024-12-25T09:17:35.480Z
+updated: 2024-12-28T05:33:56.953Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. **[Change your project mode](#f1)**
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 6. **[Repair your PC](#fix6)**
 
  The screenshots in this post are captured from a Windows 11 operating system. If you are using Windows 10 or older versions, be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Change your project mode
 
@@ -54,15 +46,15 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Third-Monitor-Not-Detected-project-extend.jpg)
 5. See if your third monitor is working now. If not, move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Check Multiple Monitors settings
 
 1. Right-click your desktop and select**Display settings** (Windows 11, 10) or Screen resolution (older versions).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/win-11-display-settings.jpg)
 2. Here you can confirm if all of your displays are detected. If not, click on the**Multiple displays** section and select**Detect** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Third-Monitor-Not-Detected-display-detect.jpg)
 3. If yes, drag the three monitors to match your display configuration. (You can click**Identify** if you don’t know which screen is which.)
@@ -70,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 4. Alternatively, you can right-click on your desktop and select**NVIDIA Control Panel** to double-check your settings.
 5. Go to**Display** \>**Set up multiple displays** , and make sure you’ve checked all the displays. You can also drag the icons here.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/control-panel-set-up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your 3rd monitor remains not detected after basic troubleshooting, the culprit might be your graphics drivers. You can try the next fix below.
 
@@ -86,12 +74,20 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/disable.jpg)
 3. Wait for about 5 seconds for the device to be disabled.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click the graphics driver again and select**Enable device** .
 5. Your third monitor should be detected right now.
 
 **Note:** If you have two graphics cards under Display adapters, you can disable NVIDIA or AMD cards and enable them back.  
   
  If it doesn’t work for you this way, you can just disable your Intel card and let NVIDIA or AMD card driver do the job. Then reconnect your third monitor to check if it’s working now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -138,10 +134,6 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 ![](https://www.drivereasy.com/wp-content/uploads/2020/12/DE-update-all-AMD-6.0.jpg)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Check if your third monitor can be detected now.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -159,10 +151,14 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 > **Note:** _If the_ **_Roll Back Driver_**   _option is grayed out, it means there is no driver version that Windows can roll back to. This doesn’t mean it’s impossible to roll back the driver, just that you won’t be able to do it from the built-in option. You can download a previous graphics driver from the manufacturer’s website for your graphics card and install it manually, or try the following fix._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6\. Repair your PC
@@ -188,14 +184,14 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -256,6 +252,10 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  Restart your PC after repairing the corrupt files, and check if the issue still persists. If everything works out just fine, then congrats!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Good to go?
 
  If the fixes above don’t work for you, contact your computer or motherboard manufacturer or google your graphics model + 3 monitors. Determine if your model supports three displays and what configurations are required.
@@ -281,22 +281,18 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-perfecting-designs-a-guide-to-cutting-out-background-in-figma/"><u>[New] 2024 Approved Perfecting Designs A Guide to Cutting Out Background in Figma</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-navigate-through-itunes-recording-like-a-pro/"><u>[New] Navigate Through iTunes Recording Like a Pro</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-maximize-impact-best-practices-for-fb-video-posts/"><u>[Updated] Maximize Impact Best Practices for FB Video Posts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-pixelpathway-pioneer-review/"><u>[Updated] PixelPathway Pioneer Review</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-cosmic-realms-unveiled-metaverse-vs-multiverse/"><u>2024 Approved Cosmic Realms Unveiled Metaverse vs Multiverse</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/buffer-free-streaming-mastery-fix-your-kodi-playback-issues-here/"><u>Buffer-Free Streaming Mastery: Fix Your Kodi Playback Issues Here</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-approach-to-managing-svchostexe-netsvcs-and-its-high-bandwidth-use/"><u>Comprehensive Approach to Managing svchost.exe (Netsvcs) and Its High Bandwidth Use</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-overcoming-the-challenge-of-non-detectable-bluetooth-gadgets-on-windows-11/"><u>Expert Advice: Overcoming the Challenge of Non-Detectable Bluetooth Gadgets on Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-typing-techniques-to-avoid-mistyped-letters-easily/"><u>Mastering Typing Techniques to Avoid Mistyped Letters Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-stuck-loading-screens-successful-strategies-for-fixing-pubgs-launch-difficulties-in-2eb4/"><u>No More Stuck Loading Screens: Successful Strategies for Fixing PUBG's Launch Difficulties in 2Eb4</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-the-persistent-0x800f020b-error-when-updating-your-xerox-printer-on-windows/"><u>Overcome the Persistent 0X800F020B Error When Updating Your Xerox Printer on Windows</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/time-trends-hourly-top-10-youtube-pickers-for-2024/"><u>Real-Time Trends Hourly Top 10 YouTube Pickers for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-98-must-have-steals-on-cyber-monday-2022-insider-picks/"><u>Top 98 Must-Have Steals on Cyber Monday 2022: Insider Picks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-the-system-cannot-locate-the-file/"><u>Troubleshooting and Solving 'The System Cannot Locate the File'</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unable-to-find-or-connect-to-a-printer-on-your-ipad-heres-help/"><u>Unable to Find or Connect to a Printer on Your iPad? Here's Help!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/update-how-to-repair-a-non-functional-keyboard-at-system-boot/"><u>Update: How to Repair a Non-Functional Keyboard at System Boot</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-elevate-your-storytelling-10-prime-text-tricks-in-cinematography/"><u>[New] Elevate Your Storytelling 10 Prime Text Tricks in Cinematography</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-is-screening-youtube-footage-illegal/"><u>[New] In 2024, Is Screening YouTube Footage Illegal?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-voting-victories-spotlight-on-reddits-hottest-threads-top-10-for-2024/"><u>[Updated] Voting Victories Spotlight on Reddit's Hottest Threads (Top 10) for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/acer-plugged-in-not-charging/"><u>Acer Plugged In Not Charging</u></a></li>
+<li><a href="https://windows11.techidaily.com/fine-tune-fn-keys-for-windows-1011-efficiency/"><u>Fine-Tune FN Keys for Windows 10/11 Efficiency</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-checklist-for-google-podcast-enthusiasts/"><u>In 2024, The Ultimate Checklist for Google Podcast Enthusiasts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-tier-strategies-mastering-screens-with-adobe-captivate/"><u>In 2024, Top-Tier Strategies Mastering Screens with Adobe Captivate</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-use-of-fn-keys-resolving-common-issues-on-asus-laptops/"><u>Mastering the Use of FN Keys: Resolving Common Issues on ASUS Laptops</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/picture-fusion-at-your-desktop-online/"><u>Picture Fusion at Your Desktop, Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/securing-essential-msvcr71-component/"><u>Securing Essential MSVCR71 Component</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-lenovo-wifi-drivers-not-found-error-with-easy-steps-and-tips/"><u>Solving Lenovo WiFi Drivers Not Found Error with Easy Steps and Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/struggling-to-print-a-pdf-file-heres-how-to-resolve-it-swiftly/"><u>Struggling to Print a PDF File? Here's How to Resolve It Swiftly!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-ipad-video-editing-software-the-best-of-the-best/"><u>Updated In 2024, IPad Video Editing Software The Best of the Best</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Cannot Apply Feature Updates for Windows 10 Build 1607? Let Us Help You Resolve That!
-date: 2024-12-18T20:13:07.378Z
-updated: 2024-12-22T21:15:21.948Z
+date: 2024-12-20T16:20:12.376Z
+updated: 2024-12-28T01:05:16.422Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ You will be very annoyed when you get this update error. Your Windows Update kee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Install the update with Windows 10 Update Assistant
 
 Microsoft has released an update installation tool named**Windows 10 Update Assistant**for Windows 10 users. It can help you update your Windows 10 to the latest version. If you get stuck in installing the 1607 update, you can try updating your system with this tool instead of Windows Update. To download and run Windows 10 Update Assistant:**1)**Go to the[**Microsoft software download website**](https://www.microsoft.com/en-us/software-download/windows10).**2)** Click the**Update Now**button. This will download Windows 10 Update Assistant.
@@ -33,28 +37,24 @@ Microsoft has released an update installation tool named**Windows 10 Update Assi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a002c98764a3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Open the program you’ve just downloaded. Then click**Update Now**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a002e5ecc61b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Follow the instructions to download and install the latest update.**5)** When the process finishes, your operating system will be updated to the latest version, and the update failed issue will be fixed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Reset the Windows Update components
 
 You may fail to install the 1607 update because the**Windows Update components**on your computer are corrupted. These components include the services and temporary files required by or related to Windows Update. You can try resetting these components and see if this can fix your problem. To reset the Windows Update components:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right click**Command Prompt**and select**Run as administrator**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** In Command Prompt, type the following lines of command and press**Enter**on your keyboard after typing each:
 
@@ -72,6 +72,10 @@ You may fail to install the 1607 update because the**Windows Update components**
 * _**net start cryptsvc**_
 **5)**Run Windows Update and check to see if your computer can install the 1607 update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 3: Run the DISM utility
 
 Your system may fail to install the 1607 update because something corrupts your Windows image, which is necessary for the important system features like Windows Update. You can try running the**DISM**(Deployment Image Servicing and Management) utility to repair your Windows image. To run DISM:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right click**Command Prompt**and select**Run as administrator**.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png) **2)** In Command Prompt, type “_**DISM.exe /Online /Cleanup-image /Restorehealth**_” and press**Enter**on your keyboard.
@@ -79,14 +83,10 @@ Your system may fail to install the 1607 update because something corrupts your 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0150723fc23.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Wait for the utility to complete repairing your Windows image. Then restart your computer and check to see if this fixes your update problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4: Temporarily disable your antivirus software
 
@@ -110,14 +110,18 @@ Sometimes your system can’t install new updates due to the interference from y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-bring-footage-together-ken-burns-technique-for-camtasa-users/"><u>[New] 2024 Approved Bring Footage Together Ken Burns Technique for Camtasa Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-to-restore-your-windows-computers-embedded-webcam-functionality/"><u>Expert Tips to Restore Your Windows Computer's Embedded Webcam Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-registry-mismatch-error-blocking-photo-viewing-on-windows-11/"><u>How to Fix the Registry Mismatch Error Blocking Photo Viewing on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-install-dolby-atmos-in-windows-11-pro/"><u>How to Install Dolby Atmos in Windows 11 Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-error-code-1603-and-complete-your-software-setup-successfully/"><u>How to Resolve Error Code 1603 and Complete Your Software Setup Successfully</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-a23-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy A23 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-path-to-affordable-streaming-student-discounts-on-youtube-premium-explained/"><u>Navigating the Path to Affordable Streaming: Student Discounts on YouTube Premium Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-copy-and-paste-problems-in-windows-11-a-step-by-step-guide/"><u>Overcoming Copy & Paste Problems in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-simplify-video-editing-on-mac-mkvtoolnix-2023-guide-for-2024/"><u>Updated Simplify Video Editing on Mac MKVtoolnix 2023 Guide for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-essentials-of-starting-an-instagram-live-for-2024/"><u>[New] The Essentials of Starting an Instagram Live for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-creating-square-instagram-video-tutorial-using-imovie-for-2024/"><u>[Updated] Creating Square Instagram Video Tutorial Using iMovie for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-delving-deep-into-vidma-writescreen-recorder-details/"><u>[Updated] Delving Deep Into Vidma’ Writescreen Recorder Details</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-starting-strong-with-the-best-studio-tech-for-novices/"><u>[Updated] Starting Strong with the Best Studio Tech for Novices</u></a></li>
+<li><a href="https://driver-install.techidaily.com/c6515-software-upgrade-tips/"><u>C6515 Software Upgrade Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210734782-google-chrome-freezing-problems-now-fixed/"><u>Google Chrome Freezing Problems – Now Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-reconciling-incompatible-hardware-with-wow-game-driver-support/"><u>Guide to Reconciling Incompatible Hardware with WoW Game Driver Support</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-magic-vs-2-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic Vs 2 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-acquiring-authorization-from-the-trusted-installer-for-system-file-alterations/"><u>Step-by-Step: Acquiring Authorization From the Trusted Installer for System File Alterations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-audio-collections-for-screen-clips/"><u>Top Audio Collections for Screen Clips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-presidents-day-blowout-sales-exclusive-discounts-at-amazon-walmart-and-best-buy-live-deals/"><u>Top President's Day Blowout Sales: Exclusive Discounts at Amazon, Walmart & Best Buy - Live Deals!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-pc-when-it-freezes-at-windows-setup-screen/"><u>Troubleshooting Your PC When It Freezes at Windows Setup Screen</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-honor-magic-5-lite-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Honor Magic 5 Lite Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

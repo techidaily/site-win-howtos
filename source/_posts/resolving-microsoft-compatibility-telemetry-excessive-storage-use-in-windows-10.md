@@ -1,7 +1,7 @@
 ---
 title: Resolving Microsoft Compatibility Telemetry Excessive Storage Use in Windows 10
-date: 2024-09-05T10:06:51.395Z
-updated: 2024-09-06T10:06:51.395Z
+date: 2024-12-26T19:03:17.041Z
+updated: 2024-12-28T05:36:18.063Z
 tags:
   - win11
   - win10
@@ -26,44 +26,14 @@ thumbnail: https://thmb.techidaily.com/b595b9543db0254b21054bd69b8ec2973757e8ec7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785b1d6ac28e.png)
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Let’s look closer at this problem:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785f82ede599.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 To fix this problem, this tutorial provides five different and effective ways for you to have a try. Please read along and find the right method for you.   **\[Before We Start\]**The first thing we can do when we are addressing this crash is to make sure that Minecraft is up to date, which applies to the game itself. You can check the version number of**Minecraft**on the bottom right corner and the**Minecraft Launcher**version under**Launcher Log**tab. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785b82e22374.png)Then compare the version number with the one that could be found on[Minecraft website](https://minecraft.net/en/)to see if you have the latest version installed. Second, you need to make sure that you have installed the latest Windows Update. You can type**windows update**in the search box and open the Windows Update program that comes up.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785befa5c60a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If you can see some updates on your computer, click the**Install updates**button here and let the system run the updates. This step could help you update your video card driver or graphics card driver when there is update detected, which might fix the problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785bf28ed4ba.png)
@@ -72,18 +42,6 @@ Thirdly, you need to make sure that you have the latest version of Java installe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785efeb9f490.png)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) On the left panel, click**Change display settings**option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785f01132191.png)
@@ -94,12 +52,6 @@ Thirdly, you need to make sure that you have the latest version of Java installe
 
 5) In**Troubleshoot**bar, select**Change settings**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785f08382bd7.png)6) Move**Hardware acceleration**slider to**Full**. Press**OK**and exit this panel.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785f0c337e92.png)   **Method Two: Roll back Driver**1) Go to[Device Manager](https://tools.techidaily.com/drivereasy/download/). 2) Expand **Display adapters** and then right click on the device under this category and choose**Properties**.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e3640a93c.png)
 
 3) In the coming up window, go to**Driver**tab and then click the**Roll Back Driver**option. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e3cf36bcb.png)4) Click**Yes**when this window comes up.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e4168f03c.png)5) Restart your computer after this change. **Note**: If the**Roll Back Driver** button is grey here like the screen shot below, then you might not be able to proceed with this method. It is suggested that you try the other methods below. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e52a88640.png)   **Method Three: Update Video Driver Manually**1) Press**Windows Key + R**at the same time to invoke a**Run**command. Then type in**dxdiag**and press**Enter**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e7a2b26ae.png)2) Go to**Display**tab and locate the video card device information. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e7dd4fc08.png)Base on the device name of your video or display card, go to the manufacturer’s official website and look for the latest version of driver for your video card. The majority of users will have one of the below makes of video card:
@@ -111,12 +63,6 @@ If you have video card made by manufacturers other than these three listed here,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e6163c3a61c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) Choose the driver you need and then press the**Update**button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e6164b50ba1.jpg)
@@ -129,8 +75,6 @@ As you can see, the free version is equally capable as the professional version 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +82,30 @@ As you can see, the free version is equally capable as the professional version 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-how-to-upside-down-your-instagram-videos-complete-manual-for-2024/"><u>[New] How to Upside Down Your Instagram Videos [Complete Manual] for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-best-practices-for-writing-captivating-episode-summaries/"><u>[Updated] In 2024, Best Practices for Writing Captivating Episode Summaries</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/all-in-one-iphone-support-comprehensive-solutions-to-your-ios-issues/"><u>All-in-One iPhone Support: Comprehensive Solutions to Your iOS Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/banishing-the-blue-screen-of-death-mastering-halo-4s-ue4-error-fixes/"><u>Banishing the Blue Screen of Death: Mastering Halo 4'S UE4 Error Fixes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/critique-on-splitcam-does-it-top-video-tech-in-2024/"><u>Critique on SplitCam Does It Top Video Tech, In 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-film-scenes-with-precision-zooming-on-kinemaster/"><u>Elevate Your Film Scenes with Precision Zooming on Kinemaster</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/facilitating-online-discussions-with-ai-powered-tools/"><u>Facilitating Online Discussions with AI-Powered Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-resolving-persistent-reboot-cycles-on-your-windows-11-pc/"><u>Guide To Resolving Persistent Reboot Cycles On Your Windows 11 PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/improve-frame-rates-and-speed-a-step-by-step-guide-to-fixing-lag-in-minecraft/"><u>Improve Frame Rates and Speed: A Step-by-Step Guide to Fixing Lag in Minecraft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-fast-fixes-for-the-installation-could-not-complete-error-on-pcs/"><u>Mastering Fast Fixes for the 'Installation Could Not Complete' Error on PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-miracast-setup-expert-advice-on-resolving-unsupported-device-errors/"><u>Mastering Miracast Setup: Expert Advice on Resolving Unsupported Device Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-installation-hurdles-for-the-latest-windows-10-features-v1803-resolved/"><u>Overcoming Installation Hurdles for the Latest Windows 10 Features (v1803 Resolved)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-game-installation-errors-with-our-origin-games-step-by-step-tutorial/"><u>Resolve Game Installation Errors with Our Origin Games Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/section-2c-five-similar-questions-with-solutions/"><u>Section 2C: Five Similar Questions with Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-fixing-the-issue-that-interrupted-your-programs-performance/"><u>Solved: Fixing the Issue That Interrupted Your Program's Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-keep-your-mouse-connected-finally/"><u>Step-by-Step Troubleshooting: Keep Your Mouse Connected, Finally!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-power-of-rebooting-resolving-common-smartphone-troubles/"><u>The Power of Rebooting: Resolving Common Smartphone Troubles</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-how-to-guide-for-using-aiseesofts-ios-video-transformation-tool-for-mac-enthusiasts/"><u>Ultimate How-To Guide for Using Aiseesoft's iOS Video Transformation Tool for Mac Enthusiasts</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

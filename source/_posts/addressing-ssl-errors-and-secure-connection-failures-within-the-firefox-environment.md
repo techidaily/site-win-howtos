@@ -1,7 +1,7 @@
 ---
 title: Addressing SSL Errors and Secure Connection Failures Within the Firefox Environment
-date: 2024-12-16T00:28:30.175Z
-updated: 2024-12-23T01:09:01.634Z
+date: 2024-12-26T04:52:31.511Z
+updated: 2024-12-27T16:44:57.239Z
 tags:
   - win11
   - win10
@@ -47,7 +47,7 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
@@ -55,18 +55,22 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
@@ -83,15 +87,11 @@ You can update your drivers automatically with either the [**Free**](https://too
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
@@ -119,18 +119,16 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-greener-marketing-blend-screens-subscription-tech/"><u>2024 Approved Greener Marketing Blend Screens, Subscription Tech</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/adobe-photos-sway-decrease-a-crucial-feature-for-2024/"><u>Adobe Photos' Sway Decrease - A Crucial Feature for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/e-a-profitable-channel-with-ytp2024-mastery/"><u>Become a Profitable Channel with YTP2024 Mastery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conquering-the-google-chrome-alarm-a-step-by-step-guide-to-scam-recovery/"><u>Conquering The Google Chrome Alarm: A Step-by-Step Guide to Scam Recovery</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-m-audio-fast-track-plug-in-driver-for-pcs-now-supports-windows-7-881-and-11/"><u>Get Your M-Audio Fast Track Plug-In Driver for PCs Now! Supports Windows 7, 8/8.1 & 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-a-broken-connection-between-your-usb-and-hdmi-device/"><u>How to Resolve a Broken Connection Between Your USB and HDMI Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-remedy-for-rearranged-character-inputs/"><u>Quick Remedy for Rearranged Character Inputs</u></a></li>
-<li><a href="https://win-dash.techidaily.com/run-the-downloaded-installer-following-on-screen-instructions-to-complete-the-installation-process/"><u>Run the Downloaded Installer, Following On-Screen Instructions to Complete the Installation Process</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-invalid-value-in-registry-issues-when-launching-photos-app-on-windows-10/"><u>Solving 'Invalid Value in Registry' Issues when Launching Photos App on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successful-repair-of-non-functional-usb-port-on-hp-laptop-models-step-by-step/"><u>Successful Repair of Non-Functional USB Port on HP Laptop Models - Step by Step</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-definitive-answer-to-solving-glexttexturencompression-level-format-problem-in-opengl-error-1281/"><u>The Definitive Answer to Solving GL_EXT_texture_ncompression Level Format Problem in OpenGL (Error 1281)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-premium-mouse-pads-reviewed-comprehensive-ratings-by-zdnet/"><u>Top 5 Premium Mouse Pads Reviewed - Comprehensive Ratings by ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-logitech-mouse-scroll-wheel-issues/"><u>Troubleshooting Guide: Resolving Logitech Mouse Scroll Wheel Issues</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-navigating-the-legal-landscape-of-youtube-guidelines/"><u>[New] In 2024, Navigating the Legal Landscape of YouTube Guidelines</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-core-concepts-of-story-making/"><u>[Updated] Core Concepts of Story Making</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-track-lost-friends-on-instagram/"><u>[Updated] In 2024, Track Lost Friends on Instagram</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/event-id-1000-solutions-and-fixes-for-windows-7-8-and-1ve-10-platforms/"><u>Event ID 1000 - Solutions and Fixes for Windows 7, 8, and 1Ve 10 Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210973352-print-screen-key-malfunction-in-windows-1110-solutions-that-work/"><u>Print Screen Key Malfunction in Windows 11/10 – Solutions That Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issues-connecting-with-dhcp-server/"><u>Resolved: Issues Connecting with DHCP Server</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-stuck-file-explorer-problems-for-a-smooth-experience-with-windows-11/"><u>Resolving Stuck File Explorer Problems for a Smooth Experience with Windows 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/softening-the-edges-a-guide-to-dimmed-audio-in-logic-pro/"><u>Softening the Edges A Guide to Dimmed Audio in Logic Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-pairing-microsoft-wireless-display-adapter-with-windows-11-a-comprehensive-guide/"><u>Successfully Pairing Microsoft Wireless Display Adapter with Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-nokia-c12-plus-frp-by-drfone-android/"><u>The Updated Method to Bypass Nokia C12 Plus FRP</u></a></li>
+<li><a href="https://driver-download.techidaily.com/trouble-free-driver-download-for-your-hp-envy-5660-all-in-one-device/"><u>Trouble-Free Driver Download for Your HP Envy 5660 All in One Device</u></a></li>
 </ul></div>
 

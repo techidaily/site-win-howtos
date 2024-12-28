@@ -1,7 +1,7 @@
 ---
 title: Diagnose & Repair Minecraft LAN Connectivity Woes for Smooth Gameplay
-date: 2024-09-05T10:01:00.909Z
-updated: 2024-09-06T10:01:00.909Z
+date: 2024-12-24T06:26:36.759Z
+updated: 2024-12-28T08:31:35.967Z
 tags:
   - win11
   - win10
@@ -42,38 +42,28 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c26077d5f666.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then see if the “javaw.exe” is checked. If it’s not checked, click the**Change settings** button then check the box next to “javaw.exe”. If you see more than one “javaw.exe” entry, check all of them. Also, ensure the Private box and the Public box are checked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260821a6772.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If Minecraft.exe is checked, this method doesn’t work for you. Move on to try other methods.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Disable antivirus software
 
  Some antivirus software may block some features in Minecraft so that you can run into the LAN not working issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
 
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update the network drivers
 
  Outdated network drivers can also cause the LAN not to work. So you can try to update the network driver to fix the problem.
@@ -90,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-714.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to a flagged network driver to automatically download the correct version of this driver, and then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -102,12 +96,6 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Ensure every computer is connected to the same network
 
  If the computers are not on the same network, you and other players can’t join each other. Even you and other players are in the same house or apartment, it’s possible that you’re not connected to the same network. For example, some computers might be connected to a free WiFi nearby.
@@ -130,32 +118,18 @@ If this method doesn’t work for you, try other solutions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c2609a4d13ff.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)**Select the Version** from the Use version drop-down menu**.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c26092ec00a3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If this method doesn’t work for you, try other solutions.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Ensure everyone has a single IP address
 
  If the computer is connected to the wired and wireless at the same time, it’ll have more than one IP address. This can cause the LAN not to work. So**ensure everyone has a single IP address** . It means everyone is connected to the wired or wireless.
@@ -165,11 +139,9 @@ If this method doesn’t work for you, try other methods.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Try a direct connect
 
  One way to fix the LAN not working issue is to try a direct connection on the host computer. It requires you to manually enter the IP address and the game port.
@@ -182,33 +154,19 @@ If this method doesn’t work for you, try other methods.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260a9e41a12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3)**Type ipconfig and press the Enter key on your keyboard** . Then you’ll get a list of information about the network.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260ad5f1c53.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4)**Find the IPv4 Address** which usually means the IP address for that computer.
 
  The IP address will look something like 192.168.1.\* or 10.0.0.\*. In the below example, the IP address is 192.168.64.1.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260b16d6474.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Secondly** , you need to get the game port. As soon as you launch Minecraft on the host computer, you can get the game port number at the bottom of the screen as follows.
 
@@ -218,18 +176,6 @@ If this method doesn’t work for you, try other methods.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260b918466d.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If this method doesn’t work for you, try other methods.
 
 ---
@@ -240,17 +186,15 @@ If this method doesn’t work for you, try other methods.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Disable AP Isolation (for WiFi only)
 
  If you’re connected to the wireless, one possible cause of the problem is the AP Isolation (Access Point Isolation). AP isolation is a security feature on some routers. If it’s enabled, it’ll prevent devices on a wireless network from communicating directly with one another. In this case, the computers on the same wireless network cannot communicate with each other. So you can check if the AP Isolation is enabled on your router. You can refer to your router documentation for the information and the instructions.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Try reinstalling Minecraft
 
@@ -271,8 +215,6 @@ You also like…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -280,4 +222,26 @@ You also like…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-metaverse-reflections-a-pioneering-collection-of-thoughts/"><u>[New] Metaverse Reflections A Pioneering Collection of Thoughts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-secure-the-best-a-list-of-top-free-mac-screen-recorders-for-2024/"><u>[Updated] Secure the Best A List of Top Free Mac Screen Recorders for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-software-instability-in-windows-store-purchases/"><u>Addressing Software Instability in Windows Store Purchases</u></a></li>
+<li><a href="https://video-capture.techidaily.com/delving-into-vlc-screenshot-technology-for-2024/"><u>Delving Into VLC Screenshot Technology for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-issues-with-usbhdmi-adapter-performance/"><u>Diagnosing and Repairing Issues with USB/HDMI Adapter Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/ejecting-unsolicited-windows-updates/"><u>Ejecting Unsolicited Windows Updates</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-s17-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo S17</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-strategies-to-address-and-repair-code-28-malfunctions-in-windows/"><u>Expert Strategies to Address and Repair Code 28 Malfunctions in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/function-keys-failure-why-it-happens-and-how-to-restore-them/"><u>Function Keys Failure: Why It Happens & How To Restore Them</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-bringing-the-web-to-reality-embedding-youtube-videos-in-slides/"><u>In 2024, Bringing the Web to Reality Embedding YouTube Videos in Slides</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-reconnecting-an-unpaired-xbox-one-controller/"><u>Mastering the Art of Reconnecting an Unpaired Xbox One Controller</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/quick-and-simple-mpeg-splitter-no-hassle-editing-for-mpeg-files/"><u>Quick & Simple MPEG Splitter - No Hassle Editing for MPEG Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-ultimate-guide-to-eliminate-screen-rippling-in-valorant/"><u>Resolved: Ultimate Guide to Eliminate Screen Rippling in VALORANT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restored-ensuring-your-devices-local-security-measures-are-now-active/"><u>Restored: Ensuring Your Device's Local Security Measures Are Now Active</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rev-up-your-game-defeating-the-quiet-zone-in-forza-horizon-4-sound-glitches/"><u>Rev Up Your Game: Defeating the Quiet Zone in Forza Horizon 4 Sound Glitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-access-denied-issues-with-files-and-folders-in-windows-a-comprehensive-guide/"><u>Solving 'Access Denied' Issues with Files & Folders in Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-fixing-a-computer-that-wont-start-up/"><u>Troubleshooting Steps: Fixing a Computer That Won't Start Up</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-how-to-restore-touchpad-scrolling-functionality/"><u>Troubleshooting Windows 11: How to Restore Touchpad Scrolling Functionality</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/ways-to-stop-parent-tracking-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Ways to stop parent tracking your Apple iPhone 6 | Dr.fone</u></a></li>
+</ul></div>
 

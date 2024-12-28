@@ -1,7 +1,7 @@
 ---
 title: "Solving Lenovo's Mouse Pad Problems on Windows: A Step-by-Step Fix for 11, 8 & 7"
-date: 2024-09-05T10:09:23.874Z
-updated: 2024-09-06T10:09:23.874Z
+date: 2024-12-22T01:14:03.445Z
+updated: 2024-12-27T19:46:18.817Z
 tags:
   - win11
   - win10
@@ -13,28 +13,10 @@ excerpt: "This Article Describes Solving Lenovo's Mouse Pad Problems on Windows:
 thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b667c623d0ec997b65a2b06877.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step-by-Step Guide: Activating Bluetooth on Windows 11 and 10 - No More Problems
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92aafe0cad.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To connect your Bluetooth device (headphones, mouse, etc.), or to transfer files from your iPhone to your PC via Bluetooth, you need to [**turn on Bluetooth on Windows 10**](#turnon) first.
 
 ## How to Turn on Bluetooth on Windows 10  (and how to fix it if it won’t turn on)
@@ -47,6 +29,10 @@ In this guide you’ll learn:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Turn on Bluetooth on Windows 10/11
 
  Normally you can turn on Bluetooth in Windows 10 or 11 in these easy steps:
@@ -57,48 +43,22 @@ In this guide you’ll learn:
 2. Click **Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/bluetooth2.png)
 3. Click the switch (currently set to **Off** ) to turn on Bluetooth. (The status will change to **On**  .**)**  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92afe0a1d0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Windows 11
 
 1. Press the **Windows logo + I keys**  simultaneously to open Settings
 2. Select **Bluetooth & devices** from the left panel. Then make sure **Bluetooth**  is toggled **On** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Bluetooth-and-devices-Bluetooth-On.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  But if you don’t see the switch and your screen looks like the one below, there’s a problem with Bluetooth on your computer.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/bluetooth4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  There’s no need to panic. We’re about to show you how to fix Bluetooth on your Windows 10 computer and get that switch back for you.
 
 ---
@@ -146,6 +106,10 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 5. On your keyboard, hold down the **Windows logo key**  and press the**I**  key to open the**Settings** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Do you see the option to switch Bluetooth on now? If you do, great. You’ve fixed the problem. But if it’s still not there, there’s something else you can try…
 
 #### Fix 2: Re-enable the Bluetooth driver software in Device Manager
@@ -155,34 +119,19 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 2. Right-click on your Bluetooth device in the Bluetooth section, and choose**Disable device** . (If you’re asked to confirm, click **Yes** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
 3. Right-click on the device again and click **Enable device** .  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 4. On your keyboard, hold down the **Windows logo key**  and press the**I**  key to open the**Settings** window.  
+
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Is the Bluetooth switch appearing now? If it’s not, we have something else you can try…
 
 #### Fix 3: Make sure the Bluetooth Support Service is running
@@ -191,37 +140,32 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 2. Type**services.msc** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a686110efd.png)
 3. Right-click **Bluetooth Support Service** , then click **Start** . (If the Start option grayed out, then click **Restart** .)  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 4. Right-click on**Bluetooth Support Service**  again, and this time click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
 5. Set its startup type to **Automatic** . click **Apply** , and then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
 6. Finally, hold down the **Windows logo key**  and press the**I**  key to bring up the**Settings** window. Then make sure the Bluetooth option is there.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to do if the above suggestions don’t work: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
@@ -258,8 +202,6 @@ And that’s just the start of the benefits…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -267,4 +209,22 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-breaking-down-tseries-income-strategy-on-youtube-platform/"><u>[New] In 2024, Breaking Down TSeries' Income Strategy on YouTube Platform</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-visual-quality-crusade-is-av1-ahead-in-video-coding/"><u>[New] Visual Quality Crusade Is AV1 Ahead in Video Coding?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-fixing-obs-screen-blackout-problems/"><u>2024 Approved Fixing OBS Screen Blackout Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/defeating-the-notorious-0x80070490-error-in-windows-updates-with-ease/"><u>Defeating the Notorious 0X80070490 Error in Windows Updates with Ease</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/discover-key-methods-to-store-discord-livestream-videos-efficiently-for-2024/"><u>Discover Key Methods to Store Discord Livestream Videos Efficiently for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-issues-with-nonfunctional-windows-10-updates-efficiently/"><u>Fixing Issues with Nonfunctional Windows 10 Updates Efficiently</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-superior-window-calls-8-apps-ranked-1-8/"><u>In 2024, Superior Window Calls 8 Apps Ranked #1-8</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-symphonic-streams-exclusive-sites-for-downloadable-tones/"><u>In 2024, Symphonic Streams Exclusive Sites for Downloadable Tones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-unable-to-create-directx-3d-device-error-a-comprehensive-fix-guide/"><u>Resolving the 'Unable to Create DirectX 3D Device' Error - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/screen-sanctuary-your-haven-of-a-thousand-games-for-2024/"><u>Screen Sanctuary Your Haven of a Thousand Games for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-for-windows-11-touchpad-that-wont-scroll-detailed-guide/"><u>Solution for Windows 11 Touchpad that Won't Scroll – Detailed Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-restarting-file-explorer-when-it-freezes-in-windows-10/"><u>Step-by-Step Solution for Restarting File Explorer When It Freezes in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-the-non-functional-audio-issue-in-windows-7/"><u>Troubleshooting Tips: Fixing the Non-Functional Audio Issue in Windows 7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-advantages-of-open-source-privacy-shield-private-internet-access-a-comprehensive-analysis-for-cost-conscious-users/"><u>Unveiling the Advantages of Open Source Privacy Shield (Private Internet Access): A Comprehensive Analysis for Cost-Conscious Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-paper-management-reboot-steps/"><u>Windows Paper Management Reboot Steps</u></a></li>
+</ul></div>
 

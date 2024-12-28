@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: SteelSeries Arctis 5 Headset Microphone Malfunction Resolved"
-date: 2024-09-05T10:08:26.309Z
-updated: 2024-09-06T10:08:26.309Z
+date: 2024-12-24T11:39:59.829Z
+updated: 2024-12-28T13:49:55.781Z
 tags:
   - win11
   - win10
@@ -20,11 +20,9 @@ No game can be immune to bugs and glitches, and this is particularly true with**
  If you’re plagued by the error, don’t worry. While it’s frustrating, it is fixable…
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to fix Apex Legends Easy Anti-Cheat Error
 
  Here are seven fixes that have helped other players resolve the Easy Anti-Cheat error. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -36,6 +34,10 @@ No game can be immune to bugs and glitches, and this is particularly true with**
 5. **[Add Easy Anti-Cheat and Apex Legends to your firewall exceptions list](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Install the latest patch](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Apex Legends and Origin](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your device drivers
 
@@ -51,27 +53,9 @@ No game can be immune to bugs and glitches, and this is particularly true with**
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your computer for the changes to take effect.
 5. Launch Apex Legends and check to see if the error has been fixed. If yes, then great! If the issue persists, please try**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Repair Apex Legends in Origin
 
  You may run into the Easy Anti-Cheat error if the game files are faulty or corrupt. Luckily, Origin has built the repair feature into the launcher itself, allowing you to fix little glitches on your own.
@@ -82,20 +66,22 @@ Here are the steps to repair Apex Legends in Origin:
 2. Click **My Game Library** , then right-click on **Apex Legends** and select **Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-14.png)
 3. Wait until the repair process finishes.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-5.png)
 4. Once done, run Apex Legends and see if the Easy Anti-Cheat error has been resolved. If it’s no joy, please continue with**Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Run Apex Legends and Origin as Administrator
 
  Apex Legends requires administrator privileges in order to access protected system resources. If the game or the game client doesn’t have the required permissions, you may receive Easy Anti-Cheat error. So you should make sure to run Apex Legends and Origin as administrator to see if it fixes the issue.
 
  After that, launch Apex Legends game and see if the Easy Anti-Cheat error still occurs. If it doesn’t, then great! If the issue persists, please try**Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify connectivity to Easy Anti-Cheat
 
@@ -117,32 +103,19 @@ Here are the steps to repair Apex Legends in Origin:
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then type**control firewall.cpl** into the box and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run.png)
 2. In the window that pops up, click**Allow an app or feature through Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-13.png)
 3. Browse through the list of Allowed apps and features to see if Easy Anti-Cheat and Apex Legends are included. If not, click**Change settings** , click**Allow another app…** , then follow the on-screen instructions to add the apps.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Snap5.png)
 4. Once completed, click**OK** .
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Check to see if the error still occurs. If it doesn’t, then congrats! If it’s still happening, please move on to**Fix 6** , below.
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. While the role of an anti-virus program is hardly questionable, it’s known to conflict with other programs, rendering games unplayble.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Install the latest patch
 
  The Anti Easy-Cheat error may be an unintended bug ensconced in the patches of the game. If this is the case, the developers would respond to this and address the issue with a new patch. So you can check out the latest patch to see if it helps fix the issue.
@@ -155,11 +128,9 @@ Here are the steps to repair Apex Legends in Origin:
 4. Open Apex Legends and hopefully the error is resolved. If not, please try**Fix 7** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Reinstall Apex Legends and Origin
 
  If you’ve exhausted the options above but the issue still sticks around, then you should perhaps reinstall the game and the Origin game launcher to see if you could put the error to rest.
@@ -177,28 +148,15 @@ Here are the steps to repair Apex Legends in Origin:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter** to open **Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-15.png)
 2. View Control Panel by **Category** , and then click **Uninstall a program** .  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-14.png)
 3. Double-click **Origin** to uninstall it.  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-6.png)
 4. Restart your Windows system when it is completed.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. **[Download](https://www.dm.origin.com/download)**  the latest version of Origin and then double-click the file you downloaded to reinstall it.
 6. Launch Apex Legends to see if you can play without error.
 
@@ -214,8 +172,6 @@ Here are the steps to repair Apex Legends in Origin:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -223,4 +179,26 @@ Here are the steps to repair Apex Legends in Origin:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-customize-your-scroll-delete-instagram-suggestions/"><u>[New] Customize Your Scroll Delete Instagram Suggestions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-google-meet-broadcast-simplified-youtube-steps-for-2024/"><u>[Updated] Google Meet Broadcast Simplified YouTube Steps for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-leading-gallery-archive-services/"><u>2024 Approved Leading Gallery Archive Services</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-top-techniques-to-captivate-viewers-with-facebook-covers/"><u>2024 Approved Top Techniques to Captivate Viewers with Facebook Covers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/apple-and-mondly-pioneering-the-future-of-education-with-top-10-recognition/"><u>Apple & Mondly: Pioneering the Future of Education with Top 10 Recognition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/application-failure-due-to-missing-dll/"><u>Application Failure Due to Missing DLL</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-lighting-problem-heres-how-to-get-those-lights-back/"><u>Corsair Keyboard Lighting Problem? Here’s How to Get Those Lights Back!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosis-and-repair-of-electricity-overloads-in-network-connection-port-areas/"><u>Diagnosis & Repair of Electricity Overloads in Network Connection Port Areas</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/game-console-sound-amplification-and-modifications-for-ps4ps5-for-2024/"><u>Game Console Sound Amplification and Modifications for PS4/PS5 for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-svchostexe-causing-high-cpu-use-on-your-windows-11-pc/"><u>How to Fix svchost.exe Causing High CPU Use on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-usb-device-not-detected-issue-once-and-for-all/"><u>How to Fix the 'USB Device Not Detected' Issue Once and For All</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/losungen-fur-den-vollgeladenen-iphone-speicher-unter-ios-15-so-beheben-sie-das-problem-schnell/"><u>Lösungen Für Den Vollgeladenen iPhone Speicher Unter iOS 15 - So Beheben Sie Das Problem Schnell</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-dx11-and-wwe-2k-battlegrounds-level-100-functionality-glitches/"><u>Overcoming DX11 and WWE 2K: Battlegrounds Level 10.0 Functionality Glitches</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-compatibility-woes-a-guide-to-correcting-unknown-usb-device-failed-communication-problems/"><u>Resolving Compatibility Woes: A Guide to Correcting 'Unknown USB Device (Failed Communication)' Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-mystery-of-microsoft-update-failure-a-guide-to-overcoming-error-code-0x8024a105/"><u>Solving the Mystery of Microsoft Update Failure: A Guide to Overcoming Error Code 0X8024a105</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-malfunctioning-microphone-in-windows-11-systems/"><u>Step-by-Step Solution for Malfunctioning Microphone in Windows 11 Systems</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshooting-computer-speaker-problems-guidance-by-yl-software-professionals/"><u>Troubleshooting Computer Speaker Problems: Guidance by YL Software Professionals</u></a></li>
+</ul></div>
 

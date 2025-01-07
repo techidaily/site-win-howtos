@@ -1,7 +1,7 @@
 ---
 title: Fixing the Critical Red Screen Dilemma in Windows 11 Systems
-date: 2024-12-18T18:55:38.818Z
-updated: 2024-12-22T19:59:19.767Z
+date: 2025-01-01T16:20:43.056Z
+updated: 2025-01-06T20:03:30.601Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  The methods below have helped other users solve the problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 5. [**Remove klhkum.dll**](https://tools.techidaily.com/drivereasy/download/)
 
  The following screenshots are from Windows 10\. But you can also follow the steps if you’re having the problem on Windows 7.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check the setting of System Event Notification Service on your computer
 
@@ -55,22 +63,22 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
 4. Right-click System Event Notification Service again, this time select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Reset your Winsock Catalog
 
@@ -82,10 +90,6 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**cmd** , then press**Shift + Ctrl + Enter** keys together.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c0804d3b9.jpg)
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **netsh winsock reset**
 
@@ -110,9 +114,17 @@ Follow these steps to reset your Winsock Catalog:
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your computer to see if the error has gone. If the error persists, don’t give up hope, see if the last method could help you…
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Uninstall the KB2952664 update
 
@@ -126,20 +138,12 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
 4. Click View installed updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
 5. Find and right-click the update with KB2952664, then Uninstall.
 
 Restart your computer to see if the error has gone.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Remove klhkum.dll
 
@@ -155,10 +159,6 @@ Restart your computer to see if the error has gone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-55-36.jpg)
 4. Restart your computer to see if the error has gone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
 
@@ -184,18 +184,22 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-battlefield-brilliance-the-exclusive-selection-of-top-7-total-war-chronicles-for-2024/"><u>[Updated] Battlefield Brilliance The Exclusive Selection of Top 7 Total War Chronicles for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-churning-charts-todays-1-backdrop-music-for-youtube-shorts/"><u>[Updated] In 2024, Churning Charts Today's #1 Backdrop Music for YouTube Shorts</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-filmmakers-guide-to-distorting-space-and-time/"><u>2024 Approved The Filmmaker's Guide to Distorting Space & Time</u></a></li>
-<li><a href="https://games-able.techidaily.com/child-protection-staying-vigilant-in-virtual-spaces/"><u>Child Protection: Staying Vigilant in Virtual Spaces</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decode-rumors-on-microsofts-vr-venture-for-xbox-estimated-price-point-release-date-and-device-specs-insight/"><u>Decode Rumors on Microsoft's VR Venture for Xbox – Estimated Price Point, Release Date & Device Specs Insight</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-how-to-save-and-play-gifs-on-an-iphone/"><u>In 2024, How to Save and Play GIFs on An iPhone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-mastering-the-art-of-personalizing-youtube-visuals/"><u>In 2024, Mastering the Art of Personalizing YouTube Visuals</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastery-of-the-steam-write-protection-problem-an-effortless-approach/"><u>Mastery of the Steam Write Protection Problem: An Effortless Approach</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-ps4-nat-troubles-expert-step-by-step-strategies-that-work/"><u>Overcome PS4 NAT Troubles: Expert Step-by-Step Strategies That Work</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-most-reliable-zero-price-online-photo-editors-guide-for-2024/"><u>The Most Reliable Zero-Price Online Photo Editors Guide for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubled-by-error-0x80pressure0426-in-windows-11-heres-how-you-can-correct-it/"><u>Troubled by Error 0X80pressure0426 in Windows 11? Here’s How You Can Correct It</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/updated-guide-solving-microsoft-windows-minecraft-crash-issues-related-to-graphic-driver-problems/"><u>Updated Guide: Solving Microsoft Windows Minecraft Crash Issues Related to Graphic Driver Problems</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/which-stands-out-a-comprehensive-review-of-the-apple-watch-series-9-vs-fitbit-charge-6/"><u>Which Stands Out? A Comprehensive Review of the Apple Watch Series 9 vs Fitbit Charge 6</u></a></li>
+<li><a href="https://driver-download.techidaily.com/solved-xbox-acc-driver-issues-on-windows-1087/"><u>[SOLVED] XBOX ACC Driver Issues on Windows 10/8/7</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-universal-strategy-to-preserve-your-favorite-youtube-broadcasts-on-all-devices/"><u>[Updated] 2024 Approved Universal Strategy to Preserve Your Favorite YouTube Broadcasts on All Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypass-installation-hurdles-fixing-failed-hardware-monitor-driver-loading-problems/"><u>Bypass Installation Hurdles – Fixing Failed Hardware Monitor Driver Loading Problems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-audio-masterpieces-using-audacity/"><u>Capturing Audio Masterpieces Using Audacity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-guide-correcting-the-path-for-successful-windows-10-update-installations/"><u>Complete Guide: Correcting the Path for Successful Windows 10 Update Installations</u></a></li>
+<li><a href="https://win-able.techidaily.com/elite-dangerous-pc-version-stability-improvements-no-more-crashes/"><u>Elite Dangerous PC Version Stability Improvements – No More Crashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-quickly-fix-a-nonfunctional-disk-on-your-windows-11-machine-expert-tips-and-tricks/"><u>How To Quickly Fix a Nonfunctional Disk on Your Windows 11 Machine – Expert Tips & Tricks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-engineering-a-memorable-trailer-narrative/"><u>In 2024, Engineering a Memorable Trailer Narrative</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo S17 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-30-list-of-no-cost-high-quality-online-film-effects-tools/"><u>In 2024, The Ultimate 30 List of No-Cost, High-Quality Online Film Effects Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/master-the-latest-tech-trends-with-toms-hardware-reviews-and-tips/"><u>Master the Latest Tech Trends with Tom's Hardware Reviews & Tips!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-11-updates-correcting-error-0xc1900208-successfully/"><u>Mastering Windows 11 Updates: Correcting Error 0Xc1900208 Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-and-hacks-to-enhance-your-experience-with-windows-11-file-explorer/"><u>Quick Fixes and Hacks to Enhance Your Experience with Windows 11 File Explorer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-methods-to-fix-the-persistent-80072ee2-problem-in-your-windows-system/"><u>Simple Methods to Fix the Persistent 80072EE2 Problem in Your Windows System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-restoring-sound-on-netflix-troubleshooting-made-easy/"><u>The Ultimate Guide to Restoring Sound on Netflix – Troubleshooting Made Easy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-correcting-the-missing-binkw32dll-error-on-your-pc/"><u>Troubleshooting and Correcting the Missing binkw32.dll Error on Your PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/unintended-sharing-of-phone-numbers-on-fb-chat/"><u>Unintended Sharing of Phone Numbers on FB Chat?</u></a></li>
 </ul></div>
 

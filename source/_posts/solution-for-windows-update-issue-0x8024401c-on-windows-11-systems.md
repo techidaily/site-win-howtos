@@ -1,7 +1,7 @@
 ---
 title: Solution for Windows Update Issue 0X8024401C on Windows 11 Systems
-date: 2024-12-22T03:11:54.857Z
-updated: 2024-12-28T05:19:03.752Z
+date: 2025-01-04T01:42:23.547Z
+updated: 2025-01-07T03:52:30.722Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 
  Note: the screenshots below com from Windows 10, and fixes apply to Windows 11, 8 and 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Windows Update Troubleshooter
 
  Windows Update Troubleshooter is a helpful tool built in Windows system, and you can use it to scan and fix the Windows Update error 0x80240017.
@@ -46,18 +50,18 @@ Here’s what you can do:
 2. Click**Troubleshoot** on the left. Click**Windows Update** \>**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
 3. Windows will start detecting problems, which will take several minutes. Once done, follow the on-screen instructions to complete the process.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dae7e3360.png)
 4. Restart your computer and try Windows Update again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If the Windows Update error persists, move on to the second method.
 
@@ -87,6 +91,10 @@ If the Windows Update error persists, move on to the second method.
 
  If your issue still persists, don’t worry, There is something else to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Repair corrupted system files
 
  Missing or corrupted system files can also trigger the Windows Update error 0x80240017\. To detect and fix them, you may need to perform an in-depth PC scan.
@@ -100,12 +108,12 @@ If the Windows Update error persists, move on to the second method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -117,19 +125,15 @@ If the Windows Update error persists, move on to the second method.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04db671de3d.jpg)
 2. Type the following command and press**Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ddb7ef0b3.jpg)
 3. Once the process is 100% complete, exit Command Prompt and restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Try to update Windows again and see if it fixes your error 0x80240017\. Still no luck? There’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update available drivers
 
@@ -151,10 +155,6 @@ sfc /scannow
  Or click**Update All** to automatically download and install all the correct drivers for problem drivers (you can do this with the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you’ll be prompted to upgrade when your click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Open Windows Update to download and install updates and it should working now.
 
@@ -178,24 +178,18 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-best-youtube-video-reverser-online/"><u>[New] Best YouTube Video Reverser Online</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-best-budget-friendly-video-stock-sites/"><u>[New] In 2024, Best Budget-Friendly Video Stock Sites</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unlocking-your-hp-laptops-full-screen-capture-capabilities/"><u>[Updated] 2024 Approved Unlocking Your HP Laptop's Full Screen Capture Capabilities</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-dark-realm-explorations-dos-and-donts-of-nocturnal-shooting-for-2024/"><u>[Updated] Dark Realm Explorations Do's & Don'ts of Nocturnal Shooting for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726027955099-fc2/"><u>無料で安全に保存! FC2動画のダウンロードテクニックを学ぶ</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-m34-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Samsung Galaxy M34 5G has native HEVC support?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-skies-with-dji-mavic-c-review-breaking-boundaries-in-aerial-capture-tech/"><u>Exploring the Skies with DJI Mavic C Review: Breaking Boundaries in Aerial Capture Tech</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-cure-the-missing-msvcr110dll-problem/"><u>How to Cure the Missing msvcr110.dll Problem</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-camon-20-premier-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Camon 20 Premier 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/netflix-party-how-to-start-a-shared-viewing-experience/"><u>Netflix Party: How to Start a Shared Viewing Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-rated-no-cost-xvid-to-mp4-converter-software-simple-steps-for-windows-users/"><u>Top Rated No-Cost Xvid to Mp4 Converter Software - Simple Steps for Windows Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-strategies-for-downloading-high-quality-flac-songs/"><u>Top Strategies for Downloading High-Quality FLAC Songs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-rated-video-format-transformer-convert-dvds-to-avi-and-more-on-windows-1011/"><u>Top-Rated Video Format Transformer: Convert DVDs to Avi & More on Windows 10/11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-eliminate-lag-in-vlc-subtitles-seamlessly/"><u>Troubleshooting Steps to Eliminate Lag in VLC Subtitles Seamlessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-list-of-myspace-video-extractors-find-the-best-free-tools-for-mp4mp3-conversion/"><u>Ultimate List of MySpace Video Extractors: Find the Best FREE Tools for MP4/MP3 Conversion</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlock-hd-video-conversion-with-factory-pros-exclusive-one-week-promo-now-closed/"><u>Unlock HD Video Conversion with Factory Pro's Exclusive One-Week Promo – Now Closed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11vob/"><u>Windows 11のVOBファイルプレーヤーとして機能する手順</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726028256705-pc/"><u>ビデオ会議を撮影するための手っ取り早いPCとスマートフォン向けガイド</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-basics-of-engaging-narratives-for-2024/"><u>[Updated] Basics of Engaging Narratives for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-seamless-creation-accessing-elite-afx-templates-for-free/"><u>[Updated] In 2024, Seamless Creation Accessing Elite AFX Templates for Free</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-mastery-of-youtube-policy-for-successful-channels-for-2024/"><u>[Updated] Mastery of YouTube Policy for Successful Channels for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-x-voice-sync-studio-windows-version/"><u>2024 Approved X-Voice Sync Studio, Windows Version</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-oppo-a58-4g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Oppo A58 4G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/efficiently-enhance-iphone-videos-dimensions-in-focus/"><u>Efficiently Enhance iPhone Videos Dimensions in Focus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208697780-fix-a-network-change-was-detected-error/"><u>Fix “A Network Change Was Detected” Error</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stop-chrome-from-converting-images-into-webp-format-for-windows/"><u>Stop Chrome From Converting Images Into WebP Format for Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-nokia-g42-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Nokia G42 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-your-non-responsive-laptop-trackpad/"><u>Troubleshooting Guide: Fixing Your Non-Responsive Laptop Trackpad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-why-your-screen-wont-accept-hdcp-encryption/"><u>Troubleshooting: Why Your Screen Won't Accept HDCP Encryption</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203478490-windows-system-preferences-now-managed-corporately-issue-fixed/"><u>Windows System Preferences Now Managed Corporately - Issue Fixed!</u></a></li>
 </ul></div>
 

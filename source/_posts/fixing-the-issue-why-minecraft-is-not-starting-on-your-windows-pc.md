@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Why Minecraft Is Not Starting on Your Windows PC"
-date: 2024-12-27T09:53:11.739Z
-updated: 2024-12-28T14:29:07.789Z
+date: 2024-12-31T01:41:40.725Z
+updated: 2025-01-06T18:55:22.078Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
  To check if the USB device is faulty, simply unplug it (‘Eject’ it if it’s a USB storage device) and plug it into another computer. If it works, the device is fine. If it doesn’t, then you’ve isolated the problem! You just need to buy a replacement.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Method 2: Check your power supply (laptop only)**
 
  Your laptop’s power supply delivers power to your USB ports. If, for some reason, it fails to do this properly, the devices plugged into those USB ports may stop working. Sometimes, this can be fixed quite simply:
@@ -52,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 4) Plug the power supply back in
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 3: Check your power management settings**
 
  In order to save power, by default, Windows switches your USB controllers off when they’re not in use, and switches them back on again when they’re needed. Unfortunately, sometimes this approach doesn’t work as intended, and Windows fails to switch your USB controllers on again.
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Expand the**Universal Serial Bus controllers** branch
@@ -74,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click the **Power Management**  tab  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342d99c355a.png)
@@ -86,17 +82,9 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342dd22bb58.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Repeat steps 3-5 for each  USB Root Hub device in your list of Universal Serial Bus controllers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 4: Check your USB device drivers**
 
@@ -112,14 +100,26 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594841d4c15c1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5948dbf290aa4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 5: Check your USB ports**
 
@@ -142,20 +142,18 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-craft-your-own-story-10-best-cost-free-ios-photo-collage-tools/"><u>[New] 2024 Approved Craft Your Own Story 10 Best, Cost-Free iOS Photo Collage Tools</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-path-to-digital-fame-on-youtube-begins-here-for-2024/"><u>[New] The Path to Digital Fame on YouTube Begins Here for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-boosting-your-content-quality-essential-tips-for-youtube-users/"><u>[Updated] 2024 Approved Boosting Your Content Quality Essential Tips for YouTube Users</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-watching-outdated-facebook-chronicles-mobilelaptop/"><u>[Updated] 2024 Approved Watching Outdated Facebook Chronicles (Mobile/Laptop)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-detailed-review-and-tips-picsart-users/"><u>[Updated] Detailed Review & Tips PicsArt Users</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-master-list-essential-6-fb-lite-downloads-for-2024/"><u>[Updated] Master List Essential 6 FB Lite Downloads for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-simplified-guide-crafting-and-altering-multisnap-stories-for-2024/"><u>[Updated] Simplified Guide Crafting & Altering Multisnap Stories for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-top-tier-gopro-cases-unveiled-1-10-ranking-for-2024/"><u>[Updated] Top-Tier GoPro Cases Unveiled - #1-10 Ranking for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029121683-youtube/"><u>「移動中にスマホでYouTubeミュージックを楽しむ方法」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/4-effective-methods-for-capturing-screenshots-on-crunchyroll-updated-guide-2024/"><u>4 Effective Methods for Capturing Screenshots on Crunchyroll (Updated Guide - 2024)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726028573468-m4pwav/"><u>簡単にM4PをWAVに変更する方法｜オーディオファイル変換の究極ガイド</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-well-does-the-latest-iphone-14-stack-up-insights-from-zdnets-in-depth-analysis/"><u>How Well Does the Latest iPhone 14 Stack Up? Insights From ZDNet's In-Depth Analysis.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726027655280-weverse/"><u>Weverseプラットフォームから動画を安全にダウンロード・保存する方法</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/44ob44on44o844og44ow44od44kv44gn6zplusz5qw944ks5yan55sf44gn44gn44gq44ge5ac05zci44gu44oi44op44ow44or44k344ol44o844og44kj44oz44kw5oml6acg/"><u>チョームブックで音楽を再生できない場合のトラブルシューティング手順</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726027506728-audacity/"><u>どうやったらAudacityでオーディオファイルに無音セクションを追加するか?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-premium-fullscreen-screen-recording-tools/"><u>[Updated] In 2024, Premium Fullscreen Screen Recording Tools</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-your-sites-traffic-with-advanced-cookiebot-technology/"><u>Boost Your Site's Traffic with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-media-driver-not-found-heres-how-to-resolve-it-for-your-system/"><u>Essential Media Driver Not Found? Here's How to Resolve It for Your System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-hanging-google-chrome-browser-quick-restart-guide/"><u>How to Fix a Hanging Google Chrome Browser - Quick Restart Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-100-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor 100 Pro Without Password | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-wudfhostexe-from-hiking-cpu-use-on-your-windows-10-pc/"><u>How to Stop wudfhost.exe From Hiking CPU Use on Your Windows 10 PC</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-apex-artists-among-online-video-titans/"><u>In 2024, Apex Artists Among Online Video Titans</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-backlight-malfunction-solutions-and-fixes-for-mac-os-x-and-windows-users/"><u>Keyboard Backlight Malfunction: Solutions and Fixes for Mac OS X & Windows Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/master-the-download-of-your-samsung-c460-driver-speedy-guide-inside/"><u>Master the Download of Your Samsung C460 Driver - Speedy Guide Inside!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigating-youtubes-subtitlecc-landscape-with-expertise-and-speed-for-2024/"><u>Navigating YouTube's Subtitle/CC Landscape with Expertise and Speed for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-enabling-automatic-restarts-for-windows-audio/"><u>Quick Fix: Enabling Automatic Restarts for Windows Audio</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-windows-rpc-communication-errors-swiftly/"><u>Troubleshooting Tips: Fixing Windows RPC Communication Errors Swiftly</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unlocking-your-phones-potential-making-tiktok-rhythms-your-alarm/"><u>Unlocking Your Phone's Potential Making TikTok Rhythms Your Alarm</u></a></li>
 </ul></div>
 

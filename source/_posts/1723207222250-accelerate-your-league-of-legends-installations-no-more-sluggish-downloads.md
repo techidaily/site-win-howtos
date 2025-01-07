@@ -1,7 +1,7 @@
 ---
 title: "Accelerate Your League of Legends Installations: No More Sluggish Downloads!"
-date: 2024-09-05T10:00:44.769Z
-updated: 2024-09-06T10:00:44.769Z
+date: 2024-12-30T18:01:15.615Z
+updated: 2025-01-06T22:59:02.776Z
 tags:
   - win11
   - win10
@@ -25,12 +25,6 @@ League of Legends is a world popular game, but the slow download speed can easil
 
  Before you try the following fixes, you need to make sure this slow speed issue only happened on League of Legends, which means it’s nothing to do with your internet speed. Otherwise, you may need to check your internet connection first.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -60,11 +54,9 @@ Downloading again to see if it works.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Turn off Windows Firewall
 
  Windows Firewall supposes to protect your computer from malware, but sometimes it may cause trouble. It may block some features of League of Legends which result in low speed downloading. So you can try to turn off Windows Firewall to solve the “League of Legends download slow” issue.
@@ -72,22 +64,19 @@ Downloading again to see if it works.
 1. Click the Start button, type**windows firewall** in the search box and press the**Enter** key to open**Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Re-download to check.
 
 **Note** : If it doesn’t work, you must**turn on** Windows Firewall to protect your computer.  
@@ -104,11 +93,9 @@ Re-download to check.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Bonus: Update your drivers
 
  Missing or outdated drivers can cause many issues. Updating If you want to have better gaming experience and prevent potential problems, you’re recommended to keep your drivers update to date.
@@ -141,11 +128,9 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -163,8 +148,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +155,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-a-dive-into-history-the-definitive-list-of-student-friendly-channels-1-10-for-2024/"><u>[New] A Dive Into History The Definitive List of Student-Friendly Channels #1-10 for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-engaging-narration-for-your-video-projects/"><u>[New] Crafting Engaging Narration for Your Video Projects</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-seamlessly-record-your-screen-while-watching-netflix/"><u>[New] In 2024, Seamlessly Record Your Screen While Watching Netflix</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-right-way-to-close-a-long-term-but-unneeded-linkedin-account/"><u>[New] The Right Way to Close a Long-Term but Unneeded LinkedIn Account</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-exclusive-guide-best-8-cameras-for-dynamic-livestreams/"><u>[Updated] In 2024, Exclusive Guide Best 8 Cameras for Dynamic Livestreams</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-formulating-fascinating-film-excerpts/"><u>2024 Approved Formulating Fascinating Film Excerpts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/deciphering-and-solving-missing-device-drivers-on-windows-7-installation-a-user-friendly-guide/"><u>Deciphering and Solving 'Missing Device Drivers' On Windows 7 Installation: A User-Friendly Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-fixing-a-frosty-windows-11-taskbar/"><u>Effective Solutions for Fixing a Frosty Windows 11 Taskbar</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-6-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6 Plus without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-your-computer-dealing-with-low-system-resources-problems-successfully/"><u>Optimizing Your Computer: Dealing with Low System Resources Problems Successfully</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionary-qi2-charger-the-ultimate-power-solution-every-apple-user-must-experience-insights-from-zdnet/"><u>Revolutionary Qi2 Charger: The Ultimate Power Solution Every Apple User Must Experience - Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-resolve-slow-keyboard-response-in-windows-10-environment/"><u>Solution: Resolve Slow Keyboard Response in Windows 10 Environment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-numbers-key-failure-a-comprehensive-guide-for-typists/"><u>Solving Numbers Key Failure: A Comprehensive Guide for Typists</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-restoring-your-hp-laptops-webcam-in-windows-11/"><u>Step-by-Step Guide: Restoring Your HP Laptop's Webcam in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-infinix-hot-40i-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Infinix Hot 40i without backup.</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Windows 11 No Speakers Error? Here's How You Can Fix It!
-date: 2024-12-26T09:45:22.366Z
-updated: 2024-12-28T07:01:07.539Z
+date: 2024-12-30T23:24:12.358Z
+updated: 2025-01-06T20:51:21.644Z
 tags:
   - win11
   - win10
@@ -66,15 +66,7 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-how-to-uninstall-device-in-the-Device-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Restart your PC. After restarting, Windows should automatically re-install the sound driver. Assuming it installs the latest correct driver, this may resolve the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 3: Re-enable the device**
 
@@ -83,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
  1) On your keyboard, press the **Windows logo key + R keys** at the same time to invoke the Run box. Type**devmgmt.msc** hit Enter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Locate the**Sound, video, and game controllers** category in the list.
 
@@ -95,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Add-legacy-hardware.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2b) Click **Next**  to start the Add Hardware wizard. (If the Add Hardware wizard doesn’t display at all, you can try [Method 3](https://tools.techidaily.com/drivereasy/download/) .)
@@ -103,16 +99,12 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Add-Legacy-hardware-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2c) Select **Search for and install hardware automatically (Recommended)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Add-Legacy-hardware-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2d) If the wizard tells you it can’t find any new hardware, click **Next** .
 
@@ -122,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Add-Legacy-hardware-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2f) Select the manufacturer and model of your sound card, then click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Add-Legacy-hardware-6.png)
@@ -129,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
  If you’re not sure what manufacturer and model to select, press the**Windows logo + R keys** simultaneously to open the Run box, type**dxdiag,** and hit Enter to open the DirectX Diagnostic Tool. Select the**Sound** tab and you should be able to see your sound card.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-how-to-check-which-sound-card-youre-using.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2g) Click **Next**  to install the device, then when the installation is complete, click **Finish** .
 
@@ -141,7 +141,7 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 ![](https://images.drivereasy.com/wp-content/uploads/2015/08/win11-Device-Manager-Enable-device.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After making the changes, restart your device and check if the error still occurs.
@@ -163,24 +163,18 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-build-high-impact-facebook-ad-videos-free-creation-kit-provides-tools/"><u>[New] Build High-Impact Facebook Ad Videos - FREE Creation Kit Provides Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/macx-dvd-ripper-pro/"><u>公式 MacX DVD Ripper Pro パッケージ - 安心してオンライ지上でのお取り置き</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/crt-library-missing-windows-error-ensued/"><u>CRT Library Missing: Windows Error Ensued</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harness-mematic-for-efficient-note-taking-for-2024/"><u>Harness Mematic for Efficient Note-Taking for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-touchpad-scroll-problems-a-step-by-step-guide/"><u>How to Repair Touchpad Scroll Problems - A Step by Step Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-cracking-comics-the-essential-guide-to-meme-magic/"><u>In 2024, Cracking Comics The Essential Guide to Meme Magic</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-where-to-buy-a-monetized-youtube-channel-a-complete-guide/"><u>In 2024, Where to Buy a Monetized YouTube Channel A Complete Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/journey-through-time-a-comprehensive-guide-on-scanning-and-storing-old-prints/"><u>Journey Through Time A Comprehensive Guide on Scanning and Storing Old Prints</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-to-mastering-langchain-llm-as-a-novice/"><u>Step-by-Step Guide to Mastering LangChain LLM as a Novice</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/success-story-how-we-overcame-teredo-qualification-problems/"><u>Success Story: How We Overcame Teredo Qualification Problems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-essential-blueprint-for-tiktok-on-zoom-platforms/"><u>The Essential Blueprint for TikTok on Zoom Platforms</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211400182-troubleshoot-and-restore-charge-to-your-laptop-easily-and-effectively/"><u>Troubleshoot and Restore Charge to Your Laptop Easily & Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-lost-volume-icons-in-windows-11-a-visual-how-to/"><u>Troubleshooting and Repairing Lost Volume Icons in Windows 11: A Visual How-To</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-hp-laptop-webcam-issues-on-windows-10/"><u>Troubleshooting Guide: Resolving HP Laptop Webcam Issues on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-eliminate-monitor-blank-screen-mistake/"><u>Troubleshooting Tips: Eliminate Monitor Blank Screen Mistake</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixes-for-non-responsive-razer-keyboard-illumination/"><u>Troubleshooting Tips: Fixes for Non-Responsive Razer Keyboard Illumination</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlock-the-solution-to-your-laptop-touchpad-stuck-situation-today/"><u>Unlock the Solution to Your Laptop Touchpad Stuck Situation Today</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unlocking-reliable-power-for-essential-medical-tools-an-insightful-assessment-of-the-portable-aeuisy-inverter-generator/"><u>Unlocking Reliable Power for Essential Medical Tools - An Insightful Assessment of the Portable AEUISY Inverter-Generator</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/vob-m4v-movavi/"><u>오픈소스에서 쉽게 VOB, M4V를 바이트 코드로 변환하기: Movavi의 가이드</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-guide-to-convert-youtube-twitter-videos-to-mp3-songs/"><u>[Updated] Guide to Convert YouTube Twitter Videos to MP3 Songs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-skyward-start-best-easy-to-operate-drones-for-2024/"><u>[Updated] Skyward Start Best Easy-to-Operate Drones for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-your-podcast-with-ease/"><u>2024 Approved Streamline Your Podcast With Ease</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/consolidating-repetitive-images-on-iphone-ios-versions-16-17-and-18-a-comprehensive-guide/"><u>Consolidating Repetitive Images on iPhone iOS Versions 16, 17 & 18 - A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/e1659-upgrade-aoc-win-driver-update/"><u>E1659 Upgrade: AOC WIN Driver Update</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-vivo-x-flip-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo X Flip Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-honor-magic-6-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Honor Magic 6 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-play-40c-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor Play 40C To Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-apples-next-move-diving-into-artificial-intelligence-with-future-home-robotics-zdnet/"><u>Inside Apple's Next Move: Diving Into Artificial Intelligence with Future Home Robotics | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/microphone-not-working-on-laptop-solved/"><u>Microphone Not Working On Laptop [SOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issue-modify-security-protocols-for-successful-file-retrieval-and-download/"><u>Resolved Issue: Modify Security Protocols for Successful File Retrieval and Download</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-unresponsive-gaming-keyboard-fixes-for-no-light-up-on-razer-devices/"><u>Reviving Your Unresponsive Gaming Keyboard: Fixes for No Light-Up on Razer Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-strategies-to-resolve-frozen-windows-11-taskbar-issues-effectively/"><u>Winning Strategies to Resolve Frozen Windows 11 Taskbar Issues Effectively</u></a></li>
 </ul></div>
 

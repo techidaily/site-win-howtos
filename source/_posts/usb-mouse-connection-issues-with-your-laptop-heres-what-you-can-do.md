@@ -1,7 +1,7 @@
 ---
 title: USB Mouse Connection Issues with Your Laptop? Here's What You Can Do
-date: 2024-12-23T10:20:43.178Z
-updated: 2024-12-28T07:03:08.721Z
+date: 2025-01-06T01:26:13.452Z
+updated: 2025-01-06T20:29:33.472Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Make sure your power icon is turned on
@@ -37,23 +37,23 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-1.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2）Click**Turn system icons on or off**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-6.png)
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Make sure **Power** is on.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/5.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Go back on the window of step 2). Click **Select which icons appear on the taskbar**.  
   
@@ -64,6 +64,14 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
 
@@ -85,18 +93,10 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/8.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/9.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
 
@@ -125,16 +125,16 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-unleash-creative-potential-tips-and-tricks-for-filming-with-logitech-cam/"><u>[Updated] In 2024, Unleash Creative Potential Tips and Tricks for Filming with Logitech Cam</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/gif-mov/"><u>「効果的な GIFから MOVへのアニメ変換ガイド」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-guide-on-bulk-changing-m4a-audio-into-mp3-format/"><u>Effortless Guide on Bulk Changing M4A Audio Into MP3 Format</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-guide-removing-movavi-branding-from-your-videography/"><u>Effortless Guide: Removing Movavi Branding From Your Videography</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-online-conversion-of-alaw-audio-files-to-mp3-movavi/"><u>Free Online Conversion of Alaw Audio Files to MP3 - Movavi</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-sky-high-savings-lock-in-lower-airfare-prices-with-the-exclusive-deals-from-dollar-flight-club-secure-your-passage-now/"><u>Get Sky-High Savings: Lock in Lower Airfare Prices with the Exclusive Deals From Dollar Flight Club - Secure Your Passage Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/goprolrvmp4/"><u>GoProレコーディングされたLRV映像を圧縮してMP4にするテクニック</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-s24plus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Samsung Galaxy S24+ to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mp4-mov/"><u>MP4へ変換! MOVファイルの最適化ガイド</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-how-to-stream-on-twitch-the-ultimate-guide/"><u>New In 2024, How to Stream on Twitch The Ultimate Guide</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/vn-video-editor-pro-does-it-deliver-on-its-promises-for-2024/"><u>VN Video Editor Pro Does It Deliver on Its Promises for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-cheapest-4k-dslrmirrorless-cameras-and-camcorders/"><u>[New] 2024 Approved Cheapest 4K DSLR/Mirrorless Cameras and Camcorders</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-microphone-not-working-on-windows-10/"><u>[Solved] Microphone Not Working on Windows 10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-social-media-broadcast-battle-facebook-vs-youtube-and-twitvision/"><u>[Updated] Social Media Broadcast Battle FACEbook Vs. YOUTube & TWITVision</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-exploring-splitcams-recording-capabilities-and-excellence/"><u>2024 Approved Exploring SplitCam's Recording Capabilities and Excellence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-fixes-for-windows-11-installation-problems-youve-encountered/"><u>Complete Fixes for Windows 11 Installation Problems You've Encountered</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-recover-corrupt-system-files-on-windows-10-and-11-with-ease/"><u>How to Recover Corrupt System Files on Windows 10 & 11 with Ease</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-rectifying-scrolling-defects-with-synaptics-touchpad-under-windows-11/"><u>Step-by-Step Guide: Rectifying Scrolling Defects with Synaptics Touchpad Under Windows 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/transformative-techniques-for-high-quality-mp4s-from-instagram-for-2024/"><u>Transformative Techniques for High-Quality MP4s From Instagram for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-invalid-registry-values-a-guide-for-resolving-photo-display-issues-in-windows-n/"><u>Troubleshooting Invalid Registry Values: A Guide for Resolving Photo Display Issues in Windows N</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/two-methods-of-transferring-data-backing-up-your-pc-onto-an-external-hdd-tutorial-video/"><u>Two Methods of Transferring Data: Backing Up Your PC Onto an External HDD - Tutorial Video</u></a></li>
 </ul></div>
 

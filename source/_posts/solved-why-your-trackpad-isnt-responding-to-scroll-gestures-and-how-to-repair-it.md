@@ -1,7 +1,7 @@
 ---
 title: "Solved: Why Your Trackpad Isn't Responding to Scroll Gestures & How to Repair It"
-date: 2024-12-26T23:43:38.372Z
-updated: 2024-12-28T12:26:31.721Z
+date: 2025-01-05T19:25:25.487Z
+updated: 2025-01-06T16:28:27.441Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these tips
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 2. [**Enable two-finger scrolling**](#t2)
 3. [**Change your mouse pointer**](#t3)
 4. [**Update your touchpad driver**](#t4)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tip 1: Enable your touchpad
 
@@ -58,17 +54,17 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29836c37da.jpg)
 5. Select the last tab. (The last tab is usually for touchpad configuration if you have a touchpad. And its name varies with different models of computer.) Then you can select a checkbox or click a button to enable your touchpad.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29c061bc83.jpg)
 6. Check if your touchpad problem is resolved. If not, move on to Tip 2, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Tip 2: Enable two-finger scrolling
@@ -82,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 4. Click**Apply** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Check if your touchpad now works properly. If not, try Tip 3, below.
@@ -101,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 4. Check if your touchpad now works properly. If not, try Tip 4, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 4: Update your touchpad driver
 
@@ -143,22 +143,24 @@ Hopefully, this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-exclusive-choice-premium-virtual-reality-experiences-on-google-cardboard-for-2024/"><u>[New] Exclusive Choice Premium Virtual Reality Experiences on Google Cardboard for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-perfecting-igtv-video-production-on-smartphonesdslrs-for-2024/"><u>[New] Perfecting IGTV Video Production on Smartphones/DSLRs for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-top-30-trending-tiktok-anime-inspirations-for-2024/"><u>[Updated] Top 30 Trending TikTok Anime Inspirations for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/naver-seo/"><u>簡単ガイド: NAVER動画ダウンロード＆録画方法 - お気軽で学ぶSEO</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-make-the-most-of-live-photo-upgrades-on-ios-16-devices/"><u>How to Make the Most of Live Photo Upgrades on iOS 16 Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/imgburn/"><u>ImgBurnを始める - セットアップから日本語化:初心者にぬくもりあふれるチュートリアル</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-honor-x50-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-file-transfer-with-webex-a-step-by-step-tutorial-for-on-the-go-usage/"><u>Mastering File Transfer with WebEx - A Step-by-Step Tutorial for On-the-Go Usage</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mic-free-audio-capture-techniques-for-your-computer-a-guide/"><u>Mic-Free Audio Capture Techniques for Your Computer: A Guide</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/microsoft-silently-ends-hopes-for-windows-11-prolonged-support-devastates-fans-techspot/"><u>Microsoft Silently Ends Hopes for Windows 11 Prolonged Support, Devastates Fans | TechSpot</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mp4-arf/"><u>MP4への迅速な変換: ARFファイルを簡単かつ有効に</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mswmmwmvmp4avimov/"><u>MSWMMファイルの変換：WMV、MP4、AVI、MOVへ</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/rotating-videos-using-windows-movie-maker-a-step-by-step-guide-and-other-options/"><u>Rotating Videos Using Windows Movie Maker: A Step-by-Step Guide and Other Options</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-steps-integrating-sound-into-your-pcs-screen-captures/"><u>Simple Steps: Integrating Sound Into Your PC's Screen Captures</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-xiaomi-mix-fold-3-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Xiaomi Mix Fold 3 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-selection-of-childrens-cell-phones-expert-picks-and-reviews-by-zdnet/"><u>Ultimate Selection of Children's Cell Phones: Expert Picks and Reviews by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-latest-in-pc-hardware-tips-and-reviews-by-toms-experts/"><u>Unveiling the Latest in PC Hardware - Tips and Reviews by Tom's Experts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-fb-soundbanks-access-anytime-anywhere/"><u>[New] In 2024, FB Soundbanks Access Anytime, Anywhere</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-from-novice-to-expert-your-pathway-in-instagram-reels/"><u>[New] In 2024, From Novice to Expert Your Pathway in Instagram Reels</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-get-superior-visuals-from-youtube-downloading-thumbnails-free/"><u>[New] In 2024, Get Superior Visuals From YouTube - Downloading Thumbnails Free</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-future-visions-10-sci-fi-metaverse-movies-explore-worlds-anew/"><u>2024 Approved Future Visions 10 Sci-Fi Metaverse Movies Explore Worlds Anew</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boosting-views-a-guide-for-tiktok-unboxing-gurus-for-2024/"><u>Boosting Views A Guide for TikTok Unboxing Gurus for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-fixing-windows-error-code-0x80072f8f-on-11-and-10-versions/"><u>Comprehensive Guide to Fixing Windows Error Code 0X80072F8F on 11 & 10 Versions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-enhanced-enhance-your-websites-traffic-with-efficient-tracking/"><u>Cookiebot-Enhanced: Enhance Your Website's Traffic with Efficient Tracking</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/dvdipod/"><u>DVDからiPodへの自由転送ガイド - もっと簡単に見つけたい？</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/erratic-key-response/"><u>Erratic Key Response</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-resolution-tutorial-why-your-media-wont-load-and-what-to-do-about-it-on-windows/"><u>Error Resolution Tutorial: Why Your Media Won't Load and What To Do About It On Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-lenovo-mouse-compatibility-problems-with-windows-10-8-or-7-step-by-step-guide/"><u>Fixing Lenovo Mouse Compatibility Problems with Windows 10, 8 or 7 – Step-by-Step Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Plus Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/neterrcertweaksignaturealgorithm-error-on-your-site-expert-tips-for-a-stronger-signature-fix/"><u>NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM Error on Your Site? Expert Tips for a Stronger Signature Fix</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-13-pro-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-dark-launch-issue-when-starting-monster-hunter-world/"><u>Resolving the Dark Launch Issue When Starting Monster Hunter: World</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-window-flicker-problem-on-windows-11-computers/"><u>Resolving the Window Flicker Problem on Windows 11 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-dysfunctional-fn-key-performance/"><u>Step-by-Step Guide: Repairing Dysfunctional Fn Key Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-gone-bluetooth-icons-in-your-latest-windows-11-update/"><u>Troubleshooting a Gone Bluetooth Icons in Your Latest Windows 11 Update</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/yl-computings-yl-software-tutorial-step-by-step-instructions-for-sound-settings-adjustment/"><u>YL Computing's YL Software Tutorial: Step-by-Step Instructions for Sound Settings Adjustment</u></a></li>
 </ul></div>
 

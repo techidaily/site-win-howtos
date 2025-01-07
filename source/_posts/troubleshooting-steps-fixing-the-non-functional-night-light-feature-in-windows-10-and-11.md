@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Fixing the Non-Functional Night Light Feature in Windows 10 & 11"
-date: 2024-12-26T21:40:53.257Z
-updated: 2024-12-27T22:00:36.416Z
+date: 2025-01-02T01:09:51.395Z
+updated: 2025-01-06T23:43:05.663Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -54,15 +50,19 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -77,12 +77,12 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
@@ -96,11 +96,15 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
@@ -108,10 +112,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
@@ -137,16 +137,22 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-explore-revolutionary-meeting-platforms-that-cost-nothing-for-2024/"><u>[New] Explore Revolutionary Meeting Platforms That Cost Nothing for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-budget-friendly-vlogging-cameras-unveiled-our-picks/"><u>[New] In 2024, Budget-Friendly Vlogging Cameras Unveiled Our Picks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-advanced-mobile-mounting-accurate-camera-positioning/"><u>[Updated] Advanced Mobile Mounting Accurate Camera Positioning</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-leading-e-learning-titling-toolkit-for-2024/"><u>[Updated] Leading E-Learning Titling Toolkit for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beating-the-booting-blues-fixing-your-computers-red-screen-issue/"><u>Beating the Booting Blues: Fixing Your Computer's Red Screen Issue</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-11-pro-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 11 Pro Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-the-comprehensive-guide-to-creating-movies-not-just-youtube/"><u>In 2024, The Comprehensive Guide to Creating Movies, Not Just YouTube</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-connectivity-issues-a-fix-for-hp-laptops-with-defective-usb-slots/"><u>Resolving Connectivity Issues: A Fix for HP Laptops with Defective USB Slots</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/secure-your-first-photos-expert-review-of-amazonbasics-tripods/"><u>Secure Your First Photos: Expert Review of AmazonBasics Tripods</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-error-0x8024401c-during-windows-updates-for-windows-11-users/"><u>Troubleshooting Guide: Fixing Error 0X8024401c During Windows Updates for Windows 11 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-non-hdcp-compliant-monitor-displays/"><u>Troubleshooting: Fixing Non-HDCP Compliant Monitor Displays</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rush-up-your-youtube-videos-with-color-correction-for-2024/"><u>[New] Brush Up Your Youtube Videos with Color Correction for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-verdict-on-using-itop-for-screen-capture/"><u>2024 Approved The Verdict on Using ITop for Screen Capture?</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clear-faults-in-dormant-gfx-system/"><u>Clear Faults in Dormant GFX System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-solution-for-addressing-the-missing-vc-runtime-140dll-error-message/"><u>Complete Solution for Addressing The Missing VC Runtime 140.dll Error Message</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-fixing-error-code-0x800f0922-in-windows-11-updates/"><u>Comprehensive Guide to Fixing Error Code 0X800F0922 in Windows 11 Updates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tips-for-dealing-with-steam-disk-writing-complications/"><u>Comprehensive Tips for Dealing with Steam Disk Writing Complications</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-methods-to-restore-functionality-of-non-detected-usb-drives/"><u>Effortless Methods to Restore Functionality of Non-Detected USB Drives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-eliminate-error-code-0x80072efd-from-windows-10-step-by-step-fixes/"><u>Expert Advice: Eliminate Error Code 0X80072EFD From Windows 10 - Step-by-Step Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-black-screen-issues/"><u>How to Fix Windows Black Screen Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/obtain-the-latest-safe-driver-downloads-for-your-corsair-keyboard-under-windows-no-fees-involved/"><u>Obtain the Latest, Safe Driver Downloads for Your Corsair Keyboard Under Windows - No Fees Involved</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722895596364-overcoming-issues-with-your-unresponsive-usb-network-adapter/"><u>Overcoming Issues with Your Unresponsive USB Network Adapter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10-update-obstacle-resolving-error-0xc1900208-successfully/"><u>Overcoming Window's 10 Update Obstacle: Resolving Error 0xC1900208 Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fix-guide-for-windows-update-error-code-0x802e401c-on-windows-11/"><u>Resolved: Fix Guide for Windows Update Error Code 0X802e401c on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-entrypointnotfound-issue-on-windows-a-comprehensive-guide/"><u>Resolving the 'EntryPointNotFound' Issue on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-reviving-an-unresponsive-roku-screen/"><u>The Ultimate Guide to Reviving an Unresponsive Roku Screen</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-honor-magic-6-pro-frp-by-drfone-android/"><u>The Updated Method to Bypass Honor Magic 6 Pro FRP</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-lava-agni-2-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Lava Agni 2 5G Android SIM Unlock APK</u></a></li>
 </ul></div>
 

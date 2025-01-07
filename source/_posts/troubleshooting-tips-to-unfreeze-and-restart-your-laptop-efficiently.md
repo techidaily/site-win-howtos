@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips to Unfreeze and Restart Your Laptop Efficiently
-date: 2024-12-23T03:50:17.961Z
-updated: 2024-12-27T17:14:34.832Z
+date: 2024-12-30T18:38:49.294Z
+updated: 2025-01-06T22:56:32.154Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 4. [**Reseat your laptop battery**](#F4)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
 
@@ -71,12 +71,16 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -103,19 +107,11 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -127,12 +123,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -184,20 +184,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-spotlight-a-podcast-on-your-instagram-feed-for-2024/"><u>[New] Spotlight a Podcast on Your Instagram Feed for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-bright-futures-in-film-revolutionary-setup-tips/"><u>[Updated] Bright Futures in Film Revolutionary Setup Tips</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/5yuv55s75lplusd5a2y5ac05oma44go5zue5b6p5pa55rov77ya44or44k944kz44oz55so6kmz57sw5oml5byv44gn/"><u>動画保存場所と回復方法：パソコン用詳細手引き</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y100t-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y100t</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-for-monster-hunter-worlds-startup-blackout-issue/"><u>Comprehensive Solution for Monster Hunter: World's Startup Blackout Issue</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/determining-the-perfect-orientation-for-fb-videos-for-2024/"><u>Determining the Perfect Orientation for FB Videos for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-missing-vcruntime140dll-file-comprehensive-guide/"><u>Fixing the Missing VCRUNTIME140.dll File – Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-runtime-broker-cpu-overload-issue-in-windows-11-complete-solutions/"><u>Fixing the Runtime Broker CPU Overload Issue in Windows 11 - Complete Solutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-custom-vocal-settings-to-improve-playstation-experience/"><u>In 2024, Custom Vocal Settings to Improve PlayStation Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/introducing-gpt-4-to-the-masses-inside-look-at-its-easy-and-effective-deployment/"><u>Introducing GPT-4 to the Masses - Inside Look at Its Easy and Effective Deployment</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/nba-2k21-color-error-resolved-how-to-correct-the-iconic-green-glitch/"><u>NBA 2K21 Color Error Resolved - How to Correct the Iconic 'Green Glitch'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-compatibility-problems-with-wd-my-passport-ultra-drive/"><u>Resolving Windows Compatibility Problems with WD My Passport Ultra Drive</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/touchpad-not-showing-up-in-device-manager-try-fixes-here/"><u>Touchpad Not Showing up in Device Manager? Try Fixes Here!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-responsive-audio-on-your-pc-solutions-for-windows-10-users/"><u>Troubleshooting Non-Responsive Audio on Your PC: Solutions for Windows 10 Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-magic-transforming-scenes-with-gopro-timelapse-for-2024/"><u>Unveiling the Magic Transforming Scenes with GoPro Timelapse for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-iphone-sound-archive-voice-memo-tips-and-tricks/"><u>[New] In 2024, IPhone Sound Archive Voice Memo Tips & Tricks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-cover-video-excellence-strategies-for-leadership-in-social-media/"><u>[Updated] FB Cover Video Excellence Strategies for Leadership in Social Media</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-zoom-and-click-discovering-kodaks-fz53/"><u>Affordable Zoom & Click - Discovering Kodak's FZ53</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/detecting-and-setting-up-additional-monitors-on-windows-7-problem-free/"><u>Detecting and Setting Up Additional Monitors on Windows 7: Problem-Free</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-gone-how-to-address-semaphores-timed-out-communication-hiccup/"><u>Error Gone: How to Address Semaphore’s Timed-Out Communication Hiccup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-typewriter-keys-that-arent-working-solutions-for-windows-10-and-11-users/"><u>Fix Typewriter Keys That Aren't Working: Solutions for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-tecno-camon-20-pro-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Tecno Camon 20 Pro 5G Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/logitechs-comeback-resurrected-remote-device/"><u>Logitech's Comeback: Resurrected Remote Device</u></a></li>
+<li><a href="https://driver-install.techidaily.com/relaunch-graphics-software-on-windows/"><u>Relaunch Graphics Software on Windows</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-pros-guide-to-srt-alterations-on-a-macbook-for-2024/"><u>The Pro's Guide to SRT Alterations on a MacBook for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-tips-for-dealing-with-hanging-screens-in-windows-10-operating-system/"><u>Top Tips for Dealing With Hanging Screens in Windows 10 Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-data-consumption-by-svchostexe-netsvcs-steps-for-optimization/"><u>Troubleshooting High Data Consumption by Svchost.exe (NETsvcs): Steps for Optimization</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-github-desktops-full-potential-on-windows-platforms/"><u>Unleashing GitHub Desktop's Full Potential on Windows Platforms</u></a></li>
 </ul></div>
 

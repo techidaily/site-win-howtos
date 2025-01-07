@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Your PC From Randomly Restarting on Windows 11 Devices: Expert Advice"
-date: 2024-12-17T00:36:17.261Z
-updated: 2024-12-22T19:40:22.641Z
+date: 2025-01-03T01:18:49.533Z
+updated: 2025-01-06T21:02:07.904Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Solution 1: Check the display output settings**
 
  Incorrect display output settings could be preventing your TV from detecting your connected computer. Follow the steps below to check.
@@ -44,21 +40,17 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f20f2242c5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Display** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f25c04e4c2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Check if you’re able to see the TV as a second monitor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f296382361.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you can’t see your TV on the screen , follow steps below:
 
@@ -71,10 +63,14 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bc8338cfae9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After that, check to see if Windows can detect your TV.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 2: Update the graphics driver**
@@ -94,7 +90,7 @@ After that, check to see if Windows can detect your TV.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0ea2eb0b92e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged video driver driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the **FREE** version).
@@ -102,6 +98,10 @@ After that, check to see if Windows can detect your TV.
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e9e0ebcfe9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Restart your computer and check to see if Windows 10 can now detect your TV.
 
@@ -126,24 +126,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-sonys-leap-into-4k-with-xperia-xz-premium-insights/"><u>[New] 2024 Approved Sony's Leap Into 4K with Xperia XZ Premium Insights</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-elevate-your-video-visibility-11-secrets-of-successful-seo-for-2024/"><u>[New] Elevate Your Video Visibility 11 Secrets of Successful SEO for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-pixels-melodic-matches-and-personalization/"><u>[New] In 2024, Pixel's Melodic Matches and Personalization</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-cutting-to-the-chase-mastering-zoom-in-videoleap-videos/"><u>[Updated] Cutting to the Chase Mastering Zoom in Videoleap Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-deciphering-facebooks-iconic-blue-emoji-usage-in-messages/"><u>[Updated] In 2024, Deciphering Facebook's Iconic Blue Emoji Usage in Messages</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-decoding-srt-for-subc-effective-conversion-guide/"><u>[Updated] In 2024, Decoding SRT for SUBC Effective Conversion Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mastering-screen-recording-in-adobe-captivate-a-step-by-step-guide/"><u>2024 Approved Mastering Screen Recording in Adobe Captivate A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/creating-your-own-bluetooth-audio-network-how-to-link-several-speakers-with-a-lone-device/"><u>Creating Your Own Bluetooth Audio Network: How To Link Several Speakers With A Lone Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-address-xerox-printing-software-update-issue-facing-error-0x800f020b-on-windows-pcs/"><u>Effective Solutions to Address Xerox Printing Software Update Issue – Facing Error 0X800F020B on Windows PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-tackle-the-windows-11-update-error-0xc190n0028-a-users-manual/"><u>Effective Solutions to Tackle the Windows 11 Update Error 0XC190n0028: A User's Manual</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/enhancing-keyboard-responsiveness-on-your-windows-11-pc-a-comprehensive-guide-to-solving-latency-problems/"><u>Enhancing Keyboard Responsiveness on Your Windows 11 PC - A Comprehensive Guide to Solving Latency Problems</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/essentials-to-skyrocketing-video-views-on-youtube-for-2024/"><u>Essentials to Skyrocketing Video Views on YouTube for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-infinix-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Infinix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-repair-windows-1011s-update-error-decode-and-fix-error-0x802errordescription-solutionkeyword/"><u>How to Successfully Repair Windows 10/11'S Update Error: Decode and Fix Error 0X802([error_description]) [Solution_keyword]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/kernel32dll-fixes-and-tips-for-win/"><u>Kernel32.dll: Fixes and Tips for Win</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-and-effective-solutions-for-when-your-wifi-stops-working/"><u>Quick and Effective Solutions for When Your WiFi Stops Working</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-fortnite-on-incompatible-windows-graphics-cards/"><u>Resolved: Fixing Fortnite on Incompatible Windows Graphics Cards</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-correct-a-non-working-lenovo-biometric-device-fast/"><u>Step-by-Step: Correct a Non-Working Lenovo Biometric Device Fast</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-device-detection-issues-in-windows-11-via-bluetooth/"><u>Troubleshooting Guide: Resolving Device Detection Issues in Windows 11 via Bluetooth</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-real-time-monitoring-and-archiving-of-facebook-chats/"><u>[New] In 2024, Real-Time Monitoring & Archiving of Facebook Chats</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-visual-storytelling-planning-strategy-on-instavideo/"><u>[Updated] Mastering Visual Storytelling Planning Strategy on InstaVideo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-troubleshooting-for-windows-1110-wireless-mice-that-stop-responding-unexpectedly/"><u>Comprehensive Troubleshooting for Windows 11/10 Wireless Mice That Stop Responding Unexpectedly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-12-pro-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 12 Pro Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-camon-20-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Camon 20 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-free-to-use-tools-for-transcribing-digital-conferences/"><u>In 2024, Free-to-Use Tools for Transcribing Digital Conferences</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-fixes-for-your-minecraft-woes-overcoming-error-5/"><u>Mastering Fixes for Your Minecraft Woes - Overcoming Error 5</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-common-touchpad-scrolling-problems-with-simple-solutions-fixed/"><u>Overcoming Common Touchpad Scrolling Problems with Simple Solutions [FIXED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolution-matters-ensuring-your-monitor-supports-system-display-frequency/"><u>Resolution Matters: Ensuring Your Monitor Supports System Display Frequency</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-excessive-cpu-usage-by-svchostexe-in-windows-11-comprehensive-guide/"><u>Resolving Excessive Cpu Usage by svchost.exe in Windows 11 - Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-adventure-begins-with-panasonics-hx-a1-action-recorder/"><u>The Adventure Begins with Panasonic's HX-A1 Action Recorder</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-m54-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy M54 5G FRP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-oddworld-soulstorm-installation-issues-on-pc/"><u>Troubleshooting Tips: Fixing Oddworld: Soulstorm Installation Issues on PC</u></a></li>
 </ul></div>
 

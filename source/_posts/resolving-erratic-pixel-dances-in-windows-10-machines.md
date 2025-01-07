@@ -1,7 +1,7 @@
 ---
 title: Resolving Erratic Pixel Dances in Windows 10 Machines
-date: 2024-09-05T10:00:14.702Z
-updated: 2024-09-06T10:00:14.702Z
+date: 2025-01-04T03:52:58.175Z
+updated: 2025-01-06T18:55:33.421Z
 tags:
   - win11
   - win10
@@ -13,32 +13,18 @@ excerpt: This Article Describes Resolving Erratic Pixel Dances in Windows 10 Mac
 thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e46cf7809dfb5c690e2c4abe.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Resolved: Unplanned Automatic Reboots on Windows 10 – Fixed
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3e5e364a54.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re trying installing Windows 10, and you’re seeing this error saying **The computer restarted unexpectedly or encountered an unexpected error** , you’re not alone. Many Windows users are reporting it. Maybe you keep getting this error after clicking OK each time.
 
  But the good news is you can fix it easily by yourself. Here’s an easy solution you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## On the same error message screen do these
 
  1) On your keyboard, press the **Shift key**  and **F10**  to invoke the Command Prompt window.
@@ -47,12 +33,6 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b8f6dcad206.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click **Yes**  when prompted by the User Account Control.
 
  3) You should then see the Registry Editor window. Go to **HKEY\_LOCAL\_MACHINE\\SYSTEM\\Setup\\Status\\ChildCompletion.**
@@ -60,25 +40,25 @@ thumbnail: https://thmb.techidaily.com/04f98c03565f60c0b0ad3b1ba3f80966cc746c43e
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b8fef4b3fdb.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Double-click **setup.exe** . Make sure the Value data is set to **3** , then click**OK**  .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b8ff5c80fea.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Close the Registry Editor window.
 
 6) Restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bonus Tip
 
  Updating drivers should always be your go-to option when something goes wrong with your computer or system. Whether you choose to update the device drivers manually, using Windows Update, or you use a trusted third party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -89,6 +69,10 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c49f2da67c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -97,8 +81,6 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +88,21 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-proficiently-follow-facebook-live-updates-for-2024/"><u>[New] How to Proficiently Follow Facebook Live Updates for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-tailoring-horizontal-video-footage-for-maximum-impact-on-igtv/"><u>[Updated] 2024 Approved Tailoring Horizontal Video Footage for Maximum Impact on IGTV</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-transforming-movs-to-mp4mkv-on-pc/"><u>[Updated] In 2024, Transforming MOVs to MP4/MKV on PC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-outstanding-mac-screen-recording-options-beyond-bandicamp-for-2024/"><u>[Updated] Outstanding Mac Screen Recording Options Beyond Bandicamp for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-step-by-step-guide-to-fixing-msvcp140dll-shortage/"><u>A Step-by-Step Guide to Fixing MSVCP140.dll Shortage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-user-account-control-prompts-for-system-tasks-in-windows-versions-11-10-and-7/"><u>Addressing 'User Account Control' Prompts for System Tasks in Windows Versions 11, 10 & 7</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-d-link-powerline-2000-seamless-installation-and-rapid-networking/"><u>Comprehensive Analysis of D-Link Powerline 2000: Seamless Installation & Rapid Networking</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-overcoming-the-challenge-of-error-code-31-in-windows-systems/"><u>Comprehensive Guide: Overcoming the Challenge of Error Code 31 in Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-respond-if-you-encounter-smartscreen-service-currently-down-on-your-pc/"><u>How to Respond if You Encounter 'SmartScreen Service Currently Down' On Your PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/launching-your-digital-dialogues-in-google-meet-for-2024/"><u>Launching Your Digital Dialogues in Google Meet for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-not-available-issue-with-your-windows-smartscreen-defender/"><u>Solving the 'Not Available' Issue with Your Windows SmartScreen Defender</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210281609-troubleshoot-csgo-issues-like-a-pro-end-crashes-for-good/"><u>Troubleshoot CSGO Issues Like a Pro: End Crashes for Good</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-correcting-error-messages-for-msvcr100dll-not-detected/"><u>Troubleshooting Guide: Correcting Error Messages for MSVCR100.DLL Not Detected</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-guide-sending-and-receiving-imessage-like-a-pro/"><u>Windows Guide: Sending and Receiving iMessage Like a Pro</u></a></li>
+</ul></div>
 

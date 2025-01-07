@@ -1,7 +1,7 @@
 ---
 title: "Efficient Tips: Reactivating the Windows Upgrade Feature When It's Not Working"
-date: 2024-12-21T19:23:34.554Z
-updated: 2024-12-28T00:04:46.358Z
+date: 2025-01-03T23:27:36.365Z
+updated: 2025-01-07T03:23:01.532Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ Here are some solutions that have helped people resolve the same error. You don�
 
 As many people have resolved the “**No Pen or Touch Input is available for this Display**” error on their computer by forcing a shutdown, it never hurts to perform a force shutdown and restart your computer to fix it. As the steps to force a shutdown vary from brand to brand, you can consult your computer manufacturer to do that. For example, if you’re using a Surface Pro 4, you can press and hold the**power button**for**10 seconds**, then your screen turns off and shuts down. Then press and release the power button to turn on your Surface Pro 4\. After restart, try again and see if touch screen works now. If this method doesn’t work for you, don’t worry. There are something else to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Run troubleshooter in your computer
 
 The troubleshooter in your computer helps troubleshoot the hardware problems and repair it. So here’s what you need to do:
@@ -47,7 +51,7 @@ The troubleshooter in your computer helps troubleshoot the hardware problems and
 3. Click**Hardware** **and** **Sound** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb10c799b9d.jpg)
@@ -58,6 +62,10 @@ The troubleshooter in your computer helps troubleshoot the hardware problems and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb1108d468d.jpg)
 6. Restart your computer and see if it fixes the error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Re-enable touch screen
 
@@ -77,28 +85,24 @@ You can also re-enable touch screen and its driver to fix the “No Pen or Touch
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb11cb8b5a8.jpg)
 4. Right click on**HID-compliant touch screen** , then select**Disable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb12007e8f1.jpg)
 5. If you see a popup message to confirm, click**Yes** to confirm.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb123fd7728.jpg)
 6. Right click on**HID-compliant touch screen** , then select**Enable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb128e37a69.jpg)  
  Note: there may be more than one HID compliant touch screen listed there. If that’s the case, complete steps 4) -6) for each device.
 
 Try touch screen and see if it works now. The error still persists? Okay, there’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update touch screen driver
 
@@ -108,10 +112,6 @@ A missing or outdated touch screen driver can also result in the “No Pen or To
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb12d9418f6.jpg)
 3. Click the**Update** button next to the flagged touch screen to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_**Update All**_ ).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb1405c2875.jpg)
 4. Restart your computer to take effect.
@@ -136,19 +136,19 @@ Now check and see if the “**No Pen or Touch Input is available for this Displa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-melody-matters-device-reviews/"><u>[New] In 2024, Melody Matters Device Reviews</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/outube-channels-for-filmmakers-to-learn-filmmaking-tips/"><u>[New] YouTube Channels for Filmmakers to Learn Filmmaking Tips</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-avoiding-obscurity-tips-for-staff-picked-videos-at-vimeo-for-2024/"><u>[Updated] Avoiding Obscurity Tips for Staff-Picked Videos at Vimeo for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-brighten-up-your-gameplay-tips-to-fix-a-black-screen-on-obs-for-2024/"><u>[Updated] Brighten Up Your Gameplay Tips to Fix a Black Screen on OBS for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-yuneec-typhoon-h-examined-an-extensive-review/"><u>[Updated] Yuneec Typhoon H Examined An Extensive Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dvd-and7/"><u>「最新ベストセラーDVD取り込みソフト 無料&有料版7選手配リスト」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cda-to-wav/"><u>初心者にもわかるCDA to WAV変換テクニックガイド</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discover-the-ultimate-sources-top-5-instrumental-music-portals-to-enhance-your-playlist/"><u>Discover the Ultimate Sources: Top 5 Instrumental Music Portals to Enhance Your Playlist</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-and-effective-ways-to-convert-wmv-files-into-imovie-with-these-top-free-tools/"><u>Easy and Effective Ways to Convert WMV Files Into iMovie with These Top FREE Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-steps-to-convert-your-mp4-files-into-mpeg-for-producing-high-quality-vcds-and-dvds/"><u>Easy Steps to Convert Your MP4 Files Into MPEG for Producing High-Quality VCDs and DVDs</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-engaging-content-10-leading-animated-text-generator-options/"><u>In 2024, Create Engaging Content 10 Leading Animated Text Generator Options</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-meizu-21-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Meizu 21</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-battle-of-the-console-generation-a-deep-dive-into-ps5-slim-vs-regular-ps5/"><u>The Battle of the Console Generation: A Deep Dive Into PS5 Slim Vs. Regular PS5</u></a></li>
-<li><a href="https://windows11.techidaily.com/tweak-right-menu-options-for-optimal-software-use/"><u>Tweak Right-Menu Options for Optimal Software Use</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-ultimate-guide-to-converting-youtube-to-avi-videos/"><u>[Updated] In 2024, The Ultimate Guide to Converting YouTube to AVI Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/10-must-have-luxury-car-accessories-for-sj4000-aficionados-for-2024/"><u>10 Must-Have Luxury Car Accessories for SJ4000 Aficionados for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convert-your-m4v-files-into-compressed-3g2-format-for-free-via-movavis-web-service/"><u>Convert Your M4V Files Into Compressed 3G2 Format for Free via Movavi's Web Service</u></a></li>
+<li><a href="https://win-great.techidaily.com/easy-steps-to-create-and-manage-zip-archives-a-guide-by-yl-computing/"><u>Easy Steps to Create and Manage ZIP Archives: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-fixes-for-when-the-mouse-cursor-disappears-on-windows-11-systems/"><u>Essential Fixes for When the Mouse Cursor Disappears on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-side-by-side-configuration-conflicts-and-errors-in-windows-11/"><u>How to Solve Side by Side Configuration Conflicts and Errors in Windows 11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-11-proven-steps-to-amplify-your-fb-video-campaigns/"><u>In 2024, 11 Proven Steps to Amplify Your FB Video Campaigns</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Life360 on Windows PC For Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-the-new-amazon-fire-hd-8-worth-it-comprehensive-price-and-performance-analysis/"><u>Is The New Amazon Fire HD 8 Worth It? Comprehensive Price & Performance Analysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-pubg-the-definitive-guide-to-resolve-pre-launch-problems-for/"><u>Mastering PUBG: The Definitive Guide to Resolve Pre-Launch Problems For</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pivot-past-moments-an-android-video-reversal-tutorial/"><u>Pivot Past Moments An Android Video Reversal Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/preventing-unexpected-startups-tips-for-controlling-your-windows-11-pc/"><u>Preventing Unexpected Startups: Tips for Controlling Your Windows 11 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-failed-to-initialize-network-issues-in-dragon-ball-fighterz-game/"><u>Solving 'Failed to Initialize' Network Issues in Dragon Ball FighterZ Game</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-google-chromes-freeze-problem-effective-tips-and-tricks/"><u>Solving Google Chrome's Freeze Problem – Effective Tips and Tricks</u></a></li>
 </ul></div>
 

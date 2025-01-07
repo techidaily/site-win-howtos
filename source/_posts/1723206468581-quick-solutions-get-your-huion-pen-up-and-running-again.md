@@ -1,7 +1,7 @@
 ---
 title: "Quick Solutions: Get Your Huion Pen Up & Running Again!"
-date: 2024-12-15T19:22:52.612Z
-updated: 2024-12-22T21:56:13.167Z
+date: 2025-01-01T19:44:40.659Z
+updated: 2025-01-06T20:58:50.514Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5 fixes for the Huion pen not working issue
@@ -54,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 **[Fix 5: Uncheck “Enable Windows Ink”](#fix5)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
 
@@ -107,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Tick the “Support TabletPC” option
 
  As mentioned in the user manual of the Huion pen, you should check the**Support TabletPC** box to enable the pressure sensitivity function in a variety of drawing programs. Here’s how:
@@ -114,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
  1) Double-click the**driver tablet icon** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-27_18-52-38.jpg) on your system tray (an area on the right side of your Taskbar) to open the PenTablet control interface.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Check the**Support TabletPC** box, as shown below.
@@ -122,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-665.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now go on to check whether your pen works properly. If it doesn’t, please proceed to Fix 4.
@@ -157,13 +157,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Huion tablet driver for now, simply click the **Update**  button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-650.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -187,10 +187,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-657.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The folder name can be different based on your tablet model.
 
  4) Double-click the extracted folder you get and then double-click the**.exe file** in that folder.
@@ -198,7 +194,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-660.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Follow the on-screen wizard to install the driver.
@@ -235,6 +231,10 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-666.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The screenshot above comes from the new version of the Huion tablet driver interface. If you’re using the older one, such as the version shown in**[Fix 3](#fix3)** , then you won’t see this**Enable Windows Ink** option.
 
 4) Restart Photoshop and test whether your pen works properly or not.
@@ -260,24 +260,21 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-aoc-usb-monitor-not-working-on-windows-10/"><u>[FIXED] AOC USB Monitor Not Working on Windows 10</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-reimagining-photo-presentation-with-top-frame-tools-for-2024/"><u>[New] Reimagining Photo Presentation with Top Frame Tools for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/urning-hair-videos-into-income-streams/"><u>[New] Turning Hair Videos Into Income Streams</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-advanced-screen-recording-of-facetime-dialogues-for-2024/"><u>[Updated] Advanced Screen Recording of FaceTime Dialogues for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-mastering-video-capture-on-hangouts/"><u>[Updated] Mastering Video Capture on Hangouts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cant-send-your-document-to-print-top-tier-tips-for-quick-solutions/"><u>Can't Send Your Document to Print? Top-Tier Tips for Quick Solutions.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/complete-guide-saving-your-data-with-android-backup-features/"><u>Complete Guide: Saving Your Data with Android Backup Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-issues-microsofts-print-to-pdf-feature-malfunction-on-windows-10-and-11/"><u>Fixing Issues: Microsoft's Print to PDF Feature Malfunction on Windows 10 & 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-hosted-network-cant-be-started-error-in-windows-11/"><u>How to Fix 'Hosted Network Can't Be Started' Error in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-malfunctioning-mic-in-rec-room-for-windows-users-a-2024-tutorial/"><u>How to Repair a Malfunctioning Mic in Rec Room for Windows Users - A 2024 Tutorial</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovative-ps5-dualsense-chargers-of-the-year/"><u>Innovative PS5 DualSense Chargers of the Year</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimizing-your-windows-10-pc-dealing-with-msmpengexes-heavy-cpu-drain-solutions-inside/"><u>Optimizing Your Windows 10 PC: Dealing with MsMpEng.exe's Heavy CPU Drain – Solutions Inside</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/section-2b-five-factfact-list/"><u>Section 2B: Five Fact.Fact List</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-window-10s-unresponsive-spacebar-problem-with-ease-solutions-inside/"><u>Solve Window 10'S Unresponsive Spacebar Problem with Ease - Solutions Inside!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-the-keyboards-unresponsive-backspace-button/"><u>Troubleshooting Guide: Fixing the Keyboard's Unresponsive Backspace Button</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-when-you-cant-access-windows-smartscreen-protection/"><u>Troubleshooting Guide: When You Can't Access Windows SmartScreen Protection</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-cybercrime-the-role-of-ai-in-crafting-romance-scam-techniques/"><u>Unveiling Cybercrime: The Role of AI in Crafting Romance Scam Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-error-code-0x80070426-quick-fixes-and-tips/"><u>Windows 10 Error Code 0X80070426: Quick Fixes & Tips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-detailed-insights-for-optimal-screenrec-techniques-for-2024/"><u>[New] Detailed Insights for Optimal ScreenRec Techniques for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-chromatic-chameleons-playbook-for-masters/"><u>[New] The Chromatic Chameleon's Playbook for Masters</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-rotating-reality-in-images-mastering-the-art-of-spinning-visual-content-for-maximum-impact-on-social-media-platforms/"><u>[Updated] 2024 Approved Rotating Reality in Images Mastering the Art of Spinning Visual Content for Maximum Impact on Social Media Platforms</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-from-zip-to-srt-the-conversion-process-unveiled/"><u>[Updated] From ZIP to SRT The Conversion Process Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-windows-1eb-error-0x80072fed-a-complete-walkthrough/"><u>Comprehensive Fixes for Windows 1Eb Error (0X80072FED) – A Complete Walkthrough</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-downloading-your-canon-mf4500-printers-official-drivers/"><u>Easy Access: Downloading Your Canon MF4500 Printer's Official Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-remedies-for-a-faulty-windows-11-start-menu-dysfunction/"><u>Effective Remedies for A Faulty Windows 11 Start Menu Dysfunction</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/genaue-ubersicht-supported-video-formats-in-whatsapp-aktuelle-informationen-2018/"><u>Genaue Übersicht: Supported Video Formats in WhatsApp - Aktuelle Informationen (2018)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-eliminate-screen-shaking-in-valorant-a-step-by-step-troubleshooting-manual/"><u>How to Eliminate Screen Shaking in Valorant: A Step-by-Step Troubleshooting Manual</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-failure-messages-in-just-a-few-steps/"><u>How to Fix 'Audio Failure Messages' In Just a Few Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-failed-windows-update-permanently/"><u>How to Fix Failed Windows Update Permanently</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exciting-vr-technologies-shaping-gaming/"><u>In 2024, Exciting VR Technologies Shaping Gaming</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-14-plus-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 14 Plus i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-restore-copypaste-functionality-on-your-windows-11-pc/"><u>Resolved: How to Restore Copy/Paste Functionality on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-failures-in-usb-devices-when-descriptors-cant-be-read-problem-solved/"><u>Troubleshooting Failures in USB Devices When Descriptors Can’t Be Read [Problem Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-to-fix-error-code-0x800f0922-on-windows-11-systems/"><u>Troubleshooting Tips to Fix Error Code 0X800f0922 on Windows 11 Systems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solving USB Connectivity Problems on Your Windows 11 PC
-date: 2024-09-05T10:00:18.971Z
-updated: 2024-09-06T10:00:18.971Z
+date: 2024-12-31T04:53:35.343Z
+updated: 2025-01-06T18:45:00.738Z
 tags:
   - win11
   - win10
@@ -19,17 +19,15 @@ Windows 10 update or upgrade may be causing hardware like touch screen not worki
 
  To use these solutions, you need to access Windows. Since the touch screen doesn’t work, use a mouse or keyboard instead. Tip: After plugging and setting up the mouse or keyboard, the touch screen may work again like a magic (This has worked for some Windows 10 users).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Solution 1: Restart your PC**
 
  Restarting Windows always fixes hardware not working issues. Try this method and your touch screen may work like a charm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef016219208.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##
 
@@ -44,24 +42,20 @@ To turning the touch screen off and back on, follow steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef21aba8f33.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3\. Expand category “**Human Interface Devices** ” and right-click on**HID-compliant touch screen** then select**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef247d6c4d3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4\. Click**Yes** to confirm this.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef234bcbb1a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5\. Right-click on **HID-compliant touch screen** again then select**Enable** .
 
@@ -84,23 +78,9 @@ To turning the touch screen off and back on, follow steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef28c11007f.png)
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## **Solution 4: Update the touch screen driver**
 
  Touch screen not working maybe due to faulty driver. So you can try updating the driver. You can go to the manufacturer’s website to check for and download the latest driver.
@@ -117,22 +97,14 @@ To turning the touch screen off and back on, follow steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d2f95d64f.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the touch screen driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d31484e2f.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Solution 5: Reset Windows 10**
 
  The final solution you can try is reset the Windows. If you are not sure how to do a reset on Windows, see[How to Reset Windows 10](https://tools.techidaily.com/drivereasy/download/) .
@@ -145,8 +117,6 @@ To turning the touch screen off and back on, follow steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +124,20 @@ To turning the touch screen off and back on, follow steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-elevating-video-resolution-in-youtube/"><u>[New] Elevating Video Resolution in YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-exclusive-video-player-for-high-quality-avi-on-devices-for-2024/"><u>[Updated] Exclusive Video Player for High-Quality AVI on Devices for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-best-10-action-ready-microphones-reviewed/"><u>2024 Approved Best 10 Action-Ready Microphones Reviewed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-message-guide-dealing-with-the-0x80071ac3-volume-corruption-problem/"><u>Error Message Guide: Dealing with the 0X80071AC3 Volume Corruption Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-windows-10s-update-hurdle-solving-error-code-0xc1900208/"><u>How to Overcome Windows 10'S Update Hurdle – Solving Error Code 0Xc1900208</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reduce-heavy-processor-load-from-wudfhostexe-on-your-windows-10-pc/"><u>How to Reduce Heavy Processor Load From WUDFHost.exe on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-version-of-magicard-rio-pro-driver-compatible-with-recent-windows-systems-windows-11817-download-now/"><u>Latest Version of Magicard Rio Pro Driver: Compatible with Recent Windows Systems (Windows 11/8.1/7) - Download Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-non-charging-problem-when-device-is-connected-to-windows-7-or-10/"><u>Resolving the Non-Charging Problem When Device Is Connected to Windows 7 or 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-when-the-function-fn-key-wont-work/"><u>Step-by-Step Solutions When the Function (Fn) Key Won't Work</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-choosing-a-health-tracker-features-and-reviews-for-the-samsung-galaxy-watch-active/"><u>The Ultimate Guide to Choosing a Health Tracker: Features & Reviews for the Samsung Galaxy Watch Active</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-cellphone-bargains-on-independence-day-compiled/"><u>Top Cellphone Bargains on Independence Day - Compiled</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tp-link-archer-a6-ac1200-router-review-good-performance-on-a-budget/"><u>TP-Link Archer A6 AC1200 Router Review: Good Performance On a Budget</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-destiny-2-get-your-game-up-and-running-again/"><u>Troubleshooting Destiny 2: Get Your Game Up and Running Again!</u></a></li>
+</ul></div>
 

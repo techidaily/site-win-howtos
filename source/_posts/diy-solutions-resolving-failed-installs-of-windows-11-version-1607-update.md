@@ -1,7 +1,7 @@
 ---
 title: "DIY Solutions: Resolving Failed Installs of Windows 11 Version 1607 Update"
-date: 2024-12-26T12:22:29.024Z
-updated: 2024-12-27T22:00:13.254Z
+date: 2025-01-01T05:06:27.387Z
+updated: 2025-01-06T21:36:31.433Z
 tags:
   - win11
   - win10
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -68,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -79,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 `` 4) Reboot your Windows 10 and open the app again to see if it goes fine.
 
 ``
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
@@ -89,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -117,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ``
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
@@ -129,10 +133,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -140,23 +140,19 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Open the app again to see if it goes fine.
 
 ``
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -165,6 +161,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -175,6 +175,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -193,10 +197,6 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -225,15 +225,16 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-legality-of-reproducing-your-watched-youtube-videos/"><u>[New] In 2024, Legality of Reproducing Your Watched YouTube Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-reducing-excessive-encoding-obs-for-2024/"><u>[New] Reducing Excessive Encoding (OBS) for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-turbo-tracker-fastest-image-browser-w10/"><u>[Updated] Turbo Tracker - Fastest Image Browser W10</u></a></li>
-<li><a href="https://extra-information.techidaily.com/newly-updated-set-of-chat-starters-for-podcast-success/"><u>Newly Updated Set of Chat Starters for Podcast Success</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/quick-tips-for-seamless-embedding-of-youtube-playlists-on-a-website-for-2024/"><u>Quick Tips for Seamless Embedding of YouTube Playlists on a Website for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/rapid-reader-advanced-windows-photoshop-for-2024/"><u>Rapid Reader - Advanced Windows Photoshop for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-moving-dvd-media-files-to-a-portable-tablet/"><u>Step-by-Step Tutorial on Moving DVD Media Files to a Portable Tablet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-using-the-iso-ripper-software-for-effortless-dvd-iso-extraction-and-multi-format-file-conversion/"><u>Step-by-Step Tutorial: Using the ISO Ripper Software for Effortless DVD ISO Extraction and Multi-Format File Conversion</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-list-of-top-rated-free-tools-for-dividing-your-videos-into-sections/"><u>The Ultimate List of Top-Rated Free Tools for Dividing Your Videos Into Sections</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-5-free-substitutes-to-camstudio-on-windows-platforms/"><u>Top 5 Free Substitutes to CamStudio on Windows Platforms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-use-igtv-hashtags-to-gain-more-followers/"><u>[Updated] In 2024, How to Use IGTV Hashtags to Gain More Followers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-video-anonymization-strategies/"><u>2024 Approved Video Anonymization Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audioscapes-excellent-microphone-list-for-2024/"><u>Audioscape’s Excellent Microphone List for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-unresponsive-keys-in-windows-10-a-comprehensive-guide/"><u>How To Overcome Unresponsive Keys in Windows 10 – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-broken-spacebar-key-in-microsofts-latest-operating-system/"><u>How to Repair a Broken Spacebar Key in Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210594072-9781667432144-recuperation-et-prevention-covid-19-et-autres-maladies/"><u>Récupération et Prévention : Covid-19 et autres Maladies | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-now-your-device-can-use-miracast-with-new-graphics-drivers/"><u>Resolved! Now Your Device Can Use Miracast with New Graphics Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-d3dxt939dll-file-missing-issue-a-step-by-step-guide/"><u>Resolving the d3dxt9_39.dll File Missing Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-itel-p40-frp-by-drfone-android/"><u>The Updated Method to Bypass Itel P40 FRP</u></a></li>
 </ul></div>
 

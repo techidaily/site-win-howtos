@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Assistance: Streamlining the Use of File Explorer in Windows 10"
-date: 2024-12-22T07:00:33.112Z
-updated: 2024-12-28T08:21:31.949Z
+date: 2025-01-04T02:13:12.404Z
+updated: 2025-01-07T03:54:14.951Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1) Access violation error
 
  One of the situations where you will see error code 0xc0000005 is when you get an**Access violation error** .
@@ -48,21 +52,17 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507a17971f4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **iii.** Click the **Advanced** tab. Click the**Settings** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507b4b00aa2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **iv.** Click the **Data Execution Prevention** tab. Select **Turn on DEP for all programs and services except those I select** . Then click**Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507cc89e487.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **v.** Open the problematic**executable (.exe)** files. Then click**OK** all the way out.
 
@@ -82,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 
  (RAM is a hardware component inserted**inside** your computer. You need to**disassemble** your computer to remove or replace it. You can ask a specialist to do it for you, or consult your product manufacturer for assistance.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2) The application unable to start
 
  This 0xc0000005 error usually appears when you are attempting to run an application and it nevertheless crashes. It comes with a message saying “**The application was unable to start correctly.** “
@@ -89,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59508823f05fa.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To resolve this error, you can try the methods below.
@@ -106,13 +110,13 @@ To resolve this error, you can try the methods below.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click on**Update** button next to any device to download its driver. Or you can hit**Update All** button at the bottom to download and install all the drivers (this requires upgrading to**Pro version** ).
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/01/Driver-Easy-Update-mouse-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In fact, Driver Easy Pro has also other advanced features like**driver removal or restore** . Plus upgrading to Pro version can get you its**experienced technical support** and**30-day money back guarantee** .
 
@@ -136,17 +140,21 @@ To resolve this error, you can try the methods below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And then in the dialog popping up, click the**System Restore** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iii.**  In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a544256bd.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **e)** You may also get this error because your**BCD (Boot Configuration Data)** file is corrupted. You can try repairing it and see if you can fix this error.
 
@@ -180,19 +188,11 @@ bootrec /rebuildbcd
 
 **iv.** Close the Command Prompt window and restart your computer. Then check to see if you get rid of the error.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3) Windows installation error
 
  The third type of 0xc0000005 error is an error you can get when you are installing your Windows. The error message tells you that**Windows installation encountered an unexpected error** . At this point you cannot continue your installation.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5950b581b5f1e.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The reason of this error can be that the operating system you are installing is not compatible with the partition. You need to**delete all partitions** and**create new ones** (this will**remove** **all** your files and data on your hard drive).
 
@@ -215,20 +215,22 @@ bootrec /rebuildbcd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-zoom-in-navigating-the-nearby-landscapes-of-roblox/"><u>[New] 2024 Approved Zoom In Navigating the Nearby Landscapes of Roblox</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-arcane-acoustics-how-legit-is-the-vocal-transformation-application-look-elsewhere/"><u>2024 Approved Arcane Acoustics How Legit Is the Vocal Transformation Application? Look Elsewhere</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-proven-methods-to-elevate-patient-testimonial-videos/"><u>2024 Approved Proven Methods to Elevate Patient Testimonial Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/access-all-english-movies-for-free-with-simple-steps-on-youtube-and-safe-downloads/"><u>Access All English Movies for Free with Simple Steps on YouTube and Safe Downloads</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-make-win11s-canvas-come-alive-the-guide-to-creating-intriguing-ai-images-via-paint-tool-sai/"><u>How to Make Win11's Canvas Come Alive: The Guide to Creating Intriguing AI Images via Paint Tool SAI</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a59-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726026795913-nhk/"><u>NHK 歌謡スクランブル レコード作成ガイドの簡単な手引き</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/perfecting-your-audio-file-for-apples-review-boards/"><u>Perfecting Your Audio File for Apple’s Review Boards</u></a></li>
-<li><a href="https://win-trending.techidaily.com/pick-and-choose-your-hues-a-comprehensive-tutorial-on-copy-colors-with-powertoys-color-picker-feature-zdnet-insights/"><u>Pick and Choose Your Hues: A Comprehensive Tutorial on Copy Colors with PowerToys' Color Picker Feature | ZDNET Insights</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-zero-error-absence-of-hypervisor-on-sandbox/"><u>Solutions for Zero Error - Absence of Hypervisor on Sandbox</u></a></li>
-<li><a href="https://win-lab.techidaily.com/transform-multiple-pdfs-into-interactive-flash-books-for-free/"><u>Transform Multiple PDFs Into Interactive Flash Books for Free!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726030248120-youtube-3/"><u>YouTubeで動画音量強化レシピ ベスト3</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726028110366-5/"><u>スピットライフ無料音楽ダウンロード！5つの最優秀録音ソフトブックメーカー</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726028239801-pc/"><u>パーソナライズドデスクのためのPCプログラム：動的な壁紙設定ツール「無料・有料」選び方ガイド</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726027833388-powerdirector/"><u>ビデオの音量調整:PowerDirectorで見つけた効果的なテクニック</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-perfect-photos-on-iphone-illumination-secrets-for-2024/"><u>[New] Perfect Photos on IPhone Illumination Secrets for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-top-6-best-video-stitching-tools-of-2024-compare-leading-options-on-android-and-ios-with-movavis-expert-list/"><u>Discover the Top 6 Best Video Stitching Tools of 2024: Compare Leading Options on Android & iOS with Movavi's Expert List</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-epson-wf-3620-printer-drivers-compatible-with-windows-11-8-and-7/"><u>Download and Install Epson WF-3620 Printer Drivers: Compatible with Windows 11, 8, & 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-techniques-to-overcome-the-d3drender-unavailable-hurdle/"><u>Effective Techniques to Overcome the 'D3DRENDER Unavailable' Hurdle</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/eliminating-intrusive-advertisements-a-comprehensive-guide-to-halting-promotions-on-facebook-and-curbing-targeted-ads-in-messenger/"><u>Eliminating Intrusive Advertisements: A Comprehensive Guide to Halting Promotions on Facebook & Curbing Targeted Ads in Messenger</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/cing-television-experience-playback-tips-for-youtube-content/"><u>Enhancing Television Experience Playback Tips for YouTube Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guia-completa-para-disenar-videos-de-moda-y-memorables-en-3-pasos-la-nueva-era-del-meme-en-2024/"><u>Guía Completa Para Diseñar Vídeos De Moda Y Memorables en 3 Pasos - La Nueva Era Del Meme en 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-repairing-ethernet-connectivity-problems-in-windows-1011-and-7-computers/"><u>Guide to Repairing Ethernet Connectivity Problems in Windows 10/11 & 7 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-address-a-disk-read-malfunction-on-windows-11-best-practices-and-tips/"><u>How to Correctly Address a Disk Read Malfunction on Windows 11: Best Practices and Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-disappeared-icons-on-your-windows-10-taskbar-top-4-solutions/"><u>How To Restore Disappeared Icons On Your Windows 10 Taskbar: Top 4 Solutions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-effortless-glamour-examples/"><u>In 2024, Effortless Glamour Examples</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-estimating-elapsed-seconds-in-a-20mb-videoclip/"><u>In 2024, Estimating Elapsed Seconds in a 20MB Videoclip</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-cant-i-install-the-ipogo-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Why cant I install the ipogo On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-restore-roadblocks-effective-solutions-to-the-notorious-windows-11-pc-reset-error/"><u>No More Restore Roadblocks: Effective Solutions to the Notorious Windows 11 PC Reset Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-non-responsive-file-explorer-problems-in-windows-10-guide/"><u>Resolving Non-Responsive File Explorer Problems in Windows 10 [Guide]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-the-connection-making-an-aoc-usb-monitor-functional-with-windows-10/"><u>Solve the Connection: Making an AOC USB Monitor Functional with Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-when-your-usb-to-hdmi-adapter-stops-working/"><u>Step-by-Step Solutions for When Your USB to HDMI Adapter Stops Working</u></a></li>
 </ul></div>
 

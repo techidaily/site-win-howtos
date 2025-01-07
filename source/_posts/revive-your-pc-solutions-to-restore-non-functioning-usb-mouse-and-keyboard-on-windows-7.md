@@ -1,7 +1,7 @@
 ---
 title: "Revive Your PC: Solutions to Restore Non-Functioning USB Mouse & Keyboard on Windows 7"
-date: 2024-12-25T06:19:14.363Z
-updated: 2024-12-28T06:03:10.300Z
+date: 2024-12-31T00:48:00.718Z
+updated: 2025-01-07T00:54:24.435Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/858d049547f59eac162cc6b5d9eb7989714fa4113
 4. **[Repair system files](#repair-system-files)**
 
 * [**Tips: Keyboard maintenance**](#tips)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Hard reset your keyboard
 
@@ -73,7 +65,7 @@ If you’re a laptop user, you could follow these steps:
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check for hardware issues
@@ -116,12 +108,24 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -138,17 +142,13 @@ OR
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tips: Keyboard maintenance
 
@@ -177,16 +177,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-ultimate-pc-clipper-guide-choose-from-the-5-best-tools/"><u>[New] 2024 Approved The Ultimate PC Clipper Guide - Choose From the 5 Best Tools</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-elite-selection-of-nintendo-switch-fighting-games-max-156/"><u>[Updated] In 2024, Elite Selection of Nintendo Switch Fighting Games (Max 156)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-8-montage-apps-for-androidiphone/"><u>[Updated] In 2024, Top 8 Montage Apps for Android/iPhone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-elex-ii-from-frequently-crashing-on-windowsmac-tips-and-tricks-for-a-smooth-experience/"><u>How to Stop ELEX II From Frequently Crashing on Windows/Mac: Tips & Tricks for a Smooth Experience</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-gt-5-240w-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-transforming-lmms-projects-from-mmpz-to-popular-audio-formats-like-mp3-wav-and-ogg/"><u>Step-by-Step Tutorial: Transforming LMMS Projects From MMPZ to Popular Audio Formats Like MP3, WAV, and OGG</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-dvd-ripper-and-converter-software-for-windows-1011-optimal-choices-for-legal-backups-and-playback/"><u>Top DVD Ripper & Converter Software for Windows 10/11: Optimal Choices for Legal Backups and Playback</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-free-kodi-extensions-discover-the-best-options-for-watching-movies-and-tv-series-without-payment/"><u>Top Free Kodi Extensions: Discover the Best Options for Watching Movies & TV Series Without Payment</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-rated-no-cost-mp4-video-converter-software-for-windows-operating-system/"><u>Top Rated No-Cost MP4 Video Converter Software for Windows Operating System</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-affordable-video-capture-maximum-potential-via-obs-for-2024/"><u>[New] Affordable Video Capture - Maximum Potential via OBS for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-cutting-edge-tips-for-professional-youtube-content-creation/"><u>2024 Approved Cutting-Edge Tips for Professional YouTube Content Creation</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enjoy-uninterrupted-entertainment-with-improved-netflix-performance-on-your-computer/"><u>Enjoy Uninterrupted Entertainment with Improved Netflix Performance on Your Computer</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-started-with-chatgpt-android-widget-instructions/"><u>Get Started with ChatGPT: Android Widget Instructions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-logitech-g930-microphone-dropouts-and-audio-fluctuations/"><u>How To Fix Logitech G930 Microphone Dropouts and Audio Fluctuations</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Infinix Smart 8? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-how-to-triple-down-on-instagrams-growth-metrics/"><u>In 2024, How to Triple Down on Instagram's Growth Metrics</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-motorola-moto-g23-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Motorola Moto G23</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-battleye-setup-challenges-flawless-installation-methods/"><u>Overcome BattlEye Setup Challenges – Flawless Installation Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-no-audio-devices-installed-issue-on-windows-11/"><u>Solving the 'No Audio Devices Installed' Issue on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-repairing-disk-is-dirty-mistake-error-0x80071ac3/"><u>Understanding and Repairing 'Disk Is Dirty' Mistake (Error 0X80071AC3)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-1110-fails-to-offer-contrast-control/"><u>Windows 11/10 Fails to Offer Contrast Control</u></a></li>
 </ul></div>
 

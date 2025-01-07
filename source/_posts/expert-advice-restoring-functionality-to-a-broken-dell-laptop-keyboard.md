@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Restoring Functionality to a Broken Dell Laptop Keyboard"
-date: 2024-09-05T10:00:17.473Z
-updated: 2024-09-06T10:00:17.473Z
+date: 2025-01-02T02:44:58.892Z
+updated: 2025-01-07T01:59:30.351Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be0354aa9101-300x139.jpg)
 
  If your Dell PC can’t detect or recognize your USB device when you plug it into the USB port, here are 4 simple troubleshooting steps for you. They have worked for many people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these steps
 
@@ -46,17 +50,9 @@ If all your USB ports aren’t working, try Step 2, below.
 5. **Check** if your USB device works now. If not, try Step 3, below.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 3: Check your power management settings
 
  It’s also possible that Windows switches off your USB controllers when they’re not in use to save power, and “forgets” to switch them on when they’re needed. You can take these steps to have a check:
@@ -65,37 +61,28 @@ If all your USB ports aren’t working, try Step 2, below.
 2. **Type devmgmt.msc and press Enter.**  
 **![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be166620610a.png)**
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
 5. Click the**Power Management** tab.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Check if your USB port works properly now. If not, try Step 4, below.
 
 ### Step 4: Update your USB driver
@@ -116,20 +103,8 @@ or
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f93a4683.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f53e08f3.jpg)
 4. Restart your computer and check if your USB port now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -143,8 +118,6 @@ or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +125,23 @@ or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-maximizing-collaboration-zoom-session-setup-and-management/"><u>[New] 2024 Approved Maximizing Collaboration Zoom Session Setup and Management</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-the-potential-of-feast-filled-videography/"><u>[Updated] Unlocking the Potential of Feast-Filled Videography</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dvd-2024/"><u>【高效選用】新版 DVD 播放器軟件 - 2024 好用且功能優異的免費版本</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-an-ultimate-guide-of-best-narrator-voice-generators/"><u>2024 Approved An Ultimate Guide of Best Narrator Voice Generators</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/alapito-oszf-virtual-kamerai-gyakorlasu-tanacsozas-a-202/"><u>Alapító OSZF Virtual Kamerái Gyakorlású Tanácsozás A 202</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anticipating-apple-vision-pros-arrival-in-feb-how-it-reimagines-shopping-with-unprecedented-sophistication-zdnet-exclusive/"><u>Anticipating Apple Vision Pro's Arrival in Feb: How It Reimagines Shopping with Unprecedented Sophistication | ZDNet Exclusive</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-6-mobile-applications-for-eliminating-picture-shadows-a-review-by-movavi/"><u>Best 6 Mobile Applications for Eliminating Picture Shadows: A Review by Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/downloadless-video-sizing-application-adjust-video-length-and-quality-costlessly-on-the-internet/"><u>Downloadless Video Sizing Application - Adjust Video Length and Quality Costlessly on the Internet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722162732311-elon-musk-introduces-grok-the-innovative-ai-technology-discover-its-functionality-and-price-tag/"><u>Elon Musk Introduces Grok: The Innovative AI Technology – Discover Its Functionality & Price Tag</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fond-memories-old-phone-xxs-photography-for-2024/"><u>Fond Memories Old Phone Xx's Photography for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fullvejledning-til-nytestegrepene-i-obs-virtual-camera-2024-en-kompleks-guide/"><u>Fullvejledning Til Nytestegrepene I OBS Virtual Camera 2024: En Kompleks Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/scarica-converti-ritratto-orf-su-jpg-senza-costi-con-moviesnap/"><u>Scarica Converti Ritratto Orf Su JPG Senza Costi Con MovieSnap</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-dilemma-why-does-palworld-keep-freezing-on-my-computer/"><u>Solving the Dilemma: Why Does PalWorld Keep Freezing on My Computer?</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/the-legacy-of-deng-xiaoping-key-political-social-and-economic-changes-in-1980s-china-yl-computing-insights/"><u>The Legacy of Deng Xiaoping: Key Political, Social, and Economic Changes in 1980S China - YL Computing Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tiff-and-jpegmovavi/"><u>TIFF & JPEG間容易変換ツール：Movaviで手軽にお使い可能無料版</u></a></li>
+</ul></div>
 

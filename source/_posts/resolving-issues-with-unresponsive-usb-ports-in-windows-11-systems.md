@@ -1,7 +1,7 @@
 ---
 title: Resolving Issues with Unresponsive USB Ports in Windows 11 Systems
-date: 2024-09-05T10:00:15.920Z
-updated: 2024-09-06T10:00:15.920Z
+date: 2025-01-03T00:49:53.662Z
+updated: 2025-01-07T04:12:11.198Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Resolving Issues with Unresponsive USB Ports in 
 thumbnail: https://thmb.techidaily.com/105583134b01cefeafa4fc25f0d100c3206487cae2d19190125a50a9ecf80d6e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mastering USB Recognition Issues in Windows 11: No More Port Reset Failures
 
  If you get **Unknown USB Device (Port Reset Failed)** error in Device Manager, your USB device most probably won’t be recognized by your PC. The error could be caused by different issues. Here you will learn the top solutions to fix the problem. Try the solutions and one must work for you.
@@ -53,12 +47,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5800917567e49.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2\. Select**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba30bb3336f.png)
@@ -71,22 +59,10 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba312822f8b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then Windows will update the driver software for the device. If it is done successfully, a window will pop up like this.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba314393778.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5\. Repeat the steps above to update driver software for every Generic USB Hub until the problem is resolved.
 
  If the problem persists, go to your PC manufacturer’s website to download the latest USB driver according to the PC model and the operating system that you are using.
@@ -97,12 +73,6 @@ You can use [Driver Easy](https://tools.techidaily.com/drivereasy/download/)  as
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  **5\. Change Power Management Setting**
 
  The Power Management would also be the reason causing the USB problem. Windows is set to shut down your USB controller to save power by default, sometimes it won’t be able to power it back up. So try following steps to prevent Windows from “managing” power to your USB controller or the devices.
@@ -114,12 +84,6 @@ Follow below steps.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba31da19f02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2\. Turn off the **Allow the computer to turn off this device to save power** option, and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba31b753d11.png)
@@ -130,8 +94,6 @@ Follow below steps.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +101,25 @@ Follow below steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-record-twitch-stream-5-solutions/"><u>[Updated] In 2024, Record Twitch Stream [5 Solutions]</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-is-a-brief-subscribe-beneficial-for-content-consumption-in-2024/"><u>[Updated] Is a Brief Subscribe Beneficial for Content Consumption, In 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/asfmp3movavi/"><u>免费在线将ASF文件转换为MP3:遵循Movavi指南</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-conversion-from-avi-to-gif-your-fast-free-online-solution/"><u>Effortless Conversion From AVI to Gif - Your Fast, Free Online Solution!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Oppo A79 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-optimize-single-browsing-seamless-multiclip-engagement/"><u>In 2024, Optimize Single Browsing Seamless Multiclip Engagement</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-unveiling-virtual-worlds-metaverse-versus-omniverse-explained/"><u>In 2024, Unveiling Virtual Worlds Metaverse Versus Omniverse Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726219869407-movavi-vob/"><u>Movavi 모비딩 투 VOB - 원탁 간단한 방법: 웹 안에서 무용화할 수 있습니다</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-nokia-c22-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/skyrocket-traffic-with-the-top-12-youtube-growth-methods-for-2024/"><u>Skyrocket Traffic with the Top 12 YouTube Growth Methods for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/top-tweets-review-the-full-year-in-videos-for-2024/"><u>Top Tweets Review The Full Year in Videos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformez-vos-fichiers-m4a-en-versions-gratuites-et-optimisees-avec-des-formats-ogg-tapezz/"><u>Transformez Vos Fichiers M4A en Versions Gratuites Et Optimisées Avec Des Formats Ogg - Tapezz</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformez-votre-fichier-mp4-en-m4p-facilement-et-sans-frais-avec-movavicom/"><u>Transformez Votre Fichier MP4 en M4P Facilement Et Sans Frais Avec Movavi.com</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726223692838-mpeg-movavi/"><u>オンラインで無料MPEGフォーマットの変換: Movavi解決策</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

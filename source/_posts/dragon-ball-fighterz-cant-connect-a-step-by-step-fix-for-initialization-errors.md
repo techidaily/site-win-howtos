@@ -1,7 +1,7 @@
 ---
 title: "Dragon Ball FighterZ Can't Connect: A Step-by-Step Fix for Initialization Errors"
-date: 2024-12-26T07:07:19.091Z
-updated: 2024-12-27T19:53:00.945Z
+date: 2024-12-31T22:00:55.514Z
+updated: 2025-01-07T04:27:45.434Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 
  Note: All the screenshots below come from Windows 10, but the fixes also work on Windows 7 & Windows 8.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1\. Reinstall your printer
 
  You can fix the**Print driver host for 323bit applications has stopped working** error by reinstalling the printer in your computer, and this helps you reconnect to the printer service. To do so, follow the steps below:
@@ -51,13 +55,13 @@ You should first uninstall the printer from your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae155061b9aa.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the**Printers** section, right click on your**printer** , and select**Remove device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae155dae8d27.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)**Confirm** to delete the printer.
 
@@ -72,7 +76,7 @@ Now you should reinstall your printer to your computer.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae155061b9aa.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Add a printer** in the menu bar.
@@ -85,6 +89,10 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16cce058a8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Your computer will automatically connect to your printer and install it in your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16d03d720a.png)
@@ -93,19 +101,11 @@ Now you should reinstall your printer to your computer.
 
  This should resolve the issue. If not, we have something else you can try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2\. Reinstall your printer driver
 
  You can also uninstall your printer driver and reinstall it to fix the error. To do so, follow the instructions below:
 
  1) On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Type**devmgmt.msc** and click**OK** .
 
@@ -118,6 +118,10 @@ Now you should reinstall your printer to your computer.
  4) Check the box next to**Delete the driver software for this device** if you’re prompted, and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae17154337fb.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) After uninstalling, restart your computer and Windows will reinstall the printer driver for you.
 
@@ -144,7 +148,7 @@ Now you should reinstall your printer to your computer.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd74d18191.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**   button next to the flagged printer device to automatically download the latest driver (you can do this with the **FREE**   version), then install it in your computer.
@@ -152,10 +156,6 @@ Now you should reinstall your printer to your computer.
  Or click **Update**  **All**   to automatically download and install the all the latest correct drivers that is missing or outdated in your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click _**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae1720acdb02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer, and try your printer to see if the error disappears.
 
@@ -178,24 +178,14 @@ Now you should reinstall your printer to your computer.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-profitability-probe-dailymovement-versus-youtubes-financial-edge/"><u>[New] In 2024, Profitability Probe DailyMovement Versus YouTube's Financial Edge</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-ultimate-wmm-tutorial-for-aspiring-animators/"><u>[New] In 2024, The Ultimate WMM Tutorial for Aspiring Animators</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/actical-tagging-for-towering-youtube-traction/"><u>[New] Tactical Tagging for Towering YouTube Traction</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pubg-journey-to-stability-dxgidll-restored/"><u>[PUBG] Journey to Stability - Dxgi.dll Restored</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-dive-into-group-chats-joining-zoom-meetings-on-phone-for-2024/"><u>[Updated] Dive Into Group Chats Joining Zoom Meetings on Phone for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-for-entrepreneurs-how-to-register-as-a-biz-page/"><u>[Updated] In 2024, Instagram for Entrepreneurs How to Register as a Biz Page</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/5-key-methods-to-optimize-your-pc-tackling-desktop-window-manager-gpu-overuse-on-windows-systems/"><u>5 Key Methods to Optimize Your PC: Tackling Desktop Window Manager GPU Overuse on Windows Systems</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/50-top-tier-virtual-bgms-for-zoomgoogle/"><u>50 Top-Tier Virtual BGMs for Zoom/Google</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cursor-continuous-display-troubles-learn-how-to-fix-it-now/"><u>Cursor Continuous Display Troubles? Learn How to Fix It Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-error-messages-on-windows-11-startup/"><u>Fixing Error Messages on Windows 11 Startup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-malfunctioning-function-keys-for-optimal-usage/"><u>How to Fix Malfunctioning Function Keys for Optimal Usage</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-enhancing-watchability-adding-time-stamps-to-youtube-videos/"><u>In 2024, Enhancing Watchability Adding Time Stamps to YouTube Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-art-of-repairing-windows-11-and-10-os-errors-by-correcting-system-files/"><u>Master the Art of Repairing Windows 11 & 10 OS Errors by Correcting System Files</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205768526-resolved-miracast-issues-with-graphics-driver-now-compatible/"><u>Resolved Miracast Issues with Graphics Driver - Now Compatible!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-application-failed-to-load-properly-error-code-0xc000007b/"><u>Resolved: Fixing the 'Application Failed to Load Properly' Error Code 0xC000007B</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unblocking-your-journey-fixing-failed-discord-installation-on-pc/"><u>Unblocking Your Journey: Fixing Failed Discord Installation on PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlocking-access-to-your-start-menu-on-windows-10-made-easy/"><u>Unlocking Access to Your Start Menu on Windows 10 Made Easy</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-tiktok-video-aspect-ratios/"><u>[New] 2024 Approved TikTok Video Aspect Ratios</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-perfect-6-apps-for-private-android-video-capturing/"><u>[Updated] Perfect 6 Apps for Private Android Video Capturing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/disney-pluss-most-popular-movie-selection-for-now/"><u>Disney Plus's Most Popular Movie Selection for Now</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-guide-to-understanding-the-enhanced-features-of-the-2018-kindle-paperwhite/"><u>Expert Guide to Understanding the Enhanced Features of the 2018 Kindle Paperwhite</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-connection-problems-with-your-pcs-built-in-anti-phishing-system/"><u>How to Resolve Connection Problems With Your PC's Built-In Anti-Phishing System</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-7-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 7 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/immediate-solutions-for-quick-fixes-on-no-battery-errors-displayed/"><u>Immediate Solutions for Quick Fixes on 'No Battery' Errors Displayed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-fixes-combatting-elevated-cpu-drain-by-wudfhostexe-on-windows-10-systems/"><u>Master the Fixes: Combatting Elevated CPU Drain by WUDFHost.exe on Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/renderer-initialization-error-solved-overcoming-the-hurdles-of-updating/"><u>Renderer Initialization Error Solved: Overcoming the Hurdles of Updating</u></a></li>
 </ul></div>
 

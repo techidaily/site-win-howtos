@@ -1,7 +1,7 @@
 ---
 title: How To Fix A Non-Responsive Synaptics Touchpad When Scrolling on Windows 11
-date: 2024-12-22T08:04:36.797Z
-updated: 2024-12-27T18:55:15.689Z
+date: 2025-01-05T17:55:29.388Z
+updated: 2025-01-06T20:27:59.505Z
 tags:
   - win11
   - win10
@@ -26,13 +26,13 @@ thumbnail: https://thmb.techidaily.com/079f54d22d3743bae1a3750a1c4c3f2c075ed5c93
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f339adae6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Both fixes below work in Windows 10, 8 and 7.
 
@@ -41,10 +41,6 @@ Both fixes below work in Windows 10, 8 and 7.
 1. [**Enable touchpad in settings**](#F1)
 2. [**Update your touchpad driver**](#F2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Enable touchpad in settings
 
  You laptop-mouse-pad-not-responding issue sometimes happens only because you’ve disabled it unknowingly. To turn it back on:
@@ -52,11 +48,11 @@ Both fixes below work in Windows 10, 8 and 7.
 1. On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **main.cpl** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
 
-2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
 
  Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
 3. Hopefully this turns your touchpad back on and it works propely again. If the problem persists, try**Fix 2** .
@@ -64,7 +60,7 @@ Both fixes below work in Windows 10, 8 and 7.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your touchpad driver
@@ -88,7 +84,11 @@ Both fixes below work in Windows 10, 8 and 7.
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3df9ad3f86c.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Check and see if your Lenovo touchpad is back to life again. ?
@@ -118,20 +118,22 @@ Both fixes below work in Windows 10, 8 and 7.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-smart-solutions-iphone-content-to-computer/"><u>2024 Approved Smart Solutions IPhone Content to Computer</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/a-complete-blueprint-for-effortless-recording-of-live-hulu-on-various-systems/"><u>A Complete Blueprint for Effortless Recording of Live Hulu on Various Systems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/best-of-breed-the-comprehensive-analysis-of-furbos-highest-ranking-dog-camera/"><u>Best of Breed: The Comprehensive Analysis of Furbo’s Highest Ranking Dog Camera</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-fixing-windows-device-malfunctions-caused-by-driver-power-failures/"><u>Effective Solutions for Fixing Windows Device Malfunctions Caused by Driver Power Failures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/immediate-remedies-to-restore-sound-in-your-favorite-steam-games-hassle-free/"><u>Immediate Remedies to Restore Sound in Your Favorite Steam Games | HASSLE-FREE</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-gaming-filmmaking-techniques-to-record-games-flawlessly/"><u>In 2024, Gaming Filmmaking Techniques to Record Games Flawlessly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolve-constant-amd-drivers-problems/"><u>Resolve Constant AMD Drivers Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-how-to-restore-functionality-of-your-lenovos-unresponsive-keys/"><u>Solution Guide: How to Restore Functionality of Your Lenovo's Unresponsive Keys</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-strategies-conquering-twitchs-notorious-error-4ntry/"><u>Step-by-Step Strategies: Conquering Twitch's Notorious Error 4Ntry</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-desktop-symbols-on-windows-10-solved/"><u>Troubleshooting Missing Desktop Symbols on Windows 10 [SOLVED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-for-persistent-bluetooth-compatibility-challenges-on-windows-10/"><u>Ultimate Fixes for Persistent Bluetooth Compatibility Challenges on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-fixes-for-total-war-rome-remastered-say-goodbye-to-crashes/"><u>Ultimate Fixes for Total War: Rome Remastered - Say Goodbye to Crashes!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-xr-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone XR Without iTunes in 5 Ways</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-lg-watch-styles-legacy-a-closer-look-at-standard-wear-os-20-features-and-functionality/"><u>Unveiling the LG Watch Style's Legacy: A Closer Look at Standard Wear OS 2.0 Features and Functionality</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitter-gif-mastery-on-your-desktop/"><u>[New] In 2024, Twitter Gif Mastery on Your Desktop</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-elevate-video-production-excellence-with-kinemasters-green-screen-guide/"><u>[Updated] In 2024, Elevate Video Production Excellence with Kinemaster's Green Screen Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-swift-strategies-to-end-windows-10s-unstable-photo-viewing/"><u>2024 Approved Swift Strategies to End Windows 10'S Unstable Photo Viewing</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-90-gt-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/boost-web-analytics-effortlessly-with-the-power-of-cookiebot-technology/"><u>Boost Web Analytics Effortlessly with the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminate-win11-restart-cycles/"><u>Eliminate Win11 Restart Cycles</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-xiaomi-13t-pro-by-drfone-android/"><u>How to Bypass FRP from Xiaomi 13T Pro?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-20-gratis-plus-purchasable-luts-enhance-canon-cams/"><u>In 2024, 20 Gratis + Purchasable LUTs Enhance Canon Cams</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-f23-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo F23 5GFRP Lock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-media-sharing-on-windows-11-solving-common-cast-to-device-errors/"><u>Mastering Media Sharing on Windows 11: Solving Common 'Cast to Device' Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-your-3d-printing-skills-with-chatgpt-a-guide/"><u>Maximizing Your 3D Printing Skills with ChatGPT: A Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-rpc-failures-a-comprehensive-guide/"><u>Resolving RPC Failures: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-high-cpu-error-linked-to-runtime-broker-in-windows-11-systems/"><u>Step-by-Step Fix for High CPU Error Linked to Runtime Broker in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-correct-the-windows-11-crimson-display-glitch/"><u>Troubleshooting Steps to Correct the Windows 11 Crimson Display Glitch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-ethernet-connectivity-problems-in-windows-107/"><u>Troubleshooting Tips: Resolving Ethernet Connectivity Problems in Windows 10/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-1011-screen-2-recognition-fixes/"><u>Windows 10/11 Screen #2 Recognition Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-update-errors-resolved-a-comprehensive-fix-guide/"><u>Windows Update Errors Resolved: A Comprehensive Fix Guide</u></a></li>
 </ul></div>
 

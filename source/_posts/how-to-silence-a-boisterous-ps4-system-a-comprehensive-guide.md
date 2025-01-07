@@ -1,7 +1,7 @@
 ---
 title: "How to Silence a Boisterous PS4 System: A Comprehensive Guide"
-date: 2024-12-23T04:19:16.936Z
-updated: 2024-12-28T08:49:12.103Z
+date: 2025-01-03T18:32:01.169Z
+updated: 2025-01-06T23:38:50.455Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ Sometimes a hard-reset can help you fix some strange problems. A hard-reset of X
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fcebec23ca.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to hard reset your modem
 
 1) Use a pin or pen tip to hold the reset button of your modem for 30 seconds. Note: You should see the power light blinking.
@@ -48,7 +52,7 @@ Sometimes a hard-reset can help you fix some strange problems. A hard-reset of X
 2) Release your hands and wait till the power light is steady. Now try to see if your Xbox One could be connected to Xbox Live.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Change IP settings and DNS settings on Xbox Live
@@ -58,7 +62,7 @@ The IP settings and DNS settings could also have an effect on the connection bet
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd64c60dd4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Click**Network**. Then select**Network settings**on the right pane.
@@ -69,17 +73,9 @@ The IP settings and DNS settings could also have an effect on the connection bet
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd893e389f.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Click**IP settings**and set it to be**Automatic**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd9129d434.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Now it’s back to Advanced settings. This time click**DNS settings**and set it to be**Automatic**.
 
@@ -91,7 +87,15 @@ Now try to connect your Xbox one to Xbox Live.
 
 1) On your keyboard, press the **Windows logo key** +**R**key together to invoke the Run box. 2) Enter**services.msc**in the box and click**OK**.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599f8eede7987.png)3) Scroll down on the open Services window. Find and right click on**Xbox Live Networking Service**. Then select**Properties**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdf18958ed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) On Gerenal pane, set its Startup type to **Automatic** from the drop-down menu. Then click**Apply**\>**OK**to save your settings.
 
@@ -101,16 +105,12 @@ Now try to connect your Xbox one to Xbox Live.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdf2f4ab34.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Go on to do the same settings for**Xbox Live Auth Manager**and**Xbox Live Game Save**via the same steps above. They’re ussually listed closed to Xbox Live Networking Service.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fe022a60ab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Update your network adapter driver and Xbox One controller driver
@@ -120,7 +120,7 @@ Your Xbox One won’t connect to Xbox Live could also being caused by driver iss
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fe3c5e3c1c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Click the **Update**  button next to any flagged driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **Pro** version – you’ll be prompted to upgrade when you click Update All).
@@ -146,24 +146,21 @@ After updating the drivers, please restart your computer to make the new drivers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-secrets-to-producing-visually-appealing-fb-promos/"><u>[New] In 2024, Secrets to Producing Visually Appealing FB Promos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-restore-lost-airdrop-functionality-with-easy-solutions-for-iosmacos/"><u>[New] Restore Lost Airdrop Functionality with Easy Solutions for iOS/macOS</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-sunshine-strategies-to-lighten-up-android-videos/"><u>[Updated] In 2024, Sunshine Strategies to Lighten up Android Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-visualizing-stories-turning-your-favorite-vimeo-into-dynamic-gifs/"><u>[Updated] In 2024, Visualizing Stories Turning Your Favorite Vimeo Into Dynamic GIFs</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-virtual-venue-video-capturer/"><u>[Updated] Virtual Venue Video Capturer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/44cm5yuv55s75pku5b2x5oqa6kgt77ya44gv44gplus44gw44gplus44gq44ki44oz44kw44or44go5b6u6kq5pw05pa55rov44gu44ks44kk44oj44cn/"><u>「動画撮影技術：さまざまなアングルと微調整方法のガイド」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/44cm44ky44o844of44oz44kw44oe44k344oz44gn5a6m55kn44gq44ot44oh44kq57eo6zugic0g5bco5ywl44gx44gf44gp44gq44kl5lik5l2n44os44kz44oh44oz44oj44cn/"><u>「ゲーミングマシンで完璧なビデオ編集 - 導入したくなる上位レコメンド」</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-digestible-vid-info-quick-start/"><u>2024 Approved Digestible Vid Info Quick Start</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029540639-mov-mp4/"><u>高画質保持で MOV から MP4 に完璧に変換するテクニック</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/3g23g2mp4/"><u>最適な3G2フォーマット変換ツールの選び方：3G2ビデオをMP4へ移行する手引き</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/a-beginners-guide-utilizing-the-power-of-freemp4-video-converter-factory/"><u>A Beginner's Guide: Utilizing the Power of FreeMP4 Video Converter Factory</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oppo-a38-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Oppo A38 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/easy-steps-for-acquiring-every-asce-webinar-session-in-video-mp4-and-audio-mp3-formats/"><u>Easy Steps for Acquiring Every ASCE Webinar Session in Video (MP4) & Audio (MP3) Formats</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/inclusive-leadership-through-multilingual-expertise/"><u>Inclusive Leadership Through Multilingual Expertise</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029345412-mpcmpcmp3/"><u>MPCが何か？免責金のないMPCファイルをMP3へ自由に変更する手順</u></a></li>
-<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726027670980-webex/"><u>Webex会議中にメモリーカードで音声記録ができる方法</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726030550739-windowsmac/"><u>Windows・Macで動画からスチールショットを抽出する専門的なガイド</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/44ov44oz44oa44ov44kp44od44kv44k557ep5zci5oof5acx44od44o844k44or44gl44kj5zwg5zob44ks6lo85ywl44gv5y2x6zm644gq44ge44gn44gz44gl77yf/"><u>ワンダフォックス総合情報ポータルから商品を購入は危険ないですか？</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ring-induced-voice-memo-iphone-24-for-2024/"><u>[New] Ring-Induced Voice Memo - iPhone '24 for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-facebook-photosvideos-the-role-of-watermarks/"><u>[Updated] 2024 Approved Facebook Photos/Videos The Role of Watermarks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-hype-how-to-hike-your-youtube-horde/"><u>[Updated] Harnessing the Hype How to Hike Your Youtube Horde</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-mastering-facebook-8-top-movie-downloader-rankings/"><u>2024 Approved Mastering Facebook #8 Top Movie Downloader Rankings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-camera-not-working-issue-the-complete-guide-error-code-0xa00f4292/"><u>How to Fix Windows Camera Not Working Issue - The Complete Guide (Error Code 0XA00F4292)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-the-blink-effect-on-your-monitor-running-windows-11/"><u>How to Stop the Blink Effect on Your Monitor Running Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/kostenloze-converter-voor-mkv-naar-mp4-online-overigefaseer-met-movavi-tool/"><u>Kostenloze Converter Voor MKV Naar MP4 Online - Overigefaseer Met Movavi Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/legal-ways-to-keep-netflix-content-for-offline-viewing/"><u>Legal Ways to Keep Netflix Content for Offline Viewing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-power-surge-issues-in-network-hub-connections/"><u>Resolving Power Surge Issues in Network Hub Connections</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-signal-loss-in-your-logitech-g930-troubleshooting-tips/"><u>Resolving Signal Loss in Your Logitech G930 - Troubleshooting Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-csgo-game-crashes-in-no-time-simple-troubleshooting-steps/"><u>Solve Your CS:GO Game Crashes in No Time – Simple Troubleshooting Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-why-does-my-mouse-keep-losing-connection/"><u>Step-by-Step Solution: Why Does My Mouse Keep Losing Connection?</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/stunning-dodge-challenger-hd-graphics-and-visuals-perfect-for-pc-wallpapers-by-yl-computing-solutions/"><u>Stunning Dodge Challenger HD Graphics & Visuals Perfect for PC Wallpapers by YL Computing Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-oppo-a18-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Oppo A18 Phones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-error-1053-non-responsive-service-issue/"><u>Troubleshooting Tips: Resolving 'Error 1053' - Non-Responsive Service Issue</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-performance-a-comprehensive-look-at-the-corsair-dominator-platinum-6400-mhz-rgb-led-and-2x16gb-ddr5-ram-modules/"><u>Unveiling Performance: A Comprehensive Look at the Corsair Dominator Platinum - 6400 MHz, RGB LED, and 2X16GB DDR5 RAM Modules</u></a></li>
 </ul></div>
 

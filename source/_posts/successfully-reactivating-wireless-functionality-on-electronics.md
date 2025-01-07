@@ -1,7 +1,7 @@
 ---
 title: Successfully Reactivating Wireless Functionality on Electronics
-date: 2024-12-18T19:16:39.800Z
-updated: 2024-12-22T22:39:19.103Z
+date: 2025-01-05T04:07:25.756Z
+updated: 2025-01-07T04:02:15.423Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/5ee746dbc8ada474503544ca04e806e436db5d410
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these steps
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/5ee746dbc8ada474503544ca04e806e436db5d410
 2. [**Disconnect and reconnect your power cord (for laptop)**](#s2)
 3. [**Check your power management settings**](#s3)
 4. [**Update your USB driver**](#s4)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 1: Use a different USB port
 
@@ -55,6 +55,10 @@ If all your USB ports aren’t working, try Step 2, below.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3: Check your power management settings
 
  It’s also possible that Windows switches off your USB controllers when they’re not in use to save power, and “forgets” to switch them on when they’re needed. You can take these steps to have a check:
@@ -64,18 +68,14 @@ If all your USB ports aren’t working, try Step 2, below.
 **![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be166620610a.png)**
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
 5. Click the**Power Management** tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
@@ -84,10 +84,6 @@ If all your USB ports aren’t working, try Step 2, below.
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
 
 8. Check if your USB port works properly now. If not, try Step 4, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 4: Update your USB driver
 
@@ -109,11 +105,15 @@ or
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f53e08f3.jpg)
 4. Restart your computer and check if your USB port now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -136,22 +136,16 @@ or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-most-economical-tools-for-youtube-audio-conversion-for-2024/"><u>[Updated] The Most Economical Tools for YouTube Audio Conversion for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-above-average-cloud-service-selections/"><u>2024 Approved Above-Average Cloud Service Selections</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-the-ultimate-hash-playbook-for-video-gamers-on-youtube/"><u>2024 Approved The Ultimate Hash Playbook for Video Gamers on YouTube</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-the-blank-fixing-the-common-black-screen-error-in-obs/"><u>Beat The Blank: Fixing the Common Black Screen Error in OBS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-replacing-the-lost-msvcr110dll-file/"><u>Comprehensive Guide to Replacing the Lost MSVCR110.dll File</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ce-your-profile-with-free-imagery/"><u>Enhance Your Profile with Free Imagery</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-failure-of-touchpad-scrolling-functionality-in-windows-10/"><u>Fixing the Failure of Touchpad Scrolling Functionality in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hassle-free-methods-to-fix-windows-update-error-identified-by-0x80070n52/"><u>Hassle-Free Methods to Fix Windows Update Error - Identified by 0X80070n52</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-common-problems-with-the-hp-laptop-touchpad-not-responding-correctly/"><u>Overcoming Common Problems with the HP Laptop Touchpad Not Responding Correctly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/shadows-lifted-direct-x-error-exposed-and-eliminated-from-lol/"><u>Shadows Lifted: Direct X Error Exposed & Eliminated From LoL</u></a></li>
-<li><a href="https://fox-links.techidaily.com/sonic-artistry-and-video-prowess-in-sonys-xperia-xz-for-2024/"><u>Sonic Artistry and Video Prowess in Sony's Xperia XZ for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-resolving-error-0x80070091-during-windows-10-system-restore/"><u>Step-by-Step Guide: Resolving Error 0X80070091 During Windows 10 System Restore</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-evolution-and-function-of-modern-vr-helmets-for-2024/"><u>The Evolution and Function of Modern VR Helmets for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-5-cloud-giants-unlimited-capacity-showdown-for-2024/"><u>Top 5 Cloud Giants Unlimited Capacity Showdown for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-audio-problems-how-to-repair-your-pcs-mic-in-windows-11/"><u>Troubleshooting Audio Problems: How to Repair Your PC's Mic in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-your-corsair-keyboard-wont-respond/"><u>Troubleshooting Steps When Your Corsair Keyboard Won't Respond</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-secrets-of-gpt-3-expert-strategies-for-openai-platform-use/"><u>Unveiling the Secrets of GPT-3: Expert Strategies for OpenAI Platform Use</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-sifting-through-centuries-online-unlicensed-treasures-for-2024/"><u>[Updated] Sifting Through Centuries Online Unlicensed Treasures for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fix-for-error-0x80072f8f-windows-1110-edition/"><u>Comprehensive Fix for Error 0X80072F8F: Windows 11/10 Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-to-resolve-the-event-id-1000-issue-in-windows-versions-7-8-and-10/"><u>Expert Solutions to Resolve the 'Event ID 1000' Issue in Windows Versions 7, 8 & 10</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Realme GT 5 (240W)? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-mouse-dpi-for-competitive-first-person-shooters/"><u>Ideal Mouse DPI For Competitive First-Person Shooters</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-optimal-visuals-for-effective-pre-and-post-call-teams-conversations/"><u>In 2024, Optimal Visuals for Effective Pre & Post-Call Teams Conversations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-night-light-not-working-glitches-effective-fixes-for-windows-10-and-11/"><u>Overcoming 'Night Light' Not Working Glitches: Effective Fixes for Windows 10 and 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-missing-link-finding-your-way-onto-facebook-marketplace/"><u>The Missing Link: Finding Your Way Onto Facebook Marketplace</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/transform-your-virtual-presence-with-google-meets-effects-features-for-2024/"><u>Transform Your Virtual Presence with Google Meet's Effects Features for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-with-your-dells-fn-keys-heres-how-to-fix-them/"><u>Trouble with Your Dell's FN Keys? Here’s How to Fix Them!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-device-not-found-error-codes-on-windows-1087/"><u>Troubleshooting Device Not Found Error Codes on Windows 10/8/7</u></a></li>
 </ul></div>
 

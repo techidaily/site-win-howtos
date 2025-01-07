@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: Making Windows Hello Work with Your Unsupported Windows 10 Device"
-date: 2024-12-27T09:54:52.631Z
-updated: 2024-12-28T01:57:00.171Z
+date: 2025-01-06T02:40:18.192Z
+updated: 2025-01-06T17:07:54.692Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure the network sharing feature is enabled on your computer
 
  The Cast to Device feature requires the**network sharing** feature turned on your computer. See how to check if you turn on the network sharing feature on your computer:
@@ -49,16 +53,12 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Reset the Stream Permissions on your Windows 10 computer
 
@@ -66,24 +66,20 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Click **OK** .  
 
@@ -94,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 9. Try the Cast to Device feature again to see if it succeeds.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your network card driver
 
@@ -112,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 4. Reboot your Windows 10.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
@@ -138,24 +138,21 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-advanced-movie-file-management-six-tips-for-the-modern-user-in-windows-11/"><u>[New] Advanced Movie File Management - Six Tips for the Modern User in Windows 11</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-pro-action-recorder-guide-top-15-camcorder-list/"><u>[Updated] In 2024, Pro Action Recorder Guide Top 15 Camcorder List</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-tech-whizs-playbook-how-to-nail-screen-recording-on-macos-for-2024/"><u>[Updated] The Tech Whiz's Playbook How to Nail Screen Recording on macOS for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trpmp4trp/"><u>【TRPファイル圧縮】MP4及び他の形式に対応したTRP動画変換ソリューション</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1-easy-guide-exploring-the-internet-via-kodi-top-2-methods/"><u>1. Easy Guide: Exploring the Internet via Kodi - Top 2 Methods</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-samsung-galaxy-z-fold-5-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Samsung Galaxy Z Fold 5 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-8-dvd/"><u>詳しく学ぶ： Windows 8 における DVD 再生テクニック、代替ルートを発見！</u></a></li>
-<li><a href="https://fox-http.techidaily.com/ai-enhanced-naming-mastery-for-podcast-creatives/"><u>AI-Enhanced Naming Mastery for Podcast Creatives</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726027562526-audacity/"><u>Audacityの使用:音声ファイルを編集し切り詰める手順</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnosing-and-solving-freezing-issues-in-path-of-exile/"><u>Diagnosing and Solving Freezing Issues in Path of Exile</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-art-ranked-top-17-graphics-editors-and-programs/"><u>Mastering Art: Ranked Top 17 Graphics Editors and Programs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/quickening-realities-with-hyperlapse-methods-for-2024/"><u>Quickening Realities with Hyperlapse Methods for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/superior-video-compression-with-h265-encoding-shrink-file-size-boost-clarity/"><u>Superior Video Compression with H.265 Encoding: Shrink File Size, Boost Clarity!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-next-step-in-smart-living-discover-how-apple-envisions-your-personal-home-robot-assistant-zdnet/"><u>The Next Step in Smart Living: Discover How Apple Envisions Your Personal Home Robot Assistant | ZDNet</u></a></li>
-<li><a href="https://win-special.techidaily.com/top-6-it-alternativen-zu-itunes-fur-mac-und-pc-entdecken-sie-ihre-neuen-lieblings-musikplayer/"><u>Top 6 IT-Alternativen Zu iTunes Für Mac Und PC - Entdecken Sie Ihre Neuen Lieblings-Musikplayer!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transforming-flv-files-into-mp4-format-a-step-by-step-guide-for-windows-10-and-11-users/"><u>Transforming FLV Files Into MP4 Format: A Step-by-Step Guide for Windows 10 and 11 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/triad-of-fixes-overcoming-mkv-streaming-hurdles-on-apple-tv/"><u>Triad of Fixes: Overcoming MKV Streaming Hurdles on Apple TV</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-tutorial-for-installing-fen-video-addon-in-kodi-optimized-for-nexus-and-matrix-systems/"><u>Ultimate Tutorial for Installing Fen Video Addon in Kodi – Optimized for Nexus & Matrix Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/youtube-youtube-video-download-tutorial/"><u>YouTube動画のダウンロード手順を学ぶ - YouTube Video Download Tutorial</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-top-10-editing-skills-every-new-youtuber-must-know/"><u>[New] In 2024, Top 10 Editing Skills Every New YouTuber Must Know</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-persuasive-visuals-uncover-the-power-in-6-video-types-for-2024/"><u>[New] Persuasive Visuals Uncover the Power in 6 Video Types for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-navigate-the-1080p-landscape-for-better-fb-broadcasts/"><u>[Updated] 2024 Approved Navigate the 1080P Landscape for Better FB Broadcasts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-optimal-low-cost-screen-recording-options-for-chromebook-for-2024/"><u>[Updated] Optimal Low-Cost Screen Recording Options for Chromebook for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-ethernet-malfunctions-on-your-windows-laptop-or-desktop/"><u>Easy Fixes for Ethernet Malfunctions on Your Windows Laptop or Desktop</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/narrative-excellence-through-ai-chatgpts-six-pathways/"><u>Narrative Excellence Through AI, ChatGPT's Six Pathways</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-of-sony-vegas-alternatives-for-windows-users-for-2024/"><u>New The Ultimate List of Sony Vegas Alternatives for Windows Users for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-interruptions-the-ultimate-fixes-for-kodis-buffering-glitches/"><u>No More Interruptions: The Ultimate Fixes for Kodi's Buffering Glitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-file-explorer-challenges-and-boost-productivity-on-windows-11/"><u>Overcome File Explorer Challenges and Boost Productivity on Windows 11</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/proven-strategies-to-skyrocket-your-fb-search-results-rankings/"><u>Proven Strategies to Skyrocket Your FB Search Results Rankings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-for-initializing-new-world-with-easy-anti-cheat-feature-active/"><u>Solution Found for Initializing New World with Easy Anti-Cheat Feature Active</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-strategies-for-tackling-windows-camera-errors/"><u>Swift Strategies for Tackling Windows Camera Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-solution-to-the-vanishing-mouse-pointer-problem-in-windows-10/"><u>The Ultimate Solution to the Vanishing Mouse Pointer Problem in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-solving-the-0x80070426-issue-on-windows-10/"><u>Understanding and Solving the 0X80070426 Issue on Windows 10</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-the-truth-understanding-false-virus-warnings-and-top-5-strategies-to-prevent-them/"><u>Unveiling the Truth: Understanding False Virus Warnings & Top 5 Strategies to Prevent Them</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-users-guide-troubleshoot-and-optimize-using-system-refreshreset-features/"><u>Windows 11 Users' Guide: Troubleshoot and Optimize Using System Refresh/Reset Features</u></a></li>
 </ul></div>
 

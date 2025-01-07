@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Chrome Plugin Failures: A Guide for Windows 11 Operating System"
-date: 2024-12-24T14:36:01.275Z
-updated: 2024-12-28T15:17:00.882Z
+date: 2025-01-01T17:52:11.211Z
+updated: 2025-01-06T22:19:29.870Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
@@ -64,7 +68,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
@@ -74,7 +78,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
@@ -83,7 +87,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
@@ -97,12 +101,12 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -112,6 +116,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -120,16 +128,8 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
@@ -154,18 +154,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-masterful-mixers-free-lut-compendium/"><u>[New] Masterful Mixers' Free LUT Compendium</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-from-airwaves-to-archives-online-recording-strategies-for-tv-shows-for-2024/"><u>[Updated] From Airwaves to Archives Online Recording Strategies for TV Shows for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/3-top-rated-gif-to-jpgjpeg-converter-software-reviews/"><u>3 Top-Rated GIF to JPG/JPEG Converter Software Reviews</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/5pya5paw44gu44ot44oh44kq57eo6zug44k944ov44oi44km44kn44kiic0g6kal44gf55uu44go5yaf5a655lih5pa544gn5asj5pu05yplusv6io9/"><u>最新のビデオ編集ソフトウェア - 見た目と内容両方で変更可能</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/best-7-free-mkv-players-enjoy-watching-mkv-files-on-any-device/"><u>Best 7 Free MKV Players: Enjoy Watching MKV Files on Any Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/best-video-format-transcoder-convert-dvds-to-avi-on-windows-1011-as-of-2024/"><u>Best Video Format Transcoder: Convert DVDs to AVI on Windows 10/11 as of 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/choosing-the-best-media-converter-handbrake-vs-makemkv-for-optimal-blu-ray-and-dvd-backups/"><u>Choosing the Best Media Converter: Handbrake Vs. MakeMKV for Optimal Blu-Ray & DVD Backups</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comparing-mov-and-mp4-file-formats-understanding-key-distinctions/"><u>Comparing MOV and MP4 File Formats: Understanding Key Distinctions</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-breakdown-the-top-features-and-capabilities-of-the-dell-xps-13-convertible-laptop/"><u>Comprehensive Breakdown: The Top Features & Capabilities of the Dell XPS 13 Convertible Laptop</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-x-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone X to SIM? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-honor-90-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Honor 90 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-infinix-smart-8-pro-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Infinix Smart 8 Pro Screen | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/manipulate-your-search-and-highlight-settings-in-windows-11/"><u>Manipulate Your Search & Highlight Settings in Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-often-can-creators-expect-to-be-paid-by-youtube-for-2024/"><u>[New] How Often Can Creators Expect to Be Paid by YouTube for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-perfect-timing-for-on-screen-dialogue-in-your-youtube-productions/"><u>[Updated] 2024 Approved Perfect Timing for On-Screen Dialogue in Your YouTube Productions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-close-up-confidence-navigating-google-meets-zoom-feature/"><u>[Updated] In 2024, Close-Up Confidence Navigating Google Meet's Zoom Feature</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/bridge-the-gap-youtube-tweet-functionality-for-2024/"><u>Bridge the Gap YouTube Tweet Functionality for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-screen-flicker-issues-on-windows-11-a-comprehensive-guide/"><u>Fixing Screen Flicker Issues on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-unlock-a-password-protected-system-drive-on-windows-10/"><u>How to Unlock a Password-Protected System Drive on Windows 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-conquer-online-video-platforms-zooming-into-youtube-and-fb-lives/"><u>In 2024, Conquer Online Video Platforms Zooming Into YouTube & FB Lives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-camera-not-supported-on-windows-error-code-0xa00f4292-guide/"><u>Resolving 'Camera Not Supported' On Windows - Error Code 0xA00F4292 Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/sims-4-loading-woes-heres-how-you-can-fix-it/"><u>Sims 4 Loading Woes? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-google-pixel-8-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Google Pixel 8 Device Top 5 Picks to Remove Android Locks</u></a></li>
 </ul></div>
 

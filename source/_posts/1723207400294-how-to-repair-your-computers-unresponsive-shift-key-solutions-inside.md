@@ -1,7 +1,7 @@
 ---
 title: How to Repair Your Computer's Unresponsive Shift Key - Solutions Inside
-date: 2024-12-25T07:07:32.839Z
-updated: 2024-12-28T07:30:25.655Z
+date: 2025-01-04T19:51:11.374Z
+updated: 2025-01-06T16:59:25.722Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix Shift key not working?
@@ -51,10 +51,6 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -65,16 +61,12 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
@@ -91,12 +83,16 @@ Follow these:
 
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
@@ -116,6 +112,10 @@ Follow these:
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers. Your keyboard driver is no exception.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
@@ -142,24 +142,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-hacking-the-meme-game-master-kinemaster-skills/"><u>[New] 2024 Approved Hacking the Meme Game Master KineMaster Skills</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-master-the-art-of-canvas-with-these-top-10-secrets/"><u>[New] Master the Art of Canvas with These Top 10 Secrets</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-what-is-vimeo-a-peek-at-innovative-content-sharing/"><u>[Updated] What Is Vimeo? A Peek at Innovative Content Sharing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-powerdirector-24-review-a-comprehensive-dive/"><u>2024 Approved The Ultimate PowerDirector '24 Review A Comprehensive Dive</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/designing-revolutionary-conversations-via-gpt-crafted-chatgpts/"><u>Designing Revolutionary Conversations via GPT-Crafted ChatGPTs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eliminating-the-fatal-error-bug-from-your-halo-4-ue4-experience/"><u>Eliminating the 'Fatal Error' Bug From Your Halo 4 UE4 Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-tips-to-stop-crusader-kings-3-from-crashing-on-your-desktop/"><u>Expert Tips to Stop Crusader Kings 3 From Crashing on Your Desktop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208022699-how-i-fixed-my-non-booting-pc-after-a-windows-10-update-learn-the-easy-methods/"><u>How I Fixed My Non-Booting PC After a Windows 10 Update – Learn the Easy Methods</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-oppo-a79-5g-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Oppo A79 5G.</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-the-entrepreneurs-handbook-quick-channel-creation-on-the-go-with-mobile-devices/"><u>In 2024, The Entrepreneur's Handbook Quick Channel Creation on the Go with Mobile Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/proven-remedies-and-advice-for-resolving-ps4-headset-connection-failures/"><u>Proven Remedies and Advice for Resolving PS4 Headset Connection Failures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fix-guide-for-windows-11-update-error-code-0x8024401c/"><u>Resolved: Fix Guide for Windows 11 Update Error Code 0X8024401C</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-icue-no-device-found-error-with-easy-troubleshooting-steps/"><u>Resolving the 'ICUE - No Device Found' Error with Easy Troubleshooting Steps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/scheduling-zoom-conferences-for-android-users/"><u>Scheduling Zoom Conferences for Android Users</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/screen-lock-ups-and-their-origins-expert-advice-from-yl-software-solutions/"><u>Screen Lock-Ups and Their Origins: Expert Advice From YL Software Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-when-your-dell-device-ignores-the-usb/"><u>Step-by-Step Solutions for When Your Dell Device Ignores the USB</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fixes-for-monitor-errors-without-video-output/"><u>The Ultimate Fixes for Monitor Errors Without Video Output</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcoming-application-startup-failure-error-code-0xc000007b/"><u>Troubleshooting Guide: Overcoming Application Startup Failure (Error Code 0XC000007B)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-your-intermittent-mouse-connection-woes/"><u>Ultimate Guide: Solving Your Intermittent Mouse Connection Woes</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-conciseness-in-content-editing-your-youtube-videos-smartly/"><u>[Updated] Conciseness in Content Editing Your YouTube Videos Smartly</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-from-frame-to-story-vertical-video-editing-guide-for-fcpx-users-on-insta/"><u>[Updated] In 2024, From Frame to Story Vertical Video Editing Guide for FCPX Users on Insta</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-insights-on-gopro-hero5-adventure-series/"><u>[Updated] Insights on GoPro Hero5 Adventure Series</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-ppt-recording-process-explained/"><u>[Updated] The Ultimate PPT Recording Process Explained</u></a></li>
+<li><a href="https://fox-access.techidaily.com/best-cutting-edge-tools-for-intro-edits-on-devices/"><u>Best Cutting-Edge Tools for Intro Edits on Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-connectivity-fixes-for-device-recognition-in-windows-11-systems/"><u>Bluetooth Connectivity Fixes for Device Recognition in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/defeat-error-code-80240020-once-and-for-all-a-practical-guide-for-windows-11-users/"><u>Defeat Error Code 80240020 Once and For All - A Practical Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-correcting-windows-update-error-0x8024401c-on-win1011-platforms/"><u>Effective Solutions for Correcting Windows Update Error 0X802#4401c on Win10/11 Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restart-your-personalized-preferences-when-they-freeze/"><u>How to Restart Your Personalized Preferences When They Freeze</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-the-clouds-of-video-editing-best-drones-tools-ranked/"><u>Navigating the Clouds of Video Editing Best Drones Tools Ranked</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-mordhau-stalling-issues-with-these-proven-fix-techniques/"><u>Overcome Mordhau Stalling Issues with These Proven Fix Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-installation-barriers-deal-with-access-denied-for-printer-drivers/"><u>Overcoming Installation Barriers: Deal with 'Access Denied' For Printer Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steams-content-hosting-services-now-reachable-solutions-explored/"><u>Steam's Content Hosting Services Now Reachable - Solutions Explored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211632657-step-by-step-guide-fixing-broken-or-uncooperative-keys-on-your-hp-laptop-easily/"><u>Step-by-Step Guide: Fixing Broken or Uncooperative Keys on Your HP Laptop Easily!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-fcpx-xml-essentials-from-basics-to-advanced-techniques/"><u>Updated FCPX XML Essentials From Basics to Advanced Techniques</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Non-Functional Laptop Mic: Easy Solutions"
-date: 2024-12-24T19:21:41.650Z
-updated: 2024-12-27T20:12:42.713Z
+date: 2025-01-04T17:20:45.518Z
+updated: 2025-01-06T17:45:21.269Z
 tags:
   - win11
   - win10
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Enable the Windows Management Instrumentation (WMI) Service
@@ -56,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
  3) Right-click on**Windows Management Instrumentation** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap55.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click the**Start** button to start it if it’s not running and set the Startup type to**Automatic** .
 
@@ -89,20 +85,20 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap49.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Move to**Log On** tab, make sure**Local System account** and**Allow service to interact with desktop** box has been checked. Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap50.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Open the**File Explorer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap62.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7) In the address box, type “C:\\Program Files (x86)\\LogMeIn Hamachi”.
@@ -134,6 +130,10 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4: Reinstall LogMeIn Hamachi
 
  The “Hamachi service stopped” error can be caused by inappropriate configuration when you installed Hamachi.  
@@ -144,7 +144,7 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap66.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On the open window, choose to view by**Catalog** , then click**Uninstall a program** .
@@ -152,13 +152,17 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap67-1-1024x593.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click on**LogMeIn Hamachi** and click**Uninstall** .  
  Follow the on-screen instructions to finish the process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap68.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Download the program from LogMeln Hamachi official website.
 
@@ -175,10 +179,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
  1) Click the Windows start button (if you hide the search field), type**notepad** in the search box and click**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap70.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2) Copy and paste below lines into Notepad.
 
@@ -197,6 +197,10 @@ exit
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap71.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) On your keyboard, press the**Windows key** (with Windows logo on it) +**R** together to open the Run box.  
  Type**taskschd.msc** and click**OK** .
 
@@ -206,19 +210,11 @@ exit
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap81.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Under the**General** tab, set a name for the task.  
  Then go down to Security options to check it’s**Run only when the user is logged on** .  
  Third, change the Configure into**Windows 10** . After that, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap77.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  8) Click the**Triggers** tab, and click the**New…** button.
 
@@ -226,6 +222,10 @@ exit
  Then make sure the**Enabled** box is checked. Finally, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap82.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  10) Click the**Actions** tab and click the**New…** button.
 
@@ -254,10 +254,6 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://tools.techidaily.com/drivereasy/download/)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 1 –** **Download and install the driver manually**
 
  You can download drivers from the manufacturer official website. Go to the website to find the correct model and choose your specific flavor of Windows system (Window 10 64-bits or etc.). Then download the driver manually.
@@ -273,6 +269,10 @@ OR
  1)[Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/04/network1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/04/network.jpg)
@@ -298,24 +298,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-achieving-professional-screen-record-quality-on-your-hp-notebook/"><u>[New] In 2024, Achieving Professional Screen Record Quality on Your HP Notebook</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-elite-selection-top-9-free-youtube-channel-branding-apps/"><u>[New] In 2024, Elite Selection Top 9 Free YouTube Channel Branding Apps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-ultimate-list-of-apples-best-photo-watermark-applications/"><u>[New] In 2024, Ultimate List of Apple's Best Photo Watermark Applications</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-srgb-encoding-versus-rgb-basics-for-2024/"><u>[New] Srgb Encoding Versus Rgb Basics for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/audiovisual-alchemy-infusing-your-vimeo-clips-with-soundtracks/"><u>Audiovisual Alchemy Infusing Your Vimeo Clips with Soundtracks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-high-cpu-load-in-windows-fixing-the-desktop-window-manager-glitch-with-5-simple-tricks/"><u>Beat High CPU Load in Windows: Fixing the Desktop Window Manager Glitch with 5 Simple Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-handling-system-error-code-1000-in-windows-os-from-vista-through-10/"><u>Comprehensive Fixes: Handling System Error Code 1000 in Windows OS From Vista Through 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209509763-corsair-hs50-headset-mic-errors-learn-how-to-fix-it-and-restore-sound/"><u>Corsair HS50 Headset Mic Errors? Learn How to Fix It and Restore Sound!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-download-asus-atk0100-acpi-drivers/"><u>How to Download ASUS ATK0100 ACPI Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-frustrating-windows-error-0x800704cf-with-ease/"><u>How to Overcome the Frustrating Windows Error 0X800704CF with Ease</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/in-depth-analysis-of-ipad-pro-m4-versus-macbook-air-which-one-wins-out/"><u>In-Depth Analysis of IPad Pro (M4) Versus MacBook Air: Which One Wins Out?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/laptop-mousepad-not-working-in-windows-1087-solved/"><u>Laptop Mousepad Not Working in Windows 10/8/7 [SOLVED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-persistent-usb-recognition-issues-on-your-computer-step-by-step-guide/"><u>Resolving Persistent USB Recognition Issues on Your Computer – Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restore-missing-taskbar-elements-on-windows-10-essential-guide-to-reappearing-icons-and-tools/"><u>Restore Missing Taskbar Elements on Windows 10 – Essential Guide to Reappearing Icons & Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/simple-tutorial-configuring-adb-for-your-windows-machine/"><u>Simple Tutorial: Configuring ADB for Your Windows Machine</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/spy-on-fb-chronicles-unseen/"><u>Spy on FB Chronicles, Unseen</u></a></li>
-<li><a href="https://ai-video.techidaily.com/toms-tech-review-in-depth-guides-and-gear-insights/"><u>Tom's Tech Review: In-Depth Guides & Gear Insights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205730238-touchpad-not-scrolling-heres-how-to-get-it-working-again/"><u>Touchpad Not Scrolling? Here's How to Get It Working Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-restoring-integrity-of-windows-1011-os-files/"><u>Troubleshooting Tips: Restoring Integrity of Windows 10/11 OS Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-win11-random-restarts/"><u>[RESOLVED] Win11 Random Restarts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-your-wayback-machine-facebooks-story-archives-at-your-service/"><u>[Updated] 2024 Approved Your Wayback Machine Facebook’s Story Archives at Your Service</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audio-alchemy-selecting-melodies-that-enhance-boxings/"><u>[Updated] Audio Alchemy Selecting Melodies that Enhance Boxings</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-top-360-live-streaming-cameras-for-youtube-and-facebook/"><u>2024 Approved Top 360 Live Streaming Cameras for YouTube and Facebook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-correcting-cod-wwii-error-code-4220-quickly/"><u>Expert Advice: Correcting COD WWII Error Code 4220 Quickly</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-superior-samsung-galaxy-s21-ultra-ruling-the-android-market/"><u>Expert Analysis of the Superior Samsung Galaxy S21 Ultra - Ruling the Android Market</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202930208-get-help-with-file-explorer-in-windows-11-easily/"><u>Get Help with File Explorer in Windows 11, Easily</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-lava-yuva-2-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Lava Yuva 2 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restoring-keylight-functionality-on-your-mac-or-windows-device-solutions-explored/"><u>Restoring Keylight Functionality on Your Mac or Windows Device: Solutions Explored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-fixing-login-issues-caused-by-malfunctioning-keyboards/"><u>Solution Found: Fixing Login Issues Caused by Malfunctioning Keyboards</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-ultimate-mobile-moba-collection-best-of-10/"><u>The Ultimate Mobile MOBA Collection Best of 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/update-issues-your-screen-cant-keep-up-with-live-data-entries/"><u>Update Issues: Your Screen Can't Keep Up with Live Data Entries</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-comprehensive-analysis-of-audio-editing-software-sound-forge-edition-for-2024/"><u>Updated Comprehensive Analysis of Audio Editing Software Sound Forge Edition for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Correcting LiveKernelEvent Code 144 Issues
-date: 2024-12-21T02:42:34.647Z
-updated: 2024-12-27T16:26:07.951Z
+date: 2024-12-31T04:14:03.023Z
+updated: 2025-01-06T22:34:50.814Z
 tags:
   - win11
   - win10
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 4. **[Change power management settings for USB Root Hubs](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Do some basic troubleshooting
@@ -45,6 +45,10 @@ To rule out this as a possibility:
 2. Connect your USB devices to a different (and functioning) port to see if it fixes the issue. If yes, then great! If the**USB still keeps disconnecting** , move on to**Fix 2** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your USB drivers
 
@@ -60,9 +64,17 @@ To rule out this as a possibility:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
 
@@ -71,7 +83,7 @@ To rule out this as a possibility:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Turn off USB selective suspend
@@ -91,10 +103,6 @@ To make sure you’ve this setting disabled:
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
 
@@ -116,10 +124,6 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
@@ -127,10 +131,6 @@ To make sure you’ve this setting disabled:
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
@@ -156,14 +156,21 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-assessing-free2x-recording-software-quality/"><u>2024 Approved Assessing Free2X Recording Software Quality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-simplest-route-to-podcast-broadcasts/"><u>2024 Approved The Simplest Route to Podcast Broadcasts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726026703106-720p1080p/"><u>高解像度への移行 - 720Pビデオを1080pにアップコンバートする手順</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726026518358-wonderfox/"><u>現在ある限り、WonderFoxで受けられるオンライン上の専門知識と最新ニュース</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/weband/"><u>最新のWeb動画ダウンロード&保存ツール、無料オンラインリファレンスガイド</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-8-plus-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 8 Plus</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-ultimate-slomo-app-assessment-insights/"><u>In 2024, Ultimate SloMo App Assessment - Insights</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-tecno-camon-20-premier-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Tecno Camon 20 Premier 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/xbox-one-disc-error-troubleshooting-latest-solutions-for-reading-problems-as-of-april-2024/"><u>Xbox One Disc Error Troubleshooting - Latest Solutions for Reading Problems as of April 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/igital-arcade-over-a-hundred-game-channels-for-2024/"><u>[New] Digital Arcade Over a Hundred Game Channels for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-erasing-your-instagram-identity-step-by-step-guidebook/"><u>[Updated] 2024 Approved Erasing Your Instagram Identity Step-by-Step Guidebook</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-guide-for-downloading-and-updating-canon-mg3600-printing-drivers/"><u>Complete Guide for Downloading & Updating Canon MG3600 Printing Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-wd-my-passport-ultra-not-showing-up-on-your-windows-device/"><u>Effective Fixes for WD My Passport Ultra Not Showing Up on Your Windows Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-fixed-unable-to-write-data-to-0x-referenced-location-in-memory/"><u>Error Fixed: Unable to Write Data to 0X Referenced Location in Memory</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-windows-11-touch-screen-working-again-a-guide-to-5-reliable-fixes/"><u>Get Your Windows 11 Touch Screen Working Again: A Guide to 5 Reliable Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-an-issue-when-igfxem-module-stops-functioning/"><u>How To Fix An Issue When iGFXem Module Stops Functioning</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-usb-connections-in-windows-1011/"><u>How to Fix Unresponsive USB Connections in Windows 10/11</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-essential-tips-for-using-instagrams-sound-emojis/"><u>In 2024, Essential Tips for Using Instagram's Sound Emojis</u></a></li>
+<li><a href="https://games-able.techidaily.com/ios-interactivity-choosing-apple-arcade-as-a-key-player/"><u>IOS Interactivity: Choosing Apple Arcade as a Key Player</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-high-risk-problem-in-google-chrome-with-these-effective-steps/"><u>Overcome the High-Risk Problem in Google Chrome with These Effective Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-common-problems-with-unsuccessful-torrent-downloads/"><u>Overcoming Common Problems with Unsuccessful Torrent Downloads</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-t2x-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo T2x 5G Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-best-portable-jump-starters-features-reviews-and-buying-tips-toms-hardware/"><u>Ultimate Guide to the Best Portable Jump Starters : Features, Reviews & Buying Tips | Tom's Hardware</u></a></li>
 </ul></div>
 

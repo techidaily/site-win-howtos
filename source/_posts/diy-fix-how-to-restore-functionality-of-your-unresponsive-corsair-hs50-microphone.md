@@ -1,7 +1,7 @@
 ---
 title: "DIY Fix: How to Restore Functionality of Your Unresponsive Corsair HS50 Microphone"
-date: 2024-12-21T08:13:11.662Z
-updated: 2024-12-28T13:49:06.228Z
+date: 2025-01-05T17:35:27.490Z
+updated: 2025-01-06T20:17:09.598Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix Xbox One Headset Not Working?
 
  This article covers 5 tired-and-true methods for you to try. You may not need to try them all. Just start from the top and work your way down. You Xbox One headset may work fine again.
@@ -35,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 5. [Try using a different controller or headset](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1\. Make sure the headset is not muted
@@ -45,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
  Please check the mute button on the headset adapter or the one in the middle of headset cable. You can try to press the mute button to see if there is sound.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5991543d8fdf2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2\. Update Xbox One controller to make sure you have the latest software
 
@@ -58,6 +66,10 @@ Follow the steps here to update your Xbox One controller software.
  Then type**devmgmt.msc** in the box and click**OKF** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915a7941a9b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2)  
 
@@ -73,7 +85,7 @@ Follow the steps here to update your Xbox One controller software.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915bfa7e24c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now Windows will detect the update for your controller automatically.
@@ -90,21 +102,9 @@ With Pro version: Click **Update All**  to automatically download and install th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915e0fb9762.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 3\. Check your device’s connection
 
  If the connection between your devices, it will also cause the issue. Please check the connection between your headset adapter and the controller, and also the connection between your headset adapter and headset cable. Make sure the connections are firm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 4\. Make sure your controller has fresh batteries
 
@@ -131,16 +131,20 @@ With Pro version: Click **Update All**  to automatically download and install th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-prime-cinematic-creator-a-symphony-of-sights-and-sounds/"><u>[New] 2024 Approved Prime Cinematic Creator A Symphony of Sights & Sounds</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-desktop-recording-head-to-head-obs-vs-shadowplay/"><u>[Updated] In 2024, Desktop Recording Head-to-Head OBS Vs. ShadowPlay</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harnessing-the-power-of-post-production-colors/"><u>2024 Approved Harnessing the Power of Post-Production Colors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bluetooth-dilemma-decoded-restoring-connection-between-your-keyboard-and-pc/"><u>Bluetooth Dilemma Decoded: Restoring Connection Between Your Keyboard & PC</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-youtubes-video-editor-integrating-tracks-into-your-videos/"><u>In 2024, Mastering YouTube's Video Editor Integrating Tracks Into Your Videos</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-lava-blaze-2-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Lava Blaze 2 FRP Bypass</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723203811582-regain-bluetooth-connectivity-in-windows-10-fast-and-straightforward-methods/"><u>Regain Bluetooth Connectivity in Windows 10: Fast & Straightforward Methods</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-crackling-sound-problems-with-speakers-in-windows-operating-systems/"><u>Troubleshooting and Fixing Crackling Sound Problems with Speakers in Windows Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-the-0xc19e0208-error-during-windows-10-updates-tips-and-tricks/"><u>Troubleshooting and Resolving the 0xC19e0208 Error During Windows 10 Updates: Tips & Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-when-your-internet-explorer-isnt-working/"><u>Troubleshooting: When Your Internet Explorer Isn't Working</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-online-seminar-title-crafter-for-2024/"><u>Ultimate Online Seminar Title Crafter for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-10-freepaid-luts-for-canon-camera/"><u>[New] 10 Free/Paid LUTs for Canon Camera</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-12-unparalleled-youtube-gamers-intros-revealed-free-or-fee/"><u>[New] In 2024, 12 Unparalleled YouTube Gamers' Intros Revealed Free or Fee?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-streammastery-101-the-beginners-path-to-livestrancing-podcasts/"><u>[Updated] 2024 Approved StreamMastery 101 The Beginner's Path to Livestrancing Podcasts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-grip-it-right-tips-for-eliminating-jitter-in-action-cam-movies/"><u>2024 Approved Grip It Right Tips for Eliminating Jitter in Action Cam Movies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beware-of-these-5-cunning-chatgpt-scam-tactics/"><u>Beware of These 5 Cunning ChatGPT Scam Tactics</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/detailed-review-official-tech-specifications-for-winxvideos-advanced-ai-encoder/"><u>Detailed Review: Official Tech Specifications for WinXVideo's Advanced AI Encoder</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-touchpad-functionality-and-scroll-smoothly-in-windows-11/"><u>How to Restore Touchpad Functionality and Scroll Smoothly in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-g22-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia G22 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mkv/"><u>MKVファイルで音声不在について: 理由と改善法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-error-code-0x800f0831-using-windows-updates/"><u>Quick Fixes for Error Code 0X800f0831 Using Windows Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211295370-quick-fixes-for-when-your-overwatch-microphone-fails-solutions-inside/"><u>Quick Fixes for When Your Overwatch Microphone Fails - Solutions Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/sound-troubleshooting-for-forza-horizon-4-your-ultimate-solution/"><u>Sound Troubleshooting for Forza Horizon 4: Your Ultimate Solution</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-tiny-powerhouse-unmatched-performance-from-the-ourlink-u631-usb-adapter/"><u>The Tiny Powerhouse: Unmatched Performance From the Ourlink U631 USB Adapter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210357325-trouble-with-pdf-printers-discover-swift-solutions/"><u>Trouble With PDF Printers? Discover Swift Solutions!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unresponsive-touchpad-scroll-issues-in-windows-11/"><u>Troubleshooting Unresponsive Touchpad Scroll Issues in Windows 11</u></a></li>
 </ul></div>
 

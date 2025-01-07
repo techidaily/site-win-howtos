@@ -1,7 +1,7 @@
 ---
 title: Simple Solutions for Windows 10 Continuous Automatic Restart Issues
-date: 2024-12-16T22:20:25.955Z
-updated: 2024-12-22T20:36:46.232Z
+date: 2025-01-04T16:14:15.461Z
+updated: 2025-01-06T22:34:21.720Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
  **Solution 2: [Re-enable your Bluetooth driver software in Device Manager](#solution2)**
  **Solution 3: [Reinstall your Bluetooth driver](#solution3)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Check the status of the Bluetooth service
 
  1) **Right-click**   on the Start button to select **Device Manager** .
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
 
@@ -56,9 +64,17 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right-click on the service again, and this time click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
@@ -69,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
@@ -80,37 +96,21 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
 
@@ -145,7 +145,7 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -175,18 +175,21 @@ thumbnail: https://thmb.techidaily.com/c0c3ff7158c5ed074bf14161f2b9dd7e6d6a38364
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-chart-success-the-top-online-stock-portals/"><u>[New] In 2024, Chart Success The Top Online Stock Portals</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-journey-towards-facebooks-premium-verified-emblem/"><u>[New] In 2024, Journey Towards Facebook's Premium Verified Emblem</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/outube-studio-for-beginners-basic-to-pro-editing-guide/"><u>[New] YouTube Studio for Beginners Basic to Pro Editing Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-se-2022-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone SE (2022) When Its Locked Within Seconds</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-proven-strategies-for-vimeo-media-insertion-in-ppts/"><u>In 2024, Proven Strategies for Vimeo Media Insertion in PPTs</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-also-use-android-to-create-and-edit-videos-read-about-the-efectum-video-effects-editor-which-is-available-in-your-app-stores-for-se/"><u>New 2024 Approved Do You Also Use Android to Create and Edit Videos? Read About the Efectum Video Effects Editor, Which Is Available in Your App Stores for Seamless Editing</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-avchd-video-editing-the-top-5-software-solutions-for-2024/"><u>New AVCHD Video Editing The Top 5 Software Solutions for 2024</u></a></li>
-<li><a href="https://ai-video.techidaily.com/new-the-best-translator-to-translate-videos-online/"><u>New The Best Translator to Translate Videos Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-your-pc-solutions-for-restoring-damaged-windows-11-files/"><u>Reviving Your PC: Solutions for Restoring Damaged Windows 11 Files</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-connection-issues-a-guide-to-re-establishing-links-with-a-remote-server/"><u>Solving Connection Issues: A Guide to Re-Establishing Links with a Remote Server</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-problem-razer-keyboard-lights-not-working-fixes/"><u>Solving the Problem: Razer Keyboard Lights Not Working Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-an-unresponsive-xbox-one-contoller-quick-fixes/"><u>Troubleshooting Tips for an Unresponsive Xbox One Contoller - Quick Fixes!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/usb-troubleshooting-made-easy-overcoming-the-port-reset-failed-error-in-windows-11/"><u>USB Troubleshooting Made Easy: Overcoming the 'Port Reset Failed' Error in Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-best-buys-in-screen-recording-focusing-on-tunefabs-innovations/"><u>[Updated] In 2024, Best Buys in Screen Recording - Focusing on Tunefab's Innovations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-keeping-secrets-on-screen-tips-for-private-content-reduction/"><u>[Updated] Keeping Secrets on Screen Tips for Private Content Reduction</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-error-0x800f0922-in-windows-10-updates-with-these-proven-fixes/"><u>Beat Error 0X800f0922 in Windows 10 Updates with These Proven Fixes!</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/configuring-windows-defender-for-predefined-periodic-scans-your-life-with-computers-yl/"><u>Configuring Windows Defender for Predefined Periodic Scans - Your Life with Computers (YL)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquering-bsod-blues-steps-for-recovering-from-a-computer-bugcheck-and-prevent-future-issues/"><u>Conquering BSOD Blues: Steps for Recovering From a Computer Bugcheck and Prevent Future Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-function-key-failures-on-computers/"><u>Effective Solutions for Function Key Failures on Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-keep-your-pc-awake-easy-tips-and-tricks-for-a-better-user-experience/"><u>How to Keep Your PC Awake – Easy Tips and Tricks for a Better User Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-sign-into-windows-after-a-user-profile-service-failure/"><u>How to Successfully Sign Into Windows After a User Profile Service Failure</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-top-tier-free-video-editing-software-guide-for-iphoneipad-users/"><u>In 2024, Top-Tier Free Video Editing Software Guide for iPhone/iPad Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-level-tips-to-overcome-pc-shutdown-issues-while-gaming-on-windows-os-ranging-from-7-to-11/"><u>Master Level Tips to Overcome PC Shutdown Issues While Gaming on Windows OS Ranging From 7 to 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/meme-mastery-money-making-the-financial-figures-of-a-video-virtuoso/"><u>Meme Mastery Money-Making The Financial Figures of a Video Virtuoso</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-poco-x5-by-drfone-android/"><u>Three Ways to Sim Unlock Poco X5</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-when-applicationexe-stops-working-properly/"><u>Troubleshooting Tips When 'Application.exe' Stops Working Properly</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/ways-to-stop-parent-tracking-your-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Ways to stop parent tracking your Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/zenith-zooms-ideal-laptops-for-sharp-resolution-crafting-for-2024/"><u>Zenith Zooms Ideal Laptops for Sharp-Resolution Crafting for 2024</u></a></li>
 </ul></div>
 

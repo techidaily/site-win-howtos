@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Troubleshooting 'Initialization Failed' In Age of Empires 3
-date: 2024-12-27T08:16:25.640Z
-updated: 2024-12-28T11:13:01.333Z
+date: 2025-01-03T17:32:22.205Z
+updated: 2025-01-06T18:19:55.583Z
 tags:
   - win11
   - win10
@@ -58,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/005e6344e4c73e50ccb232f7e6d3806cb38585b8b
 
 3) Try your PS4 mic again to see if it works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Method 2: Update your sound card driver**
 
  If your microphone is not working when using it on a PC, you should update the audio driver to make sure there’s no problem communicating between the PC and the mic. There are two options to update your audio driver:[manually](#Way1) and[automatically](#Way2) .
@@ -89,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/005e6344e4c73e50ccb232f7e6d3806cb38585b8b
 
  4) After updating the driver, restart your computer, then try your PS4 mic and see if your problem is solved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Method 3: Check the PS4 settings**
 
  If you are sure that there is no problem with your mic boom and headset, it seems like an issue with your PS4 settings. Check the following steps to make sure that the PS4 settings are configured correctly.
@@ -104,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/005e6344e4c73e50ccb232f7e6d3806cb38585b8b
  2) Click**Input Device** and select**Headset Connected to Controller.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a85ab2cba5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Output Device** and select **Headset Connected to Controller** .
 
@@ -121,15 +109,27 @@ thumbnail: https://thmb.techidaily.com/005e6344e4c73e50ccb232f7e6d3806cb38585b8b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a87f94933c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Click **Adjust Microphone Level** , then follow the wizard to calibrate your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2a88777dfbd.jpg)
 
 If your mic can be detected on the   **Adjust Microphone Level**   screen, then the headset and mic are working with the PS4 properly. If your mic was not detected on the  **Adjust Microphone Level**  screen, continue to  [**Method 4**](#Method3) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 4: Check the audio settings on your PC**
 
  To check your microphone,**plug your microphone into another computer** that works properly, and see if your microphone works or not. If your mic still doesn’t work, then it should be a problem with your mic, and you should replace it with a new one; if your mic works on the new computer, it should be a problem with your audio settings, then check the following settings:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### in Windows 10
 
@@ -142,7 +142,7 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2de909d7185.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) On the**Sound** pane, click the **Recording**   tab, and check if your microphone is set as default (there will be a green check mark next to it and the Set Default button is grayed out).
@@ -150,7 +150,7 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e28617ceab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your mic is not the default device, click the **Set Default**   button to set it as default.
@@ -158,12 +158,16 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e27bd4f1bd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:**   The device name might not be Microphone and the icon might not be in the shape of a Microphone in your computer.
 
  4) Click **OK** to save your settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Step 2**
 
@@ -171,13 +175,13 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2dee8cb09cc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the **Levels**  tab. Then slide the slider of**Microphone** and**Microphone Boost** to medium or higher to unmute your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2def1c97882.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** :  If the volume is muted, you will see the sound icon display on your desktop like this: [](https://images.drivereasy.com/wp-content/uploads/2016/01/62.png)
 
@@ -195,14 +199,10 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 ![Windows11 - More sound settings](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-More-sound-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Select the**Recording** tab. Right-click your microphone and select**Set as default** **device** . Then click on the**Properties** button. Select the**Levels** tab and slide the slider of**Microphone** and**Microphone Boost** to medium or higher to unmute your microphone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 5: Replace with a PS4 microphone
@@ -231,24 +231,18 @@ If your mic can be detected on the   **Adjust Microphone Level**   screen, then 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-steps-to-fade-audio-with-fl-studio/"><u>[Updated] 2024 Approved Steps to Fade Audio with FL Studio</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-deciphering-digital-dominance-a-detailed-examination-of-youtube-engagement-metrics/"><u>[Updated] Deciphering Digital Dominance A Detailed Examination of YouTube Engagement Metrics</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-premier-hashtag-analysis-apps-on-popular-platforms-like-fb-twt-and-ig/"><u>[Updated] Premier Hashtag Analysis Apps on Popular Platforms Like FB, Twt & IG</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1-easy-guide-two-versatile-techniques-for-securely-downloading-movies-from-gomovies/"><u>1. Easy Guide: Two Versatile Techniques for Securely Downloading Movies From GoMovies</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-tips-for-crafting-and-sharing-content-on-reddit/"><u>2024 Approved Pro Tips for Crafting & Sharing Content on Reddit</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-motorola-edge-40-neo-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Motorola Edge 40 Neo Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-quick-tricks-to-start-windows-in-safe-mode/"><u>Expert Advice: Quick Tricks to Start Windows in Safe Mode</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-turtle-beach-elite-atlas-mic-not-working/"><u>Fix: Turtle Beach Elite Atlas Mic Not Working</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726026733869-mp4/"><u>MP4ファイル回転設定のテクニック４種類（パソコン向け）</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/navigating-the-end-of-an-online-chapter-in-discord/"><u>Navigating the End of an Online Chapter in Discord</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/outsmarting-video-based-home-schooling-effortlessly/"><u>Outsmarting Video-Based Home Schooling Effortlessly</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-vivo-y27-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Vivo Y27 5G</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tell-your-circle-about-our-best-free-iphone-video-conversion-tools-a-must-for-everyone/"><u>Tell Your Circle About Our Best Free iPhone Video Conversion Tools – A Must for Everyone!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-5-best-time-lapse-recording-tools-compatible-with-windows-and-macos/"><u>Top 5 Best Time-Lapse Recording Tools: Compatible with Windows & macOS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-rated-avi-to-dvd-converter-software-for-windows-11-users/"><u>Top-Rated Avi to Dvd Converter Software for Windows 11 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-rated-free-media-transcoder-convert-videos-without-cost/"><u>Top-Rated Free Media Transcoder: Convert Videos Without Cost</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/watching-yify-movies-seamlessly-on-ios-devices-and-ps5-without-extra-codecs/"><u>Watching YIFY Movies Seamlessly on iOS Devices & PS5 Without Extra Codecs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tsmtsm2tm2ts/"><u>すばやく簡単：TS/MTS/M2T動画を一度に高品質M2TS変換！</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726027406070-pc/"><u>ダブルPCに同じライセンスキーを割り当てる方法</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-essentials-of-creating-a-personalized-twitter-account/"><u>[New] 2024 Approved The Essentials of Creating a Personalized Twitter Account</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-zipped-content-unveiled-crafting-srt-text-files/"><u>[New] 2024 Approved Zipped Content Unveiled Crafting Srt Text Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-brightness-slider-missing-windows-1110/"><u>[SOLVED] Brightness Slider Missing Windows 11/10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-core-principles-youtubes-social-contract/"><u>[Updated] 2024 Approved Core Principles YouTube's Social Contract</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-gain-insight-into-your-contents-success-via-youtube-rankers/"><u>[Updated] Gain Insight Into Your Content's Success via YouTube Rankers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-reviewing-and-selecting-the-ultimate-5-book-tt-list-for-2024/"><u>[Updated] Reviewing and Selecting The Ultimate 5 Book TT List for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/drones-demystified-crucial-considerations-before-buying-for-2024/"><u>Drones Demystified Crucial Considerations Before Buying for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-it-detailed-guide-on-restoring-function-key-operations/"><u>Fix It! Detailed Guide on Restoring Function Key Operations</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-infinix-smart-7-hd-by-drfone-android/"><u>In 2024, How to Bypass FRP from Infinix Smart 7 HD?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-wifi-connectivity-problems-a-guide-for-windows-10-and-7-users/"><u>Solving WiFi Connectivity Problems: A Guide for Windows 10 and #7 Users</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/step-by-step-guide-disabling-music-player-on-ios-devices-lock-screen/"><u>Step-by-Step Guide: Disabling Music Player on iOS Device's Lock Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11-potential-steps-for-successful-optional-components-integration/"><u>Unlocking Windows 11 Potential: Steps for Successful Optional Components Integration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-wont-my-dvd-play-on-windows-and-how-to-fix-it-successfully/"><u>Why Won't My DVD Play on Windows and How to Fix It Successfully</u></a></li>
 </ul></div>
 

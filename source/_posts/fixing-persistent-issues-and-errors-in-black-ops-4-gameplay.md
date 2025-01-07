@@ -1,7 +1,7 @@
 ---
 title: Fixing Persistent Issues and Errors in Black Ops 4 Gameplay
-date: 2024-09-05T10:00:15.774Z
-updated: 2024-09-06T10:00:15.774Z
+date: 2025-01-03T23:04:31.454Z
+updated: 2025-01-06T18:07:39.920Z
 tags:
   - win11
   - win10
@@ -17,22 +17,10 @@ thumbnail: https://thmb.techidaily.com/b891766f2e74dbdf20c5f444f013e0eb25d6a2a5d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-205.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Launched on 10 November 2015,**Fallout 4** is now with a history of around 4 years. Still, some players are complaining of lag issues that almost ruin their gaming experience in Fallout 4\. If you happen to be one of those victims, don’t worry – this post provides 5 fixes for you to solve the problem.
 
  In this post, we simply define “lag issue” as one that’s similar to “low FPS” or “stuttering.”
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 fixes for Fallout 4 lagging
 
  Here are a few easy-to-apply methods that have helped other users fix their lag issues in Fallout 4\. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -48,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/b891766f2e74dbdf20c5f444f013e0eb25d6a2a5d
 **[Fix 5: Stop CPU/memory hogging applications](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your video card drivers
 
@@ -79,12 +71,6 @@ thumbnail: https://thmb.techidaily.com/b891766f2e74dbdf20c5f444f013e0eb25d6a2a5d
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Modify your video card settings
 
 To modify your video card settings, use the following procedure:
@@ -100,11 +86,9 @@ To modify your video card settings, use the following procedure:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-210.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Now you’re able to modify the settings of this program.
 
  3) Pay attention to the list below**Specify the settings for this program:** . Scroll through the list to locate these items and make the tweaks accordingly:
@@ -116,24 +100,12 @@ Now you’re able to modify the settings of this program.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-209.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-216.png)
 
  After modifying your graphics card settings, it’s time to check whether these tweaks have solved your lag problem in Fallout 4\. If not, please proceed to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Adjust in-game settings
 
  This is also a quick-fix when you find yourself suffering from a lag issue in Fallout 4 – adjust the in-game settings.
@@ -145,16 +117,18 @@ Now you’re able to modify the settings of this program.
 ![This image has an empty alt attribute; its file name is image-215.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-215.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you’re not sure about the exact resolution of your monitor, you can right-click an empty area on your desktop and select**Display settings** from the context menu. In the pop-up window, take note of the recommended option under**Resolution** , the one that best suits your monitor size.
 
  Run the game to see if it goes smoothly this time. If not, move on and check out the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Uncap FPS limit
 
@@ -181,11 +155,9 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Stop CPU/memory hogging applications
 
  If you have too many CPU/memory hogging applications running in the background, that may slow down the processing speed of your computer and lead to low FPS in Fallout 4\. Thus, you need to close these applications before you start to play the game. Here are the steps:
@@ -195,17 +167,9 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-296.png)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Select the**Processes** tab. Right-click on the CPU/memory hogging process such as Google Chrome to open its context menu. Then click **End task** .
 
  Do not close the processes that you’re not familiar with in case you mistakenly stop the important ones.
@@ -229,8 +193,6 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -238,4 +200,26 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unlocking-full-potential-advanced-nvidia-recorder-tips-for-2024/"><u>[New] Unlocking Full Potential Advanced NVIDIA Recorder Tips for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-social-snippets-showcase-twitters-trending-threads/"><u>[Updated] Social Snippets Showcase Twitter’s Trending Threads</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-ultimate-sandbox-experience-playlist/"><u>2024 Approved The Ultimate Sandbox Experience Playlist</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertidor-libre-y-descentralizado-para-cambiar-flac-a-wav-por-movavi-sin-pagos/"><u>Convertidor Libre Y Descentralizado Para Cambiar FLAC a WAV Por Movavi - Sin Pagos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-conversion-transform-aiff-files-into-ogg-format-with-ease/"><u>Free Online Conversion: Transform AIFF Files Into OGG Format with Ease</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/free-optimal-dvd-player-apps-for-win7810-a-comprehensive-guide-to-the-best-options/"><u>Free Optimal DVD Player Apps for Win7/8/10: A Comprehensive Guide to the Best Options</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-spot-a-shadowy-facebook-profile-creator/"><u>How to Spot a Shadowy Facebook Profile Creator</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/il-guidone-segreto-alle-8-lame-magiche-per-convertire-videoclip-in-gif-rapidi-e-ottimizzati/"><u>Il Guidone Segreto Alle 8 Lame Magiche per Convertire Videoclip in GIF Rapidi E Ottimizzati</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kostenloses-konvertieren-von-aiff-in-aac-mit-movavi-online-tool/"><u>Kostenloses Konvertieren Von AIFF in AAC Mit Movavi Online-Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-movavis-unique-rules-for-reimbursement-policies/"><u>Navigating Movavi's Unique Rules for Reimbursement Policies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-cost-image-exchange-seamlessly-switch-from-pcx-to-jpg-using-online-tools/"><u>No Cost Image Exchange: Seamlessly Switch From PCX to JPG Using Online Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-audio-file-converter-rapidamente-transforme-auvs-em-mp3-wma-e-outros-formatos/"><u>Online Audio File Converter - Rapidamente Transforme AUVs Em MP3, WMA E Outros Formatos</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/quick-solutions-to-correct-error-code-0xc00000e-on-windows-11-devices/"><u>Quick Solutions to Correct Error Code 0xC00000E on Windows 11 Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-samsung-galaxy-a24-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Samsung Galaxy A24 has been deleted.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-play-8t-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Play 8T</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-laptops-for-copilotplus-gaming-marvel-amongst-top-picks-cnet-reviews/"><u>Unveiling the Best Laptops for Copilot+ - Gaming Marvel Amongst Top Picks | CNET Reviews</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-gyors-megujulas-4-a-kepernyo-takaritasanak-eleganten-feltoltenedesere/"><u>Windows 11 Gyors Megújulás 4: A Kepernyő Takarításának Eleganten Feltoltenedésére</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726228274213-mpeg-asf-movavi/"><u>제공자가 아닌 웹사이트에서 무료 MPEG ASF 영상 데이터 교체 - Movavi</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Get Your Unrecognized USB Flash Drive Working Smoothly
-date: 2024-12-24T04:14:29.007Z
-updated: 2024-12-28T11:13:21.355Z
+date: 2025-01-01T00:03:35.717Z
+updated: 2025-01-06T22:48:56.325Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/e7b4c7d026fb9a820758c805a32df2a4b6a1efba9
 7. **[Test your Bluetooth keyboard on another computer](#Fix7)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Check your Bluetooth keyboard
@@ -70,11 +70,11 @@ thumbnail: https://thmb.techidaily.com/e7b4c7d026fb9a820758c805a32df2a4b6a1efba9
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-Bluetooth-On.jpg)
 3. Select**Network & internet** . Make sure you toggle**On** Wi-Fi and toggle**Off** Airplane mode.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-Network-and-internet-WiFi-On-Airplane-mode-Off.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-Network-and-internet-WiFi-On-Airplane-mode-Off.jpg)
 
  If airplane mode is already set to Off, try turning off Bluetooth, waiting a few seconds, and then turning it back on.
 
@@ -98,7 +98,7 @@ Here’s how it works:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is download them one at a time and manually install them.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/de-intel-wireless-bluetooth.jpg)
@@ -108,10 +108,6 @@ Here’s how it works:
  After updating your Bluetooth driver, restart your computer for the changes to take effect.
 
  Try reconnecting your Bluetooth keyboard. If the issue persists, there’s another fix to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Remove and re-pair your Bluetooth keyboard
 
@@ -127,13 +123,17 @@ Here’s how it works:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/remove-keyboard.jpg)
 4. Click**Yes** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/remove-device-yes.jpg)
 5. Wait a few seconds. Then re-add your Bluetooth keyboard.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/add-bluetooth.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### in Windows 11
@@ -158,22 +158,14 @@ Check if your problem has been resolved. If not, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-services.msc_.jpg)
 2. In Services, locate**Bluetooth Support Service** . If it isn’t running, right-click on it and select**Start** ; if the status is running, right-click the service and select**Restart** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/bluetooth-support-service-restart.jpg)
 3. After that, right-click the service and select**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/bluetooth-support-service-properties.jpg)
 4. In the pop-up window, change the**Startup type** to**Automatic** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/bluetooth-startup-automatic.jpg)
@@ -186,6 +178,10 @@ If this method doesn’t work for you, continue to the next fix.
 
  If you’re having problems with your Bluetooth keyboard, running the Bluetooth troubleshooter might help find and fix problems for you. Here’s how to do it:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### in Windows 10
 
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
@@ -197,7 +193,7 @@ If this method doesn’t work for you, continue to the next fix.
 4. Under**Find and fix other problems** , select**Bluetooth** and click**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/bluetooth-troubleshooter.jpg)
@@ -206,7 +202,7 @@ If this method doesn’t work for you, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/bluetooth-detecting-problems.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### in Windows 11
@@ -223,6 +219,10 @@ If this method doesn’t work for you, continue to the next fix.
 5. Wait for the on-screen instructions to troubleshoot your issues.
 
  After the process is finished, try to connect your Bluetooth keyboard to your computer. If the issue remains, try the last fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Test your Bluetooth keyboard on another computer
 
@@ -250,19 +250,17 @@ If this method doesn’t work for you, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mobile-moba-elite-androids-top-picks/"><u>[Updated] 2024 Approved Mobile MOBA Elite Android's Top Picks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/building-your-own-tailored-chatgpt-version-with-proprietary-data-insights/"><u>Building Your Own Tailored ChatGPT Version with Proprietary Data Insights</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/comprehensive-analysis-of-the-anker-usb-30-fast-charger-hub-unleashing-ultimate-connectivity/"><u>Comprehensive Analysis of the Anker USB 3.0 Fast Charger Hub: Unleashing Ultimate Connectivity</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-overcoming-persona-4-golden-performance-errors/"><u>Fixes & Solutions: Overcoming Persona 4 Golden Performance Errors</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-oneplus-ace-3-frp-by-drfone-android/"><u>Full Guide to Bypass OnePlus Ace 3 FRP</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/currency-with-500-youtube-followers-for-2024/"><u>Gain Currency with 500 YouTube Followers for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quickly-pivoting-vids-in-windows-11-discover-these-three-simple-strategies/"><u>Quickly Pivoting Vids in Windows 11: Discover These Three Simple Strategies!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/seamless-transition-from-kodis-latest-update-downgrading-from-matrix-19-to-previous-release-leia-18-while-keeping-your-configurations-intact/"><u>Seamless Transition From Kodi's Latest Update: Downgrading From Matrix (19) to Previous Release, Leia (18), While Keeping Your Configurations Intact</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/securely-transfer-your-wonderfox-dvd-collection-blu-ray-to-ipodipadiphoneappletv-conversion-with-built-in-copy-protection/"><u>Securely Transfer Your WonderFox DVD Collection: Blu-Ray to iPod/iPad/iPhone/AppleTV Conversion with Built-In Copy Protection</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-combining-multiple-wma-audio-files-into-a-single-file/"><u>Step-by-Step Guide: Combining Multiple WMA Audio Files Into a Single File</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-inserting-text-onto-youtube-videos-using-dual-techniques/"><u>Step-by-Step Guide: Inserting Text Onto YouTube Videos Using Dual Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-highlighting-custom-generative-models-during-chatbot-dialogues/"><u>Step-by-Step Tutorial on Highlighting Custom Generative Models During Chatbot Dialogues</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-unreliable-clipboard-functionality-win-11/"><u>Tackling Unreliable Clipboard Functionality Win 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-10plus-top-free-subtitle-converter-websites-for-2024/"><u>Unlocking 10+ Top Free Subtitle Converter Websites for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/smr-viewers-essentials-explained/"><u>[New] ASMR Viewers' Essentials Explained</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-fixing-obscured-content-on-youtube-platform/"><u>[Updated] Fixing Obscured Content on YouTube Platform</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-exclusive-selection-of-8-online-sites-featuring-golden-text-in-3d/"><u>[Updated] In 2024, Exclusive Selection of 8 Online Sites Featuring Golden Text in 3D</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-troubleshooting-video-interruptions-on-facebook-live-for-2024/"><u>[Updated] Troubleshooting Video Interruptions on Facebook LIVE for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-troubleshooting-on-windows-11-identifying-and-fixing-device-detection-errors/"><u>Bluetooth Troubleshooting on Windows 11: Identifying & Fixing Device Detection Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ensuring-proper-detection-of-bluetooth-adapters-fixing-hidden-entries-in-windows-device-manager/"><u>Ensuring Proper Detection of Bluetooth Adapters: Fixing Hidden Entries in Windows Device Manager</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-resolve-when-your-dvd-doesnt-play-in-windows/"><u>Fixing the Issue: How to Resolve When Your DVD Doesn't Play in Windows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-galleryguide-adjusting-post-dimensions-in-instagram/"><u>In 2024, GalleryGuide Adjusting Post Dimensions in Instagram</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-iphone-13-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or iPhone 13 from iCloud</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-full-breakdown-mastering-facetune-for-photo-enhancement-for-2024/"><u>The Full Breakdown Mastering Facetune for Photo Enhancement for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-usb-headphones-on-windows-7-a-complete-guide/"><u>Troubleshooting Silent USB Headphones on Windows 7 – A Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212521748-xbox-one-connected-to-xbox-live-heres-the-comprehensive-guide/"><u>Xbox One Connected to Xbox Live? Here's the Comprehensive Guide!</u></a></li>
 </ul></div>
 

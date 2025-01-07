@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Solutions for Unresponsive Laptop Trackballs Under Windows
-date: 2024-12-24T14:05:05.278Z
-updated: 2024-12-28T07:40:49.461Z
+date: 2025-01-01T00:23:57.513Z
+updated: 2025-01-06T22:51:42.186Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 4. [**Reseat your laptop battery**](#F4)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
 
@@ -54,7 +62,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -72,7 +80,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
@@ -122,10 +130,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -133,10 +137,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -147,7 +147,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
@@ -184,22 +184,21 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-ladies-of-the-digital-battlefield-youtubes-leading-tens/"><u>[New] 2024 Approved Ladies of the Digital Battlefield YouTube's Leading Tens</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-navigating-through-an-absent-obs-camera-input/"><u>[New] Navigating Through an Absent OBS Camera Input</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-simplify-your-life-with-time-lapsing-on-samsung-gear/"><u>2024 Approved Simplify Your Life with Time-Lapsing on Samsung Gear</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-social-medias-best-video-enhancing-programs-2023/"><u>2024 Approved Social Media's Best Video Enhancing Programs, 2023</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-unwanted-screen-flashes-on-your-windows-11-computer/"><u>Fixing Unwanted Screen Flashes on Your Windows 11 Computer</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-resolve-temp-files-extract-issue-windows-1110/"><u>How to Resolve 'Temp Files Extract Issue' - Windows 11/10</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-troubleshoot-windows-obs-studio-crashes/"><u>How to Troubleshoot Windows OBS Studio Crashes</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-use-facebooks-new-privacy-center-and-why-you-should/"><u>How to Use Facebook's New Privacy Center (and Why You Should)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigate-through-game-boy-pen-troubles-in-depth-fixing-techniques-for-seamless-play-on-classic-consoles/"><u>Navigate Through Game Boy Pen Troubles: In-Depth Fixing Techniques for Seamless Play on Classic Consoles</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/opencl-dll-access-resolution-approach/"><u>OpenCL DLL Access: Resolution Approach</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-cure-for-lidadll-absence/"><u>Quick Cure for Lida.dll Absence</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-for-troubleshooting-failed-device-creations-in-directx/"><u>Solution Guide for Troubleshooting Failed Device Creations in DirectX</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/transitioning-from-siri-why-apple-might-need-a-bing-like-evolution-in-ai-technology-insights-by-zdnet/"><u>Transitioning From Siri: Why Apple Might Need a 'Bing'-Like Evolution in AI Technology - Insights by ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-mute-mode-restoring-sound-to-netflix-watching/"><u>Troubleshoot Mute Mode: Restoring Sound to Netflix Watching</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repair-solutions-for-lenovo-keyboards-that-wont-respond/"><u>Troubleshooting and Repair Solutions for Lenovo Keyboards That Won't Respond</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-when-icue-doesnt-recognize-your-device/"><u>Troubleshooting Tips for When ICUE Doesn't Recognize Your Device</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-playbook-for-facebook-videos-to-attract-more-viewers-for-2024/"><u>[New] The Ultimate Playbook for Facebook Videos to Attract More Viewers for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-how-to-fix-stellaris-crash/"><u>[SOLVED] How to Fix Stellaris Crash?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-adopt-a-universal-strategy-how-to-record-your-favorite-youtube-lives-on-any-device/"><u>[Updated] Adopt a Universal Strategy How To Record Your Favorite YouTube Lives on Any Device</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-essential-android-video-capture-the-best-5-picks/"><u>[Updated] In 2024, Essential Android Video Capture The Best 5 Picks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/astrological-flair-in-digital-self-portrayals-on-whatsapp/"><u>Astrological Flair in Digital Self-Portrayals on WhatsApp</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-c110-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from C110.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-epson-wf-2630-printer-drivers-compatible-with-windows-7-81-and-10/"><u>Download Epson WF-2630 Printer Drivers Compatible with Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-getting-your-dells-usb-port-up-and-running-again/"><u>Expert Tips for Getting Your Dell's USB Port Up & Running Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-lost-sound-controls-volume-icons-on-windows-10-visual-instructions-included/"><u>How to Restore Your Lost Sound Controls (Volume Icons) on Windows 10 - Visual Instructions Included</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-designing-dramatic-beginnings-in-podcasts/"><u>In 2024, Designing Dramatic Beginnings in Podcasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ps4-and-blu-ray-compatibility-guide-solving-problems-with-disc-playback/"><u>PS4 and Blu-Ray Compatibility Guide: Solving Problems with Disc Playback</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-simple-guide-resolving-damaged-driver-issues-instantly/"><u>Quick and Simple Guide: Resolving Damaged Driver Issues Instantly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-tips-for-fixing-no-miracast-support-on-this-device/"><u>Top Tips for Fixing 'No Miracast Support on This Device'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-essentials-effortless-solutions-for-fixing-call-of-duty-black-ops-4-bugs/"><u>Troubleshooting Essentials: Effortless Solutions for Fixing Call of Duty Black Ops 4 Bugs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-the-no-bootable-device-found-dilemma/"><u>Ultimate Guide: Solving the 'No Bootable Device Found' Dilemma</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-windows-11s-troublesome-update-issue-code-0x800705b4-explained/"><u>Winning Against Windows 11'S Troublesome Update Issue: Code 0X800705b4 Explained</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Conquering the Puzzle: Unraveling and Fixing LiveKernel Event Hurdle, Error No. 144"
-date: 2024-12-21T22:03:52.166Z
-updated: 2024-12-22T23:31:37.570Z
+date: 2024-12-30T20:02:54.930Z
+updated: 2025-01-06T17:43:33.464Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ When you pay the money and look forward to enjoying the game but find that the g
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these methods
 
 1. [Rename the Destiny 2 folder](https://tools.techidaily.com/drivereasy/download/)
@@ -41,13 +45,17 @@ When you pay the money and look forward to enjoying the game but find that the g
 2. Navigate to your Destiny 2 folder location. Usually, it’s in C:\\Program Files (x86)\\. Then rename the Destiny 2 folder.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d23.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Open**Battle.net** and click**Install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d20.jpg)
 
 4. Change the folder name back to Destiny 2.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d23.jpg)
 5. Click**Start install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d21.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Be patient, the process will resume from where you left off after verifying the files that are already there. Then you’re good to go.
 
@@ -74,15 +82,11 @@ Reinstall the Battle.net can may help you solve the issue.
 2. Select the**Game Installs/Update** . Scroll down to find the Network Bandwidth.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Change the Max Download rate by setting the Latest Updates and Future Patch updates to 0 to get the max download rate. Then Press**Done** to apply the settings.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d12.jpg)
 4. Download Destiny 2 to see whether it can help.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -94,15 +98,11 @@ Reinstall the Battle.net can may help you solve the issue.
 2. Right-click on the Blizzard icon and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/b1.jpg)
 3. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/b2.jpg)
 4. Run Blizzard and check whether the problem is solved or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Check your antivirus software
@@ -123,6 +123,10 @@ Reinstall the Battle.net can may help you solve the issue.
 2. Type “services.msc” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/services.jpg)
 3. Locate and right-click**Secondary Logon** in the right pane.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/servi.jpg)
 5. Find Startup type and select**Automatic** in the dropdown menu. Then click**OK** .  
 
@@ -133,7 +137,7 @@ Reinstall the Battle.net can may help you solve the issue.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
@@ -165,11 +169,7 @@ OR
 3. Click the**Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/07/gpu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -193,22 +193,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-embrace-the-world-of-video-design-in-xp/"><u>[New] Embrace the World of Video Design in XP</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-execute-flawless-wirecast-broadcasts-on-youtube/"><u>[Updated] 2024 Approved How to Execute Flawless WireCast Broadcasts on YouTube</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-crafting-captivating-unboxing-content-top-tips/"><u>[Updated] Crafting Captivating Unboxing Content Top Tips</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-tapping-into-no-cost-melodies-for-video-projects/"><u>[Updated] In 2024, Tapping Into No-Cost Melodies for Video Projects</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-techniques-to-resolve-cs-go-stability-problems-quickly/"><u>Effortless Techniques to Resolve CS: GO Stability Problems Quickly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-for-restoring-connectivity-to-an-inaccessible-remote-server/"><u>Expert Advice for Restoring Connectivity to an Inaccessible Remote Server</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-a-non-responsive-touchscreen-in-windows-11-learn-how/"><u>Expert Tips for Fixing a Non-Responsive Touchscreen in Windows 11 – Learn How</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-remote-procedure-call-rpc-service-interrupted-alert-on-your-computer/"><u>Fixing the Remote Procedure Call (RPC) Service Interrupted Alert on Your Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206386514-how-to-ensure-smooth-streaming-overcome-kodi-buffering-problems-now/"><u>How To Ensure Smooth Streaming: Overcome Kodi Buffering Problems Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-your-corsair-keyboard-expert-troubleshooting-guide/"><u>Reviving Your Corsair Keyboard: Expert Troubleshooting Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/smirk-stash-ultimate-guide-to-free-meme-templates-for-2024/"><u>Smirk Stash Ultimate Guide to FREE Meme Templates for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solutions-to-prevent-thaumaturge-from-freezing-or-crashing-on-your-desktop-computer/"><u>Solutions to Prevent Thaumaturge From Freezing or Crashing on Your Desktop Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-tackle-d3derrnotavailable-issue/"><u>Step-by-Step Solutions to Tackle 'D3DERR_NotAvailable' Issue</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ronized-screenscape-tv-loops-of-online-media/"><u>Synchronized Screenscape TV Loops of Online Media</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723808168062-trouble-with-your-logitech-clicker-heres-how-you-can-make-it-work-again/"><u>Trouble with Your Logitech Clicker? Here's How You Can Make It Work Again</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/update-your-mac-safely-with-macos-big-sur-1441-latest-stable-version-now-available/"><u>Update Your Mac Safely with macOS Big Sur 14.4.1 - Latest Stable Version Now Available</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-audio-on-win-1110-troubleshooting-success/"><u>Windows Audio on WIN 11/10: Troubleshooting Success</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-acquire-high-quality-sounds-for-media-creators/"><u>[New] In 2024, Acquire High-Quality Sounds for Media Creators</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-enhancing-visual-content-turning-youtube-clips-into-animated-gifs-for-2024/"><u>[Updated] Enhancing Visual Content Turning Youtube Clips Into Animated GIFs for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209076243-5-easy-steps-to-eliminate-the-never-ending-reboots-of-windows-10/"><u>5 Easy Steps to Eliminate the Never-Ending Reboots of Windows 10!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/correcting-dual-monitor-non-detection-solved/"><u>Correcting Dual Monitor Non-Detection (Solved)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-google-pixel-8-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Google Pixel 8 Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/intermittent-typing-failure/"><u>Intermittent Typing Failure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-microsoft-updates-overcoming-error-80244019-on-your-windows-pc/"><u>Mastering Microsoft Updates: Overcoming Error 80244019 on Your Windows PC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209966739-9781524749125-philosophy-for-polar-explorers/"><u>Philosophy for Polar Explorers | Free Book</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/premier-strategies-in-sport-broadcasting-technology-for-2024/"><u>Premier Strategies in Sport Broadcasting Technology for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/preventing-misinformation-about-pandemic-on-digital-platforms/"><u>Preventing Misinformation About Pandemic on Digital Platforms</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/cket-traffic-the-ultimate-list-of-video-growth-techniques/"><u>Skyrocket Traffic The Ultimate List of Video Growth Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207120664-solved-this-site-cant-be-reached-chrome-error/"><u>Solved: This Site Can’t Be Reached Chrome Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-inaccessible-steam-missing-file-privileges/"><u>Solving the Problem of Inaccessible Steam Missing File Privileges</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-a-swift-fix-to-windows-update-error-8007000e/"><u>Troubleshooting Tips for a Swift Fix to Windows Update Error 8007000E</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-fix-guide-resolving-202ue4-fatal-crashes-on-halo-4-gaming-platforms/"><u>Ultimate Fix Guide: Resolving 202#UE4 Fatal Crashes on Halo 4 Gaming Platforms</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/vmware-virtual-machine-recovery-two-effective-methods/"><u>VMware Virtual Machine Recovery: Two Effective Methods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-troubleshooting-guide-getting-sounds-back-for-anthem-game/"><u>Windows 10 Troubleshooting Guide: Getting Sounds Back for Anthem Game</u></a></li>
 </ul></div>
 

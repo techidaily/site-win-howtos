@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Spacebar Malfunction - A Step-by-Step Solution Guide
-date: 2024-09-05T10:00:14.870Z
-updated: 2024-09-06T10:00:14.870Z
+date: 2024-12-30T18:54:44.122Z
+updated: 2025-01-07T03:50:40.167Z
 tags:
   - win11
   - win10
@@ -23,12 +23,6 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 
  This small guide will be showing you how to fix the Shift key bot working issue step by step. Read on and go on with the steps to troubleshoot your problem.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How do I fix Shift key not working?
 
 A quick check before we start:
@@ -48,12 +42,6 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -64,32 +52,22 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Press the Shift key on your keyboard to see if it works.
 
 #### on Windows 11
@@ -105,25 +83,15 @@ Follow these:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 2: Update your keyboard driver
 
  This problem may be caused by an old, corrupted, or missing keyboard driver. If so, you can solve it by updating the keyboard driver.
@@ -146,6 +114,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer and try to press the Shift key to see if it works.
 
 * [keyboard](https://bellelily.pxf.io/m5azgm)
@@ -156,8 +128,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +135,26 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-how-to-make-a-youtube-subscribe-link-easy-for-2024/"><u>[Updated] How to Make a YouTube Subscribe Link - Easy for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-smooth-cinematography-ideal-stabilizer-tools-for-vloggers/"><u>[Updated] Smooth Cinematography Ideal Stabilizer Tools for Vloggers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-5-frosty-yet-inviting-backdrops-for-your-vids/"><u>2024 Approved 5 Frosty Yet Inviting Backdrops for Your Vids</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertir-snd-sin-costo-a-wav-mediante-la-herramienta-en-linea-de-movavi-una-guia-paso-a-paso/"><u>Convertir SND Sin Costo a WAV Mediante La Herramienta en Línea De Movavi: Una Guía Paso a Paso</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-ultimate-substitutes-to-windows-movie-maker-a-comprehensive-guide-of-20-applications/"><u>Discover the Ultimate Substitutes to Windows Movie Maker: A Comprehensive Guide of 20 Applications</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-mastering-professional-grade-color-grading-techniques/"><u>Expert Tips: Mastering Professional-Grade Color Grading Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-transform-orf-images-into-jpeg-format-with-easy-to-use-tools/"><u>Free Online Converter: Transform ORF Images Into JPEG Format with Easy-to-Use Tools</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-itel-p55-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Itel P55 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-honor-magic-6-pro-by-fonelab-android-recover-music/"><u>How to recover old music from your Honor Magic 6 Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-troubleshoot-and-resolve-parse-errors-on-android-devices-a-step-by-step-guide/"><u>How To Troubleshoot and Resolve Parse Errors on Android Devices: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-video-guide-to-hairstyles/"><u>In 2024, Ultimate Video Guide to Hairstyles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mkv-m4v-online-video-converter-movavi/"><u>MKV, M4V를 비용 부과 없이 효율적으로 Online Video Converter - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavis-free-web-based-swf-to-mov-transformation-tool/"><u>Movavi's Free, Web-Based SWF to MOV Transformation Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavionline-oggmp4/"><u>Movaviで簡単にフリーOnline Ogg/MP4コンバートをマスター</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/passos-essenciais-para-aplicacao-de-maquiagem-fotografica-tecnicas-do-melhor-visualizador-profissional/"><u>Passos Essenciais Para Aplicação De Maquiagem Fotográfica: Técnicas Do Melhor Visualizador Profissional</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-petsafe-healthy-pet-feeder-unveiled-how-this-innovative-device-supports-managing-your-pets-weight/"><u>The PetSafe Healthy Pet Feeder Unveiled: How This Innovative Device Supports Managing Your Pet's Weight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-led-torch-models-industry-experts-reviews-and-rankings-zdnet/"><u>Top-Rated LED Torch Models : Industry Experts' Reviews & Rankings - ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/uncovering-the-best-tech-deals-with-toms-gadget-insights/"><u>Uncovering the Best Tech Deals with Tom’s Gadget Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win11s-best-screen-capturing-software-selection-top-11-recommendations/"><u>Win11's Best Screen Capturing Software Selection – Top 11 Recommendations!</u></a></li>
+</ul></div>
 

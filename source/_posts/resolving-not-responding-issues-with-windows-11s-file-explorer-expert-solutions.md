@@ -1,7 +1,7 @@
 ---
 title: "Resolving 'Not Responding' Issues with Windows 11'S File Explorer: Expert Solutions"
-date: 2024-09-05T10:00:17.705Z
-updated: 2024-09-06T10:00:17.705Z
+date: 2025-01-04T23:38:15.068Z
+updated: 2025-01-07T01:54:59.555Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Resolving 'Not Responding' Issues with Windows 
 thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a10883de886d722f86edd02f3d2.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mastering USB Recognition Issues in Windows 11: No More Port Reset Failures
 
  If you get **Unknown USB Device (Port Reset Failed)** error in Device Manager, your USB device most probably won’t be recognized by your PC. The error could be caused by different issues. Here you will learn the top solutions to fix the problem. Try the solutions and one must work for you.
@@ -43,12 +37,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58008bc046cc6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3\. After finishing the uninstallation, restart your PC then Windows will reinstall the device automatically.
 
 **Solution 2: Update the Generic USB Hub Drivers**
@@ -59,12 +47,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5800917567e49.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2\. Select**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba30bb3336f.png)
@@ -73,12 +55,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba30ea9e511.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4\. Check the box next to “Show compatible hardware” and select**Generic USB Hub** . Click on**Next** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba312822f8b.png)
@@ -97,12 +73,6 @@ You can use [Driver Easy](https://tools.techidaily.com/drivereasy/download/)  as
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  **5\. Change Power Management Setting**
 
  The Power Management would also be the reason causing the USB problem. Windows is set to shut down your USB controller to save power by default, sometimes it won’t be able to power it back up. So try following steps to prevent Windows from “managing” power to your USB controller or the devices.
@@ -118,19 +88,11 @@ Follow below steps.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba31b753d11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -139,4 +101,24 @@ Follow below steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-itunes-video-management-made-simple-for-2024/"><u>[New] ITunes Video Management Made Simple for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-aggregating-the-top-5-mac-clipping-applications/"><u>[Updated] 2024 Approved Aggregating the Top 5 Mac Clipping Applications</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-game-performance-with-smart-disk-management-in-steam/"><u>Boost Game Performance with Smart Disk Management in Steam</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/connect-microsofts-dp-adapter-solutions-for-windows-11-compatibility-issues-resolved/"><u>Connect Microsoft's DP Adapter: Solutions for Windows 11 Compatibility Issues [Resolved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cutting-down-the-excessive-memory-footprint-of-compatibility-telemetry-under-windows-10/"><u>Cutting Down the Excessive Memory Footprint of Compatibility Telemetry Under Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-advanced-airpods-4-find-my-speaker-functionality-and-updated-usb-c-port-tech-insights-on-zdnet/"><u>Discover the Advanced AirPods 4: Find My Speaker Functionality and Updated USB-C Port | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-for-less-take-advantage-of-education-pricing/"><u>In 2024, Final Cut Pro for Less Take Advantage of Education Pricing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-hp-laserjet-amoji-1320-software-fully-updated-driver-package-for-windows-users/"><u>Latest HP LaserJet Amoji 1320 Software, Fully Updated Driver Package for Windows Users</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-vivo-v29-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo V29? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207621444-step-by-step-guide-to-restore-bluetooth-on-your-windows-11-pc-fast-fixes/"><u>Step-by-Step Guide to Restore Bluetooth on Your Windows 11 PC - Fast Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-windows-update-problem-how-to-fix-error-0x80070490/"><u>Troubleshooting Guide for Windows Update Problem: How to Fix Error '0X80070490'</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/uncover-hidden-gems-expert-tips-on-snagging-awesome-geeky-items-at-thrift-stores/"><u>Uncover Hidden Gems: Expert Tips on Snagging Awesome Geeky Items at Thrift Stores</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-cant-i-start-my-adventure-solving-wings-of-ruin-game-launch-problems/"><u>Why Can't I Start My Adventure? Solving 'Wings of Ruin' Game Launch Problems</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

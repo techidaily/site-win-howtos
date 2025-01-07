@@ -1,7 +1,7 @@
 ---
 title: Ethernet Troubleshooting Techniques for Microsoft Windows 11 and 7 Operating Systems
-date: 2024-09-05T10:00:29.763Z
-updated: 2024-09-06T10:00:29.763Z
+date: 2025-01-05T23:19:49.448Z
+updated: 2025-01-06T17:35:04.736Z
 tags:
   - win11
   - win10
@@ -44,12 +44,6 @@ and etc.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) In the Command Prompt window, type in the following command:
 
 sfc /scannow
@@ -58,40 +52,16 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca221df44e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Leave the Command Prompt window on until the command completes.
 
  3) If you see the message saying that   **Windows Resource Protection did not find any integrity violations** , then everything is fine with your system.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca520c7e49.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) If you see a message saying   **Windows Resource Protection found corrupt files but was unable to fix some of them** , then you need to go to[**safe mode**](https://tools.techidaily.com/drivereasy/download/) and run the system file checker again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca59f1f21f.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the SFC command doesn’t work well, please mve on to the next section to run the DISM command to fix the SFC command problem and then run SFC command again.
 
 **Run the DISM Command to Fix SFC Problems**
@@ -114,12 +84,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca8464439b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Wait for a while for the whole process to finishes.
 
  3) When the whole process finishes, restart your computer. Then run SFC command again so it will help you replace any corrupted files with the correct ones.
@@ -142,12 +106,6 @@ For more detailed information, please go to the posts below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e8abc65e6ec.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to have your own professional tech support and tons of other features in Driver Easy such as driver back up and driver restore, by all means, have a try at the[**professional version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . It allows you to update all your device drivers in just ONE click and poof, your computer problems are gone!
 
  You can always ask for a refund thirty days within the purchase if you are not satisfied with it. What’s with the hold up, come on and have a try at[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) now!
@@ -160,8 +118,6 @@ For more detailed information, please go to the posts below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +125,24 @@ For more detailed information, please go to the posts below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-find-your-next-vector-the-best-10-pics-sites/"><u>[Updated] In 2024, Find Your Next Vector The Best 10 Pics Sites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-heart-of-filmora-10-engaging-editing-capabilities/"><u>[Updated] The Heart of Filmora 10 Engaging Editing Capabilities</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/correct-android-non-playing-issues/"><u>Correct Android Non-Playing Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-restarting-and-reconfiguring-your-graphics-drivers-post-failure/"><u>Expert Advice on Restarting and Reconfiguring Your Graphics Drivers Post-Failure</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-enable-shadowplay-screen-capturing-functionality-on-your-windows-device-solved/"><u>How To Enable Shadowplay Screen Capturing Functionality On Your Windows Device [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-file-explorer-not-responding-problems-in-windows-10-quickly/"><u>How to Fix 'File Explorer Not Responding' Problems in Windows 10 Quickly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-no-disk-error-with-nvidia-graphics-card/"><u>How to Fix 'No Disk' Error with NVIDIA Graphics Card</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-3-copywriting-structure-for-facebook-ads/"><u>In 2024, 3 Copywriting Structure for Facebook Ads</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-essential-tips-acquiring-unparalleled-photos-for-free/"><u>In 2024, Essential Tips Acquiring Unparalleled Photos for Free</u></a></li>
+<li><a href="https://fox-that.techidaily.com/seamless-syncing-secrets-overcome-your-airpods-connection-issues-between-apple-products/"><u>Seamless Syncing Secrets: Overcome Your AirPods' Connection Issues Between Apple Products</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-entrypointmissing-error-on-your-windows-pc/"><u>Step-by-Step Fix for 'EntryPointMissing' Error on Your Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-a-comprehensive-guide-to-unresponsive-corsair-keyboards/"><u>Troubleshoot and Fix: A Comprehensive Guide to Unresponsive Corsair Keyboards</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-repair-a-nonfunctional-start-menu-in-windows-11/"><u>Troubleshooting Guide: How to Repair a Nonfunctional Start Menu in Windows 11</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

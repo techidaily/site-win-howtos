@@ -1,7 +1,7 @@
 ---
 title: "Fixing a Non-Functional Laptop Mic: Solutions and Tips"
-date: 2024-09-05T10:00:17.456Z
-updated: 2024-09-06T10:00:17.456Z
+date: 2024-12-30T16:33:54.650Z
+updated: 2025-01-06T23:27:22.941Z
 tags:
   - win11
   - win10
@@ -19,12 +19,6 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 
  If your Dell PC can’t detect or recognize your USB device when you plug it into the USB port, here are 4 simple troubleshooting steps for you. They have worked for many people.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these steps
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -34,18 +28,6 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 3. [**Check your power management settings**](#s3)
 4. [**Update your USB driver**](#s4)
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 1: Use a different USB port
 
  USB performance issues may occur if the USB port you plug your USB device into is dusty or damaged. You can try switching your USB device to a different USB port.
@@ -53,11 +35,9 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 If all your USB ports aren’t working, try Step 2, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 2: Disconnect and reconnect your power cord (for laptop)
 
  If your Dell laptop has any problem with the power supply, the USB ports on your laptop may stop working. To check for power supply issues, you can follow these steps:
@@ -65,18 +45,11 @@ If all your USB ports aren’t working, try Step 2, below.
 1. **Disconnect** the AC adapter or power cord from your laptop.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15c81ad6b3.jpg)
 2. **Restart** your computer.
+
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. **Plug** your USB device into your laptop.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
@@ -89,32 +62,28 @@ If all your USB ports aren’t working, try Step 2, below.
 2. **Type devmgmt.msc and press Enter.**  
 **![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be166620610a.png)**
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
 5. Click the**Power Management** tab.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
 8. Check if your USB port works properly now. If not, try Step 4, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 4: Update your USB driver
 
@@ -134,12 +103,6 @@ or
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f93a4683.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f53e08f3.jpg)
 4. Restart your computer and check if your USB port now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you.
 
@@ -155,8 +118,6 @@ or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +125,24 @@ or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-purchasing-options-choosing-premium-vs-standard-fixtures-and-whether-they-are-integrated-or-retrofit-options-can-alter-costs/"><u>[Updated] __Purchasing Options__ Choosing Premium Vs. Standard Fixtures and Whether They Are Integrated or Retrofit Options Can Alter Costs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-art-of-amassing-attention-on-ig-a-guide-for-a-thousand-likesmonth/"><u>[Updated] The Art of Amassing Attention on IG A Guide for a Thousand Likes/Month</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-essential-14-text-based-motion-graphics/"><u>2024 Approved Essential 14 Text-Based Motion Graphics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprendre-le-fichier-bmp-ouvrir-et-utiliser-des-fichiers-bitmap-pour-tous-les-projets/"><u>Comprendre Le Fichier .BMP - Ouvrir Et Utiliser Des Fichiers Bitmap Pour Tous Les Projets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-gratuite-davi-vers-mp4-par-telechargement-en-ligne-decouvrez-les-techniques-simples-avec-movavi/"><u>Conversion Gratuite D'AVI Vers MP4 Par Téléchargement en Ligne: Découvrez Les Techniques Simples Avec Movavi</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-a-narrative-template-for-online-educational-videos/"><u>Crafting a Narrative Template for Online Educational Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-best-27-transcription-applications-expert-insights-from-movavi/"><u>Discover the Best 27 Transcription Applications - Expert Insights From Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-omzettingen-van-gif-bestanddeelnissen-online-zeiken-vanavi/"><u>Gratis Omzettingen Van Gif-Bestanddeelnissen Online - Zeiken Vanavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-scoop-on-the-next-gen-xbox-virtual-reality-headset-pricing-predictions-and-release-forecasts/"><u>Inside Scoop on the Next-Gen Xbox Virtual Reality Headset – Pricing Predictions & Release Forecasts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/leveraging-the-power-of-ai-what-business-owners-should-know-about-the-latest-chatgpt-and-whisper-apis/"><u>Leveraging the Power of AI: What Business Owners Should Know About the Latest ChatGPT & Whisper APIs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/misez-une-conversion-gratuite-flv-a-mpg-en-ligne-utilisation-simple-de-movavi/"><u>Misez Une Conversion Gratuite Flv À Mpg en Ligne - Utilisation Simple De Movavi</u></a></li>
+<li><a href="https://driver-install.techidaily.com/modernize-your-thinkpad-windows-11-driver-upgrade/"><u>Modernize Your Thinkpad: Windows 11 Driver Upgrade</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mpegify-your-audio-convert-wav-to-mpeg-quickly-and-without-cost-movavis-guide/"><u>MPEGify Your Audio: Convert WAV to MPEG Quickly and Without Cost - Movavi's Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-guide-ripping-audio-tracks-from-a-cd-with-windows-11s-built-in-media-software/"><u>Step-by-Step Guide: Ripping Audio Tracks From a CD with Windows 11'S Built-In Media Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-capturing-scrollable-content-with-screen-shots-on-mac-16-techniques-explained-by-movavi/"><u>The Ultimate Guide: Capturing Scrollable Content with Screen Shots on Mac - 16 Techniques Explained by Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-bluetooth-solar-speakers-authoritative-selections-by-tech-experts/"><u>Top Rated Bluetooth Solar Speakers : Authoritative Selections by Tech Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transforma-tus-imagenes-en-segundo-plano-usando-la-herramienta-editadora-de-movavi-adquirirla-hoy/"><u>Transforma Tus Imágenes en Segundo Plano Usando La Herramienta Editadora De Movavi - Adquirirla Hoy!</u></a></li>
+</ul></div>
 

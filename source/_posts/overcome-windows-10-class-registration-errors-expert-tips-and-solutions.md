@@ -1,7 +1,7 @@
 ---
 title: Overcome Windows 10 Class Registration Errors - Expert Tips & Solutions
-date: 2024-12-24T06:41:48.946Z
-updated: 2024-12-28T14:05:06.893Z
+date: 2024-12-31T04:06:15.712Z
+updated: 2025-01-06T21:42:12.666Z
 tags:
   - win11
   - win10
@@ -34,9 +34,17 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Fix DCOM(**Distributed Component Object Model)** errors
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
@@ -45,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -58,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -67,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -106,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -123,19 +131,11 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -148,15 +148,15 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
 ``
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -165,6 +165,10 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ``
 
@@ -175,10 +179,6 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -225,22 +225,17 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-iphone-sky-photography-essential-tips-and-tricks/"><u>[New] In 2024, Mastering iPhone Sky Photography Essential Tips & Tricks</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-secrets-to-crafting-winning-freefire-videos/"><u>[New] In 2024, Secrets to Crafting Winning FreeFire Videos</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-explore-the-top-5-resources-for-innovative-text-designs-for-2024/"><u>[Updated] Explore the Top 5 Resources for Innovative Text Designs for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/44cm5pig5yop44o76zplusz5qw944gu5bcc6zaa55so6kqe6l6e5yw444cn/"><u>「映像・音楽の専門用語辞典」</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726030045799-isovob/"><u>高画質なままISOからVOB変換：最適な方法とコツ</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726028801534-usbdvd/"><u>記憶の永遠の保存 – USBメモリへのライブDVD複製方法</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726028255517-android/"><u>Androidでの音楽再生がうまくいかない時、その理由と解決策を詳しく見てみよう</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/atracmp3atracmp3/"><u>ATRAC形式からMP3への効率的な変換テクニック「大量ATRACファイルをMP3にする方法」</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-inoperative-sound-hardware-in-windows-11-systems/"><u>Diagnose and Repair Inoperative Sound Hardware in Windows 11 Systems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-from-stillness-to-streamline-adding-blurring-beauty-to-illustrator-photos/"><u>In 2024, From Stillness to Streamline Adding Blurring Beauty to Illustrator Photos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-7-best-mac-video-viewing-tools/"><u>In 2024, Top 7 Best Mac Video Viewing Tools</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/shoppers-guide-to-the-best-deals-on-amazon-prime-day-of-oct-24-limited-time-only-zdnet/"><u>Shoppers' Guide to the Best Deals on Amazon Prime Day of Oct '24 – Limited Time Only | ZDNet</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726028571800-5/"><u>ビデオ撮影者が選ぶ5つのおすすめ動画文字化シーンアプリ - 見やすく、使い勝手良し！</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029612744-and/"><u>ビデオトリミング・カットエディティング - 冗長セクション排除&編集技術</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726026739742-dailymotion/"><u>ブラウザでDailymotion動画を安全に保存するためのテクニック</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-how-to-navigate-apples-podcast-acceptance-policy/"><u>[New] How to Navigate Apple's Podcast Acceptance Policy</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-swiftly-tweak-your-stories-frame-rates-on-instagram/"><u>[Updated] 2024 Approved Swiftly Tweak Your Stories' Frame Rates on Instagram</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-ultimate-guide-to-selecting-a-top-screen-recorder-obsfraps/"><u>[Updated] 2024 Approved The Ultimate Guide to Selecting a Top Screen Recorder (OBS/Fraps)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-10-recording-tips-to-record-audio-in-high-quality/"><u>2024 Approved 10 Recording Tips to Record Audio in High Quality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-assessing-visual-clarity-entering-aurora-hdr-territory/"><u>2024 Approved Assessing Visual Clarity Entering Aurora HDR Territory</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-hamachi-service-stopped-working-issue/"><u>Effective Fixes for 'Hamachi Service Stopped Working' Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212530939-get-your-windows-11-bluetooth-back-fast-and-effective-fixes/"><u>Get Your Windows 11 Bluetooth Back: Fast and Effective Fixes!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-mavericks-video-editing-software-easily-edit-mp4-files/"><u>In 2024, Mavericks Video Editing Software Easily Edit MP4 Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/inside-scoop-on-the-next-apple-audio-wearable-price-release-schedule-and-leaked-specs/"><u>Inside Scoop on the Next Apple Audio Wearable - Price, Release Schedule, and Leaked Specs!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc-xbox-one-button-issues-resolved/"><u>PC Xbox One Button Issues Resolved</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/quick-and-easy-snapshot-in-zoom-video-call-for-2024/"><u>Quick and Easy Snapshot in Zoom Video Call for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-solution-for-a-malfunctioning-right-click-on-your-windows-10-computer/"><u>The Ultimate Solution for a Malfunctioning Right-Click on Your Windows 10 Computer</u></a></li>
 </ul></div>
 

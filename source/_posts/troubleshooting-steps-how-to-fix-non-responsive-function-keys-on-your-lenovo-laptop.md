@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: How To Fix Non-Responsive Function Keys on Your Lenovo Laptop"
-date: 2024-09-05T10:00:14.567Z
-updated: 2024-09-06T10:00:14.567Z
+date: 2025-01-02T16:31:34.943Z
+updated: 2025-01-07T03:45:20.595Z
 tags:
   - win11
   - win10
@@ -20,11 +20,9 @@ thumbnail: https://thmb.techidaily.com/997eaaad8fdf1ef3579a61ba5b99adb5daa8955b4
  In this post, we’ll show you some easy and effective solutions to fix the USB mouse not working problem on your Windows laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Cause of USB Mouse Not Working
 
 * **Hardware Damage**
@@ -33,11 +31,9 @@ thumbnail: https://thmb.techidaily.com/997eaaad8fdf1ef3579a61ba5b99adb5daa8955b4
 * **Inappropriate surface**
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 4 solutions you can try. You may not have to try them all; just work your way until your mouse works again.
@@ -47,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/997eaaad8fdf1ef3579a61ba5b99adb5daa8955b4
 3. [Restart your laptop](#fix3)
 4. [Update your mouse driver](#fix4)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware damage
 
  The very first thing is to check if there’s anything cracked or missing. Check the surface of your mouse carefully and also clean it while you’re doing so.
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/997eaaad8fdf1ef3579a61ba5b99adb5daa8955b4
  If it suddenly becomes sticky or silent when you click, it may be caused by a failure of the optical sensor, which suggests that the device is damaged.
 
  If you’re sure it’s caused by hardware damage, it’s time for a total replacement, rather than having them repaired, given their relatively low prices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Replug your USB cable or USB reciever
 
@@ -63,12 +67,6 @@ thumbnail: https://thmb.techidaily.com/997eaaad8fdf1ef3579a61ba5b99adb5daa8955b4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4d8efba92bc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4d8f0a4ba40.png)
 
 2) Wait for 1-3 minutes.
@@ -82,11 +80,9 @@ thumbnail: https://thmb.techidaily.com/997eaaad8fdf1ef3579a61ba5b99adb5daa8955b4
  Sometimes a simple restart can help you fix a lot of computer woes, including your mouse not working issue. So if after you reconnect your mouse to the laptop, it still keeps not working, restart your laptop, please. After getting into Windows, try your mouse to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your mouse driver
 
  If you’ve tried all of the basic troubleshooting methods but still failed to fix it, don’t be frustrated. Your USB mouse not working issue could be caused by an old, incompatible, or corrupted mouse driver.
@@ -111,24 +107,12 @@ thumbnail: https://thmb.techidaily.com/997eaaad8fdf1ef3579a61ba5b99adb5daa8955b4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/Driver-Easy-Scan-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to your flagged mouse driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro Version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a**30-day money-back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/Update-all-drivers-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -145,8 +129,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +136,23 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-from-novice-to-nexus-earning-the-status-as-a-validated-discord-partner-for-2024/"><u>[New] From Novice to Nexus Earning the Status as a Validated Discord Partner for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-drive-success-a-comprehensive-list-of-the-best-fb-schedulers/"><u>[Updated] Drive Success A Comprehensive List of the Best FB Schedulers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-altering-visuals-in-teams-calls-timely-setup-adjustments/"><u>[Updated] In 2024, Altering Visuals in Teams Calls Timely Setup Adjustments</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-virtual-conversations-unleashed-with-pc-based-whatsapp-web-chat/"><u>2024 Approved Virtual Conversations Unleashed with PC-Based WhatsApp Web Chat</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/compatibility-issue-resolved-recognizing-wd-my-passport-ultra-when-it-seems-invisible-to-windows/"><u>Compatibility Issue Resolved: Recognizing 'WD My Passport Ultra' When It Seems Invisible to Windows</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/essential-skills-for-successful-interviews-for-2024/"><u>Essential Skills for Successful Interviews for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-displays-without-hdcp-support-for-optimal-viewing-quality/"><u>Fixing Displays Without HDCP Support for Optimal Viewing Quality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-11-welcome-hang-up-fast-solutions/"><u>Fixing the Windows 11 Welcome Hang-Up: Fast Solutions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-top-rated-media-players-optimized-for-macos-catalina-and-big-sur-users/"><u>Free, Top-Rated Media Players Optimized for macOS Catalina and Big Sur Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-elevate-permissions-addressing-operation-requires-elevation-on-windows-platforms/"><u>How to Successfully Elevate Permissions: Addressing 'Operation Requires Elevation' On Windows Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-problem-heres-how-to-get-those-arrows-working-again/"><u>Keyboard Problem? Here's How to Get Those Arrows Working Again!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-start-up-struggles-in-epic-games/"><u>Overcoming Start-Up Struggles in Epic Games</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-your-assets-the-potential-of-chatgpt-as-a-weapon-in-cybercriminals-arsenal/"><u>Protecting Your Assets: The Potential of ChatGPT as a Weapon in Cybercriminals' Arsenal</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-resolution-for-out-of-memory-in-red-dead-redemption-2-increase-pagefile/"><u>Quick Resolution for 'Out of Memory' In Red Dead Redemption 2 - Increase Pagefile</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/top-rated-ios-device-data-restoration-tools-for-windows-10-ultimate-guide/"><u>Top Rated iOS Device Data Restoration Tools for Windows 10: Ultimate Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-windows-connectivity-errors-with-system-event-notification-services/"><u>Understanding Windows Connectivity Errors with System Event Notification Services</u></a></li>
+</ul></div>
 

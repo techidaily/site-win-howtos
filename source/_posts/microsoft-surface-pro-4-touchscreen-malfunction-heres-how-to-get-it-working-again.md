@@ -1,7 +1,7 @@
 ---
 title: Microsoft Surface Pro 4 Touchscreen Malfunction? Here's How to Get It Working Again
-date: 2024-12-24T23:52:05.160Z
-updated: 2024-12-28T08:47:41.542Z
+date: 2024-12-31T18:54:35.413Z
+updated: 2025-01-06T16:40:27.784Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Perform a two button shutdown
 
  Your touch screen may stop working properly if there are corruption issues on your Surface Pro 4\. You need to perform a **two button shutdown**  to shut it down completely to see if this can clear these issues and restore your touch screen.
@@ -46,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 **4) Start** your device. Then try your touch screen and see if it can work.  
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Install system updates
 
  Your operating system may contain some defects that disable the touch screen of your device. You should verify that your system is updated, and install the system updates if it isn’t.
@@ -59,16 +59,12 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b61efb81b9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Select **Update & Security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Select **Check for updates** , and wait for the system updates to be installed.
 
@@ -76,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
 **4)**  Restart your computer and check to see if this fixes your touch screen.  
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Update the driver of your touch screen
 
@@ -93,17 +93,13 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c49fc02c88.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the Update button next to a flagged touch screen driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click the Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)  – you’ll be prompted to upgrade when you click the Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afac9d2c5c8.jpg)
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Reset your Surface Pro 4
@@ -121,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 **3)**  Select**Recovery** and then select **Get started** button under Reset this PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c54ad3185f.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Choose either to **keep your files** or to **remove everything** when resetting your device.
 
@@ -145,18 +145,21 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/uilding-a-successful-livestream-empire-youtube-edition-for-2024/"><u>[New] Building a Successful Livestream Empire YouTube Edition for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-pip-blueprint-crafting-compelling-video-presentations-on-macos/"><u>[Updated] In 2024, The PIP Blueprint Crafting Compelling Video Presentations on macOS</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-launch-any-video-projects-with-free-kits/"><u>[Updated] Launch Any Video Projects with Free Kits</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-sprint-through-photo-composition-googles-easy-way/"><u>[Updated] Sprint Through Photo Composition - Google's Easy Way</u></a></li>
-<li><a href="https://video-capture.techidaily.com/complete-tutorial-how-to-upload-and-share-gif-images-on-instagram-for-both-desktop-and-smartphones/"><u>Complete Tutorial: How to Upload and Share GIF Images on Instagram for Both Desktop & Smartphones</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/convert-mxf-files-effortlessly-into-mp4-format-for-free-using-movavis-web-tool/"><u>Convert MXF Files Effortlessly Into MP4 Format for Free Using Movavi's Web Tool!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/iphones-evolutionary-ladder-are-you-climbing-it/"><u>IPhone's Evolutionary Ladder: Are You Climbing It?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-5-no-cost-video-merge-apps-with-zero-watermarks/"><u>Top 5 No-Cost Video Merge Apps with Zero Watermarks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-reducing-size-of-mp4-videos-across-all-devices-and-web-services/"><u>Ultimate Guide: Reducing Size of MP4 Videos Across All Devices & Web Services</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-tutorial-on-converting-blu-ray-discs-to-optimized-mkv-format-for-enhanced-streaming-experience/"><u>Ultimate Tutorial on Converting Blu-Ray Discs to Optimized MKV Format for Enhanced Streaming Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-4k-resolution-a-complete-guide-to-upgrading-your-videos-to-ultra-high-definition/"><u>Understanding 4K Resolution: A Complete Guide to Upgrading Your Videos to Ultra High Definition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wavogg3/"><u>WAV形式へのOGGファイル変換テクニック3つ - 簡単ガイド</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-and-macmovgif/"><u>Windows & MacのMOVファイルからGIFへ完全変換ガイド - オススメツールとコツ</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-from-beginner-to-pro-mastering-mi-11-screen-captures/"><u>[New] 2024 Approved From Beginner to Pro Mastering Mi 11 Screen Captures</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-master-iphone-photo-watermarks-the-top-apps-reviewed/"><u>[New] In 2024, Master iPhone Photo Watermarks The Top Apps Reviewed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-recorders-unite-compete-for-2024/"><u>[New] Recorders Unite, Compete for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-recording-advice-macbooks-camera-insights/"><u>[Updated] 2024 Approved Essential Recording Advice MacBook's Camera Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-affordable-gear-for-aspiring-content-creators/"><u>2024 Approved Affordable Gear for Aspiring Content Creators</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-security-prompts-navigating-user-privilege-levels-for-task-execution-on-windows-systems/"><u>Dealing with Security Prompts: Navigating User Privilege Levels for Task Execution on Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-monitor-messages-insight-into-handling-non-compatible-device-signals/"><u>Decoding Monitor Messages: Insight Into Handling Non-Compatible Device Signals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-resolving-the-failure-of-the-windows-1903-features-update-deployment/"><u>Diagnosing and Resolving the Failure of the Windows 1903 Features Update Deployment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-overcoming-the-unknown-usb-device-port-reset-failed-problem-in-windows-10-computers/"><u>Expert Tips for Overcoming the 'Unknown USB Device (Port Reset Failed)' Problem in Windows 10 Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-does-a-vpn-work-and-why-should-you-use-one-unlocking-the-secrets-of-virtual-privacy-with-zdnets-complete-guide/"><u>How Does a VPN Work, and Why Should You Use One? Unlocking the Secrets of Virtual Privacy with ZDNet's Complete Guide</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-13-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 13 Pro Max/iPad | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-xiaomi-redmi-a2-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Xiaomi Redmi A2 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-windows-plugin-load-failures-and-missing-game-files/"><u>Quick Fixes for Windows Plugin Load Failures and Missing Game Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-to-resolving-file-explorer-issues-in-windows-10-effortlessly/"><u>Quick Guide to Resolving File Explorer Issues in Windows 10 Effortlessly</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1219264-9780698147850-stitches/"><u>Stitches | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-strategies-for-handling-directx-device-creation-issues/"><u>Successful Strategies for Handling DirectX Device Creation Issues</u></a></li>
 </ul></div>
 

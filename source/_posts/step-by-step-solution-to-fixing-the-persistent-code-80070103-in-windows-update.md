@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution to Fixing the Persistent Code 80070103 in Windows Update
-date: 2024-12-21T08:18:54.936Z
-updated: 2024-12-27T17:14:05.035Z
+date: 2025-01-06T02:52:41.799Z
+updated: 2025-01-07T02:47:14.482Z
 tags:
   - win11
   - win10
@@ -42,10 +42,6 @@ When you fail to access another computer of the same network, or when you cannot
 
  The screenshot below comes from Windows 10, but the fixes also apply to Windows 7/8/11.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Change adapter options
 
  The network adapter enables your computer to transmit and receive data on a local area network. If you’re having the 0x800704cf error, try changing the adapter settings to see if that resolves the problem.
@@ -58,13 +54,13 @@ When you fail to access another computer of the same network, or when you cannot
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-2-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select**Status** . Then, click**Change adapter options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-3-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Right-click the network you’re currently using, and click**Properties** .
 
@@ -87,7 +83,7 @@ When you fail to access another computer of the same network, or when you cannot
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-1-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Click**Yes** when you’re prompted to continue.
@@ -109,6 +105,10 @@ netsh int ip reset
  Now that the DNS cache is cleared, NetBIOS entries are refreshed, and both the IP settings and Winsock catalog is reset, you should reboot your computer for the changes to take effect. After that, check if the issue persists; if yes, head towards the last fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Reinstall the network adapter
 
@@ -162,10 +162,6 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-2-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Select**Your info** in the left pane. Then, click**Sign in with a Microsoft account instead** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-3-9.jpg)
@@ -175,6 +171,10 @@ netsh int ip reset
 **5)** Go back to**Your info** , and click**Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-4-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Follow the on-screen instruction to verify your identity. Then, open your Microsoft Store and see whether the 0x800704cf code still pops up or not. If this method isn’t helpful, don’t despair. Have a look at more fixes below.
 
@@ -188,6 +188,10 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Scroll down to click**Network Adapter** . Then, click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-3.jpg)
@@ -196,10 +200,6 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-3-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Wait for the troubleshooting process to complete, and close the troubleshooter.
 
 **5)** Click**troubleshoot** in the search box and click**Troubleshooting settings** to open the troubleshoot menu again.
@@ -207,20 +207,20 @@ netsh int ip reset
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Scroll down to click**Windows Store Apps** and click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-4-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Follow the on-screen instruction to fix any detected issues. Then, launch the Microsoft Store and check if it works without error. If not, please try the Fix 3 below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Reset the Microsoft store
 
@@ -230,16 +230,12 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click**Apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Select**Apps & features** . Then, scroll down to click**Microsoft Store** , and click**Advanced options** .
@@ -261,7 +257,7 @@ netsh int ip reset
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tips: Update your network driver
@@ -285,6 +281,10 @@ netsh int ip reset
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-2-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -315,18 +315,24 @@ netsh int ip reset
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-effortlessly-capture-and-archive-your-favorite-fb-story-moments/"><u>[Updated] Effortlessly Capture and Archive Your Favorite FB Story Moments</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://fox-info.techidaily.com/dji-spark-and-you-a-comprehensive-review-of-portable-aerial-tech/"><u>DJI Spark and You A Comprehensive Review of Portable Aerial Tech</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-adjusting-high-speed-footage-from-120-fps-down-to-standard-24-fps-without-introducing-slow-motion-distortions/"><u>Guide to Adjusting High-Speed Footage From 120 FPS Down to Standard 24 FPS Without Introducing Slow Motion Distortions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-boost-your-spreadsheets-integrate-chatgpt-with-excel-confidently-and-effortlessly/"><u>How to Boost Your Spreadsheets: Integrate ChatGPT with Excel Confidently and Effortlessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-separate-audio-from-video-streaming-top-5-techniques-explained/"><u>How To Separate Audio From Video Streaming: Top 5 Techniques Explained</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-and-resolve-directx-issues-in-fifa-20/"><u>How to Troubleshoot and Resolve DirectX Issues in FIFA 20</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-zero-cost-text-animation-guide-for-videos/"><u>In 2024, Zero-Cost Text Animation Guide for Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/in-depth-analysis-of-ezzermacs-spell-program-suite-reviews-and-tutorial-steps-with-active-url-access/"><u>In-Depth Analysis of EzzerMacs Spell Program Suite: Reviews & Tutorial Steps with Active URL Access</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-dvd-to-wmv-upgrades-secrets-to-achieving-top-notch-resolution-on-a-windows-pc/"><u>Mastering DVD to WMV Upgrades: Secrets to Achieving Top-Notch Resolution on a Windows PC</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/rhythmic-explorations-the-essential-15-videos-for-musicians-for-2024/"><u>Rhythmic Explorations The Essential 15 Videos for Musicians for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-secrets-of-the-apple-iphone-15-pro-in-depth-hands-on-testing-and-review/"><u>Unveiling the Secrets of the Apple iPhone 15 Pro: In-Depth Hands-On Testing and Review</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-mac-vlc-video-cutter-trim-cut-and-edit-videos-without-quality-degradation-for-2024/"><u>Updated Mac VLC Video Cutter Trim, Cut, and Edit Videos Without Quality Degradation for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-go-beyond-the-tv-watch-nba-gameplay-with-these-15-hacks/"><u>[New] 2024 Approved Go Beyond the TV Watch NBA Gameplay with These 15 Hacks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-top-20-online-instagram-video-converters-to-mp4-format-for-2024/"><u>[New] Top 20 Online Instagram Video Converters to MP4 Format for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-5-video-tweaking-apps-for-social-networking/"><u>[Updated] 2024 Approved Top 5 Video Tweaking Apps for Social Networking</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-ai-powered-vr-retail-navigation-for-2024/"><u>[Updated] AI-Powered VR Retail Navigation for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-boosting-engagement-adjusting-speed-of-instagram-stories/"><u>[Updated] Boosting Engagement Adjusting Speed of Instagram Stories</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-between-ipad-pro-m4-and-macbook-air-m3-strengths-weaknesses-and-differences-revealed/"><u>Choosing Between iPad Pro M4 and MacBook Air M3: Strengths, Weaknesses, and Differences Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-solutions-resolving-opengl-issues-in-minecraft/"><u>Essential Solutions: Resolving OpenGL Issues in Minecraft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-of-unresponsive-keyboard-buttons-in-windows-pcs/"><u>Fixing the Issue of Unresponsive Keyboard Buttons in Windows PCs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-hot-30-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Hot 30 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-swift-windows-document-reviewing-techniques/"><u>In 2024, Swift Windows Document Reviewing Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/insight-on-overcoming-steams-recent-connectivity-problems-for-gamers/"><u>Insight on Overcoming Steam's Recent Connectivity Problems for Gamers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reestablished-turn-on-nearby-network-defense-options/"><u>Reestablished: Turn On Nearby Network Defense Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-call-of-duty-world-war-ii-issue-with-error-4220/"><u>Resolved: 'Call of Duty World War II' Issue with Error 4220</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209605407-solving-your-non-functional-usb-mouse-issue-top-solutions-for-laptops/"><u>Solving Your Non-Functional USB Mouse Issue: Top Solutions for Laptops!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-quick-solutions-for-unresponsive-lenovo-fingerprint-scanner/"><u>Troubleshooting Guide: Quick Solutions for Unresponsive Lenovo Fingerprint Scanner</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-user-profile-service-has-stopped-error-on-windows/"><u>Troubleshooting Steps for 'User Profile Service Has Stopped' Error on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-resolve-common-netflix-connectivity-issues/"><u>Troubleshooting: How To Resolve Common Netflix Connectivity Issues</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveiling-the-best-vimeoyoutube-release-schedule-for-2024/"><u>Unveiling the Best Vimeo/YouTube Release Schedule for 2024</u></a></li>
 </ul></div>
 

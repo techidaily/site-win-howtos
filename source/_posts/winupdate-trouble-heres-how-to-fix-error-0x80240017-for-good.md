@@ -1,7 +1,7 @@
 ---
 title: WinUpdate Trouble? Here's How to Fix Error 0X80240017 for Good
-date: 2024-12-26T14:53:57.050Z
-updated: 2024-12-28T03:44:17.664Z
+date: 2025-01-03T02:54:04.138Z
+updated: 2025-01-07T04:51:15.502Z
 tags:
   - win11
   - win10
@@ -45,14 +45,22 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04da616dafa.jpg)
 2. Click**Troubleshoot** on the left. Click**Windows Update** \>**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
 3. Windows will start detecting problems, which will take several minutes. Once done, follow the on-screen instructions to complete the process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dae7e3360.png)
 4. Restart your computer and try Windows Update again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the Windows Update error persists, move on to the second method.
@@ -82,6 +90,10 @@ If the Windows Update error persists, move on to the second method.
 
  If your issue still persists, don’t worry, There is something else to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Repair corrupted system files
 
  Missing or corrupted system files can also trigger the Windows Update error 0x80240017\. To detect and fix them, you may need to perform an in-depth PC scan.
@@ -96,14 +108,14 @@ If the Windows Update error persists, move on to the second method.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -116,23 +128,11 @@ If the Windows Update error persists, move on to the second method.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04db671de3d.jpg)
 2. Type the following command and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ddb7ef0b3.jpg)
 3. Once the process is 100% complete, exit Command Prompt and restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Try to update Windows again and see if it fixes your error 0x80240017\. Still no luck? There’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update available drivers
 
@@ -177,20 +177,16 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-breathtaking-lyric-videos-made-easy-by-lyric-video-maker-for-2024/"><u>[New] Breathtaking Lyric Videos Made Easy by Lyric Video Maker for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-exclusive-guide-to-instagrams-hidden-functionality/"><u>[New] Exclusive Guide to Instagram's Hidden Functionality</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-peering-into-youtube-interactive-threads/"><u>2024 Approved Peering Into YouTube Interactive Threads</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comparing-smart-speakers-google-nest-audio-vs-apple-homepod/"><u>Comparing Smart Speakers: Google Nest Audio Vs. Apple HomePod</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210755575-9791028521158-developpez-vos-facultes-energetiques/"><u>Développez vos facultés énergétiques | Free Book</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722901173130-exploring-the-hottest-imessage-game-selection-of-2024-our-picks/"><u>Exploring The Hottest iMessage Game Selection of 2024: Our Picks</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-always-show-task-manager-on-top-of-other-open-windows/"><u>How to Always Show Task Manager on Top of Other Open Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-21-must-watch-chinese-animations-mastering-the-art-of-donghua/"><u>Top 21 Must-Watch Chinese Animations: Mastering the Art of Donghua</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-rated-kindle-fire-video-transformer-apps-effortless-video-format-adaptation-for-your-device/"><u>Top Rated Kindle Fire Video Transformer Apps - Effortless Video Format Adaptation for Your Device</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-reviews-for-poweradd-pilot-pro2-charging-station-boost-energy-to-devices-quickly/"><u>Top Reviews for POWERADD Pilot Pro2 Charging Station - Boost Energy to Devices Quickly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-burning-a-dvd-as-wmv-file-with-excellent-quality-on-windows-pc/"><u>Ultimate Guide to Burning a DVD as WMV File with Excellent Quality on Windows PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-quickly-merging-mp3s-on-windows-1011-with-proven-techniques/"><u>Ultimate Guide to Quickly Merging MP3s on Windows 10/11 with Proven Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-transferring-your-favorite-tunes-from-youtube-to-your-pc/"><u>Ultimate Guide to Transferring Your Favorite Tunes From YouTube to Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-requires-elevation-puzzle-win-11s-error-740-solution/"><u>Unraveling the Requires Elevation Puzzle: Win 11'S Error #740 Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/vobwmvwindows/"><u>VOBファイルをWMV形式に変換するためのWindows対応ガイド</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-god-of-thunder-returns-epic-dawn-for-2024/"><u>[Updated] God of Thunder Returns Epic Dawn for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-discover-the-best-smartphone-arvr-adventures/"><u>2024 Approved Discover the Best Smartphone AR/VR Adventures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avoidance-of-gaming-leads-to-reboots/"><u>Avoidance of Gaming Leads to Reboots</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-your-logitech-keyboard-to-work-with-windows-10-a-step-by-step-guide/"><u>Getting Your Logitech Keyboard to Work with Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-info.techidaily.com/how-to-check-for-flip-builders-official-mark-on-your-recently-acquired-output-publications/"><u>How to Check for Flip Builder’s Official Mark on Your Recently Acquired Output Publications</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-unregistered-classes-in-windows-10-a-comprehensive-fix/"><u>How to Resolve Unregistered Classes in Windows 10 – A Comprehensive Fix</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-dell-wi-fi-adapter-drivers-for-smooth-internet-connection/"><u>Latest Dell Wi-Fi Adapter Drivers for Smooth Internet Connection</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-app-not-verified-error-on-windows-pc/"><u>Quick Fixes for App Not Verified Error on Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-pick-in-affordable-laptops-how-the-299-hp-stream-outshines-budget-competitors-insights-experts/"><u>Top Pick in Affordable Laptops: How the $299 HP Stream Outshines Budget Competitors – Insights Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-without-xinput13dll-in-your-system/"><u>Troubleshooting Without XINPUT1_3.dll in Your System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-hosted-wi-fi-trouble-no-more-issue-solved/"><u>Windows 10 Hosted Wi-Fi Trouble No More – Issue Solved!</u></a></li>
 </ul></div>
 

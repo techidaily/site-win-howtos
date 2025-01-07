@@ -1,7 +1,7 @@
 ---
 title: Laptop Touchpad Not Functioning? Here's How to Fix It on Windows OS!
-date: 2024-09-05T10:00:17.963Z
-updated: 2024-09-06T10:00:17.963Z
+date: 2025-01-02T23:18:11.522Z
+updated: 2025-01-06T19:09:17.405Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Laptop Touchpad Not Functioning? Here's How to F
 thumbnail: https://thmb.techidaily.com/f308ec8a50cc9a493046d8e6543aebbcad8cb9f6d5b3eda7f842ca1c1e275bb8.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows 11 Touchpad Not Scrolling? Here's the Solution
 
 Touchpad scroll gives you much convenience to drag content on desktop without using mouse. But how if you found it not working? That must annoys you too much.
@@ -38,18 +32,6 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2)  
 
  Find and expand**Mice and other pointing devices** dialog.  
@@ -57,12 +39,6 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3)  
 
  Choose to view on**Driver** pane.  
@@ -71,22 +47,22 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
 
@@ -101,11 +77,9 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -113,6 +87,10 @@ Then click **Device Manager**  to open it.
 **Option 2.**   Install all the correct drivers automatically in just one-go with **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . No worry to try it as it comes with a no-questions-asked **30-day money-back guarantee**  and **professional tech support**  24/7.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
 
@@ -127,8 +105,6 @@ Then click **Device Manager**  to open it.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +112,26 @@ Then click **Device Manager**  to open it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ay-goodbye-to-vertical-and-horizontal-bars-in-youtube-movies/"><u>[New] Say Goodbye to Vertical and Horizontal Bars in YouTube Movies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-strength-of-visual-client-commitment-to-brands/"><u>[New] The Strength of Visual Client Commitment to Brands</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-decoding-youtube-shorts-all-you-need-to-understand/"><u>[Updated] 2024 Approved Decoding YouTube Shorts All You Need to Understand</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-youtubes-competition-best-3-online-videostreaming-hubs/"><u>[Updated] In 2024, YouTube's Competition Best 3 Online Videostreaming Hubs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-monetizing-micro-vlogs-a-step-by-step-guide-for-2024/"><u>[Updated] Monetizing Micro-Vlogs A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/apples-2020-iphone-se-evaluation-balancing-performance-and-price/"><u>Apple's 2020 iPhone SE Evaluation - Balancing Performance and Price</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-handling-and-correcting-the-0x800f0922-update-error-in-windows-11/"><u>Expert Advice: Handling and Correcting the 0X800F0922 Update Error in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-enable-stylus-and-touch-gestures-when-they-appear-disabled-on-the-monitor/"><u>How to Enable Stylus and Touch Gestures When They Appear Disabled on the Monitor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/huion-pen-trouble-here-are-five-ways-to-bring-it-back-to-life-fast/"><u>Huion Pen Trouble? Here Are Five Ways to Bring It Back to Life Fast!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/identifying-absence-of-api-load-library-dll/"><u>Identifying Absence of API Load Library Dll</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-channel-visualization-selecting-the-ideal-size-and-placement-for-yt/"><u>In 2024, Channel Visualization Selecting the Ideal Size and Placement for YT</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/incorporating-multimedia-in-school-curricula/"><u>Incorporating Multimedia in School Curricula</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/playcapture-x-the-cost-free-videography-for-games-for-2024/"><u>PlayCapture X The Cost-Free Videography for Games for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-steps-to-restore-functionality-to-a-non-detectable-usb-drive/"><u>Simple Steps to Restore Functionality to a Non-Detectable USB Drive</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205051437-stop-msmpengineexe-from-hogs-up-cpu-resources-in-windows-10-fixed/"><u>Stop MsMpEngine.exe From Hogs Up CPU Resources in Windows 10 – FIXED!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209863312-troubleshoot-a-deadbolt-usb-mouse-connection-with-these-simple-laptop-fixes/"><u>Troubleshoot a Deadbolt USB Mouse Connection with These Simple Laptop Fixes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-overcoming-windows-error-0x800704cf-a-step-by-step-solution/"><u>Troubleshooting Guide for Overcoming Windows Error 0X800704CF – A Step-by-Step Solution</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unveiling-the-origins-the-2024-crowdstrike-windows-crisis-explored-historical-insights/"><u>Unveiling the Origins: The 2024 CrowdStrike Windows Crisis Explored - Historical Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/warframe-update-problems-heres-how-you-can-successfully-resolve-them/"><u>Warframe Update Problems? Here's How You Can Successfully Resolve Them!</u></a></li>
+</ul></div>
 

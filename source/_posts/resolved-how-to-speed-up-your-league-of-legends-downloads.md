@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Speed Up Your League of Legends Downloads"
-date: 2024-09-05T10:00:14.815Z
-updated: 2024-09-06T10:00:14.815Z
+date: 2025-01-04T16:42:54.759Z
+updated: 2025-01-06T16:39:43.521Z
 tags:
   - win11
   - win10
@@ -19,24 +19,12 @@ League of Legends is a world popular game, but the slow download speed can easil
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/nordvpn-icon.png) **NordVPN**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Stop ISP Throttling with One Click**
 
 [**Get NordVPN**](https://r.brandreward.com?key=3882aba4cadd4473e0195097fdf20855&url=https://www.nordvpn.com&id=drivereasyen103640abanner)
 
  Before you try the following fixes, you need to make sure this slow speed issue only happened on League of Legends, which means it’s nothing to do with your internet speed. Otherwise, you may need to check your internet connection first.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -51,12 +39,6 @@ League of Legends is a world popular game, but the slow download speed can easil
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Launch as administrator
 
  The privilege issue and compatibility mode might be the reason for this problem. With high integrity access, League of Legends can make full use of its features, running its function properly. So run it as an administrator to see if this fixes the slow download issue.
@@ -65,11 +47,20 @@ League of Legends is a world popular game, but the slow download speed can easil
 2. Find League of Legends program. Right-click on it and click**Open file location** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/file.jpg)
 3. In the file, find the**LOL Launcher.exe** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click on it and click**Run as administrator** .
 
 Downloading again to see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Turn off Windows Firewall
 
@@ -78,16 +69,15 @@ Downloading again to see if it works.
 1. Click the Start button, type**windows firewall** in the search box and press the**Enter** key to open**Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Re-download to check.
 
 **Note** : If it doesn’t work, you must**turn on** Windows Firewall to protect your computer.  
@@ -104,11 +94,9 @@ Re-download to check.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Bonus: Update your drivers
 
  Missing or outdated drivers can cause many issues. Updating If you want to have better gaming experience and prevent potential problems, you’re recommended to keep your drivers update to date.
@@ -141,11 +129,9 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -163,8 +149,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +156,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-apple-tv-and-facebook-integration-watching-videos-easily-for-2024/"><u>[New] Apple TV and Facebook Integration Watching Videos Easily for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-guide-to-premium-free-online-screen-recorders-for-2024/"><u>[New] Guide to Premium Free Online Screen Recorders for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-chromes-new-soundscape-the-foremost-apps-for-voice-change-exploration/"><u>[New] In 2024, Chrome’s New Soundscape The Foremost Apps for Voice Change Exploration</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-screen-recording-with-internal-devices-on-huaweis-mate-mate-1020-and-p-p20-p10/"><u>[Updated] 2024 Approved Screen Recording with Internal Devices on Huawei’s Mate (Mate 10/20) and P (P20, P10)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-affordable-acoustic-amps-and-mics-for-video-voyagers/"><u>[Updated] In 2024, Affordable Acoustic Amps and Mics for Video Voyagers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wtv-mkv-movavi/"><u>立即無限制地逆向解碼 WTV 成 MKV - 使用 Movavi 免費轉換工具</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertir-fotos-nef-directamente-a-jpeg-sin-costo-usando-movavi-tutorial-completo/"><u>Convertir Fotos NEF Directamente a JPEG Sin Costo Usando Movavi: Tutorial Completo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dettagli-sui-file-wmv-e-come-sbloccarne-il-contenuto-sul-tuo-computer/"><u>Dettagli Sui File WMV E Come Sbloccarne Il Contenuto Sul Tuo Computer</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-enhanced-repertoire-of-questions-to-spark-podcast-conversations/"><u>In 2024, Enhanced Repertoire of Questions to Spark Podcast Conversations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/istruzioni-sui-modi-di-pagamento-con-movavi-scopri-le-opzioni/"><u>Istruzioni Sui Modi Di Pagamento Con Movavi – Scopri Le Opzioni</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revive-your-lost-iphone-x-with-these-tips/"><u>Revive Your LOST iPhone X with These Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformez-des-fichiers-wav-en-videos-3gp-libres-de-droits-solutions-fibzwp-rapides-avec-movavi/"><u>Transformez Des Fichiers WAV en Vidéos 3GP Libres De Droits - Solutions Fibzwp Rapides Avec Movavi</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/trasformare-immagini-pcx-in-formato-png-guida-rapida-e-gratuita-online-con-movavi/"><u>Trasformare Immagini PCX in Formato PNG: Guida Rapida E Gratuita Online Con Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/x11-guia-completa-movavi/"><u>X11: Guía Completa - Movavi</u></a></li>
+</ul></div>
 

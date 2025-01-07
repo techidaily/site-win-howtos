@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting a Halted Diagnostics Policy Application: A Complete Guide"
-date: 2024-09-05T10:00:14.780Z
-updated: 2024-09-06T10:00:14.780Z
+date: 2024-12-31T17:44:09.724Z
+updated: 2025-01-06T23:03:52.650Z
 tags:
   - win11
   - win10
@@ -19,17 +19,15 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 
  “**The hosted network couldn’t be started** ” error may occur when you set up WiFi hotspot via command prompt. The issue is very likely due to your WiFi network adapter. But no worry! We’ve got the answer for you. In this post, we will be showing you the tried-and-true methods to fix “The hosted network couldn’t be started” error on Windows 10\. Read along please.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [Enable Microsoft Hosted Network Virtual Adapter](https://tools.techidaily.com/drivereasy/download/)
 2. [Check your wireless network adapter](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your WiFi driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1\. Enable Microsoft Hosted Network Virtual Adapter
 
@@ -42,31 +40,17 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595daff2127b9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3)Find and expand**Network adapters** dialog.  
  Then right-click on**Microsoft Hosted Network Virtual Adapter** to choose**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db07149d8a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4)Now set your WiFi hotspot again to see if the error has been fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2\. Check your wireless network adapter
 
  1)Follow[step 1 in Method 1](https://tools.techidaily.com/drivereasy/download/) to open Device Manager.
@@ -76,31 +60,17 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db5161c78b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)View on**Power Management** pane.  
  Make sure**Allow the comoputer to turn off this device to save power** is**unchecked** and click**OK** to save settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db64b2e5ab.png)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If unluckily, neither method 1 nor method 2 helps you fix the error, it’s advise that update your WiFi driver with Method 3.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3\. Update your WiFi driver
 
  It is very important to update your WiFi drivers, because the wrong or outdated drivers may cause problems.
@@ -116,16 +86,14 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db84f55cbc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db867abdfc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now Microsoft will detect the update for you automatically.
 
  However, for some reason, Microsoft cannot always find the update for you. If you receive the message:**The best driver software for your device is already installed** , please try the next method to update the driver.
@@ -145,6 +113,10 @@ Now Microsoft will detect the update for you automatically.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-wireless-network-adapter-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -163,8 +135,6 @@ Now Microsoft will detect the update for you automatically.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +142,22 @@ Now Microsoft will detect the update for you automatically.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ce-the-art-of-youtube-reactions-3-innovative-approaches-unveiled-for-2024/"><u>[New] Ace the Art of YouTube Reactions - 3 Innovative Approaches Unveiled for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-cutting-edge-transitions-for-kinemaster-users/"><u>[New] Cutting Edge Transitions for Kinemaster Users</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-perfecting-pics-a-full-guide-to-facetune-mastery/"><u>[Updated] Perfecting Pics - A Full Guide to Facetune Mastery</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-a-step-by-step-guide-for-creating-channel-trailers-that-convert-viewers-into-customers/"><u>2024 Approved A Step-by-Step Guide for Creating Channel Trailers that Convert Viewers Into Customers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-the-apple-pencil-versions-pro-vs-2nd-gen-finding-the-ideal-choice-for-your-ipad/"><u>Comparing the Apple Pencil Versions: Pro Vs. 2Nd Gen - Finding the Ideal Choice for Your iPad</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/converse-confidently-high-impact-linguistic-courses/"><u>Converse Confidently: High-Impact Linguistic Courses</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-mp3-files-to-ogg-format-for-free-with-movavis-web-based-converter-quick-and-simple/"><u>Convert MP3 Files to Ogg Format for Free with Movavi's Web-Based Converter - Quick and Simple</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-conversion-amv-to-mp3-with-movavi/"><u>Free Online Conversion: AMV to MP3 with Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-transform-mp3-files-into-3gp-format-with-movavi/"><u>Free Online Converter - Transform MP3 Files Into 3GP Format with Movavi</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/guida-passo-passo-alla-condivisione-e-reproduzione-di-file-flac-su-iphone/"><u>Guida Passo-Passo Alla Condivisione E Reproduzione Di File FLAC Su iPhone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mpeg-files-to-mov-format-conversion-quick-easy-and-free-online-tool/"><u>MPEG Files to MOV Format Conversion - Quick, Easy & FREE Online Tool</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/optimizing-handbrake-configurations-for-seamless-android-tablet-playback/"><u>Optimizing HandBrake Configurations for Seamless Android Tablet Playback</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-impact-of-meta-ai-on-instagram-and-facebook-explored/"><u>The Impact of Meta AI on Instagram & Facebook Explored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transcodificador-online-libre-para-conversion-de-archivos-wmv-a-quicktime-mov-videowizard/"><u>Transcodificador Online Libre Para Conversion De Archivos WMV a QuickTime MOV - VideoWizard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transform-your-jp2-photos-to-jpeg-without-costs-using-our-simple-web-tool/"><u>Transform Your JP2 Photos to JPEG Without Costs Using Our Simple Web Tool</u></a></li>
+</ul></div>
 

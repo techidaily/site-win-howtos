@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Logitech Wireless Mouse Not Working"
-date: 2024-12-27T07:56:46.715Z
-updated: 2024-12-28T06:35:13.597Z
+date: 2025-01-01T20:38:43.111Z
+updated: 2025-01-06T22:54:24.012Z
 tags:
   - win11
   - win10
@@ -55,7 +55,7 @@ To check Windows Build of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. In the window that pops up, you can check the exact version of the copy of Windows on your PC.  
@@ -69,12 +69,12 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-Run-box.jpg)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
@@ -82,10 +82,6 @@ To check the specs of your PC:
  You may need to upgrade the hardware of your computer if it fails to meet the specs.
 
  If your PC specs are up to the mark but Total War: ROME REMASTERED still crashes, please move on to **Fix 2** , below to begin troubleshooting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
 
@@ -116,15 +112,7 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/123-1.png)
 2. Click **Yes**  when UAC promots for permissions to proceed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After that, launch Total War: ROME REMASTERED game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 4** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Verify game files on Steam
 
@@ -149,25 +137,41 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-1-1.png)
 2. In the window that pops up, click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall-1.png)
 3. Browse through the list of Allowed apps and features to see if Steam is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app-1.png)
 4. Once completed, click **OK** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Run the game in the client and see if it still crashes. If it’s still on-going, please move on to **Fix 6** .
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. During this time, be extra careful about what sites you visit, what emails you open and what files you download.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Install the latest patch
 
  The crashing issue could be a bug ensconced in the patches of the game. If this is the case, the developers would respond to this and address the issue with a new patch. So you can check out the latest patch to see if it helps fix the issue.
 
  If there’s no new patch available, or the problem remains after installing the latest patch, head on to **Fix 7** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean boot
 
@@ -179,22 +183,18 @@ Here are the steps to perform a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/msconfig-1.png)
 2. Click the **Services**  tab and tick the box for **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/service-and-hide-all-microsoft-services-1.png)
 3. Browse through the full list of services, make sure to   **check the boxes for the items that belong to your hardware manufacturers**  (such as Intel, AMD, and Qualcomm) and **uncheck the boxes for the rest** . Once finished, click **OK** to apply the changes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/esential.png)
 4. Restart your computer, then test to see if the game still crashes.  
 
    * **If Total War: ROME REMASTERED stops crashing** , you can try repeating these steps, disabling half of the services each time until you isolate the culpable program. Once you do, do some research on the internet to find out what the program is for, then contact the vendor of this program for advice or an alternative solution.  
    * **If Total War: ROME REMASTERED still crashes** , please continue to **Fix 8** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8:**Reinstall Total War: ROME REMASTERED and Steam**
 
@@ -221,21 +221,18 @@ Here are the steps to perform a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-archive-instagram-movies-a-comprehensive-pc-and-mac-approach/"><u>[New] In 2024, How to Archive Instagram Movies A Comprehensive PC & Mac Approach</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-pro-tips-to-create-impactful-and-stunning-gopro-time-lapses/"><u>[New] In 2024, Pro Tips to Create Impactful and Stunning GoPro Time-Lapses</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-insights-into-youtubes-content-policy-framework-for-2024/"><u>[Updated] Essential Insights Into YouTube's Content Policy Framework for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/a-comprehensive-guide-for-pc-users-unlocking-the-secrets-of-reading-ebooks-in-epub-format/"><u>A Comprehensive Guide For PC Users: Unlocking The Secrets Of Reading eBooks in EPUB Format</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/diagnosing-common-reasons-for-audio-distortion-expert-tips-from-yl-computings-sound-card-troubleshooting-guide/"><u>Diagnosing Common Reasons for Audio Distortion: Expert Tips From YL Computing's Sound Card Troubleshooting Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-leading-key-tracking-gadgets-for-easy-accessibility/"><u>Exploring the Leading Key Tracking Gadgets for Easy Accessibility</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/m4amp3-itunes/"><u>M4AからMP3への変換: ITunesを使ったガイド</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-media-conversion-a-step-by-step-tutorial-on-changing-video-and-sound-format-types/"><u>Mastering Media Conversion: A Step-by-Step Tutorial on Changing Video and Sound Format Types</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-stream-authorization-in-kodi-safety-and-management-tips/"><u>Navigating Stream Authorization in Kodi - Safety & Management Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-and-simple-guide-to-fast-dvd-ripping-with-windows/"><u>Quick & Simple Guide to Fast DVD Ripping with Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-and-effortless-guide-dividing-videos-evenly-on-your-pc/"><u>Quick and Effortless Guide: Dividing Videos Evenly on Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-and-simple-guide-transforming-divx-files-into-mp4-format/"><u>Quick and Simple Guide: Transforming DivX Files Into MP4 Format</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-guide-capturing-flv-videos-with-our-ultimate-recording-tool/"><u>Simple Guide: Capturing FLV Videos with Our Ultimate Recording Tool</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-buzz-around-sonys-next-gen-vr-experience-estimated-prices-launch-dates-and-cutting-edge-features-unveiled/"><u>The Buzz Around Sony’s Next-Gen VR Experience: Estimated Prices, Launch Dates & Cutting-Edge Features Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-11-sticky-note-access/"><u>Unlocking Windows 11 Sticky Note Access</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211264910-fixed-skyrim-wont-launch-2024-tips/"><u>[FIXED] Skyrim Won't Launch | 2024 Tips</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-grasping-the-glossary-of-virtual-worlds/"><u>[New] Grasping the Glossary of Virtual Worlds</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-revolutionize-your-workflow-with-lenovos-screen-capture-tools/"><u>[New] In 2024, Revolutionize Your Workflow with Lenovo's Screen Capture Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-showcase-video-reversal-techniques/"><u>[Updated] 2024 Approved Instagram Showcase Video Reversal Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-reducing-wait-times-in-your-wow-gaming-experience/"><u>Expert Tips for Reducing Wait Times in Your WoW Gaming Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210193819-fix-windows-10-refuses-to-power-off-solution-found/"><u>Fix: Windows 10 Refuses to Power Off - Solution Found</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-aoc-display-up-and-running-again-in-windows-10/"><u>How to Get Your AOC Display Up and Running Again in Windows 10</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-oppo-a2-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Oppo A2 FRP</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/itop-screen-recorder-review-should-you-install-it-in-2024/"><u>ITop Screen Recorder Review Should You Install It, In 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-for-unable-to-write-error-in-referenced-memory-0x/"><u>Solution Found for Unable-to-Write Error in Referenced Memory (0X)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-fix-your-pc-when-it-gets-stuck-during-boot/"><u>Troubleshooting: How to Fix Your PC When It Gets Stuck During Boot</u></a></li>
 </ul></div>
 

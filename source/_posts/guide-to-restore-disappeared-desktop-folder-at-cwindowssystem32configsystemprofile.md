@@ -1,7 +1,7 @@
 ---
 title: "Guide to Restore Disappeared Desktop Folder at C:\\Windows\\System32\\Config\\SystemProfile"
-date: 2024-12-27T06:35:26.040Z
-updated: 2024-12-27T18:14:33.428Z
+date: 2025-01-04T22:55:52.271Z
+updated: 2025-01-06T23:34:23.842Z
 tags:
   - win11
   - win10
@@ -68,15 +68,7 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-105.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Check for Windows Updates
 
@@ -91,6 +83,10 @@ OR
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-576.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Restart your computer.
 
@@ -110,10 +106,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-98-1024x641.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Wait for the process to be complete. If there is any malware on your computer, follow the on-screen instructions to remove it.
 
  If no malware is detected, that means your problem is not caused by malware. Try the fix below.
@@ -131,6 +123,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-118.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Type**msconfig** . Then, on your keyboard, press the**Enter, Shift** and**Ctrl** keys at the same time to run System configuration as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-116.png)
@@ -147,25 +143,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-109.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** Click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-112.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)** Click the**Startup tab.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-121.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **8)** Uncheck the box next to the program that you want to prevent it from auto-launching, and then click**OK** .
 
@@ -177,6 +165,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-120.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After your PC restarts, check if the issue has been resolved. If yes, you may need to re-enable important startups and services one by one to see which one is conflicting so you can keep it disabled.
 
  If this doesn’t work for you, you should[**reset your computer to start normally.**](#d3)
@@ -187,17 +179,21 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-87.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Type**msconfig** . Then, on your keyboard, press the**Enter, Shift** and**Ctrl** keys at the same time to run System configuration as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-88.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Uncheck the box next to**Load startup items** . Then click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-89.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click the**Services tab,** and then check the box next to**Hide all Microsoft services** .
 
@@ -211,13 +207,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-115.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **7)** Click the**Startup tab** , then click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-94.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)** Right-click the program you want to prevent it from auto-launching and select **Disable** .
 
@@ -253,11 +249,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-145.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-146.png)
 
  Your computer will start normally after you finish this step. If the clean reboot didn’t fix your problem, try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Run the Command Prompt
 
@@ -266,10 +270,6 @@ OR
 **1)**  On your keyboard, press the **Windows logo** key and **R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-160.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)**  Type **cmd,** then press the **Ctrl, Shift**  and **Enter** keys at the same time to run the Command Prompt as administrator.
 
@@ -281,13 +281,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-166.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Type **dism.exe /online /cleanup-image /startcomponentcleanup** , then press the **Enter**  key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-164.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)**  Type **dism.exe /online /cleanup-image /restorehealth** , then press the **Enter** key on your keyboard.
 
@@ -317,18 +317,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-three-easy-ways-to-harvest-youtubes-default-iconography/"><u>[New] 2024 Approved Three Easy Ways to Harvest Youtube's Default Iconography</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-plugged-in-not-charging-in-windows-7-or-10/"><u>[SOLVED] Plugged in, Not Charging in Windows 7 or 10</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-digital-domination-how-videos-rule-twitter/"><u>[Updated] Digital Domination How Videos Rule Twitter</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-optimal-cloud-audio-devices/"><u>[Updated] In 2024, Optimal Cloud Audio Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/affordable-power-station-testing-a-game-changer-for-budget-road-trips-insights-from-zdnet/"><u>Affordable Power Station Testing: A Game Changer for Budget Road Trips - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-bargain-4k-camera-deals-for-2024/"><u>Best Bargain 4K Camera Deals for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cpu-overload-resolution-for-windows-users/"><u>CPU Overload Resolution for Windows Users</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-advice-on-fixing-your-dragon-quest-xi-system-freeze-no-more-interruptions/"><u>Expert Advice on Fixing Your Dragon Quest XI System Freeze – No More Interruptions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-service-failed-to-start-sign-in-issue-on-windows-11-pcs/"><u>Fixing 'Service Failed to Start' Sign-In Issue on Windows 11 PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-your-ps4-controller-charging-issues-solved/"><u>Fixing Your PS4 Controller Charging Issues - Solved!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-delete-a-tiktok-account/"><u>How to Delete a TikTok Account</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210952150-revive-a-non-charging-laptop-battery-without-hassle-masterful-diy-fixes-here/"><u>Revive a Non-Charging Laptop Battery Without Hassle – Masterful DIY Fixes Here</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-connection-errors-in-your-minecraft-lan-setup-tips-and-tricks/"><u>Solving Connection Errors in Your Minecraft LAN Setup: Tips & Tricks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/levate-video-clarity-with-expert-tips-for-youtube-editors-for-2024/"><u>[New] Elevate Video Clarity with Expert Tips for YouTube Editors for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-game-changing-displays-the-creme-de-la-creme-of-4k-monitors-for-2024/"><u>[New] Game-Changing Displays The Crème De La Crème of 4K Monitors for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-full-spectrum-review-v-tubers-industry-landscape-for-2024/"><u>[Updated] Full Spectrum Review V-Tubers' Industry Landscape for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-best-buys-in-screen-recording-focusing-on-tunefabs-innovations/"><u>2024 Approved Best Buys in Screen Recording - Focusing on Tunefab's Innovations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/correcting-common-mistakes-overcoming-unintentional-keystrokes/"><u>Correcting Common Mistakes: Overcoming Unintentional Keystrokes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-techniques-to-lower-wudfhostexes-heavy-resource-utilization-on-windows-11-pcs/"><u>Effective Techniques to Lower wudfhost.exe's Heavy Resource Utilization on Windows 11 PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-fixes-to-the-problem-of-unresponsive-geforce-experience-interface/"><u>Effortless Fixes to the Problem of Unresponsive GeForce Experience Interface</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-reviving-computers-that-have-become-stuck-in-a-freeze-loop/"><u>Expert Tips for Reviving Computers That Have Become Stuck in a Freeze Loop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-non-responsive-windows-audio-service/"><u>Fixing Non-Responsive Windows Audio Service</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-the-most-out-of-your-keyboard-repairing-shortcut-windowplusshiftpluss-for-optimal-productivity-in-windows/"><u>Getting the Most Out of Your Keyboard: Repairing Shortcut Window+Shift+S for Optimal Productivity in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-microsoft-wireless-display-adapter-connectivity-problems-in-windows-11/"><u>How to Resolve Microsoft Wireless Display Adapter Connectivity Problems in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-persistent-windows-store-error-0x80072ee7-proven-solutions-unveiled/"><u>How to Resolve the Persistent Windows Store Error 0X80072EE7: Proven Solutions Unveiled</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-hd-audio-fix-solutions-for-when-its-unplugged/"><u>Realtek HD Audio Fix: Solutions for When It's Unplugged</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208322660-resolve-your-pcs-windows-update-issues-fixing-error-0x80070002-made-easy/"><u>Resolve Your PC's Windows Update Issues: Fixing Error 0X80070002 Made Easy</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-ark-survival-ascended-pc-game-crash-issues-using-9-effective-fixes/"><u>Solve Your ARK: Survival Ascended PC Game Crash Issues Using 9 Effective Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-htc-u23-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For HTC U23 Pro</u></a></li>
+<li><a href="https://win-dash.techidaily.com/top-generic-bluetooth-adapter-software-update-compatible-with-windows-systems/"><u>Top Generic Bluetooth Adapter Software Update - Compatible with Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unraveling-pc-quirks-a-guide-to-prevent-random-turn-off-issues/"><u>Unraveling PC Quirks: A Guide to Prevent Random Turn-Off Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavi-mxfmpeg/"><u>무료 제공 - Movavi의 온라인 MXF/MPEG 변환 도구: 원격 재미있는 방법</u></a></li>
 </ul></div>
 

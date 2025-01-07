@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Unresponsive Mic Connections on Windows 11
-date: 2024-12-23T13:30:03.833Z
-updated: 2024-12-27T17:49:05.742Z
+date: 2025-01-02T04:24:40.258Z
+updated: 2025-01-07T04:11:48.000Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/a6e5c2635593081e4b6078ab257c66dc8d161f27c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -37,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/a6e5c2635593081e4b6078ab257c66dc8d161f27c
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -47,13 +47,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -75,12 +75,16 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -107,19 +111,11 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -141,6 +137,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -184,18 +184,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-quickguide-optimizingyoucamrecord/"><u>[Updated] 2024 Approved QuickGuide OptimizingYouCamRecord</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-how-to-achieve-complete-volume-on-fb-media-shows/"><u>2024 Approved How to Achieve Complete Volume on Fb Media Shows</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-optimize-your-communication-scheduling-and-planning-with-ease-google/"><u>2024 Approved Optimize Your Communication Scheduling & Planning with Ease (Google)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-oppo-a1-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/audience-engagement-on-demand-top-5-mac-streaming-tools-for-2024/"><u>Audience Engagement On Demand Top 5 Mac Streaming Tools for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/demystifying-cinavia-anti-piracy-measures-methods-for-removing-cinavy-restrictions-safely/"><u>Demystifying Cinavia Anti-Piracy Measures: Methods for Removing Cinavy Restrictions Safely</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-windows-11-bluetooth-pairing-glitches-with-these-expert-tips/"><u>Fix Your Windows 11 Bluetooth Pairing Glitches with These Expert Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/improved-performance-fixing-windows-drivers-to-curb-cpu-overuse-issues/"><u>Improved Performance: Fixing Window's Drivers to Curb CPU Overuse Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-msmpengexe-high-cpu-usage-in-windows-11/"><u>Resolved! MsMpEng.exe High CPU Usage in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-complete-cheat-sheet-for-overcoming-the-notorious-steam-black-screen-glitch/"><u>The Complete Cheat Sheet for Overcoming the Notorious Steam Black Screen Glitch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-windows-10-update-error-0x80240034/"><u>Troubleshooting Guide for Windows 10 Update Error - 0X80240034</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/what-to-do-when-itunes-ends-expert-guides-to-shifting-your-ios-content-without-issues/"><u>What To Do When iTunes Ends: Expert Guides to Shifting Your iOS Content Without Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209469688-windows-10-touchpad-not-scrolling-heres-how-to-solve-it/"><u>Windows 10 Touchpad Not Scrolling? Here’s How to Solve It</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-capture-your-vision-leading-tablet-art-tools/"><u>[New] 2024 Approved Capture Your Vision Leading Tablet Art Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-discover-the-potential-detailed-look-at-showmore-as-your-recording-companion/"><u>[New] Discover the Potential Detailed Look at ShowMore as Your Recording Companion</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-xiaomi-mi-11-crafting-memories-in-unprecedented-detail-for-2024/"><u>[Updated] Xiaomi Mi 11 Crafting Memories in Unprecedented Detail for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fears-arise-as-d3d-devices-falter-impacting-unreal/"><u>Fears Arise as D3D Devices Falter, Impacting Unreal</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-failed-update-issues-in-your-favorite-mmo-warframe/"><u>How to Overcome Failed Update Issues in Your Favorite MMO, Warframe</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-samsung-galaxy-z-fold-5-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Samsung Galaxy Z Fold 5 to Another | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-oppo-reno-9a-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Oppo Reno 9A Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-battlefield-solutions-for-fixing-interruptions-in-online-gaming-arenas/"><u>Mastering the Battlefield: Solutions for Fixing Interruptions in Online Gaming Arenas</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/rapid-releases-review-best-quick-gaming-selections/"><u>Rapid Releases Review Best Quick Gaming Selections</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-uncovering-the-causes-of-game-security-breach-alerts/"><u>Resolved: Uncovering the Causes of 'Game Security Breach' Alerts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-livekernelevent-144-exception-a-comprehensive-guide/"><u>Resolving the LiveKernelEvent 144 Exception: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unbelievable-examination-and-replacement-ideas-for-2024/"><u>Unbelievable Examination & Replacement Ideas for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unveiling-msda80dll-should-you-retain-this-critical-component-on-your-computer/"><u>Unveiling MSDA80.DLL: Should You Retain This Critical Component on Your Computer?</u></a></li>
 </ul></div>
 

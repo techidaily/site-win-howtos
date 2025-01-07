@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing and Repairing Unexpected Turn-Offs in Computers: A Comprehve Solution"
-date: 2024-12-25T23:06:06.438Z
-updated: 2024-12-28T03:52:44.802Z
+date: 2025-01-01T20:07:03.049Z
+updated: 2025-01-07T03:35:46.609Z
 tags:
   - win11
   - win10
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/cyber-security-1923446_1920-1024x655.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update the drivers on your computer
@@ -67,11 +67,11 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-817.png)
 
- You can do it for free if you like, but it partly manual.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can do it for free if you like, but it partly manual.
 
 ### Method 3: Remove any peripherals from your computer
 
@@ -80,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
  Once removing a peripheral, check to see if the problem is resolved, then you can figure out which peripheral is causing the problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-2786081_1920-1024x626.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Reset CMOS to the default settings
 
@@ -107,15 +103,15 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-815.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you enter the BIOS menu, refer to these steps to reset the settings:  
 
  1)**Find the option** to reset the BIOS settings. This option is probably called**Setup Defaults** . It also depends on the computer manufacturers. But you can expect it has the “Default” words.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-816.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) You can see a function key next to the option. Just press that key on your keyboard to bring up the edit dialog box.  
 
@@ -133,10 +129,6 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-1168203_1920-1024x681.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 6: Check the fan
 
  The fan is one of the key components that makes computer to run properly. If it doesn’t work, the computer can overheat easily. Computer overheating can cause serious problems. So the system will try to prevent computer overheating. If the fan doesn’t work, the computer can shut down automatically to prevent the internal heating damaging the computer.
@@ -147,6 +139,10 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/motherboard-841487_1920-1024x678.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 7: Clean dust
 
  Computer collects dust everyday, but we won’t notice this until too much dust causes some computer problems, like computer overheating. As we mentioned before, overheating could be the cause of the problem “computer repeatedly turns on and off”.  
@@ -154,7 +150,7 @@ For example, many Dell PCs show this key like below at the first screen:
  For desktops, you can open the case and use a soft cloth to wipe the dust. The much easier method is to use a[compressed gas cleaning duster](https://www.amazon.com/Falcon-Compressed-Disposable-Cleaning-DPSXL4T/dp/B002ZB6LZA/&tag=easeware-camillamo-20) to get rid of the dust. For laptops, you’ll need to consult the manual or get technical help there if you haven’t opened one before.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 8: Replace the motherboard
@@ -162,6 +158,10 @@ For example, many Dell PCs show this key like below at the first screen:
  The last method to fix the problem is replace the motherboard. Replacing motherboard is a little technical and pricey. We recommend you to take your computer to the repair store for technical help.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/technology-1396677_1280-1024x768.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully you find the tips above helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.  
 
@@ -182,18 +182,20 @@ For example, many Dell PCs show this key like below at the first screen:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discover-youtubes-frame-advantage-five-free-tools/"><u>[New] In 2024, Discover YouTube's Frame Advantage - Five Free Tools</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ideo-journey-mastery-10-leading-apps-to-up-your-youtube-short-game-for-2024/"><u>[New] Video Journey Mastery 10 Leading Apps to Up Your Youtube Short Game for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-generate-10-official-travel-ready-passport-images-no-money-down/"><u>[Updated] 2024 Approved Generate 10 Official Travel-Ready Passport Images, No Money Down</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-live-engagement-on-fb-how-to-get-started-for-2024/"><u>[Updated] Live Engagement on FB How to Get Started for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-unleashing-the-power-of-hashtags-for-instagram-success-for-2024/"><u>[Updated] Unleashing the Power of Hashtags for Instagram Success for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/connect-your-microsoft-wireless-adapter-with-ease-overcoming-challenges-on-windows-10-platforms/"><u>Connect Your Microsoft Wireless Adapter with Ease: Overcoming Challenges on Windows 10 Platforms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-risk-of-gpt-in-banking-and-pc-security-breaches/"><u>Decoding the Risk of GPT in Banking & PC Security Breaches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-wacom-tablet-drivers-missing-error-in-windows-11/"><u>How to Fix Wacom Tablet Drivers Missing Error in Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-instagram-how-to-boost-your-following/"><u>Mastering the Art of Instagram: How to Boost Your Following</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/rescue-your-gaming-experience-reinstating-dlls/"><u>Rescue Your Gaming Experience: Reinstating DLLs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-insufficient-system-resources-error-message/"><u>Resolved: Fixing 'Insufficient System Resources' Error Message</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-why-applicationexe-keeps-crashing-and-how-to-resolve-it/"><u>Solution Guide: Why Application.exe Keeps Crashing and How to Resolve It</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-the-windows-10-error-code-0x800f0922/"><u>Troubleshooting and Repairing the Windows 10 Error Code 0X800F0922</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instantaneous-instagram-video-experience/"><u>[Updated] 2024 Approved Instantaneous Instagram Video Experience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-hassle-free-techniques-record-your-dell-screen-easily-for-2024/"><u>[Updated] Hassle-Free Techniques Record Your Dell Screen Easily for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-mastering-digital-screen-capture-techniques/"><u>2024 Approved Mastering Digital Screen Capture Techniques</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210701606-9781685680275-cantos-del-alma/"><u>Cantos del alma | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-solve-and-prevent-the-0x8024402c-error-in-windows-updates/"><u>How to Successfully Solve and Prevent the 0X8024402C Error in Windows Updates</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-12-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi 12 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-when-your-usb-flash-drive-isnt-detected/"><u>Quick Fix Guide: When Your USB Flash Drive Isn't Detected</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-pc-installation-issues-with-oddworld-soulstorm-a-complete-guide/"><u>Resolving PC Installation Issues with Oddworld: Soulstorm - A Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-unresponsive-usb-peripherals-on-windows-7-a-step-by-step-fix/"><u>Revive Your Unresponsive USB Peripherals on Windows 7: A Step-by-Step Fix</u></a></li>
+<li><a href="https://extra-support.techidaily.com/school-based-videography-crafting-quality-content-for-2024/"><u>School-Based Videography Crafting Quality Content for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-ai-interactions-discover-7-key-techniques-for-better-prompts/"><u>Transform Your AI Interactions: Discover 7 Key Techniques for Better Prompts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-establish-connection-microsoft-wireless-display-with-windows-11-explained/"><u>Troubleshoot and Establish Connection: Microsoft Wireless Display with Windows 11 Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-steps-to-reset-and-secure-your-facebook-account/"><u>Ultimate Guide: Steps to Reset and Secure Your Facebook Account</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-handbook-for-morphvox-transformers/"><u>Ultimate Handbook for MorphVOX Transformers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-high-cpu-load-caused-by-msmpengexe-on-windows-10-tips-and-tricks/"><u>Winning the Battle Against High CPU Load Caused by MsMpEng.exe on Windows 10: Tips & Tricks</u></a></li>
 </ul></div>
 

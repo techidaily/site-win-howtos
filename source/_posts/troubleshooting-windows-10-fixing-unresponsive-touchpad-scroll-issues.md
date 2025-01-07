@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows 10: Fixing Unresponsive Touchpad Scroll Issues"
-date: 2024-09-05T10:00:16.481Z
-updated: 2024-09-06T10:00:16.481Z
+date: 2025-01-05T01:49:05.598Z
+updated: 2025-01-07T01:55:27.061Z
 tags:
   - win11
   - win10
@@ -19,20 +19,8 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59648fd6c4402.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  No panic any more. Here in this post, we will be showing you the tried-and-true **methods to fix touchpad scroll not working issue on Windows 10** . Actually, the methods also suits for other Windows operating system. Go on with the methods and make sure to try next if the only one didn’t help you.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 1\. Roll back your touchpad driver to an earlier version
 
  Many users fix their touchpad not scrolling issue by rolling back the driver. Follow the steps below.
@@ -43,6 +31,10 @@ On your keyboard, press **Windows**  key + **X**  key together to open quick-acc
 Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2)  
 
@@ -59,29 +51,19 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2\. Update your touchpad driver
 
  To update driver, you also can go to the manufacturer’s website to download the latest driver for your touchpad. If you are not a computer savvy, we advise you use driver tools to help you.
@@ -95,11 +77,9 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -107,6 +87,10 @@ Then click **Device Manager**  to open it.
 **Option 2.**   Install all the correct drivers automatically in just one-go with **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . No worry to try it as it comes with a no-questions-asked **30-day money-back guarantee**  and **professional tech support**  24/7.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
 
@@ -121,8 +105,6 @@ Then click **Device Manager**  to open it.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +112,22 @@ Then click **Device Manager**  to open it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-quick-step-elevate-through-video-and-like-gameplay/"><u>[New] In 2024, Instagram Quick-Step Elevate Through Video & Like Gameplay</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-spawn-a-shared-chuckle/"><u>[New] In 2024, Spawn a Shared Chuckle</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/aprenda-a-editar-dvds-com-facilidade-copiando-convertendo-e-compactando-videos/"><u>Aprenda a Editar DVDs Com Facilidade: Copiando, Convertendo E Compactando Vídeos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-examination-unveiling-the-performance-of-googles-latest-smartphone-pixel-e6/"><u>Comprehensive Examination: Unveiling the Performance of Google's Latest Smartphone, Pixel E6</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertissez-gratuitement-votre-fichier-ape-au-format-aiff-sur-internet-avec-ease-movavi/"><u>Convertissez Gratuitement Votre Fichier APE Au Format AIFF Sur Internet Avec Ease - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-conversion-transform-your-wtv-files-into-avi-format-with-movavi/"><u>Free Online Conversion: Transform Your WTV Files Into AVI Format with Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-does-handbrake-eliminate-drm-on-dvds-step-by-step-removal-guide/"><u>How Does Handbrake Eliminate DRM on DVDs? Step-by-Step Removal Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-windows-1n-sound-issues-complete-solution/"><u>How to Repair Windows 1N Sound Issues - Complete Solution</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-techniques-for-setting-up-your-wd-ses-external-hard-drive-via-usb-on-pcs-from-2011-onwards/"><u>Latest Techniques for Setting Up Your WD SES External Hard Drive via USB on PCs From 2011 Onwards</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-of-controlling-self-opening-searchbar-on-win11/"><u>Mastery of Controlling Self-Opening Searchbar on Win11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/modify-video-annotations-with-ease-masterclass-in-movavis-editing-tools/"><u>Modify Video Annotations with Ease: Masterclass in Movavi's Editing Tools</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-transform-your-memories-best-online-photo-and-video-collage-apps-for-2024/"><u>New Transform Your Memories Best Online Photo and Video Collage Apps for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ntsc-vs-pal-understanding-the-key-distinctions-and-compatibility/"><u>NTSC vs PAL: Understanding the Key Distinctions and Compatibility</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-flac-wma/"><u>무료 Movavi라는 소프트웨어를 사용한 FLAC WMA 변환 – 컴퓨터 내부에서의 안전하고 편리한 방법</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Fixing High Resource Usage by MsMpEng.exe in Windows 10
-date: 2024-12-22T00:13:10.193Z
-updated: 2024-12-28T01:35:31.512Z
+date: 2024-12-30T17:53:41.254Z
+updated: 2025-01-07T03:56:31.769Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix Windows 10 Bluetooth missing?
@@ -44,13 +44,13 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
 
@@ -64,29 +64,21 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right-click on the service again, and this time click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
@@ -96,9 +88,17 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
@@ -109,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
@@ -125,6 +125,10 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
@@ -143,10 +147,6 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
  Or if you use the Pro version, click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (You get full support and a 30-day money back guarantee for the Pro version)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -175,17 +175,19 @@ thumbnail: https://thmb.techidaily.com/030f43c520c13566e766031892a27e4f35e056dc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-sifting-through-legacy-works-a-cultural-journey-for-2024/"><u>[New] Sifting Through Legacy Works A Cultural Journey for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/automation-bane-keep-your-windows-backdrop-steady/"><u>Automation Bane: Keep Your Windows Backdrop Steady</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/capturing-mov-videos-in-windows-11/"><u>Capturing MOV Videos in Windows 11</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/how-to-efficiently-refresh-your-scanners-firmware-a-guide-by-yl-software-professionals/"><u>How to Efficiently Refresh Your Scanner’s Firmware: A Guide by YL Software Professionals</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-mastering-self-assured-vlogging-channeling-youtube-stars/"><u>In 2024, Mastering Self-Assured Vlogging Channeling YouTube Stars</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/insightful-analysis-on-torment-tides-of-numenera-a-journey-through-sci-fi-and-fantasy-rpg-realms/"><u>Insightful Analysis on 'Torment: Tides of Numenera': A Journey Through Sci-Fi and Fantasy RPG Realms</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-guide-to-converting-your-dvd-collection-for-viewing-on-ipad/"><u>Quick Guide to Converting Your DVD Collection for Viewing on iPad</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/seamless-guide-how-to-get-your-favorite-love-ballads-instantly/"><u>Seamless Guide: How to Get Your Favorite Love Ballads Instantly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/seamless-recording-techniques-capturing-your-valorant-sessions-with-zero-frame-drops/"><u>Seamless Recording Techniques: Capturing Your Valorant Sessions with Zero Frame Drops</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-youtube-and-chrome-glitch-quickly-top-troubleshooting-tips/"><u>Solve Your YouTube and Chrome Glitch Quickly: Top Troubleshooting Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steam-windows-1011/"><u>Steamゲーム動画作成 : Windows 10/11におすすめの全方法一覧</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zendures-mighty-power-bank-unveiled-introducing-the-supermini-go-your-reliable-travel-charger-with-impressive-features-zdnet/"><u>Zendure's Mighty Power Bank Unveiled: Introducing the SuperMini Go, Your Reliable Travel Charger with Impressive Features | ZDNET</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-capture-breathtaking-shots-for-fb-livestreaming-with-dji-for-2024/"><u>[New] Capture Breathtaking Shots for FB Livestreaming with DJI for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-maximizing-learning-through-recording-classroom-discourse-on-mac/"><u>[New] Maximizing Learning Through Recording Classroom Discourse on Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-gear-helmet-cams-the-most-trusted-choice-riders/"><u>[New] Top Gear Helmet Cams - The Most Trusted Choice Riders</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-understanding-the-technicalities-of-fb-360-streaming-for-2024/"><u>[New] Understanding the Technicalities of FB 360 Streaming for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unseen-influences-on-your-viewing-habits-of-stories/"><u>[New] Unseen Influences on Your Viewing Habits of Stories</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-art-of-logging-streaming-services-with-fidelity/"><u>[Updated] The Art of Logging Streaming Services with Fidelity</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-androids-free-screen-snip-picks-our-best-8-on-display/"><u>2024 Approved Android's Free Screen Snip Picks – Our Best 8 on Display</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/finding-your-ideal-screen-recorder-obs-or-fraps-for-2024/"><u>Finding Your Ideal Screen Recorder OBS or Fraps for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-bluetooth-missing-from-windows-device-manager/"><u>How to Fix Bluetooth Missing From Windows Device Manager</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-realme-c67-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Realme C67 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-error-code-31-on-your-windows-pc-a-comprehensive-guide/"><u>Resolving Error Code 31 on Your Windows PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208258645-resolving-excessive-cpu-consumption-caused-by-wudfhostexe-on-windows-10/"><u>Resolving Excessive CPU Consumption Caused by WUDFHost.exe on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-hello-device-compatibility-issues-in-windows-11/"><u>Resolving Windows Hello Device Compatibility Issues in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trouble-with-netflix-how-to-identify-and-resolve-streaming-issues/"><u>Trouble with Netflix? How to Identify and Resolve Streaming Issues</u></a></li>
 </ul></div>
 

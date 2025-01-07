@@ -1,7 +1,7 @@
 ---
 title: "Improve League of Legends Performance: Tackling the Slow Downloader Issue"
-date: 2024-12-23T17:43:12.972Z
-updated: 2024-12-28T04:29:24.961Z
+date: 2025-01-02T16:34:18.677Z
+updated: 2025-01-06T17:11:09.691Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ League of Legends is a world popular game, but the slow download speed can easil
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -56,6 +56,11 @@ League of Legends is a world popular game, but the slow download speed can easil
 2. Find League of Legends program. Right-click on it and click**Open file location** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/file.jpg)
 3. In the file, find the**LOL Launcher.exe** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click on it and click**Run as administrator** .
 
 Downloading again to see if it works.
@@ -70,14 +75,14 @@ Downloading again to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Re-download to check.
 
@@ -95,7 +100,7 @@ Re-download to check.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Bonus: Update your drivers
@@ -128,15 +133,11 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -164,21 +165,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-imaginative-inspirations-for-virtual-explorers-the-best-metaverse-moments/"><u>[New] Imaginative Inspirations for Virtual Explorers The Best Metaverse Moments</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-ultimate-guide-to-internet-based-image-trimming/"><u>[Updated] 2024 Approved The Ultimate Guide to Internet-Based Image Trimming</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-vlc-sound-wave-graphics-tutorial-activating-and-customizing-audio-visuals/"><u>Comprehensive VLC Sound Wave Graphics Tutorial: Activating & Customizing Audio Visuals</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/convert-m2ts-to-mp4-reduce-file-size-while-preserving-hd-clarity/"><u>Convert M2Ts to MP4: Reduce File Size While Preserving HD Clarity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/demystifying-artifice-intelligence-conversational-agents-debunking-the-top-9-misunderstandings/"><u>Demystifying Artifice Intelligence Conversational Agents: Debunking the Top 9 Misunderstandings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discover-four-exceptional-techniques-for-easily-downloading-your-bandcamp-tunes-as-high-quality-mp3-or-more-free-guide-inside/"><u>Discover Four Exceptional Techniques for Easily Downloading Your Bandcamp Tunes as High-Quality MP3 or More - Free Guide Inside!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discover-the-best-live-tv-addons-compatible-with-kodi-versions-1918-updated-and-free-to-use-now/"><u>Discover the Best Live TV Addons Compatible with Kodi Versions 19/18, Updated and Free to Use Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-conversion-techniques-for-changing-mp4-video-formats-to-mpeg-1/"><u>Easy Conversion Techniques for Changing MP4 Video Formats to MPEG-1</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-to-use-video-converter-transform-your-content-fromto-240p-with-simple-steps/"><u>Easy-to-Use Video Converter: Transform Your Content From/To 240P with Simple Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-conversion-of-youtube-footage-to-ogg-discover-two-superior-strategies/"><u>Effortless Conversion of YouTube Footage to OGG: Discover Two Superior Strategies</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/from-video-to-gif-seamless-process-for-vimeo-content/"><u>From Video to GIF Seamless Process for Vimeo Content</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-to-incorited-visuals-in-text-without-cost/"><u>Guide to Incorited Visuals in Text Without Cost</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-red-magic-9-pro-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Red Magic 9 Pro.</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/transitioning-video-content-into-stills-with-windows-11/"><u>Transitioning Video Content Into Stills with Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-selection-premier-iphone-16pro-skins-and-shields-for-2eplus24-scooped-by-zdnet-experts/"><u>Ultimate Selection: Premier iPhone 16/Pro Skins and Shields for 2E+24 Scooped by ZDNET Experts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/iscovering-artistic-expression-top-film-tips-on-youtube/"><u>[New] Discovering Artistic Expression Top Film Tips on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unleash-creativity-a-deep-dive-into-metaverse-meme-culture-for-2024/"><u>[Updated] Unleash Creativity A Deep Dive Into Metaverse Meme Culture for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-visual-virtuosos-selecting-framing-software-for-2024/"><u>[Updated] Visual Virtuosos Selecting Framing Software for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723807903427-easily-identify-your-current-windows-version-follow-these-simple-steps/"><u>Easily Identify Your Current Windows Version - Follow These Simple Steps!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/elevate-your-tweeted-visuals-ultimate-gif-saver-guide/"><u>Elevate Your Tweeted Visuals Ultimate GIF Saver Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-microsoft-wireless-display-adapter-connection-issues-in-windows-11/"><u>How to Fix Microsoft Wireless Display Adapter Connection Issues in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/instant-communication-using-rtx-ai-on-your-computer/"><u>Instant Communication: Using RTX AI on Your Computer</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/paving-digital-pathways-for-ig-and-tiktok-for-2024/"><u>Paving Digital Pathways for IG & TikTok for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-why-teredo-tunneling-fails-to-establish-a-connection/"><u>Resolved: Why Teredo Tunneling Fails to Establish a Connection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-the-num-pad-solutions-for-broken-number-buttons/"><u>Reviving the Num Pad: Solutions for Broken Number Buttons</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206667988-small-cell-lung-cancer-sclc-tends-to-be-more-aggressive-with-poorer-outcomes-compared-to-nsclcs/"><u>Small Cell Lung Cancer (SCLC) Tends to Be More Aggressive with Poorer Outcomes Compared to NSCLCs.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-startup-issues-with-a-critical-application-error-0xc00fixit/"><u>Step-by-Step Guide: Correcting Startup Issues with a Critical Application Error (0xC00#FixIt)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-restoring-functionality-of-your-hp-laptop-camera-in-windows-11/"><u>Step-by-Step Guide: Restoring Functionality of Your HP Laptop Camera in Windows 11</u></a></li>
 </ul></div>
 

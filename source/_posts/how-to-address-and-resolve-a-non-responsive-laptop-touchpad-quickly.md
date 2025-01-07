@@ -1,7 +1,7 @@
 ---
 title: How to Address and Resolve a Non-Responsive Laptop Touchpad Quickly
-date: 2024-12-27T08:45:42.342Z
-updated: 2024-12-28T08:55:33.751Z
+date: 2025-01-05T02:17:22.265Z
+updated: 2025-01-06T19:40:42.803Z
 tags:
   - win11
   - win10
@@ -44,16 +44,28 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf297e71ab26.png)
 3. In the view of**Category** , click**Hardware and Sound** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf298111eba5.jpg)
 4. Under**Devices and Printers** , click**Mouse** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29836c37da.jpg)
 5. Select the last tab. (The last tab is usually for touchpad configuration if you have a touchpad. And its name varies with different models of computer.) Then you can select a checkbox or click a button to enable your touchpad.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29c061bc83.jpg)
 6. Check if your touchpad problem is resolved. If not, move on to Tip 2, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 2: Enable two-finger scrolling
 
@@ -65,13 +77,13 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29c98471f8.jpg)
 4. Click**Apply** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Check if your touchpad now works properly. If not, try Tip 3, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tip 3: Change your mouse pointer
 
@@ -82,17 +94,9 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf298ab89d01.jpg)
 3. Click**Apply** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Check if your touchpad now works properly. If not, try Tip 4, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tip 4: Update your touchpad driver
 
@@ -109,15 +113,11 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money-back guarantee.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf22faf2a3c4.jpg)
 4. Restart your computer and check if your touchpad now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -143,24 +143,22 @@ Hopefully, this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-deep-dive-into-the-core-functionalities-of-zdsoft-for-2024/"><u>[New] Deep Dive Into the Core Functionalities of ZDSoft for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-high-definition-flight-testing-xiaomi-mi-drone-probe-for-2024/"><u>[New] High-Definition Flight Testing - Xiaomi Mi Drone Probe for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-enhance-your-videos-call-to-action-a-step-by-step-filmora-guide/"><u>[Updated] Enhance Your Video's Call-to-Action A Step-by-Step Filmora Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-essential-skills-for-efficient-teamsnap-photo-taking/"><u>[Updated] Essential Skills for Efficient TeamSnap Photo Taking</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-exploring-non-google-ar-visual-interactions-for-2024/"><u>[Updated] Exploring Non-Google Ar Visual Interactions for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-uncover-ustream-plus-alternatives/"><u>[Updated] In 2024, Uncover Ustream Plus Alternatives</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a34-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A34 5G Phone FRP Lock</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-quickly-converting-your-mp3-tracks-to-m4a-format/"><u>Step-by-Step Tutorial on Quickly Converting Your MP3 Tracks to M4A Format</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successful-steps-for-setting-up-titanium-kodi-fridge-on-latest-kodi-versions-including-leia-18/"><u>Successful Steps for Setting Up Titanium Kodi Fridge on Latest Kodi Versions Including Leia 18.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-step-by-step-tutorial-on-integrating-subtitles-in-handbrake/"><u>The Ultimate Step-by-Step Tutorial on Integrating Subtitles in HandBrake</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-12-free-software-convert-wmv-files-into-mp4-format-with-ease/"><u>Top 12 Free Software: Convert WMV Files Into MP4 Format with Ease</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/top-snapchat-content-strategies-to-stand-out/"><u>Top Snapchat Content Strategies to Stand Out</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-techniques-for-effortlessly-downloading-videos-from-firefox/"><u>Top Techniques for Effortlessly Downloading Videos From Firefox</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/topo-das-melhores-cinefilos-online-gratis-substitutas-para-o-windows/"><u>Topo Das Melhores Cinéfilos Online Grátis - Substitutas Para O Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-top-10-free-media-player-apps-compatible-with-all-platforms-windows-macos-android-and-ios/"><u>Ultimate Guide: Top 10 Free Media Player Apps Compatible with All Platforms (Windows, macOS, Android & iOS)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-step-by-step-tutorial-discreetly-capturing-screenshots-on-bereal-no-notifications-required-updated/"><u>Ultimate Step-by-Step Tutorial: Discreetly Capturing Screenshots on BeReal (No Notifications Required) - Updated !</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/watching-avi-files-with-chromecast-three-easy-techniques/"><u>Watching AVI Files with Chromecast: Three Easy Techniques</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Xiaomi 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/surfacehddssddvd/"><u>スパッと解決! Surface上で外付けHDD/SSDを用いたDVD視聴不能問題に対するツール</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-a-step-by-step-for-delving-into-fb-archives/"><u>[New] A Step-by-Step for Delving Into FB Archives</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-chrome-compatibility-solving-media-errors-for-2024/"><u>[New] Chrome Compatibility Solving Media Errors for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-exquisite-top-ten-nintendo-switch-combat-games-max-156/"><u>[New] In 2024, Exquisite Top Ten Nintendo Switch Combat Games (Max 156)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-straightforward-path-to-windows-voice-transformation-for-fishy-sounds/"><u>[New] In 2024, The Straightforward Path to Windows Voice Transformation for Fishy Sounds</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-harnessing-powerful-tools-for-effective-youtubers-seo/"><u>2024 Approved Harnessing Powerful Tools for Effective YouTubers' SEO</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-xiaomi-13-ultra-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Xiaomi 13 Ultra Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/get-directx-installed-in-a-flash-compatible-with-windows-11-and-10/"><u>Get DirectX Installed in a Flash: Compatible with Windows 11 and 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-troubleshooting-and-solving-disk-read-error-on-windows-10/"><u>Guide to Troubleshooting and Solving 'Disk Read Error' On Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-microsofts-print-to-pdf-problem-under-windows-11-os/"><u>How to Resolve Microsoft's Print-to-PDF Problem Under Windows 11 OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-persistent-windows-7-lag-tips-for-eliminating-unplanned-hangs-and-lockups/"><u>Resolving Persistent Windows 7 Lag: Tips for Eliminating Unplanned Hangs and Lockups</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-when-your-usb-to-hdmi-connection-fails/"><u>Solution Steps When Your USB to HDMI Connection Fails</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-guide-for-earning-gold-online-fb-and-insta-tactics/"><u>The Ultimate Guide for Earning Gold Online: FB and Insta Tactics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/time-hopping-spread-spectrum-thss/"><u>Time Hopping Spread Spectrum (THSS):</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trackpad-troubles-heres-how-to-make-it-work-again-on-windows-pcs-10-8-and-angs/"><u>Trackpad Troubles? Here's How to Make It Work Again on Windows PCs (10, 8 & Angs)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210253093-trouble-with-keyboard-arrow-buttons-discover-quick-and-effective-solutions-here/"><u>Trouble With Keyboard Arrow Buttons? Discover Quick and Effective Solutions Here!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-typewriter-troubles-solving-non-responsive-keys-in-windows-os/"><u>Troubleshooting Typewriter Troubles: Solving Non-Responsive Keys in Windows OS</u></a></li>
+<li><a href="https://win-dash.techidaily.com/wacom-intuos-3-driver-downloads-for-windows-ensuring-optimal-functionality-and-complete-work-efficiency/"><u>Wacom Intuos 3 Driver Downloads for Windows – Ensuring Optimal Functionality and Complete Work Efficiency</u></a></li>
 </ul></div>
 

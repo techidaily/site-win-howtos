@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Experience: Expert Advice on File Explorer for Windows 10 Users"
-date: 2024-09-05T10:00:17.005Z
-updated: 2024-09-06T10:00:17.005Z
+date: 2025-01-01T02:02:02.809Z
+updated: 2025-01-07T04:39:58.412Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Simplify Your Experience: Expert Advice on File
 thumbnail: https://thmb.techidaily.com/a1952e1112a322c48709e825dbee9897ba132a48df48b3f0ca917e7642a4b4a3.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows 11 File Explorer Guide: Enhance Your Organization & Efficiency Skills
 
 Windows 10 renamed the original Windows Explorer (from Windows 8) to**File Explorer**, and has added tons of new features to it. As an old-time Windows operating system user, you must know what it is for. In this post, we will be introducing some ways for you to get help with**File Explorer**in Windows 10 easily.
@@ -29,50 +23,14 @@ Windows 10 renamed the original Windows Explorer (from Windows 8) to**File Explo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584913472d50a-600x522.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can right click the**File Explorer** option and choose**Pin to Start** or**Pin to taskbar** if you want to have a quicker access to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584913edbf2bf.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you are more relied on your keyboard, here are some more shortcuts on keyboard that allows you to use**File Explorer** quickly: **Windows key + E**: open File Explorer **Ctrl + E**: activate the search bar in File Explorer**Alt + left arrow key**: go back to one folder in history**Alt + right arrow key**: go forward to one folder in history **Ctrl + mouse wheel Up or Down**: increase or decrease the size of icons in File Explorer **Ctrl + Shift + N**: create a new folder   **How to customize Quick access items?** If you want to add new quick access to the list on the left pane of File Explorer, here is how you can do it easily. Right click the desired folder and choose**Pin to Quick access**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/pin-to-quick-access.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to remove an item from Quick access menu, just right click this item and select**Unpin from Quick access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/unpin-from-quick-access.jpg)
@@ -85,18 +43,6 @@ Windows 10 renamed the original Windows Explorer (from Windows 8) to**File Explo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491c14e6750.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You can restart your computer when this operation is completed. 3) Follow the path:**Start button > Settings > Update & security**. Then one the left pane, choose**Windows Update**, and on the right pane, choose**Update history**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491d95611c0-600x476.jpg)
@@ -105,12 +51,6 @@ You can restart your computer when this operation is completed. 3) Follow the pa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491d7901b10-600x462.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) If you can see update**KB3081449**or**KB3081448**, right click it and choose**Uninstall**. Then restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491df2251f5-600x330.jpg)
@@ -123,8 +63,6 @@ You can restart your computer when this operation is completed. 3) Follow the pa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +70,24 @@ You can restart your computer when this operation is completed. 3) Follow the pa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-capture-your-iphones-screen-seamlessly/"><u>[Updated] How to Capture Your iPhone's Screen Seamlessly</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-securely-store-and-download-linkedin-videos-heres-the-top-6-list/"><u>[Updated] In 2024, Securely Store & Download LinkedIn Videos - Here's the Top 6 List</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/como-convertir-archivos-wma-a-formato-mp3-facilmente-con-el-mejor-convertidor-de-movavi/"><u>Como Convertir Archivos WMA a Formato MP3 Fácilmente Con El Mejor Convertidor De Movavi</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/excellent-free-webcam-video-snapper-app/"><u>Excellent Free Webcam Video Snapper App</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-14-proipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 14 Pro/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-todos-os-programas-e-solucoes-inlimitadas-para-edicao-de-video/"><u>Movavi: Todos Os Programas E Soluções Inlimitadas Para Edição De Vídeo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavis-step-by-step-guide-how-to-upload-videos-on-youtube/"><u>Movavi's Step-by-Step Guide: How to Upload Videos on YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mpe-file-to-iphone-ringtone-m4r-transformation-no-cost-with-moveavi/"><u>MPE File to iPhone Ringtone (M4R) Transformation - No Cost with Moveavi</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-avi-video-rotators-for-windows-mac-android-and-iphone-users/"><u>New Best Free AVI Video Rotators for Windows, MAC, Android, and iPhone Users</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/quick-guide-to-sharing-your-favorite-gifs-on-instagram-for-2024/"><u>Quick Guide to Sharing Your Favorite GIFs on Instagram for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ram-wmv/"><u>RAM WMV 영상을 쉽게 구조화하고 해제하는 방법: 비용 효율적인 온라인 도구</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-finding-and-installing-lenovo-t430-drivers-for-multiple-windows-versions/"><u>Step-by-Step: Finding and Installing Lenovo T430 Drivers for Multiple Windows Versions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-and-mac/"><u>プロフェッショナルなビデオコンバータを求める方へ：Windows & Mac両用の最もおすすめ無料ダウンロードソフトで、スピーディ映像変換が可能！</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

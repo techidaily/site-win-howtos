@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Repair 'Internet Explorer Has Stopped Working'
-date: 2024-12-27T13:55:08.049Z
-updated: 2024-12-27T16:21:27.116Z
+date: 2025-01-04T18:13:23.797Z
+updated: 2025-01-06T18:11:33.021Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -43,6 +47,10 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
@@ -52,10 +60,6 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -70,6 +74,10 @@ Here’s how to reinstall the keyboard driver:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
@@ -106,7 +114,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -123,7 +131,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -134,17 +142,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -184,15 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-channel-growth-on-a-dime-attracting-sponsors-with-simplicity/"><u>[New] 2024 Approved Channel Growth on a Dime Attracting Sponsors with Simplicity</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-tactics-to-determine-igtv-viewership-success/"><u>[New] 2024 Approved Tactics to Determine IGTV Viewership Success</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-from-bland-to-brilliant-elevate-your-images-in-canva/"><u>[New] From Bland to Brilliant Elevate Your Images in Canva</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cprm-dvd/"><u>簡単な手順でCPRM DVDのコピー＆リッピングを始めましょう</u></a></li>
-<li><a href="https://win-dash.techidaily.com/a-comprehensive-guide-on-acquiring-and-setting-up-your-epson-xp-830-printer-drivers/"><u>A Comprehensive Guide on Acquiring and Setting Up Your Epson XP-830 Printer Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-converting-your-pcm-audio-files-into-mp3-format/"><u>Comprehensive Tutorial: Converting Your PCM Audio Files Into MP3 Format</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-to-use-dvd-ripper-convert-your-dvds-into-digital-files-instantly/"><u>Easy-to-Use DVD Ripper: Convert Your DVDs Into Digital Files Instantly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/most-efficient-software-solutions-convert-dvds-to-mp3-on-windows-operating-systems-10-and-11/"><u>Most Efficient Software Solutions: Convert DVDs to MP3 on Windows Operating Systems (10 & 11)</u></a></li>
-<li><a href="https://win-unique.techidaily.com/reconfigure-print-devices-with-ease-the-ultimate-yl-software-tutorial/"><u>Reconfigure Print Devices with Ease - The Ultimate YL Software Tutorial</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/thorough-summary-googles-podcast-platform-demystified/"><u>Thorough Summary Google's Podcast Platform Demystified</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-elevate-your-profile-game-strategies-for-fb-success-for-2024/"><u>[New] Elevate Your Profile Game Strategies for FB Success for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-zoom-and-crop-module/"><u>[New] Quick Zoom and Crop Module</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-youtube-shorts-investments/"><u>[Updated] Navigating YouTube Shorts Investments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-repair-unresponsive-wireless-mouse-compatibility-with-win11win10-os/"><u>Diagnose & Repair Unresponsive Wireless Mouse Compatibility with Win11/Win10 OS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/effortlessly-track-beats-with-our-speedy-free-analysis-software-for-2024/"><u>Effortlessly Track Beats with Our Speedy, Free Analysis Software for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-80240020-on-your-pc-heres-how-to-successfully-install-windows-10/"><u>Error 80240020 on Your PC? Here's How to Successfully Install Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/geforce-experience-not-opening-heres-how-you-can-solve-it/"><u>GeForce Experience Not Opening? Here's How You Can Solve It!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-counter-strike-2-not-launching/"><u>How to Fix Counter-Strike 2 Not Launching</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-vivo-x-flip-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Vivo X Flip to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-the-latest-upgrades-to-apples-airpods-lineup-discover-the-four-key-advancements-zdnet-news/"><u>Introducing the Latest Upgrades to Apple's AirPods Lineup - Discover the Four Key Advancements | ZDNET News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-ais-moral-compass-control/"><u>Navigating AI's Moral Compass Control</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-unregistered-class-issues-in-windows-10/"><u>Resolved: How to Fix Unregistered Class Issues in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/showcase-your-touchpad-regain-control/"><u>Showcase Your Touchpad, Regain Control!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-lenovo-function-keys-issue-in-no-time/"><u>Solve Lenovo Function Keys Issue in No Time</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-curing-screen-glitches-in-windows-11-computers/"><u>Step-by-Step Guide to Curing Screen Glitches in Windows 11 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-nonfunctioning-lenovo-mouse-pads-in-windows-operating-systems-1187/"><u>Troubleshooting Guide for Nonfunctioning Lenovo Mouse Pads in Windows Operating Systems (11/8/7)</u></a></li>
 </ul></div>
 

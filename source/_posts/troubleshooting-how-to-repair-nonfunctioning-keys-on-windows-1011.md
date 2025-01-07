@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Repair Nonfunctioning Keys on Windows 10/11"
-date: 2024-09-05T10:00:14.911Z
-updated: 2024-09-06T10:00:14.911Z
+date: 2024-12-30T17:34:17.873Z
+updated: 2025-01-06T18:34:58.634Z
 tags:
   - win11
   - win10
@@ -17,18 +17,6 @@ thumbnail: https://thmb.techidaily.com/5bb08ab6d34a1fb0acace4e8322f42ab6cac411cd
 
  Did you find that some keys on your keyboard don’t work? Are you typing but the letters are not appearing on the screen? Well don’t worry, you’re not alone. This post could help you fix this vexing issue.
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -40,18 +28,6 @@ thumbnail: https://thmb.techidaily.com/5bb08ab6d34a1fb0acace4e8322f42ab6cac411cd
 
 * [**Tips: Keyboard maintenance**](#tips)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Hard reset your keyboard
 
  If you’re experiencing unexpected behavior like a letter key not working on your keyboard or one functional key not working, you could try a hard reset to fix this issue.
@@ -84,11 +60,9 @@ If you’re a laptop user, you could follow these steps:
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Check for hardware issues
 
  If a hard reset is not working for you, you need to identify whether it’s a hardware issue or a software issue. Follow the steps below:
@@ -128,20 +102,12 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
@@ -157,19 +123,26 @@ OR
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Tips: Keyboard maintenance
 
 1. Try not to eat, smoke or drink on top of the keyboard to keep it clean.
@@ -188,8 +161,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +168,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-the-ultimate-strategy-for-creating-viral-hashtags-on-facebook/"><u>[New] The Ultimate Strategy for Creating Viral Hashtags on Facebook</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-incorporating-cards-and-annotations-in-youtube-content/"><u>[Updated] 2024 Approved Incorporating Cards and Annotations in YouTube Content</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-prospects-picks-the-highest-livestream-sites/"><u>[Updated] In 2024, Prospects' Picks The Highest Livestream Sites</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-revolutionizing-channel-management-through-tubebuddy/"><u>[Updated] Revolutionizing Channel Management Through TubeBuddy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-jp2-files-to-tiff-format-for-free-with-movavis-web-service/"><u>Convert JP2 Files to TIFF Format for Free with Movavi's Web Service</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-y36-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo Y36</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-google-tvs-chromecast-is-it-time-to-ditch-the-firestick/"><u>Exploring Google TV's Chromecast – Is It Time to Ditch the Firestick?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-raf-to-jpeg-converter-movavi-no-cost-easy-upload/"><u>Free Online RAF to JPEG Converter - Movavi: No Cost, Easy Upload</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-online-movikovar-webovy-konverze-mov-em-vob/"><u>Gratis Online movi.kovář Webový - Konverze MOV Em VOB</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guia-passo-a-passo-conectando-o-seu-computador-ao-gravador-de-dvd-usando-movavi/"><u>Guia Passo a Passo: Conectando O Seu Computador Ao Gravador De DVD – Usando Movavi</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-capturing-attention-from-content-creation-to-commerce/"><u>In 2024, Capturing Attention From Content Creation to Commerce</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-srt-reference-manual/"><u>In 2024, The Complete SRT Reference Manual</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-top-10-eye-catching-text-in-media/"><u>In 2024, Top 10 Eye-Catching Text in Media</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/merging-multiple-mp4-videos-quickly-an-easy-guide-for-smooth-editing/"><u>Merging Multiple MP4 Videos Quickly: An Easy Guide for Smooth Editing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tecnicas-expertas-para-invertir-videos-los-10-mas-eficaces-online-y-offline/"><u>Técnicas Expertas Para Invertir Vídeos: Los 10 Más Eficaces Online Y Offline</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformer-gratuitement-un-fichier-ogv-en-format-ogg-sur-internet-avec-ease-movavi/"><u>Transformer Gratuitement Un Fichier OGV en Format OGG Sur Internet Avec Ease - Movavi</u></a></li>
+</ul></div>
 

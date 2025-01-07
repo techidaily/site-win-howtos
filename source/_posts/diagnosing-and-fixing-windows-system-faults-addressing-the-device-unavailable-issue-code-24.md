@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Fixing Windows System Faults - Addressing the Device Unavailable Issue (Code 24)
-date: 2024-09-05T10:00:16.790Z
-updated: 2024-09-06T10:00:16.790Z
+date: 2025-01-04T02:38:48.308Z
+updated: 2025-01-07T02:55:43.381Z
 tags:
   - win11
   - win10
@@ -13,24 +13,12 @@ excerpt: This Article Describes Diagnosing and Fixing Windows System Faults - Ad
 thumbnail: https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92f560dcc1472e9356e8fe972.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Resolving Windows 10 Installation Issue: Fixing Error Code 80240020 Once and for All
 
 The**80240020** error happens usually when the Windows 10 files that you downloaded was not complete and the setup process still tried to do the upgrade to Windows 10\. Or it could be that your Windows 10 installation folder is unfinished or corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/error-code-80240020.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Luckily, this is an easy question to solve. Please follow the steps below to get this problem fixed. **Step One**1) Navigate to**C:\\$Windows.\~BT**folder. If you cannot see this folder, please make sure that you have checked the hidden items.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/windows-bt-600x427.jpg)
@@ -39,58 +27,22 @@ Delete as many files in this folder as you can. You might not be able to delete 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/softwaredistributiondownload.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Type**cmd.exe**in the search box in**Start**panel and right click the option**cmd**and choose**Run as administrator**. ![](https://images.drivereasy.com/wp-content/uploads/2016/08/run-as-administrator.jpg)Click**Yes**at this prompt.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/uac-command-processor.jpg)
 
 4) Type**wuauclt.exe/updatenow**and hit**Enter**key. ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b5394edbd33.png) **Step Two** **Warning**: Before you proceed with this step, please make sure that you have back up your registry first just in case any irreversible errors happen. Refer to this post to see[**how to backup and restore your registry**](https://tools.techidaily.com/drivereasy/download/). 1) Press**Windows key**and**R**at the same time, then type in**regedit**and hit**Enter**. When prompted for administrator permission, click**Yes** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/regedit.png)
 
 2) Then follow the path:   **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate\\OSUpgrade**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/hkey_local_machinesoftwaremicrosoftwindowscurrentversionwindowsupdateosupgrade-600x394.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) On the right side of the pane, right click on the blank spot and select**New > DWORD (32-bit) Value**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/new-dword-32-bit-value-600x396.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Rename the value to**AllowOSUpgrade**. Then double click the value and set the**Value data**to**1**. Then click**OK**to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58140207aba43-600x394.jpg)
@@ -105,8 +57,6 @@ The steps above also work if you are having a**80080080** or **8024600A**  error
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +64,28 @@ The steps above also work if you are having a**80080080** or **8024600A**  error
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-chuckle-filled-chapters-best-comedy-video-plans-in-a-nutshell/"><u>[New] 2024 Approved Chuckle-Filled Chapters Best Comedy Video Plans in a Nutshell</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ideal-video-snapper-for-your-chromebook/"><u>[Updated] Ideal Video Snapper For Your Chromebook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-uncover-beats-shortcut-musical-roles/"><u>2024 Approved Uncover Beats Shortcut Musical Roles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movqt-movavi-qt/"><u>手軽にフリーでMOVからQTへのデジタル変換 - Movavi QTコンバータ</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/webcr2jpeg-movavi/"><u>無料WEBサービスでCR2フォーマットをJPEGへ変換する方法 - Movaviコンバーター</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/breaking-barriers-7-top-tools-for-artists-transforming-into-nfts/"><u>Breaking Barriers 7 Top Tools for Artists Transforming Into NFTs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cambie-mov-a-avi-online-sin-coste-con-moovavi/"><u>Cambie MOV a AVI Online Sin Coste Con Moovavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-selection-of-best-deals-from-best-buys-end-of-sale-event-highlighted-on-zdnet/"><u>Exclusive Selection of Best Deals From Best Buy's End-of-Sale Event, Highlighted on ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-restarting-your-pc-with-a-hard-reboot-on-windows-11/"><u>Guide to Restarting Your PC with a Hard Reboot on Windows 11</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/how-to-adjust-your-computers-date-and-time-settings-with-yl-software-yl-tech-solutions/"><u>How To Adjust Your Computer's Date & Time Settings With YL Software - YL Tech Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavi-pourquoi-opter-pour-cette-solution-video/"><u>Movavi: Pourquoi Opter Pour Cette Solution Vidéo?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726218366231-movavi/"><u>Movaviの力を体感せよ! 信頼性高いインフュージョナーからの支持とレビュー</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726227687647-mpegmp4/"><u>MPEG到MP4自由下載的移動維護 - 無限可能化</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-freeze-save-display-issue-resolved/"><u>Overcoming Freeze: Save Display Issue Resolved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/swiftly-switch-flac-audiovideo-to-mkv-using-our-complimentary-web-based-tool/"><u>Swiftly Switch FLAC Audio/Video to MKV Using Our Complimentary Web-Based Tool</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wi-fi-qt-online-movavi/"><u>무료 Wi-Fi용 QT 모항을 바꿀 수 있는 Online 도구 - Movavi</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

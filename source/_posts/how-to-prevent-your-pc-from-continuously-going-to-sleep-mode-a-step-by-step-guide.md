@@ -1,7 +1,7 @@
 ---
 title: "How to Prevent Your PC From Continuously Going to Sleep Mode: A Step-by-Step Guide"
-date: 2024-12-25T07:05:14.594Z
-updated: 2024-12-28T14:44:03.694Z
+date: 2025-01-05T23:18:17.122Z
+updated: 2025-01-06T19:12:55.142Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 1: Check the power settings
 
  If your power settings are configured to sleep in a short time, for example, 5 minutes, you’ll experience the computer keeps going to sleep issue. To fix the problem, the first thing to do is check the power settings, and change the settings if necessary. To do so:
@@ -46,15 +42,19 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 ![Windows 11 - how to open the Control Panel](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 3. **View by** **Large icons** , and click **Power Options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1370b5c7879.jpg)
 4. Click**Change when the computer sleeps** in the left pane.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13709ea5614.jpg)
 5. Choose the sleep and display settings that you want your computer to use.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4a) Change the**Turn off the display** setting to whatever value you desire. You don’t have to set it to Never if you don’t want to.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137143ae4bb.jpg)  
@@ -80,17 +80,9 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13724b1f8d6.jpg)
 3. Click the**Update** button next to a flagged graphics card driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -106,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 2. Type**lock screen settings** in the search bar and select**Lock screen settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1372f5918cd.jpg)
 3. Click**Screen saver settings** at the bottom of the window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
@@ -127,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 4: Change the System unattended sleep timeout to a longer time
 
  If the above solutions don’t work for you, you can try to set the System unattended sleep timeout to a longer time. The option is invisible in Windows by default. You need to edit the registry to make it visible first, then you can reset the period.
@@ -145,7 +137,7 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
@@ -154,11 +146,23 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375973d736.jpg)
 3. In the right pane, double-click on**Attributes** to modify it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
 5. Click the**OK** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Exit the Registry Editor.
 
@@ -169,22 +173,18 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376290956d.jpg)
 3. Click the **Change plan settings** under your selected power plan.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Expand the entry**Sleep** , then expand the entry**System unattended sleep timeout** . The value for this setting will probably be set to 2 minutes –**change it to a longer time** , for example, 30 minutes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376fc0269a.jpg)
 6. Click**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Check to see if the computer keeps going to sleep.
 
@@ -209,22 +209,24 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-hot-tunes-essential-background-scores-for-viral-yt-shorts/"><u>[New] 2024 Approved Hot Tunes Essential Background Scores For Viral YT Shorts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-elevate-your-social-storytelling-with-added-musicality/"><u>[New] Elevate Your Social Storytelling with Added Musicality</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-firefox-screen-recorders-and-add-ons-for-2024/"><u>[Updated] Firefox Screen Recorders and Add-Ons for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/156-pixel-photo-wonders-from-100-instants-2024/"><u>156-Pixel Photo Wonders From $100 Instants, 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/budget-friendly-apple-watch-se-evaluation/"><u>Budget-Friendly Apple Watch SE Evaluation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-error-8007000e-easy-solutions-for-windows-users-needing-updates-now/"><u>Bypassing Error 8007000E: Easy Solutions for Windows Users Needing Updates Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-no-more-a-comprehensive-fix-for-monitor-input-errors/"><u>Error No More: A Comprehensive Fix for Monitor Input Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-get-your-usb-mouse-working-again-on-your-laptop-expert-advice/"><u>How to Get Your USB Mouse Working Again on Your Laptop – Expert Advice</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-problems-with-windows-resource-protection-not-performing-operations/"><u>How to Overcome Problems with Windows Resource Protection Not Performing Operations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-icue-undetected-hardware-problems-successfully/"><u>How to Resolve ICUE Undetected Hardware Problems Successfully</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-m14-4g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy M14 4G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/magix-vpx-the-ultimate-software-showdown-for-2024/"><u>Magix VPX The Ultimate Software Showdown for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/metal-linings-such-as-copper-alloys-can-form-tight-seals-and-offer-strength-making-them-suitable-for-a-variety-of-applications/"><u>Metal Linings Such as Copper Alloys Can Form Tight Seals and Offer Strength, Making Them Suitable for a Variety of Applications.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-sound-in-steam-games-quick-troubleshooting-techniques-will-help/"><u>No Sound in Steam Games? Quick Troubleshooting Techniques Will Help</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-your-laptops-speaker-pop-and-crackle-problem-in-windows-107-effortlessly/"><u>Resolve Your Laptop's Speaker Pop & Crackle Problem in Windows 10/7 Effortlessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-repairing-hp-laptop-camera-issues-on-windows-11/"><u>Step-by-Step Tutorial for Repairing HP Laptop Camera Issues on Windows 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-adobe-cloud-storage-demystified-features-functionality-and-alternatives-reviewed/"><u>[New] Adobe Cloud Storage Demystified Features, Functionality, and Alternatives Reviewed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-achieving-affiliate-success-with-online-videos/"><u>[New] In 2024, Achieving Affiliate Success with Online Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-streamline-document-creation-with-microsoft-word-speech-recognition/"><u>[New] Streamline Document Creation with Microsoft Word Speech Recognition</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-years-most-memorable-youtube-music-dance-clips-for-2024/"><u>[New] The Year's Most Memorable YouTube Music Dance Clips for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-start-shooting-smart-top-15-shot-techniques-for-beginners/"><u>[Updated] 2024 Approved Start Shooting Smart Top 15 Shot Techniques for Beginners</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-the-intricacies-of-whatsapp-voice-calls/"><u>Exploring the Intricacies of WhatsApp Voice Calls</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-silent-drives-the-ultimate-guide-to-solving-the-forza-horizon-4-audio-issue/"><u>Fixing Silent Drives: The Ultimate Guide to Solving the 'Forza Horizon 4' Audio Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-ensure-seamless-bluetooth-connections-on-windows-11-proven-fixes/"><u>How to Ensure Seamless Bluetooth Connections on Windows 11: Proven Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/impairment-of-apoptosis/"><u>Impairment of Apoptosis</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-essential-collection-top-9-premium-wedding-movies-online/"><u>In 2024, Essential Collection Top 9 Premium Wedding Movies Online</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210634860-9798986191621-majestic-rainbow-love/"><u>Majestic Rainbow Love | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/nier-automata-for-pc-how-to-prevent-game-stalls-and-crashing-episodes/"><u>Nier Automata for PC - How to Prevent Game Stalls & Crashing Episodes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-deadly-system-exception-fixing-0xc00n0005-on-windows/"><u>Overcoming the 'Deadly' System Exception: Fixing 0Xc00n0005 on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-eliminate-screen-flickering-in-valorant/"><u>Step-by-Step Solutions to Eliminate Screen Flickering in Valorant</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-valorant-freeze-required-system-restart/"><u>Troubleshoot Valorant Freeze: Required System Restart</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-overcoming-0x80070solved-windows-update-errors/"><u>Troubleshooting Tips for Overcoming 0X80070^[SOLVED] Windows Update Errors</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unlock-your-consoles-full-potential-with-samsungs-q60r-4k-series-a-smart-tv-built-for-gamers/"><u>Unlock Your Console’s Full Potential with Samsung's Q60R 4K Series: A Smart TV Built for Gamers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-se-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone SE Passcode without a Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-brightness-control-glitches-solutions-for-a-fixed-display/"><u>Windows 10 Brightness Control Glitches: Solutions for a Fixed Display</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Guide When Microsoft Store Doesn't Launch"
-date: 2024-12-31T19:59:14.096Z
-updated: 2025-01-06T21:49:17.389Z
+date: 2025-01-07T16:23:36.281Z
+updated: 2025-01-13T17:39:58.201Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 4. [**Install the latest patch**](#F4)
 5. **[Repair corrupted system files](https://coinrule.sjv.io/rqzonv)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your device drivers
 
  Updating drivers should always be your go-to option when something goes wrong with your computer or system. Whether you choose to update the device drivers manually, using Windows Update, or you use a trusted third-party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -47,12 +51,12 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
  2) Run**Driver Easy** and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a**7-day free trial** which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged until the trial ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/DE-update-all-AMD.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer for the changes to take effect.
 
@@ -75,7 +79,7 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Repair EasyAntiCheat
@@ -87,29 +91,21 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c11ffe582d5b.jpg)
 3. Click**Yes** once asked to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Select**Fortnite** from the drop-down menu and click**Repair Service** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1200695db42.jpg)
 5. Click**Finish** once the uninstall and the install processes finish.
 
-6. Re-launch Fortnite and hopefully the Fortnite not launching problem has been solved.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Re-launch Fortnite and hopefully the Fortnite not launching problem has been solved.
 
 ### Fix 4: Install the latest patch
 
  Developers of Epic Games keep releasing patches to help fix game bugs and improve overall gaming experience. So it’s always recommended you install the latest patch and then restart your computer to see if it fixes the**Fortnite not launching** issue.
 
  If all else fails, then you might want to contact **[Epic Games Help Center](https://epicgames.helpshift.com/a/fortnite/)**  for assistance in further troubleshooting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -154,6 +150,10 @@ Here’s how to use Fortect to repair system files on your PC:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 4) Restart your computer for the changes to take effect.
@@ -186,19 +186,22 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-professional-picture-editing-hacks-how-to-add-text-with-precision/"><u>[New] In 2024, Professional Picture Editing Hacks How to Add Text with Precision</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-unable-to-contact-your-dhcp-server/"><u>[SOLVED] Unable to Contact Your DHCP Server</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-melodic-sharing-on-instagram-legalities/"><u>[Updated] 2024 Approved Melodic Sharing on Instagram Legalities</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-explore-the-power-of-easy-video-editing-in-photos-and-windows-11/"><u>[Updated] Explore the Power of Easy Video Editing in Photos & Windows 11</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-virtual-battlegrounds-a-million-moments-in-gaming/"><u>[Updated] In 2024, Virtual Battlegrounds A Million Moments in Gaming</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/embrace-europes-tongues-language-diversity-declared/"><u>Embrace Europe's Tongues: Language Diversity Declared</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-minecraft-crashes-caused-by-outdated-graphics-drivers-in-windows/"><u>Fixing Minecraft Crashes Caused by Outdated Graphics Drivers in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-kb4056892-installation-issues-on-your-windows-11-device/"><u>How to Fix KB4056892 Installation Issues on Your Windows 11 Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/lenovo-keyboard-malfunction-heres-what-you-can-do-to-fix-it/"><u>Lenovo Keyboard Malfunction? Here’s What You Can Do to Fix It</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastery-in-maintenance-proven-techniques-for-a-pristine-home-sound-system-through-speaker-care/"><u>Mastery in Maintenance: Proven Techniques for a Pristine Home Sound System Through Speaker Care</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-fix-camera-malfunction-on-hp-notebooks-windows-10-edition/"><u>Step-by-Step Solutions to Fix Camera Malfunction on HP Notebooks - Windows 10 Edition</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721472331059-struggling-with-your-iphone-data-connection-discover-10-remedies-that-work/"><u>Struggling With Your iPhone Data Connection? Discover 10 Remedies That Work</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-solution-to-your-ocidll-not-found-problems/"><u>The Ultimate Solution to Your 'oci.dll Not Found' Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-huion-stylus-top-5-rapid-fixes/"><u>Troubleshoot Your Huion Stylus - Top 5 Rapid Fixes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-ultimate-zeo-startup-showcase-for-2024/"><u>[New] The Ultimate Zeo-Startup Showcase for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-editing-made-easy-youtube-editiontop-10-tips-for-newbies/"><u>[Updated] 2024 Approved Editing Made Easy YouTube Edition—Top 10 Tips for Newbies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-reverse-a-youtube-playlist/"><u>[Updated] How to Reverse a YouTube Playlist</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-should-itop-screen-recorder-be-a-staple-in-your-kit-for-2024/"><u>[Updated] Should ITop Screen Recorder Be a Staple in Your Kit for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-fresh-set-of-interview-points-for-captivated-ears/"><u>2024 Approved Fresh Set of Interview Points for Captivated Ears</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-vivo-y100-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Vivo Y100 Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/apex-legends-cheating-problem-solved-how-to-fix-the-easy-anti-cheat-error/"><u>Apex Legends Cheating Problem Solved: How to Fix the Easy Anti-Cheat Error</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/creative-sound-blaster-zxr-2013-top-gaming-headset-review/"><u>Creative Sound Blaster ZXR 2013 - Top Gaming Headset Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210079081-dell-usb-failure-discover-effective-solutions-and-get-it-working-again/"><u>Dell USB Failure? Discover Effective Solutions and Get It Working Again</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elevate-your-flying-game-with-tailored-drone-propellers/"><u>Elevate Your Flying Game with Tailored Drone Propellers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-silence-on-your-acer-the-ultimate-guide-to-restoring-laptop-audio/"><u>Fixing Silence on Your Acer: The Ultimate Guide to Restoring Laptop Audio</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-why-is-my-keyboards-backspace-function-unresponsive/"><u>Fixing the Issue: Why Is My Keyboard's Backspace Function Unresponsive?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-lenovo-fingerprint-reader-not-working-easily/"><u>How To Fix Lenovo Fingerprint Reader Not Working Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-system-event-notification-service-connection-error-on-your-pc/"><u>How to Overcome 'System Event Notification Service Connection Error' On Your PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-t2x-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo T2x 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/speeding-up-the-shutdown-process-in-windows-10-expert-tips/"><u>Speeding Up the Shutdown Process in Windows 10: Expert Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-excessive-disk-use-from-microsofts-telemetry-on-windows-11-a-comprehensive-guide/"><u>Troubleshooting Excessive Disk Use From Microsoft's Telemetry on Windows 11: A Comprehensive Guide</u></a></li>
 </ul></div>
 

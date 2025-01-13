@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Print Screen Working on Windows? – Diagnose & Fix Steps
-date: 2024-09-05T10:00:21.042Z
-updated: 2024-09-06T10:00:21.042Z
+date: 2025-01-12T16:47:20.740Z
+updated: 2025-01-13T16:05:43.178Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/3f22ae9e837b10e05053cf12480b5c15e8d166c20
 
 **Right click not working on mouse** ? Don’t worry – it’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6 Fixes For Mouse Right Click Not Working
 
  Here are 6 fixes that have helped other users resolve the mouse right click not working problem. Just work your way down the list until the problem is resolved.
@@ -58,32 +52,22 @@ thumbnail: https://thmb.techidaily.com/3f22ae9e837b10e05053cf12480b5c15e8d166c20
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Double-click on **Universal Serial Bus controllers** \>**USB Root Hub** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b596b7cf2657.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Power Management**  tab and  un-check **the box** before**Allow the computer to turn off this device to save power** . Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59792bcce91.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Repeat the same steps on**ALL** of the **USB Root Hub** devices on**Device Manager** .
 
  5) Check if your**mouse right click not working** issue has been fixed. If yes, then great! But if the problem persists, move on to**Fix 3** , below.
@@ -107,11 +91,9 @@ thumbnail: https://thmb.techidaily.com/3f22ae9e837b10e05053cf12480b5c15e8d166c20
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Wait a while for the whole process to finish.
 
  3) Type **sfc /scannow**  and press **Enter** .
@@ -135,27 +117,17 @@ Wait a while for the whole process to finish.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Y ou can also click **Update**  to  do it for free if you like, but it’s partly manual.
 
  4) Restart your computer, then check to see if the mouse right click not working issue has been resolved. If yes, then congrats! If it’s still no joy, please move on to**Fix 5** , below.
@@ -174,15 +146,13 @@ Here is how to make sure you’ve disabled it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b596d7d8d18b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Test to see if the **mouse right click not working**  issue has been solved. If the issue still remains, please try**Fix 6** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Restart Windows Explorer and check Group Policy’s settings
 
@@ -194,18 +164,6 @@ Here is how to make sure you’ve disabled it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59733729188.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Hopefully your right click has come back to life now. If not continue with the next step.
 
  4) On your keyboard, press **the Windows logo key** and **R**  at the same time, then copy & paste **gpedit.msc** into the box and press **Enter** .
@@ -218,15 +176,13 @@ Here is how to make sure you’ve disabled it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59709123fe5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  7) Click the **Disabled** option > **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59713f3c43e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) Restart your computer, then check to see if the **mouse right click not working** problem is resolved.
 
@@ -243,8 +199,6 @@ Here is how to make sure you’ve disabled it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,4 +206,22 @@ Here is how to make sure you’ve disabled it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-top-10-tools-revolutionizing-the-art-of-virtual-performer-sound-design/"><u>[New] 2024 Approved Top 10 Tools Revolutionizing the Art of Virtual Performer Sound Design</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-crafting-collabs-that-attract-and-retain-viewers-for-2024/"><u>[New] Crafting Collabs that Attract and Retain Viewers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-icue-no-device-detected-issue/"><u>[Solved] ICUE No Device Detected Issue</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-ghostly-3-encounter-spectre-4s-appearance/"><u>[Updated] Ghostly 3 Encounter Spectre 4'S Appearance</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pazera-unleashed-a-deep-dive-into-audio-extractor-reviews-of-2024/"><u>[Updated] Pazera Unleashed A Deep Dive Into Audio Extractor Reviews of 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/game-gridlock-pc-issues-interrupt-playtime/"><u>Game Gridlock: PC Issues Interrupt Playtime</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-iphone-xs-max-by-drfone-ios/"><u>Guide on How To Remove Apple ID From iPhone XS Max</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-fallout-4-performance-advanced-techniques-to-combat-lag-and-enjoy-flawless-gameplay/"><u>Mastering Fallout 4 Performance: Advanced Techniques to Combat Lag and Enjoy Flawless Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-how-to-restore-functionality-when-windows-1-1-volume-settings-stop-responding/"><u>Solved! How to Restore Functionality When Windows 1 1 Volume Settings Stop Responding</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fix-silent-netflix-episodes-without-hitches/"><u>Step-by-Step Guide to Fix Silent Netflix Episodes Without Hitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-completing-windows-11-v1803-a-guide-for-overcoming-feature-update-issues/"><u>Successfully Completing Windows 11 v1803: A Guide for Overcoming Feature Update Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-windows-11s-disappearing-bluetooth-fast-fixes-for-seamless-connectivity/"><u>Troubleshoot Windows 11'S Disappearing Bluetooth: Fast Fixes for Seamless Connectivity!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/usb-to-hdmi-connector-problems-diagnosis-and-fixes-for-common-issues/"><u>USB-to-HDMI Connector Problems - Diagnosis and Fixes for Common Issues</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Resolving the Fn Key Malfunction on Dell Computers"
-date: 2024-10-31T22:50:47.459Z
-updated: 2024-11-08T08:13:12.885Z
+date: 2025-01-08T16:59:29.001Z
+updated: 2025-01-13T16:46:15.113Z
 tags:
   - win11
   - win10
@@ -48,24 +48,10 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04deab93532.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then check Overwatch voice chat again to see if the**voice chat not working** problem has been fixed. If it works, then congrats! But if the problem persists, move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Set default devices
 
@@ -79,14 +65,15 @@ Here’s how to do it:
 3. In the **Playback**  tab, right-click on**the speakers/headphones you’re to use in Overwatch** and  click **Set Default** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
 5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
@@ -100,16 +87,7 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable Exclusive Mode
@@ -122,20 +100,25 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 2. In the**Playback** tab, right-click on**your default device** and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cc544ea24.jpg)
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 4: Check your in-game audio settings
 
@@ -172,20 +155,21 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-the-beginners-guide-to-stunning-slow-motion-shooting-with-an-android-for-2024/"><u>[New] The Beginner's Guide to Stunning Slow-Motion Shooting with an Android for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-rapid-recording-rules-for-iphone-timelapses/"><u>[Updated] Rapid Recording Rules for iPhone Timelapses</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-picture-perfection-on-a-penny-your-guide-to-free-tiktok-backdrops/"><u>2024 Approved Picture Perfection on a Penny Your Guide to Free TikTok Backdrops</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-techniques-for-reducing-mov-file-sizes-effectively/"><u>Best Techniques for Reducing Mov File Sizes Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-error-code-0x80224200d-on-windows-updates-a-step-by-step-fix-for-users/"><u>Bypassing Error Code 0X802^24200d on Windows Updates: A Step-by-Step Fix for Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/deciphering-and-solving-the-mystery-of-http-403-denials-on-your-site/"><u>Deciphering and Solving the Mystery of 'HTTP 403' Denials on Your Site</u></a></li>
-<li><a href="https://win-superb.techidaily.com/effektiver-ansatz-fur-die-ruckgewinnung-verlorener-orf-informationen-einfache-erklarung-des-orf-prozesses/"><u>Effektiver Ansatz Für Die Rückgewinnung Verlorener ORF Informationen: Einfache Erklärung Des ORF Prozesses</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-the-new-age-of-samsungs-bdplus-k850-for-2024/"><u>Exploring the New Age of Samsung's BD+ K850 for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-6-how-to-unlock-a-disabled-iphone-6-by-drfone-ios/"><u>In 2024, Disabled iPhone 6 How to Unlock a Disabled iPhone 6?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/llm-essentials-understanding-giants-in-ai-language-processing/"><u>LLM Essentials: Understanding Giants in AI Language Processing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-for-windows-11s-persistent-update-problem-error-id-0x80240034/"><u>Mastering the Fix for Windows 11'S Persistent Update Problem – Error ID 0X80240034</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-when-netflix-wont-play-sound-a-user-guide/"><u>Quick Fixes for When Netflix Won't Play Sound: A User Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-failed-attempts-at-changing-display-settings-successfully-explained/"><u>Troubleshooting Failed Attempts at Changing Display Settings Successfully Explained</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-does-my-laptoppc-keep-powering-down-find-out-here/"><u>Why Does My Laptop/PC Keep Powering Down? Find Out Here!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-and-windows-10-screen-capture-issue-solved-reactivating-the-print-screen-key/"><u>Windows 11 & Windows 10 Screen Capture Issue Solved: Reactivating the Print Screen Key</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-delete-comments-from-youtube-with-minimal-hassle/"><u>[New] In 2024, How to Delete Comments From YouTube with Minimal Hassle</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/trategies-for-dominating-youtube-search-results-through-seo/"><u>[New] Strategies for Dominating YouTube Search Results Through SEO</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-facebooks-quintessential-changes-for-enthusiasts/"><u>[Updated] 2024 Approved Facebook's Quintessential Changes for Enthusiasts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-20-best-anime-opening-songs-of-all-time/"><u>[Updated] In 2024, 20 Best Anime Opening Songs of All Time</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-key-to-captivating-audiences-crafting-fb-slideshows/"><u>2024 Approved The Key to Captivating Audiences Crafting FB Slideshows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-immersive-viewing-access-and-enjoy-apples-latest-3d-content-on-the-meta-quest-3-expert-tips-inside/"><u>Experience Immersive Viewing: Access and Enjoy Apple's Latest 3D Content on the Meta Quest 3 - Expert Tips Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-resolving-window-10-screen-vibrating-problems/"><u>Guide: Resolving Window 10 Screen Vibrating Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-failed-ssltls-handshake-error-in-firefox-browser/"><u>How to Fix a Failed SSL/TLS Handshake Error in Firefox Browser</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-speaker-distortion-on-windows-11-and-7-a-step-by-step-guide/"><u>How To Fix Speaker Distortion on Windows 11 & 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movaviwmvmkv/"><u>Movaviの専用フリーウェブベースでのWMVからMKVへのコンバートツール</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-sudden-end-of-a-program-understanding-error-1067-in-windows/"><u>Resolving the Sudden End of a Program - Understanding Error 1067 in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-common-problems-with-todays-advanced-networked-devices-for-easy-setup/"><u>Solving Common Problems with Today's Advanced Networked Devices for Easy Setup</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-evolution-continues-sw320s-spectacular-journey-to-4k-excellence-for-2024/"><u>The Evolution Continues Sw320’s Spectacular Journey to 4K Excellence for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-flac-to-mp3wav-converter-choose-the-perfect-audio-format-solution/"><u>Top-Rated FLAC to MP3/WAV Converter: Choose the Perfect Audio Format Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-correcting-the-incorrect-path-or-file-name-problem-in-your-system/"><u>Understanding & Correcting the 'Incorrect Path or File Name' Problem in Your System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-update-error-diagnosis-and-fix-a-closer-look-at-the-database-issue/"><u>Windows 11 Update Error Diagnosis and Fix - A Closer Look at the Database Issue</u></a></li>
 </ul></div>
 

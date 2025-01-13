@@ -1,7 +1,7 @@
 ---
 title: Effortless Solution Steps to Stop Endless Restart Cycles in Windows 11
-date: 2024-11-03T17:28:37.864Z
-updated: 2024-11-07T20:33:36.821Z
+date: 2025-01-06T16:41:18.791Z
+updated: 2025-01-13T16:24:32.344Z
 tags:
   - win11
   - win10
@@ -47,9 +47,17 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
@@ -63,28 +71,27 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
@@ -96,10 +103,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click**Update & Security** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
@@ -107,19 +111,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -136,13 +127,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
@@ -170,20 +154,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-windows-driver-power-state-error-fixes/"><u>Easy Solutions for Windows Driver Power State Error Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-resolving-a-frozen-window-10-screen/"><u>Effective Solutions for Resolving a Frozen Window 10 Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/getting-your-microsoft-surface-pen-back-in-action-common-fixes-explained/"><u>Getting Your Microsoft Surface Pen Back in Action - Common Fixes Explained</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fast-forward-your-twitch-experience/"><u>In 2024, Fast-Forward Your Twitch Experience</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-lava-yuva-2-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Lava Yuva 2</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-top-tier-videography-choose-from-15-camcorders/"><u>In 2024, Top-Tier Videography Choose From 15 Camcorders</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-the-best-5-tools-for-youtube-video-url-shortening/"><u>In 2024, Unveiling the Best 5 Tools for YouTube Video URL Shortening</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-overload-incident-at-networking-interface/"><u>Resolved: Overload Incident at Networking Interface</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/samsung-galaxy-z-fold-6-revealed-discover-pricing-availability-dates-and-cutting-edge-specifications/"><u>Samsung Galaxy Z Fold 6 Revealed! Discover Pricing, Availability Dates & Cutting-Edge Specifications</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-keyboard-arrow-keys-malfunction-effective-troubleshooting-tips/"><u>Solving Keyboard Arrow Keys Malfunction: Effective Troubleshooting Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-enabling-bluetooth-feature-on-your-windows-ebox-7-system/"><u>Troubleshoot & Fix: Enabling Bluetooth Feature on Your Windows Ebox-7 System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-repairing-windows-10-touchscreen-issues-using-these-5-methods/"><u>Ultimate Guide: Repairing Windows 10 Touchscreen Issues Using These 5 Methods</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/unlocking-higher-views-on-instagram-videos/"><u>Unlocking Higher Views on Instagram Videos</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/windows-11-partitionentfernen-vier-effektive-methoden-zum-organisieren/"><u>Windows 11-Partitionentfernen: Vier Effektive Methoden Zum Organisieren</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-comprehensively-ranked-win-11-hd-cameras-and-recorders/"><u>[New] 2024 Approved Comprehensively Ranked Win 11 HD Cameras & Recorders</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/remium-online-platforms-for-video-intro-creation/"><u>[New] Premium Online Platforms for Video Intro Creation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellence-in-flight-choosing-superior-drone-motor-technology/"><u>2024 Approved Excellence in Flight Choosing Superior Drone Motor Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-quick-fixes-for-the-troublesome-steam-disk-cant-be-writed/"><u>Expert Advice on Quick Fixes for the Troublesome Steam 'Disk Can't Be Writed'</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-windows-10-not-detecting-hdmi-tv-issue/"><u>Fix Windows 10 Not Detecting HDMI TV Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-apex-legends-game-crash-troubleshooting-common-engine-issues/"><u>Fixing the Apex Legends Game Crash: Troubleshooting Common Engine Issues</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-realme-gt-neo-5-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Realme GT Neo 5 to iPad | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/identifying-and-fixing-unwanted-startups-in-windows-10-computers/"><u>Identifying and Fixing Unwanted Startups in Windows 10 Computers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-honor-x7b-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Honor X7b to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-landscape-of-color-correction-innovative-uses-of-luts-in-video-editing/"><u>In 2024, Navigating the Landscape of Color Correction Innovative Uses of LUTs in Video Editing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-touchscreen-problems-on-windows-11-exploring-five-reliable-fixes/"><u>Overcoming Touchscreen Problems on Windows 11: Exploring Five Reliable Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/shrink-high-wmi-cpu-load-in-win1011/"><u>Shrink High WMI CPU Load in Win10/11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-factors-to-evaluate-when-selecting-your-ideal-fitness-tracker/"><u>Top 5 Factors to Evaluate When Selecting Your Ideal Fitness Tracker</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-high-gpu-demand-from-windows-10s-desktop-window-manager-5-effective-strategies/"><u>Troubleshoot High GPU Demand From Windows 10'S Desktop Window Manager: 5 Effective Strategies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-successfully-fixing-steam-network-unreachable-problems/"><u>Troubleshooting Guide: Successfully Fixing 'Steam Network Unreachable' Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-wow-performance-drops/"><u>Ultimate Guide: Solving WoW Performance Drops</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-smoother-gaming-on-your-computer-expert-tips-to-overcome-fps-drops/"><u>Unlock Smoother Gaming on Your Computer: Expert Tips to Overcome FPS Drops</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-might-netflix-be-down-diagnose-and-resolve-common-streaming-glitches/"><u>Why Might Netflix Be Down? Diagnose & Resolve Common Streaming Glitches</u></a></li>
 </ul></div>
 

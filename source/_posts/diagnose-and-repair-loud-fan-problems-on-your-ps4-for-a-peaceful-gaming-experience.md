@@ -1,7 +1,7 @@
 ---
 title: Diagnose and Repair Loud Fan Problems on Your PS4 for a Peaceful Gaming Experience
-date: 2025-01-03T01:44:56.083Z
-updated: 2025-01-06T17:00:46.058Z
+date: 2025-01-12T16:26:55.612Z
+updated: 2025-01-13T16:50:54.252Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ You may encounter an error with a code of **1603** when you are attempting to in
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1) Change installation location
 
 You may encounter an error 1603 because the installation location is you choose is not available due to various reasons — such as being encrypted. You can use another installation folder to install the program and see if the error is gone.
@@ -33,10 +37,6 @@ You may encounter an error 1603 because the installation location is you choose 
 If you have previously installed the same program (or its earlier version), the error can occur when you try to install the application again. If you want to install your program successfully, you need to perform a **clean uninstall** of the one installed on your computer. This means you need to remove all the temporary files and preferences it leaves in addition to the major program. Sometimes you may lose the desktop shortcut of a program due to some reasons and therefore you may forget that you have installed it. In this case you can go to**Control Panel**to check if it is still on your computer: Press**Win + R**, and enter “ _**control**_“;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9bf012d25.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Find and open**Programs and Features**;
 
@@ -52,13 +52,13 @@ There may be something going wrong with**Microsoft Installer service**and theref
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca68fd8714.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **b)** Find and double click on**Windows Installer**;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca70c399c1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **c)** Hit**Start**button under**Service status**and hit**OK**. (If its service status is**running**, you should click on**Stop**first and then hit**Start**.)
 
@@ -73,7 +73,7 @@ To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**m
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9952ad21.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4) Acquire full permissions on the drive for installation
@@ -82,16 +82,12 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cac402cfce.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **b)** Go to**Security**tab and click on**Edit**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595caf24696ae.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **c)** Single click on **SYSTEM**and ensure that the**Allow**box of every item in**Permissions for SYSTEM** is checked (if it is checkable). Do the same check for**Administrators**.
@@ -103,7 +99,7 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb3cf25a0c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **e)** Click on**Change Permissions**.
@@ -114,12 +110,16 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb67382950.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **g)** Select**This folder, subfolders and files**for**Applies to**field and**tick** **all the available basic permissions**. After that hit**OK**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb7074c180.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **h)** Do the same operation above for**SYSTEM**.
@@ -145,24 +145,20 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-new-era-of-capturing-life-with-updated-lg-360-cameras/"><u>[New] 2024 Approved The New Era of Capturing Life with Updated LG 360 Cameras</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-leading-8-sites-offering-free-access-to-3d-text-psdfiles/"><u>[Updated] Leading 8 Sites Offering Free Access to 3D Text PSDFiles</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-live-viewers-choice-obs-or-shadowtoolkit/"><u>2024 Approved Live Viewers' Choice OBS or ShadowToolkit</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/5-effective-solutions-when-your-usb-mouse-wont-work-with-the-laptop/"><u>5 Effective Solutions When Your USB Mouse Won't Work with the Laptop</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-apple-iphone-11-pro-max-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing Apple iPhone 11 Pro Max iCloud Activation Lock</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/led-explanation-of-youtubes-operation-after-a-video-goes-live-for-2024/"><u>Detailed Explanation of YouTube's Operation After a Video Goes Live for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-the-cache-miss-problem-on-chrome-errcachemiss/"><u>Effective Fixes for the 'Cache Miss' Problem on Chrome (ERR_CACHE_MISS)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-fix-for-bootmgr-not-found-error-step-by-step-guide-includes-screenshots/"><u>Effortless Fix for Bootmgr Not Found Error - Step-by-Step Guide Includes Screenshots</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hassle-free-guide-to-installing-asus-z370-e-motherboard-drivers-online/"><u>Hassle-Free Guide to Installing ASUS Z370-E Motherboard Drivers Online</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Motorola Defy 2? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-harnessing-luts-for-enhanced-visual-effects-in-ar-experiences/"><u>In 2024, Harnessing LUTs for Enhanced Visual Effects in AR Experiences</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-hot-40i-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Hot 40i to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-integrating-multimedia-for-iphone-users/"><u>In 2024, Integrating Multimedia for iPhone Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimized-wdf-implementation-reducing-excessive-cpu-usage/"><u>Optimized WDF Implementation: Reducing Excessive CPU Usage</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repair-broken-usb-connectivity-in-windows-operating-systems/"><u>Step-by-Step Guide: Repair Broken USB Connectivity in Windows Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209999377-troubleshooting-windows-audio-issues-stop-high-cpu-consumption-now/"><u>Troubleshooting Windows Audio Issues: Stop High CPU Consumption Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-kernel-event-141-errors-2024/"><u>Understanding and Resolving Kernel Event 141 Errors, 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-strategies-to-correct-the-unwanted-radiant-red-issue-on-your-windows-10-device/"><u>Winning Strategies to Correct the Unwanted Radiant Red Issue on Your Windows 10 Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-strategies-to-fix-unresponsive-bluetooth-connections-on-windows-11-2024-tips/"><u>Winning Strategies to Fix Unresponsive Bluetooth Connections on Windows 11 (2024 Tips)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-ultimate-guide-to-adjusting-to-new-facebook-ranking-criteria/"><u>[New] 2024 Approved The Ultimate Guide to Adjusting to New Facebook Ranking Criteria</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-upgrading-made-easy-your-guide-to-smooth-tech-transitions/"><u>[New] 2024 Approved Upgrading Made Easy Your Guide to Smooth Tech Transitions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/lavorful-funnels-catchy-recipe-channels-that-work/"><u>[New] Flavorful Funnels Catchy Recipe Channels That Work</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-the-ultimate-path-to-tiktok-fun-for-macbook-owners-for-2024/"><u>[New] The Ultimate Path to TikTok Fun for MacBook Owners for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-final-verdict-on-vegas-pro-21-a-sports-enthusiasts-review/"><u>[Updated] 2024 Approved The Final Verdict on Vegas Pro '21 - A Sports Enthusiast's Review</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-huawei-p60-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Huawei P60</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-successful-installation-of-the-windows-10-version-n-to-n-solutions/"><u>Expert Tips for Successful Installation of the Windows 10 Version N to N: Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-identify-and-change-management-controlled-configuration-settings-in-windows/"><u>How to Identify and Change Management-Controlled Configuration Settings in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-conundrum-solved-reactivate-corsair-led-lighting-today/"><u>Keyboard Conundrum Solved - Reactivate Corsair LED Lighting Today</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revealing-the-top-notch-free-srt-translators-for-your-needs/"><u>Revealing the Top-Notch FREE SRT Translators for Your Needs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-oneplus-ace-2-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On OnePlus Ace 2 for Parents | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-wacom-digitizer-drivers-missing-issue-in-windows-10/"><u>Troubleshooting Wacom Digitizer Drivers Missing Issue in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-reducing-high-cpu-usage-from-wudfhostexe-in-windows-10/"><u>Understanding and Reducing High CPU Usage From wudfhost.exe in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-update-woes-heres-how-you-can-successfully-reapply-or-rollback-fixed/"><u>Windows 10 Update Woes? Here's How You Can Successfully Reapply or Rollback [FIXED]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unexpected Shutdowns in Windows 10 Pro
-date: 2024-11-01T07:01:14.458Z
-updated: 2024-11-08T08:27:23.272Z
+date: 2025-01-08T16:27:55.631Z
+updated: 2025-01-13T17:42:13.837Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 fixes for C**omputer Won’t Shut Down**
 
@@ -47,6 +51,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
@@ -65,25 +73,11 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -95,24 +89,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Restart** .
@@ -131,15 +123,12 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
@@ -164,21 +153,17 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-tiktoks-hidden-treasures-grab-em-all-for-free-for-2024/"><u>[New] TikTok's Hidden Treasures Grab 'Em All for Free for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726027159929-pc/"><u>高品質ビデオのPC上で効果的な圧縮技術</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/angiogenesis-and-invasion/"><u>Angiogenesis and Invasion</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/challenging-astrology-can-ai-like-chatgpt-deliver-more-precise-predictions-than-horoscopes/"><u>Challenging Astrology: Can AI Like ChatGPT Deliver More Precise Predictions than Horoscopes?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-stabilizing-your-heart-of-iron-iv-experience/"><u>Effective Solutions for Stabilizing Your Heart of Iron IV Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-persistent-screen-shimmer-issues-on-windows-11/"><u>Fixing Persistent Screen Shimmer Issues on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-incompatibile-ftdi-drivers-can-cause-memory-integrity-failures-in-systems/"><u>How Incompatibile FTDI Drivers Can Cause Memory Integrity Failures in Systems</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-14-pro-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 14 Pro</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-resolve-msodll-file-absent-issues-on-your-computer/"><u>How to Resolve mso.dll File Absent Issues on Your Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-resolve-windows-error-code-0x8024200d-and-restore-updates-guide/"><u>How to Successfully Resolve Windows Error Code 0X8024200D and Restore Updates [GUIDE]</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-infinix-zero-30-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Infinix Zero 30 5G Phones with/without a PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-itel-p55plusmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Itel P55+Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/minecraft-lan-not-connecting-expert-tips-for-a-seamless-multiplayer-experience/"><u>Minecraft LAN Not Connecting? Expert Tips for a Seamless Multiplayer Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-fallout-4-delays-with-these-2022-optimization-hacks/"><u>Overcome Fallout 4 Delays with These 2022 Optimization Hacks</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-infinix-hot-40i-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Infinix Hot 40i without backup.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-the-unusual-black-out-on-google-chrome-expert-tips-and-tricks/"><u>Troubleshoot the Unusual Black Out on Google Chrome: Expert Tips and Tricks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exclusive-access-to-premium-playlists-on-mobile-devices/"><u>[Updated] Exclusive Access to Premium Playlists on Mobile Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-revisiting-lost-content-2-methods-for-retrieving-yt-deletions-for-2024/"><u>[Updated] Revisiting Lost Content 2 Methods for Retrieving YT Deletions for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unseen-horizons-the-top-3-non-youtube-video-havens/"><u>2024 Approved Unseen Horizons The Top 3 Non-Youtube Video Havens</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-delay-effective-solutions-for-high-ping-in-bless-unleashed-for-windows-users/"><u>Beat the Delay: Effective Solutions for High Ping in Bless Unleashed for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/can-you-watch-netflix-right-now-how-to-check-for-service-interruptions/"><u>Can You Watch Netflix Right Now? How to Check for Service Interruptions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-resolving-non-functional-wacom-tablet-dilemmas/"><u>Diagnosing and Resolving Non-Functional Wacom Tablet Dilemmas</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-resolving-problems-with-minecraft-local-area-network-play/"><u>Expert Tips for Resolving Problems with Minecraft Local Area Network Play</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-stop-nier-automata-from-crashing-on-windows-systems-solutions/"><u>How to Stop Nier: Automata From Crashing on Windows Systems: Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-htc-u23-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on HTC U23 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-common-file-explorer-issues-in-windows-11-get-expert-advice/"><u>Quick Fixes for Common File Explorer Issues in Windows 11 - Get Expert Advice!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-computer-secrets-with-toms-expertise/"><u>Unlocking Computer Secrets with Tom's Expertise</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

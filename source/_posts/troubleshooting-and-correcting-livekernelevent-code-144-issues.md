@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Correcting LiveKernelEvent Code 144 Issues
-date: 2024-12-31T04:14:03.023Z
-updated: 2025-01-06T22:34:50.814Z
+date: 2025-01-07T16:55:30.855Z
+updated: 2025-01-13T17:25:33.322Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/ebbfde368b81e7f396fe512ace44b149bef6fef39
 3. **[Turn off USB selective suspend](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Change power management settings for USB Root Hubs](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Do some basic troubleshooting
 
  You may encounter this problem because of physical issues. It can be that your USB device happens to be faulty or the USB port you’re plugging your devices into are failing.
@@ -45,10 +41,6 @@ To rule out this as a possibility:
 2. Connect your USB devices to a different (and functioning) port to see if it fixes the issue. If yes, then great! If the**USB still keeps disconnecting** , move on to**Fix 2** .
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your USB drivers
 
@@ -64,16 +56,12 @@ To rule out this as a possibility:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
@@ -81,10 +69,6 @@ To rule out this as a possibility:
  4) Restart your computer and check if the**USB keeps disconnecting** issue has been resolved. If yes, then congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Turn off USB selective suspend
 
@@ -95,6 +79,10 @@ To make sure you’ve this setting disabled:
  1) On your keyboard, press**the Windows logo key** and**R** at the same time. Then type**powercfg.cpl** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On your selected power option, click on**Change plan settings** .
 
@@ -112,6 +100,10 @@ To make sure you’ve this setting disabled:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Change power management settings for USB Root Hubs
 
  Your PC system may automatically turn off the various devices on your computer in order to save power. And sometimes it can turn off your external hard drive, or USB devices specifically and cause the**USB keeps disconnecting** issue.
@@ -120,6 +112,10 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
@@ -127,6 +123,10 @@ To make sure you’ve this setting disabled:
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
@@ -156,21 +156,15 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/igital-arcade-over-a-hundred-game-channels-for-2024/"><u>[New] Digital Arcade Over a Hundred Game Channels for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-erasing-your-instagram-identity-step-by-step-guidebook/"><u>[Updated] 2024 Approved Erasing Your Instagram Identity Step-by-Step Guidebook</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-guide-for-downloading-and-updating-canon-mg3600-printing-drivers/"><u>Complete Guide for Downloading & Updating Canon MG3600 Printing Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-wd-my-passport-ultra-not-showing-up-on-your-windows-device/"><u>Effective Fixes for WD My Passport Ultra Not Showing Up on Your Windows Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-fixed-unable-to-write-data-to-0x-referenced-location-in-memory/"><u>Error Fixed: Unable to Write Data to 0X Referenced Location in Memory</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-your-windows-11-touch-screen-working-again-a-guide-to-5-reliable-fixes/"><u>Get Your Windows 11 Touch Screen Working Again: A Guide to 5 Reliable Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-an-issue-when-igfxem-module-stops-functioning/"><u>How To Fix An Issue When iGFXem Module Stops Functioning</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-usb-connections-in-windows-1011/"><u>How to Fix Unresponsive USB Connections in Windows 10/11</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-essential-tips-for-using-instagrams-sound-emojis/"><u>In 2024, Essential Tips for Using Instagram's Sound Emojis</u></a></li>
-<li><a href="https://games-able.techidaily.com/ios-interactivity-choosing-apple-arcade-as-a-key-player/"><u>IOS Interactivity: Choosing Apple Arcade as a Key Player</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-the-high-risk-problem-in-google-chrome-with-these-effective-steps/"><u>Overcome the High-Risk Problem in Google Chrome with These Effective Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-common-problems-with-unsuccessful-torrent-downloads/"><u>Overcoming Common Problems with Unsuccessful Torrent Downloads</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-t2x-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo T2x 5G Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-best-portable-jump-starters-features-reviews-and-buying-tips-toms-hardware/"><u>Ultimate Guide to the Best Portable Jump Starters : Features, Reviews & Buying Tips | Tom's Hardware</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-framework-for-exceptional-ppt-video-documentation/"><u>[New] In 2024, The Framework for Exceptional PPT Video Documentation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ipad-screen-snapshot-strategies-for-2024/"><u>[New] IPad Screen Snapshot Strategies for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cyclic-redundancy-check-solutions-for-reliable-data-verification/"><u>Cyclic Redundancy Check: Solutions for Reliable Data Verification</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-nier-automata-pc-lagging-problems-complete-guide/"><u>Fix Your Nier Automata PC Lagging Problems – Complete Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-motorola-moto-g04-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Motorola Moto G04 Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-permanent-deactivation-the-ultimate-guide-to-youtube-shorts/"><u>In 2024, Permanent Deactivation The Ultimate Guide to YouTube Shorts</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-msmpengexe-reducing-high-cpu-usage-on-windows-11-solved/"><u>Optimizing MsMpEng.exe: Reducing High CPU Usage on Windows 11 - Solved!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-permanently-deleted-or-erased-excel-2019-files-for-free-stellar-by-stellar-guide/"><u>Recover Permanently Deleted or Erased Excel 2019 Files for Free | Stellar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restoring-wi-fi-connectivity-solutions-for-the-hidden-wi-fi-settings-in-windows-11/"><u>Restoring Wi-Fi Connectivity: Solutions for the Hidden Wi-Fi Settings in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/update-required-fixing-incompatible-device-drivers-on-windows-operating-systems/"><u>Update Required: Fixing Incompatible Device Drivers on Windows Operating Systems</u></a></li>
 </ul></div>
 

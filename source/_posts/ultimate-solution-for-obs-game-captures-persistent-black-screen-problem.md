@@ -1,7 +1,7 @@
 ---
 title: Ultimate Solution for OBS Game Capture's Persistent Black Screen Problem
-date: 2024-12-16T19:15:12.411Z
-updated: 2024-12-23T00:28:15.822Z
+date: 2025-01-10T17:06:38.978Z
+updated: 2025-01-13T17:13:53.662Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Fix DCOM(**Distributed Component Object Model)** errors
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
@@ -68,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -79,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 `` 4) Reboot your Windows 10 and open the app again to see if it goes fine.
 
 ``
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
@@ -89,15 +85,15 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ``
 
@@ -110,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -128,7 +124,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
@@ -144,9 +140,17 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Open the app again to see if it goes fine.
 
 ``
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
@@ -162,10 +166,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -176,10 +176,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -187,6 +183,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 4) Open the app again to see if it goes fine.
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
 
@@ -225,19 +225,22 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-overcome-error-1067-the-program-stopped-abruptly-in-windows-os/"><u>Comprehensive Guide to Overcome Error 1067: The Program Stopped Abruptly in Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-unsupported-operating-system-alerts-setup-continuity-tips/"><u>Dealing with 'Unsupported Operating System' Alerts - Setup Continuity Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-windows-system-driver-power-malfunctions/"><u>Diagnosing & Solving Windows System Driver Power Malfunctions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-tecno-pop-7-pro-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Tecno Pop 7 Pro Phone that is Locked?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-1110-bad-image-display-problems-effectively/"><u>How to Resolve Windows 11/10 Bad Image Display Problems Effectively</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-iphone-11-pro-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On iPhone 11 Pro - 4 Easy Ways</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-ranking-the-top-value-video-resources-online/"><u>In 2024, Ranking the Top Value Video Resources Online</u></a></li>
-<li><a href="https://network-issues.techidaily.com/lenovo-tap-failure-now-fully-operational/"><u>Lenovo Tap Failure, Now Fully Operational</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-adobe-premiere-tutorial-importing-and-exporting-videos-like-a-pro-for-2024/"><u>New Adobe Premiere Tutorial Importing and Exporting Videos Like a Pro for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-dells-non-responsive-fn-keys-with-easy-fixes/"><u>Solve Your Dell's Non-Responsive FN Keys with Easy Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/techniques-for-restoring-functionality-in-malfunctioning-function-fn-keys/"><u>Techniques for Restoring Functionality in Malfunctioning Function (Fn) Keys</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbelievable-price-cuts-during-hp-cyber-week-save-up-to-71-on-computers-and-monitors-s-inside-look/"><u>Unbelievable Price Cuts During HP Cyber Week: Save Up to 71% on Computers & Monitors 'S Inside Look</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-healthcare-marketing-mastering-fb-ad-strategies/"><u>[New] Healthcare Marketing Mastering FB Ad Strategies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-masterful-moments-the-top-10-apps-to-boost-your-account-for-2024/"><u>[New] Masterful Moments The Top 10 Apps to Boost Your Account for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-boosting-profitability-in-the-world-of-youtube-shorts-for-2024/"><u>[Updated] Boosting Profitability in the World of Youtube Shorts for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-cartooncraft-master-guide-24-report/"><u>[Updated] CartoonCraft Master Guide '24 Report</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-optimize-your-video-consumption-the-guide-to-auto-play-youtube-on-facebook/"><u>[Updated] Optimize Your Video Consumption The Guide to Auto-Play Youtube on Facebook</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-proper-techniques-to-snag-free-secure-vlc-on-a-mac-device-for-2024/"><u>[Updated] Proper Techniques to Snag Free, Secure VLC on a Mac Device for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminating-lag-in-pubg-a-comprehensive-guide-to-addressing-connectivity-issues/"><u>Eliminating Lag in PUBG: A Comprehensive Guide to Addressing Connectivity Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-87-encountered-mastering-the-solutions-for-incorrect-parameter-issues-in-loadlibrary/"><u>Error 87 Encountered? Mastering the Solutions for Incorrect Parameter Issues in LoadLibrary</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/fix-whea-uncorrectable-errors-on-your-windows-10-pc-top-5-solutions/"><u>Fix WHEA Uncorrectable Errors on Your Windows 10 PC - Top 5 Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-address-the-missing-device-warning-windows-versions-11-8-and-7/"><u>How to Correctly Address the Missing Device Warning - Windows Versions 11, 8 and 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-windows-10-update-issue-0x80240034-error-solution-explained/"><u>How to Overcome the Windows 10 Update Issue – 0X80240034 Error Solution Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-quick-and-simple-ways-to-take-a-capture-of-your-screen/"><u>How To: Quick & Simple Ways to Take a Capture of Your Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-crc-data-mismatches-solutions-for-flawless-transmission/"><u>Overcoming CRC Data Mismatches – Solutions for Flawless Transmission</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210782325-resolving-the-unknown-issuer-error-in-mozilla-firefox-quick-solutions/"><u>Resolving the Unknown Issuer Error in Mozilla Firefox - Quick Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-firefox-secure-connection-error-secerrorunknownissuer-with-ease/"><u>Solve Firefox Secure Connection Error (SEC_ERROR_UNKNOWN_ISSUER) with Ease</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/tech-tips-discovering-missing-files-on-usb-a-4-step-guide-to-track-them-down/"><u>Tech Tips: Discovering Missing Files on USB - A 4-Step Guide to Track Them Down!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-update-failure-code-0xc1900208-a-comprehensive-guide/"><u>Troubleshooting Windows 11 Update Failure Code 0xC1900208: A Comprehensive Guide</u></a></li>
 </ul></div>
 

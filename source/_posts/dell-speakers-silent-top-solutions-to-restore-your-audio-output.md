@@ -1,7 +1,7 @@
 ---
 title: Dell Speakers Silent? Top Solutions to Restore Your Audio Output
-date: 2025-01-02T01:23:50.032Z
-updated: 2025-01-06T21:24:00.867Z
+date: 2025-01-08T17:03:58.282Z
+updated: 2025-01-13T17:10:05.995Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/543a8e6d7f06f3d9129829edd8982dbf9c6a6048e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/543a8e6d7f06f3d9129829edd8982dbf9c6a6048e
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
@@ -54,6 +50,10 @@ Here’s how to reinstall the keyboard driver:
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -85,6 +85,10 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -103,10 +107,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -122,6 +122,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
@@ -134,21 +138,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,22 +184,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-guide-to-adding-dynamic-captions-to-instagram-media-for-2024/"><u>[Updated] Guide to Adding Dynamic Captions to Instagram Media for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208779606-expert-tips-for-getting-your-dells-usb-port-up-and-running-again/"><u>Expert Tips for Getting Your Dell's USB Port Up & Running Again!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/frequency-hopping-spread-spectrum-fhss/"><u>Frequency Hopping Spread Spectrum (FHSS):</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-restoring-crystal-clear-images-by-eliminating-screen-line-flaws/"><u>Guide to Restoring Crystal Clear Images by Eliminating Screen Line Flaws</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-10-installation-failure-resolving-error-code-80240020/"><u>How to Fix Windows 10 Installation Failure: Resolving Error Code 80240020</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-oppo-a18-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Oppo A18 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-sony-xperia-5-v-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Sony Xperia 5 V to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/keyboard-control-in-action-modifying-software-size-on-windows-11/"><u>Keyboard Control in Action: Modifying Software Size on Windows 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-redmi-note-12-proplus-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi Redmi Note 12 Pro+ 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-high-svchostexe-cpu-consumption-in-windows-11-comprehensive-guide/"><u>Resolving High svchost.exe CPU Consumption in Windows 11 - Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/seamless-gaming-experience-top-six-strategies-to-fix-dreamlight-valley-crashes-on-pc/"><u>Seamless Gaming Experience: Top Six Strategies to Fix Dreamlight Valley Crashes on PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tips-for-pairing-your-xbox-one-controller-when-it-wont-connect/"><u>Step-by-Step Tips for Pairing Your Xbox One Controller When It Won't Connect</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/teredos-struggle-with-eligibility-criteria-insights-and-solutions/"><u>Teredo's Struggle with Eligibility Criteria - Insights and Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016368126-troubleshooting-tips-how-to-get-your-corsair-earphones-back-in-action/"><u>Troubleshooting Tips: How To Get Your Corsair Earphones Back In Action</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-career-success-discover-five-key-methods-to-advance-your-abilities-and-broaden-employment-horizons/"><u>Unlock Career Success: Discover Five Key Methods to Advance Your Abilities and Broaden Employment Horizons</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722973199619-update-your-hp-wireless-adapter-drivers-for-optimal-performance-on-windows-10-7-and-8-free-downloads-available/"><u>Update Your HP Wireless Adapter Drivers for Optimal Performance on Windows 10, 7 & 8 - Free Downloads Available</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-stop-alerts-taming-the-cpu-overload/"><u>Windows Stop Alerts: Taming the CPU Overload</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/utting-edge-tools-to-snatch-and-save-videos-flawlessly/"><u>[New] Cutting-Edge Tools to Snatch and Save Videos Flawlessly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-techniques-for-successful-photo-background-alteration-on-fb/"><u>[Updated] Techniques for Successful Photo Background Alteration on FB</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-giggle-in-the-virtual-realm-how-to-create-your-own-hilarious-memes/"><u>2024 Approved Giggle in the Virtual Realm How to Create Your Own Hilarious Memes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-to-overcoming-the-feature-level-100-problem-in-wwe-2k-on-dx11-graphics/"><u>Expert Guide to Overcoming the 'Feature Level 10.0' Problem in WWE 2K on DX11 Graphics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/game-compromised-activisions-security-breach/"><u>Game Compromised: Activision's Security Breach</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/huggingchat-unveiled-a-free-open-source-counterpart-to-gpt/"><u>HuggingChat Unveiled: A Free, Open-Source Counterpart to GPT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-tips-and-tricks-to-restart-a-stalled-steam-shop-experience/"><u>Quick Tips and Tricks to Restart a Stalled Steam Shop Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-cod-wwii-issue-fixing-error-code-4220/"><u>Resolving COD WWII Issue: Fixing Error Code 4220</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-portable-camping-sound-systems-a-comprehensive-review-zdnet/"><u>Top-Rated Portable Camping Sound Systems - A Comprehensive Review (ZDNET)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-sound-problems-no-device-installed-error-in-windows-1110/"><u>Troubleshooting Sound Problems: No Device Installed Error in Windows 11/10</u></a></li>
 </ul></div>
 

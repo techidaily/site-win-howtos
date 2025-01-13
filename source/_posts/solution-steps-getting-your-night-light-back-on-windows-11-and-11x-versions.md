@@ -1,7 +1,7 @@
 ---
 title: "Solution Steps: Getting Your Night Light Back on Windows 11 and 11X Versions"
-date: 2024-12-19T16:09:08.510Z
-updated: 2024-12-22T22:56:42.561Z
+date: 2025-01-12T17:35:18.883Z
+updated: 2025-01-13T17:34:55.625Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for speakers crackling
 
  All the screenshots below are from**Windows 10** , but the fixes also work in**Windows 7** .
@@ -44,19 +48,27 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -73,16 +85,8 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
@@ -100,7 +104,7 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 3. Click **Change advanced power settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
@@ -108,10 +112,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
@@ -137,19 +137,18 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-how-to-upload-a-video-to-instagram-from-a-desktop/"><u>[Updated] How to Upload a Video to Instagram From a Desktop</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-essential-screen-capture-techniques-for-powerpoint-presentations/"><u>2024 Approved Essential Screen Capture Techniques for PowerPoint Presentations</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-navigate-the-world-of-podcast-seo-efficiently/"><u>2024 Approved Navigate the World of Podcast SEO Efficiently</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-motorola-moto-e13-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Motorola Moto E13? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-evaluation-of-the-oneplus/"><u>Comprehensive Evaluation of the OnePlus</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dxgidll-woes-pubgs-triumphant-fix/"><u>Dxgi.dll Woes: PUBG's Triumphant Fix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-usb-device-recognition-problems-the-definitive-guide-to-descriptor-request-failure/"><u>Overcoming USB Device Recognition Problems: The Definitive Guide to 'Descriptor Request Failure'</u></a></li>
-<li><a href="https://article-posts.techidaily.com/quantum-hdr-phenomenon-in-digital-photography/"><u>Quantum HDR Phenomenon in Digital Photography</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/secrets-to-finding-excellent-economic-pictures-online/"><u>Secrets to Finding Excellent, Economic Pictures Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-when-your-dhcp-server-is-not-responding/"><u>Step-by-Step Solution for When Your DHCP Server Is Not Responding</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-reactivating-your-devices-bluetooth-functionality/"><u>Troubleshooting Tips: Reactivating Your Device's Bluetooth Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-defender-issues-why-wrp-cant-complete-operations/"><u>Troubleshooting Windows Defender Issues: Why WRP Can’t Complete Operations</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-solution-for-downloading-and-installing-a-dell-mouse-driver/"><u>Ultimate Solution for Downloading & Installing a Dell Mouse Driver</u></a></li>
-<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-5-xbox-external-hard-drive/"><u>[Updated] In 2024, Top 5 Xbox External Hard Drive</u></a></li>
+<li><a href="https://article-tips.techidaily.com/bite-sized-narrative-notation/"><u>Bite-Sized Narrative Notation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-lookup-experience-the-world-in-virtual-reality-for-2024/"><u>Comprehensive Lookup Experience the World in Virtual Reality for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-to-correct-the-missing-dnssddll-error/"><u>Effective Solutions to Correct the Missing dnssd.dll Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficiently-lowering-cpu-load-on-win10-pcs/"><u>Efficiently Lowering CPU Load on Win10 PCs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-lava-blaze-curve-5g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Lava Blaze Curve 5G?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-reviewing-the-action-realm-with-t5s-thievery/"><u>In 2024, Reviewing the Action Realm with T5's Thievery</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/navigating-screencastifys-screen-capture-feature/"><u>Navigating Screencastify's Screen Capture Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-simple-guide-performing-a-fresh-installation-of-windows-11/"><u>Quick & Simple Guide: Performing a Fresh Installation of Windows 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/quick-access-essential-windows-10-tips/"><u>Quick Access Essential Windows 10 Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/repair-broken-links-between-your-epson-scanner-and-printing-device/"><u>Repair Broken Links Between Your Epson Scanner and Printing Device</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479806597-the-challenges-of-sending-gifts-from-your-iphone-or-ipad-discover-the-top-5-hurdles/"><u>The Challenges of Sending Gifts From Your iPhone or iPad - Discover the Top 5 Hurdles!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-guide-activating-and-launching-your-hosted-network/"><u>Windows 10 Guide: Activating and Launching Your Hosted Network</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Correcting User Configuration to Solve 'Driver Failed' Errors"
-date: 2024-08-28T00:36:46.452Z
-updated: 2024-08-29T00:36:46.452Z
+date: 2025-01-07T17:20:03.862Z
+updated: 2025-01-13T17:16:29.381Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Continuously getting the error **“There is a problem with your games setup. Pl
  (only for users who are running Windows N versions)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/featured-image-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Repair your game
 
@@ -84,13 +88,25 @@ If that didn’t help, try the next fix below.
   
 ![delete Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/click-on-AppData.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  9) Open the**Local** folder and delete the**Origin** folder in here.  
   
 ![delete Origin folder inside LocalData](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder-inside-LocalData.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10) Restart your PC and log back into Origin.
 
 If this didn’t give you any luck, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update your device drivers
 
@@ -108,14 +124,15 @@ Here’s how to update drivers with Driver Easy:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-device-drivers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. Then resume your installation or launch your game from Origin to check if that error message still appears.
@@ -130,9 +147,6 @@ Here’s how to update drivers with Driver Easy:
   
 ![Run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 If you want to make Origin always run as administrator, take these steps:
 
 * Right-click the Origin client icon on your desktop (or in the Origin directory if not on your desktop and click**Properties** .  
@@ -140,15 +154,13 @@ If you want to make Origin always run as administrator, take these steps:
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/always-run-Origin-as-an-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-Origin-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Resume your installation and check if it helped you fix the issue. If your problem persists, try the next fix below.
 
 ## 5\. Install the latest visual C++ redistributable pack
@@ -163,9 +175,6 @@ If that didn’t help, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/download-media-feature-pack-1200x715.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  Not sure which Windows version you’re running? No worries! Follow the steps below to check it out:
 
  1) On your keyboard, press the**Windows + I keys** to open Settings.
@@ -173,11 +182,16 @@ If that didn’t help, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/how-to-check-my-Windows-version.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Select**About** . Then in the**Windows specifications** section, you’ll find your edition.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/my-windows-version.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -189,8 +203,6 @@ If that didn’t help, move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +210,24 @@ If that didn’t help, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-beyond-the-single-lens-excellence-in-11-angle-cameras/"><u>[New] In 2024, Beyond the Single Lens Excellence in 11 Angle Cameras</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-rewind-movies-the-android-guide-for-2024/"><u>[New] Rewind Movies The Android Guide for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-snapcutmaster-insights-full-scrutiny/"><u>[Updated] 2024 Approved SnapCutMaster Insights – Full Scrutiny</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-essential-20-hysterical-detention-cell-gifs-to-amplify-your-online-joy/"><u>[Updated] In 2024, Essential 20 Hysterical Detention Cell Gifs to Amplify Your Online Joy</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ggers-dream-exploring-the-best-12-video-capture-devices-for-2024/"><u>A Vlogger's Dream Exploring the Best 12 Video Capture Devices for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-for-the-endless-loop-of-configuring-windows-a-comprehensive-walkthrough/"><u>Fixes for the Endless Loop of 'Configuring Windows': A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-inaccessibility-of-desktop-at-system-profile-folder-in-windows/"><u>Fixing Inaccessibility of Desktop at System Profile Folder in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/from-darkness-to-light-essential-fixes-for-the-windows-11-black-screen-glitch/"><u>From Darkness to Light: Essential Fixes for the Windows 11 Black Screen Glitch</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/full-analysis-compreenaside-with-camstudio-screencap-for-2024/"><u>Full Analysis Compreenaside with CamStudio Screencap for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-c55-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-backlit-keyboard-working-again-a-step-by-step-guide-for-mac-and-pc-users/"><u>Get Your Backlit Keyboard Working Again - A Step by Step Guide for Mac and PC Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-optimize-your-pc-fix-high-d3dgdi-gpu-consumption-caused-by-windows-desktop-window-manager/"><u>How to Optimize Your PC: Fix High D3DGDI GPU Consumption Caused by Windows Desktop Window Manager</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comparative-review-dji-phantom-3-vs-competitors/"><u>In 2024, Comparative Review DJI Phantom 3 vs Competitors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-supreme-contender-in-depth-evaluation-of-the-top-ranked-xbox-one-x-console/"><u>The Supreme Contender: In-Depth Evaluation of the Top-Ranked Xbox One X Console</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-windows-7-10-understanding-event-id-1among-various-operating-systems/"><u>Troubleshooting Guide for Windows 7-10: Understanding Event ID 1Among Various Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-fix-d3derrnotavailable-issues-efficiently/"><u>Troubleshooting Steps to Fix 'D3DERR_NOT_AVAILABLE' Issues Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-vanished-desktop-shortcuts-in-windows-11-a-step-by-step-solution/"><u>Troubleshooting Vanished Desktop Shortcuts in Windows 11: A Step-by-Step Solution</u></a></li>
+</ul></div>
 

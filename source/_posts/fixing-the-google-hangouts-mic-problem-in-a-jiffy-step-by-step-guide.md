@@ -1,7 +1,7 @@
 ---
 title: Fixing the Google Hangouts Mic Problem in a Jiffy - Step by Step Guide
-date: 2024-12-18T22:35:38.730Z
-updated: 2024-12-22T23:23:20.600Z
+date: 2025-01-07T16:09:10.486Z
+updated: 2025-01-13T17:33:57.104Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  All the fixes below work in**Windows 10** ,**8** and**7** . You may not have to try all of them; just work your way down the list until the problem is resolved.
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 2. [**Disable hardware acceleration**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Update or re-install Google Chrome**](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Disable Chrome add-ons
 
@@ -56,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e199b56ceb.png)
 4. Re-launch Chrome, play the same content and see if it works smoothly.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If yes, you can try to enable the extensions one by one until you find out the one responsible. But if it doesn’t help with the situation, you might want to turn on the extensions and move on to **Fix 2** .
 
@@ -74,8 +70,16 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582452d2feb.png)
 3. Scroll down to the bottom and in **System**  and **DISABLE** the toggle next to **Use hardware acceleration when available** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
 4. Re-launch Chrome and test if the video content loads without fail this time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -92,14 +96,10 @@ This problem may occur if you are using the wrong graphics driver or it’s out 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -108,7 +108,7 @@ This problem may occur if you are using the wrong graphics driver or it’s out 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update or re-install Google Chrome
@@ -151,24 +151,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-professional-radial-effects-step-by-step-guide-for-photoshop-experts/"><u>[New] In 2024, Professional Radial Effects Step-by-Step Guide for Photoshop Experts</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-unveiling-the-best-of-zoom-and-tiktok-video-sync/"><u>[New] In 2024, Unveiling the Best of ZOOM & TikTok Video Sync</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-discovering-8-exceptional-free-srt-translation-tools/"><u>[Updated] In 2024, Discovering 8 Exceptional Free SRT Translation Tools</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-revive-your-profile-resetting-2023s-facebook-error/"><u>[Updated] In 2024, Revive Your Profile Resetting 2023'S Facebook Error</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-mobile-recording-your-ultimate-snapchat-guide/"><u>[Updated] Mastering Mobile Recording Your Ultimate Snapchat Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-successfully-creating-a-d3d-device-after-previous-failures/"><u>Comprehensive Guide to Successfully Creating a D3D Device After Previous Failures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-accelerate-league-of-legends-download-speed-and-avoid-lag/"><u>How to Accelerate League of Legends Download Speed and Avoid Lag</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-motorola-moto-g24-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Motorola Moto G24</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-broken-keyboard-letter-issue-on-pcs-with-windows-1011/"><u>How to Fix a Broken Keyboard Letter Issue on PCs with Windows 10/11</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-quick-guide-eluding-educational-videos-effectively/"><u>In 2024, Quick Guide Eluding Educational Videos Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/safari-cannot-open-the-page-easy-fix/"><u>Safari Cannot Open the Page [Easy Fix]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206319956-shift-key-issues-heres-the-step-by-step-fix-that-works/"><u>Shift Key Issues? Here's the Step-by-Step Fix That Works</u></a></li>
-<li><a href="https://fox-that.techidaily.com/stop-unwanted-audio-shifts-in-your-airpods-learn-to-disable-head-tracking/"><u>Stop Unwanted Audio Shifts in Your AirPods - Learn to Disable Head Tracking</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repairing-broken-files-in-windows-11-operating-systems/"><u>Troubleshooting and Repairing Broken Files in Windows 11 Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-solution-how-to-re-sync-your-unresponsive-xbox-one-controller/"><u>Ultimate Solution: How To Re-Sync Your Unresponsive Xbox One Controller</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-correcting-microsofts-0x80004005-error-a-step-by-step-tutorial/"><u>Understanding and Correcting Microsoft's 0X80004005 Error: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-the-reasons-behind-ps4-loud-operation-and-fixing-them/"><u>Understanding the Reasons Behind PS4 Loud Operation & Fixing Them</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-the-path-to-personalized-tiktok-hash-creation/"><u>[New] In 2024, The Path to Personalized TikTok Hash Creation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-instant-mp3-download-from-facebook-vids-directly-for-2024/"><u>[Updated] Instant MP3 Download From Facebook Vids Directly for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/xmas182418/"><u>【限定キャンペーン】クリスマス企画! X'mas特典で、毎日変わる18社から24本のソフトを総額18万円以上無料でプレゼント！</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/avoiding-game-crashes-solving-severe-bugs-in-call-of-duty-black-ops-iv/"><u>Avoiding Game Crashes: Solving Severe Bugs in Call of Duty: Black Ops IV</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-practices-to-address-when-steam-is-inaccessible-online/"><u>Best Practices to Address When Steam Is Inaccessible Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/capitalizing-on-windows-capabilities-for-macos/"><u>Capitalizing on Windows Capabilities for macOS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cut-wastage-in-high-cpu-use-with-wmi-fixes-for-win11/"><u>Cut Wastage in High CPU Use with WMI Fixes for Win11</u></a></li>
+<li><a href="https://discover-help.techidaily.com/discover-the-leading-android-apps-that-outshine-vlc-media-player-for-tablet-and-smartphone-use/"><u>Discover the Leading Android Apps That Outshine VLC Media Player for Tablet & Smartphone Use</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-irritating-sound-of-crackling-speakers-on-your-pc-solutions-for-windows-10-and-7/"><u>Fixing the Irritating Sound of Crackling Speakers on Your PC - Solutions for Windows 10 and 7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-examining-youtubes-highlighted-comment-mechanics/"><u>In 2024, Examining YouTube's Highlighted Comment Mechanics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-precision-and-panache-advanced-tiktok-editing-skills/"><u>In 2024, Precision and Panache Advanced TikTok Editing Skills</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-the-mobvoi-ticwatch-e2-worth-it-uncovering-its-affordable-shortcomings/"><u>Is the Mobvoi TicWatch E2 Worth It? Uncovering Its Affordable Shortcomings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-win32-app-crash-a-step-by-step-guide-to-fixing-stop-code-0x0000005/"><u>Resolving the Win32 App Crash: A Step-by-Step Guide to Fixing STOP Code 0X0000005</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-completed-geforce-app-cant-get-setup-information-now/"><u>Troubleshooting Completed: GeForce App Can't Get Setup Information Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-laptop-trackpad-issues-on-windows-11-8-and-7-solutions-included/"><u>Troubleshooting Laptop Trackpad Issues on Windows 11, 8 & 7 – Solutions Included</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-diy-repair-dealing-with-nonfunctional-stylus-on-hp-envy-x2-touchscreen/"><u>Ultimate DIY Repair: Dealing with Nonfunctional Stylus on HP Envy X2 Touchscreen</u></a></li>
 </ul></div>
 

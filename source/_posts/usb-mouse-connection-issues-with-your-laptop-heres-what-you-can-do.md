@@ -1,7 +1,7 @@
 ---
 title: USB Mouse Connection Issues with Your Laptop? Here's What You Can Do
-date: 2025-01-06T01:26:13.452Z
-updated: 2025-01-06T20:29:33.472Z
+date: 2025-01-06T16:01:11.613Z
+updated: 2025-01-13T16:27:22.412Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Make sure your power icon is turned on
 
 1) Right-click on the blank area of taskbar and choose **Settings**.  
@@ -42,17 +38,13 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-6.png)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Make sure **Power** is on.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/5.jpg)
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Go back on the window of step 2). Click **Select which icons appear on the taskbar**.  
@@ -66,11 +58,7 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
@@ -88,15 +76,27 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/8.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/9.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
 
@@ -125,16 +125,20 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-cheapest-4k-dslrmirrorless-cameras-and-camcorders/"><u>[New] 2024 Approved Cheapest 4K DSLR/Mirrorless Cameras and Camcorders</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-microphone-not-working-on-windows-10/"><u>[Solved] Microphone Not Working on Windows 10</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-social-media-broadcast-battle-facebook-vs-youtube-and-twitvision/"><u>[Updated] Social Media Broadcast Battle FACEbook Vs. YOUTube & TWITVision</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-exploring-splitcams-recording-capabilities-and-excellence/"><u>2024 Approved Exploring SplitCam's Recording Capabilities and Excellence</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-fixes-for-windows-11-installation-problems-youve-encountered/"><u>Complete Fixes for Windows 11 Installation Problems You've Encountered</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-recover-corrupt-system-files-on-windows-10-and-11-with-ease/"><u>How to Recover Corrupt System Files on Windows 10 & 11 with Ease</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo Y78 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-rectifying-scrolling-defects-with-synaptics-touchpad-under-windows-11/"><u>Step-by-Step Guide: Rectifying Scrolling Defects with Synaptics Touchpad Under Windows 11</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/transformative-techniques-for-high-quality-mp4s-from-instagram-for-2024/"><u>Transformative Techniques for High-Quality MP4s From Instagram for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-invalid-registry-values-a-guide-for-resolving-photo-display-issues-in-windows-n/"><u>Troubleshooting Invalid Registry Values: A Guide for Resolving Photo Display Issues in Windows N</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/two-methods-of-transferring-data-backing-up-your-pc-onto-an-external-hdd-tutorial-video/"><u>Two Methods of Transferring Data: Backing Up Your PC Onto an External HDD - Tutorial Video</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-dominating-the-digital-space-5-tips-for-video-visibility-victory/"><u>[New] 2024 Approved Dominating the Digital Space 5 Tips for Video Visibility Victory</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-ultimate-playbook-for-attracting-hundred-thousand-on-youtube/"><u>[Updated] In 2024, The Ultimate Playbook for Attracting Hundred Thousand on YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/creating-a-direct-link-between-your-device-and-controller/"><u>Creating a Direct Link Between Your Device & Controller</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212297070-definitive-solutions-to-windows-10-setup-error-code-80240020-get-your-system-running-now/"><u>Definitive Solutions to Windows 10 Setup Error Code 80240020 - Get Your System Running Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-solutions-stop-your-csgo-game-from-crashing-instantly/"><u>Effortless Solutions: Stop Your CSGO Game From Crashing Instantly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-error-code-0x887a0006-instantly-a-comprehensive-guide/"><u>Fix Error Code 0X887A0006 Instantly: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-failed-attempts-at-installing-new-features-on-your-windows-11-system-update-1607/"><u>Fixing Failed Attempts at Installing New Features on Your Windows 11 System (Update 1607)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-oppo-f25-pro-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Oppo F25 Pro 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-f04-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy F04 Fingerprint Lock</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-stream-your-favorite-games-online-for-2024/"><u>New How To Stream Your Favorite Games Online for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/simple-guide-making-a-booting-external-drive-with-these-three-techniques/"><u>Simple Guide: Making a Booting External Drive with These Three Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-resolving-windows-error-code-0xc0000098/"><u>Solutions for Resolving Windows Error Code 0xC0000098</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-accessing-windows-registry-tips-and-tricks-from-yl-computing/"><u>Step-by-Step Guide: Accessing Windows Registry - Tips & Tricks From YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-issues-with-your-lenovo-laptops-webcam/"><u>Troubleshooting Tips: Resolving Issues with Your Lenovo Laptop's Webcam</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211656066-why-isnt-my-lenovo-camera-working-uncover-the-solutions-here/"><u>Why Isn't My Lenovo Camera Working? Uncover the Solutions Here!</u></a></li>
 </ul></div>
 

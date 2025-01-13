@@ -1,7 +1,7 @@
 ---
 title: Overcome Fallout 4 Delays with These 2022 Optimization Hacks!
-date: 2024-11-01T02:20:43.618Z
-updated: 2024-11-08T02:31:59.364Z
+date: 2025-01-11T17:06:28.642Z
+updated: 2025-01-13T16:56:00.366Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 fixes for Fallout 4 lagging
 
@@ -60,16 +64,13 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update your video card driver, simply click the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -89,6 +90,10 @@ To modify your video card settings, use the following procedure:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-207.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the pop-up window, select**Manage 3D settings** from its left pane. Then, click**Add** to locate and choose the executable file of Fallout 4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-210.png)
@@ -106,15 +111,16 @@ Now you’re able to modify the settings of this program.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-216.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After modifying your graphics card settings, it’s time to check whether these tweaks have solved your lag problem in Fallout 4\. If not, please proceed to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust in-game settings
@@ -126,13 +132,6 @@ Now you’re able to modify the settings of this program.
  2) Set**Resolutions** to the same value as your monitor uses. After that, make sure you check these two boxes:**Windowed Mode** and**Borderless** . Click**OK** to save the changes.
 
 ![This image has an empty alt attribute; its file name is image-215.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-215.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re not sure about the exact resolution of your monitor, you can right-click an empty area on your desktop and select**Display settings** from the context menu. In the pop-up window, take note of the recommended option under**Resolution** , the one that best suits your monitor size.
 
@@ -155,10 +154,7 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-217.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you find out the line, change**iPresentInterval=1** to**iPresentInterval=0** .
@@ -170,13 +166,6 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
  If this fix doesn’t work for you, you may read on and try the next one.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Stop CPU/memory hogging applications
 
@@ -218,21 +207,22 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-explore-the-best-ever-ios-platforms-for-ps2-games/"><u>[Updated] In 2024, Explore the Best-Ever IOS Platforms for PS2 Games</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-remedies-for-usb-to-hdmi-adapter-connectivity-issues/"><u>Effective Remedies for USB to HDMI Adapter Connectivity Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-tips-for-repairing-malfunctioning-shift-keys-in-windows-and-macos/"><u>Effective Tips for Repairing Malfunctioning Shift Keys in Windows and MacOS</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/elevating-your-viewing-experience-with-benq-sw320-monitor-for-2024/"><u>Elevating Your Viewing Experience with BenQ SW320 Monitor for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-7-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From Apple iPhone 7</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-se-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone SE to Android | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-your-obs-software-audio-problems-step-by-step-fixes/"><u>Resolve Your OBS Software Audio Problems - Step-by-Step Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-restoring-hp-laptop-webcam-functionality-in-windows-11/"><u>Resolving the Issue: Restoring HP Laptop Webcam Functionality in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restoring-screen-comfort-repairing-the-night-light-option-for-modern-windows-os/"><u>Restoring Screen Comfort: Repairing the Night Light Option for Modern Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210770235-steam-file-retrieval-how-to-recover-missing-game-files-effectively-solved/"><u>Steam File Retrieval: How to Recover Missing Game Files Effectively - SOLVED!</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/step-by-step-guide-how-to-import-pictures-from-ios-devices-to-dropbox-on-windowsmac/"><u>Step-by-Step Guide: How to Import Pictures From iOS Devices to Dropbox on Windows/Mac</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Nokia C12? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-common-issues-during-steam-game-installation/"><u>Troubleshooting Guide: How to Fix Common Issues During Steam Game Installation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/w11-computers-pause-suddenly/"><u>W11: Computers Pause Suddenly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/zoom-microphone-failures-in-windows-1011-heres-how-to-resolve-them/"><u>Zoom Microphone Failures in Windows 10/11? Here's How to Resolve Them</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-revolutionary-additions-to-windows-11-for-2024/"><u>[New] Revolutionary Additions to Windows 11 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-content-simple-steps-to-change-numbers-on-tiktok/"><u>2024 Approved Transform Your Content Simple Steps to Change Numbers on TikTok</u></a></li>
+<li><a href="https://os-tips.techidaily.com/airtag-enhancers-and-tools-expert-picks-for-the-latest-and-greatest/"><u>AirTag Enhancers and Tools - Expert Picks for the Latest & Greatest</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-to-follow-instructions-turning-on-bluetooth-for-your-windows-7-operating-system/"><u>Easy-to-Follow Instructions: Turning On Bluetooth for Your Windows 7 Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209717563-error-free-updates-ahead-conquer-windows-update-glitch-0x80070002-with-ease/"><u>Error-Free Updates Ahead! Conquer Windows Update Glitch 0X80070002 With Ease!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/evaluating-top-screen-capture-software-which-is-superior-obs-or-fraps/"><u>Evaluating Top Screen Capture Software Which Is Superior, OBS or Fraps?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/formulate-funny-imagery-with-adobe-for-2024/"><u>Formulate Funny Imagery with Adobe for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/from-apple-to-windows-effortless-integration-with-parallels-guide/"><u>From Apple to Windows: Effortless Integration with Parallels Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-dell-camera-up-and-running-again-on-windows-pcs-top-fixes-revealed/"><u>Get Your Dell Camera Up and Running Again on Windows PCs – Top Fixes Revealed!</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-visual-studio-code-crashing-on-windows-11/"><u>How to Fix Visual Studio Code Crashing on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-error-651-repairs-simple-strategies-for-a-smooth-windows-experience/"><u>Mastering Error 651 Repairs: Simple Strategies for a Smooth Windows Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-how-to-repair-your-huion-pen-when-it-stops-functioning/"><u>Quick Solutions: How to Repair Your Huion Pen When It Stops Functioning</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-nvidia-issue-system-halted-on-error/"><u>Resolved: Nvidia Issue - System Halted on Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-black-screen-dilemma-with-your-asus-webcam-in-windows-11/"><u>Solving the Black Screen Dilemma with Your ASUS Webcam in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-your-problems-with-steam-store-ultimate-guide/"><u>Solving Your Problems with Steam Store: Ultimate Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-persistent-disappearance-of-cursor-on-windows-10-devices/"><u>Troubleshooting: Persistent Disappearance of Cursor on Windows 10 Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-choosing-a-stylus-enabled-tablet-expert-picks-for-2eplus24-zdnet/"><u>Ultimate Guide to Choosing a Stylus-Enabled Tablet: Expert Picks for 2E+24 | ZDNET</u></a></li>
 </ul></div>
 

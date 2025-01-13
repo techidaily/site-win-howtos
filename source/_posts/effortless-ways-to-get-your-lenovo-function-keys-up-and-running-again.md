@@ -1,7 +1,7 @@
 ---
 title: Effortless Ways to Get Your Lenovo Function Keys Up and Running Again
-date: 2024-11-01T21:18:04.054Z
-updated: 2024-11-08T05:32:35.285Z
+date: 2025-01-09T16:41:39.539Z
+updated: 2025-01-13T16:08:52.801Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/526c473a4f2f84c7776ce16d41fe4812db866e7d1
 
  The first thing you should do is to pinpoint the cause of your issue. Take the steps in the following order:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Check the batteries
 
 1. First of all, look for any**battery tabs** that may prevent your batteries from offering power to the wireless keyboard. Then, make sure you**remove** the tabs.
@@ -41,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/526c473a4f2f84c7776ce16d41fe4812db866e7d1
 ### Step 2: Turn on the power
 
  If there’s a power switch on your wireless keyboard, you should check whether you’ve turned it on. Usually you can find that switch at the bottom of your keyboard so make certain that the switch is set to**ON** .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Plug the USB receiver into another port
 
@@ -63,13 +60,6 @@ This is a Dell USB receiver.
 
  You should not use a USB hub because it may not be able to provide enough power for your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 4: Remove any devices that may weaken the wireless signal
 
  Chances are that some devices nearby have interrupted the wireless connection between your device and its USB receiver. In this sense, you should:
@@ -79,13 +69,6 @@ This is a Dell USB receiver.
 3. Make sure that your keyboard is close enough to its USB receiver, usually within 30 centimeters (1 foot).
 
  Check to see if your wireless keyboard is working properly now. If not, please proceed to the next step.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 5: Connect your keyboard to another computer/laptop
 
@@ -108,10 +91,7 @@ This is a Dell USB receiver.
 3. Test to see whether your keyboard is functioning well. If not, please move on to the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 7: Update the device driver
@@ -140,6 +120,14 @@ There’re 3 ways you can update your Dell wireless keyboard driver:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_10-58-04-3.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the keyboard driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-24_12-23-35-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using**Driver Easy Pro** to update your driver, please feel free to email us at**<support@drivereasy.com>** .
@@ -156,10 +144,7 @@ There’re 3 ways you can update your Dell wireless keyboard driver:
 2. There appears a**keyboard** icon in the notification area on your taskbar. Click the icon to invoke a virtual keyboard.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-19-38.png) ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-23-07.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click the**Windows logo** **icon** at the left corner of your taskbar to open the**Start** menu. Then use the virtual keyboard to type**device** into the search box and select the**Device Manager** result.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-24-39.png)
@@ -184,10 +169,11 @@ There’re 3 ways you can update your Dell wireless keyboard driver:
 3. Type your keyboard model into the search box if you know it clearly; otherwise you could just type**wireless keyboard** . Usually, you’ll be presented with a list of search suggestions below, so go on to select one from the list according to your keyboard model. (If you don’t know how to invoke a virtual keyboard on your computer, you may refer to Option 2.)![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-49-45-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. In the next window, make sure you choose the correct edition of your Windows system. Then download all the drivers you need.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-27_11-58-29.png)
@@ -219,24 +205,22 @@ There’re 3 ways you can update your Dell wireless keyboard driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-beginners-guide-top-10-easy-to-fly-drones/"><u>[New] In 2024, Beginner's Guide Top 10 Easy-to-Fly Drones</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seamless-quick-conversions-best-free-tools-transforming-gif/"><u>[New] Seamless, Quick Conversions Best Free Tools Transforming GIF</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-lgs-gaming-monitor-review-the-future-of-4k-freesync/"><u>[Updated] LG’s Gaming Monitor Review - The Future of 4K FreeSync</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-tips-for-smooth-transitions-and-effects-in-gopro-studio/"><u>2024 Approved Advanced Tips for Smooth Transitions and Effects in GoPro Studio</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oneplus-ace-2-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your OnePlus Ace 2 Pro to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208965804-constraint-b-use-the-exact-phrase-revealed-positive-insight-before-presenting-each-piece-of-optimistic-content/"><u>Constraint B: Use the Exact Phrase Revealed Positive Insight: Before Presenting Each Piece of Optimistic Content</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/essential-media-device-driver-restored-how-to-fix-the-error/"><u>Essential Media Device Driver Restored: How to Fix the Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-10-sound-settings-solutions-when-volume-control-fails/"><u>Fixing Windows 10 Sound Settings: Solutions When Volume Control Fails</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-functioning-shift-key-complete-solution-guide/"><u>How To Fix a Non-Functioning Shift Key: Complete Solution Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-continuous-crashing-in-aliens-fireteam-elite-for-pc-users/"><u>How to Resolve Continuous Crashing in Aliens: Fireteam Elite for PC Users</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-xr-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone XR to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On HTC U23 Pro? | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/most-effective-ways-to-eliminate-moire-patterns-in-interlaced-video-content/"><u>Most Effective Ways to Eliminate Moire Patterns in Interlaced Video Content</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205443789-overcoming-frequent-device-disconnection-a-comprehensive-approach-to-troubleshooting-usb-connectivity/"><u>Overcoming Frequent Device Disconnection: A Comprehensive Approach to Troubleshooting USB Connectivity.</u></a></li>
-<li><a href="https://win-top.techidaily.com/solving-the-issue-steps-to-retrieve-information-from-an-unresponsive-western-digital-externally-powered-drive/"><u>Solving the Issue: Steps to Retrieve Information From an Unresponsive Western Digital Externally Powered Drive</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/streamline-your-files-management-on-windows-11-a-comprehensive-file-explorer-tutorial/"><u>Streamline Your Files Management on Windows 11 - A Comprehensive File Explorer Tutorial</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-essence-and-recovery-methods-from-missing-xinput13dll/"><u>The Essence & Recovery Methods From Missing XINPUT1_3.dll</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-the-issue-of-unsuccessful-windows-10-version-1903-updates/"><u>Troubleshooting Guide: Resolving the Issue of Unsuccessful Windows 10 Version 1903 Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-resolving-opengl-issues-in-minecraft/"><u>Ultimate Guide to Resolving OpenGL Issues in Minecraft</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rom-zero-to-youtube-creating-a-stellar-new-chanel/"><u>[New] From Zero to YouTube Creating a Stellar New Chanel</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-10-best-offline-ios-games-you-should-try/"><u>[New] In 2024, Top 10 Best Offline iOS Games You Should Try</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-propel-engagement-on-stories-via-curated-creative-qs-for-2024/"><u>[Updated] Propel Engagement on Stories via Curated Creative Qs for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-redefining-the-sony-s3700-video-experience/"><u>[Updated] Redefining the Sony S3700 Video Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-error-code-zero-on-your-gaming-machine/"><u>Disabling Error Code Zero on Your Gaming Machine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-i-combat-and-correct-electrical-surges-throughout-my-devices-main-interface/"><u>How I Combat and Correct Electrical Surges Throughout My Device's Main Interface</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-to-a-broken-mic-on-your-computer-expert-tips/"><u>How to Restore Functionality to a Broken Mic on Your Computer - Expert Tips</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/improved-camera-features-the-s21-fe-offers-an-upgraded-camera-system-compared-to-the-original-fan-edition-models-with-better-image-processing-and-additional155/"><u>Improved Camera Features: The S21 FE Offers an Upgraded Camera System Compared to the Original Fan Edition Models, with Better Image Processing and Additional Features Like 4K Video Recording at Higher Frame Rates.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-your-devices-critical-failure-the-red-screen-blueprint/"><u>Resolving Your Device's Critical Failure: The Red Screen Blueprint</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-broken-huion-pen-top-5-quick-fixes-for-immediate-relief/"><u>Revive Your Broken Huion Pen - Top 5 Quick Fixes for Immediate Relief</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successful-configuration-yet-device-remains-quiet/"><u>Successful Configuration, Yet Device Remains Quiet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-ultimate-checklist-to-increase-likes-on-your-tiktok-videos/"><u>The Ultimate Checklist to Increase Likes on Your TikTok Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-connection-effective-ways-to-resolve-internet-disconnection-errors/"><u>Troubleshoot Your Connection: Effective Ways to Resolve Internet Disconnection Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-what-to-do-when-your-dell-keyboard-stops-responding/"><u>Troubleshooting Tips: What to Do When Your Dell Keyboard Stops Responding</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-lava-blaze-curve-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Lava Blaze Curve 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-website-access-denied-errors-http-403/"><u>Ultimate Guide: Resolving Website Access Denied Errors (HTTP 403)</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-secrets-private-facebook-exploration-guide/"><u>Unveiling Secrets: Private Facebook Exploration Guide</u></a></li>
 </ul></div>
 

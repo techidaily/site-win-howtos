@@ -1,7 +1,7 @@
 ---
 title: Class Not Registered on Windows 11 [Solved]
-date: 2024-12-17T23:10:26.942Z
-updated: 2024-12-22T20:49:51.504Z
+date: 2025-01-07T16:23:53.337Z
+updated: 2025-01-13T17:22:43.372Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/873b674ec1f0efe7c647278c79a47eb6f488c3e5d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## On the same error message screen do these
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/873b674ec1f0efe7c647278c79a47eb6f488c3e5d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b8f6dcad206.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click **Yes**  when prompted by the User Account Control.
 
  3) You should then see the Registry Editor window. Go to **HKEY\_LOCAL\_MACHINE\\SYSTEM\\Setup\\Status\\ChildCompletion.**
@@ -45,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/873b674ec1f0efe7c647278c79a47eb6f488c3e5d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b8fef4b3fdb.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Double-click **setup.exe** . Make sure the Value data is set to **3** , then click**OK**  .
@@ -53,16 +57,12 @@ thumbnail: https://thmb.techidaily.com/873b674ec1f0efe7c647278c79a47eb6f488c3e5d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b8ff5c80fea.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Close the Registry Editor window.
 
 6) Restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus Tip
 
@@ -75,7 +75,7 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c49f2da67c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -95,17 +95,24 @@ To update your drivers with Driver Easy, just click the **Scan Now**  button, th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-techniques-for-incremental-volume-reduction-in-pro-video-editing/"><u>[New] 2024 Approved Techniques for Incremental Volume Reduction in Pro Video Editing</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-key-elements-impacting-youtube-content-visibility/"><u>[Updated] 2024 Approved Key Elements Impacting YouTube Content Visibility</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-upload-horizontal-videos-to-igtv-for-2024/"><u>[Updated] How to Upload Horizontal Videos to IGTV for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/baffled-by-sticky-keys-successfully-reinitialize-any-keyboard-in-no-time/"><u>Baffled by Sticky Keys? Successfully Reinitialize Any Keyboard in No Time</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/debugging-the-igfxem-module-a-comprehensive-fix-guide/"><u>Debugging the Igfxem Module: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eliminate-the-disappearing-act-fix-your-windows-11-touchpad-cursor-issues/"><u>Eliminate the Disappearing Act: Fix Your Windows 11 Touchpad Cursor Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209101959-how-to-restore-the-missing-d3dx939dll-file-and-fix-related-issues-quickly/"><u>How To Restore The Missing D3DX9_39.dll File & Fix Related Issues Quickly!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-tecno-pop-8-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Tecno Pop 8 PC | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-guide-to-maximizing-creativity-with-picsart/"><u>In 2024, In-Depth Guide to Maximizing Creativity with PicsArt</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-vrchat-overcoming-complete-startup-failures/"><u>Troubleshooting VRChat: Overcoming Complete Startup Failures</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-the-non-responsive-right-click-function-on-a-windows-10-system/"><u>Troubleshooting: Fixing the Non-Responsive Right-Click Function on a Windows 10 System</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/conomical-mic-options-for-youtube-vloggers-for-2024/"><u>[New] Economical Mic Options for YouTube Vloggers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fresh-selection-of-engagement-prompts-for-audio-audiences/"><u>[New] Fresh Selection of Engagement Prompts for Audio Audiences</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-capture-and-share-your-screens-bandicam-vs-camtasia/"><u>[Updated] 2024 Approved Capture and Share Your Screens Bandicam vs Camtasia</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-pioneering-virtual-voyages-with-jaunt-vr/"><u>2024 Approved Pioneering Virtual Voyages with Jaunt VR</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-obstacles-successfully-installing-the-windows-1903-feature-patch/"><u>Bypassing Obstacles: Successfully Installing the Windows 1903 Feature Patch</u></a></li>
+<li><a href="https://games-able.techidaily.com/ceasing-your-routine-steam-commitments/"><u>Ceasing Your Routine Steam Commitments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-guide-activating-bluetooth-connectivity-on-your-windows-7-pc/"><u>Easy Guide: Activating Bluetooth Connectivity on Your Windows 7 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-no-bootable-device-error/"><u>How to Fix No Bootable Device Error</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-syma-x5c-your-first-drones-best-friend/"><u>In 2024, The Ultimate Guide to Syma X5C – Your First Drone's Best Friend</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/is-it-wise-to-keep-off-facebook-activity-displayed-insights/"><u>Is It Wise to Keep Off-Facebook Activity Displayed? Insights</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-6s-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 6s</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-the-issue-of-excessive-cpu-use-by-svchostexe-in-windows-11-solution-strategies/"><u>Tackling the Issue of Excessive CPU Use by svchost.exe in Windows 11 – Solution Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-30-metaverse-memes-crafting-hilarious-digital-delights/"><u>Top 30 Metaverse Memes Crafting Hilarious Digital Delights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-compatible-vs-incompatible-display-timings-for-your-monitor/"><u>Troubleshooting Guide: Compatible Vs. Incompatible Display Timings for Your Monitor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restore-functionality-to-a-non-responsive-huion-stylus/"><u>Troubleshooting Guide: Restore Functionality to a Non-Responsive Huion Stylus</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-ipod-connection-issues-in-windows-11-and-10-causes-and-solutions/"><u>Troubleshooting iPod Connection Issues in Windows 11 & 10: Causes and Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-overcoming-the-hurdles-of-playing-minecraft-on-desktop/"><u>Ultimate Guide: Overcoming the Hurdles of Playing Minecraft on Desktop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-bluetooth-potential-in-windows-7-comprehensive-solutions-covered/"><u>Unlocking Bluetooth Potential in Windows 7: Comprehensive Solutions Covered!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-wmi-reduce-energy-increase-speed/"><u>Windows WMi: Reduce Energy, Increase Speed</u></a></li>
 </ul></div>
 

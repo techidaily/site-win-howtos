@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Getting to the Bottom of the RPC Service Accessibility Glitches in Windows"
-date: 2024-12-15T23:26:41.949Z
-updated: 2024-12-22T21:48:38.930Z
+date: 2025-01-09T16:40:11.778Z
+updated: 2025-01-13T17:01:53.274Z
 tags:
   - win11
   - win10
@@ -47,10 +47,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
@@ -68,24 +64,28 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -97,6 +97,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
@@ -113,7 +117,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
@@ -123,10 +127,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
@@ -154,18 +154,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-inside-out-the-explanation-for-youtubes-unlisted-media/"><u>[New] 2024 Approved Inside Out The Explanation for YouTube's Unlisted Media</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-facebooks-essential-steps-smoothly-uploading-videos-via-pc-iosandroid-for-2024/"><u>[Updated] Facebook's Essential Steps Smoothly Uploading Videos via PC, iOS/Android for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/battlefield-n4-launch-problems-and-solutions-for-windows-users/"><u>Battlefield N4 Launch Problems and Solutions for Windows Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/continuous-playback-made-easy-resolving-kodis-buffering-for-flawless-streaming/"><u>Continuous Playback Made Easy: Resolving Kodi's Buffering for Flawless Streaming</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/defeat-browser-trickery-tactics-for-removing-the-false-alarm-known-as-google-chromes-critical-error/"><u>Defeat Browser Trickery: Tactics for Removing the False Alarm Known as Google Chrome's Critical Error</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-solutions-stop-your-laptop-from-falling-asleep-unexpectedly/"><u>Effortless Solutions: Stop Your Laptop From Falling Asleep Unexpectedly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-pc-errors-with-ease-solving-the-d3dx939dll-file-not-found-issue/"><u>Fix Your PC Errors with Ease: Solving The d3dx9_39.dll File Not Found Issue</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-realme-c67-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Realme C67 5G Phone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-verticalhorizontal-monitor-alignment-problems-on-your-desktop-easy-fixes-and-tips/"><u>Resolving Vertical/Horizontal Monitor Alignment Problems on Your Desktop - Easy Fixes and Tips!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simplified-guide-mastering-file-explorer-on-windows-10/"><u>Simplified Guide: Mastering File Explorer on Windows 10</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/slow-fade-to-action-for-2024/"><u>Slow Fade to Action for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-impact-of-unmatched-ftdi-drivers-on-maintaining-memory-system-reliability-and-integrity/"><u>The Impact of Unmatched FTDI Drivers on Maintaining Memory System Reliability and Integrity</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-mouse-reset-a-step-by-step-tutorial/"><u>Windows Mouse Reset: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-drones-on-offer/"><u>[New] Premium Drones on Offer</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-outwiththeold-camerasbeyondmycam/"><u>[Updated] OutWithTheOld CamerasBeyondMyCam</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-unveils-initial-visionos-revamp-enhancing-user-profiles-and-more-discover-the-latest-innovations/"><u>Apple Unveils Initial VisionOS Revamp, Enhancing User Profiles & More - Discover the Latest Innovations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/detailed-instructions-how-to-tackle-and-resolve-black-screen-errors-on-your-dell-system/"><u>Detailed Instructions: How to Tackle and Resolve Black Screen Errors on Your Dell System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-your-laptop-mousepad-issues-on-windows-10-8-and-7-a-comprehensive-guide/"><u>Fixing Your Laptop Mousepad Issues on Windows 10, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-runtime-brokers-excessive-cpu-consumption-in-windows-10-a-step-by-step-guide/"><u>How to Fix Runtime Broker's Excessive CPU Consumption in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-issues-with-non-ejectable-cd-dvd-and-blu-ray-drives-in-computers/"><u>How to Resolve Issues with Non-Ejectable CD, DVD & Blu-Ray Drives in Computers</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pioneering-headsets-elevating-drone-use/"><u>In 2024, Pioneering Headsets Elevating Drone Use</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastery-of-rust-debugging-techniques-eradicate-unresponsive-codes/"><u>Mastery of Rust Debugging Techniques - Eradicate Unresponsive Codes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-windows-update-failed-hurdle-in-windows-11-decoding-error-0x800705b4/"><u>Overcoming the 'Windows Update Failed' Hurdle in Windows 11: Decoding Error 0X800705b4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207147047-ps4-control-deck-wont-charge-discover-effective-fixes-now/"><u>PS4 Control Deck Won't Charge? Discover Effective FIXES Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-resolve-silent-mic-issues-with-steelseries-arctis-5-guide/"><u>Troubleshoot and Resolve Silent Mic Issues with SteelSeries Arctis 5 [GUIDE]</u></a></li>
 </ul></div>
 

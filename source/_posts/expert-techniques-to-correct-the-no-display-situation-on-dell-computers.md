@@ -1,7 +1,7 @@
 ---
 title: Expert Techniques to Correct the No-Display Situation on Dell Computers
-date: 2024-09-05T10:00:21.779Z
-updated: 2024-09-06T10:00:21.779Z
+date: 2025-01-08T17:22:18.912Z
+updated: 2025-01-13T16:47:51.676Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/xbox-one-controller-not-working-issue-4-300x284.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Fix xbox one controller not working issue
 
  If your Xbox One controller (wireless or wired) doesn’t work on your PC, you can’t play games successfully. This is very frustrating. There are several reasons causing this problem. But don’t worry. You can fix the problem quickly by using the methods in this post.
@@ -39,21 +33,13 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 **Note: Method 1** and**Method 2** only works for wired Xbox One Controller. If you’re using a wireless controller, please skip and move to other methods.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 1: Unplug the Controller then Replug it (Wired Only)
 
  Try to unplug and replug the controller to the computer. This simple method should be the first method you can try, as it always work like a charm.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Use a Different USB Cable (Wired Only)
 
  If you’re using a wired controller, a broken USB cable can be the cause. Try a cable with no problem and check to see if the problem is resolved.
@@ -68,22 +54,14 @@ Follow these steps to update the driver via Device Manager:
 2. Type **devmgmt.msc**   and press **Enter**   on your keyboard to open Device Manager.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-1.png)
 3. Expand**Microsoft Xbox One Controller** . Right-click on it and click **Update Driver Software** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/05/img_591d497d71563.png)
 4. Select**Search automatically for updated driver software** . Then Windows will install the new driver.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the issue persists, follow steps below to update the driver again:
 
 1. In Device Manager, right-click on**Microsoft Xbox One Controller** and click **Update Driver Software** .
@@ -92,14 +70,18 @@ Follow these steps to update the driver via Device Manager:
 3. Click **Let me pick from a list of device drivers on my computer** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-4.png)
 4. Select **Microsoft Xbox One Controller** then click**Next** button.  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-5.png)
 5. Select**Microsoft Xbox One Controller** and click**Next** to run the driver installation.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-6.png)
 
 If this still doesn’t work for you, please move on.
@@ -114,22 +96,14 @@ If this still doesn’t work for you, please move on.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/05/microsoft-xbox-one-controller.png)
 4. Restart your computer for the changes to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hope you can solve the Xbox One controller not working issue with the methods above. If you have any questions, please feel free to comment below. We’d love to hear your ideas and suggestions.
@@ -142,8 +116,6 @@ If this still doesn’t work for you, please move on.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +123,24 @@ If this still doesn’t work for you, please move on.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-freely-capture-perfection-the-leading-10-high-quality-recorders/"><u>[New] 2024 Approved Freely Capture Perfection The Leading 10 High-Quality Recorders</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-stream-control-showdown-is-obs-best-over-twitch-studio/"><u>[Updated] 2024 Approved Stream Control Showdown Is OBS Best over Twitch Studio?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-pinnacle-of-visual-expression-best-mac-drawing-tools/"><u>[Updated] The Pinnacle of Visual Expression - Best Mac Drawing Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-understanding-hdr-techniques-in-modern-photoshoots/"><u>[Updated] Understanding HDR Techniques in Modern Photoshoots</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/efficient-methods-for-youtube-video-preservation-for-2024/"><u>Efficient Methods for YouTube Video Preservation for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-fixing-persistent-timeout-errors-during-online-file-transfers/"><u>Expert Advice: Fixing Persistent Timeout Errors During Online File Transfers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-and-fortify-explore-crashes-in-win/"><u>Fix and Fortify: Explore Crashes in Win</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-fretful-frequencies-solving-crackling-sound-from-speakers-on-w11w7/"><u>Fixing the Fretful Frequencies: Solving Crackling Sound From Speakers on W11/W7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/inoperable-hardware-catastrophic-failure/"><u>Inoperable Hardware: Catastrophic Failure</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gaming-woes-resolved-repairing-compromised-game-archives/"><u>PC Gaming Woes Resolved: Repairing Compromised Game Archives</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-the-dell-usb-interface-step-by-step-repair-instructions-for-optimal-performance/"><u>Reviving the Dell USB Interface: Step-by-Step Repair Instructions for Optimal Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-error-code-1053-unresponsive-service-timeout-issues/"><u>Solutions for Error Code 1053: Unresponsive Service Timeout Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-steam-store-not-loading-problem-tips-and-solutions-for-gamers/"><u>Solving 'Steam Store Not Loading' Problem: Tips & Solutions for Gamers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tips-for-resolving-a-malfunctioning-computer-touchpad-problem/"><u>Step-by-Step Tips for Resolving a Malfunctioning Computer Touchpad Problem</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-6-plus-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone 6 Plus Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnets-choice-of-leading-mac-system-cleaners-for-2amd-efficient-performance-enhancement-best-picks/"><u>ZDNet's Choice of Leading Mac System Cleaners for 2Amd Efficient Performance Enhancement | Best Picks</u></a></li>
+</ul></div>
 

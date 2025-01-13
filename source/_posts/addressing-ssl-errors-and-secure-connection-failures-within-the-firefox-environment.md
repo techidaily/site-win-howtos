@@ -1,7 +1,7 @@
 ---
 title: Addressing SSL Errors and Secure Connection Failures Within the Firefox Environment
-date: 2024-12-31T04:08:10.572Z
-updated: 2025-01-07T00:07:26.169Z
+date: 2025-01-08T17:34:24.260Z
+updated: 2025-01-13T16:54:16.183Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/4099437332566bc0717087ad155c53eccdb95fb25
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 fixes for **Mouse keeps disconnecting**
@@ -44,7 +44,7 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Change power management settings for USB Root Hub
@@ -54,20 +54,28 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -82,16 +90,8 @@ You can update your drivers automatically with either the [**Free**](https://too
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
@@ -119,20 +119,17 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-interpreting-the-significance-of-blue-emojis-on-messenger/"><u>[New] Interpreting the Significance of Blue Emojis on Messenger</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-zooming-through-efficient-meeting-coordination-tips-for-2024/"><u>[New] Zooming Through Efficient Meeting Coordination Tips for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-download-youtube-videos-directly/"><u>2024 Approved Download YouTube Videos Directly</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/pciphonedvd/"><u>写真家のためのテクニック：PC/iPhone用写真の安全な保管に最適なDVD選びガイド</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/highest-quality-kids-cinema-available-on-netflix/"><u>Highest Quality Kids' Cinema Available on Netflix</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-and-eliminate-the-windows-11-red-screen-error-effectively/"><u>How to Repair and Eliminate the Windows 11 Red Screen Error Effectively</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/obs-studio-explained-capturing-ps4-playthroughs/"><u>OBS Studio Explained Capturing PS4 Playthroughs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-when-print-driver-host-stops-functioning-in-older-systems/"><u>Resolving the Issue When 'Print Driver Host' Stops Functioning in Older Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/save-big-on-phrozen-mini-8k-s-resolution-3d-printer-now-at-just-325/"><u>Save Big on Phrozen Mini 8K S Resolution 3D Printer - Now at Just $325</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-dilemma-resolving-error-0x800f081f-during-net-framework-35-setup/"><u>Solving the Dilemma: Resolving Error 0X800F081F During .NET Framework 3.5 Setup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-non-visible-wi-fi-options-on-windows-11-systems/"><u>The Ultimate Fix for Non-Visible Wi-Fi Options on Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tired-of-the-blink-a-step-by-step-guide-to-halting-your-cursors-rapid-movement/"><u>Tired of the Blink: A Step-by-Step Guide to Halting Your Cursor's Rapid Movement</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-how-to-modify-chatgpt/"><u>Understanding How to Modify ChatGPT</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlock-device-manager-your-touchpad-returns/"><u>Unlock Device Manager - Your Touchpad Returns</u></a></li>
-<li><a href="https://win-data.techidaily.com/us-secretary-of-commerce-gina-raimondo-initiates-china-visit-to-promote-us-national-security-transparency-and-address-tech-control-trade-disputes-and-busine75/"><u>US Secretary of Commerce Gina Raimondo Initiates China Visit to Promote US National Security Transparency and Address Tech Control, Trade Disputes & Business Expansion - Reuteby YL Computing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-auditory-solutions-iphone-tunes-makers/"><u>[New] Premier Auditory Solutions IPhone Tunes Makers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-pioneering-technology-cutting-edge-screen-capture-software-listings/"><u>[Updated] In 2024, Pioneering Technology Cutting-Edge Screen Capture Software Listings</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-8-plus-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 8 Plus to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-intermittent-sounds-in-your-logitech-g930-headset/"><u>Effective Fixes for Intermittent Sounds in Your Logitech G930 Headset</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-overcome-the-0x80070490-hurdle-during-system-updates-on-windows/"><u>Effective Solutions to Overcome the 0X80070490 Hurdle During System Updates on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x887a0006-no-more-fast-fixes-at-your-fingertips/"><u>Error 0X887A0006 No More: Fast Fixes at Your Fingertips</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-realme-10t-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Realme 10T 5G Phone?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-pursuit-of-perfection-online-tv-capture-made-simple-for-2024/"><u>In Pursuit of Perfection - Online TV Capture Made Simple for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/opaque-oscillation-device-mystery/"><u>Opaque Oscillation: Device Mystery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-frustrating-0x80070490-barrier-in-windows-updates-a-complete-fix/"><u>Overcoming the Frustrating 0X80070490 Barrier in Windows Updates - A Complete Fix</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-modern-shoppers-guide-to-360-degree-imaging-tech-for-2024/"><u>The Modern Shopper's Guide to 360-Degree Imaging Tech for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-folder-customization-adding-movecopy-context-functionality/"><u>Windows 11 Folder Customization - Adding Move/Copy Context Functionality</u></a></li>
 </ul></div>
 

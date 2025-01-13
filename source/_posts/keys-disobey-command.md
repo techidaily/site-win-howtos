@@ -1,7 +1,7 @@
 ---
 title: Keys Disobey Command
-date: 2024-12-19T19:34:12.038Z
-updated: 2024-12-22T20:30:51.661Z
+date: 2025-01-09T17:09:57.223Z
+updated: 2025-01-13T17:39:04.488Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -57,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system. (Note: Upon selecting the ‘Update All’ option, you will be asked to upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . A 7-day free trial, including all Pro features like high-speed download and one-click install, is available if you’re not ready for the Pro version yet. Rest assured, you won’t incur any charges until after the 7-day trial.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/DE-update-all-6.0.jpg)
 
@@ -72,9 +72,17 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a4d089b3e.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Select all the files in the Temp folder and delete them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a52e5c1ac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If Windows 10 is still randomly freezing after clearing your temp files, try the next fix.
 
@@ -89,20 +97,20 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a3b88f3d2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Go to the**Advanced** tab, then click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376d4b15900.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Go to the **Advanced** tab again, and choose**Change…**  in the Virtual memory section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376d6d0a83c.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Ensure the **Automatically manage paging file size for all drives** checkbox is**NOT** ticked.
 
@@ -120,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
  If you’re still having problems with Windows 10 hanging after adjusting your virtual memory, try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 4: Repair your system files**
 
@@ -152,6 +156,10 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Option 2 – Manually
 
  Microsoft makes it easy for you to get your original system files back. It has an in-built tool called System File Checker that will restore any broken or missing system files that could be causing your PC to freeze.
@@ -159,6 +167,10 @@ thumbnail: https://thmb.techidaily.com/a61ebba6dd861c81a2aafc9ac2f5e19d276c2c984
  1) Press the**Windows key** on your keyboard, then type**cmd** (DON’T press Enter). Windows will display a list of programs that match your search. Right-click**Command Prompt** and choose**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/run-as-administrator.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If prompted to provide administrator permission, click**Yes** .
 
@@ -178,10 +190,6 @@ sfc /scannow
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Method 5: Run a memory check**
 
  A faulty memory card is one of the most common causes of computer freezes. So before you invest in a new computer, check to see if your memory card is at fault. Microsoft has a built-in tool to help you do this.
@@ -197,10 +205,6 @@ sfc /scannow
  3) Windows will then restart, and you’ll see this page showing the progress of the check and the number of passes it will run on memory.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdb698e7b6b.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you don’t see any errors here, your memory card probably isn’t the problem, and you should try the next fix.
 
@@ -224,12 +228,16 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a9a940e55.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) If your hard disk drive is problem-free, you’ll see this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdb70907dd5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This suggests your hard disk is NOT the problem, and you can move on to the next fix below.
@@ -246,31 +254,23 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/go-into-bios-mode.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’re not fast enough, and the logo screen disappears before you hit the Setup key, just wait for Windows to finish starting up, then restart your computer and try again.
 
  2) Once in your BIOS setup, use the arrow keys on your keyboard to navigate to the main menu. Go to**Advanced** tab, and choose the **CPU Configuration** option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58d3311bb92d6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Both **C1E Function** and**Intel(R) C-STATE tech** should be **Disabled** . If they’re not, use your keyboard up and down arrows to navigate the list of options, highlight the setting you want to change, press Enter on your keyboard, then press the up or down arrow on your keyboard to change the value to Disabled.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/intelr-c-state-tech.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After changing these settings, save and exit the BIOS settings as per the instructions on your screen, then restart your computer again.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 8: Switch to ChromeOS
 
@@ -317,22 +317,14 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-step-by-step-solutions-for-rectifying-the-infamous-red-screen-malfunction/"><u>[FIXED] Step-by-Step Solutions for Rectifying the Infamous Red Screen Malfunction</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-3-elemental-strategies-for-writing-effective-social-media-promotions/"><u>[New] In 2024, The 3 Elemental Strategies for Writing Effective Social Media Promotions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-shot-perfect-top-camera-techniques-and-trends-year-2024-edition/"><u>[New] Shot Perfect Top Camera Techniques and Trends - Year 2024 Edition</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-through-a-headsets-lens-a-history-of-vr/"><u>[New] Through a Headset's Lens A History of VR</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-behind-the-scenes-top-7-tiktok-charms-and-their-mysterious-counterparts-for-2024/"><u>[Updated] Behind the Scenes Top 7 TikTok Charms and Their Mysterious Counterparts for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-manycam-review-is-there-a-better-alternative-in-2024/"><u>[Updated] ManyCam Review Is There A Better Alternative, In 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-fixing-the-0x800705b4-issue-during-windows-11-updates/"><u>Comprehensive Guide: Fixing the 0X800705b4 Issue During Windows 11 Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/copy-pasting-woes-heres-how-to-fix-it-on-your-windows-11-machine/"><u>Copy-Pasting Woes? Here's How to Fix It on Your Windows 11 Machine</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2000-found-a-problem-with-one-or-more-formula-by-stellar-guide/"><u>Fixed Excel 2000 Found a Problem with One or more Formula</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719578416188-jumpstart-your-slovak-journey-with-daily-micro-lessons/"><u>Jumpstart Your Slovak Journey with Daily Micro-Lessons</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/masterful-solutions-for-handling-sudden-termination-in-windows-tackle-error-1067-efficiently/"><u>Masterful Solutions for Handling Sudden Termination in Windows - Tackle Error 1067 Efficiently</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-fixes-for-error-code-0x800f0922-on-your-windows-10-system/"><u>Mastering Fixes for Error Code 0X800F0922 on Your Windows 10 System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-library-absence-msvcr71/"><u>Overcoming Library Absence - MSVCR71</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-performance-lag-and-freezes-in-windows-10-operating-systems/"><u>Resolving Performance Lag and Freezes in Windows 10 Operating Systems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-8-remedies-for-an-iphone-that-isnt-vibrating-on-silent-or-ring-mode-discover-them-here/"><u>Top 8 Remedies for an iPhone That Isn't Vibrating on Silent or Ring Mode – Discover Them Here!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-successful-activation-of-new-world-despite-easy-anti-cheat-glitches/"><u>Troubleshooting Tips: Successful Activation of New World Despite Easy Anti-Cheat Glitches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-window-insight-latest-file-view/"><u>Windows Window Insight: Latest File View</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-discovering-ideal-aspect-ratios-for-vids-for-2024/"><u>[New] Discovering Ideal Aspect Ratios for Vids for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-harmonizing-lifestyle-through-the-most-inspiring-yoga-vlogs/"><u>[Updated] Harmonizing Lifestyle Through the Most Inspiring Yoga Vlogs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-scriptwriters-playbook-for-2024/"><u>A Scriptwriter's Playbook for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-ensure-smooth-performance-with-updated-hp-envy-series-drivers/"><u>How to Ensure Smooth Performance with Updated HP ENVY Series Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-connectivity-how-to-ensure-flawless-bluetooth-pairing-on-your-windows-11-pc/"><u>Master Connectivity: How to Ensure Flawless Bluetooth Pairing on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/no-more-typing-troubles-overcoming-windows-11s-input-lag-issues/"><u>No More Typing Troubles: Overcoming Windows 11'S Input Lag Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-your-laptops-keyboard-tips-and-solutions/"><u>Resolving Issues with Your Laptop's Keyboard - Tips & Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206824332-reviving-your-keyboards-arrow-buttons-effective-solutions-inside/"><u>Reviving Your Keyboard's Arrow Buttons – Effective Solutions Inside</u></a></li>
+<li><a href="https://blog-min.techidaily.com/topo-gratuit-and-open-source-des-meilleures-logiciels-de-transcodage-video-pour-windows-et-macos-en-2021/"><u>Topo Gratuit & Open Source Des Meilleures Logiciels De Transcodage Vidéo Pour Windows Et macOS en 2021</u></a></li>
 </ul></div>
 

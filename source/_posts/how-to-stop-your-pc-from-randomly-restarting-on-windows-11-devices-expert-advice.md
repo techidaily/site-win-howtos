@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Your PC From Randomly Restarting on Windows 11 Devices: Expert Advice"
-date: 2025-01-03T01:18:49.533Z
-updated: 2025-01-06T21:02:07.904Z
+date: 2025-01-12T16:20:21.828Z
+updated: 2025-01-13T17:10:40.731Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 1: Check the display output settings**
 
  Incorrect display output settings could be preventing your TV from detecting your connected computer. Follow the steps below to check.
@@ -41,12 +45,16 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f20f2242c5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Display** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f25c04e4c2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Check if you’re able to see the TV as a second monitor.
 
@@ -63,14 +71,10 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bc8338cfae9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After that, check to see if Windows can detect your TV.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Solution 2: Update the graphics driver**
@@ -90,7 +94,7 @@ After that, check to see if Windows can detect your TV.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0ea2eb0b92e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged video driver driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the **FREE** version).
@@ -98,10 +102,6 @@ After that, check to see if Windows can detect your TV.
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e9e0ebcfe9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Restart your computer and check to see if Windows 10 can now detect your TV.
 
@@ -126,19 +126,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-real-time-monitoring-and-archiving-of-facebook-chats/"><u>[New] In 2024, Real-Time Monitoring & Archiving of Facebook Chats</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-visual-storytelling-planning-strategy-on-instavideo/"><u>[Updated] Mastering Visual Storytelling Planning Strategy on InstaVideo</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-troubleshooting-for-windows-1110-wireless-mice-that-stop-responding-unexpectedly/"><u>Comprehensive Troubleshooting for Windows 11/10 Wireless Mice That Stop Responding Unexpectedly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-12-pro-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 12 Pro Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-camon-20-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Camon 20 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-free-to-use-tools-for-transcribing-digital-conferences/"><u>In 2024, Free-to-Use Tools for Transcribing Digital Conferences</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-fixes-for-your-minecraft-woes-overcoming-error-5/"><u>Mastering Fixes for Your Minecraft Woes - Overcoming Error 5</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-common-touchpad-scrolling-problems-with-simple-solutions-fixed/"><u>Overcoming Common Touchpad Scrolling Problems with Simple Solutions [FIXED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolution-matters-ensuring-your-monitor-supports-system-display-frequency/"><u>Resolution Matters: Ensuring Your Monitor Supports System Display Frequency</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-excessive-cpu-usage-by-svchostexe-in-windows-11-comprehensive-guide/"><u>Resolving Excessive Cpu Usage by svchost.exe in Windows 11 - Comprehensive Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-adventure-begins-with-panasonics-hx-a1-action-recorder/"><u>The Adventure Begins with Panasonic's HX-A1 Action Recorder</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-m54-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy M54 5G FRP</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-oddworld-soulstorm-installation-issues-on-pc/"><u>Troubleshooting Tips: Fixing Oddworld: Soulstorm Installation Issues on PC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-a-stellar-visual-identity-the-ultimate-guide-to-yt-design-for-2024/"><u>[Updated] Crafting a Stellar Visual Identity The Ultimate Guide to YT Design for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-step-by-step-guide-to-boost-your-social-media-presence-with-instagram-hashtags/"><u>2024 Approved Step-by-Step Guide to Boost Your Social Media Presence with Instagram Hashtags</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-easy-way-to-mix-and-match-youtube-playlist-order/"><u>2024 Approved The Easy Way to Mix and Match YouTube Playlist Order</u></a></li>
+<li><a href="https://win-webster.techidaily.com/ensuring-seamless-integration-how-to-test-scanner-and-windows-system-compatibility-tips-from-yl-software/"><u>Ensuring Seamless Integration: How to Test Scanner and Windows System Compatibility - Tips From YL Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/forgotten-sd-card-discover-remedies/"><u>Forgotten SD Card, Discover Remedies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-hevc-codec-pack-download-compatible-with-vlc-media-player/"><u>Free HEVC Codec Pack Download Compatible with VLC Media Player</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-offscreen-window-issues-a-comprehensive-walkthrough/"><u>How To Fix Offscreen Window Issues: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-10-may-update-version-1903-installation-problems-a-comprehensive-guide/"><u>How to Fix Windows 10 May Update (Version 1903) Installation Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-reconnect-to-the-steam-shop-after-unexpected-disruptions/"><u>How To Successfully Reconnect to The Steam Shop After Unexpected Disruptions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-13-mini-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 13 mini Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-how-to-search-for-cool-photos-on-pexelscom/"><u>In 2024, How to Search for Cool Photos on Pexels.com?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/rumored-details-about-apples-future-personal-robot-predictions-on-cost-and-availability-date/"><u>Rumored Details About Apple’s Future Personal Robot – Predictions on Cost & Availability Date</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-fix-windows-installation-failure-error-0x80code0x080070643-on-windows-systems/"><u>Step-by-Step Solutions to Fix 'Windows Installation Failure Error 0X80([code]0X080070643) on Windows Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphones-without-text-alerts-essential-steps-you-need/"><u>Troubleshooting iPhones Without Text Alerts: Essential Steps You Need</u></a></li>
 </ul></div>
 

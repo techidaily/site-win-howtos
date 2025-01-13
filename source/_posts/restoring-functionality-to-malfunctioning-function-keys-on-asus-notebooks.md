@@ -1,7 +1,7 @@
 ---
 title: Restoring Functionality to Malfunctioning Function Keys on ASUS Notebooks
-date: 2024-12-20T18:17:33.303Z
-updated: 2024-12-22T20:30:51.326Z
+date: 2025-01-06T16:38:02.885Z
+updated: 2025-01-13T17:24:01.041Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/4740430244a268b3ae9a4b1e15c683b234a7cf8bd
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -42,6 +46,10 @@ Here’s how to reinstall the keyboard driver:
  1) Hover your mouse around**the Start button** (on the bottom left of your desktop screen), _right-click_  and then click on**Device Manager** to open Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
@@ -67,23 +75,19 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -103,15 +107,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -121,10 +125,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -142,13 +142,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,22 +184,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/directory-name-not-recognized-steps-for-resolution-and-prevention/"><u>'Directory Name Not Recognized': Steps for Resolution and Prevention</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fine-tuning-focus-the-ultimate-guide-to-zooming-in-on-videoleap/"><u>[Updated] Fine-Tuning Focus The Ultimate Guide to Zooming in on Videoleap</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-exclusive-snap-chronicles-an-in-depth-walkthrough/"><u>[Updated] In 2024, Exclusive Snap Chronicles An In-Depth Walkthrough</u></a></li>
-<li><a href="https://common-error.techidaily.com/a-step-by-step-walkthrough-for-correcting-windows-update-issues/"><u>A Step-by-Step Walkthrough for Correcting Windows Update Issues</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/accelerate-your-reading-mastering-quick-page-flips-with-flipbuilder/"><u>Accelerate Your Reading: Mastering Quick Page Flips with FlipBuilder</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apples-tech-evolution-showcases-iphone-16-as-a-repair-revolution-surpassing-past-versions-explore-the-advancements/"><u>Apple's Tech Evolution Showcases iPhone 16 as a Repair Revolution, Surpassing Past Versions. Explore the Advancements .</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209088096-audio-fix-eliminate-crackling-from-your-speakers-on-windows-11-and-7/"><u>Audio Fix: Eliminate Crackling From Your Speakers on Windows 11 and 7!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/banishing-boot-problems-fixing-persistent-freezes-on-your-windows-10-pc/"><u>Banishing Boot Problems: Fixing Persistent Freezes on Your Windows 10 PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-2021-graphics-renderer-start-up-issue-steps-and-tips/"><u>Fixing the 2021 Graphics Renderer Start-Up Issue: Steps and Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-stop-unexpected-shutdowns-while-playing-a-guide-for-windows-11-10-7-8n-and-8-users/"><u>How to Stop Unexpected Shutdowns While Playing: A Guide for Windows 11, 10, 7, 8.n & 8 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-fix-a-livekernelevent-code-144-issue/"><u>How to Troubleshoot and Fix a LiveKernelEvent Code 144 Issue</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-11-pro-maxipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 11 Pro Max/iPad Without Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-pc-boot-time-delays-a-comprehensive-guide/"><u>Solving PC Boot Time Delays: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-role-of-crc-in-identifying-and-correcting-data-integrity-problems/"><u>The Role of CRC in Identifying and Correcting Data Integrity Problems</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-dbpower-600a-peak-charger-with-18000mah-capacity-unbiased-review/"><u>Ultimate Guide: DBPower 600A Peak Charger with 18,000mAh Capacity - Unbiased Review</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-sparkling-ideas-creating-engaging-fb-ad-videos/"><u>[New] 2024 Approved Sparkling Ideas Creating Engaging FB Ad Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-avoiding-fuzzy-edges-in-picart-picture-processing/"><u>2024 Approved Avoiding Fuzzy Edges in PicArt Picture Processing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/binkw32dll-error-comprehensive-solutions-to-restore-file-accessibility/"><u>Binkw32.dll Error: Comprehensive Solutions to Restore File Accessibility</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-honor-90-gt-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Honor 90 GT</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-ethernet-connection-failures-on-pcs-running-windows-11-or-7/"><u>Diagnosing and Repairing Ethernet Connection Failures on PCs Running Windows 11 or 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-through-fixing-a-blocked-windows-10-version-1607-enhancement-rollout/"><u>Guide Through Fixing a Blocked Windows 10 Version 1607 Enhancement Rollout</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-resolving-windows-10s-underpowered-speaker-problem/"><u>Guide: Resolving Windows 10'S Underpowered Speaker Problem</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-samsung-galaxy-s23-ultra-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Samsung Galaxy S23 Ultra Devices</u></a></li>
+<li><a href="https://facebook.techidaily.com/instagrams-chat-shutdown-december-update/"><u>Instagram's Chat Shutdown: December Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208972954-minecraft-and-windows-woes-no-more-solve-your-video-card-driver-problems-today/"><u>Minecraft and Windows Woes No More - Solve Your Video Card Driver Problems Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-notorious-0x8-80071ac3-error-cleaning-a-dirty-storage-device/"><u>Resolving the Notorious 0X8 80071AC3 Error: Cleaning a 'Dirty' Storage Device</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-artisans-approach-to-metaverse-laughter-and-online-jokes/"><u>The Artisan's Approach to Metaverse Laughter & Online Jokes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-prime-day-deals-on-tribit-speakers-and-earbuds/"><u>The Best Prime Day Deals on Tribit Speakers and Earbuds</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-7-best-free-mp3-downloads-of-2024-your-ultimate-source-for-complimentary-audio-content/"><u>Top 7 Best Free MP3 Downloads of 2024 - Your Ultimate Source for Complimentary Audio Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unraveling-the-mystery-effective-ways-to-address-continuous-reboots-in-windows-10/"><u>Unraveling the Mystery: Effective Ways to Address Continuous Reboots in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207691368-what-to-do-if-windows-10-doesnt-recognize-your-logitech-keyboard/"><u>What to Do if Windows 10 Doesn’t Recognize Your Logitech Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/yac551-yamahaaturbosound-ii-sound-module-based-on-the-ymf794bymu794b-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-of55/"><u>YAC551 - Yamaha'aturboSound II Sound Module Based on the YMF794B/YMU794B (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
 </ul></div>
 

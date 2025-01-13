@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'Widevine Content Decryption Unable' Problem in Windows Environments
-date: 2024-12-15T20:55:00.829Z
-updated: 2024-12-23T01:23:48.122Z
+date: 2025-01-08T16:56:45.607Z
+updated: 2025-01-13T17:12:13.296Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  The methods below have helped other users solve the problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -46,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 
  The following screenshots are from Windows 10\. But you can also follow the steps if you’re having the problem on Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the setting of System Event Notification Service on your computer
 
  You may have the problem due to the incorrect setting of System Event Notification Service.  
@@ -55,11 +55,16 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 2. Type**services.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf596c06c.jpg)
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
 4. Right-click System Event Notification Service again, this time select**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
@@ -90,7 +95,7 @@ Follow these steps to reset your Winsock Catalog:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your video card driver
@@ -109,13 +114,13 @@ Follow these steps to reset your Winsock Catalog:
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart your computer to see if the error has gone. If the error persists, don’t give up hope, see if the last method could help you…
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Uninstall the KB2952664 update
 
@@ -126,23 +131,19 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c29a46965.jpg)
 3. Select**Uninstall a program** under**Programs** when**View by Category** selected.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
 4. Click View installed updates.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
 5. Find and right-click the update with KB2952664, then Uninstall.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Restart your computer to see if the error has gone.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Remove klhkum.dll
 
@@ -183,20 +184,16 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-navigating-noise-sensational-success-in-telegram-marketing/"><u>[Updated] Navigating Noise Sensational Success in Telegram Marketing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/avoiding-the-pitfalls-of-google-chromes-fatal-system-error-solutions-unveiled/"><u>Avoiding the Pitfalls of Google Chrome's Fatal System Error: Solutions Unveiled</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/breakthrough-in-cpu-performance-all-you-need-to-know-about-apples-upcoming-m4-microchip/"><u>Breakthrough in CPU Performance: All You Need to Know About Apple's Upcoming M4 Microchip</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207499577-corsair-backlight-failure-heres-how-to-reactivate-your-custom-lights/"><u>Corsair Backlight Failure? Here's How to Reactivate Your Custom Lights!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easily-achieve-optimal-security-with-ms-defender-aguard-on-windows-11s-edge/"><u>Easily Achieve Optimal Security with MS Defender Aguard on Windows 11'S Edge</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-resolve-the-0xc19e0208-update-issue-in-windows-11-fixed/"><u>How To Successfully Resolve The 0xC19e0208 Update Issue in Windows 11 [FIXED]</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-a-step-by-step-approach-to-ad-revenue-in-youtube-videos/"><u>In 2024, A Step-by-Step Approach to Ad Revenue in YouTube Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/intro-creation-made-simple-free-templates-for-2024/"><u>Intro Creation Made Simple - Free Templates for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iphone-15-pro-max-is-it-built-to-withstand-water-exposure/"><u>Iphone 15 Pro Max: Is It Built to Withstand Water Exposure?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-performance-issues-what-to-do-when-your-pc-runs-slow-on-windows-11/"><u>Resolving Performance Issues: What to Do When Your PC Runs Slow on Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-m34-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy M34 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-correcting-the-windows-cannot-install-service-packs-problem-in-windows-10-error-0x800705b4/"><u>Troubleshooting Tips: Correcting the 'Windows Cannot Install Service Packs' Problem in Windows 10 (Error 0X800705b4)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixing-computer-unable-to-power-off-in-windows-10-solution/"><u>Troubleshooting: Fixing Computer Unable to Power Off in Windows 10 - SOLUTION</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-step-by-step-tutorial-setting-up-handbrake-software-on-your-mac/"><u>Ultimate Step-by-Step Tutorial: Setting Up HandBrake Software on Your Mac</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlocking-the-secrets-successfully-connecting-a-paired-bluetooth-device-in-windows-11/"><u>Unlocking the Secrets: Successfully Connecting a Paired Bluetooth Device in Windows 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-how-to-buy-1-million-youtube-views-safely-from-trusted-providers/"><u>[New] In 2024, How to Buy 1 Million YouTube Views Safely From Trusted Providers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-iphones-guide-to-spherical-videos-on-facebook-platform/"><u>[New] In 2024, IPhone's Guide to Spherical Videos on Facebook Platform</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-streamline-youtube-tweets-on-chrome-performance/"><u>[New] Streamline YouTube Tweets on Chrome Performance</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-virtualvicar-video-vetting/"><u>[Updated] 2024 Approved VirtualVicar Video Vetting</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-step-into-the-world-of-slowed-motion-a-comprehensive-ig-reel-guide/"><u>[Updated] Step Into the World of Slowed-Motion A Comprehensive IG Reel Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-a-non-responsive-nvidia-share-platform/"><u>Diagnosing and Repairing a Non-Responsive Nvidia Share Platform</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-handling-the-service-did-not-respond-issue-error-1053/"><u>Expert Tips for Handling 'The Service Did Not Respond' Issue (Error 1053)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-lenovo-computers-broken-fn-key-fast-and-effective-methods/"><u>Fix Your Lenovo Computer's Broken FN Key – Fast and Effective Methods</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-iphone-12-pro-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons From iPhone 12 Pro? Find the Best Solution Here</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-detailed-steps-to-fix-your-computers-inability-to-shut-down-under-windows-11/"><u>Resolved! Detailed Steps To Fix Your Computer's Inability to Shut Down Under Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-minecraft-performance-issues-a-comprehensive-guide/"><u>Solving Minecraft Performance Issues: A Comprehensive Guide</u></a></li>
 </ul></div>
 

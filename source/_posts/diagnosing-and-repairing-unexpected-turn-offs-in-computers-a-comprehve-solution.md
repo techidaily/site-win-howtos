@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing and Repairing Unexpected Turn-Offs in Computers: A Comprehve Solution"
-date: 2025-01-01T20:07:03.049Z
-updated: 2025-01-07T03:35:46.609Z
+date: 2025-01-10T16:13:21.619Z
+updated: 2025-01-13T17:40:59.428Z
 tags:
   - win11
   - win10
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/cyber-security-1923446_1920-1024x655.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Update the drivers on your computer
 
  The problem “computer repeatedly turns and off” can be caused by faulty drivers. To fix the problem, you can try to update the drivers on your computer.  
@@ -67,11 +63,11 @@ thumbnail: https://thmb.techidaily.com/a4fdcd80183f244d65d1a43dcdc553851a248e6cf
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-817.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Remove any peripherals from your computer
 
@@ -103,6 +99,10 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-815.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you enter the BIOS menu, refer to these steps to reset the settings:  
 
  1)**Find the option** to reset the BIOS settings. This option is probably called**Setup Defaults** . It also depends on the computer manufacturers. But you can expect it has the “Default” words.
@@ -110,7 +110,7 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-816.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) You can see a function key next to the option. Just press that key on your keyboard to bring up the edit dialog box.  
@@ -120,6 +120,10 @@ For example, many Dell PCs show this key like below at the first screen:
  4)**Exit BIOS** .  
 
  5)**Restart your computer** and check to see if the problem is resolved.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Check PSU (Power Supply Unit)
 
@@ -140,7 +144,7 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/motherboard-841487_1920-1024x678.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 7: Clean dust
@@ -149,10 +153,6 @@ For example, many Dell PCs show this key like below at the first screen:
 
  For desktops, you can open the case and use a soft cloth to wipe the dust. The much easier method is to use a[compressed gas cleaning duster](https://www.amazon.com/Falcon-Compressed-Disposable-Cleaning-DPSXL4T/dp/B002ZB6LZA/&tag=easeware-camillamo-20) to get rid of the dust. For laptops, you’ll need to consult the manual or get technical help there if you haven’t opened one before.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 8: Replace the motherboard
 
  The last method to fix the problem is replace the motherboard. Replacing motherboard is a little technical and pricey. We recommend you to take your computer to the repair store for technical help.
@@ -160,7 +160,7 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/technology-1396677_1280-1024x768.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hopefully you find the tips above helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.  
@@ -182,20 +182,22 @@ For example, many Dell PCs show this key like below at the first screen:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instantaneous-instagram-video-experience/"><u>[Updated] 2024 Approved Instantaneous Instagram Video Experience</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-hassle-free-techniques-record-your-dell-screen-easily-for-2024/"><u>[Updated] Hassle-Free Techniques Record Your Dell Screen Easily for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-mastering-digital-screen-capture-techniques/"><u>2024 Approved Mastering Digital Screen Capture Techniques</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210701606-9781685680275-cantos-del-alma/"><u>Cantos del alma | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-solve-and-prevent-the-0x8024402c-error-in-windows-updates/"><u>How to Successfully Solve and Prevent the 0X8024402C Error in Windows Updates</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-12-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi 12 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-when-your-usb-flash-drive-isnt-detected/"><u>Quick Fix Guide: When Your USB Flash Drive Isn't Detected</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-pc-installation-issues-with-oddworld-soulstorm-a-complete-guide/"><u>Resolving PC Installation Issues with Oddworld: Soulstorm - A Complete Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-unresponsive-usb-peripherals-on-windows-7-a-step-by-step-fix/"><u>Revive Your Unresponsive USB Peripherals on Windows 7: A Step-by-Step Fix</u></a></li>
-<li><a href="https://extra-support.techidaily.com/school-based-videography-crafting-quality-content-for-2024/"><u>School-Based Videography Crafting Quality Content for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-ai-interactions-discover-7-key-techniques-for-better-prompts/"><u>Transform Your AI Interactions: Discover 7 Key Techniques for Better Prompts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-establish-connection-microsoft-wireless-display-with-windows-11-explained/"><u>Troubleshoot and Establish Connection: Microsoft Wireless Display with Windows 11 Explained</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-steps-to-reset-and-secure-your-facebook-account/"><u>Ultimate Guide: Steps to Reset and Secure Your Facebook Account</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-handbook-for-morphvox-transformers/"><u>Ultimate Handbook for MorphVOX Transformers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-high-cpu-load-caused-by-msmpengexe-on-windows-10-tips-and-tricks/"><u>Winning the Battle Against High CPU Load Caused by MsMpEng.exe on Windows 10: Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-unwanted-high-cpu-load-mitigated-by-windows-stops/"><u>[FIXED] Unwanted High CPU Load Mitigated by Windows Stops</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-savor-sweetness-on-the-go-the-ultimate-guide-to-cookies-for-travelers/"><u>[New] 2024 Approved Savor Sweetness on the Go The Ultimate Guide to Cookies for Travelers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-hope-on-the-big-screen-top-10-cinematic-power-ups-for-2024/"><u>[New] Hope on the Big Screen Top 10 Cinematic Power-Ups for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-galaxy-f54-5g-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Galaxy F54 5G</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/efficient-methods-to-block-facebook-adverts-for-2024/"><u>Efficient Methods to Block Facebook Adverts for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-superior-hardware-with-toms-guide/"><u>Exploring Superior Hardware with Tom's Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209031169-fix-error-0x887a0006-instantly-effortless-fix-techniques-unveiled/"><u>Fix Error 0X887A0006 Instantly: Effortless Fix Techniques Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-silence-solutions-for-forza-horizon-4-audio-issues/"><u>Fixing the Silence: Solutions for 'Forza Horizon 4' Audio Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-smart-8-pro-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Smart 8 Pro?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-historical-knowledge-at-your-fingertips-best-yt-history-channels/"><u>In 2024, Historical Knowledge at Your Fingertips Best YT History Channels</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-x-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and Apple iPhone X without Apple Account</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-directory-name-not-recognized-issue-comprehensive-solutions/"><u>Resolving the 'Directory Name Not Recognized' Issue - Comprehensive Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202531697-shift-key-issues-discover-effective-fixes-and-solutions/"><u>Shift Key Issues? Discover Effective Fixes and Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-why-your-surface-is-on-and-still-not-charging/"><u>Solving the Issue: Why Your Surface Is on and Still Not Charging</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-for-fixing-device-manager-error-code-28-on-your-windows-pc/"><u>Step-by-Step Guide for Fixing ‘Device Manager Error Code 28’ on Your Windows PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-your-pcs-persistent-screen-lockup-problems/"><u>Ultimate Guide: Solving Your PC's Persistent Screen Lockup Problems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-visual-velocity-illustrators-guide-to-motion-blurs-for-2024/"><u>Unleashing Visual Velocity Illustrator's Guide to Motion Blurs for 2024</u></a></li>
 </ul></div>
 

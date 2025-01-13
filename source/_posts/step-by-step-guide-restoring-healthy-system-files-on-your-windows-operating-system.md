@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Restoring Healthy System Files on Your Windows Operating System"
-date: 2024-11-03T20:02:10.012Z
-updated: 2024-11-08T03:02:06.865Z
+date: 2025-01-08T16:50:05.886Z
+updated: 2025-01-13T17:47:04.772Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/6f8c62fe2349a0f207bb9e67da92ccbc024b72458
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I fix Shift key not working?
 
@@ -57,9 +61,17 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
@@ -80,20 +92,10 @@ Follow these:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -111,13 +113,6 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -125,10 +120,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Restart your computer and try to press the Shift key to see if it works.
@@ -150,14 +142,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-audiences-choice-bandicam-or-camtasia-for-screen-capture/"><u>[New] In 2024, Audience's Choice? Bandicam or Camtasia for Screen Capture</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-top-15-video-downloader-add-ons-facebook-and-firefox-compatible/"><u>[Updated] 2024 Approved Top 15 Video Downloader Add-Ons Facebook & FireFox Compatible</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-most-effective-10-sound-recorders-for-spotify-fans/"><u>2024 Approved The Most Effective 10 Sound Recorders for Spotify Fans</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/efficiently-overcome-the-error-0x80f0831-using-automatic-windows-patches/"><u>Efficiently Overcome the 'Error 0X8#0f0831' Using Automatic Windows Patches</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/how-to-solve-brother-printer-offline-problem/"><u>How to Solve Brother Printer Offline Problem</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-unreachable-desktop-problem-in-windows-system-configuration-folder/"><u>Solving the 'Unreachable Desktop' Problem in Windows System Configuration Folder</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-repair-tips-for-clear-sound-in-windows-10-and-7-computer-systems/"><u>Step-by-Step Repair Tips for Clear Sound in Windows 10 & 7 Computer Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-eliminate-error-224003-playback-issues-on-your-videos/"><u>Troubleshooting Guide: Eliminate 'Error 224003 - Playback Issues' On Your Videos</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199721721-troubleshooting-the-notorious-blue-screen-error-0xc000021a-in-windows-11-and-8-solutions-proven-to-work/"><u>Troubleshooting the Notorious Blue Screen (Error 0xC000021A) in Windows 11 and 8: Solutions Proven to Work</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-expert-guide-downloading-and-converting-vimeo-video-mp4/"><u>[New] Expert Guide Downloading and Converting Vimeo Video (MP4)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-exploring-whatsapps-sound-transfers-for-2024/"><u>[New] Exploring WhatsApp's Sound Transfers for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mukbang-mastery-from-novice-to-pro-video-creator/"><u>[Updated] Mukbang Mastery From Novice to Pro Video Creator</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204758975-bring-back-your-windows-10-bluetooth-effective-solutions-that-work-instantly/"><u>Bring Back Your Windows 10 Bluetooth: Effective Solutions That Work Instantly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-your-frustration-with-warzone-screen-flickers-proven-fixes/"><u>End Your Frustration with Warzone Screen Flickers - Proven Fixes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ss-viewing-loop-your-iphone-videos-today/"><u>Endless Viewing Loop Your iPhone Videos Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-0x80072f8f-easy-fix-steps-for-windows-1110-users/"><u>Error Code 0X80072F8F - Easy Fix Steps for Windows 11/10 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210007407-fix-invalid-value-for-registry-error-when-opening-photos-on-windows-10/"><u>Fix: “Invalid Value for Registry” Error When Opening Photos on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-malfunctioned-function-keys-a-step-by-step-guide/"><u>Fixing Malfunctioned Function Keys: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-successfully-overcoming-the-notorious-0x80244022-error-during-windows-updates/"><u>Guide: Successfully Overcoming the Notorious 0X80244022 Error During Windows Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-an-inactive-google-chrome-browser-with-swift-reload-strategies/"><u>Reviving an Inactive Google Chrome Browser with Swift Reload Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/separating-fake-flagship-trailers-from-real-ones/"><u>Separating Fake Flagship Trailers From Real Ones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-nvidia-web-helper-no-disk-error/"><u>Solved Nvidia Web Helper No Disk Error</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-apple-iphone-12-mini-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your Apple iPhone 12 mini</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-blocking-unsolicited-messages-on-your-iphone/"><u>Ultimate Guide: Blocking Unsolicited Messages on Your iPhone</u></a></li>
 </ul></div>
 

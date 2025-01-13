@@ -1,7 +1,7 @@
 ---
 title: "Ensure Smooth Gaming: Overcoming Nier Automata PC Freezes and Crashes"
-date: 2025-01-04T23:39:03.431Z
-updated: 2025-01-06T16:46:56.341Z
+date: 2025-01-09T16:02:05.883Z
+updated: 2025-01-13T17:25:18.637Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Try these fixes**
 
@@ -73,7 +69,7 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 2: Install the latest game patch**
@@ -127,19 +123,19 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Restart your computer, and see if the problem is fixed or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 4: Close FAR(Fix Automata Resolution) Mod**
 
@@ -149,6 +145,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Change processor affinity
 
  According to practice and some users experiences, processor affinity can help users get rid of the crash. You can try this method, but if it works for you, you have to repeat it every time when you launch the game.
@@ -157,12 +157,12 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 2. Type “taskmgr” and press**Enter** to open the Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2019/06/task.jpg)
 3. Choose**Details** . Find Nier Automata.exe, right-click on it and click**Set affinity** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
 4. Select only**Core 0** and**Core 2** then click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
@@ -188,22 +188,16 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/resolved-alleviate-elevated-cpu-load-caused-by-shellack-in-windows-10-and-beyond/"><u>[Resolved] Alleviate Elevated CPU Load Caused by Shellack in Windows 10 & Beyond.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-laptop-plugged-in-not-charging-on-windows-10/"><u>[Solved] Laptop Plugged in, Not Charging on Windows 10</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-mastering-zoom-meetings-quickly/"><u>[Updated] 2024 Approved Mastering Zoom Meetings Quickly</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-photobooth-recording-stalls-whats-goin-on/"><u>2024 Approved Photobooth Recording Stalls What's Goin' On?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/corrective-measures-to-handle-vanishing-msvcp140dll/"><u>Corrective Measures to Handle Vanishing MSVCP140.dll</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effortless-asus-touchpad-driver-download-and-installation-tips-for-windows-11-users/"><u>Effortless ASUS Touchpad Driver Download & Installation Tips for Windows 11 Users</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/exploring-mov-videos-comprehensive-guide-on-its-structure-codecs-and-software-for-playback-or-conversion/"><u>Exploring MOV Videos: Comprehensive Guide on Its Structure, Codecs, and Software for Playback or Conversion</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-hands-on-the-latest-samsung-m2020-driver-download/"><u>Get Your Hands on the Latest Samsung M2020 Driver Download</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola Moto G73 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-device-driver-conflicts-within-world-of-warcraft-games/"><u>How to Overcome Device Driver Conflicts Within World of Warcraft Games</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-s17-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo S17 Pro FRP Bypass</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-passport-photo-creation-made-easy-10-images-at-no-cost/"><u>In 2024, Passport Photo Creation Made Easy 10 Images at No Cost</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-fixing-the-missing-bluetooth-on-windows-11-expert-advice-for-immediate-repair/"><u>Master Fixing the Missing Bluetooth on Windows 11 - Expert Advice for Immediate Repair</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-resolution-strategies-for-addressing-and-repairing-power-state-failures-in-driver-systems/"><u>Mastering the Resolution: Strategies for Addressing and Repairing Power State Failures in Driver Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-lime-hitch-up-in-nba-2k21-successful-strategies-revealed/"><u>Overcoming the Lime Hitch-Up in NBA 2K21 – Successful Strategies Revealed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-restore-missing-audio-dll-files/"><u>Quick-Fix Guide: Restore Missing Audio DLL Files</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/reset-hari-ini-mengenal-teknologi-pemulihan-microsoft-refs/"><u>Reset Hari Ini - Mengenal Teknologi Pemulihan Microsoft ReFS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2022s-golden-age-for-ice-dancing-showcases/"><u>[Updated] 2022'S Golden Age for Ice Dancing Showcases</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-discover-the-top-3-alternative-video-portals/"><u>[Updated] 2024 Approved Discover the Top 3 Alternative Video Portals</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchat-boomerangs-unveiled-your-how-to-guide/"><u>[Updated] 2024 Approved SnapChat Boomerangs Unveiled – Your How-To Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/embrace-effortless-storage-our-20-most-trusted-free-cloud-service-choices-up-to-1tb/"><u>Embrace Effortless Storage - Our 20 Most Trusted FREE Cloud Service Choices (Up To 1TB)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fortnite-troubleshooting-launch-success/"><u>Fortnite Troubleshooting: Launch Success</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-game-crashes-in-nier-automata-tips-and-solutions-for-a-smoother-pc-gaming-experience/"><u>Overcome Game Crashes in Nier Automata: Tips & Solutions for a Smoother PC Gaming Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-0x8024401c-update-glitches-in-microsofts-latest-operating-systems-a-comprehensive-guide-for-windows-10-and-11-users/"><u>Overcoming 0X8024401c Update Glitches in Microsoft's Latest Operating Systems: A Comprehensive Guide for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-a-non-responsive-laptop-mouse-step-by-step-troubleshooting-guide/"><u>Resolving a Non-Responsive Laptop Mouse: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-resolution-overcoming-bluetooth-mouse-connection-problems-in-windows/"><u>Step-by-Step Resolution: Overcoming Bluetooth Mouse Connection Problems in Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/xiaomi-14-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Xiaomi 14 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
 

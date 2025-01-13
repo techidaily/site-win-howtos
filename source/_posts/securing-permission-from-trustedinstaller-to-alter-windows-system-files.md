@@ -1,7 +1,7 @@
 ---
 title: Securing Permission From TrustedInstaller to Alter Windows System Files
-date: 2025-01-03T04:59:35.558Z
-updated: 2025-01-06T21:11:22.207Z
+date: 2025-01-09T17:12:53.132Z
+updated: 2025-01-13T16:34:30.955Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ The good news is, you can fix it easily!
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -62,6 +58,10 @@ The good news is, you can fix it easily!
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
 
  Another reason for this volume control not responding problem is the glitches with the Windows Audio and Windows Audio Endpoint Builder services. If that’s the case, we can re-enable them to see if it works.
@@ -72,7 +72,11 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Locate and double-click on**Windows Audio** .  
@@ -80,15 +84,11 @@ To do so:
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. **Restart** your PC and check if your volume control icon works as it should.
 
@@ -102,10 +102,6 @@ To run SFC:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click **Yes**   when prompted to confirm.
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
@@ -126,13 +122,17 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
 
@@ -158,18 +158,21 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-elevating-gameplay-increasing-ram-in-minecraft/"><u>[New] In 2024, Elevating Gameplay Increasing RAM in Minecraft</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-from-shoots-to-screens-dslr-setup-for-youtubefacebook-live/"><u>[New] In 2024, From Shoots to Screens DSLR Setup for YouTube/Facebook Live</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208812875-desktop-icon-mystery-in-windows-11-cracked-find-and-fix-your-missing-files-now/"><u>Desktop Icon Mystery in Windows 11 Cracked: Find and Fix Your Missing Files Now</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-premier-digital-notebooks-for-productivity-enthusiasts-thorough-evaluations-by-professionals-featured/"><u>Discover the Premier Digital Notebooks for Productivity Enthusiasts: Thorough Evaluations by Professionals | Featured</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-driver-installation-lenovo-t430-support-on-windows-1087-systems/"><u>Effortless Driver Installation: Lenovo T430 Support on Windows 10/8/7 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-nvidia-setup-post-resolution/"><u>Effortless NVIDIA Setup Post-Resolution</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-compatible-driver-for-zexmt-bluetooth-adapter-on-windows-10-7-and-8/"><u>Free Download: Compatible Driver for Zexmt Bluetooth Adapter on Windows 10, 7 & 8</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-tecno-pova-6-pro-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Tecno Pova 6 Pro 5G Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-football-manager-2n22-unavailability-problem-solution-explained/"><u>How to Fix the Football Manager 2N22 Unavailability Problem – Solution Explained</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-crowned-at-2021-witsas-ict-summit/"><u>Mondly Crowned at 2021 WITSA's ICT Summit</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-eliminating-device-managers-code-code-28-problems-on-windows/"><u>Step-by-Step Guide: Eliminating Device Manager's Code 지정오탈(Code 28) Problems on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-repair-for-persistent-usb-disconnection-issues/"><u>Step-by-Step Repair for Persistent USB Disconnection Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-key-strategies-for-a-successful-turnaround-of-apples-vision-pro-a-breakdown-by-zdnet-analysts/"><u>Unveiling Key Strategies for a Successful Turnaround of Apple's Vision Pro: A Breakdown by ZDNET Analysts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-expedition-tools-for-storytelling-through-lenses/"><u>[Updated] 2024 Approved Expedition Tools for Storytelling Through Lenses</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-elite-video-equipment-revolutionizing-podcasts/"><u>2024 Approved Elite Video Equipment Revolutionizing Podcasts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-ideal-platforms-for-procuring-youtube-ringtone-files/"><u>2024 Approved Ideal Platforms for Procuring YouTube Ringtone Files</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-smooth-media-transfer-twitvideos-to-whatsapp-guide/"><u>2024 Approved Smooth Media Transfer TwitVideos to WhatsApp Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciphering-truth-from-fiction-how-accurate-is-chatgpt/"><u>Deciphering Truth From Fiction - How Accurate Is ChatGPT?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202077745-dragon-ball-fighterz-successfully-overcoming-network-setup-errors/"><u>Dragon Ball FighterZ - Successfully Overcoming Network Setup Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-guide-to-repairing-inactive-at-sign-functionality/"><u>Easy Guide to Repairing Inactive 'At Sign' Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/empowered-windows-operations-advanced-run-enhancements-guide/"><u>Empowered Windows Operations: Advanced Run Enhancements Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/games-glitches-unstoppable-system-crashes/"><u>Games Glitches: Unstoppable System Crashes</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-charting-updates-youtube-money-standards/"><u>In 2024, Charting Updates YouTube Money Standards</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-the-creality-k1-pro-x-carbon-printer/"><u>In-Depth Analysis of the Creality K1 Pro X Carbon Printer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-controller-repair-fixing-dead-left-analogue-sticks-for-console-gamers/"><u>Mastering Controller Repair: Fixing Dead Left Analogue Sticks for Console Gamers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-addressing-user-settings-cause-driver-failure-problem/"><u>Solution Found! Addressing 'User Settings Cause Driver Failure' Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-enabling-bluetooth-connectivity-in-windows-11-and-windows-10/"><u>Step-by-Step Guide: Enabling Bluetooth Connectivity in Windows 11 and Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-boot-issues-in-windows-11/"><u>Troubleshooting Guide: Resolving Boot Issues in Windows 11</u></a></li>
 </ul></div>
 

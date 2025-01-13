@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Errored Copy and Paste in Windows 10
-date: 2024-11-06T20:50:03.185Z
-updated: 2024-11-07T20:21:52.955Z
+date: 2025-01-07T17:26:01.158Z
+updated: 2025-01-13T16:11:47.592Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  **No.1–[Unplug any USB or DVD drive](https://tools.techidaily.com/drivereasy/download/)**
@@ -51,18 +55,15 @@ thumbnail: https://thmb.techidaily.com/d4a369170dd24048d49b11ae6cda29b689bc2d38a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After removing all these devices, check if the error still persists.
 
  If you see the error again, there might be something wrong with your hard drive or configuration. You can move on to the next fix to solve the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2\. Shut down your computer and cool it down for several hours
 
@@ -89,13 +90,6 @@ After removing all these devices, check if the error still persists.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/3-15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** For different computers, the option to reset BIOS could also be **Load Fail-Safe Defaults** ,**Apply Default** ,**Load BIOS Defaults** ,**Load Default Settings** ,**Load Setup Default** ,**Factory settings** , etc.
 
  3) Use the down arrow key ↓ to choose**Exit Saving Changes** to exit BIOS.
@@ -120,19 +114,16 @@ After removing all these devices, check if the error still persists.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/4-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * If you’ve added new RAM memory to computer recently, try to remove it and leave only one RAM. Then restart computer to check if the error still occurs.
 * Leave one RAM module on one slot and restart computer. If the disk read error still occurs, move the RAM to the other slot and start computer again.
 
  Now you can see if you can boot into Windows again. If not, don’t give up here, you can try the next fix to solve the problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6\. Fix MBR and Fix Boot
 
@@ -164,6 +155,10 @@ exit
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Bonus Tips
 
  If you run into computer problems randomly, there might be something wrong with your drivers. Missing or outdated drivers can cause many issues. If you want to have better computer experience and prevent potential problems, it’s recommended to keep your drivers update to date.
@@ -182,6 +177,10 @@ exit
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-09-24_10-03-23-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 **Or**
@@ -189,13 +188,6 @@ exit
  Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the Pro version which comes with full support and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-drivers-with-driver-easy-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -223,18 +215,14 @@ exit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-streamlining-content-tweeting-videos-on-snapchat/"><u>[Updated] 2024 Approved Streamlining Content Tweeting Videos on Snapchat</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/1-importieren-von-iphone-fotos-auf-windows-11-fonebackup-tipps-and-tricks/"><u>1. Importieren Von iPhone-Fotos Auf Windows 11 - FoneBackup Tipps & Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/2022s-guide-to-seamless-gaming-eliminating-fallout-4-latency-for-a-smoother-play/"><u>2022'S Guide to Seamless Gaming: Eliminating Fallout 4 Latency for a Smoother Play</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/essential-list-10-best-zero-price-desktop-recorder-apps/"><u>Essential List 10 Best Zero-Price Desktop Recorder Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-update-when-its-stuck-on-100-a-step-by-step-guide/"><u>How to Fix Windows Update When It's Stuck on 100% – A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-an-encyclopedia-on-hand-pose-identification-systems/"><u>In 2024, An Encyclopedia on Hand Pose Identification Systems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-14-pro-max-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 14 Pro Max With 7 Methods | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/no-cost-no-hassle-discover-7-premium-free-online-fax-services/"><u>No Cost, No Hassle: Discover 7 Premium-Free Online Fax Services</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/steps-to-correctly-resolve-service-started-failure-on-windows-login-screen/"><u>Steps to Correctly Resolve Service Started Failure on Windows Login Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixes-how-to-restore-functionality-to-your-non-responsive-number-keys/"><u>Troubleshooting Fixes: How to Restore Functionality to Your Non-Responsive Number Keys</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restoring-functionality-of-non-responsive-laptop-backlit-keyboards/"><u>Troubleshooting Guide: Restoring Functionality of Non-Responsive Laptop Backlit Keyboards</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-setup-instructions-for-free-new-corsair-gaming-mouse-firmware/"><u>Ultimate Setup Instructions for [FREE] New Corsair Gaming Mouse Firmware</u></a></li>
-<li><a href="https://extra-information.techidaily.com/uncover-clarity-a-detailed-guide-to-purging-backgrounds-with-affinity/"><u>Uncover Clarity A Detailed Guide to Purging Backgrounds with Affinity</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-cinemas-best-hope-fueled-film-selections/"><u>[Updated] Cinema's Best Hope-Fueled Film Selections</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-step-by-step-designing-striking-youtube-thumbnails-with-macos/"><u>[Updated] Step-by-Step Designing Striking Youtube Thumbnails with macOS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/action-in-motion-best-surfing-cams-of-2023-update-for-2024/"><u>Action in Motion Best Surfing Cams of 2023 Update for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202021194-expert-advice-on-correcting-windows-update-failure-with-error-code-0x8024402c-learn-how-here/"><u>Expert Advice on Correcting Windows Update Failure with Error Code 0X8024402C - Learn How Here!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-troubleshooting-and-overcoming-windows-mysterious-blackout-problems/"><u>Expert Tips on Troubleshooting and Overcoming Windows' Mysterious Blackout Problems</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-se-2022-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone SE (2022) Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-file-errors-of-movmp4-videos-with-quicktime/"><u>Repairing File Errors of MOV/MP4 Videos with QuickTime</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/sfc-and-dism-windows-10-repair-options/"><u>SFC and DISM: Windows 10 Repair Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-wont-update-discover-the-steps-to-resolve-update-freezing-issues/"><u>Windows 10 Won’t Update? Discover the Steps to Resolve Update Freezing Issues</u></a></li>
 </ul></div>
 

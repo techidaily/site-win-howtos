@@ -1,7 +1,7 @@
 ---
 title: Easy Solutions to Fix Lenovo Functional Key Failures - Step-by-Step Tips
-date: 2024-12-30T21:21:54.575Z
-updated: 2025-01-06T17:50:45.137Z
+date: 2025-01-12T17:17:51.506Z
+updated: 2025-01-13T16:29:00.977Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/76e26b163e9495753f19f00ef08b09cc2666b4e5e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Fixes for Astro A40 Mic Not Working
@@ -61,6 +61,10 @@ To make sure the volume is audible:
 1. Click **the sound icon**  on the lower-right of your screen, then move **the volume slider**  all the way  to at least halfway up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
 
@@ -79,24 +83,28 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -112,17 +120,9 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -156,22 +156,20 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-advanced.techidaily.com/3pi-times-4-12pi/"><u> [3 Pi Times (-4) = -12 Pi </u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-social-stream-top-8-viral-videos-for-2024/"><u>[New] Social Stream Top 8 Viral Videos for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-transforming-a-simple-story-into-an-epic-visual-narrative-for-2024/"><u>[New] Transforming a Simple Story Into an Epic Visual Narrative for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/console-like-conundrums-computer-gaming-issues/"><u>Console-Like Conundrums: Computer Gaming Issues</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/drive-engagement-and-sales-using-smart-visitor-tracking-technology/"><u>Drive Engagement and Sales Using Smart Visitor Tracking Technology</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-instructions-setting-up-bluetooth-in-windows-operating-systems-11-and-10/"><u>Easy Instructions: Setting Up Bluetooth in Windows Operating Systems (11 and 10)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/harmony-and-hype-perfecting-film-teaser-tunes/"><u>Harmony and Hype Perfecting Film Teaser Tunes</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-lava-blaze-pro-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Lava Blaze Pro 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-f15-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy F15 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-excessive-disk-space-consumption-by-microsoft-compatibility-telemetry-in-windows-11/"><u>Resolving Excessive Disk Space Consumption by Microsoft Compatibility Telemetry in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restore-system-integrity-on-windows-11-leveraging-sfc-and-dism/"><u>Restore System Integrity on Windows 11: Leveraging SFC and DISM</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/stuck-on-a-pdf-that-wont-print-discover-swift-solutions-now/"><u>Stuck on a PDF That Won't Print? Discover Swift Solutions Now</u></a></li>
-<li><a href="https://fox-making.techidaily.com/the-initiation-of-the-mighty-mauer-the-construction-project-started-by-emperor-qin-shi-huang-insights-from-yl-computing/"><u>The Initiation of the Mighty Mauer: The Construction Project Started by Emperor Qin Shi Huang - Insights From YL Computing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-installing-device-drivers-on-windows-7-made-easy/"><u>Troubleshooting Tips: Installing Device Drivers on Windows 7 Made Easy</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-fix-windows-11-crashes-during-system-initialization/"><u>Troubleshooting: How to Fix Windows 11 Crashes During System Initialization</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/xbox-one-controller-works-on-pc-fix-successful/"><u>Xbox One Controller Works on PC - Fix Successful</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-aviation-gadgets-purchase-now/"><u>[New] Prime Aviation Gadgets, Purchase Now</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-tweeted-timelines-a-complete-guide-to-video-backups-for-2024/"><u>[New] Tweeted Timelines A Complete Guide to Video Backups for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unleash-the-full-potential-of-youtube-with-variable-playback-rates/"><u>2024 Approved Unleash the Full Potential of YouTube With Variable Playback Rates</u></a></li>
+<li><a href="https://solve-news.techidaily.com/movavim4avob/"><u>安心して無料: MovaviのためのM4AからVOBへのオンライン圧縮手法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-sign-in-error-messages-caused-by-user-profile-service-in-windows-operating-systems/"><u>Addressing Sign-In Error Messages Caused by User Profile Service in Windows Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014828616-clear-audio-happy-ears-troubleshoot-your-crackling-headphones-with-these-quick-fixes/"><u>Clear Audio, Happy Ears: Troubleshoot Your Crackling Headphones with These Quick Fixes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/critical-system-file-not-installed/"><u>Critical System File Not Installed</u></a></li>
+<li><a href="https://discover-data.techidaily.com/efficiently-clear-out-junk-folders-and-files-on-your-machine-with-yl-softwares-easy-solutions/"><u>Efficiently Clear Out Junk Folders & Files on Your Machine with YL Software's Easy Solutions!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-computers-night-light-on-windows-10-and-11-systems/"><u>How to Restore Your Computer’s Night Light on Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-basic-screen-capture-windows-10-version/"><u>In 2024, Basic Screen Capture, Windows 10 Version</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208645794-overcome-stuck-keyboard-arrows-effective-troubleshooting-tips-inside/"><u>Overcome Stuck Keyboard Arrows - Effective Troubleshooting Tips Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-for-when-windows-cant-locate-the-right-printer-driver-fixed/"><u>Solution for When Windows Can’t Locate the Right Printer Driver [FIXED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-copy-and-paste-glitches-on-your-latest-windows-operating-system/"><u>Troubleshooting Copy & Paste Glitches on Your Latest Windows Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-windows-10s-unwanted-keep-restarting-dilemma/"><u>Winning Against Windows 10'S Unwanted Keep Restarting Dilemma</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/xmedia-recode-dvd/"><u>XMedia Recode: DVD、ビデオ、オーディオファイルの品質保持による完全変換手順</u></a></li>
 </ul></div>
 

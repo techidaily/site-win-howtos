@@ -1,7 +1,7 @@
 ---
 title: "How to Prevent Your PC From Continuously Going to Sleep Mode: A Step-by-Step Guide"
-date: 2025-01-05T23:18:17.122Z
-updated: 2025-01-06T19:12:55.142Z
+date: 2025-01-08T16:21:42.333Z
+updated: 2025-01-13T16:24:42.543Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: Check the power settings
 
  If your power settings are configured to sleep in a short time, for example, 5 minutes, you’ll experience the computer keeps going to sleep issue. To fix the problem, the first thing to do is check the power settings, and change the settings if necessary. To do so:
@@ -42,18 +46,18 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 ![Windows 11 - how to open the Control Panel](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 3. **View by** **Large icons** , and click **Power Options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1370b5c7879.jpg)
 4. Click**Change when the computer sleeps** in the left pane.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13709ea5614.jpg)
 5. Choose the sleep and display settings that you want your computer to use.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4a) Change the**Turn off the display** setting to whatever value you desire. You don’t have to set it to Never if you don’t want to.  
@@ -62,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1371d25d798.jpg)
 6. Click**Save changes** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Check to see if the computer still keeps going to sleep.
 
@@ -86,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 3: Disable the screen saver
 
  The screen saver is the utility built in Windows. It will be activated after a certain period of Windows inactivity. If the screen saver is set to blank, and the wait time is 5 minutes, it’ll look like your screen has turned off or gone to sleep mode. So you can disable the screen saver and see if the problem persists.
@@ -99,12 +111,13 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1372f5918cd.jpg)
 3. Click**Screen saver settings** at the bottom of the window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
 
@@ -114,6 +127,10 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 2. **View by Category** , and click**Appearance and Personalization** (In some cases, this could be**Appearance** .).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373fd30172.jpg)
 3. Click the**Change screen saver** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
 4. Set**Screen saver** to**None** .  
@@ -136,33 +153,17 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137510499e6.png)  
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
 2. Navigate to the following directory:  
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\238C9FA8-0AAD-41ED-83F4-97BE242C8F20\7bc4a2f9-d8fc-4469-b07b-33eb785aaca0]  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375973d736.jpg)
 3. In the right pane, double-click on**Attributes** to modify it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
 5. Click the**OK** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Exit the Registry Editor.
 
@@ -173,10 +174,6 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376290956d.jpg)
 3. Click the **Change plan settings** under your selected power plan.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
@@ -185,6 +182,10 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376fc0269a.jpg)
 6. Click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Check to see if the computer keeps going to sleep.
 
@@ -209,24 +210,18 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-adobe-cloud-storage-demystified-features-functionality-and-alternatives-reviewed/"><u>[New] Adobe Cloud Storage Demystified Features, Functionality, and Alternatives Reviewed</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-achieving-affiliate-success-with-online-videos/"><u>[New] In 2024, Achieving Affiliate Success with Online Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-streamline-document-creation-with-microsoft-word-speech-recognition/"><u>[New] Streamline Document Creation with Microsoft Word Speech Recognition</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-years-most-memorable-youtube-music-dance-clips-for-2024/"><u>[New] The Year's Most Memorable YouTube Music Dance Clips for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-start-shooting-smart-top-15-shot-techniques-for-beginners/"><u>[Updated] 2024 Approved Start Shooting Smart Top 15 Shot Techniques for Beginners</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exploring-the-intricacies-of-whatsapp-voice-calls/"><u>Exploring the Intricacies of WhatsApp Voice Calls</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-silent-drives-the-ultimate-guide-to-solving-the-forza-horizon-4-audio-issue/"><u>Fixing Silent Drives: The Ultimate Guide to Solving the 'Forza Horizon 4' Audio Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-ensure-seamless-bluetooth-connections-on-windows-11-proven-fixes/"><u>How to Ensure Seamless Bluetooth Connections on Windows 11: Proven Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/impairment-of-apoptosis/"><u>Impairment of Apoptosis</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-essential-collection-top-9-premium-wedding-movies-online/"><u>In 2024, Essential Collection Top 9 Premium Wedding Movies Online</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210634860-9798986191621-majestic-rainbow-love/"><u>Majestic Rainbow Love | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/nier-automata-for-pc-how-to-prevent-game-stalls-and-crashing-episodes/"><u>Nier Automata for PC - How to Prevent Game Stalls & Crashing Episodes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-deadly-system-exception-fixing-0xc00n0005-on-windows/"><u>Overcoming the 'Deadly' System Exception: Fixing 0Xc00n0005 on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-eliminate-screen-flickering-in-valorant/"><u>Step-by-Step Solutions to Eliminate Screen Flickering in Valorant</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-valorant-freeze-required-system-restart/"><u>Troubleshoot Valorant Freeze: Required System Restart</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-overcoming-0x80070solved-windows-update-errors/"><u>Troubleshooting Tips for Overcoming 0X80070^[SOLVED] Windows Update Errors</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unlock-your-consoles-full-potential-with-samsungs-q60r-4k-series-a-smart-tv-built-for-gamers/"><u>Unlock Your Console’s Full Potential with Samsung's Q60R 4K Series: A Smart TV Built for Gamers</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-se-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone SE Passcode without a Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-brightness-control-glitches-solutions-for-a-fixed-display/"><u>Windows 10 Brightness Control Glitches: Solutions for a Fixed Display</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-laws-surrounding-personal-recording-on-youtube-site/"><u>[New] 2024 Approved Laws Surrounding Personal Recording on YouTube Site</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-high-quality-6-video-transcription-services/"><u>[New] High-Quality 6 Video Transcription Services</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unlocking-the-secrets-of-a-captivating-end-episode-note-for-2024/"><u>[Updated] Unlocking the Secrets of a Captivating End-Episode Note for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-vivo-y100a-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-walkthrough-to-resolve-error-80240020-on-your-windows-10-pc/"><u>Complete Walkthrough to Resolve Error #80240020 on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/d3d-device-disappearance-threatens-unreals-existence/"><u>D3D Device Disappearance Threatens Unreal's Existence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-windows-11-kb5003602-error-during-install-issue/"><u>How to Fix the Windows 11 KB5003602 'Error During Install' Issue</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Xiaomi Redmi Note 12 Pro 5G?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/obscured-oath-vs-illuminated-ideal-black-vs-silver-for-2024/"><u>Obscured Oath Vs Illuminated Ideal Black vs Silver for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-hurdle-of-non-detected-bluetooth-accessories-in-microsofts-latest-os/"><u>Overcoming the Hurdle of Non-Detected Bluetooth Accessories in Microsoft's Latest OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-the-windows-80072ee2-updating-glitch/"><u>Quick Solutions for the Windows 80072EE2 Updating Glitch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-error-31-a-step-by-step-guide/"><u>Resolving Windows Error 31: A Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-best-free-video-watermark-software-for-beginners-for-2024/"><u>Updated The Best Free Video Watermark Software for Beginners for 2024</u></a></li>
 </ul></div>
 

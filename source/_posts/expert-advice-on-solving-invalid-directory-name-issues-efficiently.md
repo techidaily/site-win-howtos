@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Solving 'Invalid Directory Name' Issues Efficiently
-date: 2024-12-21T22:10:17.164Z
-updated: 2024-12-22T18:30:06.348Z
+date: 2025-01-08T16:08:42.325Z
+updated: 2025-01-13T17:27:27.023Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Table of contents
 
 * [Fix 1 – Is it a driver issue?](#h-fix-1-is-it-a-driver-issue)  
@@ -46,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
  Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Update your network driver
 
  You can update your drivers automatically with either the[**FREE**](https://tools.techidaily.com/drivereasy/download/) or the **[Pro versio](https://tools.techidaily.com/drivereasy/download/)** [**n**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![update network driver with driver easy](https://images.drivereasy.com/wp-content/uploads/2021/03/de-update-network-driver.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -78,11 +82,15 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/backup.png)
 5. In the Tools pane, click**Driver** **Restore** \>**Browse…** , then choose the backup file you’re going to restore from, then click **Open** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/12.png)
 6. Select the driver you’re going to restore, then click **Continue** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Wait until the restore is successful, and click**OK** .
@@ -98,16 +106,12 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/dchp.png)
 3. If **Service status:** is set to **Running** , click the **Stop** button. If it shows **Stopped** , leave it as it is.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Set the **Startup type** menu to **Automatic** .
 5. Click the **Start** button.
 6. Click **Apply > OK**  to save changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3 – Register your DNS
@@ -124,6 +128,10 @@ Here’s how:
 4. Restart your PC.
 5. Check to see if the**Unable to Contact DHCP Server** error is solved. If yes, then great. If it still happens, please continue with**Fix 4** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4 – Reset TCP/IP Configuration
 
 1. On your keyboard, press the**Windows logo** key and type**cmd** . Right-click on**Command Prompt** as it pops up as a result, and select**Run as administrator** .  
@@ -138,7 +146,7 @@ Here’s how:
 4. Run the**ipconfig /renew** command and see if the Unable to contact your dhcp server error is solved. If it’s still no joy, please continue with**Fix 5** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5 –**Disable IPv6 on your active connection**
@@ -150,16 +158,8 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/2.png)
 3. Under the **Networking** tab, uncheck the box next to **Internet Protocol version 6 (IPv6)** , then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/sharing12.jpg)
 4. Restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Check to see if the error message still occurs when you perform rge ipconfig command.
 
@@ -182,18 +182,22 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-chuckle-and-sob-with-these-top-10-instagram-meme-collectives/"><u>[New] Chuckle & Sob with These Top 10 Instagram Meme Collectives</u></a></li>
-<li><a href="https://fox-that.techidaily.com/depth-effect-not-working-in-ios-16-lock-screen-try-these-7-fixes/"><u>Depth Effect Not Working in iOS 16 Lock Screen? Try These 7 Fixes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-oneplus-nord-ce-3-lite-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone OnePlus Nord CE 3 Lite 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro with a Mask On</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-for-beginner-3d-lut-masters/"><u>In 2024, Step-by-Step for Beginner 3D LUT Masters</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-meizu-21-pro-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Meizu 21 Pro Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/repair-guide-for-aoc-screen-malfunction-compatibility-with-windows-11-devices/"><u>Repair Guide for AOC Screen Malfunction Compatibility with Windows 11 Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-solving-the-issue-when-microsoft-store-doesnt-launch/"><u>Resolved: Solving the Issue When Microsoft Store Doesn't Launch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-challenge-of-elevated-gpu-use-by-dwm-essential-fixes-for-windows-1011/"><u>Solving the Challenge of Elevated GPU Use by DWM - Essential Fixes for Windows 10/11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-definitive-solution-to-fix-a-missing-cursor-in-windows-11-operating-system/"><u>The Definitive Solution to Fix a Missing Cursor in Windows 11 Operating System</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/tp67-thermometer-by-thermopro-a-budget-friendly-choice-with-durability-concerns/"><u>TP67 Thermometer by ThermoPro - A Budget-Friendly Choice with Durability Concerns</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-repair-an-unresponsive-external-mouse-on-windowsmac/"><u>Troubleshoot and Repair an Unresponsive External Mouse on Windows/Mac</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/wevideo-the-fast-and-easy-way-to-create-online-videos-for-2024/"><u>WeVideo The Fast and Easy Way to Create Online Videos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-alert-the-active-input-timing-specification-is-ignored-by-the-display-unit/"><u>[FIXED] Alert! The Active Input Timing Specification Is Ignored by the Display Unit</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-premium-mac-and-pc-fullscreen-recording-apps-for-2024/"><u>[New] Premium Mac & PC Fullscreen Recording Apps for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-how-often-to-post-a-guide-to-youtube-video-upload-patterns-for-success/"><u>[Updated] How Often to Post A Guide to YouTube Video Upload Patterns for Success</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-anime-inspired-makeup-and-costume-ideas-for-tiktoks/"><u>[Updated] In 2024, Anime-Inspired Makeup & Costume Ideas for TikToks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-tailored-video-edits-for-exceptional-vimeo-content/"><u>2024 Approved Tailored Video Edits for Exceptional Vimeo Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-corsair-hs50-users-with-unresponsive-microphones/"><u>Effective Solutions for Corsair HS50 Users with Unresponsive Microphones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-ensure-your-hardware-is-synced-with-world-of-warcraft-driver-update-solutions/"><u>How to Ensure Your Hardware Is Synced with World of Warcraft - Driver Update Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-device-drivers-not-installed-on-windows-7/"><u>How to Resolve 'Device Drivers Not Installed' On Windows 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-xiaomi-redmi-a2plus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-a14-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Samsung Galaxy A14 5G?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-landscape-of-firefox-picture-in-picture/"><u>In 2024, Navigating the Landscape of Firefox Picture-in-Picture</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-typing-experience-with-a-quick-keyboard-reset-method/"><u>Revive Your Typing Experience with a Quick Keyboard Reset Method</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-unknown-usb-device-detected-error-port-reset-failure-on-windows-10/"><u>Solving the 'Unknown USB Device Detected' Error: Port Reset Failure on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-stabilizing-your-battle-royale-gaming-experience/"><u>Step-by-Step Guide: Stabilizing Your Battle Royale Gaming Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-access-control-system-glitches/"><u>Tackling Windows Access Control System Glitches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-methods-to-address-windows-sign-in-rejections/"><u>Top Methods to Address Windows Sign-In Rejections</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210885957-winning-the-battle-against-failed-feature-updates-in-windows-10-v1803-now-solved/"><u>Winning the Battle Against Failed Feature Updates in Windows 10 v1803 - Now Solved!</u></a></li>
 </ul></div>
 

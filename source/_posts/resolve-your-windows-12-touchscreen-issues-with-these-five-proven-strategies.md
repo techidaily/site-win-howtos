@@ -1,7 +1,7 @@
 ---
 title: Resolve Your Windows 1^[2]^ Touchscreen Issues with These Five Proven Strategies
-date: 2024-12-16T22:43:56.502Z
-updated: 2024-12-22T18:46:43.222Z
+date: 2025-01-08T16:17:42.207Z
+updated: 2025-01-13T16:01:42.547Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
 5. **[Download updates from Microsoft Update Catalog manually](#f5)**
 6. **[Pro tip: Want us to fix the problem for you?](#p)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Remove any USB peripherals and wait for the update process to finish
 
  If you seldom check for Windows updates, it may take a long time for Windows to complete the update process. Maybe your PC is not “stuck” at Windows update, and Windows is just configuring and installing update packages.
@@ -61,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
  If you still cannot access the desktop, you can try starting your PC in safe mode with the network. When you sign into your Windows system in safe mode with the network, try the next fix below to run the Windows Update troubleshooter.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Run Windows Update troubleshooter
@@ -75,14 +71,14 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
 2. In the pop-up window, select **Windows Update** and click **Run the troubleshooter** . You’ll be prompted for permission. Click **Yes** to run Windows Update troubleshooter.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap466-1.png)
 3. Click **Apply this fix** to continue.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap467-1.png)
@@ -98,13 +94,13 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Windows Update. Then wait for it to troubleshoot your issues.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-run-Windows-Update-troubleshooter.jpg)
 
  Perform a Windows update again to see if you can install the update. If this issue reappears, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reset Windows Update components
 
@@ -113,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to invoke the Run dialog. Type **cmd** and press **Ctrl** , **Shift** and **Enter** at the same time to **run Command Prompt as administrator** . You’ll be prompted for permission. Click **Yes** to open the Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap468-1.png)
 2. In Command Prompt, type the command lines below and press Enter on your keyboard after typing each:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  net stop bits  
  net stop wuauserv  
@@ -143,6 +135,10 @@ thumbnail: https://thmb.techidaily.com/623365f2ffae0d2d8c9a44d31ae5f64f961d3fb3d
 
  Check to see if this resolves your Windows Update problem. Hopefully, it did. But if not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Download updates from Microsoft Update Catalog manually
 
 **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  offers updates for Windows 2000 SP3 and later versions of the Windows operating system. You can try downloading the updates you failed to install from the Microsoft Update Catalog and install them manually to see if you can fix this issue.
@@ -168,17 +164,21 @@ Now, you can follow the steps below to download Windows updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap473-1.png)
 5. In the list of search results, select the correct update for your operating system and click **Download** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note: If your **Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap474-1.png)
 6. In the pop-up window, click the link to start downloading the updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap475-1.png)
 7. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your PC to see if this issue persists. If not, congratulations! You’ve resolved this annoying issue! But if this issue reappears, you can try the last fix, below.
 
@@ -208,24 +208,18 @@ Now, you can follow the steps below to download Windows updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-celestial-craftsmanship-perfecting-night-portraits-step-by-step/"><u>[New] 2024 Approved Celestial Craftsmanship Perfecting Night Portraits Step-by-Step</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-uninterrupted-adventures-top-10-best-offline-ios-titles/"><u>[New] Uninterrupted Adventures Top 10 Best Offline iOS Titles</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-standout-80s-aesthetics-for-video-editing-pros/"><u>[Updated] Standout '80S Aesthetics for Video Editing Pros</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-diy-ways-to-engage-with-advanced-chatbots/"><u>5 DIY Ways to Engage with Advanced Chatbots</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-correcting-the-frequent-disconnection-problem-in-your-personal-computer-mouse/"><u>Diagnosing and Correcting the Frequent Disconnection Problem in Your Personal Computer Mouse</u></a></li>
-<li><a href="https://win-special.techidaily.com/emeditor-version-2305-troubleshooting-guide-for-cannot-open-local-help/"><u>EmEditor Version 23.0.5 - Troubleshooting Guide for 'Cannot Open Local Help'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-successfully-setting-up-your-smartaudio-device-after-initial-hiccups/"><u>Guide: Successfully Setting Up Your SmartAudio Device After Initial Hiccups</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-to-improve-your-entire-lifestyle/"><u>How to Use ChatGPT to Improve Your Entire Lifestyle</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-review-of-the-samsung-galaxy-fit-boost-your-workouts-with-style/"><u>In-Depth Review of the Samsung Galaxy Fit: Boost Your Workouts with Style</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reducing-disk-overuse-from-ntoskrnlexe-on-systems/"><u>Reducing Disk Overuse From Ntoskrnl.exe on Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-couldnt-perform-action-for-windows-resources-issue-easily/"><u>Resolve 'Couldn't Perform Action for Windows Resources' Issue Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-audio-output-device-not-found-errors-for-windows-users/"><u>Step-by-Step Guide: Correcting 'Audio Output Device Not Found' Errors for Windows Users</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/tailoring-melodies-for-youtube-personalized-list-creation/"><u>Tailoring Melodies for YouTube Personalized List Creation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209781134-troubleshooting-intermittent-power-cycles-on-your-pc-solutions-found/"><u>Troubleshooting Intermittent Power Cycles on Your PC: Solutions Found!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fix-windows-11-display-brightness-issues/"><u>Troubleshooting: Fix Windows 11 Display Brightness Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-windows-drive-letter-not-found-errors/"><u>Understanding & Fixing Windows Drive Letter Not Found Errors</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-the-upgraded-2023-samsung-bd-j5900/"><u>Unveiling the Upgraded 2023 Samsung BD-J5900</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/web-integration-adding-youtube-playlists-easily-for-2024/"><u>Web Integration Adding YouTube Playlists Easily for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206126371-why-is-my-windows-10-taking-long-to-shut-down-solutions-inside/"><u>Why Is My Windows 10 Taking Long to Shut Down? Solutions Inside</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-captivating-copy-creator-pro/"><u>[New] Captivating Copy Creator Pro</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-efficient-tools-seamless-extraction-of-vimeo-media/"><u>[New] In 2024, Efficient Tools Seamless Extraction of Vimeo Media</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-securing-visuals-the-method-of-concealing-details/"><u>[New] In 2024, Securing Visuals The Method of Concealing Details</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2-proven-techniques-for-simplifying-mkv-file-tagging/"><u>2 Proven Techniques for Simplifying MKV File Tagging</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-minimizing-cpu-consumption-by-windows-drivers/"><u>Effective Solutions for Minimizing CPU Consumption by Windows Drivers</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/expert-advice-on-recovering-hidden-or-lost-names-from-iphones-contact-lists-top-10-methods-revealed/"><u>Expert Advice on Recovering Hidden or Lost Names From iPhones' Contact Lists – Top 10 Methods Revealed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-choice-8-best-converters-from-sub-to-srt-for-2024/"><u>Expert Choice 8 Best Converters From Sub to Srt for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-12plus-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Realme 12+ 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-file-explorer-in-windows-11-tips-and-tricks-for-a-better-experience/"><u>Mastering the File Explorer in Windows 11 - Tips and Tricks for a Better Experience</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/izing-impact-crafting-free-ad-videos-for-youtube-for-2024/"><u>Maximizing Impact Crafting Free Ad Videos for YouTube for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-microsoft-printing-error-in-pdf-mode-on-new-windows-eb/"><u>Step-by-Step Fix: Microsoft Printing Error in PDF Mode on New Windows Eb</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-successfully-overcoming-unresponsive-google-chrome-glitches/"><u>Troubleshooting Successfully: Overcoming Unresponsive Google Chrome Glitches</u></a></li>
 </ul></div>
 

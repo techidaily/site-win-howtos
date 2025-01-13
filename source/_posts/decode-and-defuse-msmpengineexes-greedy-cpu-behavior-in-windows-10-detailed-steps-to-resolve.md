@@ -1,7 +1,7 @@
 ---
 title: Decode and Defuse MsMpEngine.exe's Greedy CPU Behavior in Windows 10 - Detailed Steps to Resolve
-date: 2024-08-28T00:38:41.463Z
-updated: 2024-08-29T00:38:41.463Z
+date: 2025-01-12T16:38:11.659Z
+updated: 2025-01-13T16:15:17.004Z
 tags:
   - win11
   - win10
@@ -29,6 +29,11 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
  **5) [Perform a Clean Boot](https://tools.techidaily.com/drivereasy/download/)**
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1) Run Troubleshooter
 
  Windows 7 has a built-in**troubleshooter** that can help you troubleshoot problems on your system. You can run this tool to troubleshoot Windows Update when it is unable to download updates.
@@ -37,14 +42,31 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_597ff693eb337.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **b)**  In Troubleshooting window, select**Fix problems with Windows Update** under**System and Security** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_597ff84421654.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **c)**  In the windows popping up, click on**Next** , and then follow the instruction to troubleshoot Windows Update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_597ff8fd4f9fe.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2) Reset Windows Update service
 
 **Windows Update** **service** is a system service that enables users to use Windows Update. If there is any problem with Windows Update, you can try**resetting this service** to see if the problem resolves.
@@ -61,6 +83,11 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_597ffc9beeb8d.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3) Update Windows Update Agent
 
 **Windows Update Agent** is a built-in agent program that helps determine what updates your computer needs and download it from Microsoft.**Updating Windows Update Agent** can be useful for fixing Windows Updates not downloading issue. You can update this program by downloading it from Microsoft and install it on your own.
@@ -77,14 +104,8 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59801cbe34e35.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 **d)** After the completion of installation, restart your computer and see if this method can fix your problem.  
   
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## 4) Download updates manually
 
  When Windows Update cannot download those updates, you can**download and install them manually from Microsoft** . This can not only help you update your Windows 7 without using Windows Update, but probably fix the not downloading problem as well.
@@ -97,9 +118,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598023afb4dca.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 **c)**  In the list of updates available, note the**update code (the code starts with “KB”)** of the update you want to download.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598025fe09a03.jpg)
@@ -109,19 +127,21 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5980268a0d5db.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **e)**  Scroll down to find**Downloads** category in the search result. Click on the result you are going to download under this category.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59803ad03b1a3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **f)** **Download**  the update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598028499e747.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  _Click on**Download**_  .
 
  ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598029687b2c4.jpg)
@@ -134,11 +154,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
  You can install all your system updates one by one using the steps above. Though it can cost a lot of time, it is an effective way to update your Windows 7 when Windows Update is malfunctioning.  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## 5) Perform a Clean Boot
 
  If you have tried some methods and the issue persists, you need to check if there is any application that is interfering with Windows Update.
@@ -153,16 +168,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598030b608b16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **c)**  Go to**Services** tab. Tick**Hide all Microsoft services** . Then click on**Disable all** . (You need to hide all Microsoft services first, or you will disable some secure services and bring about unexpected consequences.) After that click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598034649315c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 **d)**  Restart your computer, and it will boot into clean boot state. Check and see whether you can download updates with Windows Update. If you can, refer to the steps above to**enable** **the services one by one** to identify which application is the culprit. After that, you can disable or uninstall the problematic program, or find an alternative in order to prevent the issue.
 
  \* Note that after finishing troubleshooting, you need to**revert** your changes to the settings above to the original ones.
@@ -175,8 +184,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +191,22 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-gotorhythms-top-pick-for-hearing-westerosi-songs/"><u>[Updated] 2024 Approved GoToRhythms Top Pick for Hearing Westerosi Songs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-altering-game-console-tones-ps5ps4-guide/"><u>[Updated] Altering Game Console Tones PS5/PS4 Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-banishing-black-edges-on-your-youtube-video/"><u>2024 Approved Banishing Black Edges on Your YouTube Video</u></a></li>
+<li><a href="https://win-help.techidaily.com/clonez-votre-ssda-data-simplement-avec-le-logiciel-free-to-use-aomei-backupper/"><u>Clonez Votre SSDA DATA Simplement Avec Le Logiciel Free-to-Use AOMEI Backupper!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-fix-how-to-restore-functionality-of-your-unresponsive-corsair-hs50-microphone/"><u>DIY Fix: How to Restore Functionality of Your Unresponsive Corsair HS50 Microphone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/elevate-your-presence-online-capture-high-definition-webcam-footage-in-vlc/"><u>Elevate Your Presence Online Capture High-Definition Webcam Footage in VLC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-track-solutions-for-smoothing-out-heathstone-lags/"><u>Fast-Track Solutions for Smoothing Out Heathstone Lags</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-address-and-repair-error-code-28-in-windows-device-manager/"><u>How to Correctly Address and Repair 'Error Code 28' In Windows Device Manager</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-metaverse-vs-omniverse-showdown-a-comprehensive-overview/"><u>In 2024, The Metaverse Vs. Omniverse Showdown A Comprehensive Overview</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-honor-x50i-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Honor X50i Android SIM Unlock APK</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-cutting-edge-gadgets-expert-insights-from-digitalpro-hub/"><u>Navigating Cutting Edge Gadgets: Expert Insights From DigitalPro Hub</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-mystery-how-to-fix-minecraft-error-code-5/"><u>Resolving the Mystery: How to Fix Minecraft Error Code 5</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210727692-revive-your-windows-7-audio-service-expert-tips-and-fixes-to-bring-back-sounds/"><u>Revive Your Windows 7 Audio Service - Expert Tips and Fixes to Bring Back Sounds!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/system-aligned-yet-one-component-unheard/"><u>System Aligned, Yet One Component Unheard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-why-your-device-wont-connect-via-bluetooth-on-windows-10/"><u>Troubleshooting Steps: Why Your Device Won't Connect via Bluetooth on Windows 10</u></a></li>
+</ul></div>
 

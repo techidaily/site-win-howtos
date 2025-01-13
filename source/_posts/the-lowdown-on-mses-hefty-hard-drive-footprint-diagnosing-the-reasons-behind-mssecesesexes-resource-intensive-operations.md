@@ -1,7 +1,7 @@
 ---
 title: "The Lowdown on MSE's Hefty Hard Drive Footprint: Diagnosing the Reasons Behind msseceses.exe's Resource-Intensive Operations"
-date: 2024-12-18T16:23:09.611Z
-updated: 2024-12-22T21:20:40.625Z
+date: 2025-01-07T16:44:22.419Z
+updated: 2025-01-13T17:46:40.627Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes for LiveKernelEvent with Code 144 error
 
  You don’t have to try all the following methods: simply work your way down the list until you find the one that does the trick to fix the LiveKernelEvent 144 error for you.
@@ -61,18 +57,14 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Repeat the same to remove the driver for your other display card if you have one.
@@ -82,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
@@ -127,21 +119,29 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 3. On the menu bar, select**View** , then **Show hidden devices.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-13.png)
 4. Double-click the expand the category**Universal Serial Bus controllers** . There should be some grey-out devices there.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-14.png)
 5. Right-click one of the grey-out devices you see here and select**Uninstall.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-15.png)
 6. Click**Uninstall** to confirm.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-16.png)
 7. Repeat the same to remove all the other grey-out devices you see here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Restart your computer afterward.
 9. Then plug the USB devices back into your computer one by one, preferably into the USB outputs on your computer rather than USB hubs or docks.
@@ -171,6 +171,10 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Repair damaged system files
 
 **Corrupted or damaged system files** could also relate to problems like LiveKernelEvent with code 144 error. By repairing the core Windows system files, it may resolve conflicts, missing DLL issues, registry errors, and other problems that contribute to the instability of your computer performance. Tools like **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  can automate the repair process by scanning system files and replacing corrupted ones.
@@ -179,10 +183,6 @@ To do so, first visit the website of your GPU manufacturer:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -193,6 +193,10 @@ To do so, first visit the website of your GPU manufacturer:
  Then see if the LiveKernelEvent 144 error happens again. If so, please move further.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Consider a system reinstall
 
@@ -205,10 +209,6 @@ To do so, first visit the website of your GPU manufacturer:
 Then see if the LiveKernelEvent 144 error is still seen.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Seek help from a hardware technician
 
@@ -237,20 +237,24 @@ Then see if the LiveKernelEvent 144 error is still seen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/solved-laptop-keyboard-not-working/"><u>[Solved] Laptop Keyboard Not Working</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/breaking-through-the-blockage-a-guide-to-resolving-destiny-2s-start-up-stuck-point/"><u>Breaking Through the Blockage: A Guide to Resolving Destiny 2'S Start-Up Stuck Point</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-overcoming-audio-hurdles-for-headphones-with-windows-11/"><u>Expert Tips: Overcoming Audio Hurdles for Headphones with Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-unresponsive-sound-feature-in-windows-7-a-step-by-step-guide/"><u>Fixing the Unresponsive Sound Feature in Windows 7: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-edge-40-prowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Edge 40 Prowith/without a PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-long-can-chatgpts-text-replies-be-before-reaching-the-cap/"><u>How Long Can ChatGPT's Text Replies Be Before Reaching the Cap?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-y100a-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo Y100A</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-magic-6-lite-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor Magic 6 Lite to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-xiaomi-redmi-a2-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Xiaomi Redmi A2 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-the-latest-epson-wf-3540-printer-drivers-on-your-windows-machine/"><u>Installing the Latest Epson WF- 3540 Printer Drivers on Your Windows Machine</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-initial-dark-screen-error-in-monster-hunter-world-gameplay/"><u>Overcoming the Initial Dark Screen Error in Monster Hunter: World Gameplay</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-common-opengl-issues-in-minecraft-a-step-by-step-guide/"><u>Solving Common OpenGL Issues in Minecraft: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-issue-excessive-cpu-consumption-by-msmpengine-in-windows-10-systems/"><u>Solving the Issue: Excessive CPU Consumption by MsMpEngine in Windows 10 Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-tools-for-efficient-video-capture-on-windows-11/"><u>[New] 2024 Approved Top Tools for Efficient Video Capture on Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-deciphering-how-to-spot-your-video-enthusiasts-for-2024/"><u>[New] Deciphering How to Spot Your Video Enthusiasts for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-fly-high-with-gopro-karma-an-insiders-review-for-2024/"><u>[New] Fly High with GoPro Karma An Insider's Review for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-essential-offline-ios-game-list-unplugged-fun-awaits/"><u>[Updated] 2024 Approved Essential Offline iOS Game List - Unplugged Fun Awaits</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-entrepreneurs-blueprint-for-profiting-from-video-content/"><u>[Updated] The Entrepreneur's Blueprint for Profiting From Video Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-rhythm-raiders-your-guide-to-downloading-skype-melodies/"><u>2024 Approved Rhythm Raiders Your Guide to Downloading Skype Melodies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-funny-photo-editor/"><u>2024 Approved Ultimate Funny Photo Editor</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-unlocking-hidden-potential-how-to-use-video-filters-on-zoom/"><u>2024 Approved Unlocking Hidden Potential How To Use Video Filters on Zoom</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/asus-zenbook-s16-review-an-insightful-look-at-its-performance-powered-by-amd-ryzen-ai-9-hx-370/"><u>Asus Zenbook S16 Review: An Insightful Look at Its Performance Powered by AMD Ryzen AI 9 HX 370</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-to-overcome-minecraft-opengl-errors-quickly/"><u>Comprehensive Fixes to Overcome Minecraft OpenGL Errors Quickly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-common-minecraft-opengl-errors-get-started-now/"><u>Easy Fixes for Common Minecraft OpenGL Errors - Get Started Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-that-frozen-trackpad-effective-techniques-to-restore-laptop-functionality/"><u>Fix That Frozen Trackpad: Effective Techniques to Restore Laptop Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-windows-10-update-error-0xc1900208-a-step-by-step-guide/"><u>How to Fix the Windows 10 Update Error 0xC1900208 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-windows-11-touchpad-working-perfectly-again/"><u>How To Get Your Windows 11 Touchpad Working Perfectly Again</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-premier-video-symposium-life-past-vidcon/"><u>In 2024, The Premier Video Symposium Life Past VidCon</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pale-panel-power-perplexity/"><u>Pale Panel: Power Perplexity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-when-your-usb-flash-drive-wont-show-up/"><u>Quick Fixes for When Your USB Flash Drive Won't Show Up</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-youtube-audio-issues-a-comprehensive-fix-for-sound-problems-in-windows-10/"><u>Resolving YouTube Audio Issues: A Comprehensive Fix for Sound Problems in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-non-functional-asus-webcam-in-windows-10/"><u>Troubleshooting a Non-Functional ASUS Webcam in Windows 10</u></a></li>
 </ul></div>
 

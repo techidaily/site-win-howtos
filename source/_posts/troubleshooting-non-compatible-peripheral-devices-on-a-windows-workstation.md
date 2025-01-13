@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Compatible Peripheral Devices on a Windows Workstation
-date: 2024-12-18T23:01:36.874Z
-updated: 2024-12-23T00:29:18.476Z
+date: 2025-01-08T16:22:30.689Z
+updated: 2025-01-13T16:15:16.699Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
  To check if the USB device is faulty, simply unplug it (‘Eject’ it if it’s a USB storage device) and plug it into another computer. If it works, the device is fine. If it doesn’t, then you’ve isolated the problem! You just need to buy a replacement.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Method 2: Check your power supply (laptop only)**
 
  Your laptop’s power supply delivers power to your USB ports. If, for some reason, it fails to do this properly, the devices plugged into those USB ports may stop working. Sometimes, this can be fixed quite simply:
@@ -52,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 4) Plug the power supply back in
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 3: Check your power management settings**
 
  In order to save power, by default, Windows switches your USB controllers off when they’re not in use, and switches them back on again when they’re needed. Unfortunately, sometimes this approach doesn’t work as intended, and Windows fails to switch your USB controllers on again.
@@ -63,28 +63,24 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Expand the**Universal Serial Bus controllers** branch
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Double-click the first **USB Root Hub** device in the list (if you see only one USB Root Hub device, that’s fine)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click the **Power Management**  tab  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342d99c355a.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Un-check the **Allow the computer to turn off this device to save power**  checkbox, and click **OK** .
 
@@ -109,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594841d4c15c1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
@@ -117,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
  Or click**Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5948dbf290aa4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -142,19 +142,20 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-tailor-your-space-the-best-apps-to-create-engaging-youtube-themes/"><u>[Updated] 2024 Approved Tailor Your Space The Best Apps to Create Engaging YouTube Themes</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-step-by-step-implementing-chromes-pip-multiscreen-functionality/"><u>[Updated] Step-by-Step Implementing Chrome’s PIP Multiscreen Functionality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/academic-breakthroughs-through-ai-techniques/"><u>Academic Breakthroughs Through AI Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypass-the-unable-to-play-video-hurdle-a-step-by-step-guide-on-handling-code-224003/"><u>Bypass the 'Unable to Play Video' Hurdle: A Step-by-Step Guide on Handling Code 224003</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/code-39-glitches-on-your-pc-heres-how-you-can-fix-them/"><u>Code 39 Glitches on Your PC? Here's How You Can Fix Them</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/deep-dive-inside-the-dji-inspire-2/"><u>Deep Dive Inside the DJI Inspire 2</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experience-the-future-of-communication-with-apples-latest-iphone-release/"><u>Experience The Future of Communication with Apple's Latest iPhone Release</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-crashing-in-total-war-rome-remastered-complete-guide/"><u>How to Fix Crashing in Total War: Rome Remastered - Complete Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/illuminate-the-path-ahead-strategies-for-dealing-with-monster-hunter-worldcups-blackout-at-boot-and-ensuring-a-colorful-comeback/"><u>Illuminate the Path Ahead - Strategies for Dealing with Monster Hunter: World'cups Blackout at Boot and Ensuring a Colorful Comeback</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-adding-chronological-markers-to-youtube-media/"><u>In 2024, Adding Chronological Markers to YouTube Media</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/mastery-in-minimal-spending-finding-instagrams-free-filter-cache-for-2024/"><u>Mastery in Minimal Spending Finding Instagram’s Free Filter Cache for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-troubleshooting-fixing-modern-warfare-game-crashes-and-freezes/"><u>PC Troubleshooting: Fixing Modern Warfare Game Crashes and Freezes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/rectifying-the-missing-audio-hardware-message-in-windows-11-systems/"><u>Rectifying the Missing Audio Hardware Message in Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-malfunctioning-keyboard-typing-issue/"><u>Resolved: Malfunctioning Keyboard Typing Issue</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-ryans-wealth-wonders-a-kids-fortune-in-the-streaming-space/"><u>[New] In 2024, Ryan’s Wealth Wonders A Kid's Fortune in the Streaming Space</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-step-by-step-guide-to-nba-streaming-top-15-essentials/"><u>[New] In 2024, Step-by-Step Guide to NBA Streaming - Top 15 Essentials</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ey-elements-in-asmr-video-content/"><u>[New] Key Elements in ASMR Video Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-brighten-your-video-with-android-tricks-for-2024/"><u>[Updated] Brighten Your Video with Android Tricks for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014956804-counter-strike-2-mic-not-functional-heres-your-step-by-step-fix/"><u>Counter-Strike 2 Mic Not Functional? Here's Your Step-by-Step Fix</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-drivers-for-canon-mg3600-printer/"><u>Download and Update Drivers for Canon MG3600 Printer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/find-the-start-button-on-windows-10/"><u>Find The Start Button on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/finding-companion-cameras-for-windows-hello-effortlessly/"><u>Finding Companion Cameras for Windows Hello Effortlessly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfecting-cgi-in-depth-tutorial-for-kinemaster-users/"><u>In 2024, Perfecting CGI In-Depth Tutorial for Kinemaster Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-steam-missing-files-issue-regain-your-full-game-access/"><u>Solving the Steam Missing Files Issue: Regain Your Full Game Access</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-ce-34878-0-playstation-4-error-message-updated-solution/"><u>Step-by-Step Fix for CE-34878-0 Playstation 4 Error Message [UPDATED SOLUTION]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-getting-your-windows-optical-drives-back-to-working-order/"><u>Step-by-Step Tutorial: Getting Your Windows Optical Drives Back to Working Order</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/the-ultimate-guide-how-to-securely-retrieve-youtube-captions/"><u>The Ultimate Guide: How to Securely Retrieve YouTube Captions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-malfunctioning-shift-key-proven-fixes-you-can-apply-today/"><u>Troubleshooting a Malfunctioning Shift Key - Proven Fixes You Can Apply Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-a-hanging-or-stuck-windows-10-computer/"><u>Troubleshooting Tips for a Hanging or Stuck Windows 10 Computer</u></a></li>
 </ul></div>
 

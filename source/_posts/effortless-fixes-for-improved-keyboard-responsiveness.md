@@ -1,7 +1,7 @@
 ---
 title: Effortless Fixes for Improved Keyboard Responsiveness
-date: 2024-11-06T22:45:17.324Z
-updated: 2024-11-07T22:38:01.612Z
+date: 2025-01-10T17:50:36.631Z
+updated: 2025-01-13T17:07:01.130Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/c88c76635d5e0629581e4fd4108916cee892ed1d4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -34,10 +38,7 @@ thumbnail: https://thmb.techidaily.com/c88c76635d5e0629581e4fd4108916cee892ed1d4
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
@@ -51,10 +52,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
@@ -66,13 +64,6 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -122,19 +113,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -144,16 +122,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -170,6 +145,10 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -205,17 +184,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boost-visibility-with-customized-channel-names/"><u>[New] 2024 Approved Boost Visibility with Customized Channel Names</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expanding-creative-horizons-with-ae-fonts/"><u>[New] Expanding Creative Horizons with AE Fonts</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-livestream-audiovideo-creators-hub/"><u>[Updated] LiveStream Audio/Video Creators Hub</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-cinematic-vision-top-camera-stabilizers-reviewed/"><u>Clear Cinematic Vision - Top Camera Stabilizers Reviewed</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/dissecting-the-sony-xperia-5-an-impressive-albeit-expensive-handset/"><u>Dissecting the Sony Xperia 5: An Impressive, Albeit Expensive Handset</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-successful-torrent-downloads-an-in-depth-guide-for-newbies/"><u>Easy Steps to Successful Torrent Downloads: An In-Depth Guide for Newbies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-restore-print-screen-functionality-on-windows-11-and-windows-10/"><u>Fixing the Issue: How to Restore Print Screen Functionality on Windows 11 & Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/origin-players-handbook-fixing-problematic-game-configurations-and-enjoying-uninterrupted-play/"><u>Origin Player's Handbook: Fixing Problematic Game Configurations and Enjoying Uninterrupted Play</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/screen-shutdown-unexpected-blackout/"><u>Screen Shutdown: Unexpected Blackout</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/secure-your-data-mastering-dvd-duplication-and-conversion-to-iso-with-winx-dvd-copy-software-tutorial/"><u>Secure Your Data: Mastering DVD Duplication & Conversion to ISO with WinX DVD Copy Software Tutorial</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-20-best-gamer-progress-tools/"><u>Top 20 Best Gamer Progress Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-sluggish-windows-10-closing-problems/"><u>Troubleshooting and Fixing Sluggish Windows 10 Closing Problems</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-how-to-acquire-version-6-of-windows-movie-maker/"><u>[New] 2024 Approved How to Acquire Version 6 of Windows Movie Maker</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-adepts-handbook-to-fullscreen-features-in-premiere-pro/"><u>[New] Adept's Handbook to Fullscreen Features in Premiere Pro</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-xbox-hdd-guide-top-5-essential-reviews/"><u>[New] Xbox HDD Guide Top 5 Essential Reviews</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-banishing-facebook-broadcasts-from-laptoptablet-for-2024/"><u>[Updated] Banishing Facebook Broadcasts From Laptop/Tablet for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-enhance-visibility-must-have-youtube-seo-tactics-explained/"><u>[Updated] Enhance Visibility Must-Have YouTube SEO Tactics Explained</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-capturing-life-on-a-macbook-air-the-comprehensive-guide-to-screen-recording/"><u>2024 Approved Capturing Life on a MacBook Air The Comprehensive Guide to Screen Recording</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/babelhub-dubai-the-new-frontier-for-language-enthusiasts/"><u>BabelHub Dubai: The New Frontier for Language Enthusiasts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fintie-protective-case-for-macbook-pro-13-review/"><u>Fintie Protective Case for MacBook Pro 13 Review</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-connectivity-for-your-minecraft-local-network-gameplay/"><u>How To Restore Connectivity For Your Minecraft Local Network Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lenovo-function-fn-key-malfunction-fast-and-simple-solutions/"><u>Lenovo Function (Fn) Key Malfunction: Fast and Simple Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-0x80070490-issue-on-your-pc-complete-fix-guide/"><u>Solving the 0X80070490 Issue on Your PC - Complete Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-loadlibrary-failed-fixing-the-problem-of-error-87-in-windows/"><u>Troubleshooting 'LoadLibrary Failed' - Fixing the Problem of Error 87 in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-1011-issue-frozen-acer-laptop-keys/"><u>Windows 10/11 Issue: Frozen Acer Laptop Keys</u></a></li>
 </ul></div>
 

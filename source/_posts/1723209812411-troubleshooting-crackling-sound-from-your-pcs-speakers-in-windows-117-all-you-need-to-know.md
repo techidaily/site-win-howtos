@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Crackling Sound From Your PC's Speakers in Windows 11/7 - All You Need To Know.
-date: 2024-12-16T17:42:35.114Z
-updated: 2024-12-22T18:26:02.834Z
+date: 2025-01-09T17:24:20.861Z
+updated: 2025-01-13T16:22:12.342Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes for speakers crackling
 
  All the screenshots below are from**Windows 10** , but the fixes also work in**Windows 7** .
@@ -40,6 +36,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -48,12 +48,12 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
@@ -84,6 +84,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust **the minimum processor state**
 
  Adjusting**the minimum processor state** , as reported by many users, is another effective way to fix the annoying sound problem in our speaker. To do so:
@@ -93,22 +97,18 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Click the **High performance** option > **Change plan settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
@@ -137,22 +137,19 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-quick-path-to-virtual-self-building-metaverse-profiles/"><u>[New] In 2024, Quick Path to Virtual Self Building Metaverse Profiles</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-innovative-gadgets-ranked-11-auditory-capture-guide/"><u>[Updated] In 2024, Innovative Gadgets Ranked #11 Auditory Capture Guide</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-premium-fb-video-tools-optimized-for-firefox-users/"><u>2024 Approved Premium FB Video Tools - Optimized For FireFox Users</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-11-pro-max-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 11 Pro Max</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-local-area-network-lan-problems-in-minecraft-quickly/"><u>How To Repair Local Area Network (LAN) Problems in Minecraft Quickly!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-connection-to-configuration-services-unavailable-problems/"><u>How To Resolve 'Connection to Configuration Services Unavailable' Problems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-green-screen-journey-begins-on-yt-ideas-take-flight/"><u>In 2024, Green Screen Journey Begins on YT, Ideas Take Flight</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-exeapplication-error-fixed-stopped-working-issue/"><u>Resolved: Exe.Application Error - Fixed 'Stopped Working' Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-computers-sound-fixes-for-common-windows-audio-problems/"><u>Revive Your Computer's Sound - Fixes for Common Windows Audio Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-your-windows-pcs-built-in-camera-issues-a-step-by-step-guide/"><u>Solving Your Windows PC's Built-In Camera Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/step-by-step-subtitle-insertion-for-vimeo-videos-for-2024/"><u>Step-by-Step Subtitle Insertion for Vimeo Videos for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-dns-problems-in-chrome-the-errhostnamerequired-tutorial/"><u>Troubleshoot and Fix DNS Problems in Chrome: The ERR_HOSTNAME_REQUIRED Tutorial</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-audio-glitches-in-youtube-videos-on-windows-11/"><u>Troubleshooting and Fixing Audio Glitches in YouTube Videos on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-lenovo-mouse-pad-issues-on-windows-10-8-and-7-a-complete-fix-guide/"><u>Troubleshooting Lenovo Mouse Pad Issues on Windows 10, 8 & 7 – A Complete Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-numeric-buttons-a-step-by-score-guide/"><u>Troubleshooting Non-Functional Numeric Buttons: A Step-by-Score Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-common-opengl-issues-in-minecraft/"><u>Ultimate Guide: Solving Common OpenGL Issues in Minecraft</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ake-a-statement-with-free-profile-pics-for-2024/"><u>[New] Make a Statement With Free Profile Pics for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-streamlining-your-podcast-for-apple-platform-access-for-2024/"><u>[New] Streamlining Your Podcast for Apple Platform Access for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-the-apple-studio-display-firsthand-a-sleek-costly-marvel-for-mac-enthusiasts-exclusive-insight/"><u>Experience the Apple Studio Display Firsthand: A Sleek, Costly Marvel for Mac Enthusiasts Exclusive Insight</u></a></li>
+<li><a href="https://fox-making.techidaily.com/follow-the-instructions-provided-by-the-recovery-tool-to-scan-and-recover-your-deleted-mlv-files/"><u>Follow the Instructions Provided by the Recovery Tool to Scan and Recover Your Deleted MLV Files.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-magic-6-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Magic 6</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207863980-pdf-printing-problems-quick-fixes-to-get-your-document-out/"><u>PDF Printing Problems? Quick Fixes to Get Your Document Out</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapid-download-nvidia-gtx-750-ti-update/"><u>Rapid Download: NVIDIA GTX 750 Ti Update</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/reverse-video-order-on-your-ios-gadget/"><u>Reverse Video Order on Your iOS Gadget</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-the-infamous-red-screen-problem-a-complete-fix-guide/"><u>Tackling the Infamous 'Red Screen' Problem: A Complete Fix Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-decision-matrix-macbook-pro-vs-macbook-air-showdown-expert-advice-on-picking-the-right-apple-device/"><u>Ultimate Decision Matrix: MacBook Pro Vs. MacBook Air Showdown | Expert Advice on Picking the Right Apple Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-epson-scan-communication-issues/"><u>Unlocking Epson Scan Communication Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vcruntime140dll-not-found-heres-how-you-can-resolve-it/"><u>VCRUNTIME140.dll Not Found? Here's How You Can Resolve It!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ve-been-exploring-why-consumers-still-opt-for-macbook-pros-despite-display-damage-a-deeper-look-into-this-phenomenon-with-data-and-expert-opinions-as-report63/"><u>Ve Been Exploring Why Consumers Still Opt for MacBook Pros Despite Display Damage. A Deeper Look Into This Phenomenon with Data and Expert Opinions as Reported .</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211838378-your-sds-silence-uncover-solutions/"><u>Your SD's Silence? Uncover Solutions!</u></a></li>
 </ul></div>
 

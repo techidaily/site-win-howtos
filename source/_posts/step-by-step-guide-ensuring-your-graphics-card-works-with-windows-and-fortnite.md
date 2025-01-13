@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Ensuring Your Graphics Card Works with Windows & Fortnite"
-date: 2024-09-05T10:00:22.455Z
-updated: 2024-09-06T10:00:22.455Z
+date: 2025-01-07T16:57:03.730Z
+updated: 2025-01-13T17:23:05.946Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Step-by-Step Guide: Ensuring Your Graphics Card
 thumbnail: https://thmb.techidaily.com/4f70f650b6f9e154154b14a23a923935cddb729dccba03ae23bb5479d56f059d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshooting Guide for Non-Working Mic on SteelSeries Arctis 5: A Step-by-Step Solution
 
  Is your **SteelSeries Arctis 5 Mic Not Working** ? You’re not alone – many users have reported similar issues. But don’t worry, it’s often quite easy to fix…
@@ -32,12 +26,6 @@ thumbnail: https://thmb.techidaily.com/4f70f650b6f9e154154b14a23a923935cddb729dc
 3. [**Adjust your audio settings**](#F3)
 4. [**Install the latest SteelSeries Engine software**](#F4)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Allow access to microphone
 
  If your **SteelSeries Arctis 5 microphone is not working** , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -49,31 +37,25 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
 ---
@@ -96,6 +78,10 @@ Here’s how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -107,23 +93,16 @@ To do so:
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
@@ -150,8 +129,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +136,26 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-clip-on-lens-accessories-and-stabilizers-for-2024/"><u>[New] Clip-On Lens Accessories and Stabilizers for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-audio-enhancement-strategies-using-premiere-pro/"><u>[Updated] 2024 Approved Audio Enhancement Strategies Using Premiere Pro</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-harness-youtubes-power-25-steps-to-prominence-and-recognition/"><u>[Updated] 2024 Approved Harness YouTube's Power 25 Steps to Prominence and Recognition</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-infusing-fun-in-feeds-animating-instagram-text-on-stories/"><u>[Updated] 2024 Approved Infusing Fun in Feeds Animating Instagram Text on Stories</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-chart-your-course-to-youtube-success-with-these-techniques/"><u>[Updated] In 2024, Chart Your Course to YouTube Success with These Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-future-of-storage-cutting-edge-cost-effective-solutions/"><u>2024 Approved Future of Storage Cutting-Edge, Cost-Effective Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-methods-to-restore-functionality-of-a-faulty-lenovo-keyboard/"><u>Effective Methods to Restore Functionality of a Faulty Lenovo Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-accelerate-windows-7-boot-times/"><u>Effective Solutions to Accelerate Windows 7 Boot Times</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-diagnosing-and-repairing-error-0x8024a105-during-windows-update-cycle/"><u>Effective Strategies for Diagnosing and Repairing Error 0X8024A105 During Windows Update Cycle</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-windows-sign-in-problems-fixing-user-profile-service-errors/"><u>How To Repair Windows Sign-In Problems: Fixing User Profile Service Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/immediate-ways-to-correct-non-functioning-voice-chat-in-overwatch/"><u>Immediate Ways to Correct Non-Functioning Voice Chat in Overwatch</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-infusing-instagram-reels-with-tunes-and-narration/"><u>In 2024, Infusing Instagram Reels with Tunes & Narration</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastery-of-wi-fi-coverage-with-linksys-velop-an-in-depth-review-for-advanced-routers/"><u>Mastery of Wi-Fi Coverage with Linksys Velop - An In-Depth Review for Advanced Routers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-defective-usb-connections-expert-tips/"><u>Quick Fixes for Defective USB Connections - Expert Tips</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211254022-9798869219206-redencion/"><u>Redención | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-microsofts-pdf-conversion-problems-in-windows-10-and-11-operating-systems/"><u>Resolving Microsoft's PDF Conversion Problems in Windows 10 & 11 Operating Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-dns-server-unreachable-issues-in-5-steps/"><u>Troubleshooting Guide: Resolving 'DNS Server Unreachable' Issues in 5 Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-what-steps-should-you-take-if-your-torrent-fails-to-download/"><u>Troubleshooting Guide: What Steps Should You Take If Your Torrent Fails to Download?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Invalid Path? Here's Your Guide to Fixing the Wrong Directory Name Error
-date: 2024-12-16T23:35:55.496Z
-updated: 2024-12-22T22:20:21.710Z
+date: 2025-01-06T16:27:16.070Z
+updated: 2025-01-13T17:37:36.070Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 6 fixes that have helped other users resolve their arrow keys not working issue. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -44,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check hardware issues
@@ -66,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 
@@ -82,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
@@ -105,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable the Scroll Lock key
 
  If the arrow keys are not working as intended in**Excel** , try**disabling the Scroll Lock key** to fix the problem. If the Scroll Lock key is enabled, the whole page will move when you press any of the arrow keys, but the selected cell won’t change. So if you just want to use the arrow keys to move between different cells, you should turn off the Scroll Lock key.
@@ -115,7 +111,15 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this method didn’t work for you, check out the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Run Keyboard Troubleshooter
 
@@ -128,7 +132,7 @@ If this method didn’t work for you, check out the last fix.
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
@@ -138,7 +142,7 @@ If this method didn’t work for you, check out the last fix.
 4. Follow the on-screen instructions to fix the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### on Windows 11
@@ -147,10 +151,6 @@ If this method didn’t work for you, check out the last fix.
 2. Select**System** . Scroll down and click**Troubleshoot** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
@@ -176,17 +176,17 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-ultimate-guide-to-smooth-audio-crossfade/"><u>[New] 2024 Approved The Ultimate Guide to Smooth Audio Crossfade</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-x-digital-editor-pc-compatibility/"><u>[New] In 2024, X-Digital Editor PC Compatibility</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-high-end-sound-pumping-tools-pcs-and-smartphones/"><u>[Updated] In 2024, High-End Sound Pumping Tools PCs & Smartphones</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-navigating-ig-success-a-guide-to-best-management-tools/"><u>[Updated] In 2024, Navigating IG Success A Guide to Best Management Tools</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-art-of-analytic-assessment-in-the-youtube-sphere/"><u>2024 Approved The Art of Analytic Assessment in the YouTube Sphere</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-youtube-audio-renderer-error-for-a-smooth-streaming-experience-on-windows-10/"><u>Fixing the YouTube Audio Renderer Error for a Smooth Streaming Experience on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-past-valorants-unending-load-up-expert-advice-for-a-smooth-game-start/"><u>Get Past Valorant's Unending Load Up: Expert Advice for a Smooth Game Start</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/guide-complet-pour-activer-et-gerer-les-sauvegardes-automatiques-avec-windows-11-sur-microsoft-onedrive/"><u>Guide Complet Pour Activer Et Gérer Les Sauvegardes Automatiques Avec Windows 11 Sur Microsoft OneDrive</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-screen-lock-difficulties-fix-your-guided-access-woes-with-these-6-tips/"><u>IPhone Screen Lock Difficulties? Fix Your Guided Access Woes with These 6 Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/lower-high-wmi-cpu-usage-on-pcs/"><u>Lower High WMI CPU Usage on PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-to-the-home-screen-finding-start-in-windows-11-made-easy/"><u>Navigating to the Home Screen: Finding 'Start' In Windows 11 Made Easy</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-for-when-your-dell-wireless-keyboard-stops-working/"><u>Solutions for When Your Dell Wireless Keyboard Stops Working</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-editors-dream-machine-top-portable-video-edits-tools/"><u>[Updated] 2024 Approved Editor's Dream Machine Top Portable Video Edits Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leading-lights-pioneering-video-and-sound-makers/"><u>[Updated] Leading Lights Pioneering Video & Sound Makers</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-tecno-pop-7-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-connection-problems-a-comprehensive-approach-to-repairing-non-working-usb-mouse-and-keyboard-on-pcs-running-windows-7/"><u>Diagnosing Connection Problems: A Comprehensive Approach to Repairing Non-Working USB Mouse & Keyboard on PCs Running Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-when-your-windows-10-system-freezes/"><u>Effective Solutions When Your Windows 10 System Freezes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-insufficient-space-warnings-in-command-line-operations/"><u>How to Overcome Insufficient Space Warnings in Command Line Operations</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-enigmatic-slow-motion-documentary/"><u>In 2024, Enigmatic Slow-Motion Documentary</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-harmonizing-music-migration-from-one-service-to-another/"><u>In 2024, Harmonizing Music Migration From One Service to Another</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mkv-a-pdf-gratuito-converte-con-la-piu-semplice-soluzione-online-di-movavi/"><u>MKV a PDF Gratuito: Converte Con La Più Semplice Soluzione Online Di Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-challenges-how-teredo-failed-to-meet-requirements/"><u>Overcoming Challenges: How Teredo Failed to Meet Requirements</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-login-issues-restoring-keyboard-functionality-pre-login/"><u>Resolving Login Issues: Restoring Keyboard Functionality Pre-Login</u></a></li>
+<li><a href="https://win11.techidaily.com/the-optimal-way-to-play-classic-adventures-in-full-hd-with-scummvm-on-windows/"><u>The Optimal Way to Play Classic Adventures in Full HD With ScummVM on Windows</u></a></li>
 </ul></div>
 

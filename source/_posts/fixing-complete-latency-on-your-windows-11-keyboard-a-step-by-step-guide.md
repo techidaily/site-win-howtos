@@ -1,7 +1,7 @@
 ---
 title: "Fixing Complete Latency on Your Windows 11 Keyboard: A Step-by-Step Guide"
-date: 2024-12-19T00:40:46.058Z
-updated: 2024-12-22T22:56:18.279Z
+date: 2025-01-12T16:46:02.087Z
+updated: 2025-01-13T17:20:03.074Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix Shift key not working?
@@ -61,20 +61,20 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
@@ -87,16 +87,12 @@ Follow these:
 
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
@@ -123,6 +119,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer and try to press the Shift key to see if it works.
 
 * [keyboard](https://bellelily.pxf.io/m5azgm)
@@ -142,22 +142,19 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-high-speed-recording-tool-with-guided-soundtracks/"><u>[New] 2024 Approved High-Speed Recording Tool with Guided Soundtracks</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-velocity-in-virtue-share-your-youtube-lists-fast/"><u>[Updated] 2024 Approved Velocity in Virtue Share Your YouTube Lists Fast</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-decoding-the-functions-of-a-virtual-reality-helmet/"><u>[Updated] Decoding The Functions Of A Virtual Reality Helmet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5asa5qey44gq5yuv55s744kz44os44kv44k344on44oz44gr5yq55p6c55qe44gr44kv44oq44od44ox44ks6ywn572u44gz44kl5oqa6kgt/"><u>多様な動画コレクションに効果的にクリップを配置する技術</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-vcruntime140dll-error-and-launch-your-windows-11-apps-without-issues-solutions-inside/"><u>Fix VCRUNTIME140.dll Error & Launch Your Windows 11 Apps Without Issues – Solutions Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-address-and-repair-issues-with-an-inactive-lenovo-keyboard/"><u>How to Address and Repair Issues with an Inactive Lenovo Keyboard</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>How to identify some outdated drivers with Windows Device Manager on Windows 7</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oneplus-11r-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus 11R Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-iphones-best-5-podcasting-apps/"><u>In 2024, The Ultimate Guide to iPhone's Best 5 Podcasting Apps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/itop-screen-recorder-review-should-you-install-it/"><u>ITop Screen Recorder Review Should You Install It?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-input-delay-no-more-a-guide-to-tackle-window-11-typing-lags/"><u>Keyboard Input Delay No More – A Guide to Tackle Window 11 Typing Lags</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-missing-bluetooth-in-windows-10-systems/"><u>Quick Fixes for Missing Bluetooth in Windows 10 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-troubleshooting-minecrafts-opengl-issues/"><u>Step-by-Step Guide: Troubleshooting Minecraft's OpenGL Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-dns-server-issues-discover-4-simple-fixes/"><u>Troubleshooting DNS Server Issues: Discover 4 Simple Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-restore-your-windows-11-start-menu/"><u>Troubleshooting Tips: Restore Your Windows 11 Start Menu</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-correcting-printer-error-code-30-for-seamless-printing-experience/"><u>Understanding and Correcting Printer Error Code -30 for Seamless Printing Experience</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/unleash-the-fun-of-jumping-into-tiktok-lives-for-2024/"><u>Unleash the Fun of Jumping Into TikTok Lives for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-mastering-the-art-of-cropping-in-the-digital-age/"><u>[New] Mastering the Art of Cropping in the Digital Age</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-navigating-the-world-of-tweets-starting-fresh-for-2024/"><u>[Updated] Navigating the World of Tweets Starting Fresh for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-premier-career-boosting-classes-on-linkedin-platform/"><u>2024'S Premier Career-Boosting Classes on LinkedIn Platform</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bringing-life-back-to-darkened-mac-and-windows-keyboards-fixes-inside/"><u>Bringing Life Back to Darkened Mac & Windows Keyboards – Fixes Inside</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171243140-chatgpt-now-available-dive-into-these-6-games/"><u>ChatGPT Now Available - Dive Into These 6 Games!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-tips-for-resolving-missing-binkw32dll-errors-on-your-pc/"><u>Essential Tips for Resolving Missing binkw32.dll Errors on Your PC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-iphone-6-by-drfone-ios/"><u>How to Bypass iCloud Lock from iPhone 6</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-itel-a70-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Itel A70 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-unleash-creative-potential-with-green-screen-tips/"><u>In 2024, Unleash Creative Potential with Green Screen Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stop-frustrating-lag-in-minecraft-a-comprehensive-fixing-manual/"><u>Stop Frustrating Lag in Minecraft: A Comprehensive Fixing Manual</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-non-responsive-lenovo-mouse-pads-in-windows-11-8-and-7-repair-guide/"><u>Troubleshooting Tips for Non-Responsive Lenovo Mouse Pads in Windows 11, 8 & #7; [REPAIR GUIDE]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-error-code-0x80073712-on-your-windows-10-system-a-comprehensive-guide/"><u>Understanding and Fixing 'Error Code 0X80073712' On Your Windows 10 System – A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-apples-eloquent-choice-no-more-exclamation-marks-discover-the-reason-behind-their-strategic-typography-techinsights/"><u>Unveiling Apple’s Eloquent Choice: No More Exclamation Marks! Discover the Reason Behind Their Strategic Typography | TechInsights</u></a></li>
 </ul></div>
 

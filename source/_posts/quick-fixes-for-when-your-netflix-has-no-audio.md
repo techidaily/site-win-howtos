@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for When Your Netflix Has No Audio
-date: 2024-08-28T00:37:36.855Z
-updated: 2024-08-29T00:37:36.855Z
+date: 2025-01-06T16:04:24.864Z
+updated: 2025-01-13T17:06:41.330Z
 tags:
   - win11
   - win10
@@ -34,13 +34,15 @@ Many users are experiencing a**Netflix no sound** issue on their computer. If yo
 2. Click**the dialog icon** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3816904a78d.jpg)
 3. Check if **surround sound (5.1)** is selected. If yes, then try changing it to a non-5.1 option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. See if you can hear any sound from the video in Netflix. If the**no sound** problem still lingers on, you should try**Fix 2** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your audio driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -56,16 +58,14 @@ Many users are experiencing a**Netflix no sound** issue on their computer. If yo
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c38035854a95.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then play a video in Netflix to see if the**Netflix no sound** issue has been resolved. If yes, then great! But if the problem still persists, move on to**Fix 3** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ### Fix 3: Adjust the built-in audio settings
 
  You can also try manually setting default devices and the default format to see if it fixes the**Netflix no sound** issue.
@@ -75,22 +75,26 @@ Here’s how to do it:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **mmsys.cpl**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3805c15306f.png)
 2. In the**Playback** tab, click**the device** you want to play Netflix through (speakers , headphones, HDMI, or Digital Audio). Then click**Set Default** – **Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c380de82d06b.jpg)
 3. Click the**Advanced** tab, then select**24 bit, 192000 Hz (Studio Quality)** from the drop-down menu and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3806f1e7aaf.jpg)
 4. Again, play an audio in Netflix to test if the**no sound on Netflix** issue has been fixed.
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update Microsoft Silverlight
 
  Microsoft Silverlight is a browser plug-in Netflix uses for more interactive media experiences. So you should try updating the program via**Windows Update** or **[Microsoft’s official website Silverlight homepage](https://www.microsoft.com/getsilverlight/get-started/install/default?reason=unsupportedplatform)**  to see if it can fix the**Netflix no sound** issue.
@@ -108,8 +112,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +119,21 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-best-video-equipment-for-documenting-dynamic-musical-performances/"><u>[New] Best Video Equipment for Documenting Dynamic Musical Performances</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-comprehensive-guide-to-visual-effects-in-online-platforms/"><u>[Updated] In 2024, The Comprehensive Guide to Visual Effects in Online Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/5-effective-ways-to-correct-the-black-display-issue-with-google-chrome/"><u>5 Effective Ways to Correct the Black Display Issue with Google Chrome</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722965659216-get-your-behringer-usb-audio-device-ready-secure-instant-downloads/"><u>Get Your Behringer USB Audio Device Ready - Secure Instant Downloads!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hp-spectre-x360-overheating-problem-solved/"><u>HP Spectre X360 Overheating Problem [Solved]</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-iphone-14-pro-max-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 14 Pro Max Activation Lock</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-from-clips-to-masterpieces-top-highlight-video-makers-revealed/"><u>New In 2024, From Clips to Masterpieces Top Highlight Video Makers Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-white-screen-of-death-a-guide-for-laptop-users/"><u>Overcoming the White Screen of Death: A Guide for Laptop Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-unresponsive-hp-laptop-keyboards-learn-how/"><u>Quick Fixes for Unresponsive HP Laptop Keyboards – Learn How!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-port-reset-error-a-guide-to-troubleshooting-your-usb-on-windows-10/"><u>Solving the Port Reset Error: A Guide to Troubleshooting Your USB on Windows 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-ios-image-files-conversion-to-pdfs-for-2024/"><u>The Ultimate Guide IOS Image Files Conversion to PDFs for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-sony-2024-forecast-major-releases-industry-news-and-insider-details/"><u>Unveiling Sony 2024 Forecast: Major Releases, Industry News & Insider Details</u></a></li>
+</ul></div>
 

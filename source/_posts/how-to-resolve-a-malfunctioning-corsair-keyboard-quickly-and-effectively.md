@@ -1,7 +1,7 @@
 ---
 title: How to Resolve a Malfunctioning Corsair Keyboard Quickly and Effectively
-date: 2024-12-16T20:06:11.221Z
-updated: 2024-12-22T20:49:52.925Z
+date: 2025-01-06T17:33:22.168Z
+updated: 2025-01-13T16:52:33.745Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 5 fixes that have helped other users get their keyboard numbers working again. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -38,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 4. **[Use a different user profile](#f4)**
 5. **[Check hardware issues](#f5)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Turn off Mouse Keys
 
 #### On Windows 10
@@ -47,25 +47,17 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ed1505fee.png)
 3. Click**Ease of Access** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2edebb4167.jpg)
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee1e422d4.jpg)
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### On Windows 11
 
@@ -80,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Enable the NumLock key
 
  Look on your keyboard for a key that says **NumLock** and make sure to enable the key.  
@@ -92,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
@@ -128,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Check hardware issues
 
  If you’ve tried all of the steps above and the number keys on your keyboard are still not working, it’s likely that the keyboard is defective. You can connect your keyboard to a different PC to check hardware issues.
@@ -153,20 +153,17 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-ultimate-collection-no-cost-ae-template-gold-for-2024/"><u>[New] Ultimate Collection No-Cost AE Template Gold for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/advanced-strategies-for-soundless-video/"><u>Advanced Strategies for Soundless Video</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-problems-during-the-installation-of-windows-11-update-version-1607/"><u>Diagnosing Problems During the Installation of Windows 11 Update (Version 1607)</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-listings-easy-purchases-of-startup-youtube-revenue-streams-for-2024/"><u>Elite Listings Easy Purchases of Startup YouTube Revenue Streams for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-your-lenovo-mouse-pad-functioning-again-for-windows-users-versions-11-8-and-7/"><u>Get Your Lenovo Mouse Pad Functioning Again for Windows Users (Versions 11, 8, & 7)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-nokia-c32-lock-screen-password-by-drfone-android/"><u>How to Reset your Nokia C32 Lock Screen Password</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-elite-selection-top-9-free-youtube-channel-branding-apps/"><u>In 2024, Elite Selection Top 9 Free YouTube Channel Branding Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastery-in-migration-transitioning-to-macos-11-big-sur-effortlessly/"><u>In 2024, Mastery in Migration Transitioning to macOS 11 Big Sur Effortlessly</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/in-depth-fix-guide-for-directx-encountering-unresolvable-faults/"><u>In-Depth Fix Guide for DirectX Encountering Unresolvable Faults</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-boot-issues-in-windows-11-overcoming-freezing-at-startup/"><u>Resolving Boot Issues in Windows 11 - Overcoming Freezing at Startup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-installation-and-update-complications-for-steam-gaming-software/"><u>Resolving Installation and Update Complications for Steam Gaming Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-mousepad-malfunctions-for-laptops-running-windows-systems/"><u>Resolving Mousepad Malfunctions for Laptops Running Windows Systems</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/spectacular-gratis-switch-gaming-tools/"><u>Spectacular Gratis Switch Gaming Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-peak-level-illustration-tweaks/"><u>[New] 2024 Approved Peak Level Illustration Tweaks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-full-screen-obs-complication-overcome/"><u>[Updated] 2024 Approved Full Screen OBS Complication Overcome</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/ensured-crisis-averted-dvd-titles-and-intros-functioning-perfectly/"><u>Ensured: Crisis Averted - DVD Titles & Intros Functioning Perfectly!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-hd-action-cameras-under-100/"><u>Essential HD Action Cameras Under $100</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-overcoming-the-problem-of-keyboards-where-backspace-fails-to-work/"><u>Expert Tips: Overcoming the Problem of Keyboards Where Backspace Fails to Work</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-restoring-or-replacing-missing-shelldll-components-on-windows/"><u>Expert Tips: Restoring or Replacing Missing Shell.dll Components on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-unresponsive-sound-driver-in-windows-7/"><u>Fixing the Unresponsive Sound Driver in Windows 7</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-infinix-gt-10-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Infinix GT 10 Pro FRP In 3 Different Ways</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-say-goodbye-to-grain-top-rated-video-resolution-enhancers-for-2024/"><u>New Say Goodbye to Grain Top-Rated Video Resolution Enhancers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-definitive-guide-on-repairing-deadly-fatal-error-1603-for-seamless-software-deployment/"><u>The Definitive Guide on Repairing Deadly Fatal Error (1603) for Seamless Software Deployment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-cant-i-update-to-windows-10-1607-understanding-install-issues/"><u>Why Can't I Update to Windows 10 1607? Understanding Install Issues</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/withings-move-smartwatch-a-stylish-timepiece-that-marries-analog-elegance-and-digital-features-for-the-modern-user/"><u>Withings Move Smartwatch - A Stylish Timepiece That Marries Analog Elegance and Digital Features for the Modern User</u></a></li>
 </ul></div>
 

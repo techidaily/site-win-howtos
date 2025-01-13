@@ -1,7 +1,7 @@
 ---
 title: How to Force Your Computer Running Windows 11 to Shutdown When It Won't Close Normally
-date: 2024-12-19T17:20:42.843Z
-updated: 2024-12-22T19:51:49.542Z
+date: 2025-01-12T16:14:13.275Z
+updated: 2025-01-13T17:30:47.490Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -50,6 +46,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -67,15 +67,11 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
@@ -87,7 +83,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
@@ -98,11 +94,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
@@ -115,10 +115,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -126,6 +122,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
@@ -153,24 +153,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-guide-to-acquiring-free-picture-frame-videos/"><u>[New] Guide to Acquiring Free Picture Frame Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-dividedimage-synopsis-for-2024/"><u>[Updated] DividedImage Synopsis for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-stages-of-change/"><u>[Updated] Stages of Change</u></a></li>
-<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-now-speaks-back-openai-introduces-voiced-response-feature/"><u>ChatGPT Now Speaks Back: OpenAI Introduces Voiced Response Feature</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-a-non-functional-usb-on-an-hp-laptop-now-working/"><u>Easy Fixes for a Non-Functional USB on an HP Laptop - Now Working</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-ways-to-resolve-incomplete-windows-setup-issues/"><u>Effortless Ways to Resolve Incomplete Windows Setup Issues</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/engaging-audiences-with-dynamic-photoviewer-content-in-pixiz/"><u>Engaging Audiences with Dynamic Photoviewer Content in Pixiz</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-keyboard-shortcuts-why-winplusshiftpluss-is-unresponsive-in-windows-11-and-10/"><u>Fixing Keyboard Shortcuts: Why Win+Shift+S Is Unresponsive in Windows 11 & 10</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-online-conversion-from-mp3-to-aiff-by-movavi/"><u>Free Online Conversion From MP3 to AIFF by Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-livekernelevent-141-hardware-error-2024/"><u>How to Fix LiveKernelEvent 141 Hardware Error - 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-when-the-component-object-model-surrogate-stopped/"><u>How to Resolve When the 'Component Object Model Surrogate Stopped'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206205090-how-to-restore-functionality-in-malfunctioning-arrow-keys-on-your-keyboard/"><u>How To Restore Functionality in Malfunctioning Arrow Keys on Your Keyboard!</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-for-the-curious-young-and-novice-pilot-the-10-best-drones/"><u>In 2024, For the Curious Young and Novice Pilot - The 10 Best Drones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/inside-track-full-adobe-cloud-storage-guide-and-why-other-solutions-matter-for-2024/"><u>Inside Track Full Adobe Cloud Storage Guide and Why Other Solutions Matter for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimizing-system-storage-a-guide-to-overcoming-insufficient-resources-for-command-execution/"><u>Optimizing System Storage: A Guide to Overcoming 'Insufficient Resources for Command Execution'</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/reinstall-windows-without-data-loss-a-step-by-step-guide-yls-ultimate-solution/"><u>Reinstall Windows Without Data Loss: A Step-by-Step Guide - YL's Ultimate Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-vanishing-mouse-pointer-in-windows-10-a-comprehensive-guide/"><u>Resolving the Vanishing Mouse Pointer in Windows 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205764869-windows-11-typing-troubles-heres-how-you-can-eliminate-sticky-keys-and-improve-response-time/"><u>Windows 11 Typing Troubles? Here's How You Can Eliminate Sticky Keys and Improve Response Time</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-earning-estimates-for-youtube-creators-adsense-pay-out-per-1000-viewers/"><u>[New] In 2024, Earning Estimates for YouTube Creators AdSense Pay-Out per 1,000 Viewers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-leading-edge-technology-15-high-quality-recorders/"><u>[New] Leading Edge Technology 15 High-Quality Recorders</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-compiling-the-top-10-affordable-video-conferencing-for-phones/"><u>[Updated] 2024 Approved Compiling the Top 10 Affordable Video Conferencing for Phones</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-exploring-the-top-viral-tweets-of-the-year/"><u>[Updated] In 2024, Exploring the Top Viral Tweets of the Year</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-hidden-drain-unearthing-deceptive-likes-costs-for-2024/"><u>[Updated] The Hidden Drain Unearthing Deceptive Likes' Costs for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-elevating-your-artistry-in-lyric-videos-through-lyric-video-maker-mastery/"><u>2024 Approved Elevating Your Artistry in Lyric Videos Through Lyric Video Maker Mastery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-failed-windows-update-queries/"><u>Diagnosing and Repairing Failed Windows Update Queries</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-unavailable-module-problem-in-your-software-application/"><u>Fixing the Unavailable Module Problem in Your Software Application</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/game-on-with-premium-screens-for-your-xbox-series-x-console-for-2024/"><u>Game on with Premium Screens for Your Xbox Series X Console for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-noisy-or-cracking-audio-outputs-on-windows-11-and-7-systems/"><u>How to Fix Noisy or Cracking Audio Outputs on Windows 11 and 7 Systems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-iphone-xr-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an iPhone XR without Apple ID?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-ultimate-guide-youtube-mp3-converters-ranked/"><u>In 2024, The Ultimate Guide YouTube Mp3 Converters Ranked</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ipados-16-revealed-top-5-new-features-unpacked-for-upcoming-ipads-showcased-at-wwdc-2024-insights-from-zdnet/"><u>IPadOS 16 Revealed: Top 5 New Features Unpacked for Upcoming iPads Showcased at WWDC 2024 - Insights From ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-missing-dll-from-steam/"><u>Resolving Missing DLL From Steam</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/semaphore-timeout-resolution-step-by-step-fix-for-error-0x80070079/"><u>Semaphore Timeout Resolution: Step-by-Step Fix for Error 0X80070079</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-dilemma-ultimate-guide-to-resolve-your-pcs-persistent-freezing/"><u>Solving the Dilemma: Ultimate Guide to Resolve Your PC's Persistent Freezing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-non-functional-touchpad-scrolls/"><u>Troubleshooting and Resolving Non-Functional Touchpad Scrolls</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-techniques-for-overcoming-driverpowerstatefailure-bugs/"><u>Troubleshooting Techniques for Overcoming DRIVER_POWER_STATE_FAILURE Bugs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-laptops-touchpad-problems-in-windows-operating-systems/"><u>Troubleshooting Your Laptop's Touchpad Problems in Windows Operating Systems</u></a></li>
 </ul></div>
 

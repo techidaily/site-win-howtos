@@ -1,7 +1,7 @@
 ---
 title: "Master the Fix for Windows 11 Update Error: Understanding and Solving 0X80240034"
-date: 2025-01-05T04:08:31.156Z
-updated: 2025-01-07T02:23:08.916Z
+date: 2025-01-10T17:02:21.358Z
+updated: 2025-01-13T16:49:02.181Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ Please click the solution according to your Windows operating system.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## For Windows 8 users: Restore AUInstallAgent directory in the Windows Folder
@@ -53,6 +53,10 @@ To restore it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af9f67c0fe4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Yes**  when prompted by User Account Control.
 
  5) Name the new folder: **AUInstallAgent** .
@@ -60,6 +64,10 @@ To restore it:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afa05bc9916.png)
 
  6) Reboot your Windows 8\. Then go to the Windows App Store to install the app again to see if it’s successful.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## For Windows 10/8.1 users: Restore AppReadiness directory in the Windows Folder
 
@@ -70,7 +78,7 @@ To restore it:
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **E** at the same time to invoke the File Explorer window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Go to **This PC**  \> **Local Disk (C:)**  \> **Windows** .
@@ -78,26 +86,18 @@ To restore it:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af9ed488157.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **3) Right-click on the blank area to click New, then Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af9f67c0fe4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click**Yes**  when prompted by User Account Control.
 
  5) Name the new folder:   **AppReadiness** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afa57cdd600.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Reboot your Windows 10/8.1\. Then go to the Windows App Store to install the app again to see if it’s successful.
 
@@ -118,17 +118,19 @@ To restore it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-top-fifa-scoreboard-tactics-in-infographics/"><u>[New] 2024 Approved Top FIFA Scoreboard Tactics in Infographics</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-ultimateglobalvision-select-live-and-home-channels-together/"><u>[New] UltimateGlobalVision Select Live and Home Channels Together</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-joyfuljourney-sign-up-share-and-create-fun-videos/"><u>[Updated] JoyfulJourney Sign Up, Share and Create Fun Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-revolutionary-revelations-top-30-quotes-for-ar-vr-dreamers/"><u>[Updated] Revolutionary Revelations Top 30 Quotes for AR-VR Dreamers</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-malfunctioning-mic-for-windows-11-users-step-by-step/"><u>How to Repair a Malfunctioning Mic for Windows 11 Users - Step by Step</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-unexpected-screen-flashes-in-windows-11-with-these-troubleshooting-steps/"><u>Resolve Unexpected Screen Flashes in Windows 11 with These Troubleshooting Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-snip-and-sketch-struggles-expert-advice-for-functional-print-screen-in-win10win11/"><u>Solve Your Snip & Sketch Struggles: Expert Advice for Functional Print Screen in Win10/Win11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722127187592-staying-on-top-of-your-game-6-benefits-of-using-chatgpt-plus-amidst-gpt-4s-free-release/"><u>Staying On Top of Your Game: 6 Benefits of Using ChatGPT Plus Amidst GPT-4's Free Release</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-slash-high-graphic-demands-of-the-desktop-window-manager-on-windows-11/"><u>Troubleshooting Guide: Slash High Graphic Demands of the Desktop Window Manager on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-event-id-1eb564c3-a9b1-4f70-9bd0-d28e7c9c7a0c-in-windows-versions-7-8-and-10/"><u>Troubleshooting the 'Event ID 1Eb564c3-A9b1-4f70-9bd0-D28e7c9c7a0c' In Windows Versions: 7, 8 and 10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-reloading-the-dead-ranking-eminent-zombie-games-for-2024/"><u>[New] Reloading the Dead Ranking Eminent Zombie Games for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-broadcast-your-xbox-adventures-online/"><u>2024 Approved Broadcast Your Xbox Adventures Online</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-your-videos-youtube-trailers-through-filmora-for-2024/"><u>Elevate Your Videos YouTube Trailers Through Filmora for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-0x80072f8f-explained-how-to-repair-this-issue-on-windows-1110-computers/"><u>Error Code 0X80072F8F Explained: How to Repair This Issue on Windows 11/10 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-netflix-proxy-error-you-seem-to-be-using-an-unblocker-or-proxy/"><u>Fix Netflix Proxy Error: You Seem to Be Using an Unblocker or Proxy</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-risky-business-buying-non-real-youtube-supporters/"><u>In 2024, Risky Business Buying Non-Real YouTube Supporters</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-keyboard-not-responding-in-windows-heres-how-to-make-it-work-again-solved/"><u>Laptop Keyboard Not Responding in Windows? Here's How to Make It Work Again [SOLVED]</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/making-money-in-the-20-second-space-the-youtube-shorts-playbook/"><u>Making Money in the 20-Second Space The YouTube Shorts Playbook</u></a></li>
+<li><a href="https://extra-information.techidaily.com/master-money-making-on-reddit-in-just-a-few-simple-steps/"><u>Master Money-Making on Reddit in Just a Few Simple Steps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-unlocking-great-sound-audio-editing-techniques-in-fcp/"><u>New In 2024, Unlocking Great Sound Audio Editing Techniques in FCP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-windows-cant-finish-setup-error/"><u>Quick Fixes for Windows Can't Finish Setup Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/rapidly-engage-with-these-top-20-fast-playing-game-apps/"><u>Rapidly Engage with These Top 20 Fast-Playing Game Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-repair-fix-the-astro-a40-microphone-not-working-problem/"><u>Troubleshoot & Repair: Fix the Astro A40 Microphone Not Working Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-the-dolby-home-theater-hurdles-in-windows-10-a-step-by-step-fix/"><u>Winning Against the Dolby Home Theater Hurdles in Windows 10 – A Step-by-Step Fix</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Enhance Typing Speed by Fixing a Lazy Keyboard Quickly
-date: 2025-01-02T19:40:22.114Z
-updated: 2025-01-06T18:17:36.181Z
+date: 2025-01-09T16:07:06.104Z
+updated: 2025-01-13T16:58:02.907Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -37,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -47,16 +47,12 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -64,6 +60,10 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -113,6 +113,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -121,10 +125,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -147,7 +147,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
@@ -184,19 +184,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-a-step-by-step-approach-to-professional-video-sharing/"><u>[New] In 2024, A Step-by-Step Approach to Professional Video Sharing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-how-to-fix-google-chrome-black-screen-problem/"><u>[Solved] How to Fix Google Chrome Black Screen Problem</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dealing-with-service-unavailable-fixing-the-http-503-error-on-your-website/"><u>Dealing with Service Unavailable: Fixing the HTTP 503 Error on Your Website</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-missing-media-device-driver-errors-on-your-computer/"><u>How to Fix the Missing Media Device Driver Errors on Your Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-issues-when-your-computer-gets-stuck-during-windows-setup/"><u>How to Resolve Issues When Your Computer Gets Stuck During Windows Setup</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-xs-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone XS? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/re-establishing-nintendo-switch-wi-fi-link/"><u>Re-Establishing Nintendo Switch Wi-Fi Link</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/tenfold-video-recording-tricks-on-your-windows-11-system/"><u>Tenfold Video Recording Tricks on Your Windows 11 System</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-windows-8-guide-to-powerful-movie-maker-editing-techniques-for-2024/"><u>The Windows 8 Guide to Powerful Movie Maker Editing Techniques for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-ethernet-connectivity-problems-in-windows-11-and-windows-7/"><u>Troubleshooting Ethernet Connectivity Problems in Windows 11 and Windows 7</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-to-correct-livekernelevent-error-code-117/"><u>Troubleshooting Tips to Correct LiveKernelEvent Error Code 117</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-mechanism-behind-cross-audio-blending-for-2024/"><u>Unveiling the Mechanism Behind Cross-Audio Blending for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-11-receives-amd-radeon-hd-6950-graphics-drivers-enhancement/"><u>Windows 11 Receives AMD Radeon HD 6950 Graphics Drivers Enhancement</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-against-windows-10s-constant-interruption-by-learning-how-to-avoid-unwanted-restarting/"><u>Winning Against Windows 10'S Constant Interruption by Learning How to Avoid Unwanted Restarting</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-tidying-up-old-youtube-tracks-bar-free-viewing/"><u>[New] 2024 Approved Tidying Up Old YouTube Tracks Bar-Free Viewing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206100989-solved-airdrop-not-working-quickly-and-easily/"><u>[SOLVED] AirDrop Not Working | Quickly & Easily.</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-master-win11-tips-for-optimal-performance/"><u>[Updated] Master Win11 Tips for Optimal Performance</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-why-are-social-media-suggested-videos-evanescent/"><u>2024 Approved Why Are Social Media Suggested Videos Evanescent?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-xiaomi-mix-fold-3-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Xiaomi Mix Fold 3 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/collaboration-alert-qualcomms-next-gen-mixed-reality-eyewear-with-samsung-and-google-takes-shape-tech-insights/"><u>Collaboration Alert! Qualcomm’s Next-Gen Mixed Reality Eyewear with Samsung and Google Takes Shape | Tech Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquering-new-world-effective-solutions-to-the-frustrating-easy-anti-cheat-launch-error/"><u>Conquering New World: Effective Solutions to the Frustrating Easy Anti-Cheat Launch Error</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722972443065-download-and-update-your-synaptic-drivers-hassle-free-windows-guide/"><u>Download & Update Your Synaptic Drivers: Hassle-Free Windows Guide!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-resolving-a-malfunctioning-usb-hdmi-adapter/"><u>Expert Tips on Resolving a Malfunctioning USB-HDMI Adapter</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-pro-tips-configuring-stopwatches-in-obs-studio/"><u>In 2024, Pro Tips Configuring Stopwatches in OBS Studio</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-illumination-restoration-tips-for-mac-and-windows-users/"><u>Keyboard Illumination Restoration Tips for Mac and Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-challenges-in-full-screen-snip-and-sketch-capturing/"><u>Overcoming Challenges in Full-Screen Snip & Sketch Capturing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pinnacle-20-anime-songs-to-start-with/"><u>Pinnacle 20 Anime Songs to Start With</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-how-to-fix-unintended-characters-on-your-keyboard/"><u>Solved: How to Fix Unintended Characters on Your Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-elevation-requests-in-windows-fixes-for-win11-win10-and-win7-error-messages/"><u>Troubleshooting Elevation Requests in Windows: Fixes for Win11, Win10 & Win7 Error Messages</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-the-keyboard-backspace-issue/"><u>Troubleshooting Guide: Fixing the Keyboard Backspace Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-repairing-your-mouse-when-the-left-click-fails/"><u>Troubleshooting Guide: Repairing Your Mouse When the Left-Click Fails</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-does-your-windows-11-pc-boot-alone-exploring-possible-causes-and-solutions/"><u>Why Does Your Windows 11 PC Boot Alone? Exploring Possible Causes and Solutions</u></a></li>
 </ul></div>
 

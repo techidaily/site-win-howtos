@@ -1,7 +1,7 @@
 ---
 title: "Gadget Glitch: Keys Working Again"
-date: 2024-09-01T04:52:12.571Z
-updated: 2024-09-02T04:52:12.571Z
+date: 2025-01-10T17:18:49.057Z
+updated: 2025-01-13T16:23:26.893Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/aa15e346f7d15551b7e87cd1f2e88212dee28fcef
 
  This small guide will be showing you how to fix the Shift key bot working issue step by step. Read on and go on with the steps to troubleshoot your problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix Shift key not working?
 
 A quick check before we start:
@@ -42,6 +46,10 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -52,9 +60,17 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
@@ -77,8 +93,9 @@ Follow these:
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 2: Update your keyboard driver
 
  This problem may be caused by an old, corrupted, or missing keyboard driver. If so, you can solve it by updating the keyboard driver.
@@ -95,18 +112,12 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Restart your computer and try to press the Shift key to see if it works.
 
 * [keyboard](https://bellelily.pxf.io/m5azgm)
@@ -117,8 +128,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +135,22 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-leading-talents-premier-instragram-hlv-creators/"><u>[New] Leading Talents Premier Instragram HLV Creators</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-seamless-sync-tweets-as-videos-on-whatsapp/"><u>[Updated] 2024 Approved Seamless Sync Tweets as Videos on WhatsApp</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-expert-techniques-for-smooth-screen-casting/"><u>[Updated] In 2024, Expert Techniques for Smooth Screen Casting</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-fix-low-quality-footage-on-different-devices/"><u>2024 Approved Fix Low-Quality Footage on Different Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-professionals-choice-of-best-windows-edits-tools/"><u>2024 Approved Professionals' Choice of Best Windows Edits Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-infinite-loading-in-valorant-with-these-tips/"><u>Bypassing Infinite Loading in Valorant with These Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-fix-path-not-found-errors-when-using-windows-operating-system/"><u>Expert Tips to Fix 'Path Not Found' Errors When Using Windows Operating System</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x50-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Honor X50 Without Password?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-and-install-the-startech-usb-driver-for-hdmi-output/"><u>How To: Obtain And Install The StarTech USB Driver For HDMI Output</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-samsung-galaxy-s23plus-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Samsung Galaxy S23+ Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-enable-pen-and-touch-interaction-on-unresponsive-monitors/"><u>Solution Found: Enable Pen & Touch Interaction on Unresponsive Monitors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-resolve-sluggish-keyboard-responses-instantly/"><u>Step-by-Step Tutorial: Resolve Sluggish Keyboard Responses Instantly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-6-solutions-for-resolving-werfaultexe-crashes-in-windows/"><u>Top 6 Solutions for Resolving werFault.exe Crashes in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unstick-your-pc-effective-tips-for-handling-the-configuring-windows-hang-up/"><u>Unstick Your PC: Effective Tips for Handling the 'Configuring Windows' Hang-Up</u></a></li>
+</ul></div>
 

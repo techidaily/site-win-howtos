@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Fix 'Not Charging' Error on Windows Laptops (Windows 7, 10)
-date: 2025-01-04T22:54:05.267Z
-updated: 2025-01-07T01:55:44.880Z
+date: 2025-01-10T16:45:21.316Z
+updated: 2025-01-13T16:12:35.543Z
 tags:
   - win11
   - win10
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 2: Check the status of the Bluetooth service
 
  1) On your keyboard, press the **Windows logo key**   + **R**   key together to invoke the Run box.
@@ -56,24 +60,28 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right-click on the service again, and this time click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
@@ -84,29 +92,25 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
 
@@ -117,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
  2)Then click **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
@@ -138,10 +138,6 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
 
  Or if you use the Pro version, click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (You get full support and a 30-day money back guarantee for the Pro version)
@@ -154,6 +150,10 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully, you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
@@ -175,20 +175,14 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-explore-a-world-of-sound-the-ultimate-guide-to-androids-music-videos-for-2024/"><u>[New] Explore a World of Sound The Ultimate Guide to Android's Music Videos for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-leading-video-cameras-of-2024-reviewed-and-rated/"><u>[New] Leading Video Cameras of 2024 Reviewed & Rated</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-tiktok-unboxing-hacks-spin-your-video-into-a-viral-hit/"><u>2024 Approved TikTok Unboxing Hacks Spin Your Video Into a Viral Hit</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-solutions-for-launching-minecraft-successfully-in-windows-after-previous-failure/"><u>Expert Solutions for Launching Minecraft Successfully in Windows After Previous Failure</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206153888-faster-league-of-legends-installation-overcome-slow-download-challenges-now/"><u>Faster League of Legends Installation - Overcome Slow Download Challenges Now!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721988183499-get-ahead-with-chatgpt-explore-top-notch-open-source-solutions-while-you-wait/"><u>Get Ahead with ChatGPT: Explore Top-Notch Open Source Solutions While You Wait.</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-samsung-galaxy-f04-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Samsung Galaxy F04 Phone? Unlock It Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-crisis-overcoming-unexpected-directx-fatal-exceptions/"><u>Resolving the Crisis: Overcoming Unexpected DirectX Fatal Exceptions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-for-resolving-the-binkw32dll-file-not-found-issue/"><u>Solutions for Resolving the 'binkw32.dll' File Not Found Issue</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-google-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Google Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-fixing-download-timeouts-on-any-device/"><u>Troubleshooting Tips for Fixing Download Timeouts on Any Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-correcting-the-update-didnt-work-in-warframe-problem/"><u>Understanding and Correcting the 'Update Didn't Work in Warframe' Problem</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-s17e-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo S17e Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upcoming-apple-household-bot-prospective-pricing-scheduled-debut-date-and-hardware-details-uncovered/"><u>Upcoming Apple Household Bot: Prospective Pricing, Scheduled Debut Date, and Hardware Details Uncovered</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winapi-dll-deficit-cruntimel1-1-0/"><u>WinAPI DLL Deficit: CRuntimeL1-1-0</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-dive-into-the-world-of-interactive-video-features-on-youtube/"><u>[New] 2024 Approved Dive Into the World of Interactive Video Features on YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aking-the-most-of-your-youtube-thumbnail-space-for-2024/"><u>[New] Making the Most of Your YouTube Thumbnail Space for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unlocking-skypes-full-capacity-with-effective-zoom-methods/"><u>[New] Unlocking Skype's Full Capacity with Effective Zoom Methods</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-2022-speed-skating-spectacle/"><u>[Updated] 2024 Approved 2022 Speed Skating Spectacle</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-windows-unable-to-finish-setup-in-just-a-few-easy-steps/"><u>Resolve 'Windows Unable to Finish Setup' In Just a Few Easy Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-overcome-the-challenge-of-forcing-a-shutdown-in-windows-11-systems/"><u>Solution Found! Overcome the Challenge of Forcing a Shutdown in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-approach-correcting-msxml3-protocol-error-code-0x88-without-hassle/"><u>Step-by-Step Approach: Correcting Msxml3 Protocol Error (Code 0X88지) Without Hassle</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-dealing-with-windows-combination-key-malfunction-in-win-11-or-win-10/"><u>Step-by-Step Solution: Dealing With Windows Combination Key Malfunction in Win 11 or Win 지정 10</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/forming-frost-into-warmth-video-backdrops-guide/"><u>Transforming Frost Into Warmth Video Backdrops Guide</u></a></li>
 </ul></div>
 

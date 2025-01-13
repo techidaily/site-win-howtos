@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes to Speed Up Sluggish Keyboard Performance
-date: 2024-12-16T18:45:01.172Z
-updated: 2024-12-22T17:30:53.679Z
+date: 2025-01-08T17:07:46.904Z
+updated: 2025-01-13T17:46:42.000Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/bdc516c407f1c047ce69fce10934901af5b77e563
 4. [**Reseat your laptop battery**](#F4)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
 
@@ -75,19 +67,23 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -108,7 +104,7 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
@@ -130,10 +126,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -146,9 +138,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,22 +184,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-tailoring-titles-and-tags-for-top-youtube-performance/"><u>[New] 2024 Approved Tailoring Titles and Tags for Top YouTube Performance</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-triller-101-the-unique-path-of-non-tiktok-social-media/"><u>[New] In 2024, Triller 101 The Unique Path of Non-TikTok Social Media</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-innovation-meets-opportunity-the-leading-7-nft-generation-tools/"><u>[New] Innovation Meets Opportunity The Leading 7 NFT Generation Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pushing-the-limits-with-text-warping-effects/"><u>2024 Approved Pushing the Limits with Text Warping Effects</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/amazing-ipad-savings-secure-your-best-price-right-now/"><u>Amazing iPad Savings – Secure Your Best Price Right Now</u></a></li>
-<li><a href="https://win11.techidaily.com/defeating-read-only-mode-on-your-windows-folders/"><u>Defeating Read-Only Mode on Your Windows Folders</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-it-what-it-means-when-your-pc-requires-a-forced-reboot/"><u>Fixing IT: What It Means When Your PC Requires a Forced Reboot</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-freezing-or-unresponsive-windows-10-system/"><u>How to Fix a Freezing or Unresponsive Windows 10 System</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-reno-9a-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Oppo Reno 9A PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-of-x0x80070-652-windows-update-issue-with-simple-steps/"><u>Mastering the Fix of X0X80070 652-Windows Update Issue with Simple Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mystery-of-the-asleep-pc-wake-failure-in-windows/"><u>Mystery of the Asleep PC: Wake Failure in Windows</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/rca-video-doorbell-camera-review/"><u>RCA Video Doorbell Camera Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/regain-control-of-missing-icons-4-proven-solutions-to-restore-windows-11s-taskbar-functionality/"><u>Regain Control of Missing Icons: 4 Proven Solutions to Restore Windows 11'S Taskbar Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-steps-when-cant-reach-the-dhcp-server/"><u>Resolved: Troubleshooting Steps When Can't Reach the DHCP Server</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-common-touchscreen-problems-on-windows-10-a-guide-to-five-reliable-solutions/"><u>Solving Common Touchscreen Problems on Windows 10: A Guide to Five Reliable Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-the-modify-rendering-api-issue-causing-dota-2-error-202/"><u>Step-by-Step Fix for the 'Modify Rendering API' Issue Causing Dota 2 Error 202</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-automatic-repair-loop-solved/"><u>Windows 11 Automatic Repair Loop [Solved]</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-making-online-gaming-more-intimate-via-xbox-zoom-for-2024/"><u>[Updated] Making Online Gaming More Intimate via Xbox Zoom for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-prime-video-editors-for-youtube-enthusiasts/"><u>2024 Approved Prime Video Editors for YouTube Enthusiasts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-new-normal-for-vr-industry-insights/"><u>2024 Approved The New Normal for VR Industry Insights</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-iphone-11-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From iPhone 11 How to Bypass?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-blockade-a-step-by-step-guide-to-solve-windows-10-couldnt-be-installed-error-code-aturality-80240020/"><u>Bypassing the Blockade: A Step-by-Step Guide to Solve Windows 10 Couldn't Be Installed - Error Code Aturality | 80240020</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/could-the-loss-of-d3d-devices-kill-unreal/"><u>Could the Loss of D3D Devices Kill Unreal?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhancing-link-quality-between-epson-devices/"><u>Enhancing Link Quality Between Epson Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-ce-34878-0-error-code-on-your-playstation-4-a-comprehensive-guide/"><u>How to Fix the CE-34878-0 Error Code on Your PlayStation 4: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-lost-invisible-desktop-windows-back/"><u>How To Get Your Lost, Invisible Desktop Windows Back!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-g2-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo G2 Data? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-master-the-art-of-archiving-with-these-13-key-techniques/"><u>In 2024, Master the Art of Archiving with These 13 Key Techniques</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-10-excellent-free-movie-editors-for-mov-files/"><u>New In 2024, 10 Excellent Free Movie Editors for MOV Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211775888-pubg-2024-master-the-art-of-fixing-game-launch-issues-and-start-enjoying-now/"><u>PUBG 2024: Master the Art of Fixing Game Launch Issues and Start Enjoying Now</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/solving-the-issue-of-your-xbox-ones-failure-to-read-discs-a-step-by-step-guide-updated-march-2024/"><u>Solving the Issue of Your Xbox One's Failure to Read Discs: A Step-by-Step Guide (Updated March 2024)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-future-is-here-discover-the-price-release-date-and-cutting-edge-specs-of-google-tv-streaming-device/"><u>The Future Is Here! Discover The Price, Release Date & Cutting-Edge Specs of Google TV Streaming Device</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transform-microsoft-windows-settings-dollar-to-euro-conversion-tutorial/"><u>Transform Microsoft Windows Settings - Dollar to Euro Conversion Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-optimize-your-computer-addressing-the-low-on-memory-warning-on-windows-10/"><u>Troubleshoot and Optimize Your Computer: Addressing the Low on Memory Warning on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-keyboard-fixing-non-working-directional-buttons/"><u>Troubleshoot Your Keyboard: Fixing Non-Working Directional Buttons</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/warframe-update-issues-troubleshooting-failed-installation-errors/"><u>Warframe Update Issues - Troubleshooting Failed Installation Errors</u></a></li>
 </ul></div>
 

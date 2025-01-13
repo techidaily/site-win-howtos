@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Repair 'Error Code 28' In Windows Device Manager
-date: 2024-12-31T22:44:57.159Z
-updated: 2025-01-07T04:16:00.914Z
+date: 2025-01-07T16:36:07.635Z
+updated: 2025-01-13T17:40:48.888Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/368cd26d3749cfcc0c9a3f4f17a7f654d421407ed
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Fix 1\. Enable Automatic Detect Settings**
 
  If your computer is not sure how it should connect to the Internet, it would cause Windows Update Error 0x8024402c. In this case, enable Automatic Detect Settings could fix it.
@@ -32,12 +36,16 @@ thumbnail: https://thmb.techidaily.com/368cd26d3749cfcc0c9a3f4f17a7f654d421407ed
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **LAN settings**  under**Connection** pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Check on Automatically detect settings
@@ -45,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/368cd26d3749cfcc0c9a3f4f17a7f654d421407ed
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-1.png)
 
 Now try to install Windows Updates now.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
 
@@ -59,10 +63,6 @@ Now try to install Windows Updates now.
  4) Click**Advanced** while**Use a proxy server for you LAN** is ticked on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Clear Exceptions box if there were any content in it.
 
@@ -75,10 +75,6 @@ Now try to install Windows Updates now.
 Find and click to open Command Prompt from Start menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Run the commands below one by one.
 
@@ -100,10 +96,6 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Now Internet Connection window is open.
 
 Double-click on your active Network Adapter.
@@ -113,7 +105,7 @@ Double-click on your active Network Adapter.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Locate Use the following DNS server addresses.
@@ -125,6 +117,10 @@ Double-click on your active Network Adapter.
  **Note:** That’s Google’s public DNS server addresses.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -151,7 +147,7 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
@@ -174,6 +170,10 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now try to install Windows Updates now.
 
 After the fixes above, Windows Update should be good to go now.
@@ -195,22 +195,20 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-learn-to-turn-videos-on-the-fly-using-vlc/"><u>[New] 2024 Approved Learn to Turn Videos on the Fly Using VLC</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-inside-tips-for-maximizing-your-creator-studio-potential/"><u>[Updated] In 2024, Inside Tips for Maximizing Your Creator Studio Potential</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-playback-problem-why-cant-i-watch-video-on-sony-a6400/"><u>[Updated] In 2024, Playback Problem Why Can't I Watch Video on Sony A6400?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-list-of-prime-15-cameras-for-vloggers/"><u>[Updated] The Ultimate List of Prime 15 Cameras for Vloggers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/apple-revamps-personas-with-the-arrival-of-visionos-update-discover-additional-improvements-detailed-by-zdnet/"><u>Apple Revamps Personas with the Arrival of VisionOS Update - Discover Additional Improvements Detailed by ZDNET</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-methods-to-reduce-ntoskrnlexe-load/"><u>Effective Methods to Reduce Ntoskrnl.exe Load</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/efficient-fixes-for-handling-specified-module-could-not-be-found-errors-on-windowsmac/"><u>Efficient Fixes for Handling 'Specified Module Could Not Be Found' Errors on Windows/Mac</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-restoring-functionality-to-your-dells-defective-usb-interface/"><u>Expert Tips for Restoring Functionality to Your Dell's Defective USB Interface</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-windows-cannot-start-device-error-for-dvdcd-rom-in-windows-11-a-step-by-step-troubleshooting-tutorial/"><u>Fix 'Windows Cannot Start Device' Error for DVD/CD-ROM in Windows 지원(11): A Step-by-Step Troubleshooting Tutorial</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-xiaomi-by-fonelab-android-recover-video/"><u>How to recover old videos from your Xiaomi</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-and-repair-frequent-iphone-airpods-connection-drops-top-11-tips/"><u>How to Troubleshoot and Repair Frequent iPhone-AirPods Connection Drops: Top 11 Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-launch-failures-a-fix-for-the-opening-failed-geforce-experience-problem/"><u>Overcoming Launch Failures: A Fix for the 'Opening Failed' GeForce Experience Problem</u></a></li>
-<li><a href="https://win-blog.techidaily.com/qt-wmv-online-gratis-conversion-tool/"><u>QT WMV파일을 깨끗한 방식대로 구조화된 코드 쉼표 및 새 형식으로 바꾸기: Online Gratis Conversion Tool</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-overcome-pasting-obstacles-in-windows-11/"><u>Step-by-Step Solutions to Overcome Pasting Obstacles in Windows 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-creme-de-la-creme-of-vr-development-talent/"><u>The Crème De La Crème of VR Development Talent</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-non-functional-dell-laptop-keys/"><u>Troubleshooting Guide: Fixing Non-Functional Dell Laptop Keys</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-fixed-youtube-sound-problem-for-windows-1amousers-and-macos-users/"><u>Troubleshooting the Fixed YouTube Sound Problem for Windows 1amoUsers and MacOS Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ro-thumbnails-made-simple-macos-style-for-2024/"><u>[New] Pro Thumbnails Made Simple MacOS Style for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-exploring-youtubes-operations-after-video-upload/"><u>[Updated] Exploring YouTube's Operations After Video Upload</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-capturing-iphone-7-screen-a-step-by-step-guide/"><u>2024 Approved Capturing iPhone 7 Screen A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-efficient-way-to-broadcast-tiktok-videos-via-facebook/"><u>2024 Approved Efficient Way to Broadcast TikTok Videos via Facebook</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-evaluation-the-unequivocal-choice-ring-video-doorbell-n-reviews/"><u>Comprehensive Evaluation – The Unequivocal Choice: Ring Video Doorbell N Reviews</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminating-steam-api64-file-loss/"><u>Eliminating Steam API64 File Loss</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-for-resolving-nvidia-hardware-disk-issues/"><u>Expert Solutions for Resolving NVIDIA Hardware Disk Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206317756-how-to-overcome-the-recent-discovered-windows-11-update-databank-flaw-solutions-included/"><u>How to Overcome the Recent Discovered Window's 11 Update Databank Flaw - Solutions Included</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prime-day-alert-save-big-with-a-whopping-460-discount-on-the-microsoft-surface-pro-hu-ztechnews/"><u>Prime Day Alert: Save Big with a Whopping $460 Discount on the Microsoft Surface Pro ˈHu| ZTechNews</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-fast-loading-times-on-league-of-legends-game-downloads/"><u>Quick Solutions for Fast Loading Times on League of Legends Game Downloads</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/solutions-to-overcome-system-unsteadiness-with-yl-software-expertise/"><u>Solutions to Overcome System Unsteadiness with YL Software Expertise</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-connectivity-woes-of-microsoft-displayport-monitor-connection-on-windows-nd-1n/"><u>Solving the Connectivity Woes of Microsoft DisplayPort Monitor Connection on Windows N[d-1]n</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-missing-window-2-on-pc/"><u>Troubleshoot Missing Window #2 on PC</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-voicemod-ai-review-transforming-your-voice-in-real-time-for-2024/"><u>Updated Voicemod AI Review Transforming Your Voice in Real Time for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723200749767-windows-tclass-not-registering-heres-your-solution/"><u>Windows tClass Not Registering? Here's Your Solution!</u></a></li>
 </ul></div>
 

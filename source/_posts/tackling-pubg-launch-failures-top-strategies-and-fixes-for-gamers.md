@@ -1,7 +1,7 @@
 ---
 title: "Tackling PUBG Launch Failures: Top Strategies and Fixes for Gamers"
-date: 2024-08-28T00:35:01.569Z
-updated: 2024-08-29T00:35:01.569Z
+date: 2025-01-09T17:11:07.986Z
+updated: 2025-01-13T16:25:24.711Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/cff36c5116cca7d9115bbe8663d924812ff9d18b2
 It’s a nuisance to see an error pops up saying “**DirectX encountered an unrecoverable error** ” when launching a game like Call of Duty. But don’t worry. It’s fixable, so follow the instructions below.
 
 **DirectX encountered an unrecoverable error** is associated with DirectX on your computer. It’s likely that your computer doesn’t meet the requirements to play that game, such as your DirectX version is below what’s required.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -91,6 +95,11 @@ For details of system requirements of other games:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c188ed304dbc.jpg)
 3. Click the**Update** button next to the flagged graphics card to automatically download the correct version for their driver (you can do this with the**FREE** version), then install it in your computer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c188ef639182.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when your click**Update All** ).
 4. Restart your computer to take effect.
@@ -102,9 +111,6 @@ Now launch your game again to see if it fixes your problem.
 
  Still no changes? Don’t give up hope. There is something else you can do.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Upgrade DirectX version
 
  As this is an error about DirectX, it’s necessary to check whether the DirectX version meets the DirectX requirement for your game.
@@ -121,14 +127,13 @@ Now launch your game again to see if it fixes your problem.
 2. Type**dxdiag** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6d1c42af90.jpg)
 3. In the**System** tab of the**DirectX** **Dianostic** **Tool** , you can see the**DirectX** information in your computer.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c18c7dc5dff8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c18c7dc5dff8.jpg)
+
  Then see if the DirectX meets the DirectX requirement for the game. If not, you’ll need to upgrade the DirectX version on your computer.
 
 #### Step 3: Upgrade DirectX on your computer
@@ -139,9 +144,6 @@ Now launch your game again to see if it fixes your problem.
 
  After installing the latest Windows update or update package, restart your computer and try the game again to see if the error disappears.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Fix 5: Change the Display Scaling settings
 
  You can adjust the Display Scaling settings in your computer to fix your DirectX encountered an unrecoverable error.
@@ -156,9 +158,6 @@ Here’s what you need to do:
 3. In the**Display** section, ensure to select**100** % for**Scale** **and layout** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2dd811ac99.jpg)
 4. Then Windows will apply the changes. Open the game again and see if your problem has been fixed.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **If you’re using Windows 8 and Windows 7:**
 
@@ -166,6 +165,11 @@ Here’s what you need to do:
  Click**Display** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ddc26c22b.jpg)
 2. Choose**100%** or**Smaller** for the size of text and other items on your screen, then click**Apply** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2de0505d7c.jpg)
 3. Restart your computer to take effect.
 
@@ -176,8 +180,9 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
  Fortect is a trusted repair tool and it will do no harm to your PC. The best part is that you won’t need to worry about losing any programs and your personal data.
@@ -191,8 +196,9 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  So there you have it – the four effective methods to fix**DirectX encountered an unrecoverable error** . If you have any questions or suggestions, feel free to leave a comment below.
 
 * [Application Errors](https://tools.techidaily.com/drivereasy/download/)
@@ -204,8 +210,6 @@ Here’s what you need to do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,4 +217,18 @@ Here’s what you need to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-from-zero-to-live-streaming-hero-essential-tips-and-tricks/"><u>[New] From Zero to Live-Streaming Hero Essential Tips and Tricks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-authentic-audience-growth-tricks-for-sustainable-views/"><u>[New] In 2024, Authentic Audience Growth Tricks for Sustainable Views</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-step-by-step-guide-to-correcting-the-unknown-issuer-error-on-mozilla-firefox/"><u>A Step-by-Step Guide to Correcting the 'Unknown Issuer' Error on Mozilla Firefox</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/pitch-perfect-cleanup-the-best-affordable-applications-for-removing-unwanted-vocals/"><u>Pitch Perfect Cleanup The Best Affordable Applications for Removing Unwanted Vocals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-overcoming-service-unavailable-http-error-503/"><u>Quick Fixes for Overcoming 'Service Unavailable' - HTTP Error #503</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-the-missing-d3dcompiler47dll-error-on-your-pc-easily/"><u>Resolve the Missing D3DCOMPILER_47.dll Error on Your PC Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-keyboard-functionality-for-windows-11-8-and-7-computers-expert-fixes/"><u>Revive Keyboard Functionality for Windows 11, 8 & 7 Computers: Expert Fixes</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/tailored-bulk-email-solutions-using-massmails-advanced-system/"><u>Tailored Bulk Email Solutions Using Massmail's Advanced System</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-oculus-quest-into-windows-friendly-vr/"><u>Transforming Oculus Quest Into Windows-Friendly VR</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-how-to-fix-a-non-functional-corsair-hs60-microphone/"><u>Troubleshooting: How to Fix a Non-Functional Corsair HS60 Microphone</u></a></li>
+</ul></div>
 

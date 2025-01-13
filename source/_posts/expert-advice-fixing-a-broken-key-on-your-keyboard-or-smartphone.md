@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Fixing a Broken '@' Key on Your Keyboard or Smartphone"
-date: 2024-11-02T06:02:42.608Z
-updated: 2024-11-08T07:31:47.110Z
+date: 2025-01-11T16:56:50.381Z
+updated: 2025-01-13T17:19:57.046Z
 tags:
   - win11
   - win10
@@ -58,35 +58,24 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
 
@@ -98,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
@@ -121,10 +114,7 @@ thumbnail: https://thmb.techidaily.com/f047e2d65acdb07711442e0f2bbaf634be9eacb93
 If this method didn’t work for you, check out the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Run Keyboard Troubleshooter
@@ -144,10 +134,7 @@ If this method didn’t work for you, check out the last fix.
 4. Follow the on-screen instructions to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### on Windows 11
@@ -158,26 +145,14 @@ If this method didn’t work for you, check out the last fix.
 3. Click**Other troubleshooters** .  
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -201,20 +176,15 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-on-choosing-top-9-webcam-enhancement-tools/"><u>[New] Expert Tips on Choosing Top 9 Webcam Enhancement Tools</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-a-streamlined-system-for-scrutinizing-youtube-subscriber-profits-3-step-guide/"><u>[Updated] 2024 Approved A Streamlined System for Scrutinizing YouTube Subscriber Profits 3-Step Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-7-innovative-approaches-to-color-correction/"><u>[Updated] 7 Innovative Approaches to Color Correction</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-step-by-step-guide-for-erasing-image-backdrops-with-photopea-for-2024/"><u>A Step-by-Step Guide for Erasing Image Backdrops with Photopea for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/download-and-use-top-tools-for-no-cost-conversion-of-vob-files-to-playable-dvds-on-pcmac-systems/"><u>Download and Use Top Tools for No-Cost Conversion of VOB Files to Playable DVDs on PC/Mac Systems</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/essential-guide-to-compositing-using-blending-modes-for-2024/"><u>Essential Guide to Compositing Using Blending Modes for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-a-dead-usb-mouse-connection-essential-fixes-for-your-laptop/"><u>Fixing a Dead USB Mouse Connection: Essential Fixes for Your Laptop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-successfully-power-off-your-pc-running-on-windows-11/"><u>Fixing the Issue: How to Successfully Power Off Your PC Running on Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-12-pro-4g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 12 Pro 4G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-fixing-nvidia-setup-mishaps/"><u>Mastering the Art of Fixing NVIDIA Setup Mishaps</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-best-way-to-convert-4k-videos-to-mp4-fast-free-and-easy/"><u>New 2024 Approved Best Way to Convert 4K Videos to MP4 Fast, Free, and Easy</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-7-audiotrack-issues-service-not-operational-tips/"><u>Resolving Windows 7 Audiotrack Issues - Service Not Operational Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-puzzle-of-windows-10-update-error-0xc1900208-step-by-step-solution/"><u>Solving the Puzzle of Windows 10 Update Error 0Xc1900208: Step-by-Step Solution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/straightforward-strategies-to-address-and-fix-windows-update-error-code-80072ee2/"><u>Straightforward Strategies to Address and Fix Windows Update Error Code: 80072EE2</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-3-methods-to-remove-ebooks-from-your-icloud-library-freeing-up-space/"><u>Top 3 Methods to Remove eBooks From Your iCloud Library, Freeing Up Space</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-integrating-linktree-in-your-tiktok-bio-for-maximum-impact/"><u>[New] Integrating Linktree in Your TikTok Bio for Maximum Impact</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-videography-essentials-incorenas-markers-and-edit-techniques/"><u>[New] Videography Essentials Incorenas Markers and Edit Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-high-end-cameras-for-stunning-4k-content-top-18/"><u>[Updated] 2024 Approved High-End Cameras for Stunning 4K Content (Top 18)</u></a></li>
+<li><a href="https://facebook.techidaily.com/accusations-facebook-targets-honest-commerce-promotion/"><u>Accusations: Facebook Targets Honest Commerce Promotion</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-steam-error-code-80/"><u>How to Fix Steam Error Code 80</u></a></li>
+<li><a href="https://fox-links.techidaily.com/initial-glimpse-at-vectors-classifying-and-choosing-right-tech/"><u>Initial Glimpse at Vectors Classifying and Choosing Right Tech</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issues-with-geforce-experience-not-fetching-configurations-correctly/"><u>Resolved: Issues with GeForce Experience Not Fetching Configurations Correctly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-rectify-windows-11s-error-code-0x80240034-during-updates/"><u>Step-by-Step Guide to Rectify Windows 11'S Error Code: 0X80240034 During Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-fixing-your-keyboard-by-rebooting/"><u>Step-by-Step Guide: Fixing Your Keyboard by Rebooting</u></a></li>
 </ul></div>
 

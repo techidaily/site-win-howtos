@@ -1,7 +1,7 @@
 ---
 title: "How to Fix a Non-Responsive Touchpad Scroll Issue: A Step-by-Step Guide"
-date: 2024-12-18T16:55:55.387Z
-updated: 2024-12-22T23:27:54.324Z
+date: 2025-01-11T16:56:32.593Z
+updated: 2025-01-13T17:03:54.890Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1\. Roll back your touchpad driver to an earlier version
@@ -41,16 +41,16 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)  
 
  Find and expand**Mice and other pointing devices** dialog.  
  Then right-click on you touchpad driver to choose**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3)  
 
@@ -60,18 +60,18 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
 
@@ -94,7 +94,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
@@ -119,20 +119,18 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ssential-knowledge-for-youtube-short-creators/"><u>[New] Essential Knowledge for YouTube Short Creators</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essential-screen-recording-tips-for-windows-8-pros/"><u>[Updated] Essential Screen Recording Tips for Windows 8 Pros</u></a></li>
-<li><a href="https://win11.techidaily.com/debugging-made-simple-top-10-windows-fixers/"><u>Debugging Made Simple: Top 10 Windows Fixers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-non-existent-opencl-dynamic-libraries/"><u>Fixing Non-Existent OpenCL Dynamic Libraries</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-your-path-to-a-unique-auditory-experience-customizing-ringtone-and-sound-on-android/"><u>In 2024, Your Path to a Unique Auditory Experience Customizing Ringtone & Sound on Android</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-removal-of-critical-errors-your-ultimate-guide-to-fixing-google-chrome-issues/"><u>Mastering the Removal of Critical Errors: Your Ultimate Guide to Fixing Google Chrome Issues</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/optimal-obs-configuration-tips-for-budget-gaming-pcs/"><u>Optimal OBS Configuration Tips for Budget Gaming PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-wow-crash-132-a-guide-for-users/"><u>Preventing WoW Crash #132: A Guide for Users</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/prime-online-communities-eclipsing-twitterenasity-for-2024/"><u>Prime Online Communities Eclipsing Twitter'enasity for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/proficient-strategies-for-hyperlink-integration-into-tiktok-profiles-for-2024/"><u>Proficient Strategies for Hyperlink Integration Into TikTok Profiles for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-kernel-141-errors-a-practical-approach/"><u>Resolving Kernel 141 Errors: A Practical Approach</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-internet-explorer-is-no-longer-supported-error-a-comprehensive-guide/"><u>Resolving the 'Internet Explorer Is No Longer Supported' Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-when-your-torrent-files-wont-download-tips-and-advice/"><u>Solutions when Your Torrent Files Won't Download - Tips & Advice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-best-way-to-get-more-out-of-gpt-4-turbo-copilot/"><u>The Best Way to Get More Out of GPT-4 Turbo: Copilot</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-common-easy-hacks-blocker-faults-in-apex-legends/"><u>Troubleshooting Common Easy Hacks Blocker Faults in Apex Legends</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-innovative-approaches-to-tiktok-video-construction/"><u>[New] 2024 Approved Innovative Approaches to TikTok Video Construction</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-adding-timers-utilizing-obs-for-countdown-features/"><u>[Updated] 2024 Approved Adding Timers Utilizing OBS for Countdown Features</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-8-best-youtube-video-promotion-services-real/"><u>[Updated] 8 Best Youtube Video Promotion Services (Real)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bugs-and-glitches-the-challenges-of-installing-the-newest-windows-10-v1607-patch/"><u>Bugs and Glitches: The Challenges of Installing the Newest Windows 10 v1607 Patch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-resolving-power-plugs-detected-yet-no-charge-on-windows-os/"><u>Expert Tips for Resolving Power Plugs Detected, Yet No Charge on Windows OS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-a-compreenas-step-by-step-guide-for-bordered-instagram-images/"><u>In 2024, A Compreenas Step-by-Step Guide for Bordered Instagram Images</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-k11x-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo K11x FRP Bypass Instantly</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-digital-dynamics-mastering-youtube-video-distribution-on-facebook/"><u>In 2024, Digital Dynamics Mastering YouTube Video Distribution on Facebook</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-realme-narzo-n53-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Realme Narzo N53 FRP?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-unresponsive-right-clicks-in-windows-11/"><u>Resolving the Issue of Unresponsive Right Clicks in Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-engagement-social-gains/"><u>Social Engagement, Social Gains</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-ensuring-smooth-device-integration-post-windows-11-update/"><u>Step-by-Step Guide: Ensuring Smooth Device Integration Post Windows 11 Update</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-initializer-not-starting-updated-fixes-2021-problem/"><u>Troubleshooting the 'Initializer Not Starting [Updated Fixes, 2021]' Problem</u></a></li>
 </ul></div>
 

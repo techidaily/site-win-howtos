@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot a Black ASUS Camera on Windows 11 Systems
-date: 2025-01-04T23:11:01.806Z
-updated: 2025-01-06T20:45:01.402Z
+date: 2025-01-11T16:45:34.039Z
+updated: 2025-01-13T17:30:58.545Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -58,9 +54,17 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-41-54.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Double-click**Batteries,** and then check if your battery is disabled.
 
@@ -68,11 +72,11 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-18.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this didn’t help, don’t fret. There are still 3 more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Run the power troubleshooter
 
@@ -103,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-53.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for the process to be complete. If your computer fails to fix your problem, check **[fix 4](https://tools.techidaily.com/drivereasy/download/)**  to see if it can help.  
@@ -138,10 +142,6 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-35.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ### Fix 5: Update your BIOS
@@ -155,7 +155,7 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-41-54-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Type **msinfo32** and click **OK** .
@@ -163,7 +163,7 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-44-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Check the **BIOS Version/Date**  to know your BIOS manufacturer.
@@ -171,7 +171,7 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-44-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Go to your BIOS manufacturer’s support website and download the latest update.
@@ -204,16 +204,24 @@ thumbnail: https://thmb.techidaily.com/84523bff91adaad5f05da4dc5462c4e758d2c84a6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-reposting-photosvideos-a-users-manual/"><u>[Updated] 2024 Approved Reposting Photos/Videos A User's Manual</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-olympic-speed-skating-sprint-games-best-performances-for-2024/"><u>[Updated] Olympic Speed Skating Sprint Games' Best Performances for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-explore-the-best-dvd-players-for-your-portable-laptop/"><u>2024 Approved Explore the Best DVD Players for Your Portable Laptop</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-remedy-for-hidden-shorts-video-thumbnails/"><u>2024 Approved Remedy for Hidden Shorts Video Thumbnails</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/3/"><u>無料の動画・音声再生アプリの最終選考: 性能と機能比較レビュー - メディアソフト一覧 | 第3ページ</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-steps-to-address-no-device-found-error-on-windows-7-guide/"><u>Easy Steps to Address 'No Device Found' Error on Windows 7 [Guide]</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-analysis-on-the-modest-and-inexpensive-fitbit-versa-smartwatch/"><u>Expert Analysis on the Modest and Inexpensive Fitbit Versa Smartwatch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-the-process-of-getting-trustee-approval-from-trustedinstaller-to-change-files/"><u>Navigating the Process of Getting Trustee Approval From TrustedInstaller to Change Files</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-directx-component-configuration-failure/"><u>Overcome: DirectX Component Configuration Failure</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tips-correcting-your-mouses-erratic-behavior/"><u>Step-by-Step Tips: Correcting Your Mouse's Erratic Behavior</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-your-websites-potential-with-our-revolutionary-cookiebot-integration/"><u>Unlock Your Website's Potential with Our Revolutionary Cookiebot Integration</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-mastering-money-making-the-ultimate-13-beginners-guide-to-reddit-for-2024/"><u>[New] Mastering Money-Making The Ultimate 13 Beginner's Guide to Reddit for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transition-smoothly-with-chromes-picture-in-picture/"><u>[New] Transition Smoothly with Chrome’s Picture In Picture</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-hiring-heroes-the-most-motivating-vids-of-the-year-1-10-for-2024/"><u>[Updated] Hiring Heroes The Most Motivating Vids of the Year #1-10 for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-non-standard-windows-media-processors-for-2024/"><u>[Updated] Non-Standard Windows Media Processors for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-ultimate-converter-mp4-videos-to-facebook/"><u>2024 Approved Ultimate Converter MP4 Videos to Facebook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-everlasting-flash-tips-and-tricks-for-controlling-your-cursor/"><u>Beat The Everlasting Flash: Tips and Tricks for Controlling Your Cursor</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205937467-bluetooth-troubles-on-windows-11-discover-quick-and-simple-fixes-now/"><u>Bluetooth Troubles on Windows 11? Discover Quick & Simple Fixes Now</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/conversor-de-mpg-para-formato-wav-online-gratuito-movavi/"><u>Conversor De MPG Para Formato WAV Online Gratuito - Movavi</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/dive-deeper-into-life-advanced-strategies-for-capturing-the-essence-of-your-sims-adventures-in-sims-4/"><u>Dive Deeper Into Life Advanced Strategies for Capturing the Essence of Your Sim's Adventures in Sims 4</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/inspirational-movies-fuel-for-the-soul-and-spirit/"><u>Inspirational Movies Fuel for the Soul and Spirit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-reviving-unresponsive-ps4-controllers-charge-restoration-steps-inside/"><u>Master the Art of Reviving Unresponsive PS4 Controllers: Charge Restoration Steps Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-for-err-too-many-redirects-easy-steps-inside/"><u>Quick Fix for ERR TOO MANY REDIRECTS – Easy Steps Inside!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-how-to-repair-a-non-functioning-huion-stylus/"><u>Quick Solutions: How To Repair A Non-Functioning Huion Stylus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-puzzle-of-windows-update-failure-error-0x80240017-unraveled/"><u>Solving the Puzzle of Windows Update Failure - Error 0X80240017 Unraveled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fix-solve-no-pen-or-touch-controls-on-your-screen/"><u>Troubleshooting Fix: Solve 'No Pen or Touch Controls' On Your Screen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-reactivating-wireless-connectivity-on-devices/"><u>Troubleshooting Guide: Reactivating Wireless Connectivity on Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-the-d3d932dll-not-found-problem/"><u>Troubleshooting Steps for the d3d9_32.dll Not Found Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-laptop-microphone-issues-a-comprehensive-guide/"><u>Troubleshooting Your Laptop Microphone Issues - A Comprehensive Guide</u></a></li>
 </ul></div>
 

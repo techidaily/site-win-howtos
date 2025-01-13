@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Correcting Windows Error Code 0X8000FFFF Issues on Your PC
-date: 2024-10-19T17:17:23.748Z
-updated: 2024-10-21T16:11:14.815Z
+date: 2025-01-07T16:18:26.019Z
+updated: 2025-01-13T16:50:56.695Z
 tags:
   - win11
   - win10
@@ -28,18 +28,15 @@ thumbnail: https://thmb.techidaily.com/7ac5f26a6db87f846700248f8f73ccc48783db9e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/0xc0000098-windows-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  _Error Code**0xc0000098**_  o_n Windows 7, Vista_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/0xc0000098.jpg)
 
  _Error Code**0xc0000098**_  o_n Windows 10, 8, 8.1_
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -67,10 +64,7 @@ thumbnail: https://thmb.techidaily.com/7ac5f26a6db87f846700248f8f73ccc48783db9e1
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/download-win-10-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Download the installation media and save it on your computer.
@@ -115,10 +109,7 @@ thumbnail: https://thmb.techidaily.com/7ac5f26a6db87f846700248f8f73ccc48783db9e1
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/command-prompt.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) In Command Prompt, type the following command lines and hit Enter after each command. (There’s a space between**bootrec** and**/** .)
@@ -138,10 +129,7 @@ bootrec /rebuildbcd
  The 0xc0000098 error should now be fixed as your PC begins to load. If not, try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Startup Repair
@@ -157,6 +145,10 @@ bootrec /rebuildbcd
  3) Startup Repair will begin scanning your installation for known issues and will attempt a repair if it finds any.
 
  4) If it fails, you can run Startup Repair again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: CHKDSK
 
@@ -177,10 +169,7 @@ chkdsk C: /f /r /x
 4) Close Command Prompt and restart your device to check if the Windows system can load up again.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: System File Checker
@@ -239,13 +228,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Windows-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type**Check for updates** in the Search box and press**Enter** .
 
 ##### 2\. Device Manager
@@ -273,6 +255,10 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all essential and peripheral drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get**full support** and a no-questions-asked**30-day money back guarantee** .)
 
@@ -302,19 +288,22 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/convert-and-transfer-your-vidme-videos-into-high-quality-mp4-or-avi-format-for-windows-and-macos-systems/"><u>Convert and Transfer Your VidMe Videos Into High-Quality MP4 or AVI Format for Windows & macOS Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/critical-layer-error-windows-c-runtime-missing/"><u>Critical Layer Error: Windows C Runtime Missing</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-hp-printer-scan-utility-on-your-pc-step-by-step-guide/"><u>Download & Install HP Printer Scan Utility on Your PC - Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/hidden-pitfalls-investing-in-fraudulent-subscribers/"><u>Hidden Pitfalls Investing in Fraudulent Subscribers</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/high-quality-video-rescue-hd-edition/"><u>High Quality Video Rescue: HD Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-recurring-crashes-in-warframe-when-gaming-on-windows-or-mac/"><u>How to Fix Recurring Crashes in Warframe When Gaming on Windows or Mac</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-12-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi 12 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-compatibility-issues-in-wow-the-ultimate-guide-to-updating-device-drivers/"><u>Resolving Compatibility Issues in WoW: The Ultimate Guide to Updating Device Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-widevine-content-decryption-unable-problem-in-windows-environments/"><u>Resolving the 'Widevine Content Decryption Unable' Problem in Windows Environments</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-lowdown-on-mses-hefty-hard-drive-footprint-diagnosing-the-reasons-behind-mssecesesexes-resource-intensive-operations/"><u>The Lowdown on MSE's Hefty Hard Drive Footprint: Diagnosing the Reasons Behind msseceses.exe's Resource-Intensive Operations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/upgrade-and-optimize-addressing-lack-of-alpha-blending-in-current-graphic-card/"><u>Upgrade and Optimize: Addressing Lack of Alpha Blending in Current Graphic Card</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-lgs-ultrafine-masterpiece-an-exhaustive-monitoring-guide/"><u>[New] 2024 Approved LG's UltraFine Masterpiece An Exhaustive Monitoring Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mastering-essential-ad-copy-frameworks-on-facebook-for-2024/"><u>[New] Mastering Essential Ad Copy Frameworks on Facebook for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-turbocharge-video-on-snapchat-new-users-edition/"><u>2024 Approved Turbocharge Video on Snapchat New Users Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-zero-price-techniques-for-online-educational-recordings/"><u>2024 Approved Zero Price Techniques for Online Educational Recordings</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/banish-error-code-5-from-your-minecraft-adventure-today/"><u>Banish Error Code 5 From Your Minecraft Adventure Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-unresponsive-space-bar-keys-in-your-new-windows-11-pc/"><u>Dealing with Unresponsive Space Bar Keys in Your New Windows 11 PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/granblue-fantasy-connectivity-hiccups-a-step-by-step-fix-for-relink-not-launching/"><u>Granblue Fantasy Connectivity Hiccups? A Step-by-Step Fix for 'Relink Not Launching'</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-yuva-2-pro-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Yuva 2 Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-persistent-loading-problems-with-vrchat/"><u>How to Resolve Persistent Loading Problems with VRChat</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-securely-backup-your-windows-11-laptop-best-practices-and-tips/"><u>How to Securely Backup Your Windows 11 Laptop – Best Practices and Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-woes-successful-strategies-for-restoring-your-input-device/"><u>Keyboard Woes? Successful Strategies for Restoring Your Input Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/movmp4windows-10/"><u>MOVからMP4への変換:Windows 10の「フォト」アプリケーションを使った方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-casting-errors-on-windows-10-a-complete-guide-to-device-connection-issues/"><u>Overcoming Casting Errors on Windows 10 - A Complete Guide to Device Connection Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-resurrect-lost-gaming-dlls-like-x3d/"><u>Quick-Fix Guide: Resurrect Lost Gaming Dlls Like X3D</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-how-to-correctly-fix-setup-errors-in-your-origin-game/"><u>Resolving Issues: How to Correctly Fix Setup Errors in Your Origin Game</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-non-responsive-fn-keys-expert-tips-for-dell-laptop-users/"><u>Resolving Non-Responsive Fn Keys: Expert Tips for Dell Laptop Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unveiling-the-mystery-behind-dxgidll-in-pubg/"><u>Unveiling the Mystery Behind Dxgi.dll in PUBG</u></a></li>
 </ul></div>
 

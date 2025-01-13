@@ -1,7 +1,7 @@
 ---
 title: Overcoming Setbacks in Windows 10 Version 1607 Upgrade Process
-date: 2024-12-21T18:47:11.092Z
-updated: 2024-12-23T00:46:44.395Z
+date: 2025-01-07T16:29:48.874Z
+updated: 2025-01-13T16:25:21.251Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1\. Roll back your touchpad driver to an earlier version
@@ -41,16 +41,16 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)  
 
  Find and expand**Mice and other pointing devices** dialog.  
  Then right-click on you touchpad driver to choose**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3)  
 
@@ -59,10 +59,6 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 ### Scroll still not working?
@@ -70,7 +66,7 @@ Then click **Device Manager**  to open it.
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
@@ -85,6 +81,10 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -94,7 +94,7 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
@@ -119,24 +119,24 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-aurora-vs-standard-screens-a-detailed-comparison/"><u>[New] In 2024, Aurora vs Standard Screens A Detailed Comparison</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-customize-your-youtube-watch-experience-speed-settings/"><u>[Updated] 2024 Approved Customize Your YouTube Watch Experience (Speed Settings)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-and-repairing-disk-write-errors-in-steam-with-simple-techniques/"><u>Bypassing and Repairing Disk Write Errors in Steam with Simple Techniques</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nt-creation-crossroads-igtv-vs-youtube-which-one-fits-best/"><u>Content Creation Crossroads IGTV Vs. YouTube - Which One Fits Best?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-fixes-for-unexpected-system-restarts-in-windows-10/"><u>Expert Fixes for Unexpected System Restarts in Windows 10</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-unable-to-start-program-error-code-0xc000007b/"><u>How to Fix 'Unable to Start Program' Error Code 0xC000007B</u></a></li>
-<li><a href="https://common-error.techidaily.com/hp-notebook-usb-dilemma-solved-how-to-restore-functionality/"><u>HP Notebook USB Dilemma Solved: How to Restore Functionality</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-oppo-a56s-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Oppo A56s 5G</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mysterious-keys-cessation/"><u>Mysterious Keys Cessation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-crashes-in-nier-automata-on-windows-comprehensive-solutions/"><u>No More Crashes in Nier: Automata on Windows - Comprehensive Solutions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/quick-guide-transform-your-flac-audio-to-mp3-efficiently-using-foobar2000-software/"><u>Quick Guide: Transform Your FLAC Audio to MP3 Efficiently Using Foobar2000 Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/recognizing-and-repairing-a-missing-hard-drive-connection-issue-fixes/"><u>Recognizing and Repairing a Missing Hard Drive Connection Issue [FIXES]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-steam-connection-issues-overcoming-could-not-connect-to-steam-network-errors/"><u>Resolving Steam Connection Issues: Overcoming 'Could Not Connect to Steam Network' Errors</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-filmmakers-toolkit-essential-tips-for-youtube-creators-with-smartphones-for-2024/"><u>The Filmmaker's Toolkit Essential Tips for YouTube Creators with Smartphones for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-oppo-reno-11-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Oppo Reno 11 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-repairing-broken-files-in-windows-11-systems/"><u>Troubleshooting Tips: Repairing Broken Files in Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-camera-malfunction-overcome-error-code-0xa00f4292-with-these-simple-fixes/"><u>Windows Camera Malfunction? Overcome Error Code 0XA00F4292 with These Simple Fixes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-make-every-snap-count-with-these-top-tips/"><u>[Updated] Make Every Snap Count with These Top Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-essence-of-unaltered-audio-ffmpegs-precision-for-2024/"><u>[Updated] The Essence of Unaltered Audio FFmpeg’s Precision for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/practices-for-adding-content-enhancements-cards-for-2024/"><u>Best Practices for Adding Content Enhancements (Cards) for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/canine-capers-puzzles-for-two/"><u>Canine Capers: Puzzles for Two</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/comprehensive-guide-screenflow-pro-on-macos-for-2024/"><u>Comprehensive Guide ScreenFlow Pro on macOS for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminate-game-disruptions-solving-valorants-screen-tearing-problem-efficiently/"><u>Eliminate Game Disruptions: Solving Valorant's Screen Tearing Problem Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-error-driver-not-found-for-wacom-pen-and-touchpad-on-windows-10/"><u>Fixing the Error: 'Driver Not Found' For Wacom Pen & Touchpad on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-when-your-screen-doesnt-accept-certain-inputs/"><u>Fixing the Issue When Your Screen Doesn’t Accept Certain Inputs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-exceptional-online-tv-services-featuring-community-broadcasts/"><u>In 2024, Exceptional Online TV Services Featuring Community Broadcasts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-12-mini-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 12 mini Passcode without a Computer</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-search-of-next-level-video-streaming-alternatives-for-2024/"><u>In Search of Next-Level Video Streaming Alternatives for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/lenovo-keyboards-failing-top-tips-and-tricks-to-restore-your-typing-experience/"><u>Lenovo Keyboards Failing? Top Tips and Tricks to Restore Your Typing Experience</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-reaching-a-wider-audience-using-video-translation-in-tamil/"><u>New Reaching a Wider Audience Using Video Translation in Tamil</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-to-fixed-kernel32-crashes/"><u>Quick Guide to Fixed Kernel32 Crashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-input-not-recognized-issues-displayed-on-monitors/"><u>Resolving 'Input Not Recognized' Issues Displayed on Monitors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-failed-feature-updates-for-windows-10-v1607-a-step-by-step-guide/"><u>Resolving Failed Feature Updates for Windows 10 v1607: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-non-functional-brightness-settings-on-windows-11-devices/"><u>Step-by-Step Solutions for Non-Functional Brightness Settings on Windows 11 Devices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/mlining-monetization-strategies-on-youtube/"><u>Streamlining Monetization Strategies on YouTube</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-overcoming-unexpected-crashes-in-directx-applications/"><u>Troubleshooting Guide: Overcoming Unexpected Crashes in DirectX Applications</u></a></li>
 </ul></div>
 

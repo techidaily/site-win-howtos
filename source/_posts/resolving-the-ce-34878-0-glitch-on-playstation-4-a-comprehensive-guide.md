@@ -1,7 +1,7 @@
 ---
 title: "Resolving the CE-34878-0 Glitch on PlayStation 4: A Comprehensive Guide"
-date: 2024-08-28T00:37:35.579Z
-updated: 2024-08-29T00:37:35.579Z
+date: 2025-01-06T17:16:05.078Z
+updated: 2025-01-13T16:34:44.385Z
 tags:
   - win11
   - win10
@@ -43,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/92035b859f2a33cbba619018ad1ce9e04183738fe
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Fix 1: Restart the PS4 firmware to fix the error CE-34878-0**
 
  This problem can be caused by the**hardware faulty** , so you can firstly try to restart your PS4 console and your PS4 controller to make it reconnect and work again.
@@ -59,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/92035b859f2a33cbba619018ad1ce9e04183738fe
 4) Try to open that game that occurs the error and see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: Update the game software to fix the error CE-34878-0**
 
@@ -93,15 +94,13 @@ thumbnail: https://thmb.techidaily.com/92035b859f2a33cbba619018ad1ce9e04183738fe
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57149ea1bbd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Select**Saved Data in System Storage** if you want to save it in your PS4 system, or you can select**Saved Data on USB Storage Device** in you have inserted the USB drive into your PS4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57150967e5e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Follow the instructions on your screen to finish.
 
 4) After that, go to PS4**Settings** \>**System Storage Management** \>**Applications** .
@@ -109,8 +108,9 @@ thumbnail: https://thmb.techidaily.com/92035b859f2a33cbba619018ad1ce9e04183738fe
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57104ee3d61.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Find the game that occurs the problem and**highlight** it.
 
  3) Press the**Options** **button** and select**Delete** .
@@ -157,17 +157,14 @@ This method works if you are playing games on the disc.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571ceab4acf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 6) Try to open the game and see if it works now.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 4: Put the original HDD to fix the error CE-34878-0**
 
  If you have upgraded your Hard Disc Drive (HDD) recently, it may also impact the game performance. So you can try to install the original HDD back in your PS4 to solve this problem. Before you reinstall the original HDD, you may need to back the data currently saved in your PS4 first.
@@ -180,9 +177,6 @@ This method works if you are playing games on the disc.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571f302df44.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Confirm which data you’d like to back up. If you choose not to back up applications, you’ll need to download or reinstall them when/if you eventually restore with the back up you’re creating.
 
  5) Customize the name of the back up. Once you’ve done that, highlight**Back Up** and press the**X button** .
@@ -195,9 +189,6 @@ This method works if you are playing games on the disc.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 5: Initialize your PS4 to fix the error CE-34878-0**
 
  This method works for many PS4 users. If you are still getting the error CE-34878-0, you may try to initialize your PS4 to fix it. Initialization  deletes data saved on system storage and deletes all users and their data from the system.
@@ -210,12 +201,13 @@ This method works if you are playing games on the disc.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571f9eebce2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Select**Full** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571fc9dcd29.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Follow the instructions to complete.
 
@@ -224,6 +216,10 @@ This method works if you are playing games on the disc.
 5) Try the games to see if it works now.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 6: Disconnect the PS camera to fix the error CE-34878-0**
 
@@ -234,8 +230,9 @@ This method works if you are playing games on the disc.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57223d14e7d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Select the camera to turn off. Then**power cycle** your PS4.
 
  3) Go to PS4**Settings** \>**User** \>**Login** **Settings** .
@@ -245,6 +242,10 @@ This method works if you are playing games on the disc.
  3) Uncheck**Enable Face Recognition** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5722a8637ae.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Try your game/application again.
 
@@ -269,8 +270,6 @@ This method works if you are playing games on the disc.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -278,4 +277,20 @@ This method works if you are playing games on the disc.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-navigate-through-apples-best-in-class-virtual-reality-games/"><u>[Updated] In 2024, Navigate Through Apple's Best-in-Class Virtual Reality Games</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-understanding-and-evaluating-blackberrys-playbook-tablet/"><u>Comprehensive Guide: Understanding and Evaluating BlackBerry's PlayBook Tablet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-detectives-tackling-tech-troubles-with-chatai/"><u>Digital Detectives: Tackling Tech Troubles with ChatAI</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/direct-to-printer-access-for-flipbook-content-tips-and-tricks-using-flipbuilder-technology/"><u>Direct-to-Printer Access for Flipbook Content: Tips and Tricks Using FlipBuilder Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x80072ee7-in-the-windows-store-easy-fixes-unveiled/"><u>Error 0X80072EE7 in the Windows Store: Easy Fixes Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-80240020-on-your-mind-heres-how-to-successfully-install-windows-11/"><u>Error 80240020 on Your Mind? Here's How to Successfully Install Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installation-tutorial-windows-compatible-usb-bt400/"><u>Installation Tutorial: Windows Compatible USB BT400</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-no-audio-output-device-found-issues-on-windows-11-a-step-by-step-guide/"><u>Resolving 'No Audio Output Device Found' Issues on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-errors-quickly-using-system-file-check-sfc-and-deployment-imaging-service-dism/"><u>Resolving Windows Errors Quickly Using System File Check (SFC) and Deployment Imaging Service (DISM)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-correct-chronology-for-enjoying-every-episode-of-dragon-ball-a-watchers-guide/"><u>The Correct Chronology for Enjoying Every Episode of Dragon Ball - A Watcher's Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-fortnite-gaming-for-your-discontinued-windows-graphics-card-a-fix-guide/"><u>Unlocking Fortnite Gaming for Your Discontinued Windows Graphics Card: A Fix Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208329490-windows-10-users-say-goodbye-to-keyboard-latency-issues/"><u>Windows 10 Users, Say Goodbye to Keyboard Latency Issues!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/yahoo-messengers-legacy-understanding-its-history-and-eventual-closure/"><u>Yahoo! Messenger's Legacy: Understanding Its History and Eventual Closure</u></a></li>
+</ul></div>
 

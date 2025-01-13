@@ -1,7 +1,7 @@
 ---
 title: USB Mouse Not Working on Laptop? Try These Fixes!
-date: 2024-12-31T01:42:11.608Z
-updated: 2025-01-06T20:38:20.844Z
+date: 2025-01-06T16:13:24.383Z
+updated: 2025-01-13T16:35:06.137Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cause of USB Mouse Not Working
 
 * **Hardware Damage**
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 * **Inappropriate surface**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -43,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 2. [Replug your USB cable or USB receiver](#fix1)
 3. [Restart your laptop](#fix3)
 4. [Update your mouse driver](#fix4)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware damage
 
@@ -64,10 +64,14 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4d8efba92bc.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4d8f0a4ba40.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Wait for 1-3 minutes.
@@ -104,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/Driver-Easy-Scan-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to your flagged mouse driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro Version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a**30-day money-back guarantee** . You’ll be prompted to upgrade when you click Update All.)
@@ -115,7 +115,7 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/Update-all-drivers-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -143,24 +143,15 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-revolutionize-your-shooting-essential-camera-gear-guide-for-2024/"><u>[New] Revolutionize Your Shooting Essential Camera Gear Guide for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-key-video-beginnings-identifying-the-best-16-for-more-watches/"><u>[Updated] 2024 Approved Key Video Beginnings Identifying the Best 16 for More Watches</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/icloud/"><u>初心者用iCloud写真ダウンロード方法：５つのステップバイステップ・チュートリアル</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypassing-windows-11-v1803-update-failures-a-comprehensive-solution-guide/"><u>Bypassing Windows 11 (v1803) Update Failures: A Comprehensive Solution Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/collaborate-with-alibaba-cloud-develop-tailored-generative-ai-solutions/"><u>Collaborate with Alibaba Cloud: Develop Tailored Generative AI Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-methods-to-save-what-you-see-on-your-pc-as-an-image/"><u>Easy Methods to Save What You See on Your PC as an Image</u></a></li>
-<li><a href="https://extra-information.techidaily.com/effortless-motion-pictures-time-lapse-on-samsung-galaxy/"><u>Effortless Motion Pictures Time-Lapse on Samsung Galaxy</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-gionee-by-drfone-android/"><u>How to Bypass FRP on Gionee?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-11-update-error-0x80070541-step-by-step-guide/"><u>How to Fix Windows 11 Update Error 0X80070541: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-quickly-address-windows-update-getting-stuck-on-0-barrier/"><u>How to Quickly Address Windows Update Getting Stuck on 0% Barrier</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-recover-from-the-sfc-service-failure-on-your-pc/"><u>How to Successfully Recover From the Sfc Service Failure on Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/monitor-and-source-mismatch-error-incorrect-display-timing-configuration/"><u>Monitor and Source Mismatch Error - Incorrect Display Timing Configuration</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ps4-controller-not-holding-charge-solve-that-problem-now/"><u>PS4 Controller Not Holding Charge? Solve That Problem Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-file-explorer-freezing-issues-on-windows-10-a-complete-guide/"><u>Resolving File Explorer Freezing Issues on Windows 10: A Complete Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-victory-chronicles-tackling-failed-nvidia-deployments/"><u>The Victory Chronicles: Tackling Failed NVIDIA Deployments</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-modules-in-your-system-expert-solutions/"><u>Troubleshooting Missing Modules in Your System – Expert Solutions</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/troubleshooting-your-pcs-startup-issues-with-yl-software-solutions/"><u>Troubleshooting Your PC's Startup Issues with YL Software Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-essential-hidden-tools-on-your-mac-unlock-them-for-free/"><u>Ultimate Guide: Essential, Hidden Tools on Your Mac - Unlock Them for Free!</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-of-the-incredible-tools-hidden-under-final-cut-pro-x-we-bring-final-cut-pro-l-cuts-and-j-cuts-in-todays-article-learn-what-is-a-j-cut-in-fin/"><u>Updated In 2024, Of the Incredible Tools Hidden Under Final Cut Pro X, We Bring Final Cut Pro L-Cuts and J-Cuts in Todays Article. Learn What Is a J-Cut in Final Cut Pro Along with an L-Cut and How to Do Them in FCPX</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/discovering-the-secret-to-instagram-voice-change-for-2024/"><u>Discovering the Secret to Instagram Voice Change for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/halting-the-incessant-flicker-effective-ways-to-fix-a-flashing-pointer/"><u>Halting the Incessant Flicker: Effective Ways to Fix a Flashing Pointer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Simulate GPS Movement in AR games On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-open-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock OnePlus Open Phone Without Password?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-update-woes-8-essential-fixes-for-windows-10-error-code-0x800f0922/"><u>Solve Update Woes: 8 Essential Fixes for Windows 10 Error Code 0X800f0922</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-non-responsive-touchpad-scroll-problem-in-windows-10/"><u>Troubleshooting a Non-Responsive Touchpad Scroll Problem in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-how-to-fix-your-computer-when-its-stuck-at-the-getting-windows-ready-screen/"><u>Troubleshooting Steps: How to Fix Your Computer When It's Stuck at the 'Getting Windows Ready' Screen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zoom-updates-made-easy-tips-for-keeping-your-desktop-app-current/"><u>Zoom Updates Made Easy – Tips for Keeping Your Desktop App Current</u></a></li>
 </ul></div>
 

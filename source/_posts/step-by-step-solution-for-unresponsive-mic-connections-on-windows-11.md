@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Unresponsive Mic Connections on Windows 11
-date: 2025-01-02T04:24:40.258Z
-updated: 2025-01-07T04:11:48.000Z
+date: 2025-01-07T16:35:34.148Z
+updated: 2025-01-13T16:33:59.462Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/a6e5c2635593081e4b6078ab257c66dc8d161f27c
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
@@ -52,7 +52,7 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -76,16 +76,12 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -126,9 +122,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -137,10 +141,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -184,18 +184,21 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-capture-your-vision-leading-tablet-art-tools/"><u>[New] 2024 Approved Capture Your Vision Leading Tablet Art Tools</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-discover-the-potential-detailed-look-at-showmore-as-your-recording-companion/"><u>[New] Discover the Potential Detailed Look at ShowMore as Your Recording Companion</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-xiaomi-mi-11-crafting-memories-in-unprecedented-detail-for-2024/"><u>[Updated] Xiaomi Mi 11 Crafting Memories in Unprecedented Detail for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fears-arise-as-d3d-devices-falter-impacting-unreal/"><u>Fears Arise as D3D Devices Falter, Impacting Unreal</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-failed-update-issues-in-your-favorite-mmo-warframe/"><u>How to Overcome Failed Update Issues in Your Favorite MMO, Warframe</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-samsung-galaxy-z-fold-5-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Samsung Galaxy Z Fold 5 to Another | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-oppo-reno-9a-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Oppo Reno 9A Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-battlefield-solutions-for-fixing-interruptions-in-online-gaming-arenas/"><u>Mastering the Battlefield: Solutions for Fixing Interruptions in Online Gaming Arenas</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/rapid-releases-review-best-quick-gaming-selections/"><u>Rapid Releases Review Best Quick Gaming Selections</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-uncovering-the-causes-of-game-security-breach-alerts/"><u>Resolved: Uncovering the Causes of 'Game Security Breach' Alerts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-livekernelevent-144-exception-a-comprehensive-guide/"><u>Resolving the LiveKernelEvent 144 Exception: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/unbelievable-examination-and-replacement-ideas-for-2024/"><u>Unbelievable Examination & Replacement Ideas for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unveiling-msda80dll-should-you-retain-this-critical-component-on-your-computer/"><u>Unveiling MSDA80.DLL: Should You Retain This Critical Component on Your Computer?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-facebooks-micro-video-revolution-insights-into-2023-landscape-for-2024/"><u>[New] Facebook's Micro-Video Revolution Insights Into 2023 Landscape for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleashing-profitability-with-innovative-fb-animation-techniques-for-2024/"><u>[New] Unleashing Profitability with Innovative FB Animation Techniques for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-revolutionizing-patient-engagement-with-creative-fb-strategies/"><u>[Updated] Revolutionizing Patient Engagement with Creative FB Strategies</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-pixels-to-perfection-design-tips-for-captivating-banners/"><u>2024 Approved Pixels to Perfection Design Tips for Captivating Banners</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-your-visual-storytelling-with-top-montage-mobile-aids/"><u>Elevate Your Visual Storytelling with Top Montage Mobile Aids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/guide-ultime-reduire-la-taille-des-fichiers-multimedias-avec-un-transfert-gratuit-h264-vers-h2erix5-et-conserver-une-haute-qualite/"><u>Guide Ultime : Réduire La Taille Des Fichiers Multimédias Avec Un Transfert Gratuit H.264 Vers H.2erix5 Et Conserver Une Haute Qualité</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-internet-explorer-when-it-refuses-to-launch-solutions-inside/"><u>How to Fix Internet Explorer When It Refuses to Launch - Solutions Inside</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-apple-iphone-6-plus-location-on-skout-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Apple iPhone 6 Plus Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-fixes-for-power-state-driver-issues-in-windows-devices/"><u>Mastering Fixes for Power State Driver Issues in Windows Devices</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-elusive-energy-duration-display-on-pcs-running-win-11/"><u>Rectifying Elusive Energy Duration Display on PCs Running Win 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-persistent-buffering-problems-on-kodi-fixed-solutions/"><u>Resolve Persistent Buffering Problems on Kodi - Fixed Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restore-brightness-to-your-keys-solving-macwindows-keyboard-backlight-failures/"><u>Restore Brightness to Your Keys: Solving Mac/Windows Keyboard Backlight Failures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-to-make-unsupported-graphics-driver-compatible-with-miracast-technology/"><u>Solution to Make Unsupported Graphics Driver Compatible with Miracast Technology</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/top-5-captivating-videos-from-the-world-of-fb-for-2024/"><u>Top 5 Captivating Videos From the World of FB for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-enhance-your-keyboards-reaction-time-quickly/"><u>Troubleshoot and Enhance Your Keyboard's Reaction Time Quickly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-unable-to-complete-wrp-requested-operation-quickly/"><u>Troubleshoot and Fix 'Unable to Complete WRP Requested Operation' Quickly</u></a></li>
 </ul></div>
 

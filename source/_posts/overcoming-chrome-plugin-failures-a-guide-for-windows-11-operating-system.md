@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Chrome Plugin Failures: A Guide for Windows 11 Operating System"
-date: 2025-01-01T17:52:11.211Z
-updated: 2025-01-06T22:19:29.870Z
+date: 2025-01-07T16:20:53.528Z
+updated: 2025-01-13T16:57:49.399Z
 tags:
   - win11
   - win10
@@ -47,10 +47,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
@@ -58,6 +54,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -68,7 +68,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
@@ -77,17 +77,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
@@ -98,15 +94,19 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -117,7 +117,7 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
@@ -154,15 +154,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-often-can-creators-expect-to-be-paid-by-youtube-for-2024/"><u>[New] How Often Can Creators Expect to Be Paid by YouTube for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-perfect-timing-for-on-screen-dialogue-in-your-youtube-productions/"><u>[Updated] 2024 Approved Perfect Timing for On-Screen Dialogue in Your YouTube Productions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-close-up-confidence-navigating-google-meets-zoom-feature/"><u>[Updated] In 2024, Close-Up Confidence Navigating Google Meet's Zoom Feature</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/bridge-the-gap-youtube-tweet-functionality-for-2024/"><u>Bridge the Gap YouTube Tweet Functionality for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-screen-flicker-issues-on-windows-11-a-comprehensive-guide/"><u>Fixing Screen Flicker Issues on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-unlock-a-password-protected-system-drive-on-windows-10/"><u>How to Unlock a Password-Protected System Drive on Windows 10</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-conquer-online-video-platforms-zooming-into-youtube-and-fb-lives/"><u>In 2024, Conquer Online Video Platforms Zooming Into YouTube & FB Lives</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-camera-not-supported-on-windows-error-code-0xa00f4292-guide/"><u>Resolving 'Camera Not Supported' On Windows - Error Code 0xA00F4292 Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/sims-4-loading-woes-heres-how-you-can-fix-it/"><u>Sims 4 Loading Woes? Here's How You Can Fix It!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-google-pixel-8-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Google Pixel 8 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nlocking-potential-creating-compelling-content-on-your-phone-for-2024/"><u>[New] Unlocking Potential Creating Compelling Content on Your Phone for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-xerox-phaser-8120c-color-printer-user-guide-and-drivers/"><u>Download Xerox Phaser 8120C Color Printer - User Guide & Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-guide-troubleshooting-and-repairing-error-ebd-c0fe3897-b4f0-4aa5-a8e1-2dd5d3cbcefa-in-windows/"><u>Effortless Guide: Troubleshooting and Repairing Error Ebd-C0fe3897-B4f0-4aa5-A8e1-2dd5d3cbcefa in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-fixes-for-windows-10-not-shutting-down-now-resolved/"><u>Expert Fixes for Windows 10 Not Shutting Down - Now Resolved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correctly-fix-the-bluetooth-disappeared-error-on-windows-11-a-simple-guide/"><u>How to Correctly Fix the 'Bluetooth Disappeared' Error on Windows 11 – A Simple Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-d3derr-notavailable-mistake-in-windows-systems/"><u>How To Overcome the 'D3DERR NOTAVAILABLE' Mistake in Windows Systems</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-capture-cinema-mobile-and-desktop-device-movie-recording/"><u>In 2024, Capture Cinema Mobile & Desktop Device Movie Recording</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-file-shift-quick-and-easy-transfer-tactics-for-the-computer/"><u>Mastering File Shift Quick and Easy Transfer Tactics for the Computer</u></a></li>
+<li><a href="https://win-unique.techidaily.com/mastering-your-storage-solutions-essential-tips-on-hdd-management-by-yl-software/"><u>Mastering Your Storage Solutions: Essential Tips on HDD Management by YL Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcome-your-lol-communication-hurdles-a-guide-when-voice-chat-wont-work/"><u>Overcome Your LoL Communication Hurdles: A Guide When Voice Chat Won't Work</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-unreachable-website-error-in-google-chrome-step-by-step-solution/"><u>Resolving the Unreachable Website Error in Google Chrome - Step-by-Step Solution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-guide-transforming-mpeg4-files-into-avi-format-with-easy-windows-tutorial/"><u>Simple Guide: Transforming MPEG4 Files Into AVI Format with Easy Windows Tutorial</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-your-connection-issues-how-to-get-airpods-working-with-windows-11/"><u>Solving Your Connection Issues: How To Get AirPods Working with Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-escaping-the-endless-load-of-roblox-games/"><u>Step-by-Step Guide: Escaping the Endless Load of Roblox Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-miracast-connectivity-problems-tips-to-fix-device-support-issues/"><u>Troubleshoot Miracast Connectivity Problems: Tips to Fix Device Support Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-making-your-usb-drive-detectable-again/"><u>Troubleshooting Guide: Making Your USB Drive Detectable Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-ftdi-bus-system-errors-driver-incompatibility-causes-loss-of-memory-protection/"><u>Understanding FTDI Bus System Errors: Driver Incompatibility Causes Loss of Memory Protection</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unveiling-5-strategies-for-fb-story-access-on-pctablet-and-phone-for-2024/"><u>Unveiling 5 Strategies for FB Story Access on PC/Tablet and Phone for 2024</u></a></li>
 </ul></div>
 

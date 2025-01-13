@@ -1,7 +1,7 @@
 ---
 title: "Remedies for a Broken '@' Key: A Comprehensive Fix Guide"
-date: 2025-01-05T00:57:16.871Z
-updated: 2025-01-07T03:20:29.498Z
+date: 2025-01-06T16:55:55.644Z
+updated: 2025-01-13T16:20:16.226Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/937c541b992b0530a2d9f47c677a74bf9df2301f6
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Reset your Windows Update components
 
@@ -70,7 +66,7 @@ net start cryptsvc
  If it is, then you’ve solved your problem. But if not, you may need to…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Modify your Windows setting in the registry
@@ -84,9 +80,17 @@ net start cryptsvc
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-905.png)
 3. If prompted, click**Yes** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. On the Registry Editor, click**File** , then select**Export** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-917.png)
 5. Select_a place to save your backup copy_ , then click**Save** to save the backup.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-918.png)
 6. Wait for the export process to be complete.
@@ -96,20 +100,16 @@ net start cryptsvc
 8. Double click**DisableWindowsUpdateAccess** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-920.png)
 9. Change the**value data** to**0** , then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-923.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now try running Windows Update. If the steps above worked for you, you won’t see the “0x8024002e” error there.
@@ -124,8 +124,16 @@ To do so:
 2. Type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 3. Click the**Services** tab. Then check**Hide all Microsoft services** (**FIRST** ) and click**Disable all** . After that, click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
 6. Click**OK** .
@@ -138,14 +146,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 10. Click the**Services** tab. Check**Hide all Microsoft services** . Then**enable** **any** disabled service (by**selecting its checkbox** ) and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3b3ebfca4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 11. Click**Restart** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
@@ -156,15 +156,15 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 14. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
 16. Click**OK** and then click**Restart** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 17. Check to see if the error occurs. If it doesn’t, repeat step**13 to 16**  until you find out the startup item that causes the issue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If there’s any startup item that causes the 0x8024002e error, you should see what program is this item related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
 
@@ -189,17 +189,20 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-mastering-quieter-recordings-basic-or-advanced-techniques/"><u>[New] 2024 Approved Mastering Quieter Recordings - Basic or Advanced Techniques</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-your-speech-any-sound-discover-the-best-vocal-transformation-tools-on-android/"><u>[New] Your Speech, Any Sound Discover the Best Vocal Transformation Tools on Android</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-key-to-viral-posts-on-instagram-unveiled/"><u>2024 Approved The Key to Viral Posts on Instagram Unveiled</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-guide-on-downloading-and-setting-up-your-epson-xp-830-drivers/"><u>Complete Guide on Downloading and Setting Up Your Epson XP-830 Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723017005304-csgo-sound-trouble-heres-how-to-get-your-mic-working-again/"><u>CS:GO Sound Trouble? Here's How to Get Your Mic Working Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correctly-troubleshoot-and-repair-audio-errors-with-youtube-player-on-windows-10/"><u>How to Correctly Troubleshoot and Repair Audio Errors with YouTube Player on Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-videodxgkrnlfatalerror-a-comprehensive-fix-for-windows-operating-systems/"><u>Overcoming Video_Dxgkrnl_Fatal_Error: A Comprehensive Fix for Windows Operating Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-issue-of-disabled-night-light-on-your-windows-11-pc/"><u>Solving the Issue of Disabled Night Light on Your Windows 11 PC</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-art-of-auditory-transformation-replacing-audio-in-videos-step-by-step-for-2024/"><u>The Art of Auditory Transformation Replacing Audio in Videos Step by Step for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-photography-gear-for-optimal-shoots/"><u>Top-Rated Photography Gear for Optimal Shoots</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-pc-crashes-during-gameplay-on-windows-11107818/"><u>Troubleshooting Guide: PC Crashes During Gameplay on Windows 11/10/7/8.1/8</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719293285605-windows-11-woes-re-opening-chrome-made-simple/"><u>Windows 11 Woes: Re-Opening Chrome Made Simple.</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-enhance-photos-on-the-go-top-10-no-cost-android-and-iphone-editors/"><u>[New] In 2024, Enhance Photos on the Go – Top 10 No-Cost Android & iPhone Editors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-googles-technique-for-crystal-clear-speech-translation-for-2024/"><u>[Updated] Google's Technique for Crystal Clear Speech Translation for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-reviving-a-failed-corsair-keyboard-a-step-by-step-guide/"><u>Expert Advice: Reviving a Failed Corsair Keyboard - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-lenovo-mouse-pad-issues-on-windows-10-8-and-7-step-by-step-solutions/"><u>Fix Lenovo Mouse Pad Issues on Windows 10, 8 & 7: Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-resetting-issues-and-solve-reset-failed-due-to-an-issue-in-windows-11-systems/"><u>How to Overcome Resetting Issues & Solve 'Reset Failed Due To An Issue' In Windows 11 Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/keep-spotify-running-smoothly-even-after-securing-your-iphone/"><u>Keep Spotify Running Smoothly Even After Securing Your iPhone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-windows-update-challenge-clear-error-8007000e-effortlessly/"><u>Overcome Windows Update Challenge: Clear Error 8007000E Effortlessly!</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/seamless-setup-for-auto-snapshot-creation-in-aws-detailed-instructional-trilogy/"><u>Seamless Setup for Auto Snapshot Creation in AWS - Detailed Instructional Trilogy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/stuck-on-a-pdf-that-wont-print-easy-remedies-inside/"><u>Stuck On A PDF That Won't Print? Easy Remedies Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/swiftly-resolve-missing-dll-errors-on-gaming-platforms/"><u>Swiftly Resolve Missing DLL Errors on Gaming Platforms</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-raspberry-pi-hat-selections-of-the-year-find-your-perfect-2024-add-on-solution/"><u>The Best Raspberry Pi HAT Selections of the Year: Find Your Perfect 2024 Add-On Solution!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-troubleshooting-for-handbrake-resolving-output-not-sequential-issues/"><u>Ultimate Troubleshooting for Handbrake: Resolving Output Not Sequential Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/unblocking-facebook-games-from-googles-browser-shutdown/"><u>Unblocking Facebook Games From Google's Browser Shutdown</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-10-essential-animation-software-for-modern-education-for-2024/"><u>Updated 10 Essential Animation Software for Modern Education for 2024</u></a></li>
 </ul></div>
 

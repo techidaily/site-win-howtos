@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Solutions for Unresponsive Laptop Trackballs Under Windows
-date: 2025-01-01T00:23:57.513Z
-updated: 2025-01-06T22:51:42.186Z
+date: 2025-01-11T16:20:11.011Z
+updated: 2025-01-13T16:48:14.378Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Fixes For Laptop Keys Not Working On HP
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3
 4. [**Reseat your laptop battery**](#F4)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
 
@@ -62,7 +58,7 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -79,10 +75,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -92,6 +84,10 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -117,6 +113,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -138,6 +138,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
@@ -145,10 +149,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -184,21 +184,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-playbook-for-facebook-videos-to-attract-more-viewers-for-2024/"><u>[New] The Ultimate Playbook for Facebook Videos to Attract More Viewers for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-how-to-fix-stellaris-crash/"><u>[SOLVED] How to Fix Stellaris Crash?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-adopt-a-universal-strategy-how-to-record-your-favorite-youtube-lives-on-any-device/"><u>[Updated] Adopt a Universal Strategy How To Record Your Favorite YouTube Lives on Any Device</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-essential-android-video-capture-the-best-5-picks/"><u>[Updated] In 2024, Essential Android Video Capture The Best 5 Picks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/astrological-flair-in-digital-self-portrayals-on-whatsapp/"><u>Astrological Flair in Digital Self-Portrayals on WhatsApp</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-c110-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from C110.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-epson-wf-2630-printer-drivers-compatible-with-windows-7-81-and-10/"><u>Download Epson WF-2630 Printer Drivers Compatible with Windows 7, 8.1 & 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-getting-your-dells-usb-port-up-and-running-again/"><u>Expert Tips for Getting Your Dell's USB Port Up & Running Again</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-your-lost-sound-controls-volume-icons-on-windows-10-visual-instructions-included/"><u>How to Restore Your Lost Sound Controls (Volume Icons) on Windows 10 - Visual Instructions Included</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-designing-dramatic-beginnings-in-podcasts/"><u>In 2024, Designing Dramatic Beginnings in Podcasts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ps4-and-blu-ray-compatibility-guide-solving-problems-with-disc-playback/"><u>PS4 and Blu-Ray Compatibility Guide: Solving Problems with Disc Playback</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-and-simple-guide-resolving-damaged-driver-issues-instantly/"><u>Quick and Simple Guide: Resolving Damaged Driver Issues Instantly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-tips-for-fixing-no-miracast-support-on-this-device/"><u>Top Tips for Fixing 'No Miracast Support on This Device'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-essentials-effortless-solutions-for-fixing-call-of-duty-black-ops-4-bugs/"><u>Troubleshooting Essentials: Effortless Solutions for Fixing Call of Duty Black Ops 4 Bugs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-the-no-bootable-device-found-dilemma/"><u>Ultimate Guide: Solving the 'No Bootable Device Found' Dilemma</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-against-windows-11s-troublesome-update-issue-code-0x800705b4-explained/"><u>Winning Against Windows 11'S Troublesome Update Issue: Code 0X800705b4 Explained</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/earn-to-save-youtube-playback-as-a-free-screencast-for-2024/"><u>[New] Learn to Save YouTube Playback as a Free Screencast for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-grand-gaming-odyssey-our-list-of-best-action-adventures/"><u>[New] The Grand Gaming Odyssey Our List of Best Action-Adventures</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-beginners-manual-to-windows-8-film-creation/"><u>[Updated] A Beginner's Manual to Windows 8 Film Creation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-flawless-frequency-facilitator-for-voices/"><u>[Updated] Flawless Frequency Facilitator for Voices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/alleviate-io-scheduling-conflict/"><u>Alleviate I/O Scheduling Conflict</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-bogus-critical-error-popup-on-google-chrome-with-these-hacks/"><u>Bypassing the Bogus 'Critical Error' Popup on Google Chrome with These Hacks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-strategies-to-repair-the-critical-system-files-and-tackle-error-0xc00aturate-your-pc/"><u>Comprehensive Strategies to Repair the Critical System Files and Tackle Error 0Xc00aturate Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-troubleshooting-windows-network-issue-error-0x800704cf/"><u>Effective Fixes for Troubleshooting WINDOWS Network Issue (Error 0X800704CF)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ensuring-smooth-mousepad-functionality-in-all-windows-systems-tips-and-tricks-for-win-1087-users/"><u>Ensuring Smooth Mousepad Functionality in All Windows Systems: Tips and Tricks for Win 10/8/7 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-solutions-for-windows-installation-problems-now-fixed/"><u>Fast Solutions for Windows Installation Problems - Now Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-11-0x800705b4-update-error-a-comprehensive-guide/"><u>Fixing the Windows 11 0X800705b4 Update Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-determine-if-system-configurations-are-controlled-by-admin-in-windows/"><u>How to Determine If System Configurations Are Controlled by Admin in Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-a-compreited-chronological-catalog-of-your-image-collection/"><u>In 2024, A Compreited Chronological Catalog of Your Image Collection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-fixing-problems-with-windows-update-strategies-and-techniques/"><u>Master The Art Of Fixing Problems With Windows Update: Strategies And Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-function-key-problems-effective-strategies-and-tips-unveiled/"><u>Overcoming Function Key Problems: Effective Strategies and Tips Unveiled</u></a></li>
+<li><a href="https://review-topics.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-itel-p55t-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-disabling-the-personal-access-code-on-windows-11/"><u>Step-by-Step Guide: Disabling the Personal Access Code on Windows 11</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unraveling-the-mystery-how-premiere-and-after-effects-differ-in-video-production/"><u>Updated In 2024, Unraveling the Mystery How Premiere and After Effects Differ in Video Production</u></a></li>
 </ul></div>
 

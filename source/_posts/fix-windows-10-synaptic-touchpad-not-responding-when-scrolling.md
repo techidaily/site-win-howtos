@@ -1,7 +1,7 @@
 ---
 title: "Fix: Windows 10 Synaptic Touchpad Not Responding When Scrolling"
-date: 2024-09-05T10:00:22.299Z
-updated: 2024-09-06T10:00:22.299Z
+date: 2025-01-07T17:06:12.052Z
+updated: 2025-01-13T16:46:21.686Z
 tags:
   - win11
   - win10
@@ -19,26 +19,8 @@ Touchpad scroll gives you much convenience to drag content on desktop without us
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59648fd6c4402.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  No panic any more. Here in this post, we will be showing you the tried-and-true **methods to fix touchpad scroll not working issue on Windows 10** . Actually, the methods also suits for other Windows operating system. Go on with the methods and make sure to try next if the only one didn’t help you.
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 1\. Roll back your touchpad driver to an earlier version
 
  Many users fix their touchpad not scrolling issue by rolling back the driver. Follow the steps below.
@@ -50,6 +32,10 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59647a68c0870.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)  
 
  Find and expand**Mice and other pointing devices** dialog.  
@@ -58,17 +44,9 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596584fcb1172.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3)  
 
  Choose to view on**Driver** pane.  
@@ -77,35 +55,19 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5965873a68e49.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2\. Update your touchpad driver
 
  To update driver, you also can go to the manufacturer’s website to download the latest driver for your touchpad. If you are not a computer savvy, we advise you use driver tools to help you.
@@ -126,6 +88,10 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
 
  That’s all there is to it. Any questions please feel free to let us know by leaving comments below, thanks.
@@ -139,8 +105,6 @@ Then click **Device Manager**  to open it.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +112,26 @@ Then click **Device Manager**  to open it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-boost-views-through-effective-youtube-thumbnail-selection/"><u>[New] 2024 Approved Boost Views Through Effective YouTube Thumbnail Selection</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/est-screen-replayer-for-high-impact-youtubing-experience/"><u>[New] Best Screen Replayer for High-Impact YouTubing Experience</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-decoding-the-art-of-fb-video-downloads-in-hd/"><u>[Updated] 2024 Approved Decoding the Art of FB Video Downloads in HD</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-rapid-video-filming-techniques-for-tiktok-success/"><u>[Updated] In 2024, Rapid Video Filming Techniques for TikTok Success</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-minecrafts-oriental-elegance-6-top-ideas-for-2024/"><u>[Updated] Minecraft's Oriental Elegance 6 Top Ideas for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-numeric-precision-the-art-of-editing-tiktok-counts/"><u>2024 Approved Numeric Precision The Art of Editing TikTok Counts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-bug-a-guide-through-fixing-update-code-0x800f0922-on-your-windows-11-device/"><u>Beat the Bug: A Guide Through Fixing Update Code 0X800f0922 on Your Windows 11 Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/incompatibility-issues-leading-to-ftdi-bus-system-memory-integrity-failure/"><u>Incompatibility Issues Leading to FTDI Bus System Memory Integrity Failure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-sound-issues-solve-unresponsive-microphone-problems-now/"><u>Laptop Sound Issues? Solve Unresponsive Microphone Problems Now!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/leveraging-your-roku-setup-for-exclusive-fb-live-content-for-2024/"><u>Leveraging Your Roku Setup for Exclusive FB Live Content for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-windows-11-performance-by-addressing-high-disk-space-use-from-telemetry-tool/"><u>Optimizing Windows 11 Performance by Addressing High Disk Space Use From Telemetry Tool</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premier-20-unrestricted-pubg-montage-samples/"><u>Premier 20 Unrestricted PUBG Montage Samples</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fix-youtube-sound-issues-after-updating-windows-10/"><u>Resolved: Fix YouTube Sound Issues After Updating Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-overview-fixing-malfunctioning-function-keys-on-your-dell-laptop-system/"><u>Solution Overview: Fixing Malfunctioning Function Keys on Your Dell Laptop System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-dx11-v100-glitch-in-wwe-2k-battlegrounds-step-by-step-guide/"><u>Solving the DX11 v10.0 Glitch in WWE 2K Battlegrounds: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-power-state-errors-linked-to-drivers-on-windows-system/"><u>Step-by-Step Solution for Power State Errors Linked to Drivers on Windows System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fix-for-error-0x80070426-on-your-windows-10-system/"><u>Troubleshooting Fix for Error 0X80070426 on Your Windows 10 System</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/virtual-battlegrounds-top-7-fps-showdowns/"><u>Virtual Battlegrounds Top 7 FPS Showdowns</u></a></li>
+</ul></div>
 

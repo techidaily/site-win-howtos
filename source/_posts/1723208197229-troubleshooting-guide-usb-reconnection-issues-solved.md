@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: USB Reconnection Issues Solved"
-date: 2024-12-19T16:12:18.280Z
-updated: 2024-12-23T00:18:59.246Z
+date: 2025-01-09T17:39:56.754Z
+updated: 2025-01-13T16:37:30.978Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ Window Update is an important component of your Windows system. It helps you ins
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Run Windows Update Troubleshooter
 
 Windows Update Troubleshooter is a tool released by Microsoft that can help you troubleshoot issues with your Windows Update. You can run it to check your Windows Update when it fails to work properly. To do so:**1)**Download **[Windows Update Troubleshooter](https://aka.ms/diag%5Fwu)** (the program is from a Microsoft site and it’s verified and safe).**2)** Run the tool you’ve just downloaded and follow the on-screen instructions to complete the troubleshooting process.
@@ -43,12 +39,16 @@ Windows Update Troubleshooter is a tool released by Microsoft that can help you 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7c046d056cc.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 2: Reset the Windows Update related components
 
 Your Windows Update may fail to update your Windows because its components are corrupted. These components include the services and temporary files and folders associated with Windows Update. You can try resetting these components and see if this can fix your problem. To reset these components:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right-click**Command Prompt**and select**Run as administrator**.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png) **2)** In Command Prompt, type the following lines of command and press**Enter**on your keyboard after typing each:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * _**net stop bits**_
 * _**net stop wuauserv**_
@@ -70,15 +70,15 @@ If Windows Update can’t help you download certain system updates, you can try 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7c0faa09e19.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**In the System Information window, check**System Type**. Its value is usually **x64-based** or **x86-based**(or sometimes**ARM64-based**).
 
  This is an important piece of information and you should note it down. It will be useful when you are looking for the updates that match your Windows later.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7c104b5d2ee.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** On Windows Update, note down the system updates that failed to install. (You may need to get the information from the update history.)
 
@@ -88,12 +88,16 @@ If Windows Update can’t help you download certain system updates, you can try 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb0182b995.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**Go to **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)** . Then search for the updates you have failed to install.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb3a1da130.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** In the search results, find the update that matches your**operating system**and**system type**(_x86-,_ _x64- or ARM64-based_). Then click**Download**next to the update.
@@ -106,15 +110,15 @@ If Windows Update can’t help you download certain system updates, you can try 
 
 **7)**Open the file you’ve just downloaded and follow the on-screen instructions to install the update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 4: Run DISM and System File Checker
 
 It’s also possible that your Windows Update can’t work because of the corrupted files on your operating system. Windows has two built-in tools called**SFC (System File Checker)**and**DISM (Deployment Imaging and Servicing Management)**that scan your computer and fix various issues on it. To run these tools:**1)** Click the**Start**button in the lower corner of your screen. Then type “_**cmd**_“. Right-click**Command Prompt**in the list of results and select**Run as administrator**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fbd72bc9a4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** In Command Prompt, to run System File Checker, type “_**sfc /scannow**_” and press**Enter**on your keyboard.
 
@@ -126,10 +130,6 @@ It’s also possible that your Windows Update can’t work because of the corrup
 
 **4)**Wait for the process to complete, then restart your computer. After that, check to see if your Windows Update recovers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 5: Disable your antivirus
 
 Sometimes your system can’t install new updates due to the interference from your antivirus software. You can temporarily disable your antivirus and check if the problem persists. (Consult your antivirus program documentation for instructions on disabling it.) If this resolves the problem, contact the vendor of your antivirus software and ask them for advice, or install a different solution.
@@ -137,7 +137,7 @@ Sometimes your system can’t install new updates due to the interference from y
 **IMPORTANT:** Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 6: Update your drivers
@@ -150,6 +150,10 @@ Perhaps the issues with your Windows come from some changes you’ve made to you
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fc666d51a9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**System Restore**. The System Restore wizard will pop up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fc6fa8971e.png)
@@ -157,10 +161,6 @@ Perhaps the issues with your Windows come from some changes you’ve made to you
 **3)** Follow the on-screen instructions to choose a system restore point and restore your Windows.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fc712671f3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Wait for the restore process to complete and then check to see if your Windows Update gets back to normal.
 
@@ -182,24 +182,20 @@ Perhaps the issues with your Windows come from some changes you’ve made to you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-code-28-error-in-device-manager-in-windows/"><u>[Fixed] Code 28 Error in Device Manager in Windows</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-flipping-through-frames-instagrams-video-reversal-wizardry/"><u>[New] 2024 Approved Flipping Through Frames Instagram's Video Reversal Wizardry</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-become-a-youtube-star-top-fb-songs-and-vids-unlocked/"><u>[New] Become a YouTube Star - Top FB Songs & Vids Unlocked</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-innovating-with-imagination-pro-tiktok-edits-revealed-for-2024/"><u>[New] Innovating with Imagination Pro TikTok Edits Revealed for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-making-cash-with-zero-skills-check-out-these-13-ways-on-reddit/"><u>[New] Making Cash with Zero Skills? Check Out These 13 Ways on Reddit</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-vibrant-discourse-evaluation-ver-8-for-2024/"><u>[New] Vibrant Discourse Evaluation - Ver. 8 for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-select-20-humorous-incarceration-posts-to-infuse-positivity-into-facebook-feeds/"><u>[Updated] Select 20 Humorous Incarceration Posts to Infuse Positivity Into Facebook Feeds</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fundamentals-of-animation-and-graphic-expression/"><u>2024 Approved Fundamentals of Animation and Graphic Expression</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-methods-for-lowering-cpu-usage-in-the-windows-driver-framework/"><u>Effective Methods for Lowering CPU Usage in the Windows Driver Framework</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-locating-and-fixing-missing-msvcr110dll-errors/"><u>Expert Tips: Locating and Fixing Missing MSVCR110.dll Errors</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/leveraging-obs-streaming-capabilities-on-facebook-platform/"><u>Leveraging OBS Streaming Capabilities on Facebook Platform</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207253905-lose-not-the-sd-card-detection/"><u>Lose Not the SD Card Detection!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/monster-hunter-world-deep-dive-taming-unique-and-deadly-monsters/"><u>Monster Hunter: World Deep Dive - Taming Unique and Deadly Monsters.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-delays-in-league-of-legends-patch-downloading-processes/"><u>Overcoming Delays in League of Legends Patch Downloading Processes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-out-of-memory-in-red-dead-redemption-ii-adjusting-pagefile-settings/"><u>Solving 'Out Of Memory' In Red Dead Redemption II: Adjusting Pagefile Settings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-usb-tethering-mastery-for-windows-10-users/"><u>Step-by-Step USB Tethering Mastery for Windows 10 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-shockwave-flash-crashes-within-google-chrome-a-comprehensive-guide/"><u>Troubleshooting Shockwave Flash Crashes Within Google Chrome - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-audio-outage-addressed-and-fixed/"><u>Windows 11 Audio Outage Addressed & Fixed</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amv-wikiconvert/"><u>ウィキメディア・コミュニティAMVファイルを簡単に変換するための忙しくない方に役立つ無料オンラインツール - WikiConvert</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-raw-to-rad-turning-up-the-heat-with-snapchat-filters-for-2024/"><u>[New] From Raw to Rad Turning Up the Heat with Snapchat Filters for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-scrutiny-gear-360s-virtual-reality-capability/"><u>2024 Approved Comprehensive Scrutiny Gear 360'S Virtual Reality Capability</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-step-by-step-solution-to-reactivating-a-printer-with-error-code-30/"><u>A Step-by-Step Solution to Reactivating a Printer with Error Code -30</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/cominciare-con-windows-11-come-attivare-la-funzione-di-ibernazione-in-tre-facili-passaggi/"><u>Cominciare Con Windows 11: Come Attivare La Funzione Di Ibernazione in Tre Facili Passaggi</u></a></li>
+<li><a href="https://fox-access.techidaily.com/cutting-edge-cost-free-after-effects-packages/"><u>Cutting-Edge, Cost-Free After Effects Packages</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-dead-lenovo-mousepads-a-cross-platform-win-11-8-and-nw-solution/"><u>Expert Tips for Fixing Dead Lenovo Mousepads: A Cross-Platform Win 11, 8 & Nw Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-sluggish-closure-solutions-to-your-windows-10-shutdown-woes/"><u>Fixing the Sluggish Closure: Solutions to Your Windows 10 Shutdown Woes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-hp-printer-up-and-running-with-latest-drivers-download-today/"><u>Get Your HP Printer Up & Running with Latest Drivers – Download Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hit-compliant-update-addressed-previous-missing-tap-response/"><u>HIT-Compliant Update: Addressed Previous Missing Tap Response</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-asus-rog-phone-7-ultimate-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-pova-5-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Tecno Pova 5 Phone without PIN</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-ai-for-stunning-photo-creation/"><u>In 2024, Premier AI for Stunning Photo Creation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-access-denied-to-device-pathfile-on-windows-troubleshooting-guide/"><u>Solve Access Denied to Device Path/File on Windows – Troubleshooting Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-resolving-windows-error-0xc0000098/"><u>Step-by-Step Guide: Resolving Windows Error 0xC0000098</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-groovy-guide-resolve-registry-error-while-opening-pictures/"><u>Windows Groovy Guide: Resolve 'Registry Error' While Opening Pictures</u></a></li>
 </ul></div>
 

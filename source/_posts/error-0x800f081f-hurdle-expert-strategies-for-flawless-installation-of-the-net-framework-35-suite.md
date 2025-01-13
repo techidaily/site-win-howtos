@@ -1,7 +1,7 @@
 ---
 title: "Error 0X800F081F Hurdle: Expert Strategies for Flawless Installation of the .NET Framework 3.5 Suite"
-date: 2024-11-03T17:40:26.321Z
-updated: 2024-11-07T20:00:19.115Z
+date: 2025-01-07T16:09:37.590Z
+updated: 2025-01-13T16:56:24.216Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/86157a99bb3c3d407e2d01671b40c89a0f41350bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b8b46182da0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Go to **Computer Configuration -> Administrative Templates -> System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b8b4b628c80.jpg)
@@ -45,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/86157a99bb3c3d407e2d01671b40c89a0f41350bb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b8cb90d9ace.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Select**Enabled** . Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b8cd1538e66.jpg)
@@ -52,10 +60,7 @@ thumbnail: https://thmb.techidaily.com/86157a99bb3c3d407e2d01671b40c89a0f41350bb
 **6)** Try installing .NET Framework 3.5\. If this method works for you, you won’t see the error again. Otherwise, you should try the method below.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Enable the .NET Framework 3.5 feature using DISM
@@ -72,22 +77,12 @@ To enable the .NET Framework 3.5 feature using DISM:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b7455a57b7b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Right-click “**Command Prompt** ” and select “**Run as administrator** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b75954000f6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Type “ _**Dism /online /enable-feature /featurename:NetFx3 /All /Source:**_ **<DRIVE>** _**:\\sources\\sxs /LimitAccess**_ ” and press**Enter** on your keyboard. (Note that you need to replace the**<DRIVE>** here with the drive letter for the installation media drive or the ISO drive.)
@@ -95,10 +90,7 @@ To enable the .NET Framework 3.5 feature using DISM:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b8d9fc19402.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Try installing .NET Framework 3.5 and see if the error disappears.
@@ -120,15 +112,22 @@ To enable the .NET Framework 3.5 feature using DISM:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ont-selection-wonders-enhancing-youtube-video-thumbnails-for-2024/"><u>[New] Font Selection Wonders Enhancing YouTube Video Thumbnails for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-internet-companion-fb-story-backup-tool/"><u>[New] In 2024, Internet Companion FB Story Backup Tool</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726028641608-adobe-premiere-pro/"><u>Adobe Premiere Proによる動画クリッピング:効果的なトリムテクニック</u></a></li>
-<li><a href="https://article-tips.techidaily.com/discovering-your-perfect-vr-experience-should-you-choose-mobile-freedom-or-connectivity-with-tethers/"><u>Discovering Your Perfect VR Experience Should You Choose Mobile Freedom or Connectivity with Tethers?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-eliminating-the-0x800704cf-connection-problem-on-your-computer/"><u>Expert Advice: Eliminating the 0X800704CF Connection Problem on Your Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-resolve-non-responsive-number-keys-on-your-keyboard/"><u>Fixing the Issue: How to Resolve Non-Responsive Number Keys on Your Keyboard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/monitor-error-alert-incompatible-data-entry-recognized/"><u>Monitor Error Alert: Incompatible Data Entry Recognized</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/origami-like-folded-havens-in-mc/"><u>Origami-Like Folded Havens in MC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fixing-videodxgkrnlfatalerror-on-windows-pcs/"><u>Step-by-Step Guide to Fixing Video_Dxgkrnl_Fatal_Error on Windows PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-common-issues-with-remote-procedure-calls-solutions-inside/"><u>Troubleshooting Common Issues with Remote Procedure Calls – Solutions Inside</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-diving-into-twitter-starting-fresh-for-2024/"><u>[New] Diving Into Twitter Starting Fresh for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-connoisseurs-compendium-budget-friendly-photography-havens/"><u>[Updated] In 2024, Connoisseur's Compendium Budget-Friendly Photography Havens</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-maximum-frame-quality-for-slow-motion-videos/"><u>[Updated] In 2024, Maximum Frame Quality for Slow Motion Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-solutions-to-persistent-discord-sound-gaps/"><u>Comprehensive Solutions to Persistent Discord Sound Gaps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-for-pubg-architecture-loading-problems-gameplay-smoothened/"><u>Fix for PUBG Architecture Loading Problems - Gameplay Smoothened</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-unresponsive-keystrokes-and-typing-errors-on-your-board/"><u>How to Overcome Unresponsive Keystrokes and Typing Errors on Your Board</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-windows-network-issue-code-0x80-2-how-to-fix-the-network-error-0x800704cf-on-your-pc/"><u>How to Solve Windows Network Issue: Code 0X80 2. How to Fix the 'Network Error 0X800704CF' On Your PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-xiaomi-redmi-note-12-proplus-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Xiaomi Redmi Note 12 Pro+ 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mirth-in-monotony-best-humored-fb-jail-cell-captures/"><u>Mirth in Monotony Best-Humored Fb Jail Cell Captures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-a-non-charging-but-plugged-in-surface-a-comprehensive-guide/"><u>Overcoming the Challenge of a Non-Charging but Plugged-In Surface: A Comprehensive Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-connection-problems-for-microsoft-wireless-display-on-win10-computers/"><u>Resolving Connection Problems for Microsoft Wireless Display on Win10 Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reveal-your-missing-wi-fi-options-on-windows-11-a-step-by-step-guide/"><u>Reveal Your Missing Wi-Fi Options on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/script-inactive-no-launch/"><u>Script Inactive: No Launch</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamline-your-pc-audio-with-simple-techniques/"><u>Streamline Your PC Audio with Simple Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-the-role-of-sfc-and-deployment-image-servicing-in-fixing-windows-11-issues/"><u>Understanding the Role of SFC and Deployment Image Servicing in Fixing Windows 11 Issues</u></a></li>
 </ul></div>
 

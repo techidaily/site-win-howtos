@@ -1,7 +1,7 @@
 ---
 title: Microsoft Surface Pro 4 Touchscreen Malfunction? Here's How to Get It Working Again
-date: 2024-12-31T18:54:35.413Z
-updated: 2025-01-06T16:40:27.784Z
+date: 2025-01-07T16:30:03.578Z
+updated: 2025-01-13T16:10:42.012Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 1: Perform a two button shutdown
 
  Your touch screen may stop working properly if there are corruption issues on your Surface Pro 4\. You need to perform a **two button shutdown**  to shut it down completely to see if this can clear these issues and restore your touch screen.
@@ -58,13 +54,13 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b61efb81b9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Select **Update & Security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Select **Check for updates** , and wait for the system updates to be installed.
 
@@ -74,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Update the driver of your touch screen
@@ -99,7 +95,11 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Reset your Surface Pro 4
@@ -114,13 +114,13 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Select**Recovery** and then select **Get started** button under Reset this PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c54ad3185f.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Choose either to **keep your files** or to **remove everything** when resetting your device.
 
@@ -145,21 +145,19 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-from-beginner-to-pro-mastering-mi-11-screen-captures/"><u>[New] 2024 Approved From Beginner to Pro Mastering Mi 11 Screen Captures</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-master-iphone-photo-watermarks-the-top-apps-reviewed/"><u>[New] In 2024, Master iPhone Photo Watermarks The Top Apps Reviewed</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-recorders-unite-compete-for-2024/"><u>[New] Recorders Unite, Compete for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-recording-advice-macbooks-camera-insights/"><u>[Updated] 2024 Approved Essential Recording Advice MacBook's Camera Insights</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-affordable-gear-for-aspiring-content-creators/"><u>2024 Approved Affordable Gear for Aspiring Content Creators</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-security-prompts-navigating-user-privilege-levels-for-task-execution-on-windows-systems/"><u>Dealing with Security Prompts: Navigating User Privilege Levels for Task Execution on Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decoding-monitor-messages-insight-into-handling-non-compatible-device-signals/"><u>Decoding Monitor Messages: Insight Into Handling Non-Compatible Device Signals</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-resolving-the-failure-of-the-windows-1903-features-update-deployment/"><u>Diagnosing and Resolving the Failure of the Windows 1903 Features Update Deployment</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-overcoming-the-unknown-usb-device-port-reset-failed-problem-in-windows-10-computers/"><u>Expert Tips for Overcoming the 'Unknown USB Device (Port Reset Failed)' Problem in Windows 10 Computers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-does-a-vpn-work-and-why-should-you-use-one-unlocking-the-secrets-of-virtual-privacy-with-zdnets-complete-guide/"><u>How Does a VPN Work, and Why Should You Use One? Unlocking the Secrets of Virtual Privacy with ZDNet's Complete Guide</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-13-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 13 Pro Max/iPad | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-xiaomi-redmi-a2-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Xiaomi Redmi A2 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-windows-plugin-load-failures-and-missing-game-files/"><u>Quick Fixes for Windows Plugin Load Failures and Missing Game Files</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-guide-to-resolving-file-explorer-issues-in-windows-10-effortlessly/"><u>Quick Guide to Resolving File Explorer Issues in Windows 10 Effortlessly</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1219264-9780698147850-stitches/"><u>Stitches | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successful-strategies-for-handling-directx-device-creation-issues/"><u>Successful Strategies for Handling DirectX Device Creation Issues</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-thrifty-cloud-haven-budget-storage-bulk-files-handling/"><u>[New] 2024 Approved Thrifty Cloud Haven Budget Storage, Bulk Files Handling</u></a></li>
+<li><a href="https://facebook.techidaily.com/alleged-ban-of-ethical-marketing-claims-surface-at-fb/"><u>Alleged Ban of Ethical Marketing Claims Surface at FB</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dealing-with-destabilization-strategies-to-stop-ready-or-not-crashes-on-desktop-computers/"><u>Dealing with Destabilization – Strategies to Stop 'Ready Or Not' Crashes on Desktop Computers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-acting-fixes-to-overcome-windows-update-error-0x80070652/"><u>Fast-Acting Fixes to Overcome Windows Update Error 0X80070652</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-chrome-plugin-failure-to-load-errors-on-windows-10-an-expert-walkthrough/"><u>How To Fix 'Chrome Plugin Failure to Load' Errors On Windows 10: An Expert Walkthrough</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-tecno-phantom-v-flip-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Tecno Phantom V Flip Phone that is Locked?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-honor-70-lite-5g-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Honor 70 Lite 5G has been deleted.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/repairing-your-lenovos-unresponsive-mouse-pad-in-different-windows-environments-1187-expert-fixes/"><u>Repairing Your Lenovo's Unresponsive Mouse Pad in Different Windows Environments (11/8/7) - Expert Fixes</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/resolving-boot-up-issues-expert-advice-from-yl-software-experts/"><u>Resolving Boot-Up Issues: Expert Advice From YL Software Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-how-to-fix-a-computer-that-cant-close-windows-10/"><u>Solved: How to Fix a Computer That Can't Close Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-power-surge-issues-in-your-usb-ports-on-windows-10/"><u>Troubleshooting Guide: Resolving 'Power Surge' Issues in Your USB Ports on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-a-non-responsive-windows-10-computer/"><u>Troubleshooting Steps for a Non-Responsive Windows 10 Computer</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/understanding-the-distinctions-aac-versus-mp3-file-formats/"><u>Understanding the Distinctions: AAC Versus MP3 File Formats</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bypassing the Issue: Laptop Not Charging on Windows Operating Systems"
-date: 2025-01-02T03:17:24.580Z
-updated: 2025-01-06T23:08:02.347Z
+date: 2025-01-06T17:24:41.990Z
+updated: 2025-01-13T16:00:57.249Z
 tags:
   - win11
   - win10
@@ -28,19 +28,11 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1) Access violation error
 
  One of the situations where you will see error code 0xc0000005 is when you get an**Access violation error** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59506a549650c.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Access violation error occurs when the program you try to run is attempting to reach a location that is not assigned for it. This can result from various reasons. You can try the methods below to troubleshoot this error.
 
@@ -56,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507a17971f4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **iii.** Click the **Advanced** tab. Click the**Settings** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507b4b00aa2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **iv.** Click the **Data Execution Prevention** tab. Select **Turn on DEP for all programs and services except those I select** . Then click**Add** .
 
@@ -71,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 **v.** Open the problematic**executable (.exe)** files. Then click**OK** all the way out.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507e3c65465.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **c)**  Sometimes the error appears due to**corrupted Registry** . You can **[restore your Registry](https://tools.techidaily.com/drivereasy/download/)**  or check all your Registry entries and remove any redundant one.
 
@@ -82,23 +78,19 @@ thumbnail: https://thmb.techidaily.com/c38adae2e42bb33172470753ec027ccdb4d1aafb8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad3756980a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In this case, you should**completely cut off the power** of your computer, and then**remove** the RAM(s) from your computer or**replace** them with other RAMs.
 
  (RAM is a hardware component inserted**inside** your computer. You need to**disassemble** your computer to remove or replace it. You can ask a specialist to do it for you, or consult your product manufacturer for assistance.)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2) The application unable to start
 
  This 0xc0000005 error usually appears when you are attempting to run an application and it nevertheless crashes. It comes with a message saying “**The application was unable to start correctly.** “
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59508823f05fa.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To resolve this error, you can try the methods below.
 
@@ -113,6 +105,10 @@ To resolve this error, you can try the methods below.
  To use Driver Easy to fix faulty drivers, you need to download and install it. Then open the program and click on**Scan Now** button. All the devices on your computer will be scanned and checked within a few seconds.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click on**Update** button next to any device to download its driver. Or you can hit**Update All** button at the bottom to download and install all the drivers (this requires upgrading to**Pro version** ).
 
@@ -136,6 +132,10 @@ To resolve this error, you can try the methods below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a33e24868.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On Windows 10/11, click**Create a restore** **point** ,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
@@ -145,7 +145,7 @@ To resolve this error, you can try the methods below.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **iii.**  In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
@@ -191,7 +191,7 @@ bootrec /rebuildbcd
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5950b581b5f1e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The reason of this error can be that the operating system you are installing is not compatible with the partition. You need to**delete all partitions** and**create new ones** (this will**remove** **all** your files and data on your hard drive).
@@ -215,20 +215,21 @@ bootrec /rebuildbcd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/academic-writing-under-ai-scrutiny-are-student-papers-still-relevant/"><u>Academic Writing Under AI Scrutiny: Are Student Papers Still Relevant?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avi-mpeg-avi/"><u>AVI 이미지 값 MPEG 형식으로의 원형 전환 - 오픈소스 AVI 변환 가정</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ending-computer-lockups-for-good-expert-fixes-and-advice/"><u>Ending Computer Lockups for Good: Expert Fixes and Advice</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ethics-of-chatgpt-in-digital-defense-and-offense/"><u>Ethics of ChatGPT in Digital Defense & Offense</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/five-effective-methods-to-repair-touchscreen-issues-on-windows-11/"><u>Five Effective Methods to Repair Touchscreen Issues on Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-converter-transforming-tga-images-into-bmp-format/"><u>Free Online Converter: Transforming TGA Images Into BMP Format</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/lenovo-thinkpad-x1-fold-examination-marvelous-yet-imperfect-innovation/"><u>Lenovo ThinkPad X1 Fold Examination: Marvelous Yet Imperfect Innovation</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/mastering-youtube-shorts-effective-income-strategies/"><u>Mastering YouTube Shorts Effective Income Strategies</u></a></li>
-<li><a href="https://fox-http.techidaily.com/off-facebook-activity-expose-is-it-worth-the-scrutiny-in-2024/"><u>Off-Facebook Activity Exposé - Is It Worth The Scrutiny, In 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-guide-fixing-rpc-service-not-responding-errors-in-windows-os/"><u>Quick Guide: Fixing 'RPC Service Not Responding' Errors in Windows OS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/smart-suggestions-find-your-next-read-using-these-innovative-ai-powered-book-applications/"><u>Smart Suggestions: Find Your Next Read Using These Innovative AI-Powered Book Applications</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/tight-knit-teams-top-chat-platforms-which-rules-the-game-slack-or-discord-for-2024/"><u>Tight-Knit Teams, Top Chat Platforms Which Rules the Game - Slack or Discord for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-5-solutions-to-reduce-gpu-load-by-the-desktop-window-manager-on-windows-1011/"><u>Top 5 Solutions to Reduce GPU Load by the Desktop Window Manager on Windows 10/11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-solution-resolving-tearing-issues-in-valorant/"><u>Ultimate Solution: Resolving Tearing Issues in Valorant</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/win-11-audio-service-troubleshooting-guide-available/"><u>Win 11 Audio Service: Troubleshooting Guide Available</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-dimming-tunes-windows-and-mac-strategies/"><u>[Updated] Dimming Tunes Windows & Mac Strategies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-fidelity-webcams-for-professional-podcasting/"><u>[Updated] High-Fidelity Webcams for Professional Podcasting</u></a></li>
+<li><a href="https://win-best.techidaily.com/5excel/"><u>5有效解決Excel文件意外删除重建方法 - 全面指南</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-honor-magic-6-lite-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Honor Magic 6 Lite Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/deep-into-unreal-worlds-with-these-titles-for-2024/"><u>Dive Deep Into Unreal Worlds with These Titles for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oneplus-nord-3-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass OnePlus Nord 3 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-to-overcome-issues-with-downloads-in-steam-update-processes/"><u>Expert Guide to Overcome Issues with Downloads in Steam Update Processes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-good-to-great-understanding-the-five-main-upgrades-of-microsofts-gpt-4-over-gpt-35/"><u>From Good to Great: Understanding the Five Main Upgrades of Microsoft's GPT-4 over GPT-3.5</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-and-restart-the-igfxem-module-in-your-computer-system/"><u>How to Repair and Restart the IgfxEM Module in Your Computer System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/identifying-suitable-cameras-for-windows-hello/"><u>Identifying Suitable Cameras for Windows Hello</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ase-your-videos-impact-essential-keyword-analysis-resources/"><u>Increase Your Video's Impact Essential Keyword Analysis Resources</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-audio-control-in-windows-11-a-comprehensive-guide-to-address-and-correct-volume-issues/"><u>Mastering Audio Control in Windows 11: A Comprehensive Guide to Address and Correct Volume Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-quick-windows-setup-failures-successfully/"><u>Overcome Quick Windows Setup Failures Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-challenges-when-setting-up-the-directx-11-device-expert-solutions/"><u>Overcoming Challenges When Setting Up the DirectX 11 Device - Expert Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-the-c-drive-issue-on-windows-11/"><u>Unlocking the C: Drive Issue on Windows 11</u></a></li>
 </ul></div>
 

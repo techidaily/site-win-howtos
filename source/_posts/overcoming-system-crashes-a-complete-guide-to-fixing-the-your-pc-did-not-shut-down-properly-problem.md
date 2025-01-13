@@ -1,7 +1,7 @@
 ---
 title: "Overcoming System Crashes: A Complete Guide to Fixing the 'Your PC Did Not Shut Down Properly' Problem"
-date: 2024-08-28T00:36:26.254Z
-updated: 2024-08-29T00:36:26.254Z
+date: 2025-01-11T17:25:21.896Z
+updated: 2025-01-13T17:34:27.809Z
 tags:
   - win11
   - win10
@@ -30,22 +30,20 @@ You may not have to try them all; just work your way down the list until you fin
 
 To fix your game graphics issue, you can make your game load the building texture before landing. To do so, when your parachute is pulled out, press the**Tab**key on your keyboard to bring up the inventory screen. Your game may freeze for a while, as it’s loading the texture. After that, check to see if this fixes your texture issues. Hopefully it does. But if not, there are still three fixes for you to try…
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Move your game files to your SSD (if you have one)
 
 If you’re using an solid-state drive (SSD), you should try moving your games file there to speed up the loading process. To move your game files to your SSD:**1)** On your Steam client, click**Steam**, then click**Settings**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fda9155da2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Downloads**, then click the**STEAM LIBRARY FOLDERS**button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdb536f27d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click**ADD LIBRARY FOLDER**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdcc73a052.png)
@@ -58,9 +56,6 @@ If you’re using an solid-state drive (SSD), you should try moving your games f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdde86db67.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **6)** Click**OK**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdfe387754.jpg)
@@ -69,13 +64,18 @@ If you’re using an solid-state drive (SSD), you should try moving your games f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe29b7bf54.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **8)** Right click **PLAYERUNKNOWN’S BATTLEGROUNDS** , then click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe31f23cb3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **9)** Select the**LOCAL FILES**tab, then click**MOVE INSTALL FOLDER**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe45ed95b1.jpg)
@@ -84,10 +84,11 @@ If you’re using an solid-state drive (SSD), you should try moving your games f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe4dad26a2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 Steam will move your PUBG files to that new folder. You can then check to see if this fixes your building texture issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Update your graphics driver
 
@@ -96,18 +97,20 @@ Your game may not be able to load the building texture properly if you’re not 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed68ebd56d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)**  Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b600778ced76.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you have any issues with Driver Easy, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Reinstall your game
 
@@ -121,8 +124,6 @@ Your PUBG files may have been corrupted so you are having the texture loading is
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +131,24 @@ Your PUBG files may have been corrupted so you are having the texture loading is
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-secure-again-combating-2023s-facebook-vulnerability/"><u>[New] Secure Again Combating 2023'S Facebook Vulnerability</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-a-professionals-playbook-to-profitable-youtube-ventures/"><u>[Updated] 2024 Approved A Professional's Playbook to Profitable YouTube Ventures</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-becoming-a-specialist-in-srt-text-management/"><u>[Updated] 2024 Approved Becoming a Specialist in SRT Text Management</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-flip-your-video-frames-effortlessly-with-vlc/"><u>[Updated] Flip Your Video Frames Effortlessly with VLC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-maximizing-hdr-photography-capabilities-on-iphone/"><u>[Updated] Maximizing HDR Photography Capabilities on iPhone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-windows-character-map-hurdles-a-step-by-step-solution/"><u>Breaking Down Windows Character Map Hurdles: A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-what-to-do-when-the-at-sign-is-unresponsive/"><u>Easy Fixes: What To Do When The 'At Sign' Is Unresponsive</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-eliminating-latency-in-wow-tips-for-a-lag-free-experience/"><u>Expert Guide: Eliminating Latency in WoW - Tips for a Lag-Free Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-policy-diagnostic-service-is-down-error/"><u>How to Fix 'Policy Diagnostic Service Is Down' Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reduce-high-processor-consumption-caused-by-wudfhostexe-on-windows-11/"><u>How to Reduce High Processor Consumption Caused by wudfhost.exe on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-when-your-computer-doesnt-detect-devices-in-icue-software/"><u>How to Resolve When Your Computer Doesn't Detect Devices in ICUE Software</u></a></li>
+<li><a href="https://facebook.techidaily.com/iphone-user-preference-shifts-against-tracking/"><u>IPhone User Preference Shifts Against Tracking</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-pro-manycam-advanced-video-software-and-online-camera-solutions/"><u>Live Streaming Pro: ManyCam - Advanced Video Software and Online Camera Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/personalization-options-unresponsive-solutions-inside/"><u>Personalization Options Unresponsive? Solutions Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-resolving-the-x0x80070652-error-in-windows-updates/"><u>Quick Solutions for Resolving the X0X80070652 Error in Windows Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-your-vr-headsets-woes-expert-fix-for-oculus-gear-malfunctions-in-the-new-year/"><u>Solving Your VR Headset's Woes: Expert Fix for Oculus Gear Malfunctions in the New Year</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+</ul></div>
 

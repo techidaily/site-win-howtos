@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Fix Unresponsive Keys on a Keyboard"
-date: 2024-12-17T18:09:09.745Z
-updated: 2024-12-22T16:11:03.727Z
+date: 2025-01-11T16:03:16.457Z
+updated: 2025-01-13T16:31:15.235Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 **2)** Check the**battery status** of your controller: Make sure the **batteries are not running out of power** . If your controller is running low on power, charge or replace the batteries and see if this resolves the problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Re-sync your controller
 
  If you are using a**wireless** controller, you can try re-syncing your Xbox One controller to the console to fix connection issues.
@@ -65,10 +61,6 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
  Check to see your controller can connect to the console or not. You can unplug the cable after the whole process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 3: Power cycle your console
 
  Power cycling your console means fully rebooting the console. It can fix some corruption issues in your console as well as your controller connection. To power cycle the console:
@@ -76,6 +68,10 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 **1)**  Press and hold the**Xbox button** on the console until it completely shuts down. (It can take about**10** seconds.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941f2bbba00f.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Press the**Xbox button** to turn on your console.
 
@@ -94,7 +90,7 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420064c2629.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Select**Devices & accessories** .
@@ -102,24 +98,28 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5942011734551.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Select the controller you are using.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594201ea3bf92.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)**  Select**Update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594201a568b3e.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **7)**  Select**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420222745a9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)**  Wait for the console to complete the updating process. After that, test your controller and see if the not syncing problem is fixed.
 
@@ -142,16 +142,19 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-potential-of-virtual-collaboration-starting-zoom-calls-on-android/"><u>[Updated] Unlocking the Potential of Virtual Collaboration Starting Zoom Calls on Android</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avoiding-the-top-5-common-chatgpt-scams-stay-informed/"><u>Avoiding the Top 5 Common ChatGPT Scams – Stay Informed</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/dhcpwindows-server-202/"><u>DHCPサービスが機能しないWindows Server 202</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723008639690-expert-tips-to-boost-chrome-performance-fast-and-easy/"><u>Expert Tips to Boost Chrome Performance Fast and Easy</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-downloader-brother-mfc-l2700dw-windows-installer-and-driver-package/"><u>Free Downloader: Brother MFC-L2700DW Windows Installer and Driver Package</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-ensuring-a-stable-connection-for-devices-pairing-via-bluetooth-on-windows-11/"><u>How to Fix: Ensuring a Stable Connection for Devices Pairing via Bluetooth on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-quickly-resolve-dota-2-error-code-2024-change-rendering-api-issue/"><u>How to Quickly Resolve Dota 2 Error Code 2024: Change Rendering API Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205634049-quickly-restore-bluetooth-functionality-on-your-windows-11-pc-easy-methods-inside/"><u>Quickly Restore Bluetooth Functionality on Your Windows 11 PC: Easy Methods Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-implemented-for-malfunctioning-keyboard-keys/"><u>Solution Implemented for Malfunctioning Keyboard Keys</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/the-ultimate-guide-to-mastering-5g-with-the-top-rated-samsung-galaxy-s20-fe-device/"><u>The Ultimate Guide to Mastering 5G with the Top Rated Samsung Galaxy S20 FE Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultra-wideband-uwb/"><u>Ultra-Wideband (UWB):</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-mastering-youtube-to-mpeg-format-change/"><u>[New] In 2024, Mastering YouTube to MPEG Format Change</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premier-tools-upload-and-convert-vids-for-tweeting/"><u>2024 Approved Premier Tools Upload & Convert Vids for Tweeting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-illumination-issue-resolved-restore-your-backlit-keys/"><u>Corsair Keyboard Illumination Issue Resolved: Restore Your Backlit Keys!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-lenovo-thinkpad-t430-drivers-compatible-with-windows-10-8-and-7-simple-guide/"><u>Download Lenovo ThinkPad T430 Drivers: Compatible with Windows 10, 8 & 7 - Simple Guide</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/enhancing-your-pcs-performance-key-configuration-tweaks-expertise-from-yl-computing/"><u>Enhancing Your PC's Performance: Key Configuration Tweaks - Expertise From YL Computing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fix-the-problem-forza-horizon-navigate-through-crash-fixes-for-your-gaming-experience/"><u>Fix the Problem: Forza Horizon Navigate Through Crash Fixes for Your Gaming Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-troubleshooting-a-non-responsive-corsair-keyboard/"><u>Fixing the Issue: Troubleshooting a Non-Responsive Corsair Keyboard</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-mao-zedong-shaped-the-course-of-chinas-revolutionary-history-insights-from-yl-software/"><u>How Mao Zedong Shaped the Course of China's Revolutionary History - Insights From YL Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-windows-10-performance-tips-on-using-sfc-and-dism-tools/"><u>How to Restore Windows 10 Performance: Tips on Using SFC and DISM Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-10-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 10 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-laptop-ignores-audio-jack-solutions-here/"><u>Resolved: Laptop Ignores Audio Jack - Solutions Here</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-garmin-forerunner-45-for-serious-runners/"><u>The Ultimate Guide to the Garmin Forerunner 45 for Serious Runners</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-6-solutions-to-resolve-werfaultexe-crashes-in-windows-systems/"><u>Top 6 Solutions to Resolve WerFault.exe Crashes in Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/tutorial-on-securing-your-asus-wireless-internet-connection-with-updated-drivers/"><u>Tutorial on Securing Your ASUS Wireless Internet Connection with Updated Drivers</u></a></li>
 </ul></div>
 

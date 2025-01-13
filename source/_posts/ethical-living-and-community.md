@@ -1,7 +1,7 @@
 ---
 title: Ethical Living and Community
-date: 2025-01-03T00:05:21.397Z
-updated: 2025-01-07T01:08:17.449Z
+date: 2025-01-06T16:18:02.101Z
+updated: 2025-01-13T17:11:57.493Z
 tags:
   - win11
   - win10
@@ -37,10 +37,14 @@ the picture was taken by: Article\_86
 2. Choose**Google Chrome** and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/task-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -53,15 +57,15 @@ the picture was taken by: Article\_86
 4. [**Clear Google Chrome cache**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Get an ad-block extension
 
  Because this scam is a fraud page, technically it won’t do severe harm to your computer. The working mechanism of this scam is like an ad. Screening fraudulent users to defraud money. So an ad-block extension can help.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run a virus scan
 
@@ -81,16 +85,12 @@ the picture was taken by: Article\_86
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Relaunch Chrome to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Clear Google Chrome cache
@@ -110,6 +110,10 @@ the picture was taken by: Article\_86
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Reset Google Chrome to default settings
 
  If you don’t remember which extension or change you’ve made before you met the scam, you can simply reset Google Chrome to default settings. This function won’t affect your saved bookmarks or passwords. It will make Chrome back to default configurations and remove all the settings that might cause this unresponsive error.
@@ -119,10 +123,6 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/5.10-2.jpg)
 3. Scroll down to the bottom and click **Advanced** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
@@ -130,11 +130,11 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TIPS: Avoid Google Chrome Critical Error
 
@@ -171,24 +171,24 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-sharex-review-and-best-alternatives/"><u>[New] 2024 Approved ShareX Review and Best Alternatives</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-enhancing-immersive-video-editing-techniques-for-360-in-premiere-for-2024/"><u>[New] Enhancing Immersive Video Editing Techniques for 360° in Premiere for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/a-comprehensive-guide-to-fixing-the-camera-problem-in-your-lenovo-notebook/"><u>A Comprehensive Guide to Fixing the Camera Problem in Your Lenovo Notebook</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/advanced-data-destruction-strategies-for-businesses-learn-from-the-bitraser-tool/"><u>Advanced Data Destruction Strategies for Businesses - Learn From the BitRaser Tool</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cod-modern-warfare-fps-comprehensive-update-for-smooth-gaming/"><u>COD: Modern Warfare FPS - Comprehensive Update for Smooth Gaming</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-fixes-for-critical-process-died-error-0xc0000005-in-microsoft-windows-environment/"><u>DIY Fixes for Critical Process Died Error 0Xc0000005 in Microsoft Windows Environment</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-remedies-for-faulty-usb-input-devices-on-windows-7-pcs/"><u>Effective Remedies for Faulty USB Input Devices on Windows 7 PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-solutions-for-correcting-the-missing-bootmgr-error-illustrated-tutorial/"><u>Effortless Solutions for Correcting the Missing BOOTMGR Error – Illustrated Tutorial</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/honor-magic5-ultimate-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Honor Magic5 Ultimate ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-stuck-or-freezing-window-11-computer/"><u>How to Fix a Stuck or Freezing Window 11 Computer</u></a></li>
-<li><a href="https://win-premium.techidaily.com/how-to-successfully-export-your-flipbook-creation-onto-a-cd-rom-a-comprehensive-guide/"><u>How to Successfully Export Your FlipBook Creation Onto a CD-ROM: A Comprehensive Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-turn-your-meet-webinar-into-an-interactive-participant-showcase/"><u>In 2024, Turn Your Meet Webinar Into an Interactive Participant Showcase</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolve-your-pcs-d3dx9xdll-error-essential-fixes-and-tips/"><u>Resolve Your PC's d3dx9x.dll Error: Essential Fixes and Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-cod-wwii-error-code-4220-a-step-by-step-guide/"><u>Resolving COD WWII Error Code 4220: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-d3derrnotavailable-error-a-step-by-step-guide/"><u>Solving the 'D3DERR_NOTAVAILABLE' Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/trouble-free-gaming-fixes-for-persistent-crashing-in-halo-infinite/"><u>Trouble-Free Gaming: Fixes for Persistent Crashing in Halo Infinite</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-memory-consumption-from-microsoft-compatibility-services-on-windows-11/"><u>Troubleshooting High Memory Consumption From Microsoft Compatibility Services on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-stuck-personalization-features-solutions-found/"><u>Troubleshooting Stuck Personalization Features: Solutions Found</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-best-free-flv-video-editing-software/"><u>Updated Discover the Best Free FLV Video Editing Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-best-free-open-source-video-conferencing-software-ranked-by-industry/"><u>[New] 2024 Approved Best Free Open Source Video Conferencing Software Ranked by Industry</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-5-best-apps-to-watch-instagram-stories-anonymously/"><u>[New] In 2024, 5 Best Apps to Watch Instagram Stories Anonymously</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-10-professional-grade-microphones-for-podcasters-for-2024/"><u>[New] Top 10 Professional-Grade Microphones for Podcasters for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-capturing-audiences-attention-with-animated-viral-video-hits-for-2024/"><u>[Updated] Capturing Audiences' Attention with Animated Viral Video Hits for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unlock-xps-cinematic-compositions-now/"><u>[Updated] In 2024, Unlock XP's Cinematic Compositions Now</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-snap-happy-with-iphone-burst-mode-for-2024/"><u>[Updated] Snap-Happy with iPhone Burst Mode for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/44cm44oh44k444k44or5lia55m644os44ov55so44gr54m55yyw44gx44gf44cb5yaz55yf5lplusu5q2j44go57ch5y2y5b6p5ywd44gu5oqa6kgt44cn/"><u>「デジタル一発レフ用に特化した、写真修正と簡単復元の技術」</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-establishing-a-unique-code-for-your-tiktok-presence/"><u>2024 Approved Establishing a Unique Code for Your TikTok Presence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-fixing-cast-to-device-failures-in-windows-10-systems/"><u>Effective Solutions for Fixing 'Cast to Device' Failures in Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-your-webcam-back-on-track-a-guide-for-hp-laptops-on-windows-10/"><u>Getting Your Webcam Back on Track: A Guide for HP Laptops on Windows 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-nokia-130-music-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Nokia 130 Music Quickly? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-user-profile-service-failure-during-sign-in-on-windows-1011-a-step-by-step-guide/"><u>Resolving 'User Profile Service' Failure During Sign-In on Windows 10/11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-sound-setbacks-astro-a40-microphone-not-working-guide/"><u>Resolving Sound Setbacks: Astro A40 Microphone Not Working Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-windows-11-touch-screen-effective-fixes-you-must-know-5/"><u>Revive Your Windows 11 Touch Screen: Effective Fixes You Must Know (5)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-persistent-usb-mouse-connection-issues-a-comprehensive-guide/"><u>Solving Persistent USB Mouse Connection Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-repairing-the-troublesome-red-screen-in-windows-10/"><u>Step-by-Step Guide: Repairing the Troublesome Red Screen in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205491215-troubleshooting-nonfunctional-usb-ports-on-windows-1011-fixed/"><u>Troubleshooting Nonfunctional USB Ports on Windows 10/11 - Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723201556389-troubleshooting-overwatch-voice-chat-malfunctions-simple-solutions/"><u>Troubleshooting Overwatch Voice Chat Malfunctions: Simple Solutions!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unstuck From a White Screen on Your Laptop? Here Are the Ultimate Repair Tips
-date: 2025-01-03T17:55:38.741Z
-updated: 2025-01-06T16:40:01.006Z
+date: 2025-01-12T16:04:52.823Z
+updated: 2025-01-13T16:16:48.517Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Make sure your power icon is turned on
 
 1) Right-click on the blank area of taskbar and choose **Settings**.  
@@ -39,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Make sure **Power** is on.  
@@ -52,14 +56,18 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6-4.png)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Make sure**Power**icon is enabled.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
 
@@ -82,17 +90,13 @@ Follow these:
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/9.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
 
@@ -103,10 +107,6 @@ Follow these:
  You can update your drivers automatically with either the **[Free](https://tools.techidaily.com/drivereasy/download/)**  or the[**Pro**](https://tools.techidaily.com/drivereasy/download/) version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
@@ -125,24 +125,16 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-meme-matrix-perfect-pratfalls-for-parties/"><u>[Updated] Meme Matrix Perfect Pratfalls for Parties</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-diagnose-and-fix-when-your-razer-keyboard-wont-illuminate/"><u>Expert Advice: Diagnose and Fix When Your Razer Keyboard Won't Illuminate</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-key-windows-update-elements-solutions-proven-effective/"><u>Fixing Key Windows Update Elements - Solutions Proven Effective</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/gratis-3gpp-inpuldeeren-naar-gif-professioneel-online-converter-met-movavi/"><u>Gratis 3GPP-Inpuldeeren Naar GIF: Professioneel Online Converter Met Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-connection-could-not-be-established-securely-in-mozilla-firefox/"><u>How to Overcome 'Connection Could Not Be Established Securely' In Mozilla Firefox</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-oneplus-11r-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track OnePlus 11R without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-iphone-13-pro-max-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By iPhone 13 Pro Max without the Previous Owner?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-enhance-visual-narratives-with-story-remix-within-windows-10-photos/"><u>In 2024, Enhance Visual Narratives with Story Remix Within Windows 10 Photos</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-note-30i-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Note 30i to New Android? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/laptop-repair-how-to-resolve-a-persistent-white-display-problem/"><u>Laptop Repair: How to Resolve a Persistent White Display Problem</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/microsoft-store-halt-unlock-code-x80131500/"><u>Microsoft Store Halt: Unlock Code X80131500</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pdf-wont-print-discover-swift-solutions-that-work/"><u>PDF Won't Print? Discover Swift Solutions That Work!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pwm-pulse-width-modulation/"><u>PWM (Pulse Width Modulation)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-excessive-cpu-consumption-by-windows-sound-card-driver/"><u>Resolve Excessive CPU Consumption by Windows Sound Card Driver</u></a></li>
-<li><a href="https://win-able.techidaily.com/tackling-the-challenge-ending-insurgencys-infamous-sandstorm-stability-issues/"><u>Tackling the Challenge: Ending Insurgency's Infamous Sandstorm Stability Issues</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/tailored-fit-videos-the-key-to-great-instagram-posts-for-2024/"><u>Tailored-Fit Videos The Key to Great Instagram Posts for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-error-0x80-groove-volume-unclean-notification/"><u>Troubleshooting Guide for Error 0X80 Groove: Volume Unclean Notification</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-common-issues-with-your-surface-pen/"><u>Troubleshooting Guide: Fixing Common Issues with Your Surface Pen</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-the-power-of-your-images-with-our-top-10-picklist-of-photo-editing-software-for-pc-and-mac-enthusiasts/"><u>Unlock the Power of Your Images with Our Top 10 Picklist of Photo Editing Software for PC and Mac Enthusiasts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-core-principles-in-internet-story-development/"><u>[Updated] Core Principles in Internet Story Development</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-making-waves-in-the-gaming-community-on-youtube-for-2024/"><u>[Updated] Making Waves in the Gaming Community on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-role-of-creative-commons-in-youtube-content-sharing/"><u>[Updated] The Role of Creative Commons in YouTube Content Sharing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oneplus-nord-n30-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset OnePlus Nord N30 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-address-the-inability-of-your-computer-to-allocate-necessary-resources-effectively/"><u>How to Address the Inability of Your Computer to Allocate Necessary Resources Effectively</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-leading-list-the-10-cost-effective-mobile-video-conferencing/"><u>In 2024, Leading List The 10 Cost-Effective Mobile Video Conferencing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-backlight-problems-heres-how-to-get-it-shining-bright-on-both-mac-and-windows-devices/"><u>Keyboard Backlight Problems? Here's How to Get It Shining Bright on Both Mac and Windows Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/quick-guide-to-enhanced-video-capturing-in-vlc/"><u>Quick Guide to Enhanced Video Capturing in VLC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-excessive-cpu-consumption-by-msmpengexe-in-windows-10/"><u>Resolving Excessive CPU Consumption by MsMpEng.exe in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-steps-to-fix-no-battery-problem-in-your-gadget-resolved/"><u>Simple Steps to Fix 'No Battery' Problem in Your Gadget - Resolved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/strategies-to-address-inaccessible-epson-scanner/"><u>Strategies to Address Inaccessible Epson Scanner</u></a></li>
 </ul></div>
 

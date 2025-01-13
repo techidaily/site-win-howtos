@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Keyboards That Aren't Responding to Inputs in Windows 10 and 11
-date: 2024-12-18T21:45:02.282Z
-updated: 2024-12-22T22:47:19.670Z
+date: 2025-01-07T16:28:46.929Z
+updated: 2025-01-13T16:08:53.534Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/6be5b234be2302864f9331a3a3d7aaacb0018bce1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -79,7 +79,7 @@ If you’re a laptop user, you could follow these steps:
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
@@ -112,12 +112,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
@@ -134,18 +138,14 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -177,17 +177,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ice-cream-capture-technology-reviewed-deeply/"><u>[New] 2024 Approved Ice Cream Capture Technology Reviewed Deeply</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-transform-your-music-library-best-free-software-choices-for-youtube-to-mp3/"><u>[New] In 2024, Transform Your Music Library Best Free Software Choices for YouTube-to-MP3</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-top-5-game-ready-keyboards-under-100-a-comparison/"><u>[Updated] 2024 Approved Top 5 Game-Ready Keyboards Under $100 – A Comparison</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/apem4a-movavi/"><u>「無料でオンラインAPEからM4Aへの効率的変換: Movaviソリューション」</u></a></li>
-<li><a href="https://fox-http.techidaily.com/best-cloud-storage-apps-for-android-2024-rankings/"><u>Best-Cloud-Storage-Apps-for-Android-2024-Rankings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-missing-opencl-dll-files/"><u>Dealing with Missing OpenCL DLL Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/engage-in-privacy-focused-conversations-with-duckduckgos-ai-chat-featuring-chatgpt-and-beyond/"><u>Engage in Privacy-Focused Conversations with DuckDuckGo's AI Chat Featuring ChatGPT and Beyond</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-windows-11-touch-display-issues-with-these-5-proven-strategies/"><u>Fix Your Windows 11 Touch Display Issues with These 5 Proven Strategies</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-selection-best-idevice-custom-alerts/"><u>In 2024, Ultimate Selection Best iDevice Custom Alerts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-huggingchat-the-best-open-source-option-to-challenge-chatgpts-dominance/"><u>Mastering HuggingChat - The Best Open Source Option To Challenge ChatGPT's Dominance</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211255697-revive-your-silent-companion-the-touchpad/"><u>Revive Your Silent Companion - The Touchpad!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-d3derrnotavailable-error/"><u>Ultimate Guide: Resolving 'D3DERR_NOTAVAILABLE' Error</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-live-streaming-360-video-to-youtube/"><u>[New] In 2024, How to Live Streaming 360 Video to Youtube</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722970805894-ensuring-seamless-communication-update-your-arduino-usb-drivers-for-windows-today/"><u>Ensuring Seamless Communication: Update Your Arduino USB Drivers for Windows Today!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-6-plus-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 6 Plus Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-brightness-adjustment-features-in-your-windows-10-pc/"><u>How to Restore Brightness Adjustment Features in Your Windows 10 PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-tvos-18-upgrade-improves-apple-tv-conversations-with-superior-audio-quality-insights-from-zdnet/"><u>How tvOS 18 Upgrade Improves Apple TV Conversations with Superior Audio Quality - Insights From ZDNet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-improving-box-pull-back-pleasure/"><u>In 2024, Improving Box Pull-Back Pleasure</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-mastering-mac-recording-settings-for-snapchat-use/"><u>In 2024, Mastering Mac Recording Settings for Snapchat Use</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-navigating-through-time-the-finest-history-youtube-sources-for-students/"><u>In 2024, Navigating Through Time The Finest History YouTube Sources for Students</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-code-28-trouble-in-microsoft-device-manager/"><u>Resolving the 'Code 28' Trouble in Microsoft Device Manager</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restoring-full-touchpad-support-and-scrolling-in-windows-11-systems/"><u>Restoring Full Touchpad Support and Scrolling in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-resolving-failed-web-renderer-initialization-errors-latest-updates-2021/"><u>Solved: Resolving Failed Web Renderer Initialization Errors (Latest Updates 2021)</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/step-by-step-manual-on-restoring-files-after-a-fractured-laptop-storage-disk-malfunction/"><u>Step-by-Step Manual on Restoring Files After a Fractured Laptop Storage Disk Malfunction</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-update-error-0x8024401c-on-windows-10-and-windows-11-systems/"><u>Troubleshooting Update Error 0X8024401c on Windows 10 and Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-10-cast-to-device-problems-effective-fixes-revealed/"><u>Troubleshooting Windows 10 Cast to Device Problems – Effective Fixes Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unclogging-the-puzzle-a-user-manual-for-repairing-webcam-problems-in-windows/"><u>Unclogging the Puzzle: A User Manual for Repairing Webcam Problems in Windows</u></a></li>
 </ul></div>
 

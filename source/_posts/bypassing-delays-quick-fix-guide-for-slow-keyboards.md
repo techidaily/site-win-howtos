@@ -1,7 +1,7 @@
 ---
 title: "Bypassing Delays: Quick Fix Guide for Slow Keyboards"
-date: 2024-08-28T00:36:10.447Z
-updated: 2024-08-29T00:36:10.447Z
+date: 2025-01-07T17:06:42.507Z
+updated: 2025-01-13T17:04:22.421Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/503d593f9428317b9217e37989fa613e5c3305adb
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -38,9 +42,17 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -62,13 +74,14 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
@@ -93,18 +106,12 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -118,9 +125,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -129,16 +133,14 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
@@ -168,8 +170,6 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +177,26 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-prime-windows-snipper-apps-listed-at-5/"><u>[New] 2024 Approved Prime Windows Snipper Apps Listed at #5</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-tactical-techniques-for-stunning-instagram-puzzle-displays/"><u>[Updated] Tactical Techniques for Stunning Instagram Puzzle Displays</u></a></li>
+<li><a href="https://blog-min.techidaily.com/can-you-edit-or-erase-the-watermark-on-videos-created-with-freemake-video-converter/"><u>Can You Edit or Erase the Watermark on Videos Created with Freemake Video Converter?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-rectify-your-windows-11-touchscreen-in-five-ways/"><u>Comprehensive Tutorial: Rectify Your Windows 11 Touchscreen in Five Ways</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-cure-eliminating-the-flicker-effect-on-your-windows-11-monitor/"><u>Diagnose & Cure: Eliminating the Flicker Effect on Your Windows 11 Monitor</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-epson-wf-7710-compatible-with-windows-driver-downloads-for-win-108187/"><u>Get Your Epson WF-7710 Compatible with Windows - Driver Downloads for Win 10/8.1/8/7</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-price-tracker-finding-the-best-cloud-services/"><u>In 2024, Price Tracker Finding the Best Cloud Services</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-iphone-13-pro-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass iPhone 13 Pro Activation Lock</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/maximizing-audience-reach-prime-dissemination-days/"><u>Maximizing Audience Reach Prime Dissemination Days</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/pinpointing-your-own-signature-tiktok-tag-for-2024/"><u>Pinpointing Your Own Signature TikTok Tag for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/random-key-disruption/"><u>Random Key Disruption</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-windows-10-update-issues-fixes-for-stuck-or-non-upgrading-systems/"><u>Resolve Your Windows 10 Update Issues: Fixes for Stuck or Non-Upgrading Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-error-code-0x80071ac3-methods-to-fix-a-corrupted-disk/"><u>Solving Error Code 0X80071AC3: Methods to Fix a Corrupted Disk</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-solve-the-print-to-pdf-not-working-in-windows-11-by-microsoft/"><u>Step-by-Step Guide: Solve the 'Print to PDF Not Working' In Windows 11 by Microsoft</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-wifi-issues-a-users-manual-for-repairing-ethernet-connections-in-windows-11-and-7/"><u>Tackling WiFi Issues: A User's Manual for Repairing Ethernet Connections in Windows 11 & 7</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-art-of-crafting-an-engaging-facebook-biography-in-under-157-characters-for-2024/"><u>The Art of Crafting an Engaging Facebook Biography in Under 157 Characters for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-why-your-obs-recordings-are-showing-a-black-screen-resolved/"><u>The Ultimate Fix: Why Your OBS Recordings Are Showing a Black Screen (Resolved)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-how-to-setting-up-a-future-post-calendar-on-xtwitter/"><u>The Ultimate How-To: Setting Up a Future Post Calendar on X/Twitter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-your-windows-10-machine-springs-to-life-alone-and-how-to-fix-it/"><u>Why Your Windows 10 Machine Springs to Life Alone and How to Fix It</u></a></li>
+</ul></div>
 

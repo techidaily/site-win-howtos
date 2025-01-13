@@ -1,7 +1,7 @@
 ---
 title: Understanding & Correcting the 'RPC Communication' Failure on Your Windows Machine
-date: 2024-08-28T00:38:47.547Z
-updated: 2024-08-29T00:38:47.547Z
+date: 2025-01-09T17:18:32.568Z
+updated: 2025-01-13T16:09:52.248Z
 tags:
   - win11
   - win10
@@ -37,9 +37,17 @@ thumbnail: https://thmb.techidaily.com/69f3067d39675d6781ab4c7e0458c920b25824eda
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_597ff693eb337.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **b)**  In Troubleshooting window, select**Fix problems with Windows Update** under**System and Security** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_597ff84421654.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **c)**  In the windows popping up, click on**Next** , and then follow the instruction to troubleshoot Windows Update.
 
@@ -61,6 +69,11 @@ thumbnail: https://thmb.techidaily.com/69f3067d39675d6781ab4c7e0458c920b25824eda
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_597ffc9beeb8d.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3) Update Windows Update Agent
 
 **Windows Update Agent** is a built-in agent program that helps determine what updates your computer needs and download it from Microsoft.**Updating Windows Update Agent** can be useful for fixing Windows Updates not downloading issue. You can update this program by downloading it from Microsoft and install it on your own.
@@ -79,13 +92,11 @@ thumbnail: https://thmb.techidaily.com/69f3067d39675d6781ab4c7e0458c920b25824eda
 
 **d)** After the completion of installation, restart your computer and see if this method can fix your problem.  
   
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4) Download updates manually
 
  When Windows Update cannot download those updates, you can**download and install them manually from Microsoft** . This can not only help you update your Windows 7 without using Windows Update, but probably fix the not downloading problem as well.
@@ -103,15 +114,13 @@ No advertising on the website.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598025fe09a03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **d)** Go to[**Windows Download Center**](https://www.microsoft.com/en-us/download/default.aspx) and search the code you have just noted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5980268a0d5db.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **e)**  Scroll down to find**Downloads** category in the search result. Click on the result you are going to download under this category.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59803ad03b1a3.jpg)
@@ -120,16 +129,10 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598028499e747.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  _Click on**Download**_  .
 
  ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598029687b2c4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  Untick all these recommended downloads (recommended but unnecessary) and then click on**No thanks and continue** .
 
  **g)** Open the file you have just downloaded and follow the on-screen instructions to complete the installation of this update.
@@ -137,13 +140,16 @@ No advertising on the website.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59802a6c7b717.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can install all your system updates one by one using the steps above. Though it can cost a lot of time, it is an effective way to update your Windows 7 when Windows Update is malfunctioning.  
   
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5) Perform a Clean Boot
 
  If you have tried some methods and the issue persists, you need to check if there is any application that is interfering with Windows Update.
@@ -154,6 +160,10 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59802fed6d846.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **b)**  On**General** tab in System Configuration window, you can see the default setting is**Normal startup** . Now you need to select **Selective startup** and**untick Load startup items** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598030b608b16.jpg)
@@ -162,9 +172,6 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_598034649315c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **d)**  Restart your computer, and it will boot into clean boot state. Check and see whether you can download updates with Windows Update. If you can, refer to the steps above to**enable** **the services one by one** to identify which application is the culprit. After that, you can disable or uninstall the problematic program, or find an alternative in order to prevent the issue.
 
  \* Note that after finishing troubleshooting, you need to**revert** your changes to the settings above to the original ones.
@@ -177,8 +184,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +191,18 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-metaverse-vs-multimetverse-what-are-the-differences-ultimate-guide-for-2024/"><u>[Updated] Metaverse Vs. MultiMetverse What Are the Differences [Ultimate Guide] for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expertise-in-audio-premium-cd-devices/"><u>Expertise in Audio: Premium CD Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-non-responsive-synaptics-touchpad-when-scrolling-on-windows-11/"><u>How To Fix A Non-Responsive Synaptics Touchpad When Scrolling on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-resolve-your-microsoft-display-adapter-connectivity-problems-with-windows-10/"><u>How to Troubleshoot and Resolve Your Microsoft Display Adapter Connectivity Problems with Windows 10</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/investigating-actives-prowess-in-recording-technology-for-2024/"><u>Investigating Active's Prowess in Recording Technology for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/quick-quip-cinema-script-for-2024/"><u>Quick Quip Cinema Script for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolution-understanding-issues-with-the-teredo-protocol-connection/"><u>Resolution: Understanding Issues with the Teredo Protocol Connection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-windows-unable-to-set-up-key-system-components-issue/"><u>Resolved: Fixing 'Windows Unable to Set Up Key System Components' Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-kid-friendly-ipad-models-recommended/"><u>Top 4 Kid-Friendly iPad Models - Recommended</u></a></li>
+</ul></div>
 

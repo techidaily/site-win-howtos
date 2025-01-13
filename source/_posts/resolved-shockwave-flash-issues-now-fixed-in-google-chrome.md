@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Shockwave Flash Issues Now Fixed in Google Chrome"
-date: 2025-01-05T03:41:04.056Z
-updated: 2025-01-06T18:41:48.065Z
+date: 2025-01-10T17:39:46.087Z
+updated: 2025-01-13T17:20:07.150Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 4. [**Update or re-install Google Chrome**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Disable Chrome add-ons
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b432bba1ea5a.jpg)
 3. Toggle off all the extensions on your Chrome.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e199b56ceb.png)
 4. Re-launch Chrome, play the same content and see if it works smoothly.  
 
@@ -58,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable hardware acceleration
@@ -73,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582452d2feb.png)
 3. Scroll down to the bottom and in **System**  and **DISABLE** the toggle next to **Use hardware acceleration when available** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
 4. Re-launch Chrome and test if the video content loads without fail this time.
@@ -96,20 +96,16 @@ This problem may occur if you are using the wrong graphics driver or it’s out 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then keep track of your Chrome to see if everything runs smoothly.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update or re-install Google Chrome
 
@@ -123,6 +119,10 @@ To do so:
 2. In the top right, click on **the three vertical dots** button > **help** \> **About Google Chrome** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b433a86ba999.jpg)
 3. Google Chrome automatically detects if there’s an update available:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * If yes, follow the on-screen instruction to finish the update.
 * If no, delete Chrome and re-install it on Windows store or other trustworthy third-party website. (**NOTE** : This will erase your Chrome browser settings and data).
@@ -151,24 +151,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-achieve-flawless-network-livestream-mastering-vlc-techniques/"><u>[New] Achieve Flawless Network Livestream Mastering VLC Techniques</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-simplifying-server-removal-for-desktopmobile-use-for-2024/"><u>[New] Simplifying Server Removal for Desktop/Mobile Use for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-ultimate-playlist-guide-for-youtube-enthusiasts-online-and-mobile-for-2024/"><u>[New] The Ultimate Playlist Guide for YouTube Enthusiasts Online & Mobile for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-building-a-powerful-twitter-marketing-strategy-for-2024/"><u>[Updated] Building a Powerful Twitter Marketing Strategy for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/borative-listening-made-simple-on-youtube/"><u>Collaborative Listening Made Simple on YouTube</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-solution-for-resolving-windows-10s-0x800705b4-error-on-patch-day/"><u>Complete Solution for Resolving Windows 10'S 0X800705B4 Error on Patch Day</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/disabling-unnecessary-processes-in-windows-10/"><u>Disabling Unnecessary Processes in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-steam-error-could-not-connect-to-the-steam-network/"><u>Fix Steam Error: Could Not Connect to the Steam Network</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-apple-iphone-15-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from Apple iPhone 15 Pro Max without Password?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/mirror-your-media-how-to-flip-a-clip-in-final-cut-pro-quickly-for-2024/"><u>Mirror Your Media How to Flip a Clip in Final Cut Pro Quickly for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-make-cartoon-characters-from-photos/"><u>New In 2024, Make Cartoon Characters From Photos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/podcast-summary-genius-guidance-and-examples-for-2024/"><u>Podcast Summary Genius Guidance & Examples for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-high-svchostexe-cpu-consumption-in-windows-11-a-complete-guide/"><u>Resolving High svchost.exe CPU Consumption in Windows 11 - A Complete Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-persistent-windows-update-error-code-0x802n4401c-on-windows-10-and-11/"><u>Resolving the Persistent Windows Update Error Code 0X802n4401C on Windows 10 & 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-problem-your-pc-wont-power-down-in-windows-10/"><u>Solving the Problem: Your PC Won't Power Down in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-windows-update-error-code-0x8024401c-on-windows-11-a-complete-guide/"><u>Solving the Windows Update Error Code 0X802^4401c on Windows 11: A Complete Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-windows-11-persistent-restart-issue/"><u>Step-by-Step Fix for Windows 11 Persistent Restart Issue</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-gopro-hero5-black-journey-elevating-your-visual-storytelling-for-2024/"><u>The GoPro Hero5 Black Journey Elevating Your Visual Storytelling for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-for-the-common-ce-34878-0-error-code-in-ps4-gaming-systems/"><u>Ultimate Troubleshooting for the Common CE-34878-0 Error Code in PS4 Gaming Systems</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-affordable-high-definition-cams-for-adventure-enthusiasts/"><u>[New] In 2024, Affordable High Definition Cams for Adventure Enthusiasts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-overcoming-the-invisible-screen-hurdle-youtube-fixes/"><u>[Updated] Overcoming the Invisible Screen Hurdle YouTube Fixes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-express-creativity-for-free-your-meme-toolbox-awaits/"><u>2024 Approved Express Creativity for Free – Your Meme Toolbox Awaits</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-windows-update-issue-easy-solutions-to-correct-error-0x8024200d/"><u>Beat Windows Update Issue: Easy Solutions to Correct Error 0X8024200D</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-overcome-livekernelevent-error-code-117/"><u>Comprehensive Guide: Overcome LiveKernelEvent Error Code 117</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-best-video-editing-apps-for-kids-free-paid-and-fun/"><u>Discover the Best Video Editing Apps for Kids Free, Paid, and Fun</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dll-not-found-microsoft-c-runtime-error/"><u>DLL Not Found: Microsoft C Runtime Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-problem-uncontrollable-repeated-mouse-clicks/"><u>Fixed Problem: Uncontrollable Repeated Mouse Clicks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-video-quality-on-youtube-top-formats-revealed/"><u>In 2024, Streamlining Video Quality on YouTube – Top Formats Revealed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-quintessential-list-of-top-tier-gaming-cams-for-live-viewers/"><u>In 2024, The Quintessential List of Top-Tier Gaming Cams for Live Viewers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-amd-radeon-r5-graphics-driver-download-for-windows-11-10-8-7/"><u>Latest AMD Radeon R5 Graphics Driver Download for Windows 11, 10, 8, 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-0x80070091-error-when-performing-a-system-restore-on-windows-10-solution/"><u>Overcoming the 0X80070091 Error When Performing a System Restore on Windows 10 [Solution]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-n11-touchpad-scrolling-malfunctions-a-step-by-step-guide/"><u>Resolving Windows N11 Touchpad Scrolling Malfunctions: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-tricks-for-improving-delayed-keyboard-reaction-times/"><u>Simple Tricks for Improving Delayed Keyboard Reaction Times</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-implemented-for-energetic-fluctuations-at-connection-node/"><u>Solution Implemented for Energetic Fluctuations at Connection Node</u></a></li>
+<li><a href="https://os-tips.techidaily.com/solving-sd-card-read-errors-discover-these-12-effective-fixes/"><u>Solving SD Card Read Errors: Discover These 12 Effective Fixes!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-on-easy-window-battery-driver-updates-for-better-performance/"><u>Step-by-Step Tutorial on Easy Window Battery Driver Updates for Better Performance</u></a></li>
 </ul></div>
 

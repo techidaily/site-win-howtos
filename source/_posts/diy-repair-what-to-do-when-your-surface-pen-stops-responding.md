@@ -1,7 +1,7 @@
 ---
 title: "DIY Repair: What To Do When Your Surface Pen Stops Responding"
-date: 2024-08-28T00:37:34.398Z
-updated: 2024-08-29T00:37:34.398Z
+date: 2025-01-12T17:35:44.082Z
+updated: 2025-01-13T17:08:44.210Z
 tags:
   - win11
   - win10
@@ -42,36 +42,39 @@ The troubleshooter in your computer helps troubleshoot the hardware problems and
 3. Click**Hardware** **and** **Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb10c799b9d.jpg)
 4. Click**Hardware and Devices** . This will find and fix problems with devices and hardware.  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb10e9a82be.jpg)
 5. Click**Next** to process. Then follow the on-screen instructions to finish the process.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb1108d468d.jpg)
-6. Restart your computer and see if it fixes the error.
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb1108d468d.jpg)
+6. Restart your computer and see if it fixes the error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Re-enable touch screen
 
 You can also re-enable touch screen and its driver to fix the “No Pen or Touch Input is available for this Display” error.
 
 1. On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  
  and **R**  at the same time to invoke the Run box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb11575bbfb.png)
 3. Double click**Human Interface Devices** to expand the category.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb11cb8b5a8.jpg)
 4. Right click on**HID-compliant touch screen** , then select**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb12007e8f1.jpg)
@@ -83,8 +86,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 Try touch screen and see if it works now. The error still persists? Okay, there’s one more thing to try.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update touch screen driver
 
 A missing or outdated touch screen driver can also result in the “No Pen or Touch Input is available for this Display” error. So you can update the driver for your touch screen to fix it. There are two ways to update touch screen driver:**manually**and**automatically**.**Manually update driver**– You can go to the manufacturer’s website for your touch screen, find the latest correct driver for it, then download and install into your computer. Be sure to download the one that is compatible with Windows OS in your computer.**Automatically update driver**– If you don’t have time or patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .**Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
@@ -95,10 +99,11 @@ A missing or outdated touch screen driver can also result in the “No Pen or To
 3. Click the**Update** button next to the flagged touch screen to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_**Update All**_ ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbb1405c2875.jpg)
 4. Restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Now check and see if the “**No Pen or Touch Input is available for this Display**” error disappears. That’s it. Hope this post comes in handy and fixes your “**No Pen or Touch Input is available for this Display**” error. If you have any questions, feel free to leave a comment below and we’ll see what more we can do.
 
 * [error](https://tools.techidaily.com/drivereasy/download/)
@@ -110,8 +115,6 @@ Now check and see if the “**No Pen or Touch Input is available for this Displa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +122,22 @@ Now check and see if the “**No Pen or Touch Input is available for this Displa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-get-real-in-depth-recording-with-macbooks-cam/"><u>[New] 2024 Approved Get Real In-Depth Recording with MacBook's Cam</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-arcade-alpha-check-in-gamers-thoughts/"><u>[New] ARCADE ALPHA CHECK-IN Gamers' Thoughts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-capturing-sound-on-mac-an-audacity-tutorial/"><u>[New] Capturing Sound on Mac An Audacity Tutorial</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-comprehensive-report-on-djis-inspire-1/"><u>[Updated] 2024 Approved Comprehensive Report on DJI's Inspire 1</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-tiny-tranquil-houses-japanese-style/"><u>[Updated] 2024 Approved Tiny Tranquil Houses Japanese Style</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-subscription-rate-monitoring-software/"><u>[Updated] In 2024, Subscription Rate Monitoring Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-text-tools-and-ae-plug-ins/"><u>Advanced Text Tools & AE Plug-Ins</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-repair-broken-shift-keys-expert-advice-for-optimal-functionality/"><u>Diagnose & Repair Broken Shift Keys: Expert Advice for Optimal Functionality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/effortlessly-integrate-photos-into-instagramsphere/"><u>Effortlessly Integrate Photos Into Instagramsphere</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/elevate-your-productions-with-key-obs-studio-tips/"><u>Elevate Your Productions with Key OBS Studio Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-in-malfunctioning-arrow-keys-on-your-keyboard/"><u>How To Restore Functionality in Malfunctioning Arrow Keys on Your Keyboard</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/insight-into-autopilot-mode-discovering-the-reason-behind-self-starting-windows-11-systems/"><u>Insight Into Autopilot Mode: Discovering the Reason Behind Self-Starting Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-windows-10-volume-control-problems-a-comprehensive-guide/"><u>Overcoming Windows 10 Volume Control Problems - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-disappearing-bluetooth-icon-in-windows-10-environment/"><u>Step-by-Step Fix for Disappearing Bluetooth Icon in Windows 10 Environment</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-surface-pen-on-pro-4-effective-steps-to-get-it-running-again/"><u>Troubleshooting Your Surface Pen on Pro 4: Effective Steps to Get It Running Again</u></a></li>
+</ul></div>
 

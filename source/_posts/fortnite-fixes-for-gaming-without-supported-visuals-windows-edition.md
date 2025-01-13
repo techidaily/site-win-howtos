@@ -1,7 +1,7 @@
 ---
 title: "Fortnite Fixes for Gaming Without Supported Visuals: Windows Edition"
-date: 2024-09-05T10:00:21.810Z
-updated: 2024-09-06T10:00:21.810Z
+date: 2025-01-09T16:16:04.191Z
+updated: 2025-01-13T17:13:46.166Z
 tags:
   - win11
   - win10
@@ -23,12 +23,6 @@ Windows 10 renamed the original Windows Explorer (from Windows 8) to**File Explo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584913472d50a-600x522.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can right click the**File Explorer** option and choose**Pin to Start** or**Pin to taskbar** if you want to have a quicker access to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584913edbf2bf.jpg)
@@ -37,34 +31,10 @@ Windows 10 renamed the original Windows Explorer (from Windows 8) to**File Explo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/pin-to-quick-access.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to remove an item from Quick access menu, just right click this item and select**Unpin from Quick access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/unpin-from-quick-access.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  **Windows 10 File Explorer not responding when right clicks?** If your File Explorer is not responding when you right click it, you should follow the instructions below to get this problem fixed. 1) Press**Windows key**and**X**at the same time, then choose**Command Prompt (Admin)**option from the list of choice.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491b710eb2d.png)
@@ -77,44 +47,14 @@ You can restart your computer when this operation is completed. 3) Follow the pa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491d95611c0-600x476.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Then choose**Uninstall updates**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491d7901b10-600x462.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) If you can see update**KB3081449**or**KB3081448**, right click it and choose**Uninstall**. Then restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58491df2251f5-600x330.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -123,8 +63,6 @@ You can restart your computer when this operation is completed. 3) Follow the pa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +70,28 @@ You can restart your computer when this operation is completed. 3) Follow the pa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-video-splitting-expertise-best-recorder-verdict-for-2024/"><u>[New] Video Splitting Expertise Best Recorder Verdict for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-innovative-strategies-for-vimeo-video-recording-for-2024/"><u>[Updated] Innovative Strategies for Vimeo Video Recording for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-swift-techniques-for-authenticating-insta-networks/"><u>[Updated] Swift Techniques for Authenticating Insta Networks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/aircraft-land-sea-or-air-not-in-excess-of-two-tons-weight/"><u>Aircraft (Land, Sea or Air) Not in Excess of Two Tons Weight</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-laptop-keyboard-issues-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Fix Laptop Keyboard Issues on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/fundamentals-of-hashtag-marketing-does-it-work-within-facebooks-social-fabric/"><u>Fundamentals of #Hashtag Marketing: Does It Work Within Facebook's Social Fabric?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-of-your-broken-dell-usb-ports-expert-fixes-unveiled/"><u>How to Restore Functionality of Your Broken Dell USB Ports - Expert Fixes Unveiled</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-samsung-galaxy-a23-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Samsung Galaxy A23 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-how-to-create-podcast-rss-feeds/"><u>In 2024, How To Create Podcast RSS Feeds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keys-not-responding/"><u>Keys Not Responding</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-windows-maintenance-resolving-issues-in-windows-11-via-sfcdism/"><u>Master Windows Maintenance: Resolving Issues in Windows 11 via SFC/DISM</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-system-lockups-in-windows-11-strategies-for-a-smooth-computing-experience/"><u>Overcoming System Lockups in Windows 11: Strategies for a Smooth Computing Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211965095-recover-lost-taskbar-icons-in-windows-10-with-these-easy-troubleshooting-tips/"><u>Recover Lost Taskbar Icons in Windows 10 with These Easy Troubleshooting Tips</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-vivo-s18-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Vivo S18 FRP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-changerenderingapierror-2024-in-dota-2-with-these-simple-steps/"><u>Troubleshoot 'ChangeRenderingAPI:Error 2024' In Dota 2 with These Simple Steps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlock-more-views-the-art-of-editing-your-youtube-content-for-2024/"><u>Unlock More Views The Art of Editing Your YouTube Content for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207727609-windows-11-bluetooth-gone-wrong-rectify-it-swiftly-with-these-proven-techniques/"><u>Windows 11 Bluetooth Gone Wrong? Rectify It Swiftly with These Proven Techniques</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

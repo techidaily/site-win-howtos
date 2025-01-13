@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 11: Correcting the File Explorer's Fast Track Scrolling Issue"
-date: 2024-12-19T16:17:35.409Z
-updated: 2024-12-22T18:00:51.213Z
+date: 2025-01-11T16:41:36.300Z
+updated: 2025-01-13T16:54:37.093Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
 
 ``
@@ -45,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -77,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 ``
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Re-register the ExplorerFrame.dll file
@@ -99,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -117,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 
 ``
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
@@ -134,7 +138,7 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ``
@@ -172,10 +176,6 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -183,6 +183,10 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
 4) Open the app again to see if it goes fine.
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
 
@@ -193,10 +197,6 @@ thumbnail: https://thmb.techidaily.com/56026dcff0736582c2fe4e321c8c74705a564d75f
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -225,19 +225,16 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-distinguished-crafters-superior-online-instagram-hlv-creators/"><u>[New] 2024 Approved Distinguished Crafters Superior Online Instagram HLV Creators</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-backtrack-broadcasts-effortlessly-with-these-20-stream-steps/"><u>[Updated] Backtrack Broadcasts Effortlessly with These 20 Stream Steps</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-wrap-up-wisdom-for-media-masters-for-2024/"><u>[Updated] Wrap-Up Wisdom for Media Masters for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/decode-the-puzzle-strategies-for-correcting-minecrafts-infamous-error-code-5/"><u>Decode the Puzzle: Strategies for Correcting Minecraft's Infamous Error Code 5</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-and-efficient-scsi-driver-procurement/"><u>Direct & Efficient SCSI Driver Procurement</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-d3dcompiler47dll-file-not-found-error-step-by-step-guide/"><u>Fix D3DCOMPILER_47.dll File Not Found Error: Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-logitech-camera-and-mic-issues-a-step-by-step-guide/"><u>Fixing Logitech Camera & Mic Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-oneplus-nord-n30-se-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from OnePlus Nord N30 SE to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/monetizing-youtube-shorts-crucial-requirements-and-potential-income-for-2024/"><u>Monetizing Youtube Shorts Crucial Requirements and Potential Income for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/outperforming-the-gear-360-best-cameras-of-the-year-reviewed-for-2024/"><u>Outperforming the Gear 360 Best Cameras of the Year Reviewed for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012578810-resolving-pc-issues-stop-minecraft-dungeon-from-crashing-now/"><u>Resolving PC Issues: Stop Minecraft Dungeon From Crashing Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-tenth-casting-challenges-a-comprehensive-guide/"><u>Resolving Windows Tenth Casting Challenges - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/success-battleye-service-configuration-flaw-rectified-reliable-performance-achieved/"><u>Success! BattlEye Service Configuration Flaw Rectified – Reliable Performance Achieved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-solutions-to-resolve-audio-services-not-responding-on-windows-11/"><u>Ultimate Solutions to Resolve 'Audio Services Not Responding' On Windows 11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-precision-editing-on-inshot-mastering-the-art-of-transitioning/"><u>[New] 2024 Approved Precision Editing on Inshot Mastering the Art of Transitioning</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-journey-just-beginning-how-to-unlock-ifunny-memes-for-2024/"><u>[New] Journey Just Beginning How to Unlock iFunny Memes for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-accessing-and-archiving-your-facebook-status-vids/"><u>2024 Approved Accessing and Archiving Your Facebook Status Vids</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/all-facets-of-adobes-storage-system-and-its-equivalents-in-the-market-for-2024/"><u>All Facets of Adobe's Storage System & Its Equivalents in the Market for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/defrosting-digital-dilemmas-expert-tips-on-resolving-freezes-in-computers/"><u>Defrosting Digital Dilemmas: Expert Tips on Resolving Freezes in Computers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/epic-quests-unveiled-top-games-mirroring-ghost-of-tsushima/"><u>Epic Quests Unveiled Top Games Mirroring Ghost of Tsushima</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/key-videoaudio-component-driver-installation-completed-for-optimal-performance/"><u>Key Video/Audio Component Driver Installation Completed for Optimal Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/skepticism-in-automated-text-summaries-why-trust-bots-less/"><u>Skepticism in Automated Text Summaries: Why Trust Bots Less?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-nier-automata-crashing-on-windows-systems/"><u>Solving the Problem of Nier: Automata Crashing on Windows Systems</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-ultimate-step-by-step-guide-to-using-and-curating-gifs-in-discord/"><u>The Ultimate Step-by-Step Guide to Using and Curating GIFs in Discord</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-fix-the-devices-not-recognized-issue-on-windows-7/"><u>Troubleshooting: How to Fix the 'Devices Not Recognized' Issue on Windows 7</u></a></li>
 </ul></div>
 

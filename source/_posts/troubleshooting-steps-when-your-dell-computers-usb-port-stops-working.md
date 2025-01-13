@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps When Your Dell Computer's USB Port Stops Working
-date: 2024-12-30T21:58:34.524Z
-updated: 2025-01-07T02:53:15.019Z
+date: 2025-01-12T17:09:53.918Z
+updated: 2025-01-13T16:04:18.396Z
 tags:
   - win11
   - win10
@@ -55,10 +55,6 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/dxdiag-Run-box.jpg)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
@@ -70,7 +66,7 @@ To check the specs of your PC:
  If your PC specs are up to the mark but Oddworld: Soulstorm still crashes, please move on to**Fix 2** , below to begin troubleshooting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
@@ -92,10 +88,6 @@ To check the specs of your PC:
 4. Restart your computer for the changes to take effect.
 5. Launch Oddworld: Soulstorm and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Run Epic Games Launcher as administrator
 
  Oddworld: Soulstorm requires administrator privileges in order to access protected system resources. If the game or the game client doesn’t have the required permissions, you may encounter crash. So you should make sure to run Epic Games Launcher as administrator to see if it fixes the issue.
@@ -105,13 +97,13 @@ Here’s how:
 1. On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Windows-logo-key.png) , type**epic** , then right-click on**Epic Games Launcher** and click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/epic.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Click**Yes** when UAC promots for permissions to proceed.
 
  After that, launch Oddworld: Soulstorm game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify game integrity on Epic Games Launcher
 
@@ -120,7 +112,7 @@ Here’s how:
  Wait a bit until the process finishes. After that, re-launch Oddworld: Soulstorm to see if it can be played properly. If yes, then congrats! If it’s still no joy, please try**Fix 5** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Allow Epic Games Launcher through firewall
@@ -134,7 +126,7 @@ Here’s how:
 2. In the window that pops up, click **Allow an app or feature through Windows Defender Firewall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall.png)
@@ -143,9 +135,17 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app.png)
 4. Once completed, click **OK** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Run the game in the launcher and see if it still crashes. If it’s still on-going, please move on to**Fix 6** .
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. During this time, be extra careful about what sites you visit, what emails you open and what files you download.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Install the latest patch
 
@@ -166,19 +166,19 @@ Here are the steps to perform a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/service-and-hide-all-microsoft-services.png)
 3. Browse through the full list of services, make sure to **check the boxes for the items that belong to your hardware manufacturers** (such as Intel, AMD, and Qualcomm) and**uncheck the boxes for the rest** . Once finished, click**OK** to apply the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12-2.png)
 4. Restart your computer, then test to see if the game still crashes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
    * **If Oddworld: Soulstorm stops crashing** , you can try repeating these steps, disabling half of the services each time until you isolate the culpable program. Once you do, do some research on the internet to find out what the program is for, then contact the vendor of this program for advice or an alternative solution.  
    * **If Oddworld: Soulstorm still crashes** , please continue to**Fix 8** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Oddworld: Soulstorm and the launcher
 
@@ -205,20 +205,21 @@ Here are the steps to perform a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11.techidaily.com/a-guide-to-judicious-use-of-ping-in-windows-operations/"><u>A Guide to Judicious Use of Ping in Windows Operations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/avoiding-and-correcting-hazardous-bugs-in-the-battlefield-saga-black-ops-iv/"><u>Avoiding and Correcting Hazardous Bugs in the Battlefield Saga: Black Ops IV</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/experience-no-more-failures-in-updating-your-game-solutions-to-overcome-warframe-glitch/"><u>Experience No More Failures in Updating Your Game: Solutions to Overcome Warframe Glitch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-on-using-system-file-checker-sfc-and-deployment-image-servicing-dism-to-restore-windows-10/"><u>Expert Tips on Using System File Checker (SFC) and Deployment Image Servicing (DISM) to Restore Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-troubleshoot-your-ps4-controller-charging-problem/"><u>Fixing the Issue: How to Troubleshoot Your PS4 Controller Charging Problem</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/immersive-escapes-how-to-choose-between-rift-vive-ps-vr-for-2024/"><u>Immersive Escapes How to Choose Between Rift, Vive, PS VR for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-xsipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on Apple iPhone XS/iPad/iPod</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/leveraging-zoom-features-for-improved-tiktok-videos/"><u>Leveraging Zoom Features for Improved TikTok Videos</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-from-funny-to-fascinating-best-reaction-video-apps/"><u>New In 2024, From Funny to Fascinating Best Reaction Video Apps</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-the-best-of-both-worlds-10-video-editing-apps-for-kids-with-free-and-paid-features/"><u>New The Best of Both Worlds 10 Video Editing Apps for Kids with Free and Paid Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-get-your-laptop-mousepad-functioning-again-on-various-windows-versions-win-11-8-and-7/"><u>Resolved: How to Get Your Laptop Mousepad Functioning Again on Various Windows Versions (Win 11, 8 & 7)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-when-you-encounter-wireless-networking-has-been-deactivated/"><u>Troubleshooting Steps When You Encounter 'Wireless Networking Has Been Deactivated'</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211219514-windows-11-touchpad-scroll-not-working-heres-how-to-fix-it/"><u>Windows 11 Touchpad Scroll Not Working? Here's How to Fix It</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-easy-access-guide-skype-audio-to-mp3-free/"><u>[Updated] Easy-Access Guide Skype Audio to Mp3, Free</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/best-apps-for-3d-video-intros-on-social-platforms/"><u>Best Apps for 3D Video Intros on Social Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/brightness-adjustment-malfunction-on-windows-11-solutions-and-fixes/"><u>Brightness Adjustment Malfunction on Windows 11 - Solutions and Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-system-error-5-on-your-pc-effective-strategies-for-all-generations-of-windows-operating-systems/"><u>Bypassing System Error 5 on Your PC: Effective Strategies for All Generations of Windows Operating Systems</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/conquer-non-printing-on-canon-uncover-5-easy-methods-for-windows-11-enthusiasts/"><u>Conquer Non-Printing on Canon - Uncover 5 Easy Methods for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/dominate-the-digital-landscape-commerce-via-tiktok/"><u>Dominate the Digital Landscape Commerce via TikTok</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-stagnation-during-windows-os-initialization-and-setup/"><u>How to Resolve Stagnation During Windows OS Initialization and Setup</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-a-treasure-trove-of-budget-friendly-digital-artistry-tools/"><u>In 2024, A Treasure Trove of Budget-Friendly Digital Artistry Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-15-pro-vs-iphone-13-pro-comparison-is-it-time-for-an-upgrade-techanalysis/"><u>IPhone 15 Pro vs iPhone 13 Pro Comparison: Is It Time for an Upgrade? | TechAnalysis</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-glow-back-on-expert-tips-for-reactivating-macwindows-led-lights/"><u>Keyboard Glow Back On? Expert Tips for Reactivating Mac/Windows LED Lights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/master-your-machine-expert-advice-from-toms-computer-chronicles/"><u>Master Your Machine: Expert Advice From Tom's Computer Chronicles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207057626-nba-2k21s-green-functionality-enhancement-glitch-no-more/"><u>NBA 2K21's Green Functionality Enhancement - Glitch No More</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-steps-for-new-worlds-anti-cheat-error/"><u>Resolved! Troubleshooting Steps for New World's Anti-Cheat Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamless-network-connectivity-restored-eradicating-the-notorious-hamachi-service-stopped-glitch/"><u>Seamless Network Connectivity Restored: Eradicating the Notorious Hamachi Service Stopped Glitch</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/take-your-videos-to-the-next-level-cool-editing-tricks-and-tips-for-2024/"><u>Take Your Videos to the Next Level Cool Editing Tricks and Tips for 2024</u></a></li>
 </ul></div>
 

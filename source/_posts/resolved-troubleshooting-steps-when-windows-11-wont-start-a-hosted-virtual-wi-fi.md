@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Steps When Windows 11 Won't Start a Hosted Virtual Wi-Fi"
-date: 2024-12-30T18:10:23.171Z
-updated: 2025-01-07T03:05:58.543Z
+date: 2025-01-09T16:18:50.485Z
+updated: 2025-01-13T16:51:33.705Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 3 solutions you can try to fix this problem. You may not have to try them all; just work your way down the list until you find the one that works.
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
 **Note:** Before performing the solutions, please make sure the device you want to cast to and Windows 10 both are connected to**the same** network connection.  
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure the network sharing feature is enabled on your computer
 
@@ -52,35 +60,23 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Reset the Stream Permissions on your Windows 10 computer
 
 1. Type **media**  in the search box from Start. Then click **Windows Media Player**  on the top.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Click **OK** .  
 
@@ -88,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Close the Windows Media Player window.
@@ -96,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
 9. Try the Cast to Device feature again to see if it succeeds.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your network card driver
 
@@ -110,12 +110,12 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0e8904a209.jpg)
 3. Click the **Update** button next to all the flagged drivers to automatically download the correct version of this driver, then you can manually install it (you can do this with the **FREE** version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
 4. Reboot your Windows 10.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
 
@@ -140,24 +140,24 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-master-your-videos-success-with-leading-rank-monitors/"><u>[New] 2024 Approved Master Your Video's Success with Leading Rank Monitors</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-the-skype-chorus-select-websites-for-rhythmic-calls/"><u>[New] 2024 Approved The Skype Chorus Select Websites for Rhythmic Calls</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-pro-level-screenshot-techniques-with-top-11-tools-for-2024/"><u>[New] Pro-Level Screenshot Techniques with Top 11 Tools for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-leveraging-youtubes-tagging-system-for-enhanced-visibility/"><u>[Updated] 2024 Approved Leveraging YouTube's Tagging System for Enhanced Visibility</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-blueprint-for-a-streamlined-social-media-connection-with-linktree/"><u>2024 Approved The Blueprint for a Streamlined Social Media Connection with Linktree</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/avoid-common-errors-top-5-strategies-to-restore-touchscreen-functionality-on-windows-11/"><u>Avoid Common Errors: Top 5 Strategies to Restore Touchscreen Functionality on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-solution-reviving-your-hp-laptops-camera-under-windows-10-compatibility/"><u>DIY Solution: Reviving Your HP Laptop's Camera Under Windows 10 Compatibility</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-for-overcoming-launch-problems-in-resident-evil-5-for-windows-users/"><u>Expert Tips for Overcoming Launch Problems in Resident Evil #5 for Windows Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-issues-when-starting-a-hosted-wi-fi-network-on-windows-11/"><u>Fixing Issues When Starting a Hosted Wi-Fi Network on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-11-night-mode-problems-step-by-step-solution/"><u>How to Resolve Windows 11 Night Mode Problems – Step-by-Step Solution</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/kids-earning-big-the-success-story-of-young-ryan-kaji-for-2024/"><u>Kids Earning Big The Success Story of Young Ryan Kaji for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/navigating-netflix-and-youtubers-how-jake-paul-succeeded/"><u>Navigating Netflix & YouTubers How Jake Paul Succeeded</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-the-challenges-of-library-loading-fixing-loadlibrary-failed-and-error-code-n/"><u>Navigating the Challenges of Library Loading - Fixing 'LoadLibrary Failed' And Error Code N</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-a14-4g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy A14 4G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-8-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 8 Data From iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-0x8024402c-issue-a-step-by-step-guide-to-repairing-windows-updates/"><u>Resolving the 0X8024402c Issue: A Step-by-Step Guide to Repairing Windows Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-svchostexe-causing-excessive-cpu-use-in-windows-10-a-step-by-step-guide/"><u>Resolving the Issue of svchost.exe Causing Excessive CPU Use in Windows 10 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/speedily-solve-no-battery-alerts-easy-tips-and-tricks/"><u>Speedily Solve 'No Battery' Alerts - Easy Tips and Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-stop-your-mouse-from-erratic-motion/"><u>Troubleshooting Guide: Stop Your Mouse From Erratic Motion</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-transformation-of-windows-10-landscape/"><u>[New] In 2024, The Transformation of Windows 10 Landscape</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-examining-video-sharing-platforms-the-vimeo-and-youtube-divide/"><u>2024 Approved Examining Video Sharing Platforms The Vimeo & YouTube Divide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-step-into-the-world-of-manga-and-anime-with-a-tap-on-snapchat/"><u>2024 Approved Step Into the World of Manga & Anime with a Tap on Snapchat</u></a></li>
+<li><a href="https://games-able.techidaily.com/2024s-elite-list-of-gamer-speakers-in-depth-review-and-comparisons-zdnet/"><u>2024'S Elite List of Gamer Speakers: In-Depth Review & Comparisons | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-malfunctioning-integrated-webcams-on-windows-systems/"><u>Diagnosing and Fixing Malfunctioning Integrated Webcams on Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-store-cache-issues-solutions-and-troubleshooting/"><u>Fixing Windows Store Cache Issues: Solutions & Troubleshooting</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/from-script-to-screen-10-famous-movies-crafted-with-final-cut-pro/"><u>From Script to Screen 10 Famous Movies Crafted with Final Cut Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fully-functioning-again-toshiba-laptop-key-malfunctions-repair-complete/"><u>Fully Functioning Again: Toshiba Laptop Key Malfunctions Repair Complete</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-successfully-enabling-flash-content-in-google-chrome/"><u>Guide: Successfully Enabling Flash Content in Google Chrome</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-infinix-note-30-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Infinix Note 30 Pro Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reactivate-pentouch-functionality-on-non-interactive-displays-solutions-included/"><u>How to Reactivate Pen/Touch Functionality on Non-Interactive Displays – Solutions Included</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-iphone-xr-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From iPhone XR</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-oppo-reno-9a-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Oppo Reno 9A to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-user-account-control-enable-required-permissions-in-windows-11-10-and-vista7/"><u>Mastering User Account Control: Enable Required Permissions in Windows 11, 10 and Vista/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/origin-troubleshooting-guide-overcoming-setup-hurdles-in-gaming-systems/"><u>Origin Troubleshooting Guide: Overcoming Setup Hurdles in Gaming Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-connectivity-problems-solutions-for-logitech-g930-microphone-interruptions/"><u>Overcoming Connectivity Problems - Solutions for Logitech G930 Microphone Interruptions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-full-potential-of-your-logitech-mx-master-through-proper-software-configuration/"><u>Unlocking Full Potential of Your Logitech MX Master Through Proper Software Configuration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-users-guide-to-restoring-touchpad-cursor-functionality/"><u>Windows 11 User's Guide to Restoring Touchpad Cursor Functionality</u></a></li>
 </ul></div>
 

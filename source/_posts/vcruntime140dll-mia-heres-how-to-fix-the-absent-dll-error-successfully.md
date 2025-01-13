@@ -1,7 +1,7 @@
 ---
 title: VCRUNTIME140.dll MIA? Here’s How to Fix the Absent DLL Error Successfully!
-date: 2024-08-28T00:35:59.490Z
-updated: 2024-08-29T00:35:59.490Z
+date: 2025-01-08T17:29:17.694Z
+updated: 2025-01-13T17:31:29.578Z
 tags:
   - win11
   - win10
@@ -36,6 +36,11 @@ Before start using the methods, you should check your connection first.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -53,13 +58,11 @@ Before start using the methods, you should check your connection first.
 3. Check your time and date.
 4. Click**Region** and check your region is corrected.![](https://images.drivereasy.com/wp-content/uploads/2019/06/region-1.jpg)
 5. Open the Microsoft Store to check.
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Use the WSReset tool
 
  This tool is made to clear and reset the Microsoft Store cache. Mostly, many problems are caused by corrupted cache files. So use the WSReset tool to clear and reset can easily solve the problem.
@@ -67,28 +70,25 @@ Before start using the methods, you should check your connection first.
 1. Press the**Windows key** +**R** together to open the Run box.
 2. Type “wsreset.exe” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/windows-store-cache.jpg)
 3. There will be a command window pop-up. Wait for it to close by itself, then the Microsoft Store will be launched automatically.![](https://images.drivereasy.com/wp-content/uploads/2019/06/wsreset.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Disable the Proxy connection
 
  Your proxy setting may be the reason for the Microsoft Store won’t open problem. You may disable the proxy connection if it can help.
 
 1. Type “internet options” in the search bar and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/ip0.jpg)
 2. In the Connections tab, click**LAN settings** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/ip.jpg)
-3. If you see the box under the**Proxy server** is ticked, uncheck**Use a proxy server for your LAN** then click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/ip1.jpg)
-4. Run the Microsoft Store and check the problem is solved or not.
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. If you see the box under the**Proxy server** is ticked, uncheck**Use a proxy server for your LAN** then click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/ip1.jpg)
+4. Run the Microsoft Store and check the problem is solved or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 5: Use Microsoft Store troubleshoot
 
  Whenever you’re having problems with the Windows system, the easiest method you can try is to run the Windows built-in troubleshooters. Windows 10 has built-in troubleshooters to diagnose and automatically fix common problems. There are many troubleshooters for different problems.  
@@ -96,30 +96,39 @@ Before start using the methods, you should check your connection first.
 
 1. Press the**Windows key** +**I** together and click**Update & Security** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/update.jpg)
 2. Click**Troubleshoot** and scroll down to find Microsoft Store Apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click**Microsoft Store Apps** and then click**Run the troubleshooter** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/troubleshoot.jpg)
 4. Follow the instructions on the screen then restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Run the Microsoft Store to check the problem is solved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 6: Reset Microsoft Store from settings
 
  If the above settings can’t fix the problem, you can reset the Microsoft Store to default to solve the problem.
 
 1. Press the**Windows key** +**I** together and click**Apps** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/app.jpg)
 2. Scroll down to find Microsoft Store.
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Click the**Microsoft Store** and then click**Advanced options** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/app1.jpg)
 4. Scroll down and click**Reset** . Click**Reset** again in the pop-up window.  
 **Note** : This step will permanently delete the app’s data including your sign-in details.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/app2.jpg)
 5. Run the Microsoft Store to check whether the problem is solved or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hope this article will meet your needs. If you have any questions, please leave comments below, we’ll try our best to help.
 
@@ -131,8 +140,6 @@ Before start using the methods, you should check your connection first.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +147,22 @@ Before start using the methods, you should check your connection first.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-achieve-superior-zoom-sound-2-essential-tweaks-explored-for-2024/"><u>[New] Achieve Superior Zoom Sound 2 Essential Tweaks Explored for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-launch-free-dvd-playback-capabilities-on-windowsmac-laptops/"><u>[New] Launch Free DVD Playback Capabilities on Windows/Mac Laptops</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-preserve-the-illusion-professional-tactics-for-vr-gaming-logging-for-2024/"><u>[Updated] Preserve the Illusion Professional Tactics for VR Gaming Logging for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/como-cambiar-video-mpeg-a-vob-sin-costo-alguno-usando-la-herramienta-en-linea-de-convertidor-movavi/"><u>Cómo Cambiar Video MPEG a VOB Sin Costo Alguno Usando La Herramienta en Línea De Convertidor Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-auto-start-issues-in-windows-11-a-comprehensive-guide/"><u>Diagnosing Auto Start Issues in Windows 11 – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-auto-start-problems-for-your-windows-10-device-a-comprehensive-guide/"><u>Diagnosing Auto-Start Problems for Your Windows 10 Device - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-to-restore-your-windows-groovy-11-taskbar-functionality-when-it-freezes/"><u>Effective Fixes to Restore Your Windows Groovy 11 Taskbar Functionality When It Freezes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enter-the-ai-realm-easily-accessible-knowledge-in-our-9-communities/"><u>Enter the AI Realm: Easily Accessible Knowledge in Our 9 Communities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-windows-10-installation-issue-error-code-80240020/"><u>How to Fix Windows 10 Installation Issue - Error Code 80240020</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-energy-savings-calculations-while-not-directly-impacting-installation-cost-understanding-potential-energy-savings-is-crucial-for-long-term-roi-analy/"><u>In 2024, __Energy Savings Calculations__ While Not Directly Impacting Installation Cost, Understanding Potential Energy Savings Is Crucial for Long-Term ROI Analysis.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-the-problem-of-dead-keys-on-your-hp-computer-effective-solutions-await/"><u>Solve the Problem of Dead Keys on Your HP Computer – Effective Solutions Await</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steps-to-rectify-kernel32-issues/"><u>Steps to Rectify Kernel32 Issues</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-a05-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy A05</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-3-simple-methods-to-restore-lost-images-from-your-ipadipod/"><u>Top 3 Simple Methods to Restore Lost Images From Your iPad/iPod</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-repairing-the-32bit-applications-print-driver-host-has-stopped/"><u>Understanding and Repairing the 32Bit Application's 'Print Driver Host Has Stopped'</u></a></li>
+</ul></div>
 

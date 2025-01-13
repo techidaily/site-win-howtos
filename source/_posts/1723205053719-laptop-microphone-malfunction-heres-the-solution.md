@@ -1,7 +1,7 @@
 ---
 title: Laptop Microphone Malfunction? Here's the Solution!
-date: 2025-01-04T17:12:33.131Z
-updated: 2025-01-06T16:59:08.515Z
+date: 2025-01-07T16:17:50.394Z
+updated: 2025-01-13T16:22:51.896Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ Read on this small guide and follow to solve the problem on your Windows.
 
  The Diagnostic Policy Service enables problem detection, troubleshooting and resolution for Windows components on your Windows operating system. If this service is not running, diagnostics will no longer function.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How do I fix the Diagnostics Policy Service is not running issue?
 
  Here’re 3 easy and helpful solutions you can try. You may not have to try them all; Just start from the top and work your way down the list until your problem is solved.
@@ -41,10 +45,6 @@ Read on this small guide and follow to solve the problem on your Windows.
 1. [Check the Diagnostics Policy Service in the Services window](#solution1)
 2. [Give the network service and local service administrator privilege on your Windows](#solution2)
 3. [Reinstall your all network adapters](#solution3)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Solution 1: Check the Diagnostics Policy Service in the Services window
 
@@ -58,13 +58,13 @@ Follow these steps：
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f28bd6d2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Locate**Diagnostics Policy Service** , right-click on it to select**Start** , if Start grayed out, click**Restart** instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5f6a9233d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Right-click on**Diagnostics Policy Service** again and this time select**Properties** .
 
@@ -73,6 +73,10 @@ Follow these steps：
  5) Set its Startup type to**Automatic** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d5fb52fb20.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Run the Network Diagnostics and see if it goes well.
 
@@ -85,7 +89,7 @@ Follow these steps：
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d600a418d0.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type the following commands and press**Enter** after each.
@@ -102,10 +106,6 @@ net localgroup Administrators /add localservice
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d606b83cd1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Close the Command Prompt window, and run the Network Diagnostics to see if it goes well.
 
 ### Solution 3: Reinstall your network adapters
@@ -118,13 +118,13 @@ net localgroup Administrators /add localservice
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d609d065a4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double-click**Network adapters** and right-click on your network adapters one by one(if there’re more than one) to select**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7d60d018c06.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4） Click**Action** \>**Scan for hardware changes** . Microsoft should then reload the network adapter driver automatically.
 
@@ -169,22 +169,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-exclusive-reveals-on-securing-high-quality-live-cricket-broadcasting/"><u>[New] 2024 Approved Exclusive Reveals on Securing High-Quality Live Cricket Broadcasting</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-bring-imagination-alive-start-with-microsofts-movie-maker-on-w11/"><u>[New] In 2024, Bring Imagination Alive Start with Microsoft's Movie Maker on W11</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-surpassing-the-ranks-essential-factors-uncovered/"><u>[New] In 2024, Surpassing the Ranks Essential Factors Uncovered</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-essential-image-protection-top-watermarkers-listed/"><u>2024 Approved Essential Image Protection Top Watermarkers Listed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/beginning-virtual-conversations-zoom-meeting-setup-for-android-users-for-2024/"><u>Beginning Virtual Conversations Zoom Meeting Setup for Android Users for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/boost-your-gameplay-optimizing-pc-settings-for-ultimate-windows-11-gaming-experience/"><u>Boost Your Gameplay: Optimizing PC Settings for Ultimate Windows 11 Gaming Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-driver-power-state-failure-on-windows/"><u>How to Fix Driver Power State Failure on Windows</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-elevating-selfies-and-pics-on-snapchat-edit-like-a-pro/"><u>In 2024, Elevating Selfies and Pics on Snapchat – Edit Like a Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-infinix-note-30i-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Infinix Note 30i Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-5-free-video-rotator-apps-for-iphone-users-2023-edition/"><u>New 2024 Approved Top 5 Free Video Rotator Apps for iPhone Users 2023 Edition</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-install-lenovo-x220-driver-download-guide/"><u>Quick Install: Lenovo X220 Driver Download Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-sluggish-boot-times-on-your-windows-7-pc-a-step-by-step-guide/"><u>Resolving Sluggish Boot Times on Your Windows 7 PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723209174326-solved-shockwave-flash-no-longer-compatible-with-google-chrome-fix-now/"><u>Solved: Shockwave Flash No Longer Compatible with Google Chrome - Fix Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-non-working-print-screen-problem-in-windows-11-and-windows-10-computers/"><u>Solving the Non-Working Print Screen Problem in Windows 11 and Windows 10 Computers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-enhance-text-readability-in-windows-11-systems/"><u>Troubleshoot and Enhance Text Readability in Windows 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-stuck-keyboard-arrows-essential-solutions/"><u>Troubleshooting Stuck Keyboard Arrows: Essential Solutions!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-solving-diagnostics-policy-service-crashes/"><u>Understanding and Solving 'Diagnostics Policy Service' Crashes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-cutting-edge-psd-outlines-effects/"><u>[New] 2024 Approved Cutting-Edge PSD Outlines Effects</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-from-novice-to-nirvana-transform-your-instagram-edits/"><u>[New] In 2024, From Novice to Nirvana Transform Your Instagram Edits</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-no-lag-top-8-screen-grab-essentials/"><u>[New] In 2024, No Lag Top 8 Screen Grab Essentials</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/uick-glimpse-youtube-shorts-insights/"><u>[New] Quick Glimpse YouTube Shorts Insights</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-leading-edge-in-social-media-video-capture-5-apps-reviewed/"><u>2024 Approved The Leading Edge in Social Media Video Capture (5 Apps Reviewed)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/bcm20702a0-windows-device-drivers-instant-download-and-installation-guide/"><u>BCM20702A0 Windows Device Drivers: Instant Download and Installation Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breezy-video-capture-testimony/"><u>Breezy Video Capture Testimony</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-step-by-step-tutorial-resolving-the-dark-display-issue-on-your-dell-notebook/"><u>Complete Step-by-Step Tutorial: Resolving the Dark Display Issue on Your Dell Notebook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solutions-to-overcome-error-code-0x802n-2400d-on-your-pcs-updates/"><u>Comprehensive Solutions to Overcome Error Code 0X802n-2400D on Your PC's Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-resolving-the-unresponsive-start-menu-in-windows-11-systems/"><u>Diagnosing & Resolving the Unresponsive Start Menu in Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-for-geforce-experience-cant-load-settings-issues/"><u>Fixes for 'GeForce Experience Can't Load Settings' Issues</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-selecting-the-perfect-screen-ultrawide-or-uhd-4k/"><u>In 2024, Selecting the Perfect Screen UltraWide or UHD 4K?</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/methoden-zum-austausch-von-dateien-zwischen-zwei-pcs-mit-einem-ethernet-kabel/"><u>Methoden Zum Austausch Von Dateien Zwischen Zwei PCs Mit Einem Ethernet Kabel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overclocking-odds-on-your-side-again-fast-fixes/"><u>Overclocking Odds on Your Side Again - Fast Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-audio-glitches-with-speaker-pop-crackles-in-windows-operating-systems-solved/"><u>Resolve Audio Glitches with Speaker Pop-Crackles in Windows Operating Systems (Solved)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-volume-control-glitches-tips-and-tricks-for-windows-users/"><u>Resolving Volume Control Glitches: Tips and Tricks for Windows Users</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a25-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A25 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-fix-ensuring-wd-my-passport-ultra-is-compatible-and-visible-to-windows-systems/"><u>The Fix: Ensuring WD My Passport Ultra Is Compatible and Visible to Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-non-functional-keyboard-illumination-on-macbook-and-desktop-computers/"><u>Troubleshooting Guide: Non-Functional Keyboard Illumination on MacBook and Desktop Computers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing 'File Not Found' Error Messages"
-date: 2024-12-22T01:18:14.763Z
-updated: 2024-12-22T16:19:02.759Z
+date: 2025-01-07T17:03:24.404Z
+updated: 2025-01-13T16:14:36.454Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/389119a9b1ef7454e728ac8598e8590bfc343297a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Table of contents
 
 * [Fix 1 – Is it a driver issue?](#h-fix-1-is-it-a-driver-issue)  
@@ -40,15 +36,15 @@ thumbnail: https://thmb.techidaily.com/389119a9b1ef7454e728ac8598e8590bfc343297a
 * [Fix 4 – Reset TCP/IP Configuration](#h-fix-4-reset-tcp-ip-configuration)
 * [Fix 5 – Disable IPv6 on your active connection](#h-fix-5-disable-ipv6-on-your-active-connection)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1 – Is it a driver issue?
 
  The network adapter driver, which works as an interpreter between your network adapter and your PC, is essential to the proper functioning of the network adapter. Depending on different situations, you may encounter the **Unable to Contact DHCP Server** error when your network driver is outdated or new and problematic (hence requiring a rollback). There are ways you can do it manually, but if you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
 
  Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Update your network driver
 
@@ -59,8 +55,16 @@ thumbnail: https://thmb.techidaily.com/389119a9b1ef7454e728ac8598e8590bfc343297a
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update network driver with driver easy](https://images.drivereasy.com/wp-content/uploads/2021/03/de-update-network-driver.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Run the**ipconfig /renew** in CMD again to see if the error message is resolved.
@@ -78,23 +82,19 @@ thumbnail: https://thmb.techidaily.com/389119a9b1ef7454e728ac8598e8590bfc343297a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/tools.png)
 3. Click**Driver Backup** , then tick the box for**Network Adapter** , then click**Start Backup** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Wait around until the backup is complete. Then click**OK** to close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/backup.png)
 5. In the Tools pane, click**Driver** **Restore** \>**Browse…** , then choose the backup file you’re going to restore from, then click **Open** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/12.png)
 6. Select the driver you’re going to restore, then click **Continue** .
 
 7. Wait until the restore is successful, and click**OK** .
 8. Run the**ipconfig /renew** in CMD again to see if the error message is resolved. If yes, then congrats – you’ve fixed the error. If the issue persists, please move on to**Fix 2** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2 – Restart your DHCP client service
 
@@ -106,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/389119a9b1ef7454e728ac8598e8590bfc343297a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/dchp.png)
 3. If **Service status:** is set to **Running** , click the **Stop** button. If it shows **Stopped** , leave it as it is.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Set the **Startup type** menu to **Automatic** .
 5. Click the **Start** button.
@@ -129,15 +125,15 @@ Here’s how:
 4. Restart your PC.
 5. Check to see if the**Unable to Contact DHCP Server** error is solved. If yes, then great. If it still happens, please continue with**Fix 4** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4 – Reset TCP/IP Configuration
 
 1. On your keyboard, press the**Windows logo** key and type**cmd** . Right-click on**Command Prompt** as it pops up as a result, and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd-1.png)
 2. In the command promopt window, type the following commands and press**Enter** after each:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
    * Type **netsh winsock reset** and press**Enter** .  
    * Type **netsh int ip reset** and press**Enter** .  
@@ -146,10 +142,6 @@ Here’s how:
    * Type **ipconfig /flushdns** and press**Enter** .
 3. Restart computer.
 4. Run the**ipconfig /renew** command and see if the Unable to contact your dhcp server error is solved. If it’s still no joy, please continue with**Fix 5** , below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5 –**Disable IPv6 on your active connection**
 
@@ -160,8 +152,16 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/2.png)
 3. Under the **Networking** tab, uncheck the box next to **Internet Protocol version 6 (IPv6)** , then click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/sharing12.jpg)
 4. Restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Check to see if the error message still occurs when you perform rge ipconfig command.
 
@@ -184,18 +184,21 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-crafting-superior-recordings-a-guide-to-audacity/"><u>[New] Crafting Superior Recordings A Guide to Audacity</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-digital-time-machine-tracking-back-through-facebooks-history-device-based-for-2024/"><u>[New] Digital Time Machine Tracking Back Through Facebook's History (Device-Based) for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-optimal-8-camera-stands-for-ultra-hd-shooting-for-2024/"><u>[New] Optimal 8 Camera Stands for Ultra-HD Shooting for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-metaverse-milestones-top-10-movies-that-transcend-our-own-universe/"><u>[Updated] In 2024, Metaverse Milestones Top 10 Movies That Transcend Our Own Universe</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-positive-side-of-asmr-explained-here/"><u>[Updated] The Positive Side of ASMR Explained Here</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/determined-no-driver-affirms-opengl-use/"><u>Determined: No Driver Affirms OpenGL Use</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/enhance-fb-profile-picture-display/"><u>Enhance FB Profile Picture Display</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/evaluating-microsoft-recall-fears-why-this-isnt-a-privacy-catastrophe-insights-and-facts/"><u>Evaluating Microsoft Recall Fears: Why This Isn't a Privacy Catastrophe - Insights and Facts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-connection-unsecured-warning-in-firefox-easy-solutions/"><u>Fixing 'Connection Unsecured' Warning in Firefox: Easy Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-fix-of-error-0x8024401c-on-windows-update-for-users-of-windows-10-and-11-systems/"><u>Master the Fix of Error 0X8024401c on Windows Update for Users of Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-overcoming-issues-with-uninstalling-windows-10-updates/"><u>Solution Guide: Overcoming Issues with Uninstalling Windows 10 Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210599306-solving-error-code-224003-now-your-video-plays-smoothly/"><u>Solving 'Error Code 224003': Now Your Video Plays Smoothly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-your-laptops-endless-boot-loop-problem/"><u>Solving Your Laptop's Endless Boot Loop Problem</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726227803661-x-plus-y-plus-z-geq-15/"><u> [X + Y + Z Geq 15 </u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/uilding-interest-with-budget-friendly-youtube-video-intros-for-2024/"><u>[New] Building Interest with Budget-Friendly YouTube Video Intros for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-essential-guide-to-posting-vimeo-on-instagram-for-2024/"><u>[New] The Essential Guide to Posting Vimeo on Instagram for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-all-inclusive-guide-what-is-googles-podcast-service-in-2024/"><u>[Updated] All-Inclusive Guide What Is Google's Podcast Service, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-techniques-for-stunning-hdr-photography/"><u>[Updated] Innovative Techniques for Stunning HDR Photography</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-live-your-dreams-insights-into-the-panasonic-hx-a1-cam/"><u>2024 Approved Live Your Dreams Insights Into the Panasonic HX-A1 Cam</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decoding-the-great-confrontation-of-2024-inside-the-crowdstrike-vs-windows-meltdown-scandal-insights-from-history-zdnet/"><u>Decoding The Great Confrontation of 2024: Inside the CrowdStrike Vs. Windows Meltdown Scandal | Insights From History - ZDNET</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208514553-end-the-runtime-broker-cpu-crunch-on-windows-11-with-these-proven-fixes-get-started-now/"><u>End the Runtime Broker CPU Crunch on Windows 11 with These Proven Fixes – Get Started Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-logitech-g930-headset-mic-issue-a-step-by-step-guide/"><u>Fixing Logitech G930 Headset Mic Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-pubgs-building-loading-issue-for-a-seamless-gaming-experience/"><u>Fixing PUBG's Building Loading Issue for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-and-prevent-the-input-not-supported-alert-on-computer-screens/"><u>How to Resolve and Prevent the 'Input Not Supported' Alert on Computer Screens</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-live-streaming-pre-recorded-videos-the-facebook-approach/"><u>In 2024, Live Streaming Pre-Recorded Videos The Facebook Approach</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-evaluation-the-exceptional-benefits-of-using-a-netgear-nighthawk-c7000-modem-for-seamless-connectivity/"><u>In-Depth Evaluation: The Exceptional Benefits of Using a Netgear Nighthawk C7000 Modem for Seamless Connectivity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-overwatch-challenge-fixes-for-lost-rendering-device-problems/"><u>Overcoming the Overwatch Challenge - Fixes for Lost Rendering Device Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-the-side-by-side-config-error-on-windows-11/"><u>Resolved: How to Fix the 'Side-by-Side Config' Error on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-fixing-your-laptop-when-it-wont-charge-despite-being-connected-windows-11-edition/"><u>Troubleshooting Steps: Fixing Your Laptop When It Won't Charge Despite Being Connected - Windows 11 Edition</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing the Critical Red Screen Dilemma in Windows 11 Systems
-date: 2025-01-01T16:20:43.056Z
-updated: 2025-01-06T20:03:30.601Z
+date: 2025-01-12T16:13:15.071Z
+updated: 2025-01-13T17:32:56.839Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  The methods below have helped other users solve the problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -46,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
  The following screenshots are from Windows 10\. But you can also follow the steps if you’re having the problem on Windows 7.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Check the setting of System Event Notification Service on your computer
 
  You may have the problem due to the incorrect setting of System Event Notification Service.  
@@ -60,25 +52,29 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf596c06c.jpg)
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
 4. Right-click System Event Notification Service again, this time select**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
 
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Reset your Winsock Catalog
 
@@ -90,6 +86,10 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**cmd** , then press**Shift + Ctrl + Enter** keys together.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c0804d3b9.jpg)
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **netsh winsock reset**
 
@@ -114,17 +114,9 @@ Follow these steps to reset your Winsock Catalog:
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart your computer to see if the error has gone. If the error persists, don’t give up hope, see if the last method could help you…
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Uninstall the KB2952664 update
 
@@ -137,6 +129,10 @@ Follow these steps to reset your Winsock Catalog:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
 4. Click View installed updates.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
 5. Find and right-click the update with KB2952664, then Uninstall.
@@ -156,6 +152,10 @@ Restart your computer to see if the error has gone.
 2. Click the**Startup** tab and find**klhkum.dll** process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-52-10.jpg)
 3. Right-click on it and choose**Disable** . You can also open its file location and delete it permanently.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-55-36.jpg)
 4. Restart your computer to see if the error has gone.
@@ -184,22 +184,16 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-download.techidaily.com/solved-xbox-acc-driver-issues-on-windows-1087/"><u>[SOLVED] XBOX ACC Driver Issues on Windows 10/8/7</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-universal-strategy-to-preserve-your-favorite-youtube-broadcasts-on-all-devices/"><u>[Updated] 2024 Approved Universal Strategy to Preserve Your Favorite YouTube Broadcasts on All Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypass-installation-hurdles-fixing-failed-hardware-monitor-driver-loading-problems/"><u>Bypass Installation Hurdles – Fixing Failed Hardware Monitor Driver Loading Problems</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capturing-audio-masterpieces-using-audacity/"><u>Capturing Audio Masterpieces Using Audacity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-guide-correcting-the-path-for-successful-windows-10-update-installations/"><u>Complete Guide: Correcting the Path for Successful Windows 10 Update Installations</u></a></li>
-<li><a href="https://win-able.techidaily.com/elite-dangerous-pc-version-stability-improvements-no-more-crashes/"><u>Elite Dangerous PC Version Stability Improvements – No More Crashes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-quickly-fix-a-nonfunctional-disk-on-your-windows-11-machine-expert-tips-and-tricks/"><u>How To Quickly Fix a Nonfunctional Disk on Your Windows 11 Machine – Expert Tips & Tricks</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-engineering-a-memorable-trailer-narrative/"><u>In 2024, Engineering a Memorable Trailer Narrative</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo S17 Pro Phone with Broken Screen</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-30-list-of-no-cost-high-quality-online-film-effects-tools/"><u>In 2024, The Ultimate 30 List of No-Cost, High-Quality Online Film Effects Tools</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/master-the-latest-tech-trends-with-toms-hardware-reviews-and-tips/"><u>Master the Latest Tech Trends with Tom's Hardware Reviews & Tips!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-windows-11-updates-correcting-error-0xc1900208-successfully/"><u>Mastering Windows 11 Updates: Correcting Error 0Xc1900208 Successfully</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fixes-and-hacks-to-enhance-your-experience-with-windows-11-file-explorer/"><u>Quick Fixes and Hacks to Enhance Your Experience with Windows 11 File Explorer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-methods-to-fix-the-persistent-80072ee2-problem-in-your-windows-system/"><u>Simple Methods to Fix the Persistent 80072EE2 Problem in Your Windows System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-guide-to-restoring-sound-on-netflix-troubleshooting-made-easy/"><u>The Ultimate Guide to Restoring Sound on Netflix – Troubleshooting Made Easy</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-correcting-the-missing-binkw32dll-error-on-your-pc/"><u>Troubleshooting and Correcting the Missing binkw32.dll Error on Your PC</u></a></li>
-<li><a href="https://facebook.techidaily.com/unintended-sharing-of-phone-numbers-on-fb-chat/"><u>Unintended Sharing of Phone Numbers on FB Chat?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-kinemaster-tutorial-seamless-integration-of-green-screen-techniques/"><u>[New] 2024 Approved Kinemaster Tutorial Seamless Integration of Green Screen Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-sonic-layers-in-reels-weaving-audio-into-visuals/"><u>[Updated] 2024 Approved Sonic Layers in Reels Weaving Audio Into Visuals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/definitive-solutions-to-windows-10-setup-error-code-80240020-get-your-system-running-now/"><u>Definitive Solutions to Windows 10 Setup Error Code 80240020 - Get Your System Running Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elegoo-high-capacity-3d-printers-are-they-suitable-for-large-scale-objects-like-toddlers/"><u>Elegoo High-Capacity 3D Printers: Are They Suitable for Large Scale Objects Like Toddlers?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/expert-techniques-for-high-quality-xbox-screenshots/"><u>Expert Techniques for High-Quality Xbox Screenshots</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-and-tricks-for-resolving-windows-10-taskbar-freeze-issues/"><u>Expert Tips and Tricks for Resolving Windows 10 Taskbar Freeze Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-overcoming-common-phasmophobia-vr-connectivity-problems/"><u>Guide: Overcoming Common Phasmophobia VR Connectivity Problems</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ly-crafting-valorant-image-highlights-for-gamers-for-2024/"><u>Rapidly Crafting Valorant Image Highlights for Gamers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-prompt-fixes-for-error-1053-non-responsive-services/"><u>Resolved: Prompt Fixes for 'Error 1053' - Non-Responsive Services</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/storing-session-videos-in-gh/"><u>Storing Session Videos in GH</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-connection-issues-with-microsoft-wi-fi-display-adapter-on-windows-11/"><u>Troubleshooting Guide: Fixing Connection Issues with Microsoft Wi-Fi Display Adapter on Windows 11</u></a></li>
 </ul></div>
 

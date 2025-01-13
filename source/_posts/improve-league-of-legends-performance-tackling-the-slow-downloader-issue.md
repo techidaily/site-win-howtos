@@ -1,7 +1,7 @@
 ---
 title: "Improve League of Legends Performance: Tackling the Slow Downloader Issue"
-date: 2025-01-02T16:34:18.677Z
-updated: 2025-01-06T17:11:09.691Z
+date: 2025-01-06T17:38:28.629Z
+updated: 2025-01-13T16:57:32.832Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ League of Legends is a world popular game, but the slow download speed can easil
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -58,7 +58,7 @@ League of Legends is a world popular game, but the slow download speed can easil
 3. In the file, find the**LOL Launcher.exe** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Right-click on it and click**Run as administrator** .
@@ -80,16 +80,16 @@ Downloading again to see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Re-download to check.
 
 **Note** : If it doesn’t work, you must**turn on** Windows Firewall to protect your computer.  
  Then move to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Manually install .NET framework 3.5
 
@@ -100,7 +100,7 @@ Re-download to check.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Bonus: Update your drivers
@@ -132,12 +132,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -165,18 +165,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/iscovering-artistic-expression-top-film-tips-on-youtube/"><u>[New] Discovering Artistic Expression Top Film Tips on YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-unleash-creativity-a-deep-dive-into-metaverse-meme-culture-for-2024/"><u>[Updated] Unleash Creativity A Deep Dive Into Metaverse Meme Culture for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-visual-virtuosos-selecting-framing-software-for-2024/"><u>[Updated] Visual Virtuosos Selecting Framing Software for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723807903427-easily-identify-your-current-windows-version-follow-these-simple-steps/"><u>Easily Identify Your Current Windows Version - Follow These Simple Steps!</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/elevate-your-tweeted-visuals-ultimate-gif-saver-guide/"><u>Elevate Your Tweeted Visuals Ultimate GIF Saver Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-microsoft-wireless-display-adapter-connection-issues-in-windows-11/"><u>How to Fix Microsoft Wireless Display Adapter Connection Issues in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/instant-communication-using-rtx-ai-on-your-computer/"><u>Instant Communication: Using RTX AI on Your Computer</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/paving-digital-pathways-for-ig-and-tiktok-for-2024/"><u>Paving Digital Pathways for IG & TikTok for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-why-teredo-tunneling-fails-to-establish-a-connection/"><u>Resolved: Why Teredo Tunneling Fails to Establish a Connection</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reviving-the-num-pad-solutions-for-broken-number-buttons/"><u>Reviving the Num Pad: Solutions for Broken Number Buttons</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206667988-small-cell-lung-cancer-sclc-tends-to-be-more-aggressive-with-poorer-outcomes-compared-to-nsclcs/"><u>Small Cell Lung Cancer (SCLC) Tends to Be More Aggressive with Poorer Outcomes Compared to NSCLCs.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-startup-issues-with-a-critical-application-error-0xc00fixit/"><u>Step-by-Step Guide: Correcting Startup Issues with a Critical Application Error (0xC00#FixIt)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-restoring-functionality-of-your-hp-laptop-camera-in-windows-11/"><u>Step-by-Step Guide: Restoring Functionality of Your HP Laptop Camera in Windows 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-quick-shift-video-techniques-mastering-transitions-for-2024/"><u>[New] Quick-Shift Video Techniques Mastering Transitions for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/2023s-definitive-tricks-to-optimize-performance-and-reduce-lags-in-fallout-4-adventures/"><u>2023'S Definitive Tricks to Optimize Performance & Reduce Lags in Fallout 4 Adventures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209865722-battleye-service-install-errors-now-corrected/"><u>BattlEye Service Install Errors - Now Corrected</u></a></li>
+<li><a href="https://win-dash.techidaily.com/best-practices-for-downloading-asus-chipset-drivers-on-windows-pcs/"><u>Best Practices for Downloading ASUS Chipset Drivers on Windows PCs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/choosing-between-iphone-and-samsung-a-comprehensive-guide-on-which-smartphone-suits-you-best/"><u>Choosing Between iPhone and Samsung: A Comprehensive Guide on Which Smartphone Suits You Best</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-call-of-duty-wwii-error-code-4220-troubleshooting-guide/"><u>How to Resolve Call of Duty: WWII Error Code 4220 - Troubleshooting Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-ultimate-sourcebook-on-valheim-farming-techniques/"><u>In 2024, The Ultimate Sourcebook on Valheim Farming Techniques</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-the-garmin-forerunner-945-a-premier-gps-smartwatch-guide/"><u>In Depth Evaluation of the Garmin Forerunner 945: A Premier GPS Smartwatch Guide</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/os-melhores-substitutos-do-imovie-para-android-em-2024-uma-comparacao-completa/"><u>Os Melhores Substitutos Do iMovie Para Android Em 2024: Uma Comparação Completa</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/power-and-prestige-in-one-package-the-comprehensive-review-of-google-pixel-5/"><u>Power and Prestige in One Package – The Comprehensive Review of Google Pixel 5</u></a></li>
+<li><a href="https://extra-support.techidaily.com/proven-methods-for-conducting-outstanding-interviews-for-2024/"><u>Proven Methods for Conducting Outstanding Interviews for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-sudden-shutdown-understanding-error-code-1067-in-windows/"><u>Resolved: Fixing the Sudden Shutdown - Understanding Error Code 1067 in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-trickery-head-on-proven-tips-for-removing-misleading-google-chrome-error-notifications/"><u>Tackling Trickery Head-On: Proven Tips for Removing Misleading Google Chrome Error Notifications</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-communitys-take-on-vllo-performance/"><u>The Community's Take on VLLO Performance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/total-gaze-field-vr-device-overview/"><u>Total Gaze Field VR Device Overview</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-fix-application-launch-failures-with-error-0xc000007b-steps-for-success/"><u>Troubleshoot and Fix Application Launch Failures with Error 0xC000007B – Steps for Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-minecraft-solutions-for-opengl-errors/"><u>Troubleshooting Minecraft: Solutions for OpenGL Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-the-continuous-reboot-issue-in-windows-10/"><u>Ultimate Guide: Solving the Continuous Reboot Issue in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/xbox-one-and-pc-integration-button-maneuvers/"><u>Xbox One & PC Integration: Button Maneuvers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Two-Finger Scroll Not Responding? Here's A Step By Step Guide To Fix It
-date: 2024-12-15T21:35:02.712Z
-updated: 2024-12-22T20:03:16.123Z
+date: 2025-01-12T17:07:14.677Z
+updated: 2025-01-13T17:25:38.176Z
 tags:
   - win11
   - win10
@@ -44,14 +44,6 @@ thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solution 2: Check the status of the Bluetooth service
 
  1) On your keyboard, press the **Windows logo key**   + **R**   key together to invoke the Run box.
@@ -60,21 +52,29 @@ thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a686110efd.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right-click **Bluetooth Support Service**   or any other service related, like **Bluetooth Driver Management System** . Then **Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Right-click on the service again, and this time click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
@@ -92,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
@@ -99,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8b
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
 
@@ -114,13 +114,13 @@ thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
@@ -135,7 +135,7 @@ thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
@@ -145,7 +145,7 @@ thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8b
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -175,24 +175,19 @@ thumbnail: https://thmb.techidaily.com/6ba823e70571284a0c45a2acec26bb9d28a4fab8b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/-step-by-step-expedition-to-youtubes-unseen-layers-for-2024/"><u>[New] A Step-by-Step Expedition to YouTube's Unseen Layers for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-audio-enhancement-including-tracks-in-vimeo-clips/"><u>[New] Audio Enhancement Including Tracks in Vimeo Clips</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-top-10-streaming-software-in-the-gaming-world/"><u>[New] In 2024, Top 10 Streaming Software in the Gaming World</u></a></li>
-<li><a href="https://win-top.techidaily.com/1-5-effective-strategies-to-retrieve-your-word-file-post-restart/"><u>1. 5 Effective Strategies to Retrieve Your Word File Post-Restart</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-ai-interaction-skills-with-these-7-insider-prompt-hacks/"><u>Elevate Your AI Interaction Skills with These 7 Insider Prompt Hacks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-quickly-resolve-non-functioning-ps4-headset-audio-problems/"><u>How to Quickly Resolve Non-Functioning PS4 Headset Audio Problems</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-metaverse-chronicles-a-list-of-the-most-unforgettable-sci-fi-adventures-on-screen/"><u>In 2024, Metaverse Chronicles A List of the Most Unforgettable Sci-Fi Adventures on Screen</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/maximize-fb-reach-schedule-your-post-using-free-resources-for-2024/"><u>Maximize FB Reach Schedule Your Post Using Free Resources for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-printer-update-failures-a-comprehensive-fix-for-xerox-error-code-0x800f02eb-in-windows-systems/"><u>Overcoming Printer Update Failures: A Comprehensive Fix for Xerox Error Code 0X800f02eb in Windows Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-crashing-hurdle-fixing-error-0xc00n00005-in-windows-systems/"><u>Overcoming the Crashing Hurdle: Fixing Error 0Xc00n00005 in Windows Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/six-witty-wordplay-wins-friends-favorite-chat-games/"><u>Six Witty Wordplay Wins: Friends' Favorite Chat Games</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-understanding-chatgpts-top-limitations-revealed-by-a-tech-guru/"><u>The Ultimate Guide to Understanding ChatGPT's Top Limitations Revealed by a Tech Guru</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-0x-memory-reference-issues-in-computing-systems/"><u>Troubleshooting and Solving 0X Memory Reference Issues in Computing Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolve-windows-error-code-0x800f020b-from-xerox-printer-updates/"><u>Troubleshooting Guide: Resolve Windows Error Code 0X800F020B From Xerox Printer Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-repair-a-malfunctioning-cddvd-drive-on-windows-pcs/"><u>Troubleshooting Steps to Repair a Malfunctioning CD/DVD Drive on Windows PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-windows-users-correcting-user-profile-service-error-messages/"><u>Troubleshooting Tips for Windows Users: Correcting User Profile Service Error Messages</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-unsupported-input-errors-on-computer-screens/"><u>Troubleshooting: Unsupported Input Errors on Computer Screens</u></a></li>
-<li><a href="https://discover-data.techidaily.com/webm/"><u>WebMファイル救済｜失われたコンテンツを取り戻す手順</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-media-player-server-execution-failed-error-on-windows-solved/"><u>Windows Media Player Server Execution Failed Error on Windows [Solved]</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-step-by-step-setting-up-unique-youtube-shorts-thumbnails/"><u>[New] In 2024, Step-by-Step Setting Up Unique YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-spotlight-on-figure-skaters-2022-edition/"><u>[New] Spotlight on Figure Skaters 2022 Edition</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-todays-top-social-media-stars-a-look-at-8-hits/"><u>[New] Today's Top Social Media Stars A Look at 8 Hits</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-top-earnings-forecasting-software-for-tiktok-content-makers/"><u>[Updated] 2024 Approved Top Earnings Forecasting Software for TikTok Content Makers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-mastering-hue-and-saturation-techniques-for-2024/"><u>[Updated] Mastering Hue & Saturation Techniques for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-steps-to-secure-unmarked-stock-photos-for-business/"><u>2024 Approved Steps to Secure Unmarked Stock Photos for Business</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208806869-fix-windows-update-error-8007000e-fast-a-step-by-step-guide/"><u>Fix Windows Update Error 8007000E Fast: A Step-by-Step Guide!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-the-most-out-of-your-laptop-fixing-issues-with-the-trackpad/"><u>Getting the Most Out of Your Laptop: Fixing Issues with the Trackpad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-security-settings-how-to-earn-control-over-system-files-through-trustedinstaller/"><u>Navigating Security Settings: How to Earn Control Over System Files Through TrustedInstaller</u></a></li>
+<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-realme-12-proplus-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Realme 12 Pro+ 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-no-entry-point-found-issues-on-your-windows-system/"><u>Resolving 'No Entry Point Found' Issues on Your Windows System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-for-restoring-turned-off-mobile-internet-access/"><u>Step-by-Step Fixes for Restoring Turned-Off Mobile Internet Access</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-overcome-windows-10-update-error-0x800705b4-successfully/"><u>Troubleshooting Guide: How to Overcome Windows 10 Update Error 0X800705B4 Successfully</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-tecno-camon-30-pro-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Tecno Camon 30 Pro 5G Device</u></a></li>
 </ul></div>
 

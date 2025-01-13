@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows 10: Solving the Issue of Nonfunctional Volume Control"
-date: 2024-12-16T19:34:03.453Z
-updated: 2024-12-22T17:04:49.786Z
+date: 2025-01-09T16:38:18.320Z
+updated: 2025-01-13T16:14:13.683Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a36
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are the solutions that have helped other Windows users resolve error 0x80240017\. You don’t need to try them all; just work your way down the list until everything’s working again.
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a36
 4. **[Update available drivers](#F4)**
 
  Note: the screenshots below com from Windows 10, and fixes apply to Windows 11, 8 and 7.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Run Windows Update Troubleshooter
 
@@ -55,7 +55,15 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dae7e3360.png)
 4. Restart your computer and try Windows Update again to see if it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the Windows Update error persists, move on to the second method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Reset Windows Update Components
 
@@ -64,10 +72,6 @@ If the Windows Update error persists, move on to the second method.
 1. Type**cmd** in the search box on your desktop, right click on**Command Prompt** and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04db671de3d.jpg)
 2. Copy and paste the following commands one by one in Command Prompt, and press**Enter** on your keyboard.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **net stop wuauserv**  
 **net stop cryptSvc**  
@@ -88,7 +92,7 @@ If the Windows Update error persists, move on to the second method.
  If your issue still persists, don’t worry, There is something else to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Repair corrupted system files
@@ -110,7 +114,7 @@ If the Windows Update error persists, move on to the second method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Option 2 – Manually
@@ -121,13 +125,13 @@ If the Windows Update error persists, move on to the second method.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04db671de3d.jpg)
 2. Type the following command and press**Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ddb7ef0b3.jpg)
 3. Once the process is 100% complete, exit Command Prompt and restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Try to update Windows again and see if it fixes your error 0x80240017\. Still no luck? There’s one more thing to try.
 
@@ -152,10 +156,6 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)
 4. Restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Open Windows Update to download and install updates and it should working now.
 
  So there you have it – Hope this post helps in resolving your**Windows Update error** **0x80240017** . If you have any questions or suggestions, feel free to leave a comment below.
@@ -178,18 +178,18 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-exclusive-insight-into-mematics-app-features-for-2024/"><u>[New] Exclusive Insight Into Mematic's App Features for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-techniques-for-blurring-and-excising-picture-borders/"><u>[New] Techniques for Blurring and Excising Picture Borders</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/access-apple-tv-entertainment-with-your-firestick-a-step-by-step-guide/"><u>Access Apple TV Entertainment with Your Firestick – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/conversione-webm-a-wma-on-line-senza-costi-il-tuo-strumento-di-conversione-preferito-movavi/"><u>Conversione Webm a Wma On-Line Senza Costi - Il Tuo Strumento Di Conversione Preferito, Movavi!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/efficient-fixes-for-non-responsive-lenovo-control-buttons/"><u>Efficient Fixes for Non-Responsive Lenovo Control Buttons</u></a></li>
-<li><a href="https://fox-within.techidaily.com/exclusive-offer-get-dex-35-at-a-steal-save-30-until-dec-31st/"><u>EXCLUSIVE OFFER: Get DEX 3.5 at a Steal - Save $30 Until Dec 31St!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/google-chrome-not-responding-heres-how-to-restart-and-recover-easily/"><u>Google Chrome Not Responding? Here's How to Restart and Recover Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-class-not-registered-errors-on-your-windows-10-device-solutions-inside/"><u>How to Fix 'Class Not Registered' Errors on Your Windows 10 Device - Solutions Inside!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-write-failures-on-0x-addressed-memories-a-comprehensive-guide/"><u>How to Overcome Write Failures on 0X Addressed Memories: A Comprehensive Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-unleash-potential-with-latest-windows-10-apps-and-games/"><u>In 2024, Unleash Potential with Latest Windows 10 Apps and Games</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202699725-should-you-preserve-msdia80dll-in-windows-find-out-why/"><u>Should You Preserve msdia80.dll in Windows? Find Out Why!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-comprehensive-guide-to-crafting-great-documentary-narratives/"><u>The Comprehensive Guide to Crafting Great Documentary Narratives</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-ssltls-problems-overcoming-secure-connections-fails-on-firefox/"><u>Troubleshooting SSL/TLS Problems: Overcoming Secure Connections Fails on Firefox</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-smooth-and-subtle-how-to-blur-iphone-images-for-free-and-easy/"><u>[New] Smooth and Subtle How to Blur iPhone Images for Free & Easy</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-pedagogical-picks-the-most-effective-video-recording-tools-for-instructors/"><u>2024 Approved Pedagogical Picks The Most Effective Video Recording Tools for Instructors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comedy-crafters-codex-free-to-unleash-humor-for-2024/"><u>Comedy Crafters' Codex Free to Unleash Humor for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-microsofts-wireless-display-adapter-connectivity-woes-on-windows-10-systems/"><u>Fixing Microsoft's Wireless Display Adapter Connectivity Woes on Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-11-slideshow-and-customized-screen-saver-problems-expert-solutions/"><u>Fixing Windows 11 Slideshow & Customized Screen Saver Problems - Expert Solutions!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/huge-savings-alert-secure-your-8tb-samsung-t5-solid-state-drive-at-a-remarkable-36-off-price-on-amazon-insider-report-by-zdnet/"><u>Huge Savings Alert: Secure Your 8TB Samsung T5 Solid State Drive at a Remarkable 36% Off Price on Amazon | Insider Report by ZDNET</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-best-5-web-video-recorders/"><u>In 2024, Best 5 Web Video Recorders</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-technique-of-resolving-critical-fatal-error-during-install-issues-code-1603/"><u>Master the Technique of Resolving Critical 'Fatal Error During Install' Issues (Code 1603)</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/navigating-modern-devices-with-guidance-from-toms-hardware/"><u>Navigating Modern Devices With Guidance From Tom's Hardware</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-11s-0x80072efd-issue-a-step-by-step-guide/"><u>Resolving Windows 11'S 0X80072EFD Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-nonresponsive-key-a-comprehensive-tutorial/"><u>Step-by-Step Fix for Nonresponsive @ Key – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/tips-to-get-your-video-staff-picked-on-vimeo/"><u>Tips to Get Your Video “Staff Picked” On Vimeo</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-discover-the-best-of-vn-video-editor-on-pc-a-review/"><u>Updated 2024 Approved Discover the Best of VN Video Editor on PC A Review</u></a></li>
 </ul></div>
 

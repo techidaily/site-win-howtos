@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Stop Your PC From Constantly Restarting on Windows 10
-date: 2024-12-16T16:28:29.243Z
-updated: 2024-12-23T01:09:17.836Z
+date: 2025-01-06T16:06:38.682Z
+updated: 2025-01-13T17:26:06.778Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ The good news is, you can fix it easily!
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -40,6 +40,10 @@ The good news is, you can fix it easily!
 4. [**Run the Playing Audio troubleshooter**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your sound driver
 
@@ -55,14 +59,23 @@ The good news is, you can fix it easily!
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
@@ -82,10 +95,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
@@ -99,10 +108,6 @@ To run SFC:
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click **Yes**   when prompted to confirm.
 
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
@@ -110,7 +115,7 @@ To run SFC:
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
@@ -129,10 +134,6 @@ Here’s how:
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
 
@@ -158,18 +159,17 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-grab-your-favorite-facebook-videos-today/"><u>[New] Grab Your Favorite Facebook Videos Today</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-amazons-premier-titles-social-media-sensation-winners/"><u>[New] In 2024, Amazon’s Premier Titles Social Media Sensation Winners</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-aquatic-videography-evolved-top-camcorders-of-the-year/"><u>[New] In 2024, Aquatic Videography Evolved - Top Camcorders of the Year</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tart-streaming-sports-creating-your-own-mac-based-channel-for-2024/"><u>[New] Start Streaming Sports Creating Your Own Mac-Based Channel for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-ig-upgrade-starts-here-top-tools-for-follower-growth-for-2024/"><u>[Updated] IG Upgrade Starts Here Top Tools for Follower Growth for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-earning-power-through-engagement-ajays-success-on-youtube-monetization/"><u>[Updated] In 2024, Earning Power Through Engagement Ajay’s Success on YouTube Monetization</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-elevate-your-editing-with-blend-mode-innovations/"><u>[Updated] In 2024, Elevate Your Editing with Blend Mode Innovations</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/boost-performance-in-your-favorite-games-updating-drivers-for-geforce-rtx-2080-ti/"><u>Boost Performance in Your Favorite Games: Updating Drivers for GeForce RTX 2080 Ti</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-stagnant-windows-update-process-resolved/"><u>How to Fix a Stagnant Windows Update Process: Resolved</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/stop-msmpengineexe-from-hogs-up-cpu-resources-in-windows-10-fixed/"><u>Stop MsMpEngine.exe From Hogs Up CPU Resources in Windows 10 – FIXED</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/svchostexe-and-high-cpu-use-in-windows-11-step-by-step-fix-guide/"><u>Svchost.exe & High CPU Use in Windows 11: Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-successful-surge-incident-on-transmission-node/"><u>Troubleshooting Successful: Surge Incident on Transmission Node</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-guide-to-exporting-pinterest-videos-into-mp3-format/"><u>[Updated] Guide to Exporting Pinterest Videos Into MP3 Format</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-from-flat-to-fierce-transformative-color-workflows/"><u>[Updated] In 2024, From Flat to Fierce Transformative Color Workflows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cant-change-the-brightness-of-your-windows-11-pc-here-are-8-ways-to-fix-it/"><u>Can't Change the Brightness of Your Windows 11 PC? Here Are 8 Ways to Fix It</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-when-your-sims-4-game-doesnt-start-up/"><u>Expert Tips for Fixing When Your Sims 4 Game Doesn't Start Up</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-on-correcting-the-binkyw32dll-missing-error-dilemma/"><u>Expert Tips on Correcting The 'binkyW32.dll' Missing Error Dilemma</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-persistent-issue-of-screen-flashing-on-windows-11/"><u>Fixing the Persistent Issue of Screen Flashing on Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-hidden-melodic-markers-ios-and-android-recording-app-overview/"><u>In 2024, Hidden Melodic Markers IOS & Android Recording App Overview</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-steam-updates-tips-and-tricks-for-seamless-downloading-success/"><u>Mastering Steam Updates: Tips and Tricks for Seamless Downloading Success</u></a></li>
+<li><a href="https://win11.techidaily.com/path-to-power-from-bat-to-windows-exe-file-format/"><u>Path to Power: From .bat to Windows EXE File Format</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/random-key-interruption/"><u>Random Key Interruption</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-apple-users-will-love-the-newly-reviewed-freestyle2-in-sapphire-blue-edition/"><u>Why Apple Users Will Love the Newly-Reviewed Freestyle2 in Sapphire Blue Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winxvideo-ai-tutorial-and-user-guide-enhance-videos-with-transcoding-editing-and-compression-techniques/"><u>Winxvideo AI Tutorial & User Guide - Enhance Videos with Transcoding, Editing, and Compression Techniques</u></a></li>
 </ul></div>
 

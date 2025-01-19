@@ -1,7 +1,7 @@
 ---
 title: "DIY Fix: How to Restore Functionality of Your Unresponsive Corsair HS50 Microphone"
-date: 2025-01-06T17:20:38.757Z
-updated: 2025-01-13T16:40:24.827Z
+date: 2025-01-15T16:39:55.392Z
+updated: 2025-01-19T20:12:26.714Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I fix Xbox One Headset Not Working?
 
  This article covers 5 tired-and-true methods for you to try. You may not need to try them all. Just start from the top and work your way down. You Xbox One headset may work fine again.
@@ -46,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5991543d8fdf2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2\. Update Xbox One controller to make sure you have the latest software
 
  Your controller’s software should be up-to-date to enable the headset adapter works properly.
@@ -59,10 +59,6 @@ Follow the steps here to update your Xbox One controller software.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915a7941a9b.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2)  
 
  Find**Microsoft Xbox One controller** under catalog**Universal Serial Bus controllers** or**Microsoft Xbox One controller** .  
@@ -71,7 +67,7 @@ Follow the steps here to update your Xbox One controller software.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915be191b71.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)  
@@ -79,6 +75,10 @@ Follow the steps here to update your Xbox One controller software.
  Click**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915bfa7e24c.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now Windows will detect the update for your controller automatically.
 
@@ -95,20 +95,20 @@ With Pro version: Click **Update All**  to automatically download and install th
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59915e0fb9762.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3\. Check your device’s connection
 
  If the connection between your devices, it will also cause the issue. Please check the connection between your headset adapter and the controller, and also the connection between your headset adapter and headset cable. Make sure the connections are firm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 4\. Make sure your controller has fresh batteries
 
  When the batteries of your controller become weak, your headset could not work properly, either. In such case, you can try replace with new batters for you controller to see if the headset works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 5\. Try using a different controller
 
@@ -131,20 +131,21 @@ With Pro version: Click **Update All**  to automatically download and install th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-realizing-unnoticeable-connections-in-snapcircle/"><u>[New] In 2024, Realizing Unnoticeable Connections in SnapCircle</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-amass-1000-visionary-supporters-fast-track-style/"><u>[Updated] 2024 Approved Amass 1,000 Visionary Supporters Fast-Track Style</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-mcb-theme-images-templates-and-more/"><u>[Updated] 2024 Approved Free MCB Theme Images, Templates & More</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-contrast-in-colors-crafting-cinematic-moods/"><u>2024 Approved Contrast in Colors Crafting Cinematic Moods</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovations-crown-award-winning-computers/"><u>2024 Approved Innovation's Crown Award-Winning Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-technical-gaps-fixing-faulty-win11-ccleaner/"><u>Bridging Technical Gaps: Fixing Faulty Win11 CCleaner</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212535440-defeat-pc-game-lag-in-oddworld-soulstorm-with-these-proven-troubleshooting-steps/"><u>Defeat PC Game Lag in Oddworld: Soulstorm with These Proven Troubleshooting Steps</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/macx-pro-ultimate-free-video-transcoding-tool-for-mac-and-ios-devices/"><u>MacX Pro: Ultimate Free Video Transcoding Tool for Mac & iOS Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-error-resolution-for-unwritable-0x-referenced-memory-instances/"><u>Mastering Error Resolution for Unwritable 0X Referenced Memory Instances</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-pc-maintenance-effective-use-of-sfc-and-dism-in-windows-10-fixes/"><u>Mastering PC Maintenance: Effective Use of SFC and DISM in Windows 10 Fixes</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-video-flip-tutorial-quick-and-easy-methods/"><u>New In 2024, The Ultimate Video Flip Tutorial Quick and Easy Methods</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/quickstart-guide-boost-your-pcs-launch-speed-with-yl-software-solutions/"><u>Quickstart Guide: Boost Your PC's Launch Speed with YL Software Solutions!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-an-issue-occurred-while-rebooting-message-in-windows-11-a-complete-guide/"><u>Solving the 'An Issue Occurred While Rebooting' Message in Windows 11: A Complete Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-solving-windows-1n0-continuous-auto-repair-issue/"><u>Step-by-Step Guide: Solving Windows 1N0 Continuous Auto Repair Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202538499-valorant-launch-stuck-on-infinite-load-heres-how-to-fix-it/"><u>Valorant Launch Stuck on Infinite Load? Here's How to Fix It!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-ultimate-guide-to-aspect-ratios-on-fb-videos/"><u>[New] 2024 Approved The Ultimate Guide to Aspect Ratios on FB Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-behind-the-scenes-crafting-a-movie-blueprint/"><u>[New] Behind the Scenes Crafting a Movie Blueprint</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-roadmap-to-exceptional-spotify-ad-performance/"><u>[Updated] The Roadmap to Exceptional Spotify Ad Performance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fabricate-comical-artwork-adobe-style/"><u>2024 Approved Fabricate Comical Artwork, Adobe Style</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-top-10-most-accessible-costless-lut-tools-unveiled/"><u>2024 Approved The Top 10 Most Accessible, Costless LUT Tools Unveiled</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-xiaomi-redmi-note-13-proplus-5g-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/detailed-tutorial-fixing-driverpowerstatefailure-complications-on-your-pc/"><u>Detailed Tutorial: Fixing DRIVER_POWER_STATE_FAILURE Complications on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-resolution-correcting-the-no-entry-point-found-warning-in-windows/"><u>Error Resolution: Correcting the 'No Entry Point Found' Warning in Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-broken-xbox-controler-xp-a-detailed-troubleshooting-manual/"><u>Fix Your Broken Xbox Controler XP - A Detailed Troubleshooting Manual</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-printer-back-online-after-driver-has-stopped-working-in-a-32-bit-system/"><u>How to Get Your Printer Back Online After 'Driver Has Stopped Working' In a 32-Bit System</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macbook-air-m1-laptop-at-unbeatable-discounted-rate-of-649-exclusive-deal-on-zdnet/"><u>MacBook Air M1 Laptop at Unbeatable Discounted Rate of $649: Exclusive Deal on ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209865174-9781773232430-mysticism/"><u>Mysticism | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-repairing-windows-11-with-system-file-checker-sfc-and-deployment-image-servicing-management-tool-dism/"><u>Step-by-Step: Repairing Windows 11 With System File Checker (SFC) & Deployment Image Servicing Management Tool (DISM)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-sound-quality-resolving-crackle-noises-in-pc-speakers-windows-117/"><u>Troubleshooting Sound Quality: Resolving Crackle Noises in PC Speakers (Windows 11/7)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-fixing-window-10-touchpad-scrolling-problems/"><u>Ultimate Guide: Fixing Window 10 Touchpad Scrolling Problems</u></a></li>
 </ul></div>
 

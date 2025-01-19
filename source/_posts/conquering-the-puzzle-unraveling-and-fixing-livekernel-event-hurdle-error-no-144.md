@@ -1,7 +1,7 @@
 ---
 title: "Conquering the Puzzle: Unraveling and Fixing LiveKernel Event Hurdle, Error No. 144"
-date: 2025-01-06T17:15:26.055Z
-updated: 2025-01-13T16:54:26.254Z
+date: 2025-01-17T16:21:34.656Z
+updated: 2025-01-19T18:00:40.101Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ When you pay the money and look forward to enjoying the game but find that the g
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these methods
 
 1. [Rename the Destiny 2 folder](https://tools.techidaily.com/drivereasy/download/)
@@ -34,7 +38,7 @@ When you pay the money and look forward to enjoying the game but find that the g
 6. [Set the Windows Secondary Logon is set to automatic](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Rename the Destiny 2 folder
@@ -45,21 +49,13 @@ When you pay the money and look forward to enjoying the game but find that the g
 2. Navigate to your Destiny 2 folder location. Usually, it’s in C:\\Program Files (x86)\\. Then rename the Destiny 2 folder.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d23.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Open**Battle.net** and click**Install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d20.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Change the folder name back to Destiny 2.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d23.jpg)
 5. Click**Start install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d21.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Be patient, the process will resume from where you left off after verifying the files that are already there. Then you’re good to go.
 
@@ -68,7 +64,7 @@ When you pay the money and look forward to enjoying the game but find that the g
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Reinstall the Battle.net app
@@ -81,10 +77,6 @@ Reinstall the Battle.net can may help you solve the issue.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3: Change Blizzard Settings
 
  Change the Blizzard’s download settings may help you increase the download speed.
@@ -92,6 +84,10 @@ Reinstall the Battle.net can may help you solve the issue.
 1. Click on the Blizzard logo on the upper right side. Then select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/d1.jpg)
 2. Select the**Game Installs/Update** . Scroll down to find the Network Bandwidth.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Change the Max Download rate by setting the Latest Updates and Future Patch updates to 0 to get the max download rate. Then Press**Done** to apply the settings.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d12.jpg)
 4. Download Destiny 2 to see whether it can help.
@@ -107,14 +103,14 @@ Reinstall the Battle.net can may help you solve the issue.
 3. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/b2.jpg)
 4. Run Blizzard and check whether the problem is solved or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Check your antivirus software
@@ -172,6 +168,10 @@ OR
 2. Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/07/gpu1.jpg)
 3. Click the**Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/07/gpu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
  We hope you find the above information helpful. And if you have any ideas, suggestions, or questions, feel free to leave a comment below.
@@ -193,14 +193,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-seamless-integration-of-phone-and-pc-timelines-with-zoom-meetings-for-2024/"><u>[Updated] Seamless Integration of Phone & PC Timelines with Zoom Meetings for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-elevate-your-voice-discovering-the-leading-vocal-changer-applications-for-android/"><u>2024 Approved Elevate Your Voice Discovering the Leading Vocal Changer Applications for Android</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-immaculate-game-recordings-with-obs-studio-pro/"><u>In 2024, Immaculate Game Recordings with OBS Studio Pro</u></a></li>
-<li><a href="https://extra-support.techidaily.com/next-gen-cloud-vaults-ultimate-pick-list-for-2024/"><u>Next-Gen Cloud Vaults Ultimate Pick List for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-steps-to-fix-voice-chat-issues-on-overwatch-easily/"><u>Simple Steps to Fix Voice Chat Issues on Overwatch Easily</u></a></li>
-<li><a href="https://some-skills.techidaily.com/swift-access-to-youtube-srt-files-three-key-points-for-2024/"><u>Swift Access to YouTube SRT Files Three Key Points for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-incompatible-graphics-cards-for-fortnite-on-windows/"><u>Troubleshooting Incompatible Graphics Cards for Fortnite on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211031652-wi-fi-not-working-learn-how-to-restore-your-lost-internet-connection-here/"><u>Wi-Fi Not Working? Learn How To Restore Your Lost Internet Connection Here!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-iastordatasvc-32-bit-cpu-drain-on-windows-10-solution-inside/"><u>Winning the Battle Against IAStorDataSvc (32 Bit) CPU Drain on Windows 10 [Solution Inside]</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-enhancing-video-reach-tactics-against-bot-visitors-for-2024/"><u>[New] Enhancing Video Reach Tactics Against Bot Visitors for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-personalize-your-soundtrack-constructing-a-youtube-playlist-from-home-and-on-the-move/"><u>[Updated] 2024 Approved Personalize Your Soundtrack Constructing a YouTube Playlist From Home & On-the-Move</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-viewer-friendly-approach-implementing-commentary-and-alerts-on-youtube-for-2024/"><u>[Updated] A Viewer-Friendly Approach Implementing Commentary and Alerts on YouTube for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premiere-pros-finest-tools-free-and-exceptional-quality/"><u>[Updated] Premiere Pro's Finest Tools - Free & Exceptional Quality</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-tailoring-sound-fades-within-logic-pro-settings/"><u>[Updated] Tailoring Sound Fades Within Logic Pro Settings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-tech-savvy-solutions-for-iphone-screenshots/"><u>[Updated] Tech Savvy Solutions for iPhone Screenshots</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/civilization-vi-overcoming-the-compatibility-problems-between-game-and-gpu/"><u>Civilization VI: Overcoming the Compatibility Problems Between Game and GPU</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-resolving-usb-port-failures-in-windows-10-and-11-computers-efficiently/"><u>Diagnosing and Resolving USB Port Failures in Windows 10 & 11 Computers Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-microsofts-wireless-display-adapter-when-it-fails-to-pair-with-windows-10/"><u>How to Fix Microsoft's Wireless Display Adapter When It Fails to Pair with Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-solution-for-system-error-5-on-windows-10-7-and-8-a-complete-fix-tutorial/"><u>Master the Solution for System Error 5 on Windows 10, 7, and 8: A Complete Fix Tutorial</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/micro-movie-maker-for-2024/"><u>Micro Movie Maker for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/snowy-scores-winter-2022-wonders-unveiled/"><u>Snowy Scores Winter 2022 Wonders Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-windows-11-pc-setup-problems-effectively-solved/"><u>Troubleshooting and Fixing Windows 11 PC Setup Problems Effectively [Solved]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-correcting-the-dx11-feature-level-100-glitch-in-wwe-2k-battlegrounds/"><u>Troubleshooting Steps for Correcting the DX11 Feature Level 10.0 Glitch in WWE 2K Battlegrounds</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-lost-desktop-icons-glitch-on-windows-11-systems/"><u>Troubleshooting the Lost Desktop Icons Glitch on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-pc-how-to-restore-windows-1er-volume-control-functionality/"><u>Troubleshooting Your PC: How to Restore Windows 1Er Volume Control Functionality</u></a></li>
+<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager in Windows 10 & 7</u></a></li>
 </ul></div>
 

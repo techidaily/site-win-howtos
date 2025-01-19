@@ -1,7 +1,7 @@
 ---
 title: Fixing the Critical Red Screen Dilemma in Windows 11 Systems
-date: 2025-01-12T16:13:15.071Z
-updated: 2025-01-13T17:32:56.839Z
+date: 2025-01-13T16:23:07.629Z
+updated: 2025-01-19T19:13:20.399Z
 tags:
   - win11
   - win10
@@ -53,21 +53,17 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
 4. Right-click System Event Notification Service again, this time select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
@@ -87,16 +83,16 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c0804d3b9.jpg)
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **netsh winsock reset**
 
  Restart your computer to see if the error has gone. If you still see the error, don’t worry, move onto the next methods.  
  If resetting Winsock worked temporarily, you can move to Fix 5.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your video card driver
 
@@ -110,6 +106,10 @@ Follow these steps to reset your Winsock Catalog:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c1c42f3f2.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
@@ -131,7 +131,7 @@ Follow these steps to reset your Winsock Catalog:
 4. Click View installed updates.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
@@ -153,12 +153,12 @@ Restart your computer to see if the error has gone.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-52-10.jpg)
 3. Right-click on it and choose**Disable** . You can also open its file location and delete it permanently.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-55-36.jpg)
 4. Restart your computer to see if the error has gone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
 
@@ -184,16 +184,19 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-kinemaster-tutorial-seamless-integration-of-green-screen-techniques/"><u>[New] 2024 Approved Kinemaster Tutorial Seamless Integration of Green Screen Techniques</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-sonic-layers-in-reels-weaving-audio-into-visuals/"><u>[Updated] 2024 Approved Sonic Layers in Reels Weaving Audio Into Visuals</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/definitive-solutions-to-windows-10-setup-error-code-80240020-get-your-system-running-now/"><u>Definitive Solutions to Windows 10 Setup Error Code 80240020 - Get Your System Running Now!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elegoo-high-capacity-3d-printers-are-they-suitable-for-large-scale-objects-like-toddlers/"><u>Elegoo High-Capacity 3D Printers: Are They Suitable for Large Scale Objects Like Toddlers?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/expert-techniques-for-high-quality-xbox-screenshots/"><u>Expert Techniques for High-Quality Xbox Screenshots</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-and-tricks-for-resolving-windows-10-taskbar-freeze-issues/"><u>Expert Tips and Tricks for Resolving Windows 10 Taskbar Freeze Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-overcoming-common-phasmophobia-vr-connectivity-problems/"><u>Guide: Overcoming Common Phasmophobia VR Connectivity Problems</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ly-crafting-valorant-image-highlights-for-gamers-for-2024/"><u>Rapidly Crafting Valorant Image Highlights for Gamers for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-prompt-fixes-for-error-1053-non-responsive-services/"><u>Resolved: Prompt Fixes for 'Error 1053' - Non-Responsive Services</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/storing-session-videos-in-gh/"><u>Storing Session Videos in GH</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-connection-issues-with-microsoft-wi-fi-display-adapter-on-windows-11/"><u>Troubleshooting Guide: Fixing Connection Issues with Microsoft Wi-Fi Display Adapter on Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-learn-and-master-io-screen-recording-today-for-2024/"><u>[New] Learn and Master IO Screen Recording Today for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-advanced-text-finessing-guide/"><u>[Updated] In 2024, Advanced Text Finessing Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-live-streaming-made-easy-expert-reviews-of-top-obs-tools/"><u>2024 Approved Live Streaming Made Easy Expert Reviews of Top OBS Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-realme-note-50-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Realme Note 50 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-fixes-to-overcome-the-troubling-0xc0000112f-hurdle-on-windows-systems/"><u>Effortless Fixes to Overcome the Troubling 0xC00001^12F Hurdle on Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-asus-motherboard-drivers-on-your-windows-pc-comprehensive-download-and-install-instructions/"><u>Get the Latest ASUS Motherboard Drivers on Your Windows PC – Comprehensive Download & Install Instructions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hardware-havoc-ultimate-system-failure/"><u>Hardware Havoc: Ultimate System Failure</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-realme-c53-by-drfone-android/"><u>How to Bypass FRP on Realme C53?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-honor-magic-v2-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Honor Magic V2 Phone Screen?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-miracast-setup-expert-advice-on-resolving-unsupported-device-errors/"><u>Mastering Miracast Setup: Expert Advice on Resolving Unsupported Device Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-installation-hurdles-for-the-latest-windows-10-features-v1803-resolved/"><u>Overcoming Installation Hurdles for the Latest Windows 10 Features (v1803 Resolved)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-pc-with-sfc-and-dism-tools-top-fixes-for-windows-10-issues/"><u>Reviving Your PC with SFC & DISM Tools: Top Fixes for Windows 10 Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-fixing-the-issue-that-interrupted-your-programs-performance/"><u>Solved: Fixing the Issue That Interrupted Your Program's Performance</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-10-high-fidelity-4k-laptops-for-gamers/"><u>Top 10 High-Fidelity 4K Laptops for Gamers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing High Network Consumption by svchost.exe (Netsvcs): A Complete Guide to Troubleshooting and Resolution"
-date: 2025-01-07T16:37:38.175Z
-updated: 2025-01-13T16:41:28.919Z
+date: 2025-01-18T16:19:15.895Z
+updated: 2025-01-19T20:34:02.984Z
 tags:
   - win11
   - win10
@@ -41,17 +41,9 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
@@ -60,10 +52,6 @@ Here’s how to do it:
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -79,11 +67,15 @@ Here’s how to do it:
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
@@ -99,6 +91,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
@@ -109,12 +105,16 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
@@ -150,22 +150,24 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-explore-ingenious-techniques-for-voice-transformation-at-zero-price/"><u>[New] Explore Ingenious Techniques for Voice Transformation at Zero Price</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-a-channel-trailer/"><u>[New] In 2024, How to Make a Channel Trailer</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-skyborne-duo-faceoff-dji-mavic-pro-and-gopro-karma-for-2024/"><u>[Updated] The Skyborne Duo Faceoff DJI Mavic Pro & GoPro Karma for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/clearing-the-air-on-ai-bot-fallacies-top-9-dissected/"><u>Clearing the Air on AI Bot Fallacies - Top 9 Dissected</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/google-chrome-freezing-problems-now-fixed/"><u>Google Chrome Freezing Problems – Now Fixed!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-nba-2k21-constant-black-screen-issue-troubleshooting-guide/"><u>How to Resolve NBA 2K21 Constant Black Screen Issue - Troubleshooting Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-ultimate-guide-to-turning-memories-into-snaps/"><u>In 2024, The Ultimate Guide to Turning Memories Into Snaps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/in-depth-analysis-of-the-nomad-magnetic-leather-case-expert-review-for-the-latest-iphone-15-pro/"><u>In-Depth Analysis of the Nomad Magnetic Leather Case: Expert Review for the Latest iPhone 15 Pro</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206876775-origin-game-launch-difficulties-heres-how-to-fix-common-setup-mistakes/"><u>Origin Game Launch Difficulties? Here's How to Fix Common Setup Mistakes!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-scrolling-challenges-on-your-laptops-touchpad-windows-10-solutions/"><u>Overcoming Scrolling Challenges on Your Laptop's Touchpad (Windows 10 Solutions)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-fixes-for-the-persistent-problem-stop-windows-10-from-endless-reboots/"><u>Simple Fixes for the Persistent Problem: Stop Windows 10 From Endless Reboots!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-to-address-failed-encryption-connections-in-firebox-web-browser/"><u>Step-by-Step Fixes to Address Failed Encryption Connections in Firebox Web Browser</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixing-windows-update-error-0x80070652-quickly/"><u>Troubleshooting and Fixing Windows Update Error 0X80070652 Quickly</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unlocking-youtube-success-elite-video-tagging-secrets-for-2024/"><u>Unlocking YouTube Success Elite Video Tagging Secrets for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unveiling-hidden-second-screen-on-win1011/"><u>Unveiling Hidden Second Screen on Win10/11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/virtual-camcorder-excellence-with-manycam-top-tips-for-dynamic-live-video-broadcasts/"><u>Virtual Camcorder Excellence with ManyCam - Top Tips for Dynamic Live Video Broadcasts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206246918-warframes-latest-update-hiccup-heres-how-you-can-fix-it-easily/"><u>Warframe's Latest Update Hiccup? Here's How You Can Fix It Easily!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-affordable-techniques-to-enhance-written-content-with-media/"><u>[New] In 2024, Affordable Techniques to Enhance Written Content with Media</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-art-of-amassing-attention-on-ig-a-guide-for-a-thousand-likesmonth-for-2024/"><u>[New] The Art of Amassing Attention on IG A Guide for a Thousand Likes/Month for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-shooter-showdown-the-ultimate-battle-for-game-supremacy-for-2024/"><u>[Updated] Shooter Showdown The Ultimate Battle for Game Supremacy for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-step-into-tomorrow-latest-apps-and-gaming-on-windows-10-for-2024/"><u>[Updated] Step Into Tomorrow Latest Apps & Gaming on Windows 10 for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-fixing-playback-issues-how-to-get-the-netflix-app-running-on-your-vintage-ipad/"><u>1. Fixing Playback Issues: How to Get the Netflix App Running on Your Vintage iPad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-windows-10-mic-not-detecting-or-functioning-issue/"><u>Diagnosing and Solving Windows 10 Mic Not Detecting or Functioning Issue</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ensuring-smooth-printing-update-your-hp-officejet-pro-8620-drivers-on-pcs/"><u>Ensuring Smooth Printing: Update Your HP OfficeJet Pro 8620 Drivers on PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204990574-error-code-0x80073cf9-in-windows-11-explained-understand-and-solve-the-issue-today/"><u>Error Code 0X80073CF9 in Windows 11 Explained - Understand and Solve the Issue Today</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-correcting-a-broken-start-menu-in-windows-11-quickly-and-effectively/"><u>Expert Advice: Correcting a Broken Start Menu in Windows 11 Quickly and Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-endless-loop-why-wont-my-computer-turn-off-in-windows-10/"><u>Fixing the Endless Loop: Why Won't My Computer Turn Off in Windows 10?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-vivo-s17t-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo S17t Phone?</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/identifying-frequent-problems-impacting-your-computers-performance-insights-from-yl-computing-and-yl-software/"><u>Identifying Frequent Problems Impacting Your Computer's Performance - Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-frequent-freezing-during-windows-10-boot-up/"><u>Resolving Issues with Frequent Freezing During Windows 10 Boot-Up</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-the-clicks-logitech-mouse-saved/"><u>Reviving the Clicks: Logitech Mouse Saved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-not-found-device-issue-code-24-on-microsoft-windows-versions-11-8-and-7/"><u>Solving the ‘Not Found’ Device Issue - Code 24 on Microsoft Windows Versions 11, 8 & 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-remedies-for-resolving-power-fluctuation-errors-on-windows-11-usb-connections/"><u>Step-by-Step Remedies for Resolving Power Fluctuation Errors on Windows 11 USB Connections</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-nonfunctioning-webcam-in-your-hp-device-with-windows-11/"><u>Troubleshooting the Nonfunctioning Webcam in Your HP Device with Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-superior-communication-optimal-use-of-zoom-in-skype-sessions-for-2024/"><u>Unlocking Superior Communication Optimal Use of ZOOM in Skype Sessions for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/whats-missing-from-todays-virtual-reality-library-insight/"><u>What's Missing From Today's Virtual Reality Library? - Insight</u></a></li>
 </ul></div>
 

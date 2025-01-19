@@ -1,7 +1,7 @@
 ---
 title: Easy Ways to Restore Proper Functionality of Special Keys on a Dell Notebook
-date: 2025-01-09T16:53:00.831Z
-updated: 2025-01-13T17:19:37.085Z
+date: 2025-01-13T20:01:18.968Z
+updated: 2025-01-19T20:28:25.048Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes For **SteelSeries Arctis 5 Mic Not Working**
@@ -45,17 +45,9 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
@@ -85,6 +77,10 @@ Here’s how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -95,6 +91,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 
@@ -103,19 +103,19 @@ To do so:
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest SteelSeries Engine software
 
@@ -148,24 +148,21 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-classic-comedy-time-machine-the-goofy-tape-journey/"><u>[New] Classic Comedy Time Machine The Goofy Tape Journey</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-navigating-numbers-expert-stock-channels-summary/"><u>[New] In 2024, Navigating Numbers Expert Stock Channels Summary</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-simplifying-slides-with-vimeo-video-integration-tutorial/"><u>[Updated] In 2024, Simplifying Slides with Vimeo Video Integration Tutorial</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-detailed-evaluation-razer-kiyo-webcam/"><u>2024 Approved Detailed Evaluation Razer Kiyo Webcam</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/1728496823905-windows-11-6/"><u>不明瞭で初期化済みではないWindows 11 ディスクを修正する6手順</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005032090-eliminate-game-disruptions-a-definitive-guide-to-fixing-persistent-fifa-20-pc-crashes-learn-the-essential-techniques/"><u>Eliminate Game Disruptions: A Definitive Guide to Fixing Persistent FIFA 20 PC Crashes - Learn the Essential Techniques!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-circumventing-the-persistent-windows-10-0x800f0922-update-hurdle/"><u>Guide To Circumventing The Persistent Windows 10 0X800f0922 Update Hurdle</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-bluetooth-disabled-issue/"><u>How To Fix Bluetooth Disabled Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-d3dx942dll-missing-or-not-found-errors/"><u>How to Fix d3dx9_42.dll Missing or Not Found Errors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-fcpx-beauty-essentials-how-to-achieve-smooth-skin-without-plugins/"><u>In 2024, FCPX Beauty Essentials How to Achieve Smooth Skin Without Plugins</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-pcs-finest-ps3-simulators-for-gaming-enthusiasts/"><u>In 2024, PC's Finest PS3 Simulators for Gaming Enthusiasts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-oculus-repair-strategies-to-tackle-errors-and-enhance-your-vr-experience/"><u>Mastering Oculus Repair Strategies to Tackle Errors and Enhance Your VR Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-technique-repair-methods-for-windows-startup-issues/"><u>Mastering the Technique: Repair Methods for Windows Startup Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-insufficient-system-resources-errors-in-your-application/"><u>Resolved: Fixing 'Insufficient System Resources' Errors in Your Application</u></a></li>
-<li><a href="https://driver-download.techidaily.com/simple-guide-how-to-get-and-update-surface-drivers-with-ease/"><u>Simple Guide: How to Get and Update Surface Drivers with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-shift-key-failure-expert-troubleshooting-tips/"><u>Solving 'Shift Key Failure': Expert Troubleshooting Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-microsoft-print-to-pdf-issues-on-windows-10-and-11/"><u>Troubleshooting Microsoft Print to PDF Issues on Windows 10 & 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-update-service-failures-quick-and-effective-fixes/"><u>Troubleshooting Windows Update Service Failures - Quick and Effective Fixes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-elevate-user-experience-with-these-leading-videophones/"><u>[New] Elevate User Experience with These Leading Videophones</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-accurate-3ds-reproduction-top-tier-emulators-for-home-computers/"><u>[Updated] Accurate 3Ds Reproduction Top-Tier Emulators for Home Computers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-advanced-scripts-engineering-countdown-timers-in-broadcast-tools/"><u>[Updated] Advanced Scripts Engineering Countdown Timers in Broadcast Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-proven-methods-to-secure-costless-illustrations/"><u>[Updated] Proven Methods to Secure Costless Illustrations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-usb-functionality-problems-in-modern-windows-environments/"><u>Diagnosing and Solving USB Functionality Problems in Modern Windows Environments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easily-resolve-the-notorious-error-code-0x800f081f-in-your-net-framework-35-installation/"><u>Easily Resolve the Notorious Error Code 0X800F081F in Your .NET Framework 3.5 Installation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-failed-graphics-driver-d3derrnotavailable-quickly/"><u>How to Fix a Failed Graphics Driver (D3DERR_NOTAVAILABLE) Quickly</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726027354173-huawei/"><u>Huaweiデバイスで音楽が再生しない場合のトラブルシューティング手順</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-best-sony-frp-bypass-guide-by-drfone-android/"><u>In 2024, Best Sony FRP Bypass Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-xcover-7-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Samsung Galaxy XCover 7 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-airpod-windows-sync-advanced-tips-to-resolve-connections/"><u>Master AirPod-Windows Sync: Advanced Tips to Resolve Connections</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-resolving-delayed-shutdown-problems-in-windows-10/"><u>Quick Fix Guide: Resolving Delayed Shutdown Problems in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-email-characters-glitch-fixing-a-broken-key/"><u>Resolve Email Characters Glitch: Fixing a Broken '@' Key</u></a></li>
+<li><a href="https://video-capture.techidaily.com/solve-invisible-frames-in-video-capture-software/"><u>Solve Invisible Frames in Video Capture Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-unlocking-the-c-drive-on-windows-10-devices-for-safe-access/"><u>Troubleshooting: Unlocking the C: Drive on Windows 10 Devices for Safe Access</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-and-fixing-the-persistent-disk-write-error-in-steam/"><u>Understanding & Fixing the Persistent Disk Write Error in Steam</u></a></li>
 </ul></div>
 

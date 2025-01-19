@@ -1,7 +1,7 @@
 ---
 title: "Error Code 0XC0000098 on Windows: A Comprehensive Fixing Guide"
-date: 2024-08-28T00:33:37.629Z
-updated: 2024-08-29T00:33:37.629Z
+date: 2025-01-16T19:29:10.104Z
+updated: 2025-01-19T17:11:30.603Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/4d7dde3a99efac5f6bdb879d88148e0d5b48fb102
 2. **[Repair your registry](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1: Restart the WLAN AutoConfig service
 
  This error could happen if the WLAN AutoConfig service isn’t correctly configured on your computer. In this case, you can try to restart the service to solve your problem.
@@ -35,14 +39,20 @@ See how to do it:
 2. Type**services.msc** , then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c45b02d97.png)
 3. Right-click on**WLAN AutoConfig** to select**Restart** . If the Restart option grayed out, click**Start** instead.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c4e8dc53f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Double-click** WLAN AutoConfig.
 5. Set the Startup type to**Automatic** . Then**Apply** \>**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c6c3c4eb5.jpg)
 
  Reboot your Windows computer and the error should disappear. If you’re prompted the error again, there’re something else you can try…
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 2: Repair your registry
 
  When your system settings are not configured properly, this error may also occur. You can solve it through repairing your registry.
@@ -55,26 +65,22 @@ Here’s how you can do it:
 3. Click**Yes** when prompted by User Account Control.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ca123ce81.jpg)
 4. Go to**HKEY\_LOCAL\_MACHINE** \>**SYSTEM** \>**CurrentControlSet** \>**Services** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ca74d28b3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Right-click**Dhcp** under the Services section to select**Export** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  Give a name for the backup file, say Dhcp backup. Then select a backup address and click**Save** . You can restore the file from this backup if any error occurs during the process below.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cae624a92.jpg)
 6. **Double-click** DependOnService on the right pane of Dhcp. Select all the words**except “Afd”** , then**delete** them.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cc0dde1d6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 7. Right-click**Eaphost** under the Services section to select**Export** .  
  Give a name for the backup file, say Eaphost backup.Then select a backup address and click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cc80aaff0.jpg)
 8. **Double-click** DependOnService on the right pane of Eaphost. Select all the words and **delete** them.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cd67d4334.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Close the Registry Editor window and reboot your Windows computer. Check if the error disappears. If you still see the error, don’t give up hope. Simply move onto next solution.
 
 ### Solution 3: Update your network adapter driver
@@ -96,9 +102,6 @@ You can update your network driver either manually or automatically.
  You can click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the Pro version which comes with**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b891580f3aca.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You’re done. Feel free to comment below if you have any question.
 
 * [error](https://tools.techidaily.com/drivereasy/download/)
@@ -110,8 +113,6 @@ You’re done. Feel free to comment below if you have any question.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +120,26 @@ You’re done. Feel free to comment below if you have any question.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-decoding-instagrams-max-video-content/"><u>[New] 2024 Approved Decoding Instagram's Max Video Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-solve-facebook-messenger-not-sending-videos-on-iphone-and-android/"><u>[New] 2024 Approved Solve “Facebook Messenger Not Sending Videos” On iPhone and Android</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-elite-6-software-for-audiovisual-translation/"><u>[New] Elite 6 Software for Audio/Visual Translation</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-mac-users-launch-your-own-sports-videography-hub/"><u>[Updated] 2024 Approved Mac Users Launch Your Own Sports Videography Hub</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-obstacles-in-windows-11-installation-error-code-802-explained-and-solved/"><u>Bypassing Obstacles in Windows 11 Installation - Error Code 802# Explained and Solved</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/copy-errors-on-the-latest-win-11-version/"><u>Copy Errors on the Latest Win 11 Version</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-lenovos-high-quality-hd-sound-card-software-at-no-cost/"><u>Download Lenovo's High-Quality HD Sound Card Software at No Cost</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-to-repair-non-functioning-lenovo-biometric-sensor/"><u>Easy Solutions to Repair Non-Functioning Lenovo Biometric Sensor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-guide-why-some-screens-lack-pen-or-touch-input-options-solutions-included/"><u>Fix Guide: Why Some Screens Lack Pen or Touch Input Options – Solutions Included</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-c67-4g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guida-completa-come-risolvere-i-problemi-di-riproduzione-dei-file-mkv-su-pc-e-mac/"><u>Guida Completa: Come Risolvere I Problemi Di Riproduzione Dei File MKV Su PC E Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-definition-videography-unveiled-by-yi-for-2024/"><u>High Definition Videography Unveiled by Yi for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-visual-verdict-sj6-meets-xiaomis-yi-visionaries/"><u>In 2024, The Ultimate Visual Verdict SJ6 Meets Xiaomi’s Yi Visionaries</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-a-new-tongue-best-9-free-language-resources/"><u>Master a New Tongue: Best 9 Free Language Resources</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-remedies-to-reactivate-your-lenovos-shortcut-keys/"><u>Quick Remedies to Reactivate Your Lenovo's Shortcut Keys</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-mic-not-working-errors-on-windows-10-pcs/"><u>Resolving 'Mic Not Working' Errors on Windows 10 PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solutions-for-preventing-self-activating-boot-sequences-on-windows-10-devices/"><u>Solutions for Preventing Self-Activating Boot Sequences on Windows 10 Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-step-by-step-for-error-1000-on-windows-os-versions-7-8-and-10/"><u>Troubleshooting Step-by-Step for Error 1000 on Windows OS Versions 7, 8 & 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-win32-app-crashes-error-code-0xc0000098/"><u>Ultimate Guide: Resolving Win32 App Crashes (Error Code 0xC0000098)</u></a></li>
+</ul></div>
 

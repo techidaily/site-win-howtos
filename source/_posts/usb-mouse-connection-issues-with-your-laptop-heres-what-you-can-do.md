@@ -1,7 +1,7 @@
 ---
 title: USB Mouse Connection Issues with Your Laptop? Here's What You Can Do
-date: 2025-01-06T16:01:11.613Z
-updated: 2025-01-13T16:27:22.412Z
+date: 2025-01-13T19:10:54.671Z
+updated: 2025-01-19T16:13:17.250Z
 tags:
   - win11
   - win10
@@ -38,14 +38,14 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-6.png)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Make sure **Power** is on.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/5.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Go back on the window of step 2). Click **Select which icons appear on the taskbar**.  
   
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
@@ -71,14 +71,14 @@ Follow these:
   
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/win-key.png)**  and **R**  (at the same time) to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type **devmgmt.msc**  in the box and press **Enter** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
   
@@ -86,17 +86,13 @@ Follow these:
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/9.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
 
@@ -107,6 +103,10 @@ Follow these:
  You can update your drivers automatically with either the **[Free](https://tools.techidaily.com/drivereasy/download/)**  or the[**Pro**](https://tools.techidaily.com/drivereasy/download/) version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
@@ -125,20 +125,22 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-dominating-the-digital-space-5-tips-for-video-visibility-victory/"><u>[New] 2024 Approved Dominating the Digital Space 5 Tips for Video Visibility Victory</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-ultimate-playbook-for-attracting-hundred-thousand-on-youtube/"><u>[Updated] In 2024, The Ultimate Playbook for Attracting Hundred Thousand on YouTube</u></a></li>
-<li><a href="https://games-able.techidaily.com/creating-a-direct-link-between-your-device-and-controller/"><u>Creating a Direct Link Between Your Device & Controller</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212297070-definitive-solutions-to-windows-10-setup-error-code-80240020-get-your-system-running-now/"><u>Definitive Solutions to Windows 10 Setup Error Code 80240020 - Get Your System Running Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-solutions-stop-your-csgo-game-from-crashing-instantly/"><u>Effortless Solutions: Stop Your CSGO Game From Crashing Instantly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-error-code-0x887a0006-instantly-a-comprehensive-guide/"><u>Fix Error Code 0X887A0006 Instantly: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-failed-attempts-at-installing-new-features-on-your-windows-11-system-update-1607/"><u>Fixing Failed Attempts at Installing New Features on Your Windows 11 System (Update 1607)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-oppo-f25-pro-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Oppo F25 Pro 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-f04-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy F04 Fingerprint Lock</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-stream-your-favorite-games-online-for-2024/"><u>New How To Stream Your Favorite Games Online for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/simple-guide-making-a-booting-external-drive-with-these-three-techniques/"><u>Simple Guide: Making a Booting External Drive with These Three Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-for-resolving-windows-error-code-0xc0000098/"><u>Solutions for Resolving Windows Error Code 0xC0000098</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-guide-accessing-windows-registry-tips-and-tricks-from-yl-computing/"><u>Step-by-Step Guide: Accessing Windows Registry - Tips & Tricks From YL Computing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-issues-with-your-lenovo-laptops-webcam/"><u>Troubleshooting Tips: Resolving Issues with Your Lenovo Laptop's Webcam</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211656066-why-isnt-my-lenovo-camera-working-uncover-the-solutions-here/"><u>Why Isn't My Lenovo Camera Working? Uncover the Solutions Here!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-expert-tips-for-securing-top-tier-youtube-ad-campaigns-using-famebit/"><u>[New] 2024 Approved Expert Tips for Securing Top-Tier YouTube Ad Campaigns Using FameBit</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/administrar-actualizaciones-en-windows-11-tres-estrategias-clave-para-la-organizacion-y-el-rendimiento-del-equipo/"><u>Administrar Actualizaciones en Windows 11: Tres Estrategias Clave Para La Organización Y El Rendimiento Del Equipo</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bridging-knowledge-gaps-the-principles-of-ai-transfer-learning/"><u>Bridging Knowledge Gaps: The Principles of AI Transfer Learning</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-best-no-cost-apps-for-creating-unique-iphone-ringtones-top-picks-and-reviews/"><u>Discover the Best No-Cost Apps for Creating Unique iPhone Ringtones – Top Picks & Reviews</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-world-of-warcrafts-slowdowns-a-comprehensive-solution-overview/"><u>Fixing World of Warcraft's Slowdowns: A Comprehensive Solution Overview</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-freezing-or-unresponsive-windows-10-system/"><u>How to Fix a Freezing or Unresponsive Windows 10 System</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/o-remove-black-bars-from-youtube-videos-for-2024/"><u>How to Remove Black Bars From YouTube Videos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-of-x0x80070-652-windows-update-issue-with-simple-steps/"><u>Mastering the Fix of X0X80070 652-Windows Update Issue with Simple Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-the-process-how-to-get-clearance-from-trustedinstaller-for-file-changes/"><u>Navigating the Process: How to Get Clearance From TrustedInstaller for File Changes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/online-free-conversion-of-3gp3g2-formats-effortless-video-editing-with-movavi/"><u>Online Free Conversion of 3GP/3G2 Formats - Effortless Video Editing with Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfecting-your-video-stream-zoom-meets-fb-live/"><u>Perfecting Your Video Stream Zoom Meets FB Live</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-techniques-for-when-your-computer-wont-start-due-to-no-boot-error/"><u>Quick Fix Techniques for When Your Computer Won't Start Due to No Boot Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/regain-control-of-missing-icons-4-proven-solutions-to-restore-windows-11s-taskbar-functionality/"><u>Regain Control of Missing Icons: 4 Proven Solutions to Restore Windows 11'S Taskbar Functionality</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/reliable-and-cost-free-data-protection-superior-options-beyond-shadowprotect/"><u>Reliable & Cost-Free Data Protection: Superior Options Beyond ShadowProtect</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-common-touchscreen-problems-on-windows-10-a-guide-to-five-reliable-solutions/"><u>Solving Common Touchscreen Problems on Windows 10: A Guide to Five Reliable Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-your-non-functional-usb-mouse-issue-top-solutions-for-laptops/"><u>Solving Your Non-Functional USB Mouse Issue: Top Solutions for Laptops</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-10-guides-for-crafting-stellar-music-reactions-on-youtube-for-2024/"><u>Top 10 Guides for Crafting Stellar Music Reactions on YouTube for 2024</u></a></li>
 </ul></div>
 

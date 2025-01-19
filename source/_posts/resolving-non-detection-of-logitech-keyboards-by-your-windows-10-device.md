@@ -1,7 +1,7 @@
 ---
 title: Resolving Non-Detection of Logitech Keyboards by Your Windows 10 Device
-date: 2024-08-28T00:33:56.455Z
-updated: 2024-08-29T00:33:56.455Z
+date: 2025-01-13T17:56:40.757Z
+updated: 2025-01-19T17:43:56.895Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a
  **Method 3:[Update your keyboard driver](#c)**
  **Method 4: [Troubleshoot the hardware issues](#d)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Completely reboot your laptop
 
  The simplest fix to your keyboard issue is to reboot your Acer laptop completely. To do so:
@@ -45,35 +49,37 @@ thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a
 1. Click the Start menu (the Windows logo) at the bottom left of your screen. Then click **Settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_59819ff0e68f7.png)
 2. Click **Ease of Access** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a118a26bf.png)
 3. Click **Keyboard** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a1f8bb7c8.png)
 4. Disable the Filter Keys function (switch off**Filter Keys** or uncheck**Turn on Filter Keys** ).  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a38f0341d.png)
 5. Try your keyboard and see if disabling Filter Keys can restore your keyboard.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Windows 11
 
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
 2. Go to**Accessibility > Keyboard** .![Windows 11 - disable filter keys via Settings](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 3. Toggle**Off** Filter keys.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Filter-keys-Off.jpg)
 4. Now try using your keyboard and see if disabling Filter Keys can restore your keyboard.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Update your keyboard driver
@@ -90,9 +96,6 @@ thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/hid-keyboard-device.png)
 4. Restart your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -114,8 +117,6 @@ thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +124,26 @@ thumbnail: https://thmb.techidaily.com/bb9708a331c4c3dd31e799c079bb73652a9e75d1a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-deciding-on-a-vr-setup-going-wireless-mobile-or-connected-tethered/"><u>[New] 2024 Approved Deciding on a VR Setup Going Wireless (Mobile) or Connected (Tethered)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-quick-guide-to-insta-influence-mastery/"><u>[New] 2024 Approved Quick Guide to Insta-Influence Mastery</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-navigate-to-exciting-windows-11-gaming-world/"><u>[New] In 2024, Navigate to Exciting Windows 11 Gaming World</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/astering-the-craft-how-to-produce-mukbang-videos-for-2024/"><u>[New] Mastering the Craft How to Produce Mukbang Videos for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rack-your-videos-with-these-top-8-youtube-rank-trackers/"><u>[New] Track Your Videos With These Top 8 YouTube Rank Trackers</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-real-time-artist-streaming-on-douyin-for-2024/"><u>[Updated] Real-Time Artist Streaming on Douyin for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decode-microsofts-0x80070490-error-code-complete-fixes-unveiled-for-windows-users/"><u>Decode Microsoft's 0X80070490 Error Code - Complete Fixes Unveiled for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enhance-your-wow-session-effective-techniques-to-fix-connectivity-lags/"><u>Enhance Your WoW Session: Effective Techniques to Fix Connectivity Lags</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-0x802amoze-a-comprehensive-guide-for-fixing-windows-updates-in-widows-1011/"><u>Error Code 0X802amoze: A Comprehensive Guide for Fixing Windows Updates in Widows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-steam-store-loading-problem-a-step-by-step-guide/"><u>Fixing the Steam Store Loading Problem - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-htc-u23-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-broken-usb-port-on-your-dell-device-a-step-by-nstep-guide/"><u>How to Repair a Broken USB Port on Your Dell Device – A Step-by-nStep Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-poco-m6-pro-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Poco M6 Pro 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/non-reactivity-in-canon-printer-mode/"><u>Non-Reactivity in Canon Printer Mode</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-cannot-connect-to-remote-server-errors-a-step-by-step-guide/"><u>Resolving 'Cannot Connect to Remote Server' Errors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-youtube-sound-playback-issue-in-windows-10/"><u>Resolving the YouTube Sound Playback Issue in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202048356-troubleshooting-stuck-function-fn-buttons-solutions-inside/"><u>Troubleshooting Stuck Function (Fn) Buttons – Solutions Inside</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-drone-racers-and-top-5-fpv-drones-for-2024/"><u>Ultimate Guide to Drone Racers & Top 5 FPV Drones for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-guide-turn-off-touchpad-automatically-when-using-an-external-mouse/"><u>Windows 11 Guide: Turn Off Touchpad Automatically when Using an External Mouse</u></a></li>
+</ul></div>
 

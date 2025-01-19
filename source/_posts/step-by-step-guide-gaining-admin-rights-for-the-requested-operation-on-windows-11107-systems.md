@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Gaining Admin Rights for the Requested Operation on Windows 11/10/7 Systems"
-date: 2025-01-06T16:03:49.552Z
-updated: 2025-01-13T17:40:34.279Z
+date: 2025-01-15T16:21:23.127Z
+updated: 2025-01-19T18:36:47.521Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ In this guide you’ll learn:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92afe0a1d0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Windows 11
 
 1. Press the **Windows logo + I keys**  simultaneously to open Settings
@@ -54,7 +58,7 @@ In this guide you’ll learn:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Bluetooth-and-devices-Bluetooth-On.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  But if you don’t see the switch and your screen looks like the one below, there’s a problem with Bluetooth on your computer.
@@ -83,10 +87,14 @@ In this guide you’ll learn:
 2. In Device Manager, check to see if there’s a**Bluetooth section** or if there’s any**Bluetooth adapter** located in the**Network adapters** section. The Bluetooth adapter could also be listed under the**Other devices** section due to some errors.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92f6f87b46.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  a) If you**do** find one or more Bluetooth adapters in Device Manager, your computer supports Bluetooth. Move on to the solutions to continue to  solve your problem.
 
@@ -111,17 +119,9 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a45e220bb3e1.jpg)  
  (If you click the**Update All**  button in the Free version you’ll be asked if you want to upgrade to the Pro version.)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer.
 5. On your keyboard, hold down the **Windows logo key**  and press the**I**  key to open the**Settings** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Do you see the option to switch Bluetooth on now? If you do, great. You’ve fixed the problem. But if it’s still not there, there’s something else you can try…
 
@@ -134,11 +134,15 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
 3. Right-click on the device again and click **Enable device** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 4. On your keyboard, hold down the **Windows logo key**  and press the**I**  key to open the**Settings** window.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
@@ -153,14 +157,14 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 3. Right-click **Bluetooth Support Service** , then click **Start** . (If the Start option grayed out, then click **Restart** .)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 4. Right-click on**Bluetooth Support Service**  again, and this time click**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
@@ -172,10 +176,6 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What to do if the above suggestions don’t work: Switch to ChromeOS
 
@@ -225,18 +225,21 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/outube-profile-picture-templates-free-downloads/"><u>[New] YouTube Profile Picture Templates – Free Downloads</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-boost-cash-flow-with-these-5-instagram-hacks-for-2024/"><u>[Updated] Boost Cash Flow with These 5 Instagram Hacks for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-chat-enhancement-course-turning-your-graphics-into-social-media-stickers-for-2024/"><u>[Updated] Chat Enhancement Course Turning Your Graphics Into Social Media Stickers for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-samsung-galaxy-m34-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Samsung Galaxy M34 5G PC | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-testing-of-the-netgear-nighthawk-rax120-top-performance-in-speed-and-connectivity/"><u>Comprehensive Testing of the Netgear Nighthawk RAX120 - Top Performance in Speed and Connectivity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-ways-to-lower-msmpeng-cpu-overhead-for-a-smoother-windows-10-experience/"><u>Effective Ways to Lower MsMpEng CPU Overhead for a Smoother Windows 10 Experience</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lava-agni-2-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Lava Agni 2 5G Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-installation-issues-with-the-windows-10-may-2019-build-1903-update/"><u>Overcoming Installation Issues with the Windows 10 May 2019 (Build 1903) Update</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-sign-in-challenges-tackling-the-user-profile-service-error-in-windows-11/"><u>Overcoming Sign-In Challenges: Tackling the User Profile Service Error in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/pc-based-gaming-xbox-one-controller-tips/"><u>PC-Based Gaming: Xbox One Controller Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-17-websites-offering-free-e-book-downloads/"><u>Top 17 Websites Offering Free E-Book Downloads</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-non-responsive-keys/"><u>Troubleshooting Guide: Fixing Non-Responsive Keys</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-list-the-leading-pc-soundcards-for-2e24-tech-enthusiasts/"><u>Ultimate List: The Leading PC Soundcards for 2E24 Tech Enthusiasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-bridging-audio-and-web-mastering-the-podcast-rss-format/"><u>[New] Bridging Audio & Web Mastering the Podcast RSS Format</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-brand-your-content-download-complimentary-templates-for-youtube-makers/"><u>[New] In 2024, Brand Your Content Download Complimentary Templates for YouTube Makers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-video-excellence-via-apple-music-add-on/"><u>[Updated] In 2024, Video Excellence via Apple Music Add-On</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-guide-capturing-screenshots-and-recording-your-screen-in-windows-11-using-the-built-in-snip-and-sketch-app/"><u>Complete Guide: Capturing Screenshots and Recording Your Screen in Windows 11 Using the Built-In Snip & Sketch App</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dells-guide-to-restoring-usb-port-functionality-solved/"><u>Dell's Guide to Restoring USB Port Functionality - Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-identified-potential-flaw-in-windows-11s-update-mechanism-a-comprehensive-guide/"><u>Fixing the Identified Potential Flaw in Windows 11'S Update Mechanism - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-back-online-expert-advice-on-handling-internet-disconnection-errors-efficiently/"><u>Getting Back Online: Expert Advice on Handling Internet Disconnection Errors Efficiently</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-solutions-to-prevent-samurai-warriors-aturiaris-5-from-collapsing-on-windowsmac/"><u>Mastering Stability: Solutions to Prevent Samurai Warriors Aturiari's 5 From Collapsing on Windows/Mac</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/miracast-troubles-start-here-correcting-graphics-driver-incompatibilities/"><u>Miracast Troubles? Start Here: Correcting Graphics Driver Incompatibilities</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209799322-non-specific-symptoms-like-cough-and-weight-loss-are-common-in-lung-cancer-but-not-diagnostic-on-their-own/"><u>Non-Specific Symptoms Like Cough and Weight Loss Are Common in Lung Cancer but Not Diagnostic on Their Own</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-when-your-screen-ignores-touch-and-stylus-commands-tips-and-tricks/"><u>Troubleshoot When Your Screen Ignores Touch and Stylus Commands: Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-fix-cannot-reach-dhcp-server-issues/"><u>Troubleshooting Guide: How to Fix 'Cannot Reach DHCP Server' Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-steam-download-failures-during-updates/"><u>Troubleshooting Guide: Resolving Steam Download Failures During Updates</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/tune-into-tomorrow-fbs-free-downloads-for-2024/"><u>Tune Into Tomorrow FB's Free Downloads for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secrets-of-pc-gear-tips-from-toms-hardware/"><u>Unlocking the Secrets of PC Gear - Tips From Tom's Hardware</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Windows 11 No Speakers Error? Here's How You Can Fix It!
-date: 2025-01-06T17:18:47.057Z
-updated: 2025-01-13T16:29:46.931Z
+date: 2025-01-18T17:59:17.019Z
+updated: 2025-01-19T17:54:19.152Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Method 1: Automatically update your audio device drivers**
 
  Your sound problem is probably being caused by driver issues. If you don’t have the time, patience, or computer skills to update the drivers manually,  you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -50,15 +46,15 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/no-audio-output-device-update-driver-automatically1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged audio driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/no-audio-output-device-update-driver-automatically2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##
 
@@ -69,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
  1) On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Then type**devmgmt.msc** and hit Enter to open the Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Device-Manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Find**Sound, video, and game controllers** , then double-click on it to expand the list. Right-click on your audio device and select**Uninstall device** .
 
@@ -88,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Sound-video-and-game-controllers.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you don’t see this category in your list, continue with step 2a) below. Otherwise, skip to[step 3](#step3) .
 
  2a) Click the **Action** menu and select **Add Legacy hardware** (if you see only the Help in this menu, click somewhere in the white space around the list (i.e. make sure nothing in the tree is selected), then click the Action menu again)
@@ -99,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Add-legacy-hardware.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2b) Click **Next**  to start the Add Hardware wizard. (If the Add Hardware wizard doesn’t display at all, you can try [Method 3](https://tools.techidaily.com/drivereasy/download/) .)
@@ -119,7 +115,7 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Add-Legacy-hardware-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2f) Select the manufacturer and model of your sound card, then click **Next** .
@@ -136,12 +132,16 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Device-Manager-Disable-device.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once again, right-click your audio device and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2015/08/win11-Device-Manager-Enable-device.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After making the changes, restart your device and check if the error still occurs.
@@ -163,18 +163,22 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-craft-memorable-content-explore-youtubes-top-10-creative-responses/"><u>[New] 2024 Approved Craft Memorable Content Explore YouTube's Top 10 Creative Responses</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-football-inscriptions-premier-fifa-youtube-insights/"><u>[Updated] 2024 Approved Football Inscriptions Premier FIFA YouTube Insights</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-download-facebook-links-for-free-online/"><u>2024 Approved Download Facebook Links for FREE Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/defeat-the-windows-10-update-hurdle-expert-fixes-for-error-code-0x800f0922/"><u>Defeat the Windows 10 Update Hurdle: Expert Fixes for Error Code 0X800f0922</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-14-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone 14 Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-offer-alert-metas-512gb-quest-3-the-ultimate-bargain-on-vr-gear-today/"><u>Exclusive Offer Alert: Meta's 512GB Quest 3 - The Ultimate Bargain on VR Gear Today!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-livekernelevent-code-144-issue-efficiently/"><u>How to Resolve LiveKernelEvent Code 144 Issue Efficiently</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723203255101-kb4056892-windows-10-update-wont-install-solved/"><u>KB4056892 Windows 10 Update Won't Install [SOLVED]</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/optimize-with-cookiebot-advanced-tracking-solutions-for-websites/"><u>Optimize with Cookiebot: Advanced Tracking Solutions for Websites</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ome-vanished-youtube-minute-media/"><u>Overcome Vanished YouTube Minute Media</u></a></li>
-<li><a href="https://games-able.techidaily.com/preventing-steam-from-starting-at-boot/"><u>Preventing Steam From Starting at Boot</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-error-with-writing-to-addressed-memory-location-how-to-fix/"><u>Resolved: Error with Writing to Addressed Memory Location - How to Fix?</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-tecno-camon-20-pro-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Tecno Camon 20 Pro 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-tech-review-dji-phantom-3-professional-drone/"><u>[New] The Ultimate Tech Review DJI Phantom 3 Professional Drone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unmatched-youtube-success-10-unique-tips-for-your-shorts/"><u>[Updated] In 2024, Unmatched YouTube Success 10 Unique Tips for Your Shorts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-navigating-to-youtubes-video-editor-interface-for-2024/"><u>[Updated] Navigating to YouTube's Video Editor Interface for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-sounds-of-laughter-top-ringtones-downloaders/"><u>2024 Approved Sounds of Laughter Top Ringtones Downloaders</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/baffled-by-sticky-keys-successfully-reinitialize-any-keyboard-in-no-time/"><u>Baffled by Sticky Keys? Successfully Reinitialize Any Keyboard in No Time</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-device-migration-issues-on-windows-10-a-step-by-step-guide/"><u>Bypassing Device Migration Issues on Windows 10 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/el-name-genius-brainstorming-like-a-pro/"><u>Channel Name Genius Brainstorming Like a Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-safari-page-loading-problems-simple-steps-for-success/"><u>Fixing Safari Page Loading Problems - Simple Steps for Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209101959-how-to-restore-the-missing-d3dx939dll-file-and-fix-related-issues-quickly/"><u>How To Restore The Missing D3DX9_39.dll File & Fix Related Issues Quickly!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205290979-lost-in-no-sense-fix-your-sd-card/"><u>Lost in No-Sense: Fix Your SD Card!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/official-driver-installers-for-logitech-speakers-on-windows-pcs-windows-1078/"><u>Official Driver Installers for Logitech Speakers on Windows PCs (Windows 10/7/8)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-speeding-up-your-league-of-legends-installation/"><u>Quick Guide: Speeding Up Your League of Legends Installation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-laptops-experiencing-constant-whiteblack-screens/"><u>Step-by-Step Solutions for Laptops Experiencing Constant White/Black Screens</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-5-complimentary-online-platforms-for-live-sports/"><u>Top 5 Complimentary Online Platforms for Live Sports</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/transform-your-content-3-effective-techniques-for-youtube-reaction-magic-for-2024/"><u>Transform Your Content 3 Effective Techniques for YouTube Reaction Magic for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unveiling-cookiebots-role-in-crafting-a-tailored-web-journey/"><u>Unveiling Cookiebot's Role in Crafting a Tailored Web Journey</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208583632-winning-against-the-incorrect-side-by-side-config-error-on-windows-11-solutions-within/"><u>Winning Against the 'Incorrect Side by Side Config' Error on Windows 11 - Solutions Within</u></a></li>
 </ul></div>
 

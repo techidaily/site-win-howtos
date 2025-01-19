@@ -1,7 +1,7 @@
 ---
 title: PrintScreen Problems Solved? A Guide to Restoring Snipping Features on Modern Windows OS
-date: 2025-01-12T16:02:51.347Z
-updated: 2025-01-13T17:12:29.470Z
+date: 2025-01-17T17:01:28.211Z
+updated: 2025-01-19T17:12:21.328Z
 tags:
   - win11
   - win10
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/10/Windows-10-Update-and-Security.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Troubleshoot > Additional troubleshooters** .
 
 **3)** Find**Windows Update** and click**Run the troubleshooter** .
@@ -70,17 +74,21 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters-1200x699.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click on the**Run** button next to**Windows Update** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Troubleshooter-Windows-Update-1200x616.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Follow the on-screen instructions to complete the troubleshooting process.
 
 **6)** Run your Windows Update again and see if your error is fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Check for malicious software
 
@@ -106,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3214c6b1e.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Double click**Cryptographic Services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2d8b6d4e7.jpg)
@@ -118,26 +122,26 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2f73c5553.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **7)** Double click**Windows Update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb327c20a47.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb361957d5c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **7)** Close the Services snap-in and restart your computer. Then check to see if this resolves your problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: Clear the SoftwareDistribution folder
@@ -154,27 +158,19 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3bc020986.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Open_File Explorer_ (press the**Windows logo** key and**E** on your keyboard at the same time), then go to **C:\\Windows\\SoftwareDistribution** and**delete** all the files and folders there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3da65b40b.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)**  Restore the_Services_ snap-in. Then click**Windows Update** and click**Start** (the service).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3f4e427ba.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** Restart your computer. Then run Windows Update see if this helps you get rid of the Windows Update service not running error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 5: Update your device drivers
 
@@ -192,12 +188,16 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac9e7d372aa0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the **Update**  button next to your each of your devices to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac9f8a62a090.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Restart your computer. Then run you Windows Update to see if this resolves your problem.
@@ -219,22 +219,24 @@ thumbnail: https://thmb.techidaily.com/7755f47ea4abf535e00efdcdac544415bc3009815
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-pinnacle-workshop-25-critique/"><u>[New] Pinnacle Workshop 25 Critique</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-innovative-methods-to-archive-lol-dueling/"><u>2024 Approved Innovative Methods to Archive LOL Dueling</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-the-pitfalls-of-mysterious-obs-studio-recordings/"><u>Avoiding the Pitfalls of Mysterious OBS Studio Recordings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-frozen-digital-devices-a-comprehamoedium/"><u>Diagnosing and Repairing Frozen Digital Devices – A Comprehamoedium</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-no-more-tackling-and-correcting-twitchs-error-4000-challenge/"><u>Error No More: Tackling and Correcting Twitch's Error 4000 Challenge</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-a-non-responsive-corsair-keyboard-troubleshooting-steps-and-solutions/"><u>Fixing a Non-Responsive Corsair Keyboard: Troubleshooting Steps and Solutions</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/flawless-soundscapes-in-the-world-of-social-media-videos/"><u>Flawless Soundscapes in the World of Social Media Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-functionality-of-broken-number-pad-buttons-on-keyboards/"><u>How to Restore Functionality of Broken Number Pad Buttons on Keyboards</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-motorola-moto-g04-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Motorola Moto G04?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-laughter-lab-virtually/"><u>In 2024, Laughter Lab Virtually</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovative-techniques-for-iphone-sideways-shots-for-2024/"><u>Innovative Techniques for iPhone Sideways Shots for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-how-to-unfreeze-your-pc-during-windows-setup/"><u>Resolving the Issue: How to Unfreeze Your PC During Windows Setup</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-msmpengexe-high-cpu-usage-issue-in-windows-11-expert-fixes/"><u>Solving the MsMpEng.exe High CPU Usage Issue in Windows 11 - Expert Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fixing-a-non-responsive-drive-on-windows-10-devices/"><u>Step-by-Step Guide to Fixing a Non-Responsive Drive on Windows 10 Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-role-of-winservicesexe-in-windows-systems/"><u>The Role of Winservices.exe in Windows Systems</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-zoom-sound-tweaks-boosting-clarity-and-fidelity-for-2024/"><u>Top Zoom Sound Tweaks Boosting Clarity and Fidelity for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-update-failure-overcoming-v1607-installation-problems/"><u>Windows 11 Update Failure: Overcoming v1607 Installation Problems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unlocking-classroom-potential-with-simple-methods-to-record-mac-lectures/"><u>[New] Unlocking Classroom Potential with Simple Methods to Record Mac Lectures</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-how-to-clear-your-default-podcast-listings-on-spotify-for-2024/"><u>[Updated] How to Clear Your Default Podcast Listings on Spotify for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fifa-highlights-and-trends-charting-on-youtube/"><u>[Updated] In 2024, FIFA Highlights & Trends Charting on YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-blueprint-for-brilliant-broadcasts-dos-and-donts-unveiled/"><u>[Updated] In 2024, The Blueprint for Brilliant Broadcasts Do's & Don'ts Unveiled</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-combination-discover-5-advanced-webcams-for-clear-sound-for-2024/"><u>[Updated] Ultimate Combination Discover 5 Advanced Webcams for Clear Sound for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-closer-look-at-immersive-virtual-reality-tech/"><u>A Closer Look at Immersive Virtual Reality Tech</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-non-functional-gadget-alert-in-windows-11/"><u>Addressing Non-Functional Gadget Alert in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207468610-arctis-5-gaming-headset-mic-not-working-heres-how-to-fix-it/"><u>Arctis 5 Gaming Headset Mic Not Working? Here's How to Fix It!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211855603-easy-steps-to-resolve-your-cs-go-game-crashes-fast/"><u>Easy Steps to Resolve Your CS: GO Game Crashes Fast!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-digital-file-to-physical-disc-mastering-the-art-of-dvd-burning-for-downloaded-series-and-films/"><u>From Digital File to Physical Disc: Mastering the Art of DVD Burning for Downloaded Series and Films</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/how-to-quietly-dismiss-youtube-video-teasers/"><u>How to Quietly Dismiss YouTube Video Teasers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-cwindowssystem32configsystemprofiledesktop-unavailable-problems/"><u>How to Resolve C: Windows system32 config systemprofile Desktop Unavailable Problems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-tecno-spark-20-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Tecno Spark 20 Pro Phone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-and-fixing-opengl-errors-for-a-smooth-minecraft-experience/"><u>Navigating and Fixing OpenGL Errors for a Smooth Minecraft Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-system-performance-how-to-tackle-high-cpu-utilization-by-svchostexe-in-windows-11/"><u>Optimizing System Performance: How to Tackle High CPU Utilization by svchost.exe in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-steam-api-file-discrepancy/"><u>Resolving Steam API File Discrepancy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-instructions-to-restore-network-connection-via-ethernet-in-windows-11-and-7-systems/"><u>Step-by-Step Instructions to Restore Network Connection via Ethernet in Windows 11 and 7 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-solution-for-windows-update-issue-decode-and-solve-error-0x80070n1f/"><u>Ultimate Solution for Windows Update Issue - Decode and Solve Error 0X80070n1f</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210417752-usb-to-hdmi-connection-issues-heres-how-you-can-resolve-them/"><u>USB to HDMI Connection Issues? Here's How You Can Resolve Them!</u></a></li>
 </ul></div>
 

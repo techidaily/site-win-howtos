@@ -1,7 +1,7 @@
 ---
 title: "Resolving the 'Error 5' Message in Windows 11: A Comprehensive Guide"
-date: 2024-08-28T00:30:51.625Z
-updated: 2024-08-29T00:30:51.625Z
+date: 2025-01-13T16:17:17.443Z
+updated: 2025-01-19T19:59:29.030Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/0e76410444c7c01d9e8ad4e31c08df5ce8b625bff
 ## Overcoming the 'Kernel Power' Hurdle: Addressing Windows Error Code 0xC00pressure to Ensure a Healthy Environment
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/Snap3.png)If you see the**error code 0xc00000e9**in your computer, don’t panic. This is one of the common errors in Windows 10, 8 and 7\. The good news is, there are solutions you can try to**fix the error 0xc00000e9**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How can I fix the error code 0xc00000e9?
 
@@ -33,21 +37,19 @@ Here are the solutions for you to try. You don’t need to try them all; just wo
 
 The error code 0xc00000e9 is generally a hardware error pretaining to your**BIOS settings**. If you are seeing this error, generally it’s because your computer can’t communicate with the hard drive. Another cause is the**SSD (Solid-state drive) issue**when installing Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Solution 1: Check your hardware compatibility**
 
 If you have some**external devices**connected to your PC, such as the**external hard drive**or a**USB flash drive**,**disconnect**them all (leave your mouse and keyboard connected), then**restart**your computer. **If the error stops, plug your external devices back, only one at a time, then restart your PC**. If you get the error again after connecting certain device, you can identify the issue now. You can either replace this device completely from your PC, or update its driver as instructed in[solution 3](https://tools.techidaily.com/drivereasy/download/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Solution 2: Change your BIOS settings**
 
 You can try to boot your computer with the hard drive to fix 0xc00000e9\. Follow the steps below: 1) Shut down your computer, then press the**Power button**to boot your computer. 2) Press and hold the button to enter the**BIOS setting**, generally the**ESC**,**F2**,**F12**or**Delete**key (please consult your PC manufacturer or go through your user manual).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab22ed990cd9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Once you’re in the**BIOS Setup Utility**screen, go to**Boot options**.
 
@@ -58,18 +60,11 @@ You can try to boot your computer with the hard drive to fix 0xc00000e9\. Follow
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab23153b0892.png)
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5)**Save**your changes, and reboot your computer. This should fix your problem.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Solution 3: Update your drivers**
 
 The driver problem can also cause the error 0xc00000e9, because the hardware can’t communicate with the software if there’s something wrong with drivers. You should **verify that all your devices have the right and latest drivers and update those that don’t**.
@@ -79,8 +74,9 @@ The driver problem can also cause the error 0xc00000e9, because the hardware can
 **Manual driver update**– You can update your drivers manually by going to the**manufacturer’s website**and searching for the**most recent correct driver**. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .**Automatic driver update**– Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the**FREE**or the**Pro**version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a**30-day money back guarantee**): 1) **[Download](https://tools.techidaily.com/drivereasy/download/)** and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aaf6cdfc84d7.png)3) Click the**Update**button next to all flagged devices to automatically download and install the correct version of their driver (you can do this with the**FREE**version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All**).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab232d7385cf.jpg)
 
 4) Restart your computer and see if the error 0xc00000e9 disappears.
@@ -91,11 +87,12 @@ The error 0xc00000e9 can be caused by the disk problem. You should make sure tha
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab234158a472.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Type**chkdsk /f /r**, then press**Enter**on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2ce110f69.png)4） Press**Y**on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2cf3b0dde.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 **Note** : Disk check will start the next time you boot your PC and it might take some time to complete. If you don’t have time to wait for the disk check to complete when restarting your computer, you can skip it or schedule it again.
 
 ## **Solution 5: Fix the MBR with Windows PE**
@@ -115,8 +112,6 @@ The error 0xc00000e9 can occur when you install Windows without setting the Mast
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +119,22 @@ The error 0xc00000e9 can occur when you install Windows without setting the Mast
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/nhance-yt-experience-the-most-outstanding-reaction-ideas/"><u>[New] Enhance YT Experience The Most Outstanding Reaction Ideas</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-childhood-chuckles-hilarious-kid-friendly-games/"><u>[New] In 2024, Childhood Chuckles Hilarious Kid-Friendly Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-reinstating-legacy-windows-photo-viewer-feature-for-w10-for-2024/"><u>[New] Reinstating Legacy Windows Photo Viewer Feature for W10 for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-the-barrier-of-error-0x8024200d-expert-tips-for-a-smooth-windows-update-process-fixed/"><u>Bypassing the Barrier of Error 0X8024200D - Expert Tips for a Smooth Windows Update Process [FIXED]</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-moto-g-stylus-2023-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Moto G Stylus (2023).</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquering-the-0x800705b4-error-effective-strategies-for-smooth-updates-on-your-windows-10-pc/"><u>Conquering the 0X800705b4 Error: Effective Strategies for Smooth Updates on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207991531-fix-implemented-for-print-driver-host-stopped-working-on-32-bit-systems-seamless-printing-restored/"><u>Fix Implemented for 'Print Driver Host Stopped Working' On 32-Bit Systems – Seamless Printing Restored!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-enable-detection-and-access-for-unresponsive-wd-my-passport-ultra-in-windows-systems/"><u>How to Enable Detection and Access for Unresponsive WD My Passport Ultra in Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-handle-organizational-management-of-windows-configuration-settings/"><u>How to Handle Organizational Management of Windows Configuration Settings</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-top-10plus-free-video-rotators-to-rotate-or-flip-videos/"><u>New In 2024, Top 10+ Free Video Rotators to Rotate or Flip Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-writing-issue-with-addressed-0xmemory-location/"><u>Resolved: Writing Issue with Addressed 0xMemory Location</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-apple-iphone-12-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass Apple iPhone 12 Activation Lock</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-choice-video-capture-apps-iphone-for-2024/"><u>Top Choice Video Capture Apps iPhone for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-the-remote-procedure-call-service-not-available-issue-in-windows/"><u>Troubleshooting Guide: Resolving the 'Remote Procedure Call Service Not Available' Issue in Windows</u></a></li>
+</ul></div>
 

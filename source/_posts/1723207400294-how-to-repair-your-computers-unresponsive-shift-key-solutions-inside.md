@@ -1,7 +1,7 @@
 ---
 title: How to Repair Your Computer's Unresponsive Shift Key - Solutions Inside
-date: 2025-01-10T17:32:38.894Z
-updated: 2025-01-13T17:27:21.580Z
+date: 2025-01-18T17:44:19.957Z
+updated: 2025-01-19T16:18:05.792Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How do I fix Shift key not working?
@@ -65,9 +65,17 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
 
@@ -80,21 +88,17 @@ Follow these:
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
@@ -119,10 +123,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Restart your computer and try to press the Shift key to see if it works.
 
 * [keyboard](https://bellelily.pxf.io/m5azgm)
@@ -142,20 +142,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-discover-top-15-youtube-sources-for-sci-education/"><u>[New] 2024 Approved Discover Top 15 YouTube Sources for Sci-Education</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snapchats-artistry-a-compreayer-of-the-ultimate-boomerang-method/"><u>[New] 2024 Approved Snapchat's Artistry A Compreayer of the Ultimate Boomerang Method</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-new-buzzwords-for-vlogger-dialogues/"><u>[Updated] New Buzzwords for Vlogger Dialogues</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-visual-vault-saving-windows-imagery-for-2024/"><u>[Updated] Visual Vault Saving Windows Imagery for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/addressing-the-critical-error-the-semaphore-timeout-deadline-exceeded-code-0x80070079/"><u>Addressing the Critical Error: The Semaphore Timeout Deadline Exceeded - Code 0X80070079</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-iphone-15-pro-vs-iphone-13-pro-showdown-is-it-time-for-an-upgrade-techadvisor/"><u>Apple iPhone 15 Pro Vs. IPhone 13 Pro Showdown: Is It Time for an Upgrade? | TechAdvisor</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-overcoming-tiktok-errors-and-enjoying-uninterrupted-videos/"><u>Expert Tips for Overcoming TikTok Errors & Enjoying Uninterrupted Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-sticky-keyboard-issues-on-your-hp-laptop-simple-solutions/"><u>Fixing Sticky Keyboard Issues on Your HP Laptop - Simple Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-correcting-usb-connectivity-issues-dealing-with-unknown-devices-and-port-reset-failures-on-windows-11/"><u>Guide: Correcting USB Connectivity Issues - Dealing with Unknown Devices and Port Reset Failures on Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-the-problem-of-non-starting-hosted-networks-on-windows-10-devices/"><u>How to Overcome the Problem of Non-Starting Hosted Networks on Windows 10 Devices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-zte-nubia-z60-ultra-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For ZTE Nubia Z60 Ultra Phones</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-correcting-livekernelevent-error-code-117/"><u>Step-by-Step Solution: Correcting LiveKernelEvent Error Code 117</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-x90s-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo X90S</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-amplifi-hd-say-goodbye-to-unreliable-wi-fi-with-superior-mesh-networking/"><u>The Ultimate Guide to Amplifi HD: Say Goodbye to Unreliable Wi-Fi with Superior Mesh Networking</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-reactivating-the-stalled-windows-update-service/"><u>Troubleshooting: Reactivating the Stalled Windows Update Service</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-crafting-flawless-transcriptions-googles-speech-magic/"><u>[New] 2024 Approved Crafting Flawless Transcriptions Google’s Speech Magic</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/lear-cinematic-vision-top-camera-stabilizers-reviewed/"><u>[New] Clear Cinematic Vision - Top Camera Stabilizers Reviewed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-filmmakers-blueprint-making-youtube-splitscreen-magic/"><u>[New] The Filmmaker's Blueprint Making YouTube Splitscreen Magic</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-starting-off-with-vlogging-necessary-equipmentsoftware-for-2024/"><u>[Updated] Starting Off with Vlogging Necessary Equipment/Software for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-art-of-preservation-innovative-techniques-to-capture-the-magic-of-living-with-sims/"><u>[Updated] The Art of Preservation Innovative Techniques to Capture the Magic of Living with Sims</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-13-pro-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 13 Pro Max After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-fix-for-non-responsive-volume-control-on-your-windows-11-pc-guide/"><u>DIY Fix for Non-Responsive Volume Control on Your Windows 11 PC [GUIDE]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-for-rapid-windows-10-refresh-get-started-today/"><u>Easy Steps for Rapid Windows 10 Refresh - Get Started Today</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-htc-u23-pro-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove HTC U23 Pro PIN</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-phantom-v-flip-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Tecno Phantom V Flip to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/should-you-preserve-msdia80dll-in-windows-find-out-why/"><u>Should You Preserve msdia80.dll in Windows? Find Out Why</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723203263250-successfully-running-swf-files-in-google-chrome-shockwave-flash-fixed/"><u>Successfully Running SWF Files in Google Chrome – Shockwave Flash Fixed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-update-error-0x800f0923-solutions-for-windows-11-users/"><u>Troubleshooting Update Error 0X800F0923: Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/warframe-update-issues-heres-how-you-can-overcome-them-successfully/"><u>Warframe Update Issues? Here's How You Can Overcome Them Successfully</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-to-do-when-you-cant-access-your-tiktok-account/"><u>What to Do When You Can't Access Your TikTok Account</u></a></li>
 </ul></div>
 

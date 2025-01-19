@@ -1,7 +1,7 @@
 ---
 title: Fixing Sign-In Issues Caused by User Profile Services on Windows 10 and 11 Systems
-date: 2025-01-06T17:05:30.001Z
-updated: 2025-01-13T17:25:45.593Z
+date: 2025-01-13T19:37:12.487Z
+updated: 2025-01-19T19:15:56.676Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/18d989e548104708bf52f53d39fea008181396412
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/18d989e548104708bf52f53d39fea008181396412
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-08-38.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this fix didn’t help, try the next fix.
@@ -73,12 +73,12 @@ If this fix didn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -92,10 +92,6 @@ If this fix didn’t help, try the next fix.
 
 If this fix didn’t help, try the next one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Restart the Windows Explorer process
 
  If the copy-paste bug occurs mostly when you’re sorting and moving your files, then the problem is likely caused by the Windows Explorer process. You can restart this process in Task Manager, here’s how:
@@ -105,10 +101,14 @@ If this fix didn’t help, try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-10-43.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If your problem persists, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Restart RDP Clipboard Monitor
 
@@ -119,7 +119,7 @@ If your problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-12-57.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tip: Update your device drivers
@@ -161,15 +161,24 @@ If your problem persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-rapid-strategies-for-securing-identity-in-image-editing/"><u>[New] 2024 Approved Rapid Strategies for Securing Identity in Image Editing</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-qzone-elites-brief-visits-to-snapchat/"><u>[Updated] Qzone Elites' Brief Visits to Snapchat</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-creators-uniting-for-marvels-digital-future/"><u>2024 Approved Creators Uniting for Marvel's Digital Future</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-hit-the-town-non-gta-games-that-offer-similar-joy/"><u>2024 Approved Hit the Town Non-GTA Games That Offer Similar Joy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficiently-disconnect-your-bluetooth-devices-from-pcs-running-windows-11-or-10/"><u>Efficiently Disconnect Your Bluetooth Devices From PCs Running Windows 11 or 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/forza-horizon-znd-vocal-issues-resolved-sound-back-with-these-fixes/"><u>Forza Horizon ˈznd Vocal Issues Resolved – Sound Back with These Fixes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-sc2-device-unavailable-issue-now-fixed/"><u>Resolved: SC2 Device Unavailable Issue Now Fixed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-definitive-guide-to-fixing-bluetooth-pairing-issues-on-windows-10-for-a-seamless-experience/"><u>The Definitive Guide to Fixing Bluetooth Pairing Issues on Windows 10 for a Seamless Experience</u></a></li>
-<li><a href="https://win-dash.techidaily.com/toshiba-bluetooth-drivers-download-guide-and-free-compatible-updates/"><u>Toshiba Bluetooth Drivers: Download Guide & Free Compatible Updates</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-win10s-critical-error-code-0x80n0705b4-in-system-updates/"><u>Troubleshooting and Solving Win10's Critical Error Code 0X80n0705b4 in System Updates</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamlessly-bring-back-windows-photo-viewer-in-win-11-systems/"><u>[New] Seamlessly Bring Back Windows Photo Viewer in Win 11 Systems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-elevate-your-video-storytelling-with-effective-markers-for-2024/"><u>[Updated] Elevate Your Video Storytelling with Effective Markers for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/addressing-chatgpt-censorship-errors-a-user-friendly-approach-to-fix-them/"><u>Addressing ChatGPT Censorship Errors: A User-Friendly Approach to Fix Them</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oppo-find-n3-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Oppo Find N3 is off? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-on-integrating-nintendo-switch-game-system-with-television-display-for-enhanced-gaming-fun/"><u>Comprehensive Guide on Integrating Nintendo Switch Game System With Television Display for Enhanced Gaming Fun</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-repairing-non-detectable-bluetooth-hardware-on-your-windows-10-computer/"><u>Expert Advice: Repairing Non-Detectable Bluetooth Hardware on Your Windows 10 Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-freezing-window-11-system-a-step-by-step-guide/"><u>How to Fix a Freezing Window 11 System: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-audio-output-device-not-installed-error-on-your-windows-11-computer/"><u>How to Solve 'Audio Output Device Not Installed' Error on Your Windows 11 Computer</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-vive-cosmos-standing-strong-in-a-crowded-vr-market/"><u>In-Depth Analysis of the Vive Cosmos - Standing Strong in a Crowded VR Market</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-non-genuine-adobe-app-warning/"><u>Prevent Non-Genuine Adobe App Warning</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubg-update-how-to-fix-crashes-causing-building-assets-not-to-load-resolved/"><u>PUBG Update: How To Fix Crashes Causing Building Assets Not To Load [RESOLVED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-intermittent-wireless-mouse-issues-in-windows-10-and-11-expert-solutions-unveiled/"><u>Resolving Intermittent Wireless Mouse Issues in Windows 10 and 11: Expert Solutions Unveiled</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-lenovo-keyboard-effective-solutions-for-common-input-problems/"><u>Reviving Your Lenovo Keyboard: Effective Solutions for Common Input Problems</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-10-reliable-and-user-friendly-image-editors-for-transparency-web-and-apps/"><u>Top 10 Reliable and User-Friendly Image Editors for Transparency (Web & Apps)</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-poco-x5-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-windows-10-bluetooth-connection-problems-instantly/"><u>Troubleshoot Windows 10 Bluetooth Connection Problems Instantly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-audio-dropouts-in-logitech-g930-headphones/"><u>Troubleshooting Guide: Fixing Audio Dropouts in Logitech G930 Headphones</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlock-the-full-potential-of-your-reels-with-these-6-essentials-for-2024/"><u>Unlock the Full Potential of Your Reels with These 6 Essentials for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-v1607-installer-glitches-preventing-successful-updates/"><u>Windows 10 (v1607) Installer Glitches Preventing Successful Updates</u></a></li>
 </ul></div>
 

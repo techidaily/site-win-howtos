@@ -1,7 +1,7 @@
 ---
 title: Unstuck From a White Screen on Your Laptop? Here Are the Ultimate Repair Tips
-date: 2025-01-12T16:04:52.823Z
-updated: 2025-01-13T16:16:48.517Z
+date: 2025-01-16T18:42:07.157Z
+updated: 2025-01-19T19:19:22.938Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Make sure your power icon is turned on
@@ -37,14 +37,14 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-1.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2）Click**Turn system icons on or off**.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-6.png)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Make sure **Power** is on.  
   
@@ -56,18 +56,14 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6-4.png)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Make sure**Power**icon is enabled.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/4-1.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
 
@@ -89,14 +85,14 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/8.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/9.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
 
@@ -107,6 +103,10 @@ Follow these:
  You can update your drivers automatically with either the **[Free](https://tools.techidaily.com/drivereasy/download/)**  or the[**Pro**](https://tools.techidaily.com/drivereasy/download/) version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
@@ -125,16 +125,22 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-core-principles-in-internet-story-development/"><u>[Updated] Core Principles in Internet Story Development</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-making-waves-in-the-gaming-community-on-youtube-for-2024/"><u>[Updated] Making Waves in the Gaming Community on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-role-of-creative-commons-in-youtube-content-sharing/"><u>[Updated] The Role of Creative Commons in YouTube Content Sharing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oneplus-nord-n30-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset OnePlus Nord N30 5G Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-address-the-inability-of-your-computer-to-allocate-necessary-resources-effectively/"><u>How to Address the Inability of Your Computer to Allocate Necessary Resources Effectively</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-leading-list-the-10-cost-effective-mobile-video-conferencing/"><u>In 2024, Leading List The 10 Cost-Effective Mobile Video Conferencing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-backlight-problems-heres-how-to-get-it-shining-bright-on-both-mac-and-windows-devices/"><u>Keyboard Backlight Problems? Here's How to Get It Shining Bright on Both Mac and Windows Devices</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/quick-guide-to-enhanced-video-capturing-in-vlc/"><u>Quick Guide to Enhanced Video Capturing in VLC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-excessive-cpu-consumption-by-msmpengexe-in-windows-10/"><u>Resolving Excessive CPU Consumption by MsMpEng.exe in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-steps-to-fix-no-battery-problem-in-your-gadget-resolved/"><u>Simple Steps to Fix 'No Battery' Problem in Your Gadget - Resolved</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/strategies-to-address-inaccessible-epson-scanner/"><u>Strategies to Address Inaccessible Epson Scanner</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-mastering-igtv-creation-insider-techniques-for-maximum-impact/"><u>[New] In 2024, Mastering IGTV Creation Insider Techniques for Maximum Impact</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-transform-tweets-into-files-iphoneandroid-instructional-guide/"><u>[New] Transform Tweets Into Files IPhone/Android Instructional Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-building-a-competitive-advantage-through-in-depth-industry-analysis/"><u>[Updated] Building a Competitive Advantage Through In-Depth Industry Analysis</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-from-video-to-music-youtube-to-mp3-on-macos-for-2024/"><u>[Updated] From Video to Music YouTube to MP3 on MacOS for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-transforming-shipping-surprises-into-experiences/"><u>[Updated] In 2024, Transforming Shipping Surprises Into Experiences</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/custom-view-mastery-how-to-lock-in-and-retrieve-your-favorite-excel-spreadsheet-configurations/"><u>Custom View Mastery: How to Lock In and Retrieve Your Favorite Excel Spreadsheet Configurations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/excel-2013-guide-tweaking-auto-summation-and-multithreading-capabilities-for-maximum-efficiency/"><u>Excel 2013 Guide: Tweaking Auto-Summation and Multithreading Capabilities for Maximum Efficiency</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/identifying-your-microsoft-office-edition-and-determining-bit-depth/"><u>Identifying Your Microsoft Office Edition & Determining Bit Depth</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-to-create-the-best-video-editors-for-any-project/"><u>In 2024, Free to Create The Best Video Editors for Any Project</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-date-formatting-the-ultimate-guide-to-inserting-periods-in-excel/"><u>Mastering Date Formatting: The Ultimate Guide to Inserting Periods in Excel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/perfect-your-spreadsheets-a-step-by-step-tutorial-on-period-placement-for-dates-in-excel/"><u>Perfect Your Spreadsheets: A Step-by-Step Tutorial on Period Placement for Dates in Excel</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/premium-selection-excellent-webcam-platforms-for-2024/"><u>Premium Selection Excellent Webcam Platforms for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-activating-autocomplete-feature-using-slashes-in-excel-spreadsheets/"><u>Step-by-Step Tutorial for Activating Autocomplete Feature Using Slashes in Excel Spreadsheets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-6-essentials-to-add-to-your-quick-access-toolbar-in-microsoft-excel-for-faster-workflows/"><u>Top 6 Essentials to Add to Your Quick Access Toolbar in Microsoft Excel for Faster Workflows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-solutions-how-to-get-your-iphoneipad-connected-to-wi-fi/"><u>Top 8 Solutions: How to Get Your iPhone/iPad Connected to Wi-Fi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-applying-dollar-sign-notation-in-excel-worksheets/"><u>Understanding and Applying Dollar Sign Notation in Excel Worksheets</u></a></li>
 </ul></div>
 

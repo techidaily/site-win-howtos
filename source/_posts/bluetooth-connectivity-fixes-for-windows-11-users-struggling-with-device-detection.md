@@ -1,7 +1,7 @@
 ---
 title: Bluetooth Connectivity Fixes for Windows 11 Users Struggling with Device Detection
-date: 2024-08-28T00:32:45.853Z
-updated: 2024-08-29T00:32:45.853Z
+date: 2025-01-13T20:22:48.353Z
+updated: 2025-01-19T18:30:43.774Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
  If there’s no problem with the HDMI port and the cable, you can try the two solutions below. Start with Solution 1, then try Solution 2 if it doesn’t solve the problem.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Solution 1: Check the display output settings**
 
  Incorrect display output settings could be preventing your TV from detecting your connected computer. Follow the steps below to check.
@@ -34,6 +38,10 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
  1) Right-click your desktop and click **Personalize** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f20f2242c5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**Display** .
 
@@ -50,11 +58,19 @@ If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f2b20b8e25.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If Duplicate doesn’t work, try switching to**Extend** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bc8338cfae9.png)
 
 After that, check to see if Windows can detect your TV.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solution 2: Update the graphics driver**
 
@@ -78,6 +94,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e9e0ebcfe9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Restart your computer and check to see if Windows 10 can now detect your TV.
 
 **TIP:** After connecting your TV via HDMI successfully, if you can’t hear sound from the output, go to [Fix HDMI No Sound in Windows 10](https://tools.techidaily.com/drivereasy/download/) for the solutions.
@@ -92,8 +112,6 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,8 +119,22 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-access-all-subtitles-top-10-free-tools-for-youtube-videos/"><u>[New] 2024 Approved Access All Subtitles Top 10 Free Tools for YouTube Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/trategic-income-from-online-gameplay/"><u>[New] Strategic Income From Online Gameplay</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-get-thousands-of-youtube-views-in-30-days/"><u>[Updated] 2024 Approved How To Get Thousands of YouTube Views in 30 Days</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decode-the-error-code-80240020-windows-11-installation-hurdles-and-how-to-overcome-them/"><u>Decode the Error Code 80240020: Windows 11 Installation Hurdles and How to Overcome Them</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/elevate-canon-imaging-unlimited-free-limited-pay-luts/"><u>Elevate Canon Imaging Unlimited Free, Limited-Pay LUTs</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/experience-lightning-fast-speeds-with-the-motorola-mg7-groove-phone-review/"><u>Experience Lightning Fast Speeds with the Motorola MG7 Groove Phone Review.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-service-is-not-running-error-in-diagnostic-services/"><u>Fixing the 'Service Is Not Running' Error in Diagnostic Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-long-wait-semaphore-failure-overcome-expired-timers-error-0x80070079/"><u>Fixing the Long-Wait Semaphore Failure, Overcome Expired Timers Error (0X80070079)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-quickly-fixing-windows-update-problem-error-0x80070652/"><u>Mastering the Art of Quickly Fixing Windows Update Problem – Error 0X80070652</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-sluggish-closure-in-windows-10-operating-system/"><u>Resolved: Fixing Sluggish Closure in Windows 10 Operating System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-common-minecraft-opengl-glitches-a-step-by-step-guide/"><u>Solving Common Minecraft OpenGL Glitches: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-high-performance-dvd-burners-featuring-built-in-hard-drives/"><u>Top 5 High-Performance DVD Burners Featuring Built-In Hard Drives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-your-creativity-and-knowledge-with-my-gpt-bots-on-board-game-strategies-and-digital-artistry/"><u>Unleash Your Creativity and Knowledge with My GPT Bots on Board Game Strategies and Digital Artistry</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-htc-u23-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your HTC U23 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-n7-screen-detection-fix-successfully-configuring-multiple-displays-problem-solved/"><u>Windows N7 Screen Detection Fix: Successfully Configuring Multiple Displays (PROBLEM SOLVED)</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->

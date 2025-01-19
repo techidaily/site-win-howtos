@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Issues with Your ASUS Keyboard Not Functioning Correctly
-date: 2025-01-07T16:55:50.789Z
-updated: 2025-01-13T16:30:35.124Z
+date: 2025-01-18T18:07:10.902Z
+updated: 2025-01-19T20:09:01.908Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 4. **[Use a different user profile](#f4)**
 5. **[Check hardware issues](#f5)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Turn off Mouse Keys
 
 #### On Windows 10
@@ -47,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ed1505fee.png)
 3. Click**Ease of Access** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2edebb4167.jpg)
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
 
@@ -54,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### On Windows 11
 
@@ -69,31 +65,27 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-mouse-keys.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Open Word or Notepad to test if the number keys on your keyboard can work now.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Enable the NumLock key
 
  Look on your keyboard for a key that says **NumLock** and make sure to enable the key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2eecb19e08.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the**NumLock** key is disabled, the number keys on the right side of your keyboard will not work.
 
  If the NumLock key is enabled and the number keys still don’t work, you can try pressing the NumLock key for about**5 seconds** , which did the trick for some users.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -112,11 +104,19 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ebe32f70f.jpg)
 3. Click the**Update** button next to your keyboard to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ec4831bd8.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Use a different user profile
 
@@ -153,16 +153,20 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-the-essentials-of-blurring-photo-borders/"><u>2024 Approved The Essentials of Blurring Photo Borders</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-videography-essentials-7-free-audio-choices/"><u>2024 Approved YouTube Videography Essentials - 7 Free Audio Choices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beating-error-0x800f081f-your-ultimate-guide-to-smooth-net-framework-35-implementation/"><u>Beating Error 0X800F081F - Your Ultimate Guide to Smooth .NET Framework 3.5 Implementation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/green-internet-alert-zdnet-reveals-most-polluting-urls-and-their-environmental-toll-ranked-from-worst-to-less-damaging/"><u>Green Internet Alert: ZDNet Reveals Most Polluting URLs and Their Environmental Toll, Ranked From Worst to Less Damaging</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-updating-or-repairing-wacom-pen-input-on-windows-11/"><u>Guide to Updating or Repairing Wacom Pen Input on Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v13-document-with-electronic-signature-tool-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.3 document with electronic signature tool</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-peekcapture-review-of-low-res-screen-grabs/"><u>In 2024, PeekCapture Review of Low-Res Screen Grabs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-torrent-download-obstacles-pro-tips-and-solutions/"><u>Overcoming Torrent Download Obstacles: Pro Tips and Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-troubleshooting-steps-to-stop-discord-from-crashing/"><u>Step-by-Step Troubleshooting Steps to Stop Discord From Crashing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-complete-guide-to-the-asus-vg245h-a-top-contender-for-gamers-screens/"><u>The Complete Guide to the Asus VG245H – A Top Contender for Gamers' Screens</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-non-responsive-laptop-mousepad-in-windows-operating-systems-solution/"><u>Troubleshooting a Non-Responsive Laptop Mousepad in Windows Operating Systems (SOLUTION)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-stand-out-in-the-crowd-top-15-innovative-snapchat-posts/"><u>[New] Stand Out in the Crowd Top 15 Innovative Snapchat Posts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-winter-olympics-2022-precision-snowriders-in-the-spotlight-for-2024/"><u>[Updated] Winter Olympics 2022 - Precision Snowriders in the Spotlight for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/automating-the-launch-of-specific-workbooks-at-excels-startup-a-step-by-step-guide/"><u>Automating the Launch of Specific Workbooks at Excel's Startup: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiency-in-action-optimize-your-windows-system-against-high-ums-use/"><u>Efficiency in Action: Optimize Your Windows System Against High UMS Use</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/keep-it-burning-ensuring-an-everlasting-snapchat-connection-for-2024/"><u>Keep It Burning Ensuring an Everlasting Snapchat Connection for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-art-of-protecting-your-spreadsheets-how-to-lock-and-unlock-cells-in-excel-easily/"><u>Master the Art of Protecting Your Spreadsheets - How to Lock and Unlock Cells in Excel Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-chart-layering-techniques-for-enhanced-data-visualization-in-excel/"><u>Mastering Chart Layering Techniques for Enhanced Data Visualization in Excel</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/new-microsoft-excel-feature-automatic-image-data-integration-coming-soon-to-windows-users/"><u>New Microsoft Excel Feature: Automatic Image Data Integration Coming Soon to Windows Users</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-omegle-explained-navigating-free-chat-engagements-with-a-lens-on-security-concerns-for-2024/"><u>New Omegle Explained Navigating Free Chat Engagements with a Lens on Security Concerns for 2024</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/sing-your-heart-out-on-karaoquest-premium-karaoke-experience-remote-requests-and-dj-tools-for-free/"><u>Sing Your Heart Out on KaraoQuest: Premium Karaoke Experience, Remote Requests & DJ Tools for Free!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/softening-effects-in-ableton-live-for-2024/"><u>Softening Effects in Ableton Live for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-eliminating-links-from-your-ms-excel-spreadsheet/"><u>Step-by-Step Guide: Eliminating Links From Your MS Excel Spreadsheet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-removing-an-excel-workbooks-locked-password/"><u>Step-by-Step Guide: Removing an Excel Workbook's Locked Password</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-tutorial-on-implementing-the-if-formula-successfully-in-excel-spreadsheets/"><u>Ultimate Tutorial on Implementing the IF Formula Successfully in Excel Spreadsheets</u></a></li>
 </ul></div>
 

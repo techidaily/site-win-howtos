@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Non-Responsive Backlight Buttons on Laptop Keyboards"
-date: 2025-01-08T16:06:43.530Z
-updated: 2025-01-13T16:53:27.915Z
+date: 2025-01-15T18:16:21.039Z
+updated: 2025-01-19T17:46:26.459Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Some keys stop working on your Toshiba laptop’s keyboard? That could be super 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -33,7 +33,7 @@ Some keys stop working on your Toshiba laptop’s keyboard? That could be super 
 3. **[Clean your keyboard with a compressed air duster](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Re-power your laptop
@@ -47,7 +47,7 @@ If somehow your Toshiba laptop keyboard gets stuck, the keys could stop working.
 Try to type using your laptop’s keyboard and check to see if those keys stop working before could work well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update your keyboard driver and HID driver
@@ -59,13 +59,13 @@ An old, corrupted or missing**keyboard driver**or**HID (Human interface device) 
 3. Click **Update**  next to the flagged keyboard or HID driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE** version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baef3772a4b2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After updating the drivers, try to type using your laptop’s keyboard and check to see if those keys stop working before could work well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Clean your keyboard with a compressed air duster
@@ -94,24 +94,18 @@ Hopefully this article helps. Feel free to comment below with your own experienc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-viewers-perspectives-on-instagram-stories-not-known/"><u>[New] 2024 Approved Viewers' Perspectives on Instagram Stories Not Known</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-elevate-tiktok-videography-with-zooming-expertise-for-2024/"><u>[New] Elevate TikTok Videography with Zooming Expertise for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/but-investors-are-still-buying-stocks-because-they-expect-strong-corporate-profits5-and-rising-economic-growtheconomic-growth6-over-the-next-six-months-to-d107/"><u>But Investors Are Still Buying Stocks because They Expect Strong Corporate Profits[^5] and Rising Economic Growth[economic Growth[^6]] over the Next Six Months to Drive Further Gains.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208722915-diagnosing-and-repairing-when-you-cant-watch-netflix-solutions-inside/"><u>Diagnosing & Repairing When You Can't Watch Netflix – Solutions Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diy-fixes-for-when-your-lenovo-laptop-camera-stops-working-expert-tips-included/"><u>DIY Fixes for When Your Lenovo Laptop Camera Stops Working - Expert Tips Included</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-reviews-on-the-netgear-nighthawk-x6-range-expander-unveiling-its-highlights-and-features/"><u>Expert Reviews on the Netgear Nighthawk X6 Range Expander – Unveiling Its Highlights and Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-driver-failed-mistake-adjust-your-user-configuration-correctly/"><u>Fixing 'Driver Failed' Mistake - Adjust Your User Configuration Correctly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-unexpected-shutdown-error-1067-on-your-windows-pc-now-solved/"><u>How to Overcome Unexpected Shutdown (Error 1067) on Your Windows PC - Now Solved</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-realme-narzo-60-pro-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Realme Narzo 60 Pro 5G Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-f23-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-kindred-android-companions-for-nintendoenasportable-gaming/"><u>In 2024, Kindred Android Companions for Nintendo'enasportable Gaming</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/iphone-16-now-features-advanced-image-recognition-technology-mirroring-google-lens-capabilities-insights-for-tech-enthusiasts-techspot/"><u>IPhone 16 Now Features Advanced Image Recognition Technology, Mirroring Google Lens Capabilities - Insights for Tech Enthusiasts | TechSpot</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-no-battery-registered-problem-swiftly-easy-methods-inside/"><u>Solve 'No Battery Registered' Problem Swiftly: Easy Methods Inside</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/steam-gifting-made-simple-a-step-by-step-tutorial-to-send-virtual-gifts-online/"><u>Steam Gifting Made Simple: A Step-by-Step Tutorial to Send Virtual Gifts Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/untangling-code-24-errors-correcting-device-not-present-messages-in-windows-1187-systems/"><u>Untangling Code 24 Errors: Correcting 'Device Not Present' Messages in Windows 11/8/7 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-arent-my-typed-characters-deleting-solving-the-stuck-backspace-issue/"><u>Why Aren't My Typed Characters Deleting? Solving the Stuck Backspace Issue</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/xbox-one-woes-learn-to-sync-an-inactive-controller-with-ease/"><u>Xbox One Woes? Learn to Sync an Inactive Controller with Ease</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-record-every-frame-of-your-android-experience-for-free/"><u>[New] In 2024, Record Every Frame of Your Android Experience for FREE</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elevate-video-creation-with-windows-xp-edition/"><u>[Updated] In 2024, Elevate Video Creation with Windows XP Edition</u></a></li>
+<li><a href="https://discover-community.techidaily.com/erste-wahl-bei-datensicherung-entdecken-sie-die-beliebtesten-backup-anwendungen-die-von-heise-gefordert-werden/"><u>Erste Wahl Bei Datensicherung? Entdecken Sie Die Beliebtesten Backup-Anwendungen, Die Von Heise Gefördert Werden!</u></a></li>
+<li><a href="https://windows11.techidaily.com/esd-to-iso-converting-esd-files-in-windows/"><u>ESD to ISO: Converting ESD Files in Windows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/free-video-tools-working-across-systems-seamlessly/"><u>Free VIDEO Tools Working Across Systems Seamlessly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-vivo-x90s-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Vivo X90S Without PUK Codes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/masterminds-of-making-magic-top-6-in-nft-innovation/"><u>Masterminds of Making Magic Top 6 in NFT Innovation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/originalqualitats-dvds-kopieren-auf-einem-mac-schutz-vs-nicht-geschutzt/"><u>Originalqualitäts-DVDs Kopieren Auf Einem Mac: Schutz Vs. Nicht Geschützt</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-printer-update-failures-a-comprehensive-fix-for-xerox-error-code-0x800f02eb-in-windows-systems/"><u>Overcoming Printer Update Failures: A Comprehensive Fix for Xerox Error Code 0X800f02eb in Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-crashing-hurdle-fixing-error-0xc00n00005-in-windows-systems/"><u>Overcoming the Crashing Hurdle: Fixing Error 0Xc00n00005 in Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolve-windows-error-code-0x800f020b-from-xerox-printer-updates/"><u>Troubleshooting Guide: Resolve Windows Error Code 0X800F020B From Xerox Printer Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-windows-users-correcting-user-profile-service-error-messages/"><u>Troubleshooting Tips for Windows Users: Correcting User Profile Service Error Messages</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-media-player-server-execution-failed-error-on-windows-solved/"><u>Windows Media Player Server Execution Failed Error on Windows [Solved]</u></a></li>
 </ul></div>
 

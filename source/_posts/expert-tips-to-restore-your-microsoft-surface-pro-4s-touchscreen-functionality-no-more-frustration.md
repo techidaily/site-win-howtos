@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Restore Your Microsoft Surface Pro 4'S Touchscreen Functionality - No More Frustration!
-date: 2025-01-06T16:57:18.117Z
-updated: 2025-01-13T16:21:00.760Z
+date: 2025-01-14T17:05:35.859Z
+updated: 2025-01-19T18:32:21.410Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/f14d93751e019bfea4a977ac2ac9bc564b77ea9b7
 
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Perform a two button shutdown
 
  Your touch screen may stop working properly if there are corruption issues on your Surface Pro 4\. You need to perform a **two button shutdown**  to shut it down completely to see if this can clear these issues and restore your touch screen.
@@ -46,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/f14d93751e019bfea4a977ac2ac9bc564b77ea9b7
 **4) Start** your device. Then try your touch screen and see if it can work.  
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 2: Install system updates
 
  Your operating system may contain some defects that disable the touch screen of your device. You should verify that your system is updated, and install the system updates if it isn’t.
@@ -58,20 +58,20 @@ thumbnail: https://thmb.techidaily.com/f14d93751e019bfea4a977ac2ac9bc564b77ea9b7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b61efb81b9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Select **Update & Security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Select **Check for updates** , and wait for the system updates to be installed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b63705ebce.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Restart your computer and check to see if this fixes your touch screen.  
@@ -93,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/f14d93751e019bfea4a977ac2ac9bc564b77ea9b7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c49fc02c88.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the Update button next to a flagged touch screen driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click the Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)  – you’ll be prompted to upgrade when you click the Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afac9d2c5c8.jpg)
@@ -110,9 +106,17 @@ thumbnail: https://thmb.techidaily.com/f14d93751e019bfea4a977ac2ac9bc564b77ea9b7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b61efb81b9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Select **Update & Security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Select**Recovery** and then select **Get started** button under Reset this PC.
 
@@ -121,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/f14d93751e019bfea4a977ac2ac9bc564b77ea9b7
 **4)** Choose either to **keep your files** or to **remove everything** when resetting your device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c551f22061.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Wait for your device to be reset completely. Then try your screen and see if it gets back to normal.
 
@@ -145,24 +145,24 @@ thumbnail: https://thmb.techidaily.com/f14d93751e019bfea4a977ac2ac9bc564b77ea9b7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-prime-collection-of-pc-screen-capture-tools-win11/"><u>[New] 2024 Approved The Prime Collection of PC Screen Capture Tools (Win11)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-expert-picked-screen-capturers-of-movies-for-2024/"><u>[Updated] Expert-Picked Screen Capturers of Movies for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-mastering-youtube-earnings-a-monetization-checklist-for-2024/"><u>[Updated] Mastering YouTube Earnings A Monetization Checklist for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-screen-upgrade-high-resolution-video-enhancer/"><u>[Updated] Ultimate Screen Upgrade High-Resolution Video Enhancer</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-ultimate-guide-to-youtube-video-distribution-on-fb/"><u>2024 Approved The Ultimate Guide to YouTube Video Distribution on FB</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/d3d-vanished-will-unreal-engine-cease/"><u>D3D Vanished, Will Unreal Engine Cease?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-on-correcting-and-preventing-windows-update-error-0x80240017/"><u>Expert Tips on Correcting and Preventing Windows Update Error 0X80240017</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-swift-and-easy-fresh-installation-of-windows-11/"><u>Expert Tips: Swift and Easy Fresh Installation of Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-lighting-on-your-computer-keyboard-when-it-wont-turn-on-macwindows/"><u>How to Restore Lighting on Your Computer Keyboard When It Won't Turn On (Mac/Windows)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-transform-your-content-instagram-ready-videos-in-final-cut-pro-x/"><u>In 2024, Transform Your Content Instagram-Ready Videos in Final Cut Pro X</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/narrative-artistry-accolades-1-8-distinguished-academies/"><u>Narrative Artistry Accolades #1-#8 Distinguished Academies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-issues-with-displays-that-dont-support-hdcp-technology/"><u>Overcoming Issues with Displays That Don't Support HDCP Technology</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/premier-10-battle-royale-challenges/"><u>Premier 10 Battle Royale Challenges</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-fix-guide-for-when-your-usb-flash-drive-wont-show-up/"><u>Quick Fix Guide for When Your USB Flash Drive Won't Show Up</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-xiaomi-redmi-13c-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Xiaomi Redmi 13C 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-9-online-anniversary-video-makers-who-are-the-best/"><u>Top 9 Online Anniversary Video Makers : Who Are the Best?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-print-spooler-errors-locating-compatible-drivers-on-windows-operating-system/"><u>Troubleshooting Print Spooler Errors: Locating Compatible Drivers on Windows Operating System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unravel-the-mystery-stop-windows-10-from-continuous-rebooting-swiftly/"><u>Unravel the Mystery: Stop Windows 10 From Continuous Rebooting Swiftly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-reducing-cpu-consumption-issues/"><u>Windows 10: Reducing CPU Consumption Issues</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dive-into-design-get-a-complimentary-set-of-50-banner-pieces/"><u>[New] 2024 Approved Dive Into Design Get a Complimentary Set of 50 Banner Pieces</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-discovering-income-monetization-through-youtube-sponsored-videos/"><u>[New] In 2024, Discovering Income Monetization Through YouTube Sponsored Videos?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/r-dreamscapes-explore-the-best-on-youtube/"><u>[New] VR Dreamscapes Explore the Best on Youtube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-delve-deep-into-immersive-videography-tips-for-editing-full-spherical-content-in-premierepro-for-2024/"><u>[Updated] Delve Deep Into Immersive Videography Tips for Editing Full Spherical Content in PremierePro for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-smart-solutions-for-gathering-visual-assets/"><u>2024 Approved Smart Solutions for Gathering Visual Assets</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/achieve-optimal-fps-a-guide-to-better-gaming-on-windows-11/"><u>Achieve Optimal FPS: A Guide to Better Gaming on Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/budgeting-outlay-the-expense-of-rendering-songs-visually/"><u>Budgeting Outlay The Expense of Rendering Songs Visually</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-the-bad-image-problem-in-microsofts-latest-operating-systems/"><u>Diagnosing and Repairing the 'Bad Image' Problem in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-steps-to-restore-bluetooth-functionality-on-your-windows-10-device/"><u>Easy Steps to Restore Bluetooth Functionality on Your Windows 10 Device</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/end-window-10-screen-glitches-tips-and-solutions-for-a-stable-viewing-experience/"><u>End Window 10 Screen Glitches: Tips and Solutions for a Stable Viewing Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-the-bug-in-call-of-duty-wwii-game-error-code-erupted-4220/"><u>Fix the Bug in Call of Duty WWII Game (Error Code Erupted: 4220)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-missing-sounds-in-your-netflix-stream-with-simple-techniques/"><u>Fixing Missing Sounds in Your Netflix Stream with Simple Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-the-dilemma-of-non-detected-headphones-in-your-device/"><u>How to Solve the Dilemma of Non-Detected Headphones in Your Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-user-exchanges-influence-ai-upgrades-in-chatgpt/"><u>How User Exchanges Influence AI Upgrades in ChatGPT?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-motorola-moto-e13-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Motorola Moto E13</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reliable-petfeeding-solution-with-petsafe-automatic-six-meal-dispenser/"><u>Reliable PetFeeding Solution with PetSafe Automatic Six-Meal Dispenser</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-errors-steps-to-fix-specified-module-not-detected-issues/"><u>Resolving Errors: Steps to Fix 'Specified Module Not Detected' Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solutions-for-total-war-rome-remastered-bug-fixes/"><u>Troubleshooting and Solutions for Total War: Rome Remastered Bug Fixes</u></a></li>
 </ul></div>
 

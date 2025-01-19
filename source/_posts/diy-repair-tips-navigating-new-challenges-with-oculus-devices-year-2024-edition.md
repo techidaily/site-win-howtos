@@ -1,7 +1,7 @@
 ---
 title: "DIY Repair Tips: Navigating New Challenges with Oculus Devices - Year 2024 Edition"
-date: 2024-08-28T00:27:23.712Z
-updated: 2024-08-29T00:27:23.712Z
+date: 2025-01-18T18:32:43.279Z
+updated: 2025-01-19T20:08:13.917Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/3d11ea0bfdce60d31e046d3cc7ec8c1b61d6f0342
 
 If the headset is still not recognized, check out the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2 – Disable USB power saving
 
  Windows may enable the power-saving feature for your USB ports by default. That said, an individual USB port may shut down when it’s used intermittently and cause the headset not connecting. To prevent your devices from disconnecting randomly or not being recognized, you could adjust related settings as follows:
@@ -57,8 +61,9 @@ If the headset is still not recognized, check out the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/power-management-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Repeat the steps to disable power management for each USB port and then test the issue. If the problem persists, check out below to turn off USB selective suspend as well.
 
 **Turn off USB selective suspend**
@@ -66,21 +71,18 @@ If the headset is still not recognized, check out the next solution.
 1. On your desktop, type**power plan** in the Windows search box and click**Edit power plan** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/seletive-suspend-1.jpg)
 2. Click **Change advanced power settings** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/seletive-suspend-2.jpg)
 3. Double-click **USB settings** \>**USB selective suspend setting** . Then select**Disabled** from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/seletive-suspend-3.jpg)
 4. Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/seletive-suspend-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now see if your Oculus Rift or Quest launches as normal. If not, continue to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Update your device drivers
 
  Device drivers allow your hardware to communicate with the computer. If they’re faulty or outdated, your Oculus performance will be greatly impacted. So staying up-to-date with the latest drivers, your graphics driver and USB driver in particular, is essential for a smooth experience with the Oculus devices.
@@ -93,14 +95,6 @@ If the headset is still not recognized, check out the next solution.
 2. Run Driver Easy and click the**Scan** **Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/Driver-Easy-5.7.2.jpg)
 3. Click the**Update** button next to any flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE** version).  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update** **All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/update-rift-sensor-driver.jpg)
@@ -109,6 +103,10 @@ If the headset is still not recognized, check out the next solution.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  Wait for the process to complete and reboot your computer. Then connect your rig and test. If the Oculus hardware error still pops up, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Repair corrupted system files
 
@@ -120,33 +118,26 @@ If the headset is still not recognized, check out the next solution.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Does the issue get fixed? If not, there’s one more fix to try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Factory reset your Oculus Quest or Quest 2
 
  You may consider factory resetting your Oculus Quest or Quest 2 as the last resort. It will wipe the headset clean and solve some obstinate technical issues effectively. But be warned: a factory reset is irreversible and will remove all account information, downloaded games, and content from the headset.
@@ -169,8 +160,6 @@ There is no factory reset option for Oculus Rift and Rift S.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +167,21 @@ There is no factory reset option for Oculus Rift and Rift S.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-poptoons-pro-analysis-and-guide-2s24-for-2024/"><u>[New] PopToons Pro Analysis and Guide 2S24 for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-corsair-keyboard-not-working/"><u>[SOLVED] Corsair Keyboard Not Working</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-a-step-by-step-guide-to-creating-unique-facebook-video-content/"><u>[Updated] In 2024, A Step-by-Step Guide to Creating Unique Facebook Video Content</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-transforming-pedagogy-through-vr-innovation/"><u>2024 Approved Transforming Pedagogy Through VR Innovation</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-asus-rog-phone-7-ultimate-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Asus ROG Phone 7 Ultimate by Name | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-dealing-with-the-invalid-directory-problem/"><u>Expert Tips for Dealing with the 'Invalid Directory' Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-to-overcome-persistent-reboot-cycles-when-closing-your-windows-10-system/"><u>Expert Tips to Overcome Persistent Reboot Cycles when Closing Your Windows 10 System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-scarlet-visual-disruption-on-windows-11-systems/"><u>How to Resolve the Scarlet Visual Disruption on Windows 11 Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-avoid-ordinary-bordered-instagram-photos-for-impact/"><u>In 2024, Avoid Ordinary Bordered Instagram Photos for Impact</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-unveiling-the-top-6-mac-capture-software-options/"><u>In 2024, Unveiling the Top 6 Mac Capture Software Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/meet-the-future-of-mobile-assistants-chatgpt-now-roams-in-apples-world/"><u>Meet the Future of Mobile Assistants: ChatGPT Now Roams in Apple's World</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/quick-and-comfortable-game-capture-tips-for-rainbow-six-siege-for-2024/"><u>Quick & Comfortable Game Capture Tips for Rainbow Six Siege for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723009725614-quick-solution-guides-stop-origin-from-crashing-now/"><u>Quick Solution Guides - Stop ‘Origin’ From Crashing Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211374264-stop-worrying-about-your-huion-device-discover-these-5-quick-pen-repair-tips/"><u>Stop Worrying About Your Huion Device; Discover These 5 Quick Pen Repair Tips</u></a></li>
+</ul></div>
 

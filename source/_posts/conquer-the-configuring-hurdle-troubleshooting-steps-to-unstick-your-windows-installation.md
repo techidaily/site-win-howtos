@@ -1,7 +1,7 @@
 ---
 title: "Conquer the Configuring Hurdle: Troubleshooting Steps to Unstick Your Windows Installation"
-date: 2024-08-28T00:32:57.966Z
-updated: 2024-08-29T00:32:57.966Z
+date: 2025-01-15T18:57:44.490Z
+updated: 2025-01-19T16:13:01.595Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/d8a8986ffc64f5b9f1ed82907df05cfbb6ea0430e
 4. **[Reinstall Valorant](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Delete Manifest txt files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check for network connection
 
  A poor network connection would certainly hold you back from loading into the game. Having a quick and simple check on your network connection should be your first fix to try.
@@ -47,19 +51,14 @@ thumbnail: https://thmb.techidaily.com/d8a8986ffc64f5b9f1ed82907df05cfbb6ea0430e
 1. Right-click the**VALORANT icon** and select**Properties** at the button of the pop-up menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-open-file-location.jpg)
 2. Under the**Compatibility** tab, tick the box**Run this program as an administrator** and then click**Apply** \>**OK**  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2022/04/VALORANT-run-as-ad.jpg)
-3. Now try to open the game again. If this method doesn’t work, navigate to the next below.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/04/VALORANT-run-as-ad.jpg)
+3. Now try to open the game again. If this method doesn’t work, navigate to the next below.
+
 ## Fix 3: Update your graphics driver
 
  An up-to-date graphics driver enables your graphics card to correctly do its job in graphics capabilities and to better enhance your gaming experience. If you are having an outdated or faulty graphics driver, it may also cause Valorant to get stuck in the loading status. Therefore, having your graphics driver updated is one of the solution. Here are two ways you can update your graphics drivers:
@@ -91,18 +90,11 @@ OR
  You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-graphics.jpg)
 4. Restart your PC for the new graphics driver to take effect.
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at <support@drivereasy.com>.
 
 If this doesn’t solve your problem, move on to the next fix.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Fix 4: Reinstall Valorant
 
  Install files of Valorant may somehow become corrupted in your computer and could not function properly, leading to the infinite loading error. So to get new and intact Install files, you should uninstall the Valorant from your computer first and then reinstall it.
@@ -110,17 +102,28 @@ If this doesn’t solve your problem, move on to the next fix.
 1. Press**Windows + I** key to open Windows Settings and then click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-settings-apps.jpg)
 2. Find**Valorant** from the Apps & features list and click on it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Appsfeatures-1.jpg)
 3. Click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Uninstall-1.jpg)
 4. Click**Uninstall** again in the pop-up window.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/04/app-uninstall.jpg)
-5. After the Valorant application is successfully uninstalled. Reinstall it from the[**Valorant download page**](https://playvalorant.com/zh-tw/download/) .
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2022/04/app-uninstall.jpg)
+5. After the Valorant application is successfully uninstalled. Reinstall it from the[**Valorant download page**](https://playvalorant.com/zh-tw/download/) .
+
  If this reinstalling process still doesn’t work for you, you may give the last fix a try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Delete Manifest txt files
 
@@ -144,8 +147,6 @@ If this doesn’t solve your problem, move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +154,26 @@ If this doesn’t solve your problem, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-direct-transfer-of-tweets-video-features-onto-snapchat/"><u>[New] In 2024, Direct Transfer of Tweets' Video Features Onto Snapchat</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-save-on-soccer-spectacles-live-tape-trim-for-free/"><u>[New] In 2024, Save on Soccer Spectacles - Live, Tape, Trim for Free</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-perfecting-pixels-how-to-choose-the-right-borders-on-ig-images/"><u>[Updated] In 2024, Perfecting Pixels How to Choose the Right Borders on IG Images</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-s18-pro-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo S18 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/cant-print-your-pdf-these-simple-tips-will-help-you-succeed/"><u>Can't Print Your PDF? These Simple Tips Will Help You Succeed</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-step-by-step-guide-troubleshooting-your-broken-xbox-one-pen/"><u>Complete Step-by-Step Guide: Troubleshooting Your Broken Xbox One Pen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-getting-copy-and-paste-back-to-work-on-windows-11/"><u>Easy Fixes: Getting Copy & Paste Back to Work on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-techniques-to-address-and-rectify-steams-inability-to-download-updates/"><u>Effective Techniques to Address and Rectify Steam's Inability to Download Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-224003-solved-successful-strategies-for-fixing-unplayable-video-files/"><u>Error Code 224003 Solved: Successful Strategies for Fixing Unplayable Video Files</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/obtaining-canon-digital-rebel-t7-software-downloads-and-firmware-fixes/"><u>Obtaining Canon Digital Rebel T7 Software Downloads & Firmware Fixes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/premier-deals-on-computing-devices-dont-miss-out/"><u>Premier Deals on Computing Devices - Don't Miss Out</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-hang-ups-on-windows-10-with-these-simple-steps/"><u>Resolve Hang-Ups on Windows 10 With These Simple Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-problem-solved-how-to-reconnect-with-the-local-client/"><u>Steam Problem Solved: How To Reconnect with The Local Client</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/system-update-resolves-local-privilege-issues/"><u>System Update Resolves Local Privilege Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-solutions-for-dealing-with-a-frozen-windows-10-system/"><u>Top Solutions for Dealing with a Frozen Windows 10 System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-the-system-cannot-locate-the-file/"><u>Troubleshooting and Solving 'The System Cannot Locate the File'</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-eliminating-common-ieframedll-issues/"><u>Troubleshooting Tips: Eliminating Common ieframe.dll Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/update-how-to-repair-a-non-functional-keyboard-at-system-boot/"><u>Update: How to Repair a Non-Functional Keyboard at System Boot</u></a></li>
+</ul></div>
 

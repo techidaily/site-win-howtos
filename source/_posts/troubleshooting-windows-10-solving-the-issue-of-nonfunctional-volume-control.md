@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows 10: Solving the Issue of Nonfunctional Volume Control"
-date: 2025-01-09T16:38:18.320Z
-updated: 2025-01-13T16:14:13.683Z
+date: 2025-01-15T18:35:29.152Z
+updated: 2025-01-19T16:07:36.932Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a36
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are the solutions that have helped other Windows users resolve error 0x80240017\. You don’t need to try them all; just work your way down the list until everything’s working again.
@@ -49,6 +45,10 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04da616dafa.jpg)
 2. Click**Troubleshoot** on the left. Click**Windows Update** \>**Run the troubleshooter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
 3. Windows will start detecting problems, which will take several minutes. Once done, follow the on-screen instructions to complete the process.  
 
@@ -56,14 +56,10 @@ Here’s what you can do:
 4. Restart your computer and try Windows Update again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the Windows Update error persists, move on to the second method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Reset Windows Update Components
 
@@ -92,7 +88,7 @@ If the Windows Update error persists, move on to the second method.
  If your issue still persists, don’t worry, There is something else to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Repair corrupted system files
@@ -108,14 +104,14 @@ If the Windows Update error persists, move on to the second method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -126,7 +122,7 @@ If the Windows Update error persists, move on to the second method.
 2. Type the following command and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 sfc /scannow  
@@ -156,6 +152,10 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)
 4. Restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Open Windows Update to download and install updates and it should working now.
 
  So there you have it – Hope this post helps in resolving your**Windows Update error** **0x80240017** . If you have any questions or suggestions, feel free to leave a comment below.
@@ -178,18 +178,16 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-smooth-and-subtle-how-to-blur-iphone-images-for-free-and-easy/"><u>[New] Smooth and Subtle How to Blur iPhone Images for Free & Easy</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-pedagogical-picks-the-most-effective-video-recording-tools-for-instructors/"><u>2024 Approved Pedagogical Picks The Most Effective Video Recording Tools for Instructors</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/comedy-crafters-codex-free-to-unleash-humor-for-2024/"><u>Comedy Crafters' Codex Free to Unleash Humor for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-microsofts-wireless-display-adapter-connectivity-woes-on-windows-10-systems/"><u>Fixing Microsoft's Wireless Display Adapter Connectivity Woes on Windows 10 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-11-slideshow-and-customized-screen-saver-problems-expert-solutions/"><u>Fixing Windows 11 Slideshow & Customized Screen Saver Problems - Expert Solutions!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-savings-alert-secure-your-8tb-samsung-t5-solid-state-drive-at-a-remarkable-36-off-price-on-amazon-insider-report-by-zdnet/"><u>Huge Savings Alert: Secure Your 8TB Samsung T5 Solid State Drive at a Remarkable 36% Off Price on Amazon | Insider Report by ZDNET</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-best-5-web-video-recorders/"><u>In 2024, Best 5 Web Video Recorders</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-technique-of-resolving-critical-fatal-error-during-install-issues-code-1603/"><u>Master the Technique of Resolving Critical 'Fatal Error During Install' Issues (Code 1603)</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/navigating-modern-devices-with-guidance-from-toms-hardware/"><u>Navigating Modern Devices With Guidance From Tom's Hardware</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-11s-0x80072efd-issue-a-step-by-step-guide/"><u>Resolving Windows 11'S 0X80072EFD Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-fix-for-nonresponsive-key-a-comprehensive-tutorial/"><u>Step-by-Step Fix for Nonresponsive @ Key – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/tips-to-get-your-video-staff-picked-on-vimeo/"><u>Tips to Get Your Video “Staff Picked” On Vimeo</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-discover-the-best-of-vn-video-editor-on-pc-a-review/"><u>Updated 2024 Approved Discover the Best of VN Video Editor on PC A Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-user-friendly-tutorial-for-rectifying-audio-output-not-detected-in-windows-11/"><u>A User-Friendly Tutorial for Rectifying Audio Output Not Detected in Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/achieve-your-fitness-goals-with-ease-using-the-innovative-samsung-galaxy-fit2-wearable-device/"><u>Achieve Your Fitness Goals with Ease Using the Innovative Samsung Galaxy Fit2 Wearable Device</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/all-you-need-to-know-about-the-cutting-edge-s-pen-and-dex-mode-in-your-next-samsung-galaxy-tab-s6-tablet/"><u>All You Need to Know About the Cutting-Edge S Pen and Dex Mode in Your Next Samsung Galaxy Tab S6 Tablet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/better-mouse-control-solving-random-disconnections-for-windows-11-and-10-users/"><u>Better Mouse Control: Solving Random Disconnections for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-errors-fix-unresponsive-individual-configuration-features/"><u>Bypassing Errors: Fix Unresponsive Individual Configuration Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-controlling-external-hard-drive-access/"><u>Mastering the Art of Controlling External Hard Drive Access</u></a></li>
+<li><a href="https://review-topics.techidaily.com/poco-messages-recovery-recover-deleted-messages-from-poco-by-fonelab-android-recover-messages/"><u>Poco Messages Recovery - Recover Deleted Messages from Poco</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transform-every-moment-top-ideas-for-productive-podcast-sessions/"><u>Transform Every Moment Top Ideas for Productive Podcast Sessions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-your-csgo-headsets-audio-problems/"><u>Troubleshooting Steps: Resolving Your CS:GO Headset's Audio Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722883200754-watch-these-11-movies-to-ignite-your-passion-and-find-inner-strength/"><u>Watch These 11 Movies to Ignite Your Passion and Find Inner Strength.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-isnt-my-print-screen-working-on-windows-diagnose-and-fix-steps/"><u>Why Isn't My Print Screen Working on Windows? – Diagnose & Fix Steps</u></a></li>
 </ul></div>
 

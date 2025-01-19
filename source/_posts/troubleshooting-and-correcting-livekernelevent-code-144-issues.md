@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Correcting LiveKernelEvent Code 144 Issues
-date: 2025-01-07T16:55:30.855Z
-updated: 2025-01-13T17:25:33.322Z
+date: 2025-01-14T16:41:34.343Z
+updated: 2025-01-19T20:28:53.870Z
 tags:
   - win11
   - win10
@@ -60,10 +60,6 @@ To rule out this as a possibility:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also click Update to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and check if the**USB keeps disconnecting** issue has been resolved. If yes, then congrats! If the issue persists, please move on to**Fix 3** , below.
@@ -81,12 +77,16 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Change advanced power settings** .
 
@@ -101,7 +101,7 @@ To make sure you’ve this setting disabled:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Change power management settings for USB Root Hubs
@@ -113,20 +113,20 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
@@ -156,15 +156,20 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-framework-for-exceptional-ppt-video-documentation/"><u>[New] In 2024, The Framework for Exceptional PPT Video Documentation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-ipad-screen-snapshot-strategies-for-2024/"><u>[New] IPad Screen Snapshot Strategies for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cyclic-redundancy-check-solutions-for-reliable-data-verification/"><u>Cyclic Redundancy Check: Solutions for Reliable Data Verification</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-your-nier-automata-pc-lagging-problems-complete-guide/"><u>Fix Your Nier Automata PC Lagging Problems – Complete Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-motorola-moto-g04-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Motorola Moto G04 Phone | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-permanent-deactivation-the-ultimate-guide-to-youtube-shorts/"><u>In 2024, Permanent Deactivation The Ultimate Guide to YouTube Shorts</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-msmpengexe-reducing-high-cpu-usage-on-windows-11-solved/"><u>Optimizing MsMpEng.exe: Reducing High CPU Usage on Windows 11 - Solved!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-permanently-deleted-or-erased-excel-2019-files-for-free-stellar-by-stellar-guide/"><u>Recover Permanently Deleted or Erased Excel 2019 Files for Free | Stellar</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restoring-wi-fi-connectivity-solutions-for-the-hidden-wi-fi-settings-in-windows-11/"><u>Restoring Wi-Fi Connectivity: Solutions for the Hidden Wi-Fi Settings in Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/update-required-fixing-incompatible-device-drivers-on-windows-operating-systems/"><u>Update Required: Fixing Incompatible Device Drivers on Windows Operating Systems</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-12-live-video-streaming-app-for-watching-and-streaming-videos/"><u>[New] 12 Live Video Streaming App for Watching and Streaming Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-expert-advice-for-embedding-youtube-playlists-with-ease/"><u>[New] In 2024, Expert Advice for Embedding YouTube Playlists with Ease</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-enhance-video-conferencing-with-a-blend-of-skype-and-zoom/"><u>[Updated] In 2024, Enhance Video Conferencing with a Blend of Skype & Zoom</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-halo-4s-unreal-engine-4-ue4-fatal-error-a-step-by-step-guide/"><u>Fixing Halo 4'S Unreal Engine 4 (UE4) Fatal Error : A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/how-to-create-and-grow-an-online-space-for-beauty-product-reviews-for-2024/"><u>How To Create and Grow an Online Space for Beauty Product Reviews for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-x9b-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor X9b by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/online-video-to-mp3-converter-convert-videos-with-haal-audio-anytime-everywhere/"><u>Online Video to MP3 Converter: Convert Videos with Haal Audio Anytime, Everywhere</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-browser-barriers-a-user-friendly-guide-for-safari-cannot-load-page-issues/"><u>Overcoming Browser Barriers - A User-Friendly Guide for 'Safari Cannot Load Page' Issues</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/prime-techniques-to-salvage-problematic-vids/"><u>Prime Techniques to Salvage Problematic Vids</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-tricks-to-successfully-connect-your-microsoft-wireless-display-adapter-with-a-compatible-configuration-in-windows-10/"><u>Top Tricks to Successfully Connect Your Microsoft Wireless Display Adapter with a Compatible Configuration in Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-airpods-on-windows-11-guide-updated/"><u>Troubleshoot Your AirPods on Windows 11 (Guide Updated )</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-a-bright-white-screens-on-your-laptop/"><u>Troubleshooting Guide: Fixing a Bright White Screens on Your Laptop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209472926-troubleshooting-offline-steam-services-solutions-at-hand/"><u>Troubleshooting Offline Steam Services – Solutions at Hand</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/ultimate-guide-to-share-your-igtv-story-with-ease/"><u>Ultimate Guide to Share Your IGTV Story with Ease</u></a></li>
 </ul></div>
 

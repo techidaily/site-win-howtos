@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Resolution for the High CPU Consumption by IAstorDataSvc on Your Win11 PC
-date: 2025-01-07T17:17:05.188Z
-updated: 2025-01-13T16:06:51.186Z
+date: 2025-01-12T20:46:59.474Z
+updated: 2025-01-19T16:32:49.181Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ Continuously getting the error **“There is a problem with your games setup. Pl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Repair your game
@@ -46,9 +46,17 @@ Continuously getting the error **“There is a problem with your games setup. Pl
   
 ![Origin error There is a problem with your game's setup. Please reinstall your game. ](https://images.drivereasy.com/wp-content/uploads/2021/05/repair-game.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This file check can take up to an hour to complete depending on your computer’s hardware. If there are any file issues or corrupt files, it will replace them or download them again.
 
 If that didn’t help, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Clear Origin game cache
 
@@ -65,10 +73,6 @@ If that didn’t help, try the next fix below.
 
 ![how to chear cache on Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/make-sure-Origin-is-fully-closed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
 
  3) Type or paste**%ProgramData%/Origin** and press Enter.  
@@ -84,7 +88,7 @@ If that didn’t help, try the next fix below.
 ![delete the files and folders inside Origin except for LocalContent](https://images.drivereasy.com/wp-content/uploads/2021/05/delete.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
@@ -97,6 +101,10 @@ If that didn’t help, try the next fix below.
   
 ![delete the Origin folder](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) In the address bar, click on**AppData** .  
   
 ![delete Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/click-on-AppData.jpg)
@@ -108,10 +116,6 @@ If that didn’t help, try the next fix below.
 10) Restart your PC and log back into Origin.
 
 If this didn’t give you any luck, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Update your device drivers
 
@@ -134,13 +138,13 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-device-drivers.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. Then resume your installation or launch your game from Origin to check if that error message still appears.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Run Origin as an administrator
 
@@ -158,16 +162,12 @@ If you want to make Origin always run as administrator, take these steps:
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/always-run-Origin-as-an-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-Origin-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Resume your installation and check if it helped you fix the issue. If your problem persists, try the next fix below.
@@ -178,15 +178,15 @@ If you want to make Origin always run as administrator, take these steps:
 
 If that didn’t help, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Download Media Feature Pack for Windows 10 N
 
  For users who are running Windows N versions, you need to download the Media Feature Pack from Microsoft, which helped many players get rid of the error.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/download-media-feature-pack-1200x715.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Not sure which Windows version you’re running? No worries! Follow the steps below to check it out:
 
@@ -217,20 +217,24 @@ If that didn’t help, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-guide-to-profiting-from-youtube-shorts-key-requirements-and-potential-income/"><u>[Updated] Guide to Profiting From YouTube Shorts Key Requirements & Potential Income</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-snapchats-new-spotlight-functionality/"><u>2024 Approved Navigating Snapchat's New Spotlight Functionality</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-hard-drive-access-problems-in-windows-10/"><u>Expert Tips for Fixing Hard Drive Access Problems in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-incompatibility-issues-update-your-device-driver-on-windows-operating-system/"><u>Fixing Incompatibility Issues: Update Your Device Driver on Windows Operating System</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-asus-rog-phone-8-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Asus ROG Phone 8 Pro Data? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-simplified-guide-to-free-youtube-card-designing/"><u>In 2024, Simplified Guide to Free YouTube Card Designing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-vivo-x-fold-2-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Vivo X Fold 2 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-true-income-potential-in-podcasting/"><u>In 2024, Unveiling the True Income Potential in Podcasting</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/in-depth-techniques-for-rectifying-vexing-screen-rippling-in-valorant-games/"><u>In-Depth Techniques for Rectifying Vexing Screen Rippling in VALORANT Games</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/is-my-netflix-service-disrupted-find-out-why-and-how-to-fix-it-now/"><u>Is My Netflix Service Disrupted? Find Out Why & How To Fix It Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-your-windows-10-access-denied-hurdle-comprehensive-troubleshooting-guide-solved/"><u>Overcome Your Windows 10 'Access Denied' Hurdle - Comprehensive Troubleshooting Guide [Solved]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-fixing-the-inoperative-touchpad-scroll-in-windows-10-devices/"><u>Step-by-Step Guide: Fixing the Inoperative Touchpad Scroll in Windows 10 Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-the-initial-blackout-in-monster-hunter-world/"><u>Troubleshooting Guide: Fixing the Initial Blackout in Monster Hunter: World</u></a></li>
-<li><a href="https://article-files.techidaily.com/unraveling-the-lifecycle-of-windows-movie-maker-releases-for-2024/"><u>Unraveling the Lifecycle of Windows Movie Maker Releases for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/windows-11webtop102024/"><u>Windows 11に最適！無料WebカメラソフトウェアTOP10リスト2024年</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-unraveling-the-mysteries-of-fb-instream-ads-configuration-and-evaluation/"><u>[New] 2024 Approved Unraveling the Mysteries of FB Instream Ads Configuration & Evaluation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-user-generated-content-music-posting-on-instagram/"><u>[New] In 2024, Mastering User-Generated Content Music Posting on Instagram</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-innovative-shooting-modes-smart-hdr-3-and-4-explained-simply-for-2024/"><u>[New] Innovative Shooting Modes Smart HDR 3 & 4 Explained Simply for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/avigating-video-uploads-on-youtube-a-comprehensive-tutorial-for-2024/"><u>[New] Navigating Video Uploads on YouTube A Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-question-in-cameras-can-a-dslr-surpass-a-hero-4-for-2024/"><u>[New] The Ultimate Question in Cameras Can a DSLR Surpass a Hero 4 for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210889467-dealing-with-unsuccessful-rpcs-learn-how-to-correct-them-here/"><u>Dealing With Unsuccessful RPCs? Learn How To Correct Them Here!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-google-chromes-serious-bug-steps-to-beat-the-scam-alert/"><u>Fixing Google Chrome's Serious Bug: Steps to Beat the Scam Alert</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reset-and-fix-windows-11-volume-control-malfunctions-quickly/"><u>How to Reset and Fix Windows 11 Volume Control Malfunctions Quickly</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-12r-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-creating-impactful-twitter-campaigns-for-businesses/"><u>In 2024, Creating Impactful Twitter Campaigns for Businesses</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-top-10-popular-virtual-reality-peripherals/"><u>In 2024, Top 10 Popular Virtual Reality Peripherals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/swift-fixes-for-windows-installation-troubleshooting/"><u>Swift Fixes for Windows Installation Troubleshooting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-stop-your-usb-from-dropping-out/"><u>Troubleshooting Steps to Stop Your USB From Dropping Out</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-reactivating-a-stuck-keyboard-at-login-window/"><u>Troubleshooting Tips: Reactivating a Stuck Keyboard at Login Window</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-chatgpts-potential-as-your-ideal-dungeon-master-companion/"><u>Unleashing ChatGPT's Potential as Your Ideal Dungeon Master Companion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-isnt-my-pc-upgrading-to-windows-11-version-1607-troubleshooting-tips/"><u>Why Isn't My PC Upgrading to Windows 11 Version 1607? Troubleshooting Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-typing-woes-repairing-a-malfunctioning-spacebar/"><u>Windows 11 Typing Woes: Repairing a Malfunctioning Spacebar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/xbox-one-controller-and-pc-compatibility-reconciled/"><u>Xbox One Controller & PC Compatibility Reconciled</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Common Errors in Screen Mirroring to Your Display with Windows 11
-date: 2024-08-28T00:31:57.198Z
-updated: 2024-08-29T00:31:57.198Z
+date: 2025-01-17T16:39:36.952Z
+updated: 2025-01-19T20:18:04.016Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/015ca8337481fa9d7a46737ec3890e68196903574
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure the network sharing feature is enabled on your computer
 
  The Cast to Device feature requires the**network sharing** feature turned on your computer. See how to check if you turn on the network sharing feature on your computer:
@@ -41,45 +45,51 @@ thumbnail: https://thmb.techidaily.com/015ca8337481fa9d7a46737ec3890e68196903574
 2. Click **Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b201e6b5d28.png)
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Try the Cast to Device feature again to see if it succeeds.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Fix 2: Reset the Stream Permissions on your Windows 10 computer
 
 1. Type **media**  in the search box from Start. Then click **Windows Media Player**  on the top.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
 8. Close the Windows Media Player window.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 9. Try the Cast to Device feature again to see if it succeeds.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your network card driver
 
@@ -109,8 +119,6 @@ thumbnail: https://thmb.techidaily.com/015ca8337481fa9d7a46737ec3890e68196903574
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +126,22 @@ thumbnail: https://thmb.techidaily.com/015ca8337481fa9d7a46737ec3890e68196903574
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-essential-skills-for-efficient-teamsnap-photo-taking/"><u>[New] Essential Skills for Efficient TeamSnap Photo Taking</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-analyzing-instagram-de-followings/"><u>[New] In 2024, Analyzing Instagram De-Followings</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-quick-react-guide-efficiently-answering-discord-messages/"><u>[Updated] 2024 Approved Quick-React Guide Efficiently Answering Discord Messages</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unblock-mystery-solved-detecting-snapchat-shutout/"><u>[Updated] In 2024, Unblock Mystery Solved Detecting Snapchat Shutout</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-joining-in-on-tiktok-gigs-without-causing-a-ruckus-for-2024/"><u>[Updated] Joining in on TikTok Gigs Without Causing a Ruckus for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-stabilized-mobile-shooting-with-precision-mounts/"><u>[Updated] Stabilized Mobile Shooting with Precision Mounts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnose-and-fix-addressing-non-responsive-winplusshiftpluss-hotkey-on-windows-1011-systems/"><u>Diagnose & Fix: Addressing Non-Responsive Win+Shift+S Hotkey on Windows 10/11 Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/digiartys-latest-update-complete-support-for-new-iphone-6splus-ipad-promini-t4-xperia-and-galaxy-devices-dvd-and-video-software-enhanced/"><u>Digiarty's Latest Update: Complete Support for New iPhone 6S/Plus, iPad Pro/Mini T4, Xperia & Galaxy Devices! - DVD & Video Software Enhanced</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-connection-how-to-use-usb-tethering-with-windows-10-systems/"><u>Effortless Connection: How to Use USB Tethering with Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-guide-resolving-performance-lags-on-windows-11-systems/"><u>Essential Guide: Resolving Performance Lags on Windows 11 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-restarting-a-frozen-or-unresponsive-system/"><u>Expert Tips for Restarting a Frozen or Unresponsive System</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-halo-4-ue4-fatal-error-and-stop-game-crashes-for-a-smooth-2024-experience/"><u>How to Resolve Halo 4 UE4 Fatal Error and Stop Game Crashes for a Smooth 2024 Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-stage-talent-video-download-permission-form/"><u>In 2024, Stage Talent Video Download Permission Form</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-xbox-one-play-anyhow/"><u>Mastering Xbox One: Play Anyhow!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restoring-functionality-of-hp-laptop-webcam-on-windows-11/"><u>Troubleshooting Guide: Restoring Functionality of HP Laptop Webcam on Windows 11</u></a></li>
+</ul></div>
 

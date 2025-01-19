@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Lock Screen Fails: Solving Common Screen Saver Malfunctions"
-date: 2024-08-28T00:27:55.822Z
-updated: 2024-08-29T00:27:55.822Z
+date: 2025-01-17T18:18:35.162Z
+updated: 2025-01-19T20:12:24.274Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/948ca341d15cde5d0f54616ed06f4255209470f04
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5aa9088204dec.png)
 
  The**print screen key stops working** when you want to capture your screen? You would be very frustrated. But don’t panic. You can easily fix this problem and print your screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -41,29 +45,28 @@ thumbnail: https://thmb.techidaily.com/948ca341d15cde5d0f54616ed06f4255209470f04
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click the Update button next to a flagged keyboard driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **Pro** version – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
 4. Restart your computer and try to press the print screen key to see if it works.
 
 ```` ```` ```` ``
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Fix 2: Check if the print screen key is enabled
 
 ```` ```` Try to press**F Mode** key ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-3.png) or**F Lock** key![](https://images.drivereasy.com/wp-content/uploads/2017/04/1-2.png) (when there are such keys on your keyboard, if not, please skip this fix), then check if the Print Screen works. That’s because such keys may prevent you from using print screen key.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ```` ````
 
 ```` ```` ```` ``
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### Fix 3: Stop all the running programs
 
 ```` ```` Since some programs like OneDrive, Dropbox, and Snipping tool can take over the Print Screen key, please**stop all the running programs** on your PC. Then try to print screen again to see if it works.
@@ -73,8 +76,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ```` ```` ````
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your operating system
 
 `` Check if your operating system is up-to-date.
@@ -82,13 +86,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 1. Press the**Windows logo key** . Type**check for updates** , then click**Check for updates** from the list of results.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Now on Windows Update Windows, you can check if there are any available updates for your window. If yes, install the updates and try to print screen again.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Bonus Tip
 
 **```` ``**  If you fail to take a screenshot by pressing PrtScn key, you can try to press **Fn + PrtScn** , **Alt + PrtScn**  or **Alt + Fn + PrtScn**  keys together to try again.
@@ -105,8 +107,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +114,21 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagrams-slow-motion-secrets-reels-done-right/"><u>[New] 2024 Approved Instagram's Slow Motion Secrets Reels Done Right</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-guiding-audio-dimming-in-fl-studio/"><u>[New] Guiding Audio Dimming in FL Studio</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-ultimate-guide-to-iphone-gif-management-for-2024/"><u>[Updated] The Ultimate Guide to iPhone GIF Management for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-new-chapter-starts-here-chatgpt-plus-us-only-20-mo/"><u>AI's New Chapter Starts Here: ChatGPT Plus (US Only), $20 Mo</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparing-apple-tv-4k-and-roku-ultra-which-streaming-device-wins/"><u>Comparing Apple TV 4K and Roku Ultra: Which Streaming Device Wins?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-resolution-of-system-resource-shortages-to-ensure-seamless-service-delivery/"><u>Complete Resolution of System Resource Shortages to Ensure Seamless Service Delivery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211158318-eradicate-unwanted-on-screen-flashing-ultimate-fixes-for-a-steady-point/"><u>Eradicate Unwanted On-Screen Flashing: Ultimate Fixes for a Steady Point</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-maximizing-ad-performance-with-engaging-fb-animation-strategies/"><u>In 2024, Maximizing Ad Performance with Engaging FB Animation Strategies</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeo-video-structure-chapter-integration-guide/"><u>In 2024, Vimeo Video Structure Chapter Integration Guide</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/live-commerce-success-stories-lessons-learned-and-predictions-for-the-future-for-2024/"><u>Live Commerce Success Stories Lessons Learned & Predictions for the Future for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209460952-playstation-4-trouble-solve-the-mystery-of-error-code-ce-34878-0-today/"><u>PlayStation 4 Trouble? Solve the Mystery of Error Code CE-34878-0 Today!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-your-windows-11-bluetooth-not-detected-problem-fast-and-easy-step-by-step-guide/"><u>Resolve Your Windows 11 Bluetooth Not Detected Problem Fast and Easy - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-class-registration-issues-in-windows-10-a-comprehensive-guide/"><u>Resolving Class Registration Issues in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/subtlety-in-volume-the-ableton-way-for-2024/"><u>Subtlety in Volume The Ableton Way for 2024</u></a></li>
+</ul></div>
 

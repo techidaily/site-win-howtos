@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Address and Repair Netflix Volume Problems
-date: 2024-08-28T00:33:01.553Z
-updated: 2024-08-29T00:33:01.553Z
+date: 2025-01-14T18:53:16.567Z
+updated: 2025-01-19T17:40:48.226Z
 tags:
   - win11
   - win10
@@ -34,13 +34,19 @@ Many users are experiencing a**Netflix no sound** issue on their computer. If yo
 2. Click**the dialog icon** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3816904a78d.jpg)
 3. Check if **surround sound (5.1)** is selected. If yes, then try changing it to a non-5.1 option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. See if you can hear any sound from the video in Netflix. If the**no sound** problem still lingers on, you should try**Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your audio driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -56,16 +62,14 @@ Many users are experiencing a**Netflix no sound** issue on their computer. If yo
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c38035854a95.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then play a video in Netflix to see if the**Netflix no sound** issue has been resolved. If yes, then great! But if the problem still persists, move on to**Fix 3** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Adjust the built-in audio settings
 
  You can also try manually setting default devices and the default format to see if it fixes the**Netflix no sound** issue.
@@ -75,22 +79,22 @@ Here’s how to do it:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **mmsys.cpl**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3805c15306f.png)
 2. In the**Playback** tab, click**the device** you want to play Netflix through (speakers , headphones, HDMI, or Digital Audio). Then click**Set Default** – **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c380de82d06b.jpg)
 3. Click the**Advanced** tab, then select**24 bit, 192000 Hz (Studio Quality)** from the drop-down menu and click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3806f1e7aaf.jpg)
 4. Again, play an audio in Netflix to test if the**no sound on Netflix** issue has been fixed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### Fix 4: Update Microsoft Silverlight
 
  Microsoft Silverlight is a browser plug-in Netflix uses for more interactive media experiences. So you should try updating the program via**Windows Update** or **[Microsoft’s official website Silverlight homepage](https://www.microsoft.com/getsilverlight/get-started/install/default?reason=unsupportedplatform)**  to see if it can fix the**Netflix no sound** issue.
@@ -108,8 +112,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +119,17 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/effective-ways-to-address-a-broken-or-stuck-backspace-key/"><u>Effective Ways to Address a Broken or Stuck Backspace Key</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-t2x-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo T2x 5G</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-no-cost-premiere-pro-resource-pack/"><u>In 2024, Exclusive, No-Cost Premiere Pro Resource Pack</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a05s-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A05s to Outlook | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/photo-fables-the-best-ios-and-android-text-apps-for-pictures/"><u>Photo Fables The Best iOS & Android Text Apps for Pictures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-apex-legends-simple-fixes-for-the-anti-cheat-issue/"><u>Solving Apex Legends: Simple Fixes for the Anti-Cheat Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-strategies-to-address-and-fix-the-windows-update-issue-error-0x80070652/"><u>Step-by-Step Strategies to Address and Fix the Windows Update Issue (Error 0X80070652)</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/step-by-step-tutorial-addressing-the-undetected-tpm-issue-in-windows-11-and-10-systems/"><u>Step-by-Step Tutorial: Addressing the Undetected TPM Issue in Windows 11 and 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-dimensions-of-a-rectangular-tank-are-needed-to-calculate-its-volume-volume-length-x-width-x-depth/"><u>The Dimensions of a Rectangular Tank Are Needed to Calculate Its Volume: Volume = Length X Width X Depth.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-6-must-have-features-of-the-apple-watch-insights-from-industry-experts/"><u>Top 6 Must-Have Features of the Apple Watch: Insights From Industry Experts</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Reinvigorate Your Device's Internal Shield: Local Security Authority Features Fully Operational Now"
-date: 2025-01-06T16:07:37.812Z
-updated: 2025-01-13T16:44:04.526Z
+date: 2025-01-16T16:17:22.708Z
+updated: 2025-01-19T17:57:42.228Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ Local Security Authority Protection is off
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Install Windows Update patch KB5007651
 
  The Local Security Authority Protection being off bug was actually a bug that shipped with Windows 11’s March 2023 mandatory security update, patch KB5007651\. Windows then released the updated version of this patch that fixed this problem. So if you still haven’t already, please update your Windows now for the latest patch KB5007651 to install.
@@ -52,17 +48,17 @@ To do so:
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
-4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
 Then see if the Local Security Authority Protection is still off.
 
@@ -71,7 +67,7 @@ Then see if the Local Security Authority Protection is still off.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-25.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the “Local Security protection is off” notification is still there when you manually install the KB5007651 update, please move on to the next fix.
@@ -92,6 +88,10 @@ Then see if the Local Security Authority Protection is still off.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-26.png)
 4. On the right side, if you can see **RunAsPPL** , double-click it and change the**Value data** to**2** . Repeat the same with**RunAsPPLBoot** . If you don’t see either of these entries, move on to the next step.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-29.png)
 5. If you don’t see**RunAsPPL** or**RunAsPPLBoot** on the right side, right-click the empty area and select**New > DWORD (32-bit) Value** . Name the new entry**RunAsPPL** , then double-click it to change its**Value data** to**2** . Repeat the same to create a new entry named**RunAsPPLBoot** and change its value data to 2.  
 
@@ -111,11 +111,15 @@ Then see if the Local Security Authority Protection is still off.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-30.png)
 3. Go to **Computer Configuration\\Administrative Templates\\System\\Local Security Authority** . Double-click**Configure LSASS to run as a protected process** on the right side.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-32.png)
 4. Click**Enable** , then select**Enabled with UEFI Lock** from the drop-down menu. Then click**Apply** and**OK** to save and exit.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-34.png)
@@ -136,14 +140,10 @@ Then see if the Local Security Authority Protection is still off.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -171,16 +171,22 @@ Then see if the Local Security Authority Protection is still off.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-crafting-melodies-turn-any-tiktok-sound-into-phone-alerts/"><u>[New] Crafting Melodies Turn Any TikTok Sound Into Phone Alerts</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-ultimate-checklist-for-video-praise-mastery/"><u>[Updated] 2024 Approved The Ultimate Checklist for Video Praise Mastery</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-ai-black-boxes-exploring-their-mechanisms-and-operations/"><u>Demystifying AI Black Boxes: Exploring Their Mechanisms & Operations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/device-driver-troubles-ensuring-proper-compatibility-with-your-windows-os/"><u>Device Driver Troubles: Ensuring Proper Compatibility with Your Windows OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-the-audio-driver-not-installed-problem-in-modern-windows-os/"><u>Diagnosing and Repairing the 'Audio Driver Not Installed' Problem in Modern Windows OS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-keep-it-steady-photo-and-video-clarity/"><u>In 2024, Keep It Steady Photo & Video Clarity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/navigating-through-conflicts-of-computing-resources-systems/"><u>Navigating Through Conflicts of Computing Resources Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-missing-device-drivers-in-windows-7-setup/"><u>Solving the Problem of Missing Device Drivers in Windows 7 Setup</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-phoenix-launches-robust-tool-to-repair-corrupt-pdf-files-news-of-stellar/"><u>Stellar Phoenix Launches Robust Tool to Repair Corrupt PDF Files - News of Stellar</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-to-correctly-address-windows-10s-troubling-error-code-0x80n0541-for-seamless-updates/"><u>Step-by-Step Tutorial to Correctly Address Windows 10'S Troubling Error Code 0X80n0541 for Seamless Updates</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-iphone-12-and-pro-protective-covers-2023-edition-featured/"><u>Top-Rated iPhone 12 & Pro Protective Covers - 2023 Edition Featured</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-capturing-adventures-in-high-definition-with-intova-x/"><u>[New] 2024 Approved Capturing Adventures in High Definition With Intova X</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-cracking-the-code-personalized-tiktok-hash-hunt/"><u>[Updated] In 2024, Cracking the Code Personalized TikTok Hash Hunt</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/1726218932832-movaviwav3gp/"><u>無版税直接移動：MOVAVI工具下将WAV格式转换成3GP</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/adapting-to-ai-driven-industries-6-proven-methods-for-career-growth-and-resilience/"><u>Adapting to AI-Driven Industries: 6 Proven Methods for Career Growth and Resilience</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/angle-measurement-errors/"><u>Angle Measurement Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/critical-solutions-for-windows-10-access-denied-problems-within-containers-expertly-explained/"><u>Critical Solutions for Windows 10 Access Denied Problems Within Containers - Expertly Explained</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhancing-system-efficiency-by-fixing-wdf-related-high-cpu-issues/"><u>Enhancing System Efficiency by Fixing WDF Related High CPU Issues</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-10-capture-hardware-recommendations-for-online-videos/"><u>Essential 10 Capture Hardware Recommendations for Online Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/from-dark-to-bright-repairing-google-chromes-unexpected-blackout-issues/"><u>From Dark to Bright: Repairing Google Chrome's Unexpected Blackout Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-your-windows-10-bluetooth-back-on-track-with-our-step-by-step-guide/"><u>Get Your Windows 10 Bluetooth Back on Track with Our Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-disabling-half-decked-keyboard-and-touchpad-while-connected-to-a-mouse-on-windows-11/"><u>Guide to Disabling HALF-DECKED Keyboard and Touchpad While Connected to a Mouse on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-corsair-keyboard-back-in-action-after-malfunction/"><u>How to Get Your Corsair Keyboard Back in Action After Malfunction</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/interactive-entertainment-pauses-pc-life/"><u>Interactive Entertainment Pauses PC Life</u></a></li>
+<li><a href="https://video-capture.techidaily.com/premier-emulator-titles-simulating-playstation-2-on-ios/"><u>Premier Emulator Titles Simulating PlayStation 2 on iOS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-pubg-startup-failures-a-detailed-tutorial-for-gamers-and-techies/"><u>Solving PUBG Startup Failures : A Detailed Tutorial for Gamers and Techies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-solving-astro-a40-microphone-issues-step-by-step-guide/"><u>Successfully Solving Astro A40 Microphone Issues - Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/winter-sports-photography-choosing-the-right-camera/"><u>Winter Sports Photography Choosing the Right Camera</u></a></li>
 </ul></div>
 

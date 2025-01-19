@@ -1,7 +1,7 @@
 ---
 title: WinUpdate Trouble? Here's How to Fix Error 0X80240017 for Good
-date: 2025-01-08T17:12:52.082Z
-updated: 2025-01-13T17:40:20.892Z
+date: 2025-01-18T19:01:39.391Z
+updated: 2025-01-19T16:03:04.922Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/6d08ef0c51b7d66c7e631fe3667e11cb568cec8b1
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -50,21 +46,17 @@ Here’s what you can do:
 2. Click**Troubleshoot** on the left. Click**Windows Update** \>**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
 3. Windows will start detecting problems, which will take several minutes. Once done, follow the on-screen instructions to complete the process.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dae7e3360.png)
 4. Restart your computer and try Windows Update again to see if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the Windows Update error persists, move on to the second method.
@@ -91,7 +83,7 @@ If the Windows Update error persists, move on to the second method.
 3. Wait for the commands to complete, and exit Command Prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Open Windows Update and see if it works properly.
@@ -115,10 +107,14 @@ If the Windows Update error persists, move on to the second method.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -133,6 +129,10 @@ sfc /scannow
 3. Once the process is 100% complete, exit Command Prompt and restart your computer.
 
  Try to update Windows again and see if it fixes your error 0x80240017\. Still no luck? There’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update available drivers
 
@@ -177,24 +177,24 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-peering-into-the-future-with-asuss-4k-uxga-mg28uq-screen-for-2024/"><u>[Updated] Peering Into the Future with ASUS's 4K UXGA MG28UQ Screen for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-great-digital-debate-meta-vs-omni/"><u>[Updated] The Great Digital Debate Meta Vs. Omni</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-convert-spoken-words-into-text-effortlessly-using-ms-word/"><u>2024 Approved Convert Spoken Words Into Text Effortlessly Using MS Word</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862722328-beat-the-competition-with-an-rtx-4060-enabled-msi-bravo-laptop-priced-below-1000/"><u>Beat the Competition with an RTX 4060-Enabled MSI Bravo Laptop - Priced Below $1,000!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/concern-is-rising-that-equities-have-become-and-too-expensive-to-be-worth-bunk-in-the-long-run-despite-recent-gains2/"><u>Concern Is Rising that Equities Have Become and Too Expensive to Be Worth Bunk in the Long Run, Despite Recent Gains.[^2]</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-repair-steps-to-resolve-detected-battery-issues/"><u>Effortless Repair Steps to Resolve Detected Battery Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-error-message-0x887a0006-in-minutes-a-comprehensive-guide/"><u>Fixing Error Message 0X887A0006 in Minutes - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-create-and-embed-interactive-flipbooks-with-flipbuilder-on-your-site/"><u>How to Create & Embed Interactive Flipbooks with FlipBuilder on Your Site</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-a-fatal-instruction-push-error-fix-0xc0000005-on-windows-systems/"><u>How to Overcome a Fatal Instruction Push Error - Fix 0xC0000005 on Windows Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-samsung-galaxy-a05s-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Samsung Galaxy A05s.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-a-malfunctioning-computer-keyboard-easily/"><u>How to Repair a Malfunctioning Computer Keyboard Easily</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-k70e-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-trouble-fixes-for-input-device-problems-at-startup/"><u>Keyboard Trouble? Fixes for Input Device Problems at Startup</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-audit-findings-on-sound-forges-integration-and-workflow-efficiency/"><u>New Audit Findings on Sound Forges Integration and Workflow Efficiency</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-typing-trouble-restoring-functionality-to-a-broken-dell-keyboard/"><u>Overcoming Typing Trouble: Restoring Functionality to a Broken Dell Keyboard</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/prime-image-safekeepers-online-for-2024/"><u>Prime Image Safekeepers Online for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/seamless-pairing-resolving-airpods-connection-problems-on-your-pc/"><u>Seamless Pairing: Resolving AirPods Connection Problems on Your PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-when-your-dell-computers-usb-port-stops-responding/"><u>The Ultimate Fix for When Your Dell Computer's USB Port Stops Responding</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/wi-fi-trouble-heres-how-you-can-turn-off-the-fix-wireless-capability-is-turned-off/"><u>Wi-Fi Trouble? Here's How You Can Turn Off the 'Fix Wireless Capability Is Turned Off'</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-digging-into-the-heart-of-recordcast-technology/"><u>[New] 2024 Approved Digging Into the Heart of RecordCast Technology</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-customizable-mcb-visuals-for-youtube-banners-for-2024/"><u>[New] Customizable MCB Visuals for YouTube Banners for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-easy-way-to-establish-collaborative-conversations-on-skype-regardless-of-your-operating-system/"><u>[New] Easy Way to Establish Collaborative Conversations on Skype, Regardless of Your Operating System</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-elevating-your-existence-on-the-web-expanding-your-youtube-following/"><u>[New] Elevating Your Existence on the Web Expanding Your Youtube Following</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-geforce-experience-unable-to-retrieve-settings/"><u>[SOLVED] GeForce Experience Unable to Retrieve Settings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-delving-into-the-world-of-video-grading-styles/"><u>[Updated] 2024 Approved Delving Into the World of Video Grading Styles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-audioascend-rising-over-dacast/"><u>2024 Approved AudioAscend Rising Over DaCast</u></a></li>
+<li><a href="https://network-issues.techidaily.com/armor-up-slowing-downloads/"><u>Armor Up! - Slowing Downloads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/backspace-button-malfunction-solutions-and-remedies-explored/"><u>Backspace Button Malfunction - Solutions and Remedies Explored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-restore-functionality-of-your-broken-dell-laptop-keys/"><u>Comprehensive Guide to Restore Functionality of Your Broken Dell Laptop Keys</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehhemic-approach-to-repairing-and-preventing-cod-black-ops-4-malfunctions/"><u>Comprehhemic Approach to Repairing and Preventing COD Black Ops 4 Malfunctions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-microsoft-wireless-display-adapter-up-and-running-on-windows-10-problem-solved/"><u>How to Get Your Microsoft Wireless Display Adapter Up and Running on Windows 10 (Problem Solved)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-the-there-was-an-issue-when-restoring-your-pc-error-in-windows-11/"><u>How to Solve the There Was an Issue When Restoring Your PC Error in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Itel P40+? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-fixing-steam-disk-error-write-failed-instantly/"><u>Mastering the Art of Fixing Steam 'Disk Error: Write Failed' Instantly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-steps-overcoming-initialization-errors-in-the-updated-renderer/"><u>Solution Steps: Overcoming Initialization Errors in the Updated Renderer</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-guide-to-converting-youtube-to-avi-videos-for-2024/"><u>The Ultimate Guide to Converting YouTube to AVI Videos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-functional-usb-ports-on-windows-11-a-step-by-step-guide/"><u>Troubleshooting Non-Functional USB Ports on Windows 11: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: Making Windows Hello Work with Your Unsupported Windows 10 Device"
-date: 2025-01-06T16:51:18.924Z
-updated: 2025-01-13T17:35:42.882Z
+date: 2025-01-12T16:24:31.739Z
+updated: 2025-01-19T18:39:57.801Z
 tags:
   - win11
   - win10
@@ -45,11 +45,15 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 1. Type **network**  in the search box from Start. Then click **Network status**  from the top. ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be292e88d6b9.jpg)
 2. Click **Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b201e6b5d28.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
@@ -63,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click **OK** .  
@@ -74,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click **OK** .  
@@ -82,18 +86,14 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Close the Windows Media Player window.
 9. Try the Cast to Device feature again to see if it succeeds.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your network card driver
 
@@ -109,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 3. Click the **Update** button next to all the flagged drivers to automatically download the correct version of this driver, then you can manually install it (you can do this with the **FREE** version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
@@ -138,16 +138,19 @@ thumbnail: https://thmb.techidaily.com/4c82c34834c5b2315d900c6d7156d299b4653506f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-everything-you-need-to-know-about-making-a-photomontage/"><u>[New] Everything You Need to Know About Making a PhotoMontage</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-average-incomes-in-the-podcasting-industry/"><u>[New] Navigating Average Incomes in the Podcasting Industry</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-from-beats-to-broadcast-a-compreesive-guide-to-editing-your-podcast/"><u>[Updated] 2024 Approved From Beats to Broadcast A Compreesive Guide to Editing Your Podcast</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-full-rotation-shoots-9-must-follow-rules/"><u>2024 Approved Mastering Full-Rotation Shoots 9 Must-Follow Rules</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/audio-issues-in-win-10-and-11-now-solved/"><u>Audio Issues in Win 10 & 11, Now Solved</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/dive-into-digital-green-magic-top-4-youtube-sources-for-no-cost-background-workshops-for-2024/"><u>Dive Into Digital Green Magic Top 4 YouTube Sources for No-Cost Background Workshops for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/get-your-laptops-touch-pad-up-and-running-again-tips-for-windows-1187-users/"><u>Get Your Laptop's Touch Pad Up & Running Again! Tips for Windows 11/8/7 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-enable-windows-hello-authentication-on-incompatible-devices-in-windows-11-a-comprehensive-guide/"><u>How to Enable Windows Hello Authentication on Incompatible Devices in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-it-more-important-to-upgrade-your-cpu-or-gpu-first/"><u>Is It More Important to Upgrade Your CPU or GPU First?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-issues-at-login-how-to-restore-functionality/"><u>Keyboard Issues at Login – How to Restore Functionality</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-solutions-for-missing-mfplatdll-errors/"><u>Troubleshooting: Solutions for Missing mfplat.dll Errors</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-transforming-ideas-into-visual-stories-on-facebook-reels-for-2024/"><u>[Updated] Transforming Ideas Into Visual Stories on Facebook Reels for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/a-comprehensive-dive-into-creating-inspiring-slow-mo-videos-on-ig-for-2024/"><u>A Comprehensive Dive Into Creating Inspiring Slow Mo Videos on IG for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/disabling-or-enabling-pip-mode-youtube-on-iphone-guide/"><u>Disabling or Enabling PIP Mode YouTube on iPhone Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/efficient-strategies-to-combat-increased-disk-space-and-cpu-usage-by-wsappx/"><u>Efficient Strategies to Combat Increased Disk Space and CPU Usage by WSAPPX</u></a></li>
+<li><a href="https://facebook.techidaily.com/fixing-the-most-widespread-facebook-issues-swiftly-and-easily/"><u>Fixing the Most Widespread Facebook Issues Swiftly and Easily</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-poco-c65-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Poco C65 Phone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/how-to-record-google-meet-on-iphone-and-android/"><u>How to Record Google Meet on iPhone and Android?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-efficient-resource-usage-control-your-desktop-window-managers-gpu-demands-on-windows-1011/"><u>Mastering Efficient Resource Usage: Control Your Desktop Window Manager's GPU Demands on Windows 10/11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcome-print-errors-windows-10-solutions/"><u>Overcome Print Errors: Windows 10 Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-resolving-steam-cant-write-to-disk-issues/"><u>Quick Solutions: Resolving 'Steam Can't Write to Disk' Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-access-denied-why-you-can-now-enter/"><u>Resolved: Access Denied – Why You Can Now Enter</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-unregistered-class-errors-on-your-windows-10-pc-solutions-inside/"><u>Resolving Unregistered Class Errors on Your Windows 10 PC - Solutions Inside!</u></a></li>
+<li><a href="https://fox-where.techidaily.com/solving-your-print-problems-how-to-fix-unpredictable-colors-using-yl-software-solutions/"><u>Solving Your Print Problems: How to Fix Unpredictable Colors Using YL Software Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-astro-a40-microphone-issues/"><u>Troubleshooting Guide: Fixing Astro A40 Microphone Issues</u></a></li>
 </ul></div>
 

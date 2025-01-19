@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Locating and Installing Critical Media Drivers for Seamless Operation"
-date: 2025-01-10T16:48:53.310Z
-updated: 2025-01-13T16:09:56.167Z
+date: 2025-01-14T18:12:39.322Z
+updated: 2025-01-19T18:51:00.194Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ the picture was taken by: Article\_86
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## End the process
 
  Yes, clicking the “**X** ” button to close the page is the first reaction for most people. But the page like this scam uses our reaction to get permission to infect our devices. So they could let the page pop up again.  
@@ -40,7 +44,7 @@ the picture was taken by: Article\_86
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -54,7 +58,7 @@ the picture was taken by: Article\_86
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Get an ad-block extension
@@ -62,10 +66,6 @@ the picture was taken by: Article\_86
  Because this scam is a fraud page, technically it won’t do severe harm to your computer. The working mechanism of this scam is like an ad. Screening fraudulent users to defraud money. So an ad-block extension can help.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run a virus scan
 
@@ -86,11 +86,11 @@ the picture was taken by: Article\_86
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Relaunch Chrome to take effect.
@@ -105,10 +105,6 @@ the picture was taken by: Article\_86
 2. Hit the three dots button in the upper right corner, then click **History** \> **History** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
@@ -126,6 +122,10 @@ the picture was taken by: Article\_86
 2. Hit the three dots button in the upper right corner, then click **Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/5.10-2.jpg)
 3. Scroll down to the bottom and click **Advanced** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
@@ -171,17 +171,18 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-10-best-lightroom-alternatives-free-and-paid/"><u>2024 Approved 10 Best Lightroom Alternatives [Free & Paid]</u></a></li>
-<li><a href="https://extra-information.techidaily.com/hearth-warming-hear-from-happy-customers/"><u>Hearth-Warming Hear From Happy Customers</u></a></li>
-<li><a href="https://techidaily.com/how-to-check-crash-logs-on-windows/"><u>How to Check Crash Logs on Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-xlsm-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xlsm document with Digital Signature - (Tutorial)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-repair-steam-download-errors-for-seamless-gaming-experience/"><u>How to Successfully Repair Steam Download Errors for Seamless Gaming Experience</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-x6-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco X6 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/investing-successfully-with-a-makeup-channel-for-2024/"><u>Investing Successfully with a Makeup Channel for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/step-by-step-crypto-investment-journey-with-yl-systems-a-comprehveled-approach-for-new-traders/"><u>Step-by-Step Crypto Investment Journey with YL Systems – A Comprehveled Approach for New Traders</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-handling-service-delays-and-avoiding-error-1053/"><u>Troubleshooting Guide: Handling Service Delays and Avoiding Error 1053</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unstuck-with-screen-mirroring-on-windows-10-fix-the-device-connection-issue-here/"><u>Unstuck with Screen Mirroring on Windows 10? Fix the Device Connection Issue Here</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-tclass-not-registering-heres-your-solution/"><u>Windows tClass Not Registering? Here's Your Solution</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-ultimate-guide-to-choosing-between-gopro-and-yi/"><u>[New] 2024 Approved The Ultimate Guide to Choosing Between GoPro and Yi</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-legality-of-recording-on-youtube-platform-for-2024/"><u>[Updated] Legality of Recording on YouTube Platform for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-skyrocket-engagement-with-youtubes-powerful-featured-channels-strategy-for-2024/"><u>[Updated] Skyrocket Engagement with Youtube’s Powerful Featured Channels Strategy for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-blueprint-for-channel-empowerment-via-studio-mastery-for-2024/"><u>[Updated] The Blueprint for Channel Empowerment via Studio Mastery for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-instructions-turning-on-your-devices-bluetooth-feature-on-windows/"><u>Comprehensive Instructions: Turning on Your Device's Bluetooth Feature on Windows</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/fixing-the-issue-when-mass-effect-legendary-edition-wont-start/"><u>Fixing the Issue When Mass Effect Legendary Edition Won't Start</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-unexpected-system-shutdowns-during-pc-gaming-on-windows-versions/"><u>Fixing Unexpected System Shutdowns During PC Gaming on Windows Versions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-asus-rog-phone-8-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-cell-replication-a-comprehensive-tutorial-on-cloning-formulas-in-excel/"><u>Mastering Cell Replication: A Comprehensive Tutorial on Cloning Formulas in Excel</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-adobe-premiere-pros-secret-weapons-top-15-plugins-you-need-free-and-paid-for-2024/"><u>New Adobe Premiere Pros Secret Weapons Top 15 Plugins You Need (Free & Paid) for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/revolutionize-your-videography-workflow-recordingediting-on-adobe-connect-for-2024/"><u>Revolutionize Your Videography Workflow Recording/Editing on Adobe Connect for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-complete-repaired-keyboard-typing-errors/"><u>Troubleshooting Complete: Repaired Keyboard Typing Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-a-non-responsive-system-check-utility/"><u>Troubleshooting Steps for a Non-Responsive System Check Utility</u></a></li>
 </ul></div>
 

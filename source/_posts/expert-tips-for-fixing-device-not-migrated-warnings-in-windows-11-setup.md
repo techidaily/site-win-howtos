@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Fixing 'Device Not Migrated' Warnings in Windows 11 Setup
-date: 2024-08-28T00:29:10.895Z
-updated: 2024-08-29T00:29:10.895Z
+date: 2025-01-13T20:18:59.257Z
+updated: 2025-01-19T17:13:41.107Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Your**Windows Store** has been acting up recently.
 
  Looks like there’s lots of work to do, but don’t despair just yet. In this article, we’ll offer you 3 quick and easy fixes to help you solve this nasty problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for Windows Store cache may be damaged
 
  Before you try these fixes, please make sure your computer’s date, time and time zone are set correctly.
@@ -35,11 +39,19 @@ Your**Windows Store** has been acting up recently.
 
  1) On your keyboard, press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type**R** at the same time, then type**wsreset.exe** and press**Enter** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
 
 2) Wait until the whole Windows store cache reset process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-128.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Once completed, Windows Store will pop open.
 
@@ -51,6 +63,10 @@ Your**Windows Store** has been acting up recently.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Create a new Windows Store cache folder
 
  Sometimes the error occurs just because your Windows Store is unable to read the error-ridden cache folder. If that’s true, we’ll need to**create a new Windows** **Store cache folder** .
@@ -59,17 +75,10 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae96c7d1dc08.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Copy & paste **windowsstore** into the search box and double-click on **Microsoft.WindowsStore\_8wekyb3d8bbwe** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aebb40074eaa.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
  3) Double-click on **LocalState** , see if there’s a folder named**cache** in it:
 
 * If yes, rename the folder**cache.old** . Create a new folder and name it**cache** . Close the window.
@@ -79,9 +88,6 @@ Your**Windows Store** has been acting up recently.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Reinstall Microsoft Store
 
  If the problem still persists, then you might have to**reinstall Windows Store** to give it a clean slate.
@@ -92,9 +98,6 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae979accdd62.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Copy & paste **Microsoft store** into the box. Then click **Microsoft store** \->**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aeaacc5c8df4.jpg)
@@ -103,16 +106,14 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aeace26d970e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  4) Restart your computer and check if the problem has been sorted out.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Want us to fix the problem for you?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Free-Tech-Support.jpg)
@@ -127,8 +128,6 @@ Your**Windows Store** has been acting up recently.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +135,24 @@ Your**Windows Store** has been acting up recently.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-find-youtube-collaboration-partners/"><u>[New] How to Find YouTube Collaboration Partners?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/natch-free-media-treasures-from-top-4-online-creators-for-2024/"><u>[New] Snatch Free Media Treasures From Top 4 Online Creators for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-unlocking-the-secrets-of-zoom-communication-practical-advice-for-successful-meetings-for-2024/"><u>[New] Unlocking the Secrets of Zoom Communication Practical Advice for Successful Meetings for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-feature-update-to-1903-fails/"><u>[SOLVED] Windows Feature Update to 1903 Fails</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-select-5-high-quality-audio-headphones/"><u>[Updated] 2024 Approved Select 5 High-Quality Audio Headphones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-resolving-the-windows-11-update-error-code-0x800f0-problem-solving-crafting-an-argumentative-essay-a-step-by-step-guide-to-analytical-w97/"><u>Effective Strategies: Resolving the Windows 11 Update Error Code 0X800f0 [Problem-Solving]: Crafting an Argumentative Essay - A Step-by-Step Guide to Analytical Writing.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-repairing-and-optimizing-io-device-performance/"><u>Expert Advice on Repairing and Optimizing I/O Device Performance</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-oppo-a79-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Oppo A79 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-honor-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Honor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-visual-impact-understanding-the-power-of-luts/"><u>In 2024, Unlock Visual Impact Understanding the Power of LUTs</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/master-your-passwords-in-the-cloud-switching-from-lastpass-to-icloud-on-windows-devices/"><u>Master Your Passwords in the Cloud: Switching From LastPass to iCloud on Windows Devices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ize-visual-impact-on-youtube-adding-watermarks-and-logo-to-media-content/"><u>Maximize Visual Impact on YouTube Adding Watermarks & Logo to Media Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-your-pubg-gameplay-avoid-incomplete-buildings-issue/"><u>Optimizing Your PUBG Gameplay: Avoid Incomplete Buildings Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-windows-bad-graphics-drivers-causing-frequent-minecraft-game-crashes/"><u>Solve Window's Bad Graphics Drivers Causing Frequent Minecraft Game Crashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-when-your-dell-wireless-keyboard-fails-to-function/"><u>Step-by-Step Solution: When Your Dell Wireless Keyboard Fails to Function</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-resolved-error-0xc1900208-in-your-windows-10-updates/"><u>Successfully Resolved: Error 0xC1900208 in Your Windows 10 Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-class-registration-issue-easy-fixes-and-solutions/"><u>Windows 10 Class Registration Issue: Easy Fixes and Solutions</u></a></li>
+</ul></div>
 

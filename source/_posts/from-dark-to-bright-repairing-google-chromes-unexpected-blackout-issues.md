@@ -1,7 +1,7 @@
 ---
 title: "From Dark to Bright: Repairing Google Chrome's Unexpected Blackout Issues"
-date: 2024-08-28T00:29:50.806Z
-updated: 2024-08-29T00:29:50.806Z
+date: 2025-01-13T16:50:19.429Z
+updated: 2025-01-19T17:39:53.780Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-19.png)
 
  Vivid visual and auditory experiences play important roles in the joy of gameplay. A muted game seems far less immersive – however excellent the graphics rendering is – as if it has lost part of its soul. If you’re one of the**Steam users** struggling with**no-sound issues** in one or more games, you should check out this post and see whether it can get you out of trouble.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix Steam games have no sound
 
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Steam & your game as administrator
 
 You can run Steam as administrator either temporarily or permanently:
@@ -52,11 +60,19 @@ You can run Steam as administrator either temporarily or permanently:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-20.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Run as administrator permanently**
 
  1) Locate Steam in your computer, right-click on its icon, and then select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click the**Compatibility** tab. Make sure you check the**Run this program as an administrator** box, and then click**Apply > OK** to save the change.
 
@@ -69,6 +85,10 @@ You can run Steam as administrator either temporarily or permanently:
  1) Log in Steam. Then click**LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-23.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Right-click on the problematic game. Then click**Properties** .
 
@@ -84,6 +104,10 @@ You can run Steam as administrator either temporarily or permanently:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-28.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to run the game as administrator permanently, please complete the following procedure:
 
  1) After locating the game executable, right-click on the file and select**Properties** .
@@ -93,6 +117,10 @@ You can run Steam as administrator either temporarily or permanently:
  2) Go to the**Compatibility** tab. Make sure you check the**Run this program as an administrator** box, and then click**Apply > OK** to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) The next time you launch the game, it’ll automatically run under administrative privileges.
 
@@ -108,16 +136,10 @@ You can run Steam as administrator either temporarily or permanently:
 
 ![This image has an empty alt attribute; its file name is image-23.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-23.png)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Right-click on the problematic game. Then click**Properties** .
 
 ![This image has an empty alt attribute; its file name is image-24.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-24.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  3) Go to the**LOCAL FILES** tab and select**VERIFY INTEGRITY OF GAME FILES…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-29.png)
@@ -130,16 +152,10 @@ You can run Steam as administrator either temporarily or permanently:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-31.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Now it’s time to launch the game and check whether you can hear audio again. If not, please proceed to the next method.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Uninstall conflicting software
 
  As reported by many players, the triggers for their no-sound issue in Steam games turn out to be conflicting software such as Sonic Studio 3, Sonic Radar 3, Nahimic 2, Alienware Sound Center, or MSI Audio. If you happen to be using these apps, the only meaningful course is to uninstall them.
@@ -155,6 +171,10 @@ You can run Steam as administrator either temporarily or permanently:
  3) Right-click on the conflicting application and click**Uninstall** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-34.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Follow the onscreen instructions to uninstall the application.
 
@@ -188,9 +208,6 @@ You can run Steam as administrator either temporarily or permanently:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### Fix 5: Roll back Windows 10 update
 
  If you encounter the no-sound problem shortly after you perform a Windows update, then you should consider rolling it back. Depending on different scenarios, you can take different actions accordingly:
@@ -208,22 +225,17 @@ You can run Steam as administrator either temporarily or permanently:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-39.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click**View update history** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-40.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  3) Click**Recovery options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-41.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  4) Hit the**Get started** button right below**Go back to the previous version of Windows 10** . Then follow the onscreen instructions to complete the whole process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-44.png)
@@ -236,13 +248,14 @@ You can run Steam as administrator either temporarily or permanently:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-45.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-click on the unwanted update and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-46.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 3) Follow the onscreen instructions to complete this process.
 
  Now that you’ve uninstalled the latest update, you should check if the no-audio problem still persists. If so, move on to Way 3.
@@ -255,9 +268,6 @@ You can run Steam as administrator either temporarily or permanently:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-47.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) Follow the onscreen instructions to complete the whole process.
 
 3) When it is complete, you need to reinstall Steam as well as your games to check whether the no-sound issue still remains.
@@ -278,8 +288,6 @@ You can run Steam as administrator either temporarily or permanently:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -287,4 +295,22 @@ You can run Steam as administrator either temporarily or permanently:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-dial-in-to-youtube-chat-no-huge-follower-requirement/"><u>[New] 2024 Approved Dial in to YouTube Chat, No Huge Follower Requirement</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-path-to-flawless-film-recording-device-agnostic-guide/"><u>[New] In 2024, The Path to Flawless Film Recording Device Agnostic Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-snap-google-meet-sessions-on-ios-and-android-devices-for-2024/"><u>[New] Snap Google Meet Sessions on iOS & Android Devices for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-guide-to-attractive-unboxing-videos-on-ig/"><u>[New] The Ultimate Guide to Attractive Unboxing Videos on IG</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206909000-solved-wmi-provider-host-high-cpu-usage-on-windows-1111-quickly-and-easily/"><u>[Solved] WMI Provider Host: High CPU Usage on Windows 11/11 | Quickly & Easily</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-7-best-monitors-for-photo-editing-worth-trying-top-picks-2024/"><u>[Updated] 7 Best Monitors for Photo Editing Worth Trying [Top Picks 2024]</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-rapid-diy-techniques-that-every-indie-filmmaker-should-try/"><u>2024 Approved Rapid DIY Techniques That Every Indie Filmmaker Should Try</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/audio-glitch-solutions-eliminating-crackling-sounds-from-computers-speakers-under-windows-os/"><u>Audio Glitch Solutions: Eliminating Crackling Sounds From Computers' Speakers Under Windows OS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-x-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone X</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210759329-how-to-fix-oddworld-soulstorm-pc-game-crashes-solved/"><u>How to Fix Oddworld: Soulstorm PC Game Crashes - Solved!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-logitechs-unresponsive-vertical-scroll-on-your-device/"><u>How to Repair Logitech's Unresponsive Vertical Scroll on Your Device</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-smile-slam-the-best-comedy-moments-on-social-media/"><u>In 2024, Smile Slam The Best Comedy Moments on Social Media</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigate-through-the-0xc000012f-dilemma-quick-fixes-for-a-smooth-windows-experience/"><u>Navigate Through the 0xC000012F Dilemma: Quick Fixes for a Smooth Windows Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-non-responsive-right-clicks-on-a-windows-10-pc/"><u>Step-by-Step Solution for Non-Responsive Right Clicks on a Windows 10 PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-for-fixing-non-recognized-usb-devices-and-failed-resets-on-windows-1n/"><u>Step-by-Step Troubleshooting for Fixing Non-Recognized USB Devices and Failed Resets on Windows 1N</u></a></li>
+</ul></div>
 

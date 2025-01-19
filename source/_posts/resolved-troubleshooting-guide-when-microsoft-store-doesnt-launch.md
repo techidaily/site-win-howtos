@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Guide When Microsoft Store Doesn't Launch"
-date: 2025-01-07T16:23:36.281Z
-updated: 2025-01-13T17:39:58.201Z
+date: 2025-01-16T18:06:37.829Z
+updated: 2025-01-19T19:23:19.346Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
 4. [**Install the latest patch**](#F4)
 5. **[Repair corrupted system files](https://coinrule.sjv.io/rqzonv)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your device drivers
 
  Updating drivers should always be your go-to option when something goes wrong with your computer or system. Whether you choose to update the device drivers manually, using Windows Update, or you use a trusted third-party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -51,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
  2) Run**Driver Easy** and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a**7-day free trial** which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged until the trial ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/DE-update-all-AMD.jpg)
 
@@ -63,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/65e89fa5592e17a634309edf6fa4b1c7a4776f7c9
  5) Open Fortnite and see if it launches properly. If yes, then congrats! But if it still won’t launch, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Verify your Fortnite files
 
@@ -73,14 +69,19 @@ Here’s how to do it:
 1. Open Epic Games Launcher, click Library. Then click**the cog icon** in**Fortnite** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c11d5c926c9a.jpg)
 2. Click**Verify** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c11d917b99e3.jpg)
 3. As soon as the verification is ready, the**SETTINGS** option will switch to **LAUNCH** . Click**LAUNCH** to see if Fortnite opens smoothly.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 3: Repair EasyAntiCheat
 
@@ -91,13 +92,13 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c11ffe582d5b.jpg)
 3. Click**Yes** once asked to confirm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select**Fortnite** from the drop-down menu and click**Repair Service** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1200695db42.jpg)
 5. Click**Finish** once the uninstall and the install processes finish.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Re-launch Fortnite and hopefully the Fortnite not launching problem has been solved.
 
@@ -151,7 +152,7 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -186,22 +187,14 @@ Here’s how to use Fortect to repair system files on your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-the-ultimate-zeo-startup-showcase-for-2024/"><u>[New] The Ultimate Zeo-Startup Showcase for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-editing-made-easy-youtube-editiontop-10-tips-for-newbies/"><u>[Updated] 2024 Approved Editing Made Easy YouTube Edition—Top 10 Tips for Newbies</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-reverse-a-youtube-playlist/"><u>[Updated] How to Reverse a YouTube Playlist</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-should-itop-screen-recorder-be-a-staple-in-your-kit-for-2024/"><u>[Updated] Should ITop Screen Recorder Be a Staple in Your Kit for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-fresh-set-of-interview-points-for-captivated-ears/"><u>2024 Approved Fresh Set of Interview Points for Captivated Ears</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-vivo-y100-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Vivo Y100 Phone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/apex-legends-cheating-problem-solved-how-to-fix-the-easy-anti-cheat-error/"><u>Apex Legends Cheating Problem Solved: How to Fix the Easy Anti-Cheat Error</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/creative-sound-blaster-zxr-2013-top-gaming-headset-review/"><u>Creative Sound Blaster ZXR 2013 - Top Gaming Headset Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210079081-dell-usb-failure-discover-effective-solutions-and-get-it-working-again/"><u>Dell USB Failure? Discover Effective Solutions and Get It Working Again</u></a></li>
-<li><a href="https://fox-access.techidaily.com/elevate-your-flying-game-with-tailored-drone-propellers/"><u>Elevate Your Flying Game with Tailored Drone Propellers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-silence-on-your-acer-the-ultimate-guide-to-restoring-laptop-audio/"><u>Fixing Silence on Your Acer: The Ultimate Guide to Restoring Laptop Audio</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-why-is-my-keyboards-backspace-function-unresponsive/"><u>Fixing the Issue: Why Is My Keyboard's Backspace Function Unresponsive?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-lenovo-fingerprint-reader-not-working-easily/"><u>How To Fix Lenovo Fingerprint Reader Not Working Easily</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-system-event-notification-service-connection-error-on-your-pc/"><u>How to Overcome 'System Event Notification Service Connection Error' On Your PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-t2x-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo T2x 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/speeding-up-the-shutdown-process-in-windows-10-expert-tips/"><u>Speeding Up the Shutdown Process in Windows 10: Expert Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-excessive-disk-use-from-microsofts-telemetry-on-windows-11-a-comprehensive-guide/"><u>Troubleshooting Excessive Disk Use From Microsoft's Telemetry on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-selecting-the-right-flight-stabilizer-drones-edition/"><u>[New] Selecting the Right Flight Stabilizer Drones Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-exploring-the-capabilities-of-screenflow-on-mac-devices/"><u>[Updated] 2024 Approved Exploring the Capabilities of ScreenFlow on Mac Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-one-stop-guide-to-simplified-podcast-live-broadcasting/"><u>2024 Approved The One Stop Guide to Simplified Podcast Live Broadcasting</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-fixing-an-unresponsive-windows-built-in-webcam/"><u>Comprehensive Guide to Fixing an Unresponsive Windows Built-In Webcam</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-tutorial-how-to-change-or-erase-your-pc-password-in-windows-10/"><u>Easy Tutorial: How To Change or Erase Your PC Password in Windows 10</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210609519-9781910231265-everyday-astrology-for-a-better-life/"><u>Everyday Astrology for a Better Life | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-high-cpu-usage-by-svchostexe-on-your-windows-10-system-effectively/"><u>Resolve High CPU Usage by svchost.exe on Your Windows 10 System Effectively</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-not-charging-despite-being-connected-your-ultimate-guide-for-windows-surfaces/"><u>Resolving 'Not Charging Despite Being Connected', Your Ultimate Guide for Windows Surfaces</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-puzzle-top-8-tactics-to-overcome-windows-11s-update-error-0x800f0922/"><u>Solving the Puzzle: Top 8 Tactics to Overcome Windows 11'S Update Error 0X800F0922</u></a></li>
 </ul></div>
 

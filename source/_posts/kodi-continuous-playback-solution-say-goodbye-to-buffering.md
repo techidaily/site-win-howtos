@@ -1,7 +1,7 @@
 ---
 title: Kodi Continuous Playback Solution - Say Goodbye to Buffering
-date: 2024-08-28T00:26:44.279Z
-updated: 2024-08-29T00:26:44.279Z
+date: 2025-01-16T17:24:13.697Z
+updated: 2025-01-19T16:09:02.256Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ Quick Fix:**Install & update drivers automatically**
 2. Click**Internet Tools** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5271.jpg)
 3. Click**Speed Tester** and wait for the testing result.![](https://images.drivereasy.com/wp-content/uploads/2019/05/5272.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Usually, a large, HD content will require a high speed. If the problem is due to low internet speed, you can try[Fix 1](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -69,8 +73,9 @@ Quick Fix:**Install & update drivers automatically**
 3. Connect to a server in a chosen location.![](https://images.drivereasy.com/wp-content/uploads/2019/05/nord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Coupon tip** : Get a **[NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/)**  before you buy it!
 
 ### Fix 2: Adjust video cache size with One nation
@@ -79,20 +84,19 @@ Quick Fix:**Install & update drivers automatically**
 
 1. Select Add-ons in the Kodi home screen and click**One Nation Porta** l.![](https://images.drivereasy.com/wp-content/uploads/2019/05/527-1.jpg)
 2. Click**Maintenance** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click System Tweaks/Fixes.![](https://images.drivereasy.com/wp-content/uploads/2019/05/5273.jpg)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click**Quick Configure AdvancedSettings.xml** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5274.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 5. Adjust the video cache size and then click**Write file** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5275.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Restart Kodi and check the buffering problem is still there or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Clear Kodi cache with One nation
 
@@ -100,14 +104,18 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 1. Select Add-ons in the Kodi home screen and click**One Nation Portal** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/j5-2.jpg)
 2. Click**Maintenance** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Click**Cleaning Tools** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/3-4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. Choose**Clear Cache** . Or choose**Total Clean Up** , which also helps to play videos smoothly in Kodi.![](https://images.drivereasy.com/wp-content/uploads/2019/05/4-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Follow the on-screen instructions to finish the process.
 6. Restart Kodi and check whether the buffering issue is still here or not.
 
@@ -121,8 +129,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +136,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-incorporate-soundscape-into-visual-discussions/"><u>[New] Incorporate Soundscape Into Visual Discussions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-mastering-mac-preview-a-compreranary-reference-guide/"><u>[New] Mastering Mac Preview A Compreranary Reference Guide</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/deutsche-post-dhl-boosts-operational-efficiency-by-70-through-rpa-and-abbyy-idp-implementation/"><u>Deutsche Post DHL Boosts Operational Efficiency by 70% Through RPA and ABBYY IDP Implementation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-resolving-issues-with-a-non-working-camera-on-lenovo-devices/"><u>Diagnosing and Resolving Issues with a Non-Working Camera on Lenovo Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-digital-deals-on-macx-gear-conveniently-shop-from-the-best-online-tech-store/"><u>Discover Digital Deals on MacX Gear – Conveniently Shop From the Best Online Tech Store!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-chatgpt-manage-length-constraints-on-answers/"><u>How Does ChatGPT Manage Length Constraints on Answers?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-and-enable-the-webcam-on-your-lenovo-notebook-easily/"><u>How to Repair and Enable the Webcam on Your Lenovo Notebook Easily</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-securing-quality-streams-the-best-of-the-best-18-webcams/"><u>In 2024, Securing Quality Streams The Best of the Best 18 Webcams</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/incorporate-branding-if-relevant-if-brand-recognition-is-important-eg-a-well-known-tech-blog-consider-including-it-subtly-within-the-title-as-long-as-it-doe90/"><u>Incorporate Branding if Relevant: If Brand Recognition Is Important (E.g., a Well-Known Tech Blog), Consider Including It Subtly Within the Title, as Long as It Doesn't Detract From the Primary Keywords or Message</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/lg-stylo-6-phone-evaluation-impressive-design-with-comfortable-stylus/"><u>LG Stylo 6 Phone Evaluation - Impressive Design with Comfortable Stylus</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-matters-choosing-best-stocks-yts-guide-for-2024/"><u>Money Matters Choosing Best Stocks YTs Guide for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-comprehensive-guide-to-correcting-the-d3dxtk9dll-not-found-issue/"><u>Resolved: Comprehensive Guide to Correcting the d3dxtk9.dll Not Found Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-entry-point-not-found-error-on-windows/"><u>Resolved: How to Fix 'Entry Point Not Found' Error on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/speeding-up-shutdown-process-on-windows-10-troubleshooting-steps-provided/"><u>Speeding Up Shutdown Process on Windows 10 - Troubleshooting Steps Provided</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transformez-vos-fichiers-amv-en-mp4-gratuitement-sur-internet-le-service-de-conversion-rapide-de-movavi/"><u>Transformez Vos Fichiers AMV en MP4 Gratuitement Sur Internet - Le Service De Conversion Rapide De Movavi</u></a></li>
+</ul></div>
 
